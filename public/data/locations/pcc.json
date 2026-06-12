@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-06-11T12:29:37.337Z",
-  "sourceHash": "6c1cad9d9bcfe7a1439782c87b095bd6c88d23b34b8370edbd0d4cd9185ec5ae",
+  "updatedAt": "2026-06-12T16:53:05.402Z",
+  "sourceHash": "038f3ccb07b0aa4998ac79f4ef92de72a3427f5bc335427bab404145395fe260",
   "count": 31,
   "items": [
     {
@@ -33,7 +33,7 @@
       "dimanche": "11h–17h"
     },
     {
-      "slug": "atelier-potter",
+      "slug": "atelier-maison-potter",
       "matchKey": "atelier-maison-potter",
       "title": "Atelier Maison Potter",
       "zone": "Carouge",
@@ -158,7 +158,7 @@
       "dimanche": "11h–17h"
     },
     {
-      "slug": "lantre-peaux",
+      "slug": "l-antre-peaux",
       "matchKey": "l-antre-peaux",
       "title": "L’Antre-Peaux",
       "zone": "Carouge",
@@ -333,7 +333,7 @@
       "dimanche": "11h–17h"
     },
     {
-      "slug": "dukat",
+      "slug": "espace-dukat",
       "matchKey": "espace-dukat",
       "title": "Espace Dukat",
       "zone": "Carouge",
@@ -390,7 +390,7 @@
       "address1": "Rue Saint-Victor 3",
       "address2": "1227 Carouge",
       "address3": "Suisse",
-      "mapUrl": "",
+      "mapUrl": "https://maps.app.goo.gl/J1j6qEStTcCyzisK9",
       "latitude": "46.18630",
       "longitude": "6.14300",
       "phone": "+41 22 900 44 69",
@@ -458,7 +458,7 @@
       "dimanche": "11h–17h"
     },
     {
-      "slug": "lechoppe-des-arts",
+      "slug": "l-echoppe-des-arts",
       "matchKey": "l-echoppe-des-arts",
       "title": "L’Échoppe des Arts",
       "zone": "Carouge",
@@ -490,12 +490,12 @@
       "address1": "Place du Marché 15",
       "address2": "1227 Carouge",
       "address3": "Suisse",
-      "mapUrl": "",
+      "mapUrl": "https://maps.app.goo.gl/8hicqXv1GHFdDHCVA",
       "latitude": "46.18780",
       "longitude": "6.14410",
       "phone": "+41 22 344 44 00",
       "email": "",
-      "website": "",
+      "website": "www.poesis.digitalone.site",
       "instagram": "poesis_geneve",
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/748a911a-c6cf-4f4d-a474-79f4e0458d45/PCC_Poesis.webp",
       "imagePosition": "",
@@ -758,7 +758,7 @@
       "dimanche": "-"
     },
     {
-      "slug": "olizane",
+      "slug": "espace-olizane",
       "matchKey": "espace-olizane",
       "title": "Espace Olizane",
       "zone": "Genève",
