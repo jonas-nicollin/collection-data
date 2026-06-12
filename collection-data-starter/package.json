@@ -1,8 +1,0 @@
-{
-  "name": "collection-data",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build:locations": "node scripts/build-location-json.mjs sources/pcc-locations.config.json"
-  }
-}
