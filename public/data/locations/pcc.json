@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-06-12T16:53:05.402Z",
-  "sourceHash": "038f3ccb07b0aa4998ac79f4ef92de72a3427f5bc335427bab404145395fe260",
+  "updatedAt": "2026-06-15T07:31:39.740Z",
+  "sourceHash": "c5a6cf1417d78d4ec7321ceb560b7fad94062e1add93c6e11aebd95f5c2ae660",
   "count": 31,
   "items": [
     {
@@ -58,9 +58,9 @@
       "dimanche": "11h–17h"
     },
     {
-      "slug": "ibis-style",
-      "matchKey": "ibis-style",
-      "title": "IBIS style",
+      "slug": "ibis-styles",
+      "matchKey": "ibis-styles",
+      "title": "Ibis Styles",
       "zone": "Carouge",
       "address1": "Route de Saint-Julien 3",
       "address2": "1227 Carouge",
