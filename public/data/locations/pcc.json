@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-06-15T07:31:39.740Z",
-  "sourceHash": "c5a6cf1417d78d4ec7321ceb560b7fad94062e1add93c6e11aebd95f5c2ae660",
+  "updatedAt": "2026-06-15T13:34:07.236Z",
+  "sourceHash": "1b89a330f203f83ec653f7b5181d56f0ab67f0c3a52616501bb4d380fad9fa4b",
   "count": 31,
   "items": [
     {
@@ -435,7 +435,7 @@
     {
       "slug": "galerie-h",
       "matchKey": "galerie-h",
-      "title": "Galerie h",
+      "title": "Galerie H",
       "zone": "Carouge",
       "address1": "Rue Saint-Victor 21",
       "address2": "1227 Carouge",
