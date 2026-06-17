@@ -115,26 +115,38 @@ function cookieHeader(cookies) {
 }
 
 async function fetchJson(url, cookies) {
-  const headers = {
-    accept: 'application/json',
-    'accept-language': 'fr-CH,fr;q=0.9,en;q=0.8',
-    'user-agent': 'CollectionDataSync/1.0 (+https://github.com/jonas-nicollin/collection-data)'
-  };
+  for (let attempt = 0; attempt < 2; attempt += 1) {
+    const headers = {
+      accept: 'application/json,text/html;q=0.9,*/*;q=0.8',
+      'accept-language': 'fr-CH,fr;q=0.9,en;q=0.8',
+      'cache-control': 'no-cache',
+      pragma: 'no-cache',
+      referer: new URL(url).origin,
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36'
+    };
 
-  const cookie = cookieHeader(cookies);
-  if (cookie) headers.cookie = cookie;
+    const cookie = cookieHeader(cookies);
+    if (cookie) headers.cookie = cookie;
 
-  const res = await fetch(url, {
-    headers
-  });
+    const res = await fetch(url, {
+      headers,
+      redirect: 'follow'
+    });
 
-  mergeSetCookie(res.headers.get('set-cookie'), cookies);
+    mergeSetCookie(res.headers.get('set-cookie'), cookies);
 
-  if (!res.ok) {
+    if (res.ok) {
+      return res.json();
+    }
+
+    if ((res.status === 401 || res.status === 403) && attempt === 0 && cookies.size) {
+      continue;
+    }
+
     throw new Error(`HTTP ${res.status} while fetching ${url}`);
   }
 
-  return res.json();
+  throw new Error(`Unable to fetch ${url}`);
 }
 
 async function fetchAllCollectionItems(collection) {
