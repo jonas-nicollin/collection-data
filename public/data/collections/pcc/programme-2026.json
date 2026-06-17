@@ -1,0 +1,2115 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "pcc",
+  "id": "programme-2026",
+  "path": "/programme-2026",
+  "sourceUrl": "https://www.pcc.jonasnicollin.ch/programme-2026?format=json",
+  "updatedAt": "2026-06-17T11:11:16.823Z",
+  "sourceHash": "41e785271f5726efb331ee457011c3a23b76e83c2e5e97ec0575ebe5e9d77668",
+  "count": 52,
+  "pages": 3,
+  "items": [
+    {
+      "id": "6a2432f4c107b26a3369d084",
+      "title": "Atelier modelage parents/enfants «La sieste du géant»",
+      "fullUrl": "/programme-2026/atelier-modelage-parents-enfants-la-sieste-du-geant",
+      "urlId": "atelier-modelage-parents-enfants-la-sieste-du-geant",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Atelier"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Atelier Maison Potter",
+        "Date: 2026-09-27T13:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790506816102,
+      "addedOn": 1790506816102,
+      "updatedOn": 1780758054827
+    },
+    {
+      "id": "6a2434eed49402018d2a5df4",
+      "title": "Coffee and art · Visite commentée de l’exposition de Dita Cossio",
+      "fullUrl": "/programme-2026/coffee-and-art-visite-commentee-de-l-exposition-de-dita-cossio",
+      "urlId": "coffee-and-art-visite-commentee-de-l-exposition-de-dita-cossio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777984751594-56ORNB39KET6NFR6JGKI/PCC_2026-023-Aubert_Jansem_Galerie-Dita_Cossio-004.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite commentée"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Artiste: Dita Cossio",
+        "Date: 2026-09-27T11:30",
+        "Lieu: Aubert Jansem Genève"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790501442273,
+      "addedOn": 1790501442273,
+      "updatedOn": 1781593912348
+    },
+    {
+      "id": "6a242c2a3a3f2306e007056c",
+      "title": "Masterclass avec XXXX",
+      "fullUrl": "/programme-2026/masterclass-avec-xxxx",
+      "urlId": "masterclass-avec-xxxx",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/67a60988-a5c7-42d4-ab8a-a877c927ff78/PCC2017_Fondation-Bruckner-64.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Démonstration"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Fondation Bruckner",
+        "Date: 2026-09-27T10:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790496018317,
+      "addedOn": 1790496018317,
+      "updatedOn": 1780756414468
+    },
+    {
+      "id": "6a24364855f0b80a8ab06d62",
+      "title": "«Le Secret des abeilles»",
+      "fullUrl": "/programme-2026/spectacle-le-secret-des-abeilles",
+      "urlId": "spectacle-le-secret-des-abeilles",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Spectacle"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Atelier Maison Potter",
+        "Date: 2026-09-26T14:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790424028555,
+      "addedOn": 1790424028555,
+      "updatedOn": 1780758193905
+    },
+    {
+      "id": "6a242a27d8c9092abd5280a9",
+      "title": "Exposition centre aéré été enfants «Le secret des abeilles»",
+      "fullUrl": "/programme-2026/exposition-centre-aere-ete-enfants-le-secret-des-abeilles",
+      "urlId": "exposition-centre-aere-ete-enfants-le-secret-des-abeilles",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Atelier"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Atelier Maison Potter",
+        "Date: 2026-09-26T10:00",
+        "Date: 2026-09-27T10:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790409643266,
+      "addedOn": 1790409643266,
+      "updatedOn": 1780757718401
+    },
+    {
+      "id": "6a242b0ad5be4c54ecffacc0",
+      "title": "Masterclass avec Lorem Ipsum Dolor",
+      "fullUrl": "/programme-2026/masterclass-avec-lorem-ipsum-dolor",
+      "urlId": "masterclass-avec-lorem-ipsum-dolor",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/67a60988-a5c7-42d4-ab8a-a877c927ff78/PCC2017_Fondation-Bruckner-64.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Démonstration"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Fondation Bruckner",
+        "Date: 2026-09-26T10:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790409630641,
+      "addedOn": 1790409630641,
+      "updatedOn": 1780755498339
+    },
+    {
+      "id": "6a2424acdd18c84bb027f98e",
+      "title": "Visite commentée des expositions à&nbsp;Carouge · Partie 4",
+      "fullUrl": "/programme-2026/visite-commentee-des-expositions-carouge-partie-4",
+      "urlId": "visite-commentee-des-expositions-carouge-partie-4",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c756be63-587d-46da-80f5-250d34a39e86/PCC2022_Espace_Jorg_Brockmann_Fondation_Bruckner-Aline_Bovard_Rudaz.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite commentée"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Espace Jörg Brockmann",
+        "Lieu: Teo Jakob",
+        "Lieu: Stratégies Obliques",
+        "Date: 2026-09-25T12:00",
+        "Lieu: Galerie H",
+        "Lieu: Aubert Jansem Genève"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790287220191,
+      "addedOn": 1790287220191,
+      "updatedOn": 1781593912307
+    },
+    {
+      "id": "6a2426487cef27205fc9730e",
+      "title": "Le Mouvement · Visite commentée de l’exposition",
+      "fullUrl": "/programme-2026/le-mouvement-visite-commentee-de-l-exposition",
+      "urlId": "le-mouvement-visite-commentee-de-l-exposition",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/28a7584d-a49f-4e93-b10c-9857d06e441b/PCC_2026-21-Musee_de_Carouge-Mouvement_Concours_international_de_ceramique-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite commentée"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Musée de Carouge",
+        "Date: 2026-09-24T18:00",
+        "Date: 2026-09-25T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790265612141,
+      "addedOn": 1790265612141,
+      "updatedOn": 1780754197514
+    },
+    {
+      "id": "6a2423e87506e80033b4cf3e",
+      "title": "Visite commentée des expositions à&nbsp;Carouge · Partie 3",
+      "fullUrl": "/programme-2026/visite-commentee-des-expositions-carouge-partie-3",
+      "urlId": "visite-commentee-des-expositions-carouge-partie-3",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c756be63-587d-46da-80f5-250d34a39e86/PCC2022_Espace_Jorg_Brockmann_Fondation_Bruckner-Aline_Bovard_Rudaz.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite commentée"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Date: 2026-09-24T14:00",
+        "Lieu: Espace Dukat",
+        "Lieu: Halles de la Fonderie",
+        "Lieu: Galerie Kaolin",
+        "Lieu: Galerie Séries Rares",
+        "Lieu: Galerie FADA"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790251204353,
+      "addedOn": 1790251204353,
+      "updatedOn": 1780753555148
+    },
+    {
+      "id": "6a24230d68d55c321acb7ed4",
+      "title": "Visite commentée des expositions à&nbsp;Carouge · Partie 2",
+      "fullUrl": "/programme-2026/visite-commentee-des-expositions-carouge-partie-2",
+      "urlId": "visite-commentee-des-expositions-carouge-partie-2",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c756be63-587d-46da-80f5-250d34a39e86/PCC2022_Espace_Jorg_Brockmann_Fondation_Bruckner-Aline_Bovard_Rudaz.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite commentée"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: L’Échoppe des Arts",
+        "Lieu: Poesis",
+        "Lieu: Le Salon Vert",
+        "Lieu: Galerie Marianne Brand",
+        "Lieu: Les Insolites",
+        "Lieu: Bruckner Hors-les-murs",
+        "Date: 2026-09-22T12:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1790028025460,
+      "addedOn": 1790028025460,
+      "updatedOn": 1780753370709
+    },
+    {
+      "id": "6a2420b3f09d98418d6acc0c",
+      "title": "Visite commentée des expositions à&nbsp;Carouge · Partie 1",
+      "fullUrl": "/programme-2026/visite-commentee-des-expositions-carouge-partie-1",
+      "urlId": "visite-commentee-des-expositions-carouge-partie-1",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c756be63-587d-46da-80f5-250d34a39e86/PCC2022_Espace_Jorg_Brockmann_Fondation_Bruckner-Aline_Bovard_Rudaz.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite commentée"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Fondation Bruckner",
+        "Date: 2026-09-21T12:00",
+        "Lieu: Bruckner Hors-les-murs",
+        "Lieu: Atelier Nicolas Perrottet",
+        "Lieu: Atelier Maison Potter",
+        "Lieu: Nov Gallery",
+        "Lieu: L’Antre-Peaux – Chris Murner"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1789941623349,
+      "addedOn": 1789941623349,
+      "updatedOn": 1781593939164
+    },
+    {
+      "id": "6a241f353a3f2306e003c2e3",
+      "title": "Démonstration Dita Cossio",
+      "fullUrl": "/programme-2026/demonstration-dita-cossio",
+      "urlId": "demonstration-dita-cossio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777984745711-178Z4Y8VXK72T6XFA8LM/PCC_2026-023-Aubert_Jansem_Galerie-Dita_Cossio-014.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Démonstration"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Artiste: Dita Cossio",
+        "Lieu: Fondation Bruckner",
+        "Date: 2026-09-20T15:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1789909201439,
+      "addedOn": 1789909201439,
+      "updatedOn": 1780752563391
+    },
+    {
+      "id": "6a205eb75e398664ac1fb676",
+      "title": "Conférence d’Amélie Patry",
+      "fullUrl": "/programme-2026/d1b5b7rvs594tq25arop5e10h2uyvy",
+      "urlId": "d1b5b7rvs594tq25arop5e10h2uyvy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779094609263-Y2NUCW2993M9WNW5EYQA/PCC_2026-11-Le_Salon_Vert-Amelie_Patry-004.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Conférence"
+      ],
+      "tags": [
+        "Date: 2026-09-20T13:00",
+        "Lieu: Fondation Bruckner",
+        "Artiste: Amélie Patry",
+        "Zone: Carouge",
+        "Année: 2026"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1789902050523,
+      "addedOn": 1789902050523,
+      "updatedOn": 1780556867333
+    },
+    {
+      "id": "6a241feef09d98418d6a9a78",
+      "title": "Atelier modelage parents/ enfants «Chimères»",
+      "fullUrl": "/programme-2026/atelier-modelage-adulte-jouons-avec-la-porcelaine-7smka",
+      "urlId": "atelier-modelage-adulte-jouons-avec-la-porcelaine-7smka",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Atelier"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Atelier Maison Potter",
+        "Date: 2026-09-20T13:00",
+        "Date: 2026-09-20T14:00",
+        "Date: 2026-09-20T15:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1789902006085,
+      "addedOn": 1789902006085,
+      "updatedOn": 1780752479272
+    },
+    {
+      "id": "6a241e75ec68211b7f8b643f",
+      "title": "Croissants &amp; Meet the Artist: Xinyi Hu",
+      "fullUrl": "/programme-2026/croissants-meet-the-artist-xinyi-hu",
+      "urlId": "croissants-meet-the-artist-xinyi-hu",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777650546580-DUW1O9N9P1L1930HPZS7/PCC_2026-24-Art_Resonance-Xin_Yi_Hu-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.619145108257336,
+        "y": 0.6131522649055902,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Art Résonance",
+        "Artiste: Xinyi Hu",
+        "Date: 2026-09-20T11:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1789894849874,
+      "addedOn": 1789894849874,
+      "updatedOn": 1780752181462
+    },
+    {
+      "id": "6a24185eada08a3c9fcc54c5",
+      "title": "Visite commentée de l’exposition La Matière de l’absence",
+      "fullUrl": "/programme-2026/visite-commentee-de-l-exposition-la-matiere-de-l-absence",
+      "urlId": "visite-commentee-de-l-exposition-la-matiere-de-l-absence",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779274146696-EYEFIIXWJRZTVPQKTFHO/PCC_2026-04-Maison_Pertin-Asya_Marakulina-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Performance"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Bruckner Hors-les-murs",
+        "Date: 2026-09-20T11:00",
+        "Artiste: Asya Marakulina",
+        "Artiste: Ninon Hivert"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1789894842278,
+      "addedOn": 1789894842278,
+      "updatedOn": 1780751046663
+    },
+    {
+      "id": "6a2124434d7a6d31914f8843",
+      "title": "Performance de Sixtine Jacquart",
+      "fullUrl": "/programme-2026/performance-de-sixtine-jacquart",
+      "urlId": "performance-de-sixtine-jacquart",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682378775-QOMTUMDOB71TLW9IKRLF/PCC_2026-13-Halles_de_la_Fonderie-Sixtine_Jacquart-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5753221010901883,
+        "y": 0.8988513230711994,
+        "source": 3
+      },
+      "categories": [
+        "Performance"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Artiste: Sixtine Jacquart",
+        "Lieu: Halles de la Fonderie",
+        "Date: 2026-09-19T15:00",
+        "Date: 2026-09-27T14:00",
+        "Date: 2026-09-27T16:00",
+        "Date: 2026-09-26T14:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1789822847324,
+      "addedOn": 1789822847324,
+      "updatedOn": 1780750431021
+    },
+    {
+      "id": "6a241ca2418d931011a957a3",
+      "title": "Atelier modelage adulte «Jouons avec la porcelaine»",
+      "fullUrl": "/programme-2026/atelier-modelage-adulte-jouons-avec-la-porcelaine",
+      "urlId": "atelier-modelage-adulte-jouons-avec-la-porcelaine",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Atelier"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Date: 2026-09-19T14:00",
+        "Lieu: Atelier Maison Potter"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1789819248276,
+      "addedOn": 1789819248276,
+      "updatedOn": 1780752559089
+    },
+    {
+      "id": "6a241ac68f66a64eb6af5734",
+      "title": "Le Mouvement · Vernissage officiel et remise des prix",
+      "fullUrl": "/programme-2026/le-mouvement-vernissage-officiel-et-remise-des-prix",
+      "urlId": "le-mouvement-vernissage-officiel-et-remise-des-prix",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/28a7584d-a49f-4e93-b10c-9857d06e441b/PCC_2026-21-Musee_de_Carouge-Mouvement_Concours_international_de_ceramique-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Cérémonie"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Musée de Carouge",
+        "Date: 2026-09-19T10:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1789804803932,
+      "addedOn": 1789804803932,
+      "updatedOn": 1780751522462
+    },
+    {
+      "id": "69f74bc4ae0e0573c302249e",
+      "title": "Marie Gueydon de Dives",
+      "fullUrl": "/programme-2026/expositions/02/marie-gueydon-de-dives",
+      "urlId": "expositions/02/marie-gueydon-de-dives",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777902386332-4CKRE9EMZZGSECRYEURE/PCC_2026-02-Atelier_Potter-Marie_Gueydon_de_Dives-016.webp",
+      "mediaFocalPoint": {
+        "x": 0.48333333333333334,
+        "y": 0.33333333333333337,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Sélection: Homepage",
+        "Date: 2026-09-19/2026-09-27",
+        "Artiste: Marie Gueydon de Dives",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Numéro: 1",
+        "Lieu: Atelier Maison Potter"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Marie Gueydon de Dives modèle à la main des formes évoquant lichens, champignons ou termitières, structures poreuses qui se développent par circulation et échanges avec leur milieu. Entre forme construite et forme vivante, ses pièces en céramique brouillent les repères. Le corps n'y apparaît jamais comme figure mais comme système traversé de flux, inscrit dans les logiques plus larges du vivant. Un déplacement subtil du regard sur notre propre corporalité.</p>",
+      "location": {
+        "mapZoom": 2,
+        "mapLat": 46.1774056,
+        "mapLng": 6.1445234,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Atelier Potter",
+        "addressLine1": "22 Chemin de Pinchat",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 16,
+      "workflowState": 1,
+      "publishOn": 1789632017032,
+      "addedOn": 1789632017032,
+      "updatedOn": 1780751907285
+    },
+    {
+      "id": "696a422e054fc71a7afeea1f",
+      "title": "Pop-up Swissceramics",
+      "fullUrl": "/programme-2026/expositions/03/pop-up-swissceramics",
+      "urlId": "expositions/03/pop-up-swissceramics",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780670537019-KKEIYCQ1M81LUE43S17E/PCC_2026-02-Pop-up_Swissceramics-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Date: 2026-09-19/2026-09-27",
+        "Numéro: 2",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Lieu: Ibis Styles"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Invité par la Fondation Bruckner pour une seconde édition, le popup store Swissceramics se tiendra dans un lieu insolite: l’Hôtel IBIS – Style de Carouge. Les visiteurs pourront acquérir des céramiques 100% suisses à prix abordable et profiter du café de l’hôtel pour faire une pause bien méritée dans le marathon des visites du Parcours Céramique Carouge.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1793585,
+        "mapLng": 6.138237000000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Ibis Styles",
+        "addressLine1": "3 Route de Saint-Julien",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 46,
+      "workflowState": 1,
+      "publishOn": 1789545600666,
+      "addedOn": 1789545600666,
+      "updatedOn": 1781521752665
+    },
+    {
+      "id": "69f8833fd5408a02b93c9c87",
+      "title": "Platform 2026 · Swissceramics",
+      "fullUrl": "/programme-2026/expositions/4/platform-2026-swissceramics",
+      "urlId": "expositions/4/platform-2026-swissceramics",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/a55f0969-999c-4990-b36f-e36aeea395be/PCC_2026-03-Maison_Pertin-Platform_Swissceramics-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Lieu: Maison Pertin",
+        "Numéro: 3",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>Platform</em>, Swissceramics met en lumière les meilleurs travaux de diplôme des trois écoles de céramique suisses, le CEPV à Vevey, la SFGB-B à Berne et le CFP Arts à Genève. Cette exposition annuelle offre à de jeunes céramistes un premier tremplin professionnel et témoigne du dynamisme et de la qualité de la formation céramique en Suisse. Une occasion de découvrir les talents émergents d’une scène en plein renouvellement.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1801097,
+        "mapLng": 6.1399731,
+        "markerLat": 46.1801097,
+        "markerLng": 6.1399731,
+        "addressTitle": "Maison Pertin",
+        "addressLine1": "Rue Ancienne 63",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 18,
+      "workflowState": 1,
+      "publishOn": 1789459220012,
+      "addedOn": 1789459220012,
+      "updatedOn": 1781007551270
+    },
+    {
+      "id": "696a4238054fc71a7afeec34",
+      "title": "Natascha Madeiski",
+      "fullUrl": "/programme-2026/expositions/06/natascha-madeiski",
+      "urlId": "expositions/06/natascha-madeiski",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1776942733552-OZSECUT9XG5S8H0V4OIB/PCC_2026-05-NOV_Gallery-Natascha_Madeiski-004.webp",
+      "mediaFocalPoint": {
+        "x": 0.3570941125379986,
+        "y": 0.5714817226304529,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Sélection: Homepage",
+        "Artiste: Natascha Madeiski",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Numéro: 4",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Lieu: Nov Gallery"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Nourrie par la tradition de la sculpture sur bois du Tyrol du Sud, Natascha Madeiski transpose dans la céramique un vocabulaire de taille directe où incisions, reliefs et profondeurs construisent forme et rythme. Les matériaux industriels et les aléas de la cuisson introduisent résistance et imprévisibilité. Ses pièces portent les traces superposées du geste et du retrait, où le corps de la créatrice dialogue avec la matière, l'espace et ce qui s'y inscrit en creux.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1805246,
+        "mapLng": 6.140531999999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "NOV Gallery",
+        "addressLine1": "4 Rue Joseph-Girard",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 22,
+      "workflowState": 1,
+      "publishOn": 1789372800544,
+      "addedOn": 1789372800544,
+      "updatedOn": 1781093883266
+    },
+    {
+      "id": "696a4239054fc71a7afeec41",
+      "title": "Léonie Chauchat",
+      "fullUrl": "/programme-2026/expositions/06/leonie-chauchat",
+      "urlId": "expositions/06/leonie-chauchat",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1776877234958-2F2BQVB459V16HE97NXZ/PCC_2026-06-Atelier_Nicolas_Perrottet-Leonie_Chauchat-006.webp",
+      "mediaFocalPoint": {
+        "x": 0.48214285714285715,
+        "y": 0.8392857142857143,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Lieu: Atelier Nicolas Perrottet",
+        "Artiste: Léonie Chauchat",
+        "Zone: Carouge",
+        "Sélection: Homepage",
+        "Date: 2026-09-19/2026-09-27",
+        "Numéro: 5",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Le pot, objet céramique par excellence, est le point de départ du travail sculptural de Léonie Chauchat. De cette forme première, elle déploie un répertoire d’«objets coquilles», naturels ou manufacturés, dont elle explore les analogies: pots, corps, coquillages, maisons, autant de contenants protecteurs. Par l’assemblage et le collage naissent des pièces hybrides où le corps se révèle comme notre contenant premier, notre enveloppe, à la fois identité, refuge et outil.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1806823,
+        "mapLng": 6.141282299999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Atelier Nicolas Perrottet",
+        "addressLine1": "16 Rue Joseph-Girard",
+        "addressLine2": "1227 Carouge, Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 20,
+      "workflowState": 1,
+      "publishOn": 1789372800085,
+      "addedOn": 1789372800085,
+      "updatedOn": 1780669828143
+    },
+    {
+      "id": "69f74c5bd5408a02b9e57f1d",
+      "title": "Sandrine Ramona × Chris Murner",
+      "fullUrl": "/programme-2026/expositions/07/sandrine-ramona-chris-murner",
+      "urlId": "expositions/07/sandrine-ramona-chris-murner",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780069755992-6HGCUB5SXU85B6QC3GVJ/PCC_2026-07-L_Antre-Peaux-Sandrine_Ramona-009.webp",
+      "mediaFocalPoint": {
+        "x": 0.6964285714285714,
+        "y": 0.42261904761904767,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Artiste: Sandrine Ramona",
+        "Artiste: Chris Murner",
+        "Numéro: 6",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Lieu: L’Antre-Peaux – Chris Murner"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">«D’un corps à l’autre»: Chris Murner, maroquinière, et Sandrine Ramona, céramiste, font dialoguer cuir et porcelaine dans une exploration commune du corps. D’une matière à l’autre, souplesse et rigidité, sensualité et délicatesse se répondent. Sandrine Ramona compose des tableaux muraux de pièces uniques en porcelaine où se tissent liens et traces de vie, tandis que Chris Murner travaille le cuir comme matière organique. Leurs œuvres reflètent un corps qui change, se libère et se transforme.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1811256,
+        "mapLng": 6.1409856,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "L’Antre-Peaux",
+        "addressLine1": "43 Rue Ancienne",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 17,
+      "workflowState": 1,
+      "publishOn": 1789290038154,
+      "addedOn": 1789290038154,
+      "updatedOn": 1781593939177
+    },
+    {
+      "id": "69f4c5ee743a3574329386e1",
+      "title": "La matière de l’absence",
+      "fullUrl": "/programme-2026/expositions/04/la-matiere-de-l-absence",
+      "urlId": "expositions/04/la-matiere-de-l-absence",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777905921119-SF390D6MP0ML0YGTR9FA/PCC_2026-04-Maison_Pertin-Ninon_Hivert-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Artiste: Ninon Hivert",
+        "Artiste: Asya Marakulina",
+        "Lieu: Bruckner Hors-les-murs",
+        "Numéro: 7",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>La matière de l’absence</em></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Et si l’absence était une de présence? C’est l’intuition qui traverse cette exposition conçue par Émilie Fargues, directrice du PCC, réunissant deux artistes céramistes autour de ce que les corps laissent derrière eux lorsqu’ils se retirent.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Asya Marakulina contemple les murs mitoyens des immeubles de Saint-Pétersbourg et de Vienne après démolition. Contours de pièces, restes de papier peint, conduites suspendues dans le vide: l’architecture porte encore l’empreinte de ceux qui l’ont habitée. Ses céramiques en font des portraits fragiles, où l’espace domestique survit à sa propre disparition.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ninon Hivert recueille les vêtements abandonnés dans l’espace urbain et les traduit en sculptures de terre. Manteaux affaissés, gants vidés de leurs mains: autant de mues qui conservent la posture et le geste d’un corps absent.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">D’un côté l’enveloppe architecturale, de l’autre l’enveloppe textile. Dans les deux cas, la céramique donne une permanence paradoxale à ce qui a disparu. L’espace négatif, celui de l’habitant, celui du porteur, devient le véritable sujet de l’œuvre.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1823246,
+        "mapLng": 6.140715399999999,
+        "markerLat": 46.1823246,
+        "markerLng": 6.140715399999999,
+        "addressTitle": "Bruckner Hors-les-murs",
+        "addressLine1": "Rue Adolphe-Fontanel 4",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 13,
+      "workflowState": 1,
+      "publishOn": 1789286422524,
+      "addedOn": 1789286422524,
+      "updatedOn": 1780669855933
+    },
+    {
+      "id": "696a4236054fc71a7afeebcd",
+      "title": "Nina Malo",
+      "fullUrl": "/programme-2026/expositions/09/nina-malo",
+      "urlId": "expositions/09/nina-malo",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780749523743-XBYYOTV3FQ03R0BAVEKT/PCC_2026-09-Les_Insolites-Nina_Malo-012.webp",
+      "mediaFocalPoint": {
+        "x": 0.6546085232903865,
+        "y": 0.40478072827047384,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Artiste: Nina Malo",
+        "Lieu: Les Insolites",
+        "Sélection: Homepage",
+        "Date: 2026-09-19/2026-09-27",
+        "Zone: Carouge",
+        "Numéro: 8",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Nina Malo ne représente pas le corps, elle le fait advenir. À travers des volumes organiques, des courbes tendues et des spirales, la matière se déploie, se contracte et s’équilibre comme traversée par une énergie interne. Inspirée par le monde marin, elle explore des formes en perpétuelle transformation où affleurent, dans les creux et les cavités, des notions de féminité et d’intimité. Une écriture épurée où la simplicité devient essentielle.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1825156,
+        "mapLng": 6.140999799999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Les Insolites",
+        "addressLine1": "22 Rue Ancienne",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 27,
+      "workflowState": 1,
+      "publishOn": 1789200000137,
+      "addedOn": 1789200000137,
+      "updatedOn": 1781096395177
+    },
+    {
+      "id": "69f883b502e5642a1d46e0c2",
+      "title": "Marianne Brand – Rétrospective",
+      "fullUrl": "/programme-2026/expositions/10/marianne-brand-retrospective",
+      "urlId": "expositions/10/marianne-brand-retrospective",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/d9b1116b-0950-413b-b576-bf464e97067c/PCC_2026-10-Galerie_Marianne_Brand-Retrospective-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Lieu: Galerie Marianne Brand",
+        "Artiste: Marianne Brand",
+        "Numéro: 9",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">De céramiste à galeriste, Marianne Brand est une figure majeure de la scène carougeoise. Depuis près de quarante ans, elle déploie une activité foisonnante entre création, engagement et promotion de l’art. «À cœur et à corps. Le parcours dans le parcours.» retrace cet itinéraire singulier, de l’ouverture de son atelier céramique en 1969 à la galerie qu’il est devenu, réunissant œuvres, archives et témoignages. Une immersion sensible dans un parcours d’exception.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1825548,
+        "mapLng": 6.1410136,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Marianne Brand",
+        "addressLine1": "20 Rue Ancienne",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 19,
+      "workflowState": 1,
+      "publishOn": 1789113621965,
+      "addedOn": 1789113621965,
+      "updatedOn": 1780669882212
+    },
+    {
+      "id": "696a422d054fc71a7afeea03",
+      "title": "Amélie Patry",
+      "fullUrl": "/programme-2026/expositions/11/amelie-patry",
+      "urlId": "expositions/11/amelie-patry",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779094607972-7XS42G66OHWXUGFNL7S0/PCC_2026-11-Le_Salon_Vert-Amelie_Patry-005.webp",
+      "mediaFocalPoint": {
+        "x": 0.25892857142857145,
+        "y": 0.5059523809523809,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Artiste: Amélie Patry",
+        "Lieu: Le Salon Vert",
+        "Origine: France",
+        "Sélection: Homepage",
+        "Date: 2026-09-19/2026-09-27",
+        "Numéro: 10",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Amélie Patry fait corps avec le paysage. Au fil de marches et de récoltes dans les territoires ligériens et montagneux, elle glane argiles, roches et végétaux pour donner vie à ses pièces. Ses gestes prolongent ceux du néolithique: creuser, broyer, pétrir, modeler. Chaque objet encapsule une géographie intime, figée par le feu. Comme des fossiles faussant l’échelle du temps, ses céramiques semblent ressortir de terre, burinées par les siècles, corps géologiques rendus au visible.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.18253379999999,
+        "mapLng": 6.141350099999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Le Salon Vert",
+        "addressLine1": "Rue Ancienne 15",
+        "addressLine2": "Carouge, Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 47,
+      "workflowState": 1,
+      "publishOn": 1789027200135,
+      "addedOn": 1789027200135,
+      "updatedOn": 1780669895601
+    },
+    {
+      "id": "696a423a054fc71a7afeec5d",
+      "title": "Capucine Pageron",
+      "fullUrl": "/programme-2026/expositions/12/capucine-pageron",
+      "urlId": "expositions/12/capucine-pageron",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/bd42449e-a2b4-41b0-8b7e-8c52df63cf3b/PCC_2026-12-Galerie_Series_Rares-Capucine_Pageron-014.webp",
+      "mediaFocalPoint": {
+        "x": 0.7938457720702277,
+        "y": 0.5476699841875174,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Artiste: Capucine Pageron",
+        "Lieu: Galerie Séries Rares",
+        "Sélection: Homepage",
+        "Origine: France",
+        "Date: 2026-09-19/2026-09-27",
+        "Zone: Carouge",
+        "Numéro: 11",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Venue du design d’espace et du dessin, Capucine Pageron a trouvé dans la céramique le médium qui relie ses deux pratiques. Elle conçoit des scènes miniatures du quotidien, maquettes de chambres, cuisines, salles de bain où une figure féminine évolue dans des espaces intérieurs et anachroniques. Ces instants figés rendent hommage aux gestes presque mécaniques de la vie à la maison, au corps dans l’intimité de ses rituels. Un univers entre maquette et cinéma d’animation.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1849465,
+        "mapLng": 6.1423862,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Séries Rares",
+        "addressLine1": "15 Rue Vautier",
+        "addressLine2": "Carouge, Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 19,
+      "workflowState": 1,
+      "publishOn": 1788940800213,
+      "addedOn": 1788940800213,
+      "updatedOn": 1780669907161
+    },
+    {
+      "id": "6a1eb54fad22853d973ff081",
+      "title": "Sixtine Jacquart",
+      "fullUrl": "/programme-2026/expositions/13/sixtine-jacquart",
+      "urlId": "expositions/13/sixtine-jacquart",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682376082-P6E1AREEXW2KL3AY3Z1P/PCC_2026-13-Halles_de_la_Fonderie-Sixtine_Jacquart-007.webp",
+      "mediaFocalPoint": {
+        "x": 0.2481180811808118,
+        "y": 0.13095847091103563,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Lieu: Halles de la Fonderie",
+        "Artiste: Sixtine Jacquart",
+        "Numéro: 12.1"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>Base</em>, Sixtine Jacquart investit les Halles de la Fonderie d’une installation performée où tissu, porcelaine, cuivre, fibre de verre et élastiques composent un environnement à la fois protecteur et menaçant. Au centre, des gourdes en porcelaine en forme de buste évoquent des corps fragiles, contenant de l’eau, vêtues de gilets de protection. Ces corps miniatures peuvent être portés par des corps humains, eux-mêmes équipés pour protéger leurs organes vitaux. Une grande structure modulaire, à tendre ou à gonfler, évoque un abri de secours.</p><p class=\"p1\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lors de moments de performance, l’artiste enfile un costume, manipule les objets, organise sa survie et prépare la venue d’un corps collectif. En dehors de ces activations, l’installation reste visible, à ciel ouvert. Diplômée de La Cambre à Bruxelles et lauréate du Prix de la Jeune Céramique 2018, Sixtine Jacquart poursuit ici une recherche au long cours sur les liens entre le corps, l’objet et l’espace, où la porcelaine, matériau froid et fragile, intensifie notre attention et réveille un instinct de protection.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1856142,
+        "mapLng": 6.145381899999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Halles de la Fonderie",
+        "addressLine1": "17 Avenue Cardinal-Mermillod",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 36,
+      "workflowState": 1,
+      "publishOn": 1788858051441,
+      "addedOn": 1788858051441,
+      "updatedOn": 1780669933734
+    },
+    {
+      "id": "69f8840cae0e0573c35babdd",
+      "title": "Laure Gonthier",
+      "fullUrl": "/programme-2026/expositions/13/laure-gonthier",
+      "urlId": "expositions/13/laure-gonthier",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682381376-6ZT4OMFXVOS655GDGBC8/PCC_2026-13-Halles_de_la_Fonderie-Laure_Gonthier-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.36521308225966304,
+        "y": 0.7083662744733292,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Artiste: Laure Gonthier",
+        "Lieu: Halles de la Fonderie",
+        "Numéro: 12.2",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Installation mix-média avec la participation de Benoît Meylan, Jeanne et Vanessa Langer</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Dans l’installation immersive <em>What happens to the dream when the dreamer dies?</em>, Laure Gonthier entremêle céramique, son, texte et voix pour explorer le deuil et la transmission. Le public est invité à s’asseoir sur certaines sculptures, à intégrer physiquement l’œuvre. Entre gestes de la cuisine et gestes de la céramique, les mains façonnent, transmettent, prolongent. Celles des femmes de sa famille, qui relient par le silence ou par le toucher.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1856142,
+        "mapLng": 6.145381899999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Halles de la Fonderie",
+        "addressLine1": "17 Avenue Cardinal-Mermillod",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 20,
+      "workflowState": 1,
+      "publishOn": 1788854411146,
+      "addedOn": 1788854411146,
+      "updatedOn": 1780669945969
+    },
+    {
+      "id": "69f884ebafa81773646637c5",
+      "title": "La Petite Fumée",
+      "fullUrl": "/programme-2026/expositions/14/la-petite-fumee",
+      "urlId": "expositions/14/la-petite-fumee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779275780582-L5FO0AKA79XLCJH4E7I5/PCC_2026-14-DUKAT-Louis_Danjou-012.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Artiste: Raphaël Oboe",
+        "Artiste: Anja Ripoll",
+        "Artiste: Louis Danjou",
+        "Artiste: Marie Pic",
+        "Artiste: Lola Metz",
+        "Artiste: William Mora",
+        "Artiste: Eirik Falckner",
+        "Artiste: Guillaume Martin-Taton",
+        "Lieu: Espace Dukat",
+        "Numéro: 13",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Pour sa première participation au Parcours Céramique Carouge, l’Espace Dukat accueille La Petite Fumée, une exposition réunissant huit artistes internationaux sous la direction du curateur Guillaume Martin-Taton. Née dans les années 1990, cette génération développe des pratiques céramiques façonnées par une culture visuelle globalisée, marquée par l’essor d’internet et la circulation des images. Leurs travaux explorent des constructions hybrides et chimériques, mêlant narration fantasmée et art conceptuel.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1853998,
+        "mapLng": 6.1456988,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Dukat",
+        "addressLine1": "21 Avenue Cardinal-Mermillod",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 21,
+      "workflowState": 1,
+      "publishOn": 1788781095887,
+      "addedOn": 1788781095887,
+      "updatedOn": 1780848724327
+    },
+    {
+      "id": "69f88604000be15056d41d0b",
+      "title": "Fabienne Guyomarch",
+      "fullUrl": "/programme-2026/expositions/15/fabienne-guyomarch",
+      "urlId": "expositions/15/fabienne-guyomarch",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/95e7a305-e790-46b8-8bf5-27b9097b4ff5/PCC_2026-15-Galerie_Kaolin-Fabienne_Guyomarch-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Artiste: Fabienne Guyomarch",
+        "Origine: Suisse",
+        "Lieu: Galerie Kaolin",
+        "Numéro: 14",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Fabienne Guyomarch explore les liens entre corps, science et méditation à travers la porcelaine. Par un geste lent et précis, presque rituel, elle construit des surfaces pointillées par pastillage, engageant le corps entier dans un dialogue méditatif avec la matière. Inspirées de l’imagerie cérébrale issue de l’IRM, ses formes évoquent tissus organiques et coupes cérébrales. Chaque bol devient cartographie intérieure, réceptacle fragile où matière et mémoire se rencontrent.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1863342,
+        "mapLng": 6.1422364,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Kaolin",
+        "addressLine1": "18 Avenue Cardinal-Mermillod",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 22,
+      "workflowState": 1,
+      "publishOn": 1788681605426,
+      "addedOn": 1788681605426,
+      "updatedOn": 1780911976930
+    },
+    {
+      "id": "6a0dc5b39d556f7e6823107b",
+      "title": "Aline Favre",
+      "fullUrl": "/programme-2026/expositions/16/aline-favre",
+      "urlId": "expositions/16/aline-favre",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780845647716-X6WPI8LVXLWOO0LZ9OZ6/PCC_2026-15-Galerie_FADA-Aline_Favre-010.webp",
+      "mediaFocalPoint": {
+        "x": 0.4955357142857143,
+        "y": 0.6726190476190477,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Date: 2026-09-19/2026-09-27",
+        "Lieu: Galerie FADA",
+        "Artiste: Aline Favre",
+        "Numéro: 15",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Zone: Carouge"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aline, de cœur et de terre révèle un univers intérieur sensible, celui d’une artiste pour qui la céramique était un chemin d’accomplissement. Disparue en 2013, Aline Favre a développé une relation profonde avec la matière et le vivant, guidée par la terre, l’eau, l’air et le feu. Dans le grès et la porcelaine, elle cherchait à faire surgir une énergie vivante, accueillant empreintes et fissures comme signes du vécu. Une présence qui continue de rayonner.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1863871,
+        "mapLng": 6.14012,
+        "markerLat": 46.1863871,
+        "markerLng": 6.14012,
+        "addressTitle": "Galerie FADA",
+        "addressLine1": "3 Rue Saint-Victor",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 35,
+      "workflowState": 1,
+      "publishOn": 1788595235652,
+      "addedOn": 1788595235652,
+      "updatedOn": 1780902536649
+    },
+    {
+      "id": "696a4237054fc71a7afeebd3",
+      "title": "Marie-Josée Comello",
+      "fullUrl": "/programme-2026/expositions/17/marie-josee-comello",
+      "urlId": "expositions/17/marie-josee-comello",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c906a0fe-6cb1-4bd4-91b0-f5cb85ce0494/PCC_2026-16-Strategies_obliques-Marie-Josee_Comello-004.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Artiste: Marie-Josée Comello",
+        "Lieu: Stratégies Obliques",
+        "Sélection: Homepage",
+        "Date: 2026-09-19/2026-09-27",
+        "Numéro: 16",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Zone: Carouge"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Le bijou crée une relation intime avec le corps, objet silencieux qui absorbe le temps, le toucher et la mémoire. Marie-Josée Comello prend pour point de départ les bijoux de sa mère, porteurs d’une présence au-delà de l’absence. De cette histoire personnelle naît une réflexion universelle sur l’héritage, les liens familiaux et la transmission par les objets. Ses pièces en céramique explorent la complexité du corps humain, sa force et sa fragilité, entre tangible et insaisissable.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.185936,
+        "mapLng": 6.140822,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Stratégies obliques",
+        "addressLine1": "16 Rue Saint-Joseph",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 25,
+      "workflowState": 1,
+      "publishOn": 1788508800036,
+      "addedOn": 1788508800036,
+      "updatedOn": 1781105344526
+    },
+    {
+      "id": "696a4238054fc71a7afeec17",
+      "title": "Anne Breton",
+      "fullUrl": "/programme-2026/expositions/18/anne-breton",
+      "urlId": "expositions/18/anne-breton",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1776941157134-0D9L58SILD3C4ELHFSLG/PCC_2026-18-Galerie_h-Anne_Breton-007.webp",
+      "mediaFocalPoint": {
+        "x": 0.30357142857142855,
+        "y": 0.7261904761904762,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Artiste: Anne Breton",
+        "Sélection: Homepage",
+        "Date: 2026-09-19/2026-09-27",
+        "Numéro: 17",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Zone: Carouge",
+        "Lieu: Galerie H"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aux origines des explorations en terre d’Anne Breton naissent des montagnes. Peu à peu, elles s’animent. Les yeux percés, elles deviennent portraits fantômes. Des jambes et des bras poussent, les apparitions se métamorphosent en figures: enfant paille, femmes buissons, oiseau de nuit. Des corps figés dans le grès mais en mouvement dans nos imaginaires. Ces sculptures esquissent un univers aux frontières fluides, explorant les liens subtils entre la vie et la mort, la nature et ses créatures.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1854849,
+        "mapLng": 6.1403136,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie h",
+        "addressLine1": "21 Rue Saint-Victor",
+        "addressLine2": "1227 Carouge, GE",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 23,
+      "workflowState": 1,
+      "publishOn": 1788422400842,
+      "addedOn": 1788422400842,
+      "updatedOn": 1781522137909
+    },
+    {
+      "id": "69f886c574e1ce4c39dffd08",
+      "title": "Hélène Loussier",
+      "fullUrl": "/programme-2026/expositions/19/helene-loussier",
+      "urlId": "expositions/19/helene-loussier",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1781097405666-FR6HOVCWDQSM8X0HTXRR/PCC_2026-019-L_Echoppe_des_Arts-Helene_Loussier-016.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Artiste: Hélène Loussier",
+        "Lieu: L’Échoppe des Arts",
+        "Numéro: 18",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Peintre à l’origine, Hélène Loussier a laissé la terre entrer dans sa vie. Absorbée par la question de la transformation, elle donne forme à des créatures incarnant le passage d’un règne à l’autre, mi-bêtes mi-plantes, surgies de la boue des souvenirs. Ses Petits Esprits naissent du geste pur, images fugitives accueillies sans volonté particulière. Ses Grands Esprits exigent un véritable corps à corps avec la matière, explorant la parentalité et le corps générationnel.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1849409,
+        "mapLng": 6.140495100000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "L’Échoppe des Arts",
+        "addressLine1": "9 Place du Temple",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 23,
+      "workflowState": 1,
+      "publishOn": 1788336022115,
+      "addedOn": 1788336022115,
+      "updatedOn": 1781097418088
+    },
+    {
+      "id": "69f888923d814d38b2d3917e",
+      "title": "Linda Ouhbi",
+      "fullUrl": "/programme-2026/expositions/20/linda-ouhbi",
+      "urlId": "expositions/20/linda-ouhbi",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779283220524-H2FPTQ9M7WDWGKJMUF5D/PCC_2026-020-Poesis-Linda_Ouhbi-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Lieu: Poesis",
+        "Artiste: Linda Ouhbi",
+        "Numéro: 19",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Linda Ouhbi façonne à la main des sculptures en grès où la finesse des parois devient signature. Ses pièces, marquées par l’empreinte du temps et de la main, s’imposent comme des volumes autonomes entre savoir-faire ancestraux et formes contemporaines. Les émaux qu’elle formule elle-même prolongent l’expression de la terre, révélant failles, reliefs et mémoire. Au cœur de sa pratique, le corps et ses tensions: ses sculptures traduisent un mouvement intérieur, une présence silencieuse mais toujours habitée.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.183844,
+        "mapLng": 6.140274,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Poesis",
+        "addressLine1": "15 Place du Marché",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 24,
+      "workflowState": 1,
+      "publishOn": 1788249613596,
+      "addedOn": 1788249613596,
+      "updatedOn": 1780670051613
+    },
+    {
+      "id": "69f88af982601b1a55219e6d",
+      "title": "Le Mouvement · Concours international de céramique",
+      "fullUrl": "/programme-2026/expositions/21/mouvement-concours-international-de-ceramique",
+      "urlId": "expositions/21/mouvement-concours-international-de-ceramique",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/28a7584d-a49f-4e93-b10c-9857d06e441b/PCC_2026-21-Musee_de_Carouge-Mouvement_Concours_international_de_ceramique-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Lieu: Musée de Carouge",
+        "Date: 2026-09-19/2026-09-29",
+        "Numéro: 20",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Depuis 1987, le Musée de Carouge organise une biennale de céramique contemporaine portant sur la création d’œuvres autour d’un thème imposé, lequel pour cette 20ème édition est «le mouvement». Les œuvres sélectionnées sont exposées du 19 septembre au 29 novembre 2026.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Les 40 œuvres exposées reflètent des propositions riches, audacieuses et profondément singulières, où le mouvement se décline sous toutes ses formes, figuratives, abstraites ou conceptuelles.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1843684,
+        "mapLng": 6.1391744,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Musée de Carouge",
+        "addressLine1": "2 Place de Sardaigne",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 25,
+      "workflowState": 1,
+      "publishOn": 1788163213244,
+      "addedOn": 1788163213244,
+      "updatedOn": 1780670063608
+    },
+    {
+      "id": "696a4237054fc71a7afeebd0",
+      "title": "Raphaël Emine",
+      "fullUrl": "/programme-2026/expositions/22/raphael-emine",
+      "urlId": "expositions/22/raphael-emine",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779970925964-13W3JRU6IBYMS36VCWT4/PCC_2026-022-Teo_Jakob-Raphael_Emine-015.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Artiste: Raphaël Emine",
+        "Zone: Carouge",
+        "Lieu: Teo Jakob",
+        "Sélection: Homepage",
+        "Date: 2026-09-19/2026-09-27",
+        "Numéro: 21",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>MotherS/Cells_Eggs</em>, Raphaël Emine dévoile un ensemble de céramiques ovoïdes évoquant des corps issus d’autres mondes. Hybridations d’organique et de minéral, ces formes suggèrent l’éclosion d’espèces inconnues, entre science-fiction, bande dessinée et littérature fantastique. En contraste avec les objets d’art et de design du showroom Teo Jakob, ses sculptures s’affranchissent des proportions du corps humain pour nous immerger dans un récit où la création dialogue avec l’ensemble du vivant.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1878743,
+        "mapLng": 6.1402512,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Teo Jakob",
+        "addressLine1": "8 Place de l&#39;Octroi",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 26,
+      "workflowState": 1,
+      "publishOn": 1788080400815,
+      "addedOn": 1788080400815,
+      "updatedOn": 1780670074239
+    },
+    {
+      "id": "69f88b4dae0e0573c35e2a8b",
+      "title": "Youlichka Fioramonti × Jörg Brockmann",
+      "fullUrl": "/programme-2026/expositions/23/youlichka-fioramonti-jorg-brockmann",
+      "urlId": "expositions/23/youlichka-fioramonti-jorg-brockmann",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/ac8744de-d6e5-4e07-a69d-c75132117a25/PCC_2026-022-Espace_Jorg_Brockmann-Youlichka_Fioramonti-006.webp",
+      "mediaFocalPoint": {
+        "x": 0.22767857142857142,
+        "y": 0.43452380952380953,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Artiste: Youlichka Fioramonti",
+        "Artiste: Jörg Brockmann",
+        "Lieu: Espace Jörg Brockmann",
+        "Date: 2026-09-19/2026-10-19",
+        "Numéro: 22",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Jörg Brockmann, photographe, et Youlichka Fioramonti, céramiste, se retrouvent autour d’une aventure commune: transposer le corps sur la porcelaine par le cyanotype, procédé d’impression par la lumière. Dans le studio, le corps est saisi sous des angles inattendus, frôlant l’abstraction. En extérieur, il se fond dans la forêt, les roches, l’eau, cherchant l’osmose. De ce dialogue entre lumière, chimie et feu naissent des images ocres, proches des cavernes du paléolithique.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.18826,
+        "mapLng": 6.1323365,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Espace Jörg Brockmann",
+        "addressLine1": "32 Rue des Noirettes",
+        "addressLine2": "Carouge, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 26,
+      "workflowState": 1,
+      "publishOn": 1788076814073,
+      "addedOn": 1788076814073,
+      "updatedOn": 1781098694329
+    },
+    {
+      "id": "69f4d23fb0db023387fae5c9",
+      "title": "Dita Cossio",
+      "fullUrl": "/programme-2026/expositions/24/dita-cossio",
+      "urlId": "expositions/24/dita-cossio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777984750162-AEY2HD51JXTZK6EQGCXB/PCC_2026-023-Aubert_Jansem_Galerie-Dita_Cossio-022.webp",
+      "mediaFocalPoint": {
+        "x": 0.4920713577799802,
+        "y": 0.7024136167046459,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Artiste: Dita Cossio",
+        "Numéro: 23",
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Lieu: Aubert Jansem Genève"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">La pratique de Dita Cossio naît de la rencontre entre deux savoir-faire: la céramique et la couture. Elle façonne des moules en cuir cousus et rembourrés à la main, véritables peaux qui reçoivent la porcelaine liquide, absorbant tensions, coutures et plis. Ses pièces ne représentent pas des corps, elles sont des corps: comprimées, marquées, portant la mémoire d’une peau qui les a contenues. Topographies de l’absence, fossiles textiles révélant l’anatomie de la tension.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1879912,
+        "mapLng": 6.1261657,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Aubert Jansem Galerie",
+        "addressLine1": "6A Route du Grand-Lancy",
+        "addressLine2": "Lancy, GE, 1227",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 15,
+      "workflowState": 1,
+      "publishOn": 1787990421453,
+      "addedOn": 1787990421453,
+      "updatedOn": 1781593912334
+    },
+    {
+      "id": "69f4ca3727a19d79e3993abc",
+      "title": "Xinyi Hu",
+      "fullUrl": "/programme-2026/expositions/25/xinyi-hu",
+      "urlId": "expositions/25/xinyi-hu",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777650545175-XKEY0IP2BU1UM4X08T18/PCC_2026-24-Art_Resonance-Xin_Yi_Hu-004.webp",
+      "mediaFocalPoint": {
+        "x": 0.5556175941435573,
+        "y": 0.6429169379592596,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Sélection: Homepage",
+        "Date: 2026-09-19/2026-09-27",
+        "Lieu: Art Résonance",
+        "Numéro: 24",
+        "Artiste: Xinyi Hu",
+        "Zone: Genève"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1986027,
+        "mapLng": 6.1539644,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Art Résonance",
+        "addressLine1": "11 Rue Rodolphe-Toepffer",
+        "addressLine2": "Genève, GE, 1206",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 14,
+      "workflowState": 1,
+      "publishOn": 1787904008551,
+      "addedOn": 1787904008551,
+      "updatedOn": 1780669592036
+    },
+    {
+      "id": "69f88c69a44f9a2979822283",
+      "title": "Les collections du Cirva: Le verre, au-delà de la matière",
+      "fullUrl": "/programme-2026/expositions/26/les-collections-du-cirva-le-verre-au-dela-de-la-matiere",
+      "urlId": "expositions/26/les-collections-du-cirva-le-verre-au-dela-de-la-matiere",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779100752010-Y7RYVR3BP3TGKK897VQ5/PCC_2026-25-Musee_Ariana-Les_Collections_du_Cirva-004.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Lieu: Musée Ariana",
+        "Zone: Genève",
+        "Date: 2025-09-19/2026-10-04",
+        "Numéro: 25.1"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">L’exposition <em>Le verre, au-delà de la matière</em> propose une plongée dans les collections du Cirva, centre international de recherche sur le verre et les arts plastiques fondé en 1983 à Marseille. Ce laboratoire atypique accueille en résidence des artistes venus du monde entier qui, pour la plupart, découvrent le verre pour la première fois. À travers une sélection de projets, l’exposition fait dialoguer design et arts visuels, portant un regard contemporain sur une matière travaillée depuis des millénaires.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2254104,
+        "mapLng": 6.1388514,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Musée Ariana",
+        "addressLine1": "10 Avenue de la Paix",
+        "addressLine2": "Genève, GE, 1202",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 27,
+      "workflowState": 1,
+      "publishOn": 1787817642672,
+      "addedOn": 1787817642672,
+      "updatedOn": 1780669616454
+    },
+    {
+      "id": "69f88d8e4be1e46e39170169",
+      "title": "Tender Buttons",
+      "fullUrl": "/programme-2026/expositions/26/tender-buttons",
+      "urlId": "expositions/26/tender-buttons",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1389cfbf-14d9-4c00-83ee-1c053bad4932/PCC_2026-25-Musee_Ariana-Tender_Buttons-017.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Lieu: Musée Ariana",
+        "Zone: Genève",
+        "Date: 2026-04-23/2026-10-30",
+        "Numéro: 25.2"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Inspirée d’un recueil de poésie de Gertrude Stein, l’exposition <em>Tender Buttons</em> propose une approche transdisciplinaire d’une typologie d’objet singulière. Plus de trois cents boutons en céramique et verre dialoguent avec des œuvres du Musée Ariana, du 18e siècle à nos jours. Supports d’expérimentations formelles mais aussi sources de survie, d’expression identitaire et de collaboration, ces objets portés au quotidien révèlent des histoires sociales méconnues. Un hommage à un objet utilitaire et profondément symbolique.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2254104,
+        "mapLng": 6.1388514,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Musée Ariana",
+        "addressLine1": "10 Avenue de la Paix",
+        "addressLine2": "Genève, GE, 1202",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 28,
+      "workflowState": 1,
+      "publishOn": 1787731219989,
+      "addedOn": 1787731219989,
+      "updatedOn": 1780669628608
+    },
+    {
+      "id": "69f88dafc6e22026064a2478",
+      "title": "Marie Ducaté: Simultanés",
+      "fullUrl": "/programme-2026/expositions/26/marie-ducat-simultanes",
+      "urlId": "expositions/26/marie-ducat-simultanes",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780306529362-7NKW2KU55F9H4C0E5Z6P/PCC_2026-25-Musee_Ariana-Marie_Ducate_Simultanes-017.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Lieu: Musée Ariana",
+        "Zone: Genève",
+        "Artiste: Marie Ducaté",
+        "Date: 2026-02-19/2026-12-31",
+        "Numéro: 25.3"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Depuis plus de trente ans, Marie Ducaté déploie un univers éclatant au croisement de la culture pop et de l’histoire de l’art. Le Musée Ariana accueille une sélection de 130 œuvres en céramique, papier calque, aquarelle, textile et verre. La figuration dense de ses débuts se délie et s’abstrait à travers la couleur pour investir la transparence avec ses dernières productions en verre réalisées en Tchéquie, exposées ici de façon inédite. Un esprit libre et curieux à découvrir.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2254104,
+        "mapLng": 6.1388514,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Musée Ariana",
+        "addressLine1": "10 Avenue de la Paix",
+        "addressLine2": "Genève, GE, 1202",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 29,
+      "workflowState": 1,
+      "publishOn": 1787644821177,
+      "addedOn": 1787644821177,
+      "updatedOn": 1780669669093
+    },
+    {
+      "id": "69f88df874e1ce4c39e29010",
+      "title": "Claire Mayet",
+      "fullUrl": "/programme-2026/expositions/27/claire-mayet",
+      "urlId": "expositions/27/claire-mayet",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779375726818-1656WVRU9NI6I6FNQA4S/PCC_2026-27-Espace_Labo-Claire_Mayet-008.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Genève",
+        "Artiste: Claire Mayet",
+        "Lieu: Espace Labo",
+        "Date: 2026-09-17/2026-10-30",
+        "Numéro: 26"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Invitée par Karen Alphonso au Labo, Claire Mayet présente «Rococozeit», une installation céramique qui transforme l’espace du lieu. À partir du vase, elle développe formes, motifs et surfaces qui se déploient à l’échelle de l’exposition. Sculptures, scénographie et papier peint dialoguent dans un décloisonnement des savoir-faire. Une œuvre collective réalisée avec plusieurs artistes invités prolonge cette recherche à travers un processus de co-création et de transmission.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2014076,
+        "mapLng": 6.131189399999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Espace Labo",
+        "addressLine1": "5 Boulevard de Saint-Georges",
+        "addressLine2": "Genève, GE, 1205",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 30,
+      "workflowState": 1,
+      "publishOn": 1787558403936,
+      "addedOn": 1787558403936,
+      "updatedOn": 1780669683886
+    },
+    {
+      "id": "69f88e4374e1ce4c39e2a986",
+      "title": "Margaretta Daepp",
+      "fullUrl": "/programme-2026/expositions/28/margareta-daepp",
+      "urlId": "expositions/28/margareta-daepp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778687207544-C8L4EO4YL484X3ZVJDYW/PCC_2026-27-Ligne_13-Margareta_Daepp-004.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Genève",
+        "Lieu: Galerie Ligne Treize",
+        "Artiste: Margaretta Daepp",
+        "Date: 2026-09-17/2026-09-26",
+        "Numéro: 27"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1986155,
+        "mapLng": 6.1351708,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Ligne Treize",
+        "addressLine1": "51 Boulevard Carl-Vogt",
+        "addressLine2": "Genève, GE, 1205",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 31,
+      "workflowState": 1,
+      "publishOn": 1787472008168,
+      "addedOn": 1787472008168,
+      "updatedOn": 1780669697708
+    },
+    {
+      "id": "69f88f4be61f4720c2e6edea",
+      "title": "Elsewhere Begins Here",
+      "fullUrl": "/programme-2026/expositions/29/elsewhere-begins-here-the-poetics-of-the-in-between",
+      "urlId": "expositions/29/elsewhere-begins-here-the-poetics-of-the-in-between",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/41e51fae-5f6d-410a-ae66-9e540c45d3e9/PCC_2026-29-Espace_L-Elsewhere_Begins_Here-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5000290646980178,
+        "y": 0.8631353764590988,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Genève",
+        "Date: 2026-98-17/2026-10-26",
+        "Vernissage: 2026-09-17",
+        "Artiste: Fernando de la Rocque",
+        "Artiste: Vivianne van Singer",
+        "Artiste: Vasilis Zografos",
+        "Numéro: 28",
+        "Lieu: Espace L"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Pour célébrer les quinze ans d’Espace L, Leticia Maciel réunit Fernando de la Rocque, Vivianne van Singer et Vasilis Zografos dans <em>Elsewhere Begins Here, the Poetics of the In-Between</em>. À travers quinze œuvres, l’exposition explore l’entre-deux comme espace fertile de rencontre et de transformation. La céramique y occupe une place singulière, incarnant à travers le geste, la matière et le feu une métaphore de l’échange culturel et de ses métamorphoses.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1986311,
+        "mapLng": 6.1371031,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Espace_L",
+        "addressLine1": "Rue des Bains",
+        "addressLine2": "Genève, GE, 1205",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 32,
+      "workflowState": 1,
+      "publishOn": 1787385622450,
+      "addedOn": 1787385622450,
+      "updatedOn": 1781595687085
+    },
+    {
+      "id": "69f88f8f5a3a3b38b7c32bab",
+      "title": "Dark Room, Dye Lab &amp; The Kiln",
+      "fullUrl": "/programme-2026/expositions/30/dark-room-dye-lab-and-the-kiln",
+      "urlId": "expositions/30/dark-room-dye-lab-and-the-kiln",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779093646526-IF3GT3Q1612IFYFJVHST/PCC_2026-29-Taste_Contemporary-Garry_Fabian_Miller-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5000310192940008,
+        "y": 0.06548228071807272,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Genève",
+        "Lieu: Taste Contemporary",
+        "Artiste: Marit Tingleff",
+        "Artiste: Ptolemy Mann",
+        "Artiste: Garry Fabian Miller",
+        "Date: 2026-09-17/2026-11-07",
+        "Numéro: 29"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Dark Room, Dye Lab &amp; The Kiln</em> réunit la céramiste Marit Tingleff, le photographe Garry Fabian Miller et la tisserande Ptolemy Mann. Trois espaces de création, trois pratiques où l’on travaille «dans le noir». La chambre noire, l’atelier de teinture et le four à céramique sont autant de lieux d’alchimie où la matière se transforme à l’abri du regard. Un savoir incarné, construit au fil des années, qui donne à chacun la liberté d’une expression aboutie.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2004101,
+        "mapLng": 6.1381332,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Taste Contemporary",
+        "addressLine1": "7 Rue du Vieux-Billard",
+        "addressLine2": "Genève, GE, 1205",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 33,
+      "workflowState": 1,
+      "publishOn": 1787299238383,
+      "addedOn": 1787299238383,
+      "updatedOn": 1780669728714
+    },
+    {
+      "id": "69f890182a65a5690a23ce4e",
+      "title": "Jan Steemann",
+      "fullUrl": "/programme-2026/expositions/31/jan-steemann",
+      "urlId": "expositions/31/jan-steemann",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778072250564-9PSLK3SAVEMUQNZYDOVB/PCC_2026-030-Olizane-Jan_Steemann-011.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Date: 2026-09-19/2026-09-27",
+        "Zone: Genève",
+        "Artiste: Jan Steemann",
+        "Numéro: 30",
+        "Lieu: Olizane – Espace d’art contemporain"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>Mutualisme</em>, Jan Steenman s’inspire des mycorhizes, ces réseaux souterrains de filaments reliant plantes et champignons dans une relation d’échange réciproque. Ses sculptures en céramique se déploient par extensions, ramifications et tensions, comme les manifestations visibles d’un système plus vaste dont l’essentiel demeure invisible. Leurs surfaces organiques suggèrent des réseaux vivants. Chaque pièce est un état transitoire, cristallisation provisoire d’un processus en cours.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984412,
+        "mapLng": 6.137841600000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Espace Olizane",
+        "addressLine1": "11 Rue des Vieux-Grenadiers",
+        "addressLine2": "Genève, GE, 1205",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 34,
+      "workflowState": 1,
+      "publishOn": 1787212847118,
+      "addedOn": 1787212847118,
+      "updatedOn": 1781593990186
+    }
+  ]
+}

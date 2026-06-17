@@ -1,0 +1,1371 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "pcc",
+  "id": "artistes",
+  "path": "/artistes",
+  "sourceUrl": "https://www.pcc.jonasnicollin.ch/artistes?format=json",
+  "updatedAt": "2026-06-17T11:11:16.874Z",
+  "sourceHash": "6cabd1cc82b218ccbbf781ff06db6fc30edc669456ee0732488fa9406b5152b4",
+  "count": 39,
+  "pages": 2,
+  "items": [
+    {
+      "id": "6a1fc5a0259be70f07b0e5c3",
+      "title": "Vasilis Zografos",
+      "fullUrl": "/artistes/vasilis-zografos",
+      "urlId": "vasilis-zografos",
+      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc5a0259be70f07b0e5c3/1780467160392/",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Vasilis Zografos",
+        "Origine: Grèce",
+        "Naissance: 1965"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vasilis Zografos (*1965, Grèce) Vit et travaille à Thessalonique, Grèce</p><p class=\"p1\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vasilis Zografos crée des assemblages de bibelots en porcelaine et de fragments céramiques côtiers, mêlant répliques culturelles et trouvailles accidentelles façonnées par la nature. Ses œuvres forgent un dialogue entre deux «archives», formant un langage visuel où des formes familières transmettent des significations transformées à ceux qui acceptent de les déchiffrer.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1780467118247,
+      "addedOn": 1780467118247,
+      "updatedOn": 1780467160392
+    },
+    {
+      "id": "6a1fc553f8f3ce46ee330641",
+      "title": "Vivianne van Singer",
+      "fullUrl": "/artistes/vivianne-van-singer",
+      "urlId": "vivianne-van-singer",
+      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc553f8f3ce46ee330641/1780467093597/",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Vivianne van Singer",
+        "Origine: Italie",
+        "Naissance: 1957"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vivianne van Singer (*1957, Côme, Italie) Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formée à Lausanne, à l’Université de Toledo (USA) et à l’ESAV de Genève, Vivianne van Singer partage sa vie entre pratique artistique et enseignement de l’histoire de l’art contemporain. Au cœur de sa recherche, la couleur occupe des territoires multiples — réel, imaginaire, symbolique. Elle la traque dans les objets trouvés, les œuvres du passé et son propre environnement, puis invente des stratégies pour la révéler telle qu’elle l’a perçue.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Expositions: CCCB (Barcelone), Maison Tavel (Genève), Mucem (Marseille), Musée Benaki (Athènes), Openbox (Milan).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1780467051017,
+      "addedOn": 1780467051017,
+      "updatedOn": 1780467093597
+    },
+    {
+      "id": "6a1fc51b2e73892294577b65",
+      "title": "Fernando de la Rocque",
+      "fullUrl": "/artistes/fernando-de-la-rocque",
+      "urlId": "fernando-de-la-rocque",
+      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc51b2e73892294577b65/1780467024799/",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Fernando de la Rocque",
+        "Origine: Brésil",
+        "Naissance: 1979"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Fernando de la Rocque (*1979, Brésil) Vit et travaille à Rio de Janeiro, Brésil</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Fernando de la Rocque combine dessin, peinture, broderie et céramique pour construire des mondes vibrants et sensuels. Ses carreaux de porcelaine représentent des figures humaines entrelacées dans des scènes psychédéliques et ludiques, explorant le plaisir, le désir et les normes sociales, invitant le spectateur à reconsidérer ses propres perceptions.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1780466987930,
+      "addedOn": 1780466987930,
+      "updatedOn": 1780467024799
+    },
+    {
+      "id": "6a1fc3a7f8f3ce46ee328660",
+      "title": "Chris Murner",
+      "fullUrl": "/artistes/chris-murner",
+      "urlId": "chris-murner",
+      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc3a7f8f3ce46ee328660/1780466659990/",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Chris Murner",
+        "Origine: Suisse"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Carouge, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Styliste-maroquinière depuis plus de quarante ans, Chris Murner crée et réalise ses collections dans ses ateliers au cœur de Carouge. Inspirée du Bauhaus, elle conjugue une esthétique épurée aux lignes essentielles, alliant liberté formelle et fonction, tout en sublimant le cuir et les peaux dans toute leur qualité et sensualité. Dernière formatrice maroquinière en Suisse, elle a ouvert son centre de formation cmAcm et s’engage activement dans la promotion des métiers d’art et la formation des métiers à petits effectifs.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Prix de l’Artisanat Genevois (2003). Distinction «L’Intelligence de la Main», Ballenberg (2016). Mérite Carougeois pour l’engagement des métiers d’art et la formation (2020). Membre Homo Faber, Guide Michelangelo.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1780466628377,
+      "addedOn": 1780466628377,
+      "updatedOn": 1780466659990
+    },
+    {
+      "id": "6a1fc34bcba4833589da7084",
+      "title": "Sandrine Ramona Nerrou",
+      "fullUrl": "/artistes/sandrine-ramona-nerrou",
+      "urlId": "sandrine-ramona-nerrou",
+      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc34bcba4833589da7084/1780466593264/",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Sandrine Ramona Nerrou",
+        "Origine: France",
+        "Naissance: 1976"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1976, Douarnenez, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Nantes, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Autodidacte, Sandrine Ramona fonde l’Atelier DOUARN en 2005 et se consacre à la porcelaine qu’elle grave, martèle et modèle, la laissant blanche, mate, naturelle, rehaussée parfois de feuille d’or. Elle conçoit essentiellement des panneaux muraux où son inspiration s’ancre dans la notion de mouvements, de flux, de courants générés par l’observation de la nature. Des segments, des fibres, des formes du minuscule semblent se développer, cheminer, grandir en silence et en lenteur. Fragments de vies inscrits, gravés d’une création à une autre, ses œuvres tissent un ensemble narratif où le monde végétal et la notion de temps sont perceptibles. La vie, tout simplement.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Membre des Ateliers d’Art de France depuis 2009. Labellisée Homo Faber (2021).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1780466536466,
+      "addedOn": 1780466536466,
+      "updatedOn": 1780466593264
+    },
+    {
+      "id": "6a182ac9671a8a6611a9243a",
+      "title": "Anja Ripoll",
+      "fullUrl": "/artistes/anja-ripoll",
+      "urlId": "anja-ripoll",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780841153698-4RNV483P63GG2ZTAXSM2/PCC-Anja_Ripoll.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Anja Ripoll",
+        "Origine: Suisse",
+        "Naissance: 1995"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée en céramique du CFP Arts de Genève (2022), Anja Ripoll fait émerger des mondes fantasmagoriques où s’entrelacent chute et ascension, ordre et chaos, renaissance et disparition. Dans le refus d’un système normatif, ses œuvres invitent à regarder de près des recoins chargés de réminiscences pré-post-apocalyptiques: objets funéraires, paysages mythiques, reliques spirituelles. Elles interrogent les marges des réalités dominantes, les déséquilibres sociaux, l’exploitation des ressources et les responsabilités écologiques.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Résidence de soutien aux jeunes céramistes, Fondation Bruckner (2022). Nominée à la Bourse BLCG (2025).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 33,
+      "workflowState": 1,
+      "publishOn": 1779968727199,
+      "addedOn": 1779968727199,
+      "updatedOn": 1780841164578
+    },
+    {
+      "id": "6a1824ba5c5a944ee0691b51",
+      "title": "Raphaël Oboé",
+      "fullUrl": "/artistes/raphael-oboe",
+      "urlId": "raphael-oboe",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780840870432-UMEFD8QYEIA7KKEOH7OS/PCC-Raphael_Oboe.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Raphaël Oboé",
+        "Origine: Brésil",
+        "Naissance: 1995"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille au Brésil.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Venu du graffiti et de l’art de rue, Raphaël Oboé se tourne vers la céramique, aujourd’hui son médium principal, nourri par les traditions artistiques des peuples autochtones d’Amérique du Sud. À travers la terre, il entrelace mémoires familiales, processus de métissage et effacement identitaire, faisant référence de manière empirique et intuitive aux traditions ancestrales du continent. En 2019, un grave accident le cloue au lit pendant deux ans: cette période de convalescence devient un temps d’étude intensive des techniques céramiques, des minéraux et des cultures qui leur sont liées. Son œuvre est un processus de réinterprétation de la douleur et du trauma, où l’expérience corporelle devient outil de transformation.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 32,
+      "workflowState": 1,
+      "publishOn": 1779967188534,
+      "addedOn": 1779967188534,
+      "updatedOn": 1780840898411
+    },
+    {
+      "id": "6a182457e59505151a915b4b",
+      "title": "William Mora",
+      "fullUrl": "/artistes/william-mora",
+      "urlId": "william-mora",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780841710964-RH5KSRC1NME31LFAQKRZ/PCC-William_Mora.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: William Mora",
+        "Origine: Colombie",
+        "Naissance: 1995"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">William Mora (*1995, Bogota, Colombie)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Montréal, Canada</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Titulaire d’un Bachelor en sculpture-céramique de l’Université Concordia, William Mora explore la céramique et les arts graphiques. Son œuvre revisite l’histoire qui structure son identité culturelle et collective, faisant émerger pictogrammes, symboles, images et récits tout en ouvrant une réflexion philosophique sur leur nature. À travers sa double appartenance colombienne et québécoise, il construit un dialogue entre identités, observations et mémoires, nourrissant une expression picturale sensible et symbolique, entre signe et récit.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 31,
+      "workflowState": 1,
+      "publishOn": 1779967158653,
+      "addedOn": 1779967158653,
+      "updatedOn": 1780841837907
+    },
+    {
+      "id": "6a182393b2ed4e3256bdabfa",
+      "title": "Lola Metz",
+      "fullUrl": "/artistes/lola-metz",
+      "urlId": "lola-metz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780841221102-71LTCYGWOX0VWRIAHCK9/PCC-Lola_Metz.webp",
+      "mediaFocalPoint": {
+        "x": 0.7901785714285714,
+        "y": 0.4285714285714286,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: France",
+        "Artiste: Lola Metz",
+        "Naissance: 1995"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Montpellier, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée d’un DNAP des Beaux-Arts de Montpellier (2019), Lola Metz est artiste céramiste et co-créatrice de l’atelier LUSINE34 à Vendargues. Ses céramiques déforment librement la matière et révèlent une esthétique tactile, proche des doudous ou des jouets façonnés par des mains d’enfants. Rigides et fragiles, elles semblent pourtant molles, malléables, presque comme de la pâte à modeler. Par le jeu des textures et des imperfections volontaires, elle détourne les attentes liées à la céramique et ouvre une lecture sensible, instinctive et libre de la matière, entre spontanéité, expressivité et forme enfantine vivante.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 30,
+      "workflowState": 1,
+      "publishOn": 1779967059679,
+      "addedOn": 1779967059679,
+      "updatedOn": 1780841231316
+    },
+    {
+      "id": "6a18203b70e3071bfb05da1f",
+      "title": "Guillaume Martin-Taton",
+      "fullUrl": "/artistes/guillaume-martin-taton",
+      "urlId": "guillaume-martin-taton",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780841550912-X53PFDJ3T1A5GMVMH4GM/PCC-Guillaume_Martin-Taton.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Guillaume Martin-Taton",
+        "Origine: France",
+        "Naissance: 1991"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Guillaume Martin-Taton (*1991, Nîmes, France)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômé du DNSEP de l’ESBAMM Montpellier (2019), Guillaume Martin-Taton est artiste pluridisciplinaire installé à Genève depuis 2022. Depuis 2018, sa pratique se centre sur la céramique, pensée comme le prolongement naturel du dessin et de la peinture. Le passage au volume lui permet d’inscrire un langage visuel né sur la surface dans des formes durables, et d’en explorer la matière, la répétition et la dimension rituelle. Céramique, dessin et peinture forment un triptyque indissociable, où formes, motifs et couleurs issus de l’aposématisme donnent sens aux objets mêmes et aux signes vifs.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 29,
+      "workflowState": 1,
+      "publishOn": 1779966195275,
+      "addedOn": 1779966195275,
+      "updatedOn": 1780841704374
+    },
+    {
+      "id": "6a181fc67d8a711f21851c05",
+      "title": "Eirick Falckner",
+      "fullUrl": "/artistes/eirick-falckner",
+      "urlId": "eirick-falckner",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780840997514-A4OBF0AOVKJ3XJRPSSV4/PCC-Eirik_Falckner.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: Norvège",
+        "Naissance: 1995",
+        "Artiste: Eirick Falckner"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Bergen, Norvège.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômé en beaux-arts de la Bergen Art Academy (2021), Eirick Falckner travaille la céramique, le textile, la vidéo et l’installation. Ses œuvres renvoient à des formes issues de la nature — fossiles, coraux, racines — tout en évoquant des présences inconnues et inquiétantes, venues des profondeurs de l’océan ou de l’espace. Son travail explore l’éphémère et la condition humaine face à des forces naturelles puissantes, presque préhistoriques. Entre fragilité, mystère et transformation, ses sculptures interrogent les fondements de notre existence et notre lien au vivant, en perpétuel devenir.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 28,
+      "workflowState": 1,
+      "publishOn": 1779965894340,
+      "addedOn": 1779965894340,
+      "updatedOn": 1780841011672
+    },
+    {
+      "id": "6a181ad5d8c7644b7eb75dfd",
+      "title": "Sixtine Jacquart",
+      "fullUrl": "/artistes/sixtine-jacquart",
+      "urlId": "sixtine-jacquart",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682373911-16FK0IUS99L6K5XL6KZ0/PCC_2026-13-Halles_de_la_Fonderie-Sixtine_Jacquart-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.35714285714285715,
+        "y": 0.25,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Sixtine Jacquart",
+        "Origine: Belgique",
+        "Origine: France",
+        "Naissance: 1988"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1988, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Bruxelles, Belgique</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée en céramique de La Cambre (ENSAV, Bruxelles, 2012), Sixtine Jacquart combine sculpture, dessin et performance. Elle se concentre sur la porcelaine moulée pour produire des pièces multiples ou modulaires. Dans ses installations, des outils peuvent être activés ou simplement évoquer une action. Avec détachement et cynisme, elle interroge les paradoxes du corps contemporain — modifié, sculpté, capitalisé — en empruntant aux objets leur proximité physique ou sensible au corps. Elle a récemment produit des installations monumentales pour le musée Keramis et des performances autour du travail pré-industriel du cheval.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Prix de la Jeune Céramique, Musée Keramis (2018). Prix Sofam, Watch This Space 11 (2022). Expositions solo: Keramis (La Louvière), ISELP et Wolubilis (Bruxelles), TAMAT (Tournai), La Place (Barcelone). European Ceramic Context (Bornholm), Biennale de Vallauris (2014).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 27,
+      "workflowState": 1,
+      "publishOn": 1779965206222,
+      "addedOn": 1779965206222,
+      "updatedOn": 1780671560747
+    },
+    {
+      "id": "6a180cce2ff0a3423614dfe6",
+      "title": "Youlichka Fioramonti",
+      "fullUrl": "/artistes/youlichka-fioramonti",
+      "urlId": "youlichka-fioramonti",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780846735740-RJPQZDKATC4SG87FOE9R/PCC-Youlichka_Fioramonti.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Youlichka Fioramonti",
+        "Naissance: 1981"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Carouge, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Céramiste indépendante et enseignante au CFP Arts, Youlichka Fioramonti travaille la terre et les émaux avec une attention particulière aux textures et aux structures organiques. Elle n’envisage pas l’argile comme un simple matériau mais comme un partenaire vivant, doté d’une mémoire et d’une volonté propre. Son parcours est celui d’une quête d’équilibre entre maîtrise technique et lâcher-prise artistique. Avec Jörg Brockmann, elle se lance dans l’exploration du cyanotype sur céramique: une nouvelle manière de travailler et d’accepter une part d’imprévisibilité de la matière.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 26,
+      "workflowState": 1,
+      "publishOn": 1779961192110,
+      "addedOn": 1779961192110,
+      "updatedOn": 1780846746348
+    },
+    {
+      "id": "6a1807389f59236feab9b498",
+      "title": "Jörg Brockmann",
+      "fullUrl": "/artistes/jorg-brockmann",
+      "urlId": "jorg-brockmann",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780846808526-5FVWQGUG4YK3VPQGQE2L/PCC-Jorg_Brockmann.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: Suisse",
+        "Artiste: Jörg Brockmann",
+        "Naissance: 1967"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Carouge, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Photographe indépendant et enseignant au CFP Arts, Jörg Brockmann a mené plusieurs expositions et publié des ouvrages remarqués, dont One Thousand New York Buildings. Depuis son atelier du bâtiment Arcoop à Carouge, il explore depuis quelques années des procédés alternatifs, notamment le cyanotype, technique d’impression inventée en 1842 par Sir John Herschel. Sa collaboration avec Youlichka Fioramonti marque sa première aventure en terre céramique, où il applique ce procédé photographique à la surface de l’argile.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 25,
+      "workflowState": 1,
+      "publishOn": 1779959874223,
+      "addedOn": 1779959874223,
+      "updatedOn": 1780846819151
+    },
+    {
+      "id": "6a17f630a919995422be47ad",
+      "title": "Aline Favre",
+      "fullUrl": "/artistes/aline-favre",
+      "urlId": "aline-favre",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/3124f81b-5f74-4115-bd9a-d3251216d069/PCC_2026-016-Galerie_FADA-Aline_Favre-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5142857142857142,
+        "y": 0.27380952380952384,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: Suisse",
+        "Artiste: Aline Favre",
+        "Naissance: 1932"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1932, Genève, Suisse–†2013</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Figure majeure du renouveau de la céramique suisse et de l’émergence de l’École de Genève, Aline Favre se forme à la section céramique de l’École des Arts décoratifs de Genève auprès de Philippe Lambercy. Enseignante dans cette même école de 1965 à 1990, elle développe en parallèle sa pratique personnelle dans trois ateliers collectifs successifs: Jussy, Arare puis Juriens, dans le Jura vaudois. Libérée de l’enseignement, son œuvre gagne en ampleur, s’orientant vers un registre sculptural en grès et porcelaine où l’équilibre fragile entre les formes, le noir et le blanc, le lourd et le léger, devient sa signature.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Membre de l’Académie internationale de céramique. Œuvres dans la collection du Musée Ariana, Genève.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 24,
+      "workflowState": 1,
+      "publishOn": 1779955316335,
+      "addedOn": 1779955316335,
+      "updatedOn": 1779971606502
+    },
+    {
+      "id": "6a170479d1176116afcc62f3",
+      "title": "Nina Malo",
+      "fullUrl": "/artistes/nina-malo",
+      "urlId": "nina-malo",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780749448672-8HFI3XYYDFP5T4QZ4XJ6/PCC-Nina_Malo.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: Suisse",
+        "Naissance: 1961",
+        "Artiste: Nina Malo"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Nina Mathèz-Loïc, *1961, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille entre Genève et Le Cap, Afrique du Sud</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formée à la HEAD – Genève en bijou et design d’objet, Nina Malo découvre la céramique en 2017 au Cap, où elle séjourne plusieurs mois par an. Elle développe une pratique sculpturale en grès-porcelaine et terre raku, construisant ses pièces au colombin avec une liberté guidée par la main. Jamais émaillées, ses sculptures sont teintées par enfumage, oxydes et substances naturelles, puis polies avec un soin extrême qui leur confère une douceur tactile singulière. Cercle, spirale, ruban de Möbius: ses formes organiques déploient une chorégraphie silencieuse entre tension, équilibre et vide, dans une quête du mouvement infini.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 1,
+      "workflowState": 1,
+      "publishOn": 1779896647808,
+      "addedOn": 1779896647808,
+      "updatedOn": 1780749458049
+    },
+    {
+      "id": "6a106f335846c9763631759c",
+      "title": "Jan Steenman",
+      "fullUrl": "/artistes/jan-steenman",
+      "urlId": "jan-steenman",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780670915477-306SSY8NH37G3CG8VCZ6/PCC-Jan_Steemann.webp",
+      "mediaFocalPoint": {
+        "x": 0.8097276505986724,
+        "y": 0.3452702074225653,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: Suisse",
+        "Artiste: Jan Steenman",
+        "Naissance: 1994"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1994, Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste-sculpteur diplômé d’un Bachelor à la Royal Academy of Art de La Haye (2018) et d’un Master à la HEAD – Genève (2022), Jan Steenman développe une pratique céramique entre sculpture et recherche formelle.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Expositions: Musée Ariana, Palais de Justice de Genève, KunstRAI Amsterdam, Palm Springs Art Museum. Biface I (2023) dans la collection du Musée Ariana. Solo show à ArtGenève (2026). Résidence à l’EKWC (European Ceramic Workcentre, Pays-Bas).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 0,
+      "workflowState": 1,
+      "publishOn": 1779462019036,
+      "addedOn": 1779462019036,
+      "updatedOn": 1780670927195
+    },
+    {
+      "id": "6a106eb430bd2b52ee323eef",
+      "title": "Margareta Daepp",
+      "fullUrl": "/artistes/margareta-daepp",
+      "urlId": "margareta-daepp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778687206434-B375V41YUN2DHDIQCH0J/PCC_2026-27-Ligne_13-Margareta_Daepp-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.48214285714285715,
+        "y": 0.15476190476190477,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Margareta Daepp",
+        "Origine: Suisse",
+        "Naissance: 1959"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1959, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Berne, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste céramiste et designer, Margareta Daepp s’est formée aux écoles des arts appliqués de Berne et de Genève (sous la direction de Setsuko Nagasawa) puis à l’Université des Arts de Berlin. De nombreuses résidences au Japon et en Chine nourrissent un travail exigeant et épuré. Son œuvre se caractérise par la radicalité de formes simples, voire minimales, combinées à des couleurs réfléchies, vives ou aiguës, et une technique maîtrisée.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 2,
+      "workflowState": 1,
+      "publishOn": 1779461904183,
+      "addedOn": 1779461904183,
+      "updatedOn": 1780670971840
+    },
+    {
+      "id": "6a106e69158af01a826e32c7",
+      "title": "Xinyi Hu",
+      "fullUrl": "/artistes/xinyi-hu",
+      "urlId": "xinyi-hu",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780845154349-G0AGB2LNPI88S1322EDP/PCC-Xinyi_Hu.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Xinyi Hu",
+        "Origine: Chine",
+        "Origine: France"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Saint-Denis, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste visuelle diplômée de la HEAD – Genève (2022), Xinyi Hu développe une pratique mêlant céramique, installation et performance. Son travail explore les relations entre corps et matière à travers des formes évolutives où vulnérabilité et soin sont en jeu. Elle conçoit ses œuvres comme des situations sensibles, où gestes et matières se soutiennent et se transforment.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lauréate d’une bourse de la Fondation Bruckner en 2023</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 3,
+      "workflowState": 1,
+      "publishOn": 1779461807895,
+      "addedOn": 1779461807895,
+      "updatedOn": 1780845167532
+    },
+    {
+      "id": "6a106e1e9ddeab5508da40bd",
+      "title": "Dita Cossio",
+      "fullUrl": "/artistes/dita-cossio",
+      "urlId": "dita-cossio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780846047453-0VV8N9N95T5Q9HTOX24X/PCC-Dita_Cossio.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Dita Cossio",
+        "Origine: Chili"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Dita Cossio (Bernardita Cossio) (*Chili — année de naissance non disponible) Vit et travaille à Santiago, Chili</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste multidisciplinaire chilienne, Dita Cossio fonde sa pratique sur l’interrelation entre céramique et couture. Après un diplôme en design (Universidad Católica de Chile) et plus d’une décennie en direction artistique, elle se tourne en 2015 vers l’investigation des objets. Elle développe un procédé autodidacte mêlant quilting et coulage de porcelaine dans des moules textiles, explorant comment la souplesse peut façonner la structure. Ses formes hybrides font de la céramique une peau, une archive, un réceptacle.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Prix spécial, Gyeonggi Ceramics Biennale (Corée). Homo Faber (Venise). Révélations (Paris).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 4,
+      "workflowState": 1,
+      "publishOn": 1779461733343,
+      "addedOn": 1779461733343,
+      "updatedOn": 1780846056229
+    },
+    {
+      "id": "6a106dc6550f886bc74b1365",
+      "title": "Raphaël Emine",
+      "fullUrl": "/artistes/raphael-emine",
+      "urlId": "raphael-emine",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779970925751-27XLDV2V3R0PNUGMPSO2/PCC_2026-022-Teo_Jakob-Raphael_Emine-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.4732142857142857,
+        "y": 0.6845238095238095,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Raphaël Emine",
+        "Naissance: 1986",
+        "Origine: France"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1986, Les Sables-d’Olonne, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Paris, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Les sculptures de Raphaël Emine fusionnent modelage traditionnel et impression 3D céramique pour créer des formes complexes inspirées des architectures produites par les vivants. En intégrant parfois végétaux, insectes et bactéries dans ses œuvres, il explore la manière dont nature et création peuvent interagir, au croisement entre architecture utopique, design spéculatif et arts décoratifs.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 5,
+      "workflowState": 1,
+      "publishOn": 1779461641505,
+      "addedOn": 1779461641505,
+      "updatedOn": 1779971023151
+    },
+    {
+      "id": "6a106d667da356766a5a4eaa",
+      "title": "Hélène Loussier",
+      "fullUrl": "/artistes/helene-loussier",
+      "urlId": "helene-loussier",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780912560445-54GXYN0TR4OZVLIF7LZU/PCC-Helene-Loussier.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: France",
+        "Artiste: Hélène Loussier",
+        "Naissance: 1960"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1960, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille en Baie de Somme, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Née dans une famille de musiciens, Hélène Loussier peint, écrit et dessine depuis l’enfance. Après des études artistiques, des séjours à New York puis à Londres, elle s’installe à Paris où elle expérimente peinture et dessin. Elle découvre la terre, qui devient son outil d’expression quasi unique à partir de 2011. Depuis 2024, son atelier de modelage se trouve en Baie de Somme.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Galeries à Paris, Boulogne-Billancourt, Vaison-la-Romaine, Roubaix, Château-Gontier, La Flotte et Châteauneuf-en-Auxois.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 6,
+      "workflowState": 1,
+      "publishOn": 1779461559430,
+      "addedOn": 1779461559430,
+      "updatedOn": 1780912569888
+    },
+    {
+      "id": "6a106d144b886432e77de3b2",
+      "title": "Anne Breton",
+      "fullUrl": "/artistes/anne-breton",
+      "urlId": "anne-breton",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780671323736-YWSBD2609HX4DT5FH2L2/PCC-Anne_Breton.webp",
+      "mediaFocalPoint": {
+        "x": 0.5000290646980178,
+        "y": 0.1607217597544529,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Anne Breton",
+        "Origine: France",
+        "Naissance: 1977"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1977, Nancy, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Lille, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Après des études d’art et de design enrichies par un parcours dans la vidéo et le textile, Anne Breton se consacre à la céramique. Elle aborde la sculpture par le modelage et déploie un univers onirique et sensible, constitué de pièces abstraites et de personnages en grès. Consacrant du temps à la recherche des matières, elle réalise ses propres émaux et engobes. Fidèle à son parcours pluridisciplinaire, elle intègre parfois d’autres matériaux à ses œuvres, prolongeant le dialogue entre formes et textures.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 7,
+      "workflowState": 1,
+      "publishOn": 1779461471997,
+      "addedOn": 1779461471997,
+      "updatedOn": 1780671333786
+    },
+    {
+      "id": "6a106cb274da2a5979a2b598",
+      "title": "Marie-Josée Comello",
+      "fullUrl": "/artistes/marie-josee-comello",
+      "urlId": "marie-josee-comello",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780844952057-64H2WYELPA7J2XF6NV5G/PCC-Marie-Josee_Comello.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Marie-Josée Comello",
+        "Origine: Pays-Bas",
+        "Naissance: 1964"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille aux Pays-Bas.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste céramiste néerlandaise, Marie-Josée Comello obtient son BFA (2009) et son MFA (2010) à la MAD Faculty de Hasselt, Belgique. Après avoir vécu et travaillé en Italie et en Allemagne, elle revient aux Pays-Bas où elle poursuit une pratique sculpturale saluée sur la scène internationale de la céramique contemporaine.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MARTINSONS Gold Award, Biennale internationale de céramique de Lettonie (2016). Audience Prize, Museum De Domijnen (2017). Second Prix, Ceramic Art Andenne (2018). Second Prix, Biennale d’Aveiro (2021). Kikuchi Biennale Tokyo (2025). Membre de l’IAC.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 8,
+      "workflowState": 1,
+      "publishOn": 1779461392117,
+      "addedOn": 1779461392117,
+      "updatedOn": 1780845006313
+    },
+    {
+      "id": "6a106c43d80a7b61c613309c",
+      "title": "Fabienne Guyomarch",
+      "fullUrl": "/artistes/fabienne-guyomarch",
+      "urlId": "fabienne-guyomarch",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780911952580-NPM5UVGUCLVI24W2ZJ07/PCC-Fabienne_Guyomarch-02.webp",
+      "mediaFocalPoint": {
+        "x": 0.7410714285714286,
+        "y": 0.4821428571428571,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: Suisse",
+        "Artiste: Fabienne Guyomarch",
+        "Naissance: 1965"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Veyrier, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Céramiste formée auprès de Michèle Dethurens, Fabienne Guyomarch explore la création céramique depuis 1980. Sa pratique, nourrie par la recherche artistique, l’enseignement et des stages spécialisés, se concentre sur la porcelaine. Elle en façonne la transparence et les formes organiques, dans une quête sensible de la matière et de la lumière qui confère à ses pièces une présence à la fois délicate et affirmée.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 9,
+      "workflowState": 1,
+      "publishOn": 1779461274966,
+      "addedOn": 1779461274966,
+      "updatedOn": 1780912155702
+    },
+    {
+      "id": "6a106a55c50c8753fe763f4b",
+      "title": "Claire Mayet",
+      "fullUrl": "/artistes/claire-mayet",
+      "urlId": "claire-mayet",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779461024264-1DTEB5YWVZVDS47IBK9D/PCC_Claire_Mayet.webp",
+      "mediaFocalPoint": {
+        "x": 0.35714285714285715,
+        "y": 0.20238095238095233,
+        "source": 3
+      },
+      "tags": [
+        "Origine: Suisse",
+        "Artiste: Claire Mayet",
+        "Naissance: 1979",
+        "Origine: France"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1979, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée de la HEAD – Genève, Claire Mayet développe une pratique de la céramique autour des notions d’ornement, de revêtement, de décor et de réappropriation. Depuis 2023, elle enseigne la céramique à la HEAD.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Expositions: Biennale de Vallauris, Musée de Carouge, Officine Saffi (Milan), Salon C14 (Paris).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 10,
+      "workflowState": 1,
+      "publishOn": 1779461034892,
+      "addedOn": 1779461034892,
+      "updatedOn": 1779461187903
+    },
+    {
+      "id": "6a106806840e9b406bb5af55",
+      "title": "Laure Gonthier",
+      "fullUrl": "/artistes/laure-gonthier",
+      "urlId": "laure-gonthier",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780912122194-MJNBLSPM5Z06KH5RH796/PCC-Laure_Gonthier.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: Suisse",
+        "Naissance: 1983",
+        "Artiste: Laure Gonthier"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à la Vallée de Joux, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée d’un Master of Arts in Public Spheres (EDHEA, Sierre, 2023), formée au CERCCO (HEAD) et à l’école des arts appliqués de Vevey, Laure Gonthier séjourne régulièrement en Chine pour affiner ses connaissances techniques et tisser des liens entre tradition et art contemporain. Ses recherches portent sur les relations entre imaginaire, transformation du matériau, mémoire et vivant. Elle développe une pratique qui oscille entre l’atelier et des projets expérimentaux, inscrite dans une recherche poétique du lien entre humain et paysage.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Prix de la relève Pro Helvetia. Soutien de la Fondation Ikea. Membre fondatrice de L-imprimerie (Lausanne) et du collectif LACS.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 11,
+      "workflowState": 1,
+      "publishOn": 1779460193219,
+      "addedOn": 1779460193219,
+      "updatedOn": 1780912135793
+    },
+    {
+      "id": "6a1067732e380559ef93166b",
+      "title": "Capucine Pageron",
+      "fullUrl": "/artistes/capucine-pageron",
+      "urlId": "capucine-pageron",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780912343896-0ZZ99RN11UQRIM5DOF33/PCC-Capucine_Pageron-02.webp",
+      "mediaFocalPoint": {
+        "x": 0.2856256591599975,
+        "y": 0.5059994419123802,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: France",
+        "Artiste: Capucine Pageron",
+        "Naissance: 1995"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Nantes, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Dessinatrice et ancienne designeuse d’espace diplômée de l’école Boulle (2017), Capucine Pageron trouve dans la céramique le lien entre son travail de l’espace et du dessin. Formée à la Maison de la Céramique de Dieulefit (2021), elle développe un univers empreint de son identité graphique, que celui-ci soit modelé ou appliqué comme décor. Dans son atelier nantais, elle modèle en grès et en porcelaine des objets entre utilitaire et sculptural.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lauréate d’une résidence de soutien de la Fondation Bruckner en 2024</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 12,
+      "workflowState": 1,
+      "publishOn": 1779460053352,
+      "addedOn": 1779460053352,
+      "updatedOn": 1780912359899
+    },
+    {
+      "id": "6a1066e3aa76a10d73cefca9",
+      "title": "Amélie Patry",
+      "fullUrl": "/artistes/amelie-patry",
+      "urlId": "amelie-patry",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1776949232230-DYQO2GGZAGQJKJ3H8NHD/Placeholder-Amelie_Patry-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.31401499738417715,
+        "y": 0.351206808352323,
+        "source": 3
+      },
+      "tags": [
+        "Origine: France",
+        "Naissance: 1990",
+        "Artiste: Amélie Patry"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1990, Angers, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Denée, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Amélie Patry arpente les chemins noirs où elle collecte terres, roches et végétaux. De ces fragments naissent bols et vases qui relient la matière, le corps et les paysages. Dans son atelier, le minéral fusionne au four en une géologie sensible. Ses pièces modelées, libres et spontanées, révèlent des harmonies brutes, douces et vibrantes, nourries par une intimité profonde avec le territoire ligérien.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 13,
+      "workflowState": 1,
+      "publishOn": 1779459897922,
+      "addedOn": 1779459897922,
+      "updatedOn": 1779459955885
+    },
+    {
+      "id": "6a1065915beeb215a59f338b",
+      "title": "Marianne Brand",
+      "fullUrl": "/artistes/marianne-brand",
+      "urlId": "marianne-brand",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780846507161-MA8UND3XOSNHCIW47U1N/PCC-Marianne_Brand.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Marianne Brand",
+        "Origine: Suisse",
+        "Naissance: 1945"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Carouge, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Céramiste et figure emblématique de la scène carougeoise, Marianne Brand consacre sa vie à l’art de la terre et à sa promotion. Après un diplôme de laborantine, elle se tourne vers la céramique et installe son atelier à Carouge dès 1969. Elle participe à des expositions internationales et remporte plusieurs distinctions. Actrice majeure de la promotion céramique, elle ouvre sa galerie d’art en 1986, initie le Parcours Céramique Carougeois trois ans plus tard et l’organise jusqu’en 2007.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 14,
+      "workflowState": 1,
+      "publishOn": 1779459589266,
+      "addedOn": 1779459589266,
+      "updatedOn": 1780846519984
+    },
+    {
+      "id": "6a1064db5cd9802582747cd6",
+      "title": "Asya Marakulina",
+      "fullUrl": "/artistes/asya-marakulina",
+      "urlId": "asya-marakulina",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779274150564-A93XV2WQ5TNGYGN7JB2W/PCC_2026-04-Maison_Pertin-Asya_Marakulina-007.webp",
+      "mediaFocalPoint": {
+        "x": 0.39285714285714285,
+        "y": 0.29761904761904767,
+        "source": 3
+      },
+      "tags": [
+        "Origine: Autriche",
+        "Origine: Russie",
+        "Naissance: 1988",
+        "Artiste: Asya Marakulina"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1988, Perm, Russie</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Vienne, Autriche</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste multidisciplinaire, Asya Marakulina travaille la céramique, le dessin, le textile, la sculpture et l’installation. Au cours des deux dernières années, elle s’est concentrée sur la céramique pour explorer ce que signifie être humain dans un paysage urbain en mutation et contradictoire. Elle envisage la ville comme un organisme vivant dans lequel se reflètent les transformations politiques, sociales et artistiques d’une époque.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Credit Suisse Award for Young Artists, Cosmoscow (2018). Prix spécial de l’Institut Français, Sergey Kuryokhin Award (2019). Ceramic Brussels Art Fair Prize (2025). Membre d’IG Bildende Kunst, Autriche.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 15,
+      "workflowState": 1,
+      "publishOn": 1779459417741,
+      "addedOn": 1779459417741,
+      "updatedOn": 1779459473335
+    },
+    {
+      "id": "6a1063f6e01b4a4d056068c8",
+      "title": "Ninon Hivert",
+      "fullUrl": "/artistes/ninon-hivert",
+      "urlId": "ninon-hivert",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780846277872-98HA114YSKP9KIH6APCK/PCC-Ninon_Hivert.webp",
+      "mediaFocalPoint": {
+        "x": 0.2819623389494549,
+        "y": 0.47621262149467514,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: Italie",
+        "Naissance: 1995",
+        "Artiste: Ninon Hivert",
+        "Origine: France"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1995</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille entre Paris et Montpellier, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ninon Hivert réalise des sculptures en céramique à partir d’objets du quotidien — doudounes, casquettes, chaussures, sacs à dos, extincteurs — non pour les reproduire à l’identique, mais pour leur accorder une âme au-delà de leur usage. Ce ne sont pas des répliques: ce sont des vestiges archéologiques de notre temps qui convoquent les êtres qui les ont portés. En les sculptant dans l’argile, elle leur transfère une sensibilité, une fragilité qui nous renvoie à nos origines et à notre propre finitude.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée de l’ESBA Montpellier (2017) et de l’ENSBA Paris (2021). Lauréate du Ceramic Brussels Art Prize 2026 (Prix du Centre Wallonie-Bruxelles, Prix Monographie de l’ambassade de France, Prix résidence CCCA Yixing). Finaliste du Prix Carré sur Seine (2024). Lauréate du Prix Galerie C14 (2025).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 16,
+      "workflowState": 1,
+      "publishOn": 1779459187658,
+      "addedOn": 1779459187658,
+      "updatedOn": 1780846288986
+    },
+    {
+      "id": "6a105eeef3f2ba431350c5a0",
+      "title": "Natascha Madeiski",
+      "fullUrl": "/artistes/marie-pic-m4546-pfd63-hbbhh-zpmzx-t2lzs",
+      "urlId": "marie-pic-m4546-pfd63-hbbhh-zpmzx-t2lzs",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780670762277-FJPOT57NM033MQTNH3X7/PCC-Natascha_Madeiski.webp",
+      "mediaFocalPoint": {
+        "x": 0.44642857142857145,
+        "y": 0.22023809523809523,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Natascha Madeiski",
+        "Origine: Suisse",
+        "Origine: Italie"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*Bolzano, Italie</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Zurich, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Designer et artiste multidisciplinaire formée en architecture à Innsbruck, Natascha Madeiski travaille à la frontière entre objets expérimentaux et fonctionnels. Sa pratique explore la recherche sur les matériaux, transformant rebuts industriels et matières non conventionnelles par des techniques artisanales guidées par le processus. Entre sculpture et design, elle crée des pièces uniques aux côtés d’objets plus fonctionnels, s’ouvrant aussi à des contextes d’art public.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 17,
+      "workflowState": 1,
+      "publishOn": 1779458079783,
+      "addedOn": 1779458079783,
+      "updatedOn": 1780670797376
+    },
+    {
+      "id": "6a0eb134d4fa6d498a000eb7",
+      "title": "Léonie Chauchat",
+      "fullUrl": "/artistes/marie-pic-m4546-pfd63-hbbhh-zpmzx",
+      "urlId": "marie-pic-m4546-pfd63-hbbhh-zpmzx",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780671182576-LOR4K5CEGFP7JO03J9VD/PCC-Leonie_Chauchat.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: France",
+        "Artiste: Léonie Chauchat",
+        "Origine: Belgique",
+        "Naissance: 1993"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée en céramique de l’ENSAV La Cambre à Bruxelles (2018), Léonie Chauchat allie pratique sculpturale et savoir-faire potier. Grâce à sa maîtrise du moulage, du tournage et du modelage, elle explore les analogies entre les contenants-refuges qui l’entourent: le pot, le corps, la maison. Ses pièces interrogent ce qui abrite, contient et protège, dans un dialogue constant entre forme utilitaire et geste sculptural.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 18,
+      "workflowState": 1,
+      "publishOn": 1779347816070,
+      "addedOn": 1779347816070,
+      "updatedOn": 1780744150996
+    },
+    {
+      "id": "6a0db573cb76e605dd279659",
+      "title": "Linda Ouhbi",
+      "fullUrl": "/artistes/linda-ouhbi",
+      "urlId": "linda-ouhbi",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779283214802-NXZ7Z9G5YILI9EYCYWAU/PCC_2026-020-Poesis-Linda_Ouhbi-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5803571428571429,
+        "y": 0.22619047619047616,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Linda Ouhbi",
+        "Origine: Maroc",
+        "Naissance: 1984"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1984, Casablanca, Maroc</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Paris, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formée à l’École Duperré, Linda Ouhbi façonne des pièces en grès selon la technique ancestrale du colombin. Ce procédé lent fait naître des formes uniques à l’équilibre fragile, empreintes d’une qualité émotionnelle propre. Elle poursuit une recherche exigeante sur les émaux de grès, explorant les effets de la matière cuite et de la lumière à partir de matières premières naturelles. Inspirée par les créations de civilisations anciennes, elle inscrit son travail minimaliste entre objet d’art et sculpture, dans la continuité d’un langage universel.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lauréate du Prix Visa Kyoto (2018). Résidence artistique au Japon: expositions au Tokyo Metropolitan Art Museum et à Kyoto. Représentée dans des galeries aux États-Unis, au Danemark, au Royaume-Uni et en France.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 19,
+      "workflowState": 1,
+      "publishOn": 1779283382558,
+      "addedOn": 1779283382558,
+      "updatedOn": 1779959748848
+    },
+    {
+      "id": "6a0dabf056e3da031ce1f1de",
+      "title": "Louis Danjou",
+      "fullUrl": "/artistes/louis-danjou",
+      "urlId": "louis-danjou",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779275780420-0JVG0WNXY55W6GCV5MLO/PCC_2026-14-DUKAT-Louis_Danjou-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.48414914076555615,
+        "y": 0.36312901125476704,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Origine: France",
+        "Artiste: Louis Danjou",
+        "Naissance: 1984"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Louis Danjou (*1984)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille en région parisienne, France (Ateliers Wonder)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste pluridisciplinaire formé aux arts appliqués à l’Institut Saint-Luc de Tournai (Belgique), Louis Danjou embrasse sculpture, performance, art culinaire, peinture, céramique et bijouterie. Sa démarche repose sur la porosité entre les disciplines: la bijouterie informe la sculpture dans son rapport au corps, la céramique dialogue avec la cuisine dans l’apprivoisement de la matière par le feu. Membre fondateur des Ateliers Wonder, il y occupe une place de cuisinier, médiateur et créateur de lien, faisant du repas partagé un espace de sculpture sociale. La collaboration est au cœur de sa pratique, aux côtés de plasticiens, musiciens et performeurs.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Expositions et performances: Palais de Tokyo (2025), FRAC Île-de-France (2018), HEAD – Genève, Rome, Brême, Bruxelles. Workshop Sauvage Cuisine, HEAD – Genève (2025).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 21,
+      "workflowState": 1,
+      "publishOn": 1779280924545,
+      "addedOn": 1779280924545,
+      "updatedOn": 1779965884750
+    },
+    {
+      "id": "6a0da1a4a6142b4e8c57eec9",
+      "title": "Marie Pic",
+      "fullUrl": "/artistes/marie-pic",
+      "urlId": "marie-pic",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779278086309-Q3LM8LWPFRWFD0IXET16/PCC_2026-14-DUKAT-Marie_Pic-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.48214285714285715,
+        "y": 0.3214285714285714,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Marie Pic",
+        "Origine: France",
+        "Naissance: 1996"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Marie Pic (*1996, Clermont-Ferrand, France)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Saint-Fons, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée d’un DNSEP art mention céramique de l’École Nationale Supérieure d’Art et de Design de Limoges (2021), Marie Pic est artiste céramiste et résidente des ateliers du CAP Saint-Fons depuis juin 2024. Sa pratique explore les notions de passage et de seuil, à travers des formes sculpturales mêlant architecture, symétries bourgeonnantes et représentations végétales.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lauréate du Ceramic Brussels Art Prize 2026. Résidence au YXCCCA (Chine). Expositions: La Peau de l’Ours (Bruxelles), BAM Projects (Bordeaux).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 22,
+      "workflowState": 1,
+      "publishOn": 1779278298590,
+      "addedOn": 1779278298590,
+      "updatedOn": 1779967989258
+    },
+    {
+      "id": "69fde7da1f3bca474c51b0d5",
+      "title": "Marie Gueydon de Dives",
+      "fullUrl": "/artistes/Blog Post Title One-3zaa9-zlxng-67tfc-a4hyr-s8h6a",
+      "urlId": "Blog Post Title One-3zaa9-zlxng-67tfc-a4hyr-s8h6a",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778247987326-N13MC5FCC5FKZBF7IYYS/PCC-Artist-Marie_Gueydon_de_Dives-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.6041969423937685,
+        "y": 0.19048504859787008,
+        "source": 3
+      },
+      "tags": [
+        "Artiste: Marie Gueydon de Dives",
+        "Origine: France",
+        "Naissance: 1982"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1982, Paris, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille dans le Gard, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Céramiste et plasticienne, Marie Gueydon de Dives développe un travail d’installation in situ où la terre prolonge le corps et engage une relation directe aux éléments: terre, eau, air, feu et à leurs transformations. Son passage d’un contexte urbain à un environnement rural marque un tournant dans sa pratique, désormais centrée sur les formes du vivant. Ses installations investissent aussi bien des espaces d’exposition que des sites naturels, là où la céramique entre en résonance avec le paysage.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Installations: Céramique 14, Festival d’Anduze, Musée de la Briqueterie, Bambouseraie en Cévennes, Parc Naturel Régional de Camargue.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 23,
+      "workflowState": 1,
+      "publishOn": 1778248004298,
+      "addedOn": 1778248004298,
+      "updatedOn": 1779457558612
+    },
+    {
+      "id": "69fb353a191a2915b3f7e85c",
+      "title": "Theaster Gates",
+      "fullUrl": "/artistes/Blog Post Title One-3zaa9-zlxng-67tfc-a4hyr",
+      "urlId": "Blog Post Title One-3zaa9-zlxng-67tfc-a4hyr",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778072521559-NQEYZ2FBGWVZ97E9UP1F/Placeholder-Theaster_Gates-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5039643211100099,
+        "y": 0.16667441752313628,
+        "source": 3
+      },
+      "tags": [
+        "Origine: Royaume-Uni",
+        "Artiste: Theaster Gates",
+        "Naissance: 1973"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Chicago.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Evelliquo dolumque molutem poribus aute volorem volupit hici dia aupti dus, od maio. Ipsandio. Liti temquis verchil mod que necaeperibus nimperis volesti beruptaque que labo. Ximaximus iunt doloratem laborum ne et venis atempor ruptas sumquis sit hiligenita soluptatus vero quas et eaquibus nonsequodi non corum quam quo et liquunt eaquo quiatque doles aut accaeruntur aut eos doluptum quunt volore reperib ernat.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 24,
+      "workflowState": 1,
+      "publishOn": 1559056390536,
+      "addedOn": 1559056390536,
+      "updatedOn": 1778247642906
+    }
+  ]
+}
