@@ -14,18 +14,23 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 24
 
       - name: Build collection JSON
-        run: node scripts/build-collection-json.mjs sources/collections/pcc.json
+        run: |
+          set -e
+          for config in sources/collections/*.json; do
+            echo "Building ${config}"
+            node scripts/build-collection-json.mjs "$config"
+          done
 
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7.1.0
         with:
-          commit_message: Update PCC collection data
-          file_pattern: public/data/collections/pcc/*.json
+          commit_message: Update collection data
+          file_pattern: public/data/collections/**/*.json
