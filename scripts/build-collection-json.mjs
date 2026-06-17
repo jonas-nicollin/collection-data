@@ -92,12 +92,43 @@ function hashItems(items) {
     .digest('hex');
 }
 
-async function fetchJson(url) {
+function mergeSetCookie(cookieHeader, cookies) {
+  if (!cookieHeader) return cookies;
+
+  String(cookieHeader)
+    .split(/,(?=\s*[^;,=\s]+=[^;,]+)/)
+    .forEach((part) => {
+      const first = part.split(';')[0].trim();
+      const eq = first.indexOf('=');
+      if (eq > 0) {
+        cookies.set(first.slice(0, eq), first.slice(eq + 1));
+      }
+    });
+
+  return cookies;
+}
+
+function cookieHeader(cookies) {
+  return Array.from(cookies.entries())
+    .map(([key, value]) => `${key}=${value}`)
+    .join('; ');
+}
+
+async function fetchJson(url, cookies) {
+  const headers = {
+    accept: 'application/json',
+    'accept-language': 'fr-CH,fr;q=0.9,en;q=0.8',
+    'user-agent': 'CollectionDataSync/1.0 (+https://github.com/jonas-nicollin/collection-data)'
+  };
+
+  const cookie = cookieHeader(cookies);
+  if (cookie) headers.cookie = cookie;
+
   const res = await fetch(url, {
-    headers: {
-      accept: 'application/json'
-    }
+    headers
   });
+
+  mergeSetCookie(res.headers.get('set-cookie'), cookies);
 
   if (!res.ok) {
     throw new Error(`HTTP ${res.status} while fetching ${url}`);
@@ -110,11 +141,12 @@ async function fetchAllCollectionItems(collection) {
   let url = ensureJson(collection.url);
   const items = [];
   const visited = new Set();
+  const cookies = new Map();
   let pages = 0;
 
   while (url && !visited.has(url)) {
     visited.add(url);
-    const data = await fetchJson(url);
+    const data = await fetchJson(url, cookies);
     const batch = extractItems(data).map(cloneEssentialItem);
     items.push(...batch);
     pages += 1;
