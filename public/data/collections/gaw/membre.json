@@ -1,0 +1,3473 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "gaw",
+  "id": "membre",
+  "path": "/membre",
+  "sourceUrl": "https://genevaartweek.com/membre?format=json",
+  "updatedAt": "2026-06-19T07:45:11.449Z",
+  "sourceHash": "8f81062c47b7bed6569dc963d77b2eb2441555dd642273196032198130cc0e4f",
+  "count": 87,
+  "pages": 1,
+  "items": [
+    {
+      "id": "6824878dcdfab25869f2b26a",
+      "title": "Analix Forever",
+      "fullUrl": "/membre/analix-forever",
+      "urlId": "analix-forever",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/a01713ff-33d1-4e10-9dbb-a23c82b0c3b1/Geneva_Art_Week-Members-Analix_Forever-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Analix Forever",
+        "Quartier: Chêne-Bourg",
+        "Thématique: Art contemporain",
+        "Thématique: Dessin",
+        "Thématique: Peinture",
+        "Thématique: Photographie",
+        "Thématique: Vidéo"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 13,
+        "mapLat": 46.1948072,
+        "mapLng": 6.1918804,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Analix Forever",
+        "addressLine1": "Rue du Gothard 10 ",
+        "addressLine2": "1225 Chêne-Bourg",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 6,
+      "workflowState": 1,
+      "publishOn": 1748649600571,
+      "addedOn": 1748649600571,
+      "updatedOn": 1779202115901
+    },
+    {
+      "id": "6824878dcdfab25869f2b273",
+      "title": "Arcadia",
+      "fullUrl": "/membre/arcadia",
+      "urlId": "arcadia",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7c869ff2-795c-45ea-9fd9-69ecda7b52c9/Geneva_Art_Week-Members-Arcadia-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Design"
+      ],
+      "tags": [
+        "Quartier: Eaux-Vives Cité",
+        "Thématique: Design",
+        "Thématique: Autres",
+        "Thématique: Art contemporain",
+        "Membre: Arcadia"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 14,
+        "mapLat": 46.2040668,
+        "mapLng": 6.1586818,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "ARCADIA",
+        "addressLine1": "Rue des Eaux-Vives 20 ",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 8,
+      "workflowState": 1,
+      "publishOn": 1748476800370,
+      "addedOn": 1748476800370,
+      "updatedOn": 1778444091265
+    },
+    {
+      "id": "6a252c2437cb0c548d7ea898",
+      "title": "ArtHUG – Hôpitaux universitaires de Genève",
+      "fullUrl": "/membre/arthug-hopitaux-universitaires-de-geneve",
+      "urlId": "arthug-hopitaux-universitaires-de-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/31eb7043-7497-4609-a9f4-bfabfbac1379/Geneva_Art_Week-Members-ArtHUG.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Membre: ArtHUG – Hôpitaux universitaires de Genève",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Thématique: L'art à l'hôpital",
+        "Thématique: Art et Soin",
+        "Quartier: Champel"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1959095,
+        "mapLng": 6.147964,
+        "markerLat": 46.1959095,
+        "markerLng": 6.147964,
+        "addressTitle": "ArtHUG - Hôpitaux universitaires de Genève",
+        "addressLine1": "Boulevard de la Tour 8",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 83,
+      "workflowState": 1,
+      "publishOn": 1748421028846,
+      "addedOn": 1748421028846,
+      "updatedOn": 1781647204437
+    },
+    {
+      "id": "6824878dcdfab25869f2b293",
+      "title": "Art Resonance Gallery",
+      "fullUrl": "/membre/art-resonance-gallery",
+      "urlId": "art-resonance-gallery",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755505232324-DK3XWAY6271C8N0MDPDN/Geneva_Art_Week-Members-Art_Resonance_Gallery-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.6110009910802775,
+        "y": 0.19941403525089518,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Art Resonance Gallery",
+        "Thématique: Art contemporain",
+        "Thématique: Verre contemporain",
+        "Quartier: Vieille-Ville"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1986027,
+        "mapLng": 6.1539644,
+        "markerLat": 46.1986027,
+        "markerLng": 6.1539644,
+        "addressTitle": "Art Resonance Gallery",
+        "addressLine1": "Rue Rodolphe-Toepffer 11 ",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 10,
+      "workflowState": 1,
+      "publishOn": 1748304000813,
+      "addedOn": 1748304000813,
+      "updatedOn": 1780812030203
+    },
+    {
+      "id": "6a31c0452ae9c66774cbbfe4",
+      "title": "Atelier Galerie Kaolin",
+      "fullUrl": "/membre/atelier-galerie-kaolin",
+      "urlId": "atelier-galerie-kaolin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781646973721-W2MWLQX4EKVX0ZR899WD/Geneva_Art_Week-Members-GalerieKaolin.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Atelier Galerie Kaolin",
+        "Thématique: Céramique",
+        "Thématique: Sculpture",
+        "Thématique: Art contemporain",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1863342,
+        "mapLng": 6.1422364,
+        "markerLat": 46.1863342,
+        "markerLng": 6.1422364,
+        "addressTitle": "Atelier Galerie Kaolin",
+        "addressLine1": "Avenue Cardinal-Mermillod 18",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 87,
+      "workflowState": 1,
+      "publishOn": 1748302181143,
+      "addedOn": 1748302181143,
+      "updatedOn": 1781647305243
+    },
+    {
+      "id": "6824878ecdfab25869f2b296",
+      "title": "Aubert Jansem Genève",
+      "fullUrl": "/membre/aubert-jansem-geneve",
+      "urlId": "aubert-jansem-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753288897738-QZSD0QPQGD4BJC7XEU0U/Geneva_Art_Week-Members-Aubert_Jansem_Geneve-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Thématique: Art moderne",
+        "Thématique: Céramique",
+        "Thématique: Dessin",
+        "Thématique: Peinture",
+        "Thématique: Sculpture",
+        "Quartier: Acacias Bâtie",
+        "Membre: Aubert Jansem Genève"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 15,
+        "mapLat": 46.1880367,
+        "mapLng": 6.1268962,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Aubert Jansem",
+        "addressLine1": "Route des Jeunes 4ter ",
+        "addressLine2": "1227 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 30,
+      "workflowState": 1,
+      "publishOn": 1748293200802,
+      "addedOn": 1748293200802,
+      "updatedOn": 1778444624173
+    },
+    {
+      "id": "6824878ecdfab25869f2b299",
+      "title": "BAART",
+      "fullUrl": "/membre/baart",
+      "urlId": "baart",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1756192482095-YW29LGIK3TIE4Q5JG0GW/Geneva_Art_Week-Members-BAART-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: BAART",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Sculpture",
+        "Thématique: Photographie",
+        "Thématique: Scène émergente",
+        "Thématique: Scène artistique suisse",
+        "Quartier: Eaux-Vives Cité"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2019652,
+        "mapLng": 6.1600192,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "BAART",
+        "addressLine1": "Rue du Nant 6 ",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 11,
+      "workflowState": 1,
+      "publishOn": 1748253600298,
+      "addedOn": 1748253600298,
+      "updatedOn": 1778444280515
+    },
+    {
+      "id": "687cf30a65caa0077fbbfdf3",
+      "title": "Base Window",
+      "fullUrl": "/membre/base-window",
+      "urlId": "base-window",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753371709770-KY1FQUWETNPF64K4159N/Geneva_Art_Week-Members-Base_Window-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Base Window",
+        "Quartier: Pâquis Sécheron",
+        "Thématique: Photographie",
+        "Thématique: Scène émergente",
+        "Thématique: Art contemporain",
+        "Thématique: Mixed Media",
+        "Thématique: Peinture"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2103999,
+        "mapLng": 6.149202499999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Base Window",
+        "addressLine1": "Rue de Monthoux 12",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 12,
+      "workflowState": 1,
+      "publishOn": 1748242800856,
+      "addedOn": 1748242800856,
+      "updatedOn": 1778444303790
+    },
+    {
+      "id": "6824878fcdfab25869f2b2a2",
+      "title": "Centre d’édition contemporaine",
+      "fullUrl": "/membre/centre-d-edition-contemporaine",
+      "urlId": "centre-d-edition-contemporaine",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/97604d1e-874d-4c37-bcaf-e597bf869f8b/Geneva_Art_Week-Members-Centre_d_edition_contemporaine-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Centre d'édition contemporaine",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Mixed Media",
+        "Thématique: Artist talk",
+        "Thématique: Performance",
+        "Thématique: Éditions et livres d'artistes",
+        "Quartier: Quartier des Bains",
+        "Thématique: Autres"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 14,
+        "mapLat": 46.20222709999999,
+        "mapLng": 6.138189799999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Centre d&#39;édition contemporaine",
+        "addressLine1": "Rue des Rois 15 ",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 14,
+      "workflowState": 1,
+      "publishOn": 1747908000489,
+      "addedOn": 1747908000489,
+      "updatedOn": 1778444374848
+    },
+    {
+      "id": "6824878ecdfab25869f2b29c",
+      "title": "Centre de la photographie Genève",
+      "fullUrl": "/membre/centre-de-la-photographie-geneve",
+      "urlId": "centre-de-la-photographie-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753116253397-W5YX8YZY3YCDIM89BMT9/Geneva_Art_Week-Members-Centre-de-la-photographie-Geneve-Thumbnail_Image-Annik-Wetter-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Centre de la photographie Genève",
+        "Quartier: Quartier des Bains",
+        "Thématique: Art contemporain",
+        "Thématique: Photographie",
+        "Thématique: Scène émergente",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Art numérique"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1988698,
+        "mapLng": 6.1452326,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Centre de la photographie Genève",
+        "addressLine1": "Promenade des Bastions 8",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 15,
+      "workflowState": 1,
+      "publishOn": 1747872000571,
+      "addedOn": 1747872000571,
+      "updatedOn": 1778444468015
+    },
+    {
+      "id": "688883cb191cfc034f3fb982",
+      "title": "Cinéma Bio",
+      "fullUrl": "/membre/cinema-bio",
+      "urlId": "cinema-bio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1754473094467-698FQ64C5YM2KJGEDBJY/Geneva_Art_Week-Members-Cinema_Bio-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Cinéma Bio",
+        "Thématique: Cinéma",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1844613,
+        "mapLng": 6.1414776,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Cinéma Bio",
+        "addressLine1": "Rue Saint-Joseph 47",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 16,
+      "workflowState": 1,
+      "publishOn": 1747815480720,
+      "addedOn": 1747815480720,
+      "updatedOn": 1778444554477
+    },
+    {
+      "id": "6824878fcdfab25869f2b2a5",
+      "title": "Collection du Crest",
+      "fullUrl": "/membre/collection-du-crest",
+      "urlId": "collection-du-crest",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753431847812-VGL5OKLRI5JTJONX5G2O/Geneva_Art_Week-Members-Collection_du_Crest-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Collection du Crest",
+        "Thématique: Peinture",
+        "Quartier: Jussy",
+        "Quartier: Autre"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2369152,
+        "mapLng": 6.2561596,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Collection du Crest",
+        "addressLine1": "Route du Château-du-Crest 40",
+        "addressLine2": "1254 Jussy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 17,
+      "workflowState": 1,
+      "publishOn": 1747785600817,
+      "addedOn": 1747785600817,
+      "updatedOn": 1778444723779
+    },
+    {
+      "id": "6824878fcdfab25869f2b2c1",
+      "title": "De Jonckheere",
+      "fullUrl": "/membre/de-jonckheere",
+      "urlId": "de-jonckheere",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753291122600-NY038M51YE0CL5X6WWQ2/Geneva_Art_Week-Members-De_Jonckheere-Featured_Image-Thumbnail-002.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: De Jonckheere",
+        "Thématique: Peinture",
+        "Thématique: Autres",
+        "Thématique: Art ancien",
+        "Quartier: Vieille-Ville"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2006739,
+        "mapLng": 6.1476339,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "De Jonckheere",
+        "addressLine1": "Rue de l&#39;Hôtel-de-Ville 7",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 18,
+      "workflowState": 1,
+      "publishOn": 1747699200395,
+      "addedOn": 1747699200395,
+      "updatedOn": 1778444809685
+    },
+    {
+      "id": "6824878fcdfab25869f2b2c5",
+      "title": "Dimanche",
+      "fullUrl": "/membre/dimanche",
+      "urlId": "dimanche",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/2e354dc8-08bc-4285-a872-703d3a9d4f5d/Geneva_Art_Week-Members-Dimanche-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Design"
+      ],
+      "tags": [
+        "Membre: Dimanche",
+        "Thématique: Scénographie",
+        "Thématique: Architecture",
+        "Thématique: Swiss art awards",
+        "Quartier: Plainpalais"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.196059,
+        "mapLng": 6.145803799999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Dimanche",
+        "addressLine1": "Rue Micheli-du-Crest 2",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 19,
+      "workflowState": 1,
+      "publishOn": 1747612800397,
+      "addedOn": 1747612800397,
+      "updatedOn": 1778444836416
+    },
+    {
+      "id": "6824878fcdfab25869f2b2c8",
+      "title": "Domum",
+      "fullUrl": "/membre/domum",
+      "urlId": "domum",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1754475386811-2W8DMDXZ3RWCVKFUGZV7/Geneva_Art_Week-Members-Domum-Thumbnail_Image-002.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Design"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Thématique: Art contemporain",
+        "Thématique: Arts décoratifs du XXe siècle",
+        "Thématique: Design moderniste",
+        "Thématique: Collectible design",
+        "Thématique: Art textile",
+        "Thématique: Design contemporain",
+        "Quartier: Quartier des Bains",
+        "Membre: Domum"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2009241,
+        "mapLng": 6.137485799999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "DOMUM",
+        "addressLine1": "Rue des Bains 61",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 20,
+      "workflowState": 1,
+      "publishOn": 1747526400968,
+      "addedOn": 1747526400968,
+      "updatedOn": 1778444949418
+    },
+    {
+      "id": "68248790cdfab25869f2b2cb",
+      "title": "Espace 3353",
+      "fullUrl": "/membre/espace-3353",
+      "urlId": "espace-3353",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755865668892-IJLXWOJL5G1Q4MJ9ZPO8/Geneva_Art_Week-Members-Espace_3353-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Membre: Espace 3353",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Thématique: Scène artistique suisse",
+        "Quartier: Carouge"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1800636,
+        "mapLng": 6.142471,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Espace 3353",
+        "addressLine1": "Rue du Tunnel 9",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 21,
+      "workflowState": 1,
+      "publishOn": 1747440000079,
+      "addedOn": 1747440000079,
+      "updatedOn": 1778445038993
+    },
+    {
+      "id": "687cf81d4647cd45e2704818",
+      "title": "Espace_L",
+      "fullUrl": "/membre/espace-l",
+      "urlId": "espace-l",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753375453766-C2JB9JGD5P2UA7RT3YH3/Geneva_Art_Week-Members-Espace_L-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Espace_L",
+        "Quartier: Quartier des Bains",
+        "Thématique: Art contemporain",
+        "Thématique: Céramique",
+        "Thématique: Photographie",
+        "Thématique: Peinture",
+        "Thématique: Sculpture"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.198065,
+        "mapLng": 6.136406,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Espace_L",
+        "addressLine1": "Rue des Bains 23",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 22,
+      "workflowState": 1,
+      "publishOn": 1747378800533,
+      "addedOn": 1747378800533,
+      "updatedOn": 1779194417570
+    },
+    {
+      "id": "6a2512fa54fe294edeb7383a",
+      "title": "Espace Dukat",
+      "fullUrl": "/membre/espace-dukat",
+      "urlId": "espace-dukat",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1780816444243-MG7PSTYBF7N7UCYPGVQ4/Geneva_Art_Week-Members-EspaceDukat.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Quartier: Carouge",
+        "Thématique: Art contemporain",
+        "Thématique: Mixed Media",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Scène émergente",
+        "Membre: Espace Dukat"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1853998,
+        "mapLng": 6.1456988,
+        "markerLat": 46.1853998,
+        "markerLng": 6.1456988,
+        "addressTitle": "Espace Dukat",
+        "addressLine1": "Avenue Cardinal-Mermillod 21",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 80,
+      "workflowState": 1,
+      "publishOn": 1747377786694,
+      "addedOn": 1747377786694,
+      "updatedOn": 1780820078115
+    },
+    {
+      "id": "68248794cdfab25869f2b37b",
+      "title": "Ferme de la Chapelle",
+      "fullUrl": "/membre/ferme-de-la-chapelle",
+      "urlId": "ferme-de-la-chapelle",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/40d93472-487f-4fdf-b3f8-72374e485a4b/Geneva_Art_Week-Members-Ferme_de_la_Chapelle-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Ferme de la Chapelle",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Thématique: Scène artistique suisse",
+        "Quartier: Autre",
+        "Quartier: Lancy"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.17122370000001,
+        "mapLng": 6.135657699999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Ferme de la Chapelle",
+        "addressLine1": "Route de La-Chapelle 39",
+        "addressLine2": "1212 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 24,
+      "workflowState": 1,
+      "publishOn": 1747267200639,
+      "addedOn": 1747267200639,
+      "updatedOn": 1778445142060
+    },
+    {
+      "id": "68248790cdfab25869f2b2eb",
+      "title": "FMAC – Fonds d’art contemporain de la Ville de Genève",
+      "fullUrl": "/membre/fmac-fonds-d-art-contemporain-de-la-ville-de-geneve",
+      "urlId": "fmac-fonds-d-art-contemporain-de-la-ville-de-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781133825861-GKWZ3HJTWT0J8OEI1FWP/Geneva_Art_Week-Members-FMAC.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains",
+        "Membre: FMAC – Fonds d’art contemporain de la Ville de Genève"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2025598,
+        "mapLng": 6.1350337,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "FMAC - Fonds d&#39;art contemporain de la Ville de Genève",
+        "addressLine1": "Chemin du 23-Août 5",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 25,
+      "workflowState": 1,
+      "publishOn": 1747267200408,
+      "addedOn": 1747267200408,
+      "updatedOn": 1781133834576
+    },
+    {
+      "id": "68248790cdfab25869f2b2ee",
+      "title": "Fondation Bruckner",
+      "fullUrl": "/membre/fondation-bruckner",
+      "urlId": "fondation-bruckner",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753290481853-V9FD469BEM3S1YROBUZL/Geneva_Art_Week-Members-Fondation_Bruckner_Centre_Ceramique-Featured_Image-002.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Fondation Bruckner",
+        "Thématique: Céramique",
+        "Quartier: Carouge"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1742431,
+        "mapLng": 6.1352809,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Fondation Bruckner",
+        "addressLine1": "Chemin de Grange-Collomb 38",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 26,
+      "workflowState": 1,
+      "publishOn": 1747180800494,
+      "addedOn": 1747180800494,
+      "updatedOn": 1778445225655
+    },
+    {
+      "id": "68248791cdfab25869f2b2f1",
+      "title": "Fondation WRP",
+      "fullUrl": "/membre/fondation-wrp",
+      "urlId": "fondation-wrp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753429378934-6B43MA9D3TJ1D8RUBBVR/Geneva_Art_Week-Members-Fondation_WRP-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Fondation WRP",
+        "Thématique: Art contemporain",
+        "Thématique: Céramique",
+        "Thématique: Sculpture",
+        "Thématique: Mixed Media",
+        "Quartier: Grottes Saint-Gervais"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20793690000001,
+        "mapLng": 6.140896100000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Fondation WRP",
+        "addressLine1": "Rue Argand 3",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 27,
+      "workflowState": 1,
+      "publishOn": 1747094400764,
+      "addedOn": 1747094400764,
+      "updatedOn": 1778445268001
+    },
+    {
+      "id": "68248791cdfab25869f2b2f4",
+      "title": "Forde",
+      "fullUrl": "/membre/forde",
+      "urlId": "forde",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755503129599-FMK7FSX60T7AISAL6GCB/Geneva_Art_Week-Members-Forde-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Membre: Forde",
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20396330000001,
+        "mapLng": 6.135971,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Forde",
+        "addressLine1": "Rue de la Coulouvrenière 11",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 28,
+      "workflowState": 1,
+      "publishOn": 1747008000100,
+      "addedOn": 1747008000100,
+      "updatedOn": 1778700936436
+    },
+    {
+      "id": "6898e97467c80b4b1ff06089",
+      "title": "Galerie Annick Zufferey",
+      "fullUrl": "/membre/galerie-annick-zufferey",
+      "urlId": "galerie-annick-zufferey",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755513261917-T2LARVUGJ63EMVSWNW3B/Geneva_Art_Week-Members-Galerie_Annick_Zufferey-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Galerie Annick Zufferey",
+        "Thématique: Bijou contemporain",
+        "Thématique: Bijou d'auteur",
+        "Thématique: Bijou design",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1849249,
+        "mapLng": 6.1390474,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Annick Zufferey",
+        "addressLine1": "Place des Charmettes 1",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 29,
+      "workflowState": 1,
+      "publishOn": 1747004400706,
+      "addedOn": 1747004400706,
+      "updatedOn": 1778445549557
+    },
+    {
+      "id": "68248791cdfab25869f2b2f7",
+      "title": "Galerie Fabienne Levy",
+      "fullUrl": "/membre/fabienne-levy",
+      "urlId": "fabienne-levy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753614254853-9U1BTTX4RKAE9BJUH4QP/Geneva_Art_Week-Members-Fabienne_Levy-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Galerie Fabienne Levy",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Scène émergente",
+        "Quartier: Quartier des Bains",
+        "Thématique: Dessin",
+        "Thématique: Sculpture"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1985036,
+        "mapLng": 6.1388396,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Fabienne Levy",
+        "addressLine1": "Rue des Vieux-Grenadiers 2",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 31,
+      "workflowState": 1,
+      "publishOn": 1746925200663,
+      "addedOn": 1746925200663,
+      "updatedOn": 1781643701382
+    },
+    {
+      "id": "6a31ba0abc9a0719f5e776e5",
+      "title": "Galerie h",
+      "fullUrl": "/membre/galerie-h",
+      "urlId": "galerie-h",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781644600164-PDW2PUSXJZZB45HK838W/Geneva_Art_Week-Members-GalerieH.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Galerie h",
+        "Thématique: Céramique",
+        "Thématique: Bijou contemporain",
+        "Thématique: Textile ancien",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1854849,
+        "mapLng": 6.1403136,
+        "markerLat": 46.1854849,
+        "markerLng": 6.1403136,
+        "addressTitle": "Galerie h",
+        "addressLine1": "Rue Saint-Victor 21",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 86,
+      "workflowState": 1,
+      "publishOn": 1746921786583,
+      "addedOn": 1746921786583,
+      "updatedOn": 1781645381167
+    },
+    {
+      "id": "68248791cdfab25869f2b314",
+      "title": "Galerie Lange + Pult",
+      "fullUrl": "/membre/galerie-lange-pult",
+      "urlId": "galerie-lange-pult",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753429723964-P6KBFC29WBSXXKL3NV99/Geneva_Art_Week-Members-Galerie_Lange_Pult-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Sculpture",
+        "Quartier: Quartier des Bains",
+        "Membre: Galerie Lange + Pult"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1983213,
+        "mapLng": 6.1370313,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie lange &#43; pult",
+        "addressLine1": "Rue des Bains 22",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 32,
+      "workflowState": 1,
+      "publishOn": 1746835200125,
+      "addedOn": 1746835200125,
+      "updatedOn": 1778445709010
+    },
+    {
+      "id": "68248791cdfab25869f2b317",
+      "title": "Galerie Latham",
+      "fullUrl": "/membre/galerie-latham",
+      "urlId": "galerie-latham",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753616202150-LO0M6KQLIDKTK413JASM/Geneva_Art_Week-Members-Galerie_Latham-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Design"
+      ],
+      "tags": [
+        "Membre: Galerie Latham",
+        "Thématique: Céramique",
+        "Thématique: Autres",
+        "Thématique: Verrerie",
+        "Thématique: Bronze",
+        "Quartier: Autre",
+        "Quartier: Quartier des banques"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2016042,
+        "mapLng": 6.140503799999999,
+        "markerLat": 46.2016042,
+        "markerLng": 6.140503799999999,
+        "addressTitle": "Galerie Latham",
+        "addressLine1": "Boulevard Georges-Favon 19",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 33,
+      "workflowState": 1,
+      "publishOn": 1746820800363,
+      "addedOn": 1746820800363,
+      "updatedOn": 1781648009266
+    },
+    {
+      "id": "6899efc768649936a31d8c09",
+      "title": "Galerie Ligne Treize",
+      "fullUrl": "/membre/galerie-ligne-treize",
+      "urlId": "galerie-ligne-treize",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781642947604-3GTQAQBGVOVSDAKDC6X2/Geneva_Art_Week-Members-GalerieLigneTreize.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Galerie Ligne Treize",
+        "Thématique: Art contemporain",
+        "Thématique: Dessin",
+        "Thématique: Peinture",
+        "Thématique: Céramique",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1978488,
+        "mapLng": 6.1358049,
+        "markerLat": 46.1978488,
+        "markerLng": 6.1358049,
+        "addressTitle": "Galerie Ligne Treize",
+        "addressLine1": "Boulevard Carl-Vogt 52",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 34,
+      "workflowState": 1,
+      "publishOn": 1746754020733,
+      "addedOn": 1746754020733,
+      "updatedOn": 1781643019929
+    },
+    {
+      "id": "68b0b98d3e112f3afcdb3de5",
+      "title": "Galerie Marianne Brand",
+      "fullUrl": "/membre/galerie-marianne-brand",
+      "urlId": "galerie-marianne-brand",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1756654543958-GPT98VTEZKEFMTST1ZF6/Geneva_Art_Week-Members-Galerie_Marianne_Brand-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Galerie Marianne Brand",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Dessin",
+        "Thématique: Sculpture",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1825548,
+        "mapLng": 6.1410136,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Marianne Brand",
+        "addressLine1": "Rue Ancienne 20",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 35,
+      "workflowState": 1,
+      "publishOn": 1746692700899,
+      "addedOn": 1746692700899,
+      "updatedOn": 1778446059368
+    },
+    {
+      "id": "68248792cdfab25869f2b31d",
+      "title": "Galerie Mezzanin",
+      "fullUrl": "/membre/galerie-mezzanin",
+      "urlId": "galerie-mezzanin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753434669685-CC22V69NU4P0WGMVWVNW/Geneva_Art_Week-Members-Galerie_Mezzanin-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Galerie Mezzanin",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Sculpture",
+        "Thématique: Mixed Media",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1985419365971,
+        "mapLng": 6.149252345782545,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Mezzanin",
+        "addressLine1": "Rue des Maraîchers 63",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 36,
+      "workflowState": 1,
+      "publishOn": 1746576000602,
+      "addedOn": 1746576000602,
+      "updatedOn": 1781134313418
+    },
+    {
+      "id": "68a7703bb98fa652d187ce8e",
+      "title": "Galerie Papiers Gras",
+      "fullUrl": "/membre/galerie-papiers-gras",
+      "urlId": "galerie-papiers-gras",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755867471309-FGO0JOKJ640CGAH6CUOV/Geneva_Art_Week-Members-Galerie_Papiers_Gras-Additional_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Thématique: Dessin",
+        "Thématique: Peinture",
+        "Thématique: Illustration",
+        "Thématique: Bande Dessinée",
+        "Membre: Galerie Papiers Gras",
+        "Quartier: Île"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2047293,
+        "mapLng": 6.1418877,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Papiers Gras",
+        "addressLine1": "Place de l&#39;Ile 1",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 37,
+      "workflowState": 1,
+      "publishOn": 1746516240181,
+      "addedOn": 1746516240181,
+      "updatedOn": 1780810903969
+    },
+    {
+      "id": "6898ea0eb1d6b17e81949dfb",
+      "title": "Galerie Peter Kammermann",
+      "fullUrl": "/membre/galerie-peter-kammermann",
+      "urlId": "galerie-peter-kammermann",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/3950e78b-dd69-4f15-b0cf-c7936db41185/Geneva_Art_Week-Members-Peter_Kammermann-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Galerie Peter Kammermann",
+        "Thématique: Sculpture",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1854889,
+        "mapLng": 6.1403222,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Peter Kammermann",
+        "addressLine1": "Rue Saint-Victor 21",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 38,
+      "workflowState": 1,
+      "publishOn": 1746514200804,
+      "addedOn": 1746514200804,
+      "updatedOn": 1778446261920
+    },
+    {
+      "id": "687cfa47946dc70a1cf1bc1e",
+      "title": "Galerie Polomarco",
+      "fullUrl": "/membre/galerie-polomarco",
+      "urlId": "galerie-polomarco",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753432005955-GW9HTLP3Y8VY98GOOT6I/Geneva_Art_Week-Members-Galerie_Polomarco-Thumbnail_Image-001.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Galerie Polomarco",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Photographie",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Scène émergente",
+        "Quartier: Vieille-Ville",
+        "Thématique: Sculpture"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2024371,
+        "mapLng": 6.144836999999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Polomarco",
+        "addressLine1": "Grand-Rue 5",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 40,
+      "workflowState": 1,
+      "publishOn": 1746486000247,
+      "addedOn": 1746486000247,
+      "updatedOn": 1780819341465
+    },
+    {
+      "id": "68248792cdfab25869f2b324",
+      "title": "Galerie Rosa Turetsky",
+      "fullUrl": "/membre/galerie-rosa-turetsky",
+      "urlId": "galerie-rosa-turetsky",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0f8f2c5a-0d75-409c-ab65-20ed2b604204/Geneva_Art_Week-Members-Galerie_Rosa_Turetsky-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Galerie Rosa Turetsky",
+        "Thématique: Art contemporain",
+        "Thématique: Dessin",
+        "Thématique: Peinture",
+        "Thématique: Sculpture",
+        "Thématique: Scène artistique suisse",
+        "Quartier: Vieille-Ville"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 15,
+        "mapLat": 46.2017889,
+        "mapLng": 6.146338600000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Rosa Turetsky ",
+        "addressLine1": "Grand-Rue 25 ",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 41,
+      "workflowState": 1,
+      "publishOn": 1746403200262,
+      "addedOn": 1746403200262,
+      "updatedOn": 1778446373191
+    },
+    {
+      "id": "68248793cdfab25869f2b346",
+      "title": "Galerie Séries Rares",
+      "fullUrl": "/membre/galerie-series-rares",
+      "urlId": "galerie-series-rares",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0a63660a-285e-49a1-a7e8-df1b3ab985f6/Geneva_Art_Week-Members-Galerie_Series_Rares-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Galerie Séries Rares",
+        "Quartier: Carouge",
+        "Thématique: Arts appliqués",
+        "Thématique: Céramique",
+        "Thématique: Bande Dessinée",
+        "Thématique: Illustration"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1849465,
+        "mapLng": 6.1423862,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Séries Rares",
+        "addressLine1": "Rue Vautier 15",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 42,
+      "workflowState": 1,
+      "publishOn": 1746316800678,
+      "addedOn": 1746316800678,
+      "updatedOn": 1778446395698
+    },
+    {
+      "id": "68248793cdfab25869f2b340",
+      "title": "Galerie Sonia Zannettacci",
+      "fullUrl": "/membre/galerie-sonia-zannettacci",
+      "urlId": "galerie-sonia-zannettacci",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753690681040-4NVOWY4GP02CVBOI92CZ/Geneva_Art_Week-Members-Galerie_Sonia_Zannettacci-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Galerie Sonia Zannettacci",
+        "Thématique: Art contemporain",
+        "Thématique: Photographie",
+        "Quartier: Vieille-Ville"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 14,
+        "mapLat": 46.20102869999999,
+        "mapLng": 6.1459188,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Sonia Zannettacci",
+        "addressLine1": "Rue Henri-Fazy 4",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 43,
+      "workflowState": 1,
+      "publishOn": 1746313200847,
+      "addedOn": 1746313200847,
+      "updatedOn": 1778446427698
+    },
+    {
+      "id": "68248793cdfab25869f2b356",
+      "title": "Gowen",
+      "fullUrl": "/membre/gowen",
+      "urlId": "gowen",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1756277967339-T94JRYXR49GTUO587TC0/Geneva_Art_Week-Members-GOWEN-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Quartier: Vieille-Ville",
+        "Membre: Gowen"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2018792,
+        "mapLng": 6.146126499999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "GOWEN",
+        "addressLine1": "Grand-Rue 23",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 44,
+      "workflowState": 1,
+      "publishOn": 1746057600575,
+      "addedOn": 1746057600575,
+      "updatedOn": 1780813113395
+    },
+    {
+      "id": "687cf6cd620a31627dde0200",
+      "title": "Gutknecht Gallery",
+      "fullUrl": "/membre/gutknecht-gallery",
+      "urlId": "gutknecht-gallery",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753691015803-9JH539DDK6DS2QOOMEPL/Geneva_Art_Week-Members-Gutknecht_Gallery-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Gutknecht Gallery",
+        "Quartier: Vieille-Ville",
+        "Thématique: Photographie"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1993532,
+        "mapLng": 6.148347800000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Gutknecht Gallery",
+        "addressLine1": "Rue Saint-Léger 28",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 45,
+      "workflowState": 1,
+      "publishOn": 1745996400994,
+      "addedOn": 1745996400994,
+      "updatedOn": 1778446582904
+    },
+    {
+      "id": "68248793cdfab25869f2b372",
+      "title": "Halle Nord",
+      "fullUrl": "/membre/halle-nord",
+      "urlId": "halle-nord",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753616875048-RGGHY7JEEUVERRHT0JFW/Geneva_Art_Week-Members-Halle_Nord-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Quartier: Autre",
+        "Quartier: L'Ile",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Thématique: Mixed Media",
+        "Thématique: Sculpture",
+        "Thématique: Peinture",
+        "Membre: Halle Nord"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.204655,
+        "mapLng": 6.1410144,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Halle Nord/Capsules",
+        "addressLine1": "1 Place de l&#39;Ile",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 46,
+      "workflowState": 1,
+      "publishOn": 1745971200745,
+      "addedOn": 1745971200745,
+      "updatedOn": 1778446641567
+    },
+    {
+      "id": "68248794cdfab25869f2b375",
+      "title": "HiFlow",
+      "fullUrl": "/membre/hiflow",
+      "urlId": "hiflow",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753368910449-8U6B56712FTQR2RVSL0T/Geneva_Art_Week-Members-HiFlow-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Quartier: Plan-les-Ouates",
+        "Thématique: Art contemporain",
+        "Thématique: Design",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Scène émergente",
+        "Thématique: Mixed Media",
+        "Membre: HiFlow"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 13,
+        "mapLat": 46.1647721,
+        "mapLng": 6.103385,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Hiflow",
+        "addressLine1": "Chemin du Champ-des-Filles 36A",
+        "addressLine2": "1228 Plan-les-Ouates",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 47,
+      "workflowState": 1,
+      "publishOn": 1745884800083,
+      "addedOn": 1745884800083,
+      "updatedOn": 1778446701202
+    },
+    {
+      "id": "68248794cdfab25869f2b378",
+      "title": "Kissed Then Burned",
+      "fullUrl": "/membre/kissed-then-burned",
+      "urlId": "kissed-then-burned",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755505870438-ZBU4QMX8IB0NW8VQRGSH/Geneva_Art_Week-Members-Kissed_Then_Burned-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Kissed Then Burned",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Quartier: Grottes Saint-Gervais"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2101883,
+        "mapLng": 6.1406021,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Kissed Then Burned",
+        "addressLine1": "Rue des Amis",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 48,
+      "workflowState": 1,
+      "publishOn": 1745798400755,
+      "addedOn": 1745798400755,
+      "updatedOn": 1778446739881
+    },
+    {
+      "id": "68248795cdfab25869f2b3a7",
+      "title": "L’Appartement",
+      "fullUrl": "/membre/lappartement",
+      "urlId": "lappartement",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753434067644-VPIYPKV6V05Y9KG1ACF3/Geneva_Art_Week-Members-L_Appartement-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: L'Appartement",
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Thématique: Peinture",
+        "Thématique: Art moderne",
+        "Thématique: Céramique",
+        "Quartier: Eaux-Vives Cité"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2036322,
+        "mapLng": 6.154614899999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "L&#39;Appartement",
+        "addressLine1": "Rue Pierre-Fatio 5",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 50,
+      "workflowState": 1,
+      "publishOn": 1745713800437,
+      "addedOn": 1745713800437,
+      "updatedOn": 1778446797948
+    },
+    {
+      "id": "6a25304f7cef27205f03b18b",
+      "title": "L’Arcade",
+      "fullUrl": "/membre/l-arcade",
+      "urlId": "l-arcade",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/8e40c0b5-5dc4-4ae9-9e77-bca5aa3094be/Geneva_Art_Week-Members-LArcade.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Membre: L'Arcade",
+        "Thématique: Scène émergente",
+        "Thématique: Vidéo",
+        "Thématique: Mixed Media",
+        "Quartier: Grottes Saint-Gervais"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2078407,
+        "mapLng": 6.145207,
+        "markerLat": 46.2078407,
+        "markerLng": 6.145207,
+        "addressTitle": "L&#39;Arcade",
+        "addressLine1": "Rue de Chantepoulet 1-3",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 84,
+      "workflowState": 1,
+      "publishOn": 1745711295570,
+      "addedOn": 1745711295570,
+      "updatedOn": 1780822568361
+    },
+    {
+      "id": "6a330efaf58c910d7b4b6a15",
+      "title": "L'échoppe des arts",
+      "fullUrl": "/membre/l-echoppe-des-arts",
+      "urlId": "l-echoppe-des-arts",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781731844498-B0DKF1R0IS81RLBIN182/Geneva_Art_Week-Members-Lechoppedesarts.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: L'échoppe des arts",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Sculpture",
+        "Thématique: Céramique",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1849409,
+        "mapLng": 6.140495100000001,
+        "markerLat": 46.1849409,
+        "markerLng": 6.140495100000001,
+        "addressTitle": "L&#39;échoppe des arts",
+        "addressLine1": "Place du Temple 9",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 88,
+      "workflowState": 1,
+      "publishOn": 1745708506022,
+      "addedOn": 1745708506022,
+      "updatedOn": 1781790986534
+    },
+    {
+      "id": "68828065b0bcb434942b72d2",
+      "title": "L’Exemplaire",
+      "fullUrl": "/membre/l-exemplaire",
+      "urlId": "l-exemplaire",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753691754083-WYIO5PC5USERA4PA9XJ8/Geneva_Art_Week-Members-L_Exemplaire-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Thématique: Art moderne",
+        "Thématique: Photographie",
+        "Thématique: Peinture",
+        "Thématique: Livres rares",
+        "Thématique: Surréalisme",
+        "Quartier: Vieille-Ville",
+        "Membre: L’Exemplaire"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2017889,
+        "mapLng": 6.146338600000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "L&#39;Exemplaire",
+        "addressLine1": "Grand-Rue 25",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 51,
+      "workflowState": 1,
+      "publishOn": 1745708400701,
+      "addedOn": 1745708400701,
+      "updatedOn": 1781731066057
+    },
+    {
+      "id": "687cf5978a3e3f3c0f2a07fa",
+      "title": "La Galerie 38",
+      "fullUrl": "/membre/la-galerie-38",
+      "urlId": "la-galerie-38",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/fc2a6eb9-d56b-424e-9f5c-22c177bd43cb/Geneva_Art_Week-Members-Galerie38.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: La Galerie 38",
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984548,
+        "mapLng": 6.1371483,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "La Galerie 38",
+        "addressLine1": "Rue des Bains 24",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 52,
+      "workflowState": 1,
+      "publishOn": 1745643600837,
+      "addedOn": 1745643600837,
+      "updatedOn": 1781642447872
+    },
+    {
+      "id": "689619555f43b858a8277cab",
+      "title": "La Menuiserie Vandœuvres",
+      "fullUrl": "/membre/la-menuiserie-vandoeuvres",
+      "urlId": "la-menuiserie-vandoeuvres",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755594399279-R1YHJ4KYIMXJ4BMKQL56/Geneva_Art_Week-Members-La_Menuiserie_Vandoeuvres-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: La Menuiserie Vandœuvres",
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Thématique: Photographie",
+        "Thématique: Vidéo",
+        "Thématique: Peinture",
+        "Quartier: Vandœuvres"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2223001,
+        "mapLng": 6.2031865,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "La Menuiserie Vandœuvres",
+        "addressLine1": "Route de Meinier 12",
+        "addressLine2": "1253 Vandœuvres",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 53,
+      "workflowState": 1,
+      "publishOn": 1745640000027,
+      "addedOn": 1745640000027,
+      "updatedOn": 1778446986142
+    },
+    {
+      "id": "68a38ca9882a972ad89bba59",
+      "title": "Laurence and Friends",
+      "fullUrl": "/membre/laurence-and-friends",
+      "urlId": "laurence-and-friends",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755861152924-2RBPBBS6IY4UBJIG2Y83/Geneva_Art_Week-Members-Laurence_and_Friends-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Laurence and Friends",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Dessin",
+        "Thématique: Mixed Media",
+        "Thématique: Sculpture",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.19845100000001,
+        "mapLng": 6.137790300000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Laurence and Friends",
+        "addressLine1": "Rue des Vieux-Grenadiers 11",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 54,
+      "workflowState": 1,
+      "publishOn": 1745623620741,
+      "addedOn": 1745623620741,
+      "updatedOn": 1778447022772
+    },
+    {
+      "id": "68248794cdfab25869f2b397",
+      "title": "Le Commun",
+      "fullUrl": "/membre/le-commun",
+      "urlId": "le-commun",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/4d4135c6-a80e-4529-a6db-4ef5d07a953e/Geneva_Art_Week-Members-Le_Commun-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Le Commun",
+        "Thématique: Art contemporain",
+        "Thématique: Art performatif",
+        "Quartier: Quartier des Bains",
+        "Thématique: Scène émergente",
+        "Thématique: Projets pluridisciplinaires"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1989327,
+        "mapLng": 6.1381708,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Le Commun",
+        "addressLine1": "Rue des Vieux-Grenadiers 10",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 55,
+      "workflowState": 1,
+      "publishOn": 1745575200861,
+      "addedOn": 1745575200861,
+      "updatedOn": 1778447168028
+    },
+    {
+      "id": "687cf6123c4c4a7de7e9ad40",
+      "title": "Le Labo",
+      "fullUrl": "/membre/le-labo",
+      "urlId": "le-labo",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753374520107-OIBGZU53TE74WOKYRZBC/Geneva_Art_Week-Members-Le_Labo-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Membre: Le Labo",
+        "Thématique: Art contemporain",
+        "Quartier: Autre",
+        "Quartier: Jonction",
+        "Thématique: Céramique",
+        "Thématique: Mixed Media"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2014221,
+        "mapLng": 6.1311138,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Le Labo",
+        "addressLine1": "Boulevard de Saint-Georges 5",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 56,
+      "workflowState": 1,
+      "publishOn": 1745575200709,
+      "addedOn": 1745575200709,
+      "updatedOn": 1781730388942
+    },
+    {
+      "id": "68248792cdfab25869f2b31a",
+      "title": "Le Salon Vert",
+      "fullUrl": "/membre/le-salon-vert",
+      "urlId": "le-salon-vert",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753691342334-041L87GYQFLLVMVGALDW/Geneva_Art_Week-Members-Le_Salon_Vert-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Galerie Le Salon Vert",
+        "Quartier: Carouge",
+        "Thématique: Art contemporain",
+        "Thématique: Céramique",
+        "Thématique: Dessin",
+        "Thématique: Peinture",
+        "Thématique: Mixed Media"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 14,
+        "mapLat": 46.18253379999999,
+        "mapLng": 6.1413501,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Le Salon Vert",
+        "addressLine1": "Rue Ancienne 15",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 57,
+      "workflowState": 1,
+      "publishOn": 1745571600330,
+      "addedOn": 1745571600330,
+      "updatedOn": 1780813750725
+    },
+    {
+      "id": "687cf28ca63e0b4856a2f447",
+      "title": "Le Trou",
+      "fullUrl": "/membre/le-trou",
+      "urlId": "le-trou",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753432845612-H2J6CRPKA6M7I5MPCEML/Geneva_Art_Week-Members-Le_Trou-Thumbail_Image-002.webp",
+      "mediaFocalPoint": {
+        "x": 0.48808673231648597,
+        "y": 0.22322466632562898,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Membre: Le TROU",
+        "Thématique: Art contemporain",
+        "Quartier: Autre",
+        "Quartier: Grand-Lancy"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1780912,
+        "mapLng": 6.1199192,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Le TROU",
+        "addressLine1": "Chemin des Semailles 15",
+        "addressLine2": "1212 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 58,
+      "workflowState": 1,
+      "publishOn": 1745568000310,
+      "addedOn": 1745568000310,
+      "updatedOn": 1778447367831
+    },
+    {
+      "id": "6a251e6b91521777c54fc531",
+      "title": "Les Insolites",
+      "fullUrl": "/membre/lesa-insolites",
+      "urlId": "lesa-insolites",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1780818161397-N8MFMKNEVAZ4HUWYOEDF/Geneva_Art_Week-Members-Lesinsolites.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant",
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Membre: Lesa insolites",
+        "Thématique: Céramique",
+        "Thématique: Bijou contemporain",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1825156,
+        "mapLng": 6.140999799999999,
+        "markerLat": 46.1825156,
+        "markerLng": 6.140999799999999,
+        "addressTitle": "Lesa Insolites",
+        "addressLine1": "Rue Ancienne 22",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 81,
+      "workflowState": 1,
+      "publishOn": 1745566315953,
+      "addedOn": 1745566315953,
+      "updatedOn": 1781258911638
+    },
+    {
+      "id": "68248795cdfab25869f2b3a1",
+      "title": "LiveInYourHead",
+      "fullUrl": "/membre/livelnyourhead",
+      "urlId": "livelnyourhead",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7d984984-7843-4323-8089-67e14692ef07/Geneva_Art_Week-Members-LiveInYourHead-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: LiveInYourHead",
+        "Thématique: Scène émergente",
+        "Quartier: Grottes Saint-Gervais"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2089158,
+        "mapLng": 6.140983599999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "LiveInYourHead",
+        "addressLine1": "Boulevard James-Fazy 15 ",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 59,
+      "workflowState": 1,
+      "publishOn": 1745539200195,
+      "addedOn": 1745539200195,
+      "updatedOn": 1781131675085
+    },
+    {
+      "id": "68248795cdfab25869f2b3a4",
+      "title": "Lovay Fine Arts",
+      "fullUrl": "/membre/lovay-fine-arts",
+      "urlId": "lovay-fine-arts",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753432261970-ALT7TMA31Z3231JEM0ZJ/Geneva_Art_Week-Members-Lovay_Fine_Arts-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Lovay Fine Arts",
+        "Quartier: Quartier des Bains",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Thématique: Art moderne"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 13,
+        "mapLat": 46.2010251,
+        "mapLng": 6.137069200000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Lovay Fine Arts",
+        "addressLine1": "Rue des Sablons 4",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 60,
+      "workflowState": 1,
+      "publishOn": 1745452800331,
+      "addedOn": 1745452800331,
+      "updatedOn": 1778447473224
+    },
+    {
+      "id": "6a2525d537cb0c548d7da56b",
+      "title": "MABE Gallery",
+      "fullUrl": "/membre/mabe-gallery",
+      "urlId": "mabe-gallery",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/ef00f8a0-4094-4c7d-ad4b-7d702f286faf/Geneva_Art_Week-Members-Mabegallery.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: MABE Gallery",
+        "Thématique: Scène émergente",
+        "Thématique: Art contemporain",
+        "Thématique: Dessin",
+        "Thématique: Mixed Media",
+        "Quartier: Vieille-Ville"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2017889,
+        "mapLng": 6.146338600000001,
+        "markerLat": 46.2017889,
+        "markerLng": 6.146338600000001,
+        "addressTitle": "MABE Gallery",
+        "addressLine1": "Grand-Rue 25",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 82,
+      "workflowState": 1,
+      "publishOn": 1745309013736,
+      "addedOn": 1745309013736,
+      "updatedOn": 1780820580486
+    },
+    {
+      "id": "68248795cdfab25869f2b3b2",
+      "title": "MAH – Musée d’Art et d’Histoire de Genève",
+      "fullUrl": "/membre/mah-musee-d-art-et-d-histoire-de-geneve",
+      "urlId": "mah-musee-d-art-et-d-histoire-de-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755612511024-XPUIWOMXVY0MOWKQVSC0/Geneva_Art_Week-Members-MAH_Musee_d_Art_et_d_Histoire_de_Geneve-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: MAH – Musée d’Art et d’Histoire de Genève",
+        "Thématique: Peinture",
+        "Thématique: Sculpture",
+        "Quartier: Vieille-Ville",
+        "Thématique: Art contemporain",
+        "Thématique: Dessin"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1983622,
+        "mapLng": 6.1506773,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+        "addressLine1": "Promenade du Pin 5",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 61,
+      "workflowState": 1,
+      "publishOn": 1745193600297,
+      "addedOn": 1745193600297,
+      "updatedOn": 1778447573083
+    },
+    {
+      "id": "68248796cdfab25869f2b3b5",
+      "title": "MAMCO",
+      "fullUrl": "/membre/mamco",
+      "urlId": "mamco",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755785924804-BQ7FNXCERPHXF9VJ7JW8/Geneva_Art_Week-Members-MAMCO-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains",
+        "Membre: MAMCO"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 16,
+        "mapLat": 46.1989327,
+        "mapLng": 6.1381708,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "MAMCO",
+        "addressLine1": "Rue des Vieux-Grenadiers 10",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 62,
+      "workflowState": 1,
+      "publishOn": 1745107200027,
+      "addedOn": 1745107200027,
+      "updatedOn": 1778447594150
+    },
+    {
+      "id": "68248796cdfab25869f2b3b8",
+      "title": "MEG – Musée d’Ethnographie Genève",
+      "fullUrl": "/membre/meg-musee-dethnographie-geneve",
+      "urlId": "meg-musee-dethnographie-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755514682891-A1LPSW8FXZWPHOPV74DL/Geneva_Art_Week-Members-MEG_Musee_d_Ethnographie_Geneve-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5118929633300298,
+        "y": 0.669673998976887,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: MEG – Musée d’Ethnographie Genève",
+        "Quartier: Quartier des Bains",
+        "Thématique: Objets ethnographiques"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1998122,
+        "mapLng": 6.1329369,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "MEG – Musée d’Ethnographie Genève",
+        "addressLine1": "27 Boulevard Carl-Vogt",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 63,
+      "workflowState": 1,
+      "publishOn": 1745020800010,
+      "addedOn": 1745020800010,
+      "updatedOn": 1778447611200
+    },
+    {
+      "id": "68248796cdfab25869f2b3bb",
+      "title": "Musée Ariana",
+      "fullUrl": "/membre/musee-ariana",
+      "urlId": "musee-ariana",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755512922926-SBYE5CD7CX34VN8T7Z32/Geneva_Art_Week-Members-Musee_Ariana-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Musée Ariana",
+        "Thématique: Céramique",
+        "Quartier: Nations"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2253381,
+        "mapLng": 6.138763399999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Musée Ariana",
+        "addressLine1": "Avenue de la Paix 10",
+        "addressLine2": "1202 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 65,
+      "workflowState": 1,
+      "publishOn": 1744934400198,
+      "addedOn": 1744934400198,
+      "updatedOn": 1778447627114
+    },
+    {
+      "id": "68248796cdfab25869f2b3d7",
+      "title": "Musée Barbier-Mueller",
+      "fullUrl": "/membre/musee-barbier-mueller",
+      "urlId": "musee-barbier-mueller",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753435474129-U6AUH4J7N3YJQQAVIVTP/Geneva_Art_Week-Members-Musee_Barbier-Mueller-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Musée Barbier-Mueller",
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Thématique: Autres",
+        "Thématique: Art autochtone",
+        "Quartier: Vieille-Ville"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2020534,
+        "mapLng": 6.1465231,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Musée Barbier-Mueller",
+        "addressLine1": "Rue Jean-Calvin 10",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 66,
+      "workflowState": 1,
+      "publishOn": 1744848000236,
+      "addedOn": 1744848000236,
+      "updatedOn": 1780817414599
+    },
+    {
+      "id": "68248797cdfab25869f2b3fc",
+      "title": "Musée de Carouge",
+      "fullUrl": "/membre/musee-de-carouge",
+      "urlId": "musee-de-carouge",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753615387367-UK1NTWXCJ6ZZO34GPMJG/Geneva_Art_Week-Members-Musee_de_Carouge-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Musée de Carouge",
+        "Thématique: Art contemporain",
+        "Thématique: Céramique",
+        "Quartier: Carouge"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 15,
+        "mapLat": 46.1843684,
+        "mapLng": 6.1391744,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Musée de Carouge",
+        "addressLine1": "Place de Sardaigne 2 ",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 67,
+      "workflowState": 1,
+      "publishOn": 1744797600141,
+      "addedOn": 1744797600141,
+      "updatedOn": 1780818821082
+    },
+    {
+      "id": "68248797cdfab25869f2b3da",
+      "title": "Musée International de la Réforme",
+      "fullUrl": "/membre/musee-international-de-la-reforme",
+      "urlId": "musee-international-de-la-reforme",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755613005466-5BKIDO7IBO0BC3DX7YL0/Geneva_Art_Week-Members-Musee_International_de_la_Reforme-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Musée International de la Réforme",
+        "Quartier: Vieille-Ville",
+        "Thématique: Histoire de la Réforme"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20154120000001,
+        "mapLng": 6.148230300000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Musée International de la Réforme",
+        "addressLine1": "Cours de Saint-Pierre 10",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 68,
+      "workflowState": 1,
+      "publishOn": 1744761600374,
+      "addedOn": 1744761600374,
+      "updatedOn": 1778447752959
+    },
+    {
+      "id": "68248797cdfab25869f2b43f",
+      "title": "Olivier Varenne Art Moderne & Contemporain",
+      "fullUrl": "/membre/olivier-varenne-art-moderne-contemporain",
+      "urlId": "olivier-varenne-art-moderne-contemporain",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1754476327353-43H9O0Y0FRWGG16GZBBW/Geneva_Art_Week-Members-Olivier_Varenne-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Thématique: Art moderne",
+        "Quartier: Quartier des Bains",
+        "Membre: Olivier Varenne – Art Moderne & Contemporain"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1990342,
+        "mapLng": 6.1371521,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Olivier Varenne – Art Moderne &amp; Contemporain",
+        "addressLine1": "Rue des Bains 37-39",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 69,
+      "workflowState": 1,
+      "publishOn": 1744588800353,
+      "addedOn": 1744588800353,
+      "updatedOn": 1778447778793
+    },
+    {
+      "id": "6a33f90afbe7475617881141",
+      "title": "Olizane",
+      "fullUrl": "/membre/olizane",
+      "urlId": "olizane",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7c5e7790-ce25-4370-921f-ebc60a9052c8/Geneva_Art_Week-Members-Olizane.webp",
+      "mediaFocalPoint": {
+        "x": 0.5237859266600595,
+        "y": 0.37204111054271494,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Olizane",
+        "Thématique: Art contemporain",
+        "Thématique: Céramique",
+        "Thématique: Sculpture",
+        "Thématique: Scène artistique suisse",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984412,
+        "mapLng": 6.137841600000001,
+        "markerLat": 46.1984412,
+        "markerLng": 6.137841600000001,
+        "addressTitle": "Olizane",
+        "addressLine1": "Rue des Vieux-Grenadiers 11",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 89,
+      "workflowState": 1,
+      "publishOn": 1744588586415,
+      "addedOn": 1744588586415,
+      "updatedOn": 1781791815858
+    },
+    {
+      "id": "68248797cdfab25869f2b485",
+      "title": "Opera Gallery",
+      "fullUrl": "/membre/opera-gallery",
+      "urlId": "opera-gallery",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753433744879-UXFD4V5P5XZHP69XZZT7/Geneva_Art_Week-Members-Opera_Gallery-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Opera Gallery",
+        "Quartier: Vieille-Ville",
+        "Thématique: Art contemporain",
+        "Thématique: Art moderne",
+        "Thématique: Peinture",
+        "Thématique: Dessin",
+        "Thématique: Sculpture"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 14,
+        "mapLat": 46.2030477,
+        "mapLng": 6.1498329,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Opera Gallery ",
+        "addressLine1": "Place de Longemalle 10-12",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 70,
+      "workflowState": 1,
+      "publishOn": 1744502400692,
+      "addedOn": 1744502400692,
+      "updatedOn": 1778447833897
+    },
+    {
+      "id": "68248798cdfab25869f2b4c6",
+      "title": "Ormond Editions",
+      "fullUrl": "/membre/ormond-editions",
+      "urlId": "ormond-editions",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753619340620-PNI3ZYDGJUVOKRKJ9970/Geneva_Art_Week-Members-Ormond_Editions-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Design"
+      ],
+      "tags": [
+        "Membre: Ormond Editions",
+        "Quartier: Eaux-Vives Cité",
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Thématique: Autres",
+        "Thématique: Collectible design",
+        "Thématique: Design contemporain"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.203668,
+        "mapLng": 6.155145699999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Ormond Editions",
+        "addressLine1": "Rue de la Scie 4-6",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 71,
+      "workflowState": 1,
+      "publishOn": 1744416000080,
+      "addedOn": 1744416000080,
+      "updatedOn": 1778447868385
+    },
+    {
+      "id": "68248798cdfab25869f2b570",
+      "title": "Pace Gallery",
+      "fullUrl": "/membre/pace-gallery",
+      "urlId": "pace-gallery",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753435750342-1NEKV3PDAKP3RQSK1RT5/Geneva_Art_Week-Members-Pace_Gallery-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Thématique: Art moderne",
+        "Thématique: Peinture",
+        "Thématique: Photographie",
+        "Thématique: Sculpture",
+        "Quartier: Autre",
+        "Quartier: Centre",
+        "Membre: Pace Gallery"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 16,
+        "mapLat": 46.20621930000001,
+        "mapLng": 6.144206100000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Pace Gallery",
+        "addressLine1": "Quai des Bergues 15 ",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 72,
+      "workflowState": 1,
+      "publishOn": 1744365600379,
+      "addedOn": 1744365600379,
+      "updatedOn": 1778447940603
+    },
+    {
+      "id": "68248798cdfab25869f2b50b",
+      "title": "PAC(O) – Projets Artistiques Collaboratifs (et Orientations)",
+      "fullUrl": "/membre/paco",
+      "urlId": "paco",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753435033071-LSQNNKUSO3JFUOJ2T59A/Geneva_Art_Week-Members-PAC_O_Projets_Artistiques_Collaboratifs_et_Orientations-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Membre: PAC(O) - projets artistiques collaboratifs (et orientations)",
+        "Thématique: Art contemporain",
+        "Thématique: Photographie",
+        "Thématique: Mixed Media",
+        "Thématique: Autres",
+        "Thématique: Textile",
+        "Thématique: Arts plastiques",
+        "Thématique: Vidéo",
+        "Thématique: Performance",
+        "Quartier: Carouge"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1809357,
+        "mapLng": 6.136984300000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "PAC(O) - projets artistiques collaboratifs (et orientations)",
+        "addressLine1": "Rue Jacques-Grosselin 50C",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 73,
+      "workflowState": 1,
+      "publishOn": 1744329600107,
+      "addedOn": 1744329600107,
+      "updatedOn": 1778448026721
+    },
+    {
+      "id": "68248798cdfab25869f2b587",
+      "title": "Philippe Cramer",
+      "fullUrl": "/membre/philippe-cramer",
+      "urlId": "philippe-cramer",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/9fab4cad-e7e0-48dc-b7f9-f01b9a02d019/Geneva_Art_Week-Members-Philippe_Cramer-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Philippe Cramer",
+        "Thématique: Art contemporain",
+        "Thématique: Design contemporain",
+        "Quartier: Quartier des Bains",
+        "Thématique: Autres"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 14,
+        "mapLat": 46.19986779999999,
+        "mapLng": 6.1388893,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Philippe Cramer",
+        "addressLine1": "Rue de la Muse 8",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 74,
+      "workflowState": 1,
+      "publishOn": 1744156800422,
+      "addedOn": 1744156800422,
+      "updatedOn": 1778448046524
+    },
+    {
+      "id": "68248793cdfab25869f2b343",
+      "title": "Sébastien Bertrand",
+      "fullUrl": "/membre/sebastien-bertrand",
+      "urlId": "sebastien-bertrand",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1754473408258-JYRJYATXW8X5GHRMWG3Z/Geneva_Art_Week-Members-Sebastien_Bertrand-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Galerie Sébastien Bertrand",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Mixed Media",
+        "Thématique: Céramique",
+        "Thématique: Dessin",
+        "Quartier: Eaux-Vives Cité"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 15,
+        "mapLat": 46.2048237,
+        "mapLng": 6.158385399999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Sébastien Betrand",
+        "addressLine1": "Rue du Cécile-Bieler Butticaz 16",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 75,
+      "workflowState": 1,
+      "publishOn": 1744099200778,
+      "addedOn": 1744099200778,
+      "updatedOn": 1778448070679
+    },
+    {
+      "id": "68a7784e44fb850982dc848d",
+      "title": "Simon Studer Art",
+      "fullUrl": "/membre/simon-studer-art",
+      "urlId": "simon-studer-art",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1d14c193-2111-4f4f-b585-e6d54852c771/Geneva_Art_Week-Members-Simon_Studer_Art-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Art moderne",
+        "Thématique: Photographie",
+        "Thématique: Peinture",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Art contemporain",
+        "Membre: Simon Studer Art",
+        "Quartier: Acacias Bâtie"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.18829230000001,
+        "mapLng": 6.1272986,
+        "markerLat": 46.18829230000001,
+        "markerLng": 6.1272986,
+        "addressTitle": "Simon Studer Art",
+        "addressLine1": "Route des Jeunes 4Ter",
+        "addressLine2": "1227 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 76,
+      "workflowState": 1,
+      "publishOn": 1744095600339,
+      "addedOn": 1744095600339,
+      "updatedOn": 1778448200564
+    },
+    {
+      "id": "68248798cdfab25869f2b5a3",
+      "title": "Skopia / P.-H. Jaccaud",
+      "fullUrl": "/membre/skopia-p-h-jaccaud",
+      "urlId": "skopia-p-h-jaccaud",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753372816777-POILY2MHLNZLITWHB1HZ/Geneva_Art_Week-Members-Skopia-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Quartier: Quartier des Bains",
+        "Membre: Skopia / P.-H. Jaccaud"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984082,
+        "mapLng": 6.1380007,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Skopia / P.-H. Jaccaud",
+        "addressLine1": "Rue des Vieux-Grenadiers 9",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 77,
+      "workflowState": 1,
+      "publishOn": 1744070400458,
+      "addedOn": 1744070400458,
+      "updatedOn": 1778448235436
+    },
+    {
+      "id": "68248799cdfab25869f2b5a7",
+      "title": "Société des Arts de Genève",
+      "fullUrl": "/membre/societe-des-arts-palais-de-geneve",
+      "urlId": "societe-des-arts-palais-de-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781649464170-I056SB0NGAH3WIPJNYPC/Geneva_Art_Week-Members-SDA.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Quartier: Vieille-Ville",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Scène émergente",
+        "Thématique: Mixed Media",
+        "Membre: Société des Arts – Palais de l’Athénée",
+        "Thématique: Art moderne",
+        "Thématique: Peinture",
+        "Thématique: Dessin"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 15,
+        "mapLat": 46.198555,
+        "mapLng": 6.1482245,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Société des Arts, Palais de l&#39;Athénée",
+        "addressLine1": "Rue de l&#39;Athénée 2 ",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 78,
+      "workflowState": 1,
+      "publishOn": 1743984000888,
+      "addedOn": 1743984000888,
+      "updatedOn": 1781649756649
+    },
+    {
+      "id": "687cf7b5d1ea102c304ccc1d",
+      "title": "Soma",
+      "fullUrl": "/membre/soma",
+      "urlId": "soma",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753372198290-MREP8EK92J6SZ1H00121/Geneva_Art_Week-Members-SOMA-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.41964285714285715,
+        "y": 0.6875,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Membre: SOMA",
+        "Quartier: Eaux-Vives Cité",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Thématique: Scène artistique suisse"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2046406,
+        "mapLng": 6.1619958,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "SOMA",
+        "addressLine1": "Rue de l&#39;Avenir 32",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 79,
+      "workflowState": 1,
+      "publishOn": 1743922800279,
+      "addedOn": 1743922800279,
+      "updatedOn": 1778448462880
+    },
+    {
+      "id": "6894704a8d222d78ea0ad6f1",
+      "title": "Stratégies obliques",
+      "fullUrl": "/membre/strategies-obliques",
+      "urlId": "strategies-obliques",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755506915781-YPRGHPWJA30MJKW30OT6/Geneva_Art_Week-Members-Strategies_obliques-Thumbnail_Image-002.webp",
+      "mediaFocalPoint": {
+        "x": 0.591179385530228,
+        "y": 0.4970469236850672,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Stratégies obliques",
+        "Quartier: Carouge",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Art contemporain",
+        "Thématique: Photographie",
+        "Thématique: Design"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.185936,
+        "mapLng": 6.140821999999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Stratégies obliques",
+        "addressLine1": "Rue Saint-Joseph 16",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 80,
+      "workflowState": 1,
+      "publishOn": 1743913320560,
+      "addedOn": 1743913320560,
+      "updatedOn": 1778448487638
+    },
+    {
+      "id": "68248799cdfab25869f2b5aa",
+      "title": "Taste Contemporary",
+      "fullUrl": "/membre/taste-contemporary",
+      "urlId": "taste-contemporary",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753615103489-C2HZ11ZSEYVEY4N9VGCC/Geneva_Art_Week-Members-Taste_Contemporary-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Taste Contemporary",
+        "Quartier: Quartier des Bains",
+        "Thématique: Céramique",
+        "Thématique: Art contemporain",
+        "Thématique: Mixed Media",
+        "Thématique: Sculpture",
+        "Thématique: Peinture"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.200413,
+        "mapLng": 6.138135699999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Taste Contemporary",
+        "addressLine1": "Rue du Vieux-Billard 7",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 81,
+      "workflowState": 1,
+      "publishOn": 1743897600564,
+      "addedOn": 1743897600564,
+      "updatedOn": 1778448539527
+    },
+    {
+      "id": "68248799cdfab25869f2b5ad",
+      "title": "Teo Jakob",
+      "fullUrl": "/membre/teo-jakob",
+      "urlId": "teo-jakob",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753436539321-9DXM85QKOC1P91UXPYM9/Geneva_Art_Week-Members-Teo_Jakob-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Design"
+      ],
+      "tags": [
+        "Thématique: Scène artistique suisse",
+        "Quartier: Carouge",
+        "Membre: Teo Jakob",
+        "Thématique: Céramique",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Thématique: Design"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1878743,
+        "mapLng": 6.140251200000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "teo jakob",
+        "addressLine1": "Place de l&#39;Octroi 8",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 82,
+      "workflowState": 1,
+      "publishOn": 1743811200528,
+      "addedOn": 1743811200528,
+      "updatedOn": 1781730164908
+    },
+    {
+      "id": "6a343db9689672253fa6631a",
+      "title": "Usine Kugler",
+      "fullUrl": "/membre/usine-kugler",
+      "urlId": "usine-kugler",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/3d6fee9f-429d-4006-aa05-981394516b06/AQhwtKxQayX878L35pThMy.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Usine Kugler",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Scène émergente",
+        "Thématique: Mixed Media",
+        "Quartier: Jonction"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.201308,
+        "mapLng": 6.125519499999999,
+        "markerLat": 46.201308,
+        "markerLng": 6.125519499999999,
+        "addressTitle": "Usine Kugler",
+        "addressLine1": "Avenue de la Jonction 19",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 90,
+      "workflowState": 1,
+      "publishOn": 1743792569838,
+      "addedOn": 1743792569838,
+      "updatedOn": 1781813438815
+    },
+    {
+      "id": "68b3664367a03177f34cb62e",
+      "title": "Usine Parker",
+      "fullUrl": "/membre/usine-parker",
+      "urlId": "usine-parker",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1756655508503-12XSIYT5DEKOLLV7VJNI/Geneva_Art_Week-Members-Usine_Parker-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Usine Parker",
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Thématique: Peinture",
+        "Thématique: Mixed Media",
+        "Thématique: Scène émergente",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1803725,
+        "mapLng": 6.136632,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Usine Parker",
+        "addressLine1": "Chemin du Faubourg-de-Cruseilles 14",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 83,
+      "workflowState": 1,
+      "publishOn": 1743757500120,
+      "addedOn": 1743757500120,
+      "updatedOn": 1778448724986
+    },
+    {
+      "id": "68248799cdfab25869f2b5b0",
+      "title": "Villa Bernasconi",
+      "fullUrl": "/membre/villa-bernasconi",
+      "urlId": "villa-bernasconi",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753429033689-2OWM1H1XWCBL8POL4Y3A/Geneva_Art_Week-Members-Villa_Bernasconi-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Villa Bernasconi",
+        "Quartier: Autre",
+        "Quartier: Lancy",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Scène émergente"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1869807,
+        "mapLng": 6.1222188,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Villa Bernasconi",
+        "addressLine1": "Route du Grand-Lancy 8",
+        "addressLine2": "1212 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 84,
+      "workflowState": 1,
+      "publishOn": 1743724800089,
+      "addedOn": 1743724800089,
+      "updatedOn": 1778448804349
+    },
+    {
+      "id": "6824879acdfab25869f2b5b3",
+      "title": "Villa du Parc",
+      "fullUrl": "/membre/villa-du-parc",
+      "urlId": "villa-du-parc",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/e91d51ba-f1e3-45ff-83d1-350fa5ff28f0/Geneva_Art_Week-Members-Villa_du_Parc-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Villa du Parc",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Quartier: Autre",
+        "Quartier: France"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 16,
+        "mapLat": 46.1934799,
+        "mapLng": 6.230932699999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Villa du Parc",
+        "addressLine1": "Rue de Genève 12 ",
+        "addressLine2": "74100 Annemasse ",
+        "addressCountry": "France"
+      },
+      "displayIndex": 85,
+      "workflowState": 1,
+      "publishOn": 1743638400764,
+      "addedOn": 1743638400764,
+      "updatedOn": 1778448833760
+    },
+    {
+      "id": "6824879acdfab25869f2b5b6",
+      "title": "Wilde",
+      "fullUrl": "/membre/wilde",
+      "urlId": "wilde",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753370415716-SOIWP1U6HTC4OUQRYVNO/Geneva_Art_Week-Members-Wilde-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Wilde",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Peinture",
+        "Thématique: Photographie",
+        "Thématique: Sculpture",
+        "Quartier: Quartier des Bains",
+        "Thématique: Dessin"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2016042,
+        "mapLng": 6.140503799999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Wilde",
+        "addressLine1": "Boulevard Georges-Favon 19",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 86,
+      "workflowState": 1,
+      "publishOn": 1743552000362,
+      "addedOn": 1743552000362,
+      "updatedOn": 1781131779593
+    },
+    {
+      "id": "6a29ea03df6d743e11461f2d",
+      "title": "Wisteria",
+      "fullUrl": "/membre/wisteria",
+      "urlId": "wisteria",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/9a928f8e-fe58-44bb-8749-7bf4eca9c764/Geneva_Art_Week-Members-Wisteria.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Wisteria",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Quartier: Grand-Lancy"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1839897,
+        "mapLng": 6.1213241,
+        "markerLat": 46.1839897,
+        "markerLng": 6.1213241,
+        "addressTitle": "Wisteria",
+        "addressLine1": "Route du Grand-Lancy 62",
+        "addressLine2": "1212 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 85,
+      "workflowState": 1,
+      "publishOn": 1743547779564,
+      "addedOn": 1743547779564,
+      "updatedOn": 1781133140090
+    },
+    {
+      "id": "6824879acdfab25869f2b5da",
+      "title": "Xippas",
+      "fullUrl": "/membre/xippas",
+      "urlId": "xippas",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753614417136-ZF126ULG368V2JAAZUG7/Geneva_Art_Week-Members-Xippas-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Galerie"
+      ],
+      "tags": [
+        "Membre: Xippas",
+        "Thématique: Art contemporain",
+        "Thématique: Mixed Media",
+        "Thématique: Sculpture",
+        "Thématique: Peinture",
+        "Thématique: Photographie",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 13,
+        "mapLat": 46.2009528,
+        "mapLng": 6.137029,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Xippas",
+        "addressLine1": "Rue des Sablons 6",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 87,
+      "workflowState": 1,
+      "publishOn": 1743465600518,
+      "addedOn": 1743465600518,
+      "updatedOn": 1778449011028
+    },
+    {
+      "id": "6824879acdfab25869f2b5ef",
+      "title": "Zabriskie Point",
+      "fullUrl": "/membre/zabriskie-point",
+      "urlId": "zabriskie-point",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753437793452-IK5S2CWSKTJ1ALT0NU22/Geneva_Art_Week-Members-Zabriskie_Point-Thumbnail_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Espace indépendant"
+      ],
+      "tags": [
+        "Membre: Zabriskie",
+        "Quartier: Plainpalais",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Thématique: Scène artistique suisse"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 13,
+        "mapLat": 46.1978601,
+        "mapLng": 6.1425482,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Zabriskie",
+        "addressLine1": "Rond-Point de Plainpalais",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 88,
+      "workflowState": 1,
+      "publishOn": 1743379200260,
+      "addedOn": 1743379200260,
+      "updatedOn": 1781730764306
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "gaw",
+  "id": "article",
+  "path": "/article",
+  "sourceUrl": "https://genevaartweek.com/article?format=json",
+  "updatedAt": "2026-06-19T07:45:12.672Z",
+  "sourceHash": "c4bbc7eb06c13b138fba216757160adce96e1a014886c73a6d2be1c8a185a566",
+  "count": 29,
+  "pages": 2,
+  "items": [
+    {
+      "id": "6a0f90f989e5f9546d563d96",
+      "title": "Barbara Polla · Analix Forever",
+      "fullUrl": "/article/rencontre-avec-barbara-polla",
+      "urlId": "rencontre-avec-barbara-polla",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781854993425-IAP1AT1937OYF36XTYWZ/Geneva_Art_Week-Journal-Rencontre_avec-Barbara_Polla-Analix_Forever-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Barbara Polla",
+        "Membre: Analix Forever",
+        "Quartier:  Chêne-Bourg"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1781855005811,
+      "addedOn": 1781855005811,
+      "updatedOn": 1781855006011
+    },
+    {
+      "id": "6a0f9d429939bd1c35526515",
+      "title": "Céline Lange et Stefano Pult · Galerie Lange + Pult",
+      "fullUrl": "/article/rencontre-avec-celine-lange-et-stefano-pult",
+      "urlId": "rencontre-avec-celine-lange-et-stefano-pult",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781798914959-WNM36U8GDV5N2FJ9EBS1/Geneva_Art_Week-Journal-Rencontre_avec-Celine_Lange_Stefano_Pult-Lange_Pult-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Céline Lange",
+        "Sujet: Stefano Pult",
+        "Membre: Galerie Lange + Pult",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1781851694884,
+      "addedOn": 1781851694884,
+      "updatedOn": 1781853033450
+    },
+    {
+      "id": "6a0f8e5009913b746bf12480",
+      "title": "Séverine Redon · HiFlow",
+      "fullUrl": "/article/rencontre-avec-severine-redon",
+      "urlId": "rencontre-avec-severine-redon",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781191562055-WB4SGHVOS4GBK4B44H7H/Geneva_Art_Week-Journal-Rencontre_avec-Severine_Redon-Hiflow-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Séverine Redon",
+        "Membre: HiFlow",
+        "Quartier: Plan-les-Ouates"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1781191574378,
+      "addedOn": 1781191574378,
+      "updatedOn": 1781191574981
+    },
+    {
+      "id": "6a0fa00dfddd2772e79a5e37",
+      "title": "Monique Deul · Taste Contemporary",
+      "fullUrl": "/article/rencontre-avec-monique-deul",
+      "urlId": "rencontre-avec-monique-deul",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781178551795-VG3FQ7AMPI496PQUCHDC/Geneva_Art_Week-Journal-Rencontre_avec-Monique_Deul-Taste_Contemporary-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Monique Deul",
+        "Membre: Taste Contemporary",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1781178716229,
+      "addedOn": 1781178716229,
+      "updatedOn": 1781178716462
+    },
+    {
+      "id": "6a0f979e39d01c1d9898a22a",
+      "title": "Frédéric Ormond · Ormond Editions",
+      "fullUrl": "/article/rencontre-avec-frederic-ormond",
+      "urlId": "rencontre-avec-frederic-ormond",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781178058307-7RXC4YVCXMRGD76UKXG8/Geneva_Art_Week-Journal-Rencontre_avec-Frederic_Ormond-Ormond_Editions-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Frédéric Ormond",
+        "Membre: Ormond Editions",
+        "Quartier: Eaux-Vives Cité"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1781178070832,
+      "addedOn": 1781178070832,
+      "updatedOn": 1781178071029
+    },
+    {
+      "id": "6a0f880682b392465d441a93",
+      "title": "Sonia Zannettacci · Galerie Sonia Zannettacci",
+      "fullUrl": "/article/rencontre-avec-sonia-zannettacci",
+      "urlId": "rencontre-avec-sonia-zannettacci",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781177141223-GVZYC8F7YABLEE2JTWHH/Geneva_Art_Week-Journal-Rencontre_avec-Sonia_Zannettacci-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Sonia Zannettacci",
+        "Membre: Galerie Sonia Zannettacci",
+        "Quartier: Vieille-Ville"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1781177298422,
+      "addedOn": 1781177298422,
+      "updatedOn": 1781177298897
+    },
+    {
+      "id": "6a121501f7b0481548d18eac",
+      "title": "Stéphane Ribordy collectionne depuis plus de 25 ans les signatures pointues de l’art contemporain et du design",
+      "fullUrl": "/article/inside-stephane-ribordy",
+      "urlId": "inside-stephane-ribordy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1779571176111-35WAS78QCYEZ0YQHTGMC/GAW_Journal_Stephane_Ribordy.webp",
+      "mediaFocalPoint": {
+        "x": 0.4107142857142857,
+        "y": 0.2232142857142857,
+        "source": 3
+      },
+      "categories": [
+        "Inside"
+      ],
+      "tags": [
+        "Catégorie: Inside",
+        "Sujet: Stéphane Ribordy"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1779569921880,
+      "addedOn": 1779569921880,
+      "updatedOn": 1779573370307
+    },
+    {
+      "id": "6a10a3124b5d4a2fb8c8c377",
+      "title": "Un projet commun anime Natacha et Youri à travers leur énergie bouillonnante et créative : faire de Genève une ville inventive et en mouvement",
+      "fullUrl": "/article/tour-by-youri-kravtchenko-et-natacha-de-oliveira",
+      "urlId": "tour-by-youri-kravtchenko-et-natacha-de-oliveira",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1779475947133-5R7WD7L9IYMYVTCKZQNO/GAW_Tour_by_Natacha_Youri.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Tour by"
+      ],
+      "tags": [
+        "Sélection: Homepage",
+        "Catégorie: Tour by",
+        "Sujet: Youri Kravtchenko",
+        "Sujet: Natacha De Oliveira",
+        "Membre: Dimanche",
+        "Quartier: Plainpalais"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1779482904105,
+      "addedOn": 1779482904105,
+      "updatedOn": 1779573570198
+    },
+    {
+      "id": "6a1059d04e55bb13041e2dcb",
+      "title": "Une sélection d’œuvres à travers l’espace public genevois – Deuxième édition",
+      "fullUrl": "/article/art-public-02",
+      "urlId": "art-public-02",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1779458361848-HGQSUOHQ1FYT6II42DES/GAW-deuxieme_edition_ArtPublic_5.webp",
+      "mediaFocalPoint": {
+        "x": 0.5000350655726208,
+        "y": 0.38991721700306947,
+        "source": 3
+      },
+      "categories": [
+        "Art Public"
+      ],
+      "tags": [
+        "Membre: FMAC – Fonds d’art contemporain de la Ville de Genève",
+        "Sujet: Sculpture",
+        "Sujet: Genève",
+        "Sélection: Homepage",
+        "Catégorie: Art Public"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Art Public,  une séléction d’oeuvres à travers l’espace public genevois. </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1779458328900,
+      "addedOn": 1779458328900,
+      "updatedOn": 1779483376418
+    },
+    {
+      "id": "6a0f7fc07cdcb6319dc5ef14",
+      "title": "Subaru Forester — Alfredo Aceto",
+      "fullUrl": "/article/l-objet-de-alfredo-aceto",
+      "urlId": "l-objet-de-alfredo-aceto",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1779402240487-6K2Y55YNA9J5OJENN2Z0/Geneva_Art_Week-Journal-L_Objet_de_Geneva_Art_Week-Journal-L_Objet_de_Alfredo_Aceto.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "L’Objet de"
+      ],
+      "tags": [
+        "Catégorie: L'Objet de",
+        "Sujet: Alfredo Aceto",
+        "Artiste: Alfredo Aceto",
+        "Membre: Galerie Lange + Pult",
+        "Quartier: Quartier des banques"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Un.e artiste nous parle d’un objet qui lui est cher, l’accompagne au&nbsp;quotidien, et&nbsp;a&nbsp;bien souvent un&nbsp;lien avec son processus créatif.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1779402318563,
+      "addedOn": 1779402318563,
+      "updatedOn": 1779402548888
+    },
+    {
+      "id": "6a0f720495c23d69f13f2ecf",
+      "title": "L’Œuvre de Philippe Davet",
+      "fullUrl": "/article/l-oeuvre-de-philippe-davet",
+      "urlId": "l-oeuvre-de-philippe-davet",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/9642bf57-1627-4f90-b1aa-88b28d85c32f/Geneva_Art_Week-Journal-L_OEuvre_de_Philippe_Davet-.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "L’Œuvre de"
+      ],
+      "tags": [
+        "Catégorie: L’Œuvre de",
+        "Sujet: Philippe Davet",
+        "Quartier: Plainpalais"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Une oeuvre ou un artiste qui a marqué la carrière d’un marchand. Philippe Davet, directeur associé de Blondeau &amp; Cie à Genève, conseille collectionneurs et institutions en art moderne et contemporain. Il nous présente ici son souvenir autour d’une œuvre de Louise Lawler.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 20,
+      "workflowState": 1,
+      "publishOn": 1779400398909,
+      "addedOn": 1779400398909,
+      "updatedOn": 1779402357089
+    },
+    {
+      "id": "69f34b704d7285666489939c",
+      "title": "Camille Abèle · FMAC – Fonds d’art contemporain de la Ville de Genève",
+      "fullUrl": "/article/caroline-bachmann-anbspdvelopp-unenbsppratique-denbsplanbsppeinture-quinbspaborde-lesnbspgrands-thmes-dunbspxixe-sicle-7kftd",
+      "urlId": "caroline-bachmann-anbspdvelopp-unenbsppratique-denbsplanbsppeinture-quinbspaborde-lesnbspgrands-thmes-dunbspxixe-sicle-7kftd",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/288b8032-5960-4dc6-a746-dd46ef305432/GAW-Journal-Rencontre-avec-Camille-Abele-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Sujet: Camille Abèle",
+        "Membre: FMAC – Fonds d’art contemporain de la Ville de Genève",
+        "Quartier: Quartier des Bains",
+        "Catégorie: Rencontre Avec"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1777552868692,
+      "addedOn": 1777552868692,
+      "updatedOn": 1779402758894
+    },
+    {
+      "id": "68e912f1726bf7419fc6819e",
+      "title": "Caroline Bachmann a&nbsp;développé une&nbsp;pratique de&nbsp;la&nbsp;peinture qui&nbsp;aborde les&nbsp;grands thèmes du&nbsp;XIXe siècle",
+      "fullUrl": "/article/caroline-bachmann-anbspdvelopp-unenbsppratique-denbsplanbsppeinture-quinbspaborde-lesnbspgrands-thmes-dunbspxixe-sicle",
+      "urlId": "caroline-bachmann-anbspdvelopp-unenbsppratique-denbsplanbsppeinture-quinbspaborde-lesnbspgrands-thmes-dunbspxixe-sicle",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1760106374027-7CV986KJH7QTW618EL80/Geneva_Art_Week-Journal-Studio_Visit-Caroline_Bachmann-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5000310192940008,
+        "y": 0.38991721700306947,
+        "source": 3
+      },
+      "categories": [
+        "Studio Visit"
+      ],
+      "tags": [
+        "Sujet: Caroline Bachmann",
+        "Artiste: Caroline Bachmann",
+        "Catégorie: Studio Visit"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1760107939226,
+      "addedOn": 1760107939226,
+      "updatedOn": 1779371455065
+    },
+    {
+      "id": "68e50fd093ec250702069457",
+      "title": "Comment Mai-Thu Perret a-t-elle vu évoluer la scène artistique genevoise",
+      "fullUrl": "/article/comment-mai-thu-perret-a-t-elle-vu-evoluer-la-scene-artistique-genevoise",
+      "urlId": "comment-mai-thu-perret-a-t-elle-vu-evoluer-la-scene-artistique-genevoise",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1763031652551-9CHE8PLESHK4730MS5RW/Geneva_Art_Week-Journal-L_Entretien-Mai-Thu_Perret-007.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "L’Entretien"
+      ],
+      "tags": [
+        "Sujet: Mai-Thu Perret",
+        "Sélection: Homepage",
+        "Catégorie: Entretien",
+        "Artiste: Mai-Thu Perret"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Elle est entrée dans l’art à la grande époque des squats. Galeries, marché, Quartier des Bains… Comment Mai-Thu Perret a-t-elle vu évoluer la scène artistique genevoise.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1759843424606,
+      "addedOn": 1759843424606,
+      "updatedOn": 1779371742828
+    },
+    {
+      "id": "68b960d7ef30362bd664bc65",
+      "title": "Une sélection d’œuvres à travers l’espace public genevois",
+      "fullUrl": "/article/art-public-01",
+      "urlId": "art-public-01",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/becc5d7d-c1ee-4547-aa1e-4a9ba9d19a99/Geneva_Art_Week-Journal-Art_Public-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.48214285714285715,
+        "y": 0.6398809523809523,
+        "source": 3
+      },
+      "categories": [
+        "Art Public"
+      ],
+      "tags": [
+        "Membre: FMAC – Fonds d’art contemporain de la Ville de Genève",
+        "Sujet: Sculpture",
+        "Sujet: Genève",
+        "Sélection: Homepage",
+        "Catégorie: Art Public"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Art Public,  une séléction d’oeuvres à travers l’espace public genevois. </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1757519858105,
+      "addedOn": 1757519858105,
+      "updatedOn": 1779458044093
+    },
+    {
+      "id": "689a011a54a4620ce8714039",
+      "title": "Fabienne Levy · Galerie Fabienne Levy",
+      "fullUrl": "/article/rencontre-avec-la-galeriste-fabienne-levy",
+      "urlId": "rencontre-avec-la-galeriste-fabienne-levy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/d5bb0be1-f036-4351-8c4a-a1ad15c61db9/Geneva_Art_Week-Journal-Rencontre_avec-Fabienne_Levy-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.42467789890981167,
+        "y": 0.5089522392224342,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Membre: Galerie Fabienne Levy",
+        "Quartier: Quartier des Bains",
+        "Catégorie: Rencontre Avec",
+        "Sujet: Fabienne Levy"
+      ],
+      "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 14,
+      "workflowState": 1,
+      "publishOn": 1754923910778,
+      "addedOn": 1754923910778,
+      "updatedOn": 1779407861371
+    },
+    {
+      "id": "6899fc052f3ca22e34f831f8",
+      "title": "Séverine Fromaigeat · Musée Barbier-Mueller",
+      "fullUrl": "/article/rencontre-avec-severine-fromaigeat-musee-barbier-mueller",
+      "urlId": "rencontre-avec-severine-fromaigeat-musee-barbier-mueller",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/c914718b-bcd6-4df5-9b3e-ca1a24f6c24d/Geneva_Art_Week-Journal-Rencontre_avec-Severine_Fromaigeat-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.6265186304714294,
+        "y": 0.38989908384876526,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Sujet: Séverine Fromaigeat",
+        "Membre: Musée Barbier-Mueller",
+        "Quartier: Vieille-Ville",
+        "Catégorie: Rencontre Avec"
+      ],
+      "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 13,
+      "workflowState": 1,
+      "publishOn": 1754922672050,
+      "addedOn": 1754922672050,
+      "updatedOn": 1779407837781
+    },
+    {
+      "id": "6899f81be7255e29ec77da61",
+      "title": "Pierre-Henri Jaccaud · Galerie Skopia",
+      "fullUrl": "/article/rencontre-avec-pierre-henri-jaccaud-skopia",
+      "urlId": "rencontre-avec-pierre-henri-jaccaud-skopia",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0ab8e8fc-93be-4d48-a66e-7b65f8889f06/Geneva_Art_Week-Journal-Rencontre_avec-Pierre-Henri_Jaccaud-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.23809523809523808,
+        "y": 0.4196428571428571,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Sujet: Pierre-Henri Jaccaud",
+        "Membre: Skopia / P.-H. Jaccaud",
+        "Quartier: Quartier des Bains",
+        "Catégorie: Rencontre Avec"
+      ],
+      "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rencontre avec Pierre-Henri Jaccaud, fondateur de la galerie Skopia. </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 12,
+      "workflowState": 1,
+      "publishOn": 1754921867065,
+      "addedOn": 1754921867065,
+      "updatedOn": 1779573405840
+    },
+    {
+      "id": "6899ea40ede86373980d7ce2",
+      "title": "Élise Lammer · Espace Halle Nord",
+      "fullUrl": "/article/rencontre-avec-elise-lammer-halle-nord",
+      "urlId": "rencontre-avec-elise-lammer-halle-nord",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755086725982-CUHZD099CVW8AWFH0HXN/Geneva_Art_Week-Journal-Rencontre_avec-Elise_Lammer-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.7541410757491159,
+        "y": 0.4553994977211422,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Sujet: Élise Lammer",
+        "Membre: Halle Nord",
+        "Quartier: L'Ile",
+        "Quartier: Autre",
+        "Catégorie: Rencontre Avec"
+      ],
+      "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 11,
+      "workflowState": 1,
+      "publishOn": 1754918692571,
+      "addedOn": 1754918692571,
+      "updatedOn": 1779407917026
+    },
+    {
+      "id": "6899e3a165abbf55060795f7",
+      "title": "Catherine Tabatabay-Schmitt &amp; Eliott Cardet · Librairie L’Exemplaire",
+      "fullUrl": "/article/rencontre-avec-catherine-tabatabay-schmitt-eliott-cardet-de-la-librairie-lexemplaire",
+      "urlId": "rencontre-avec-catherine-tabatabay-schmitt-eliott-cardet-de-la-librairie-lexemplaire",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/666502d6-c79f-441d-bfb1-4fe4af9a6999/Geneva_Art_Week-Journal-Rencontre_avec-Catherine_Tabatabay-Schmitt_Eliott_Cardet-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.2767857142857143,
+        "y": 0.46726190476190477,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Sujet: Catherine Tabatabay-Schmitt",
+        "Sujet: Eliott Cardet",
+        "Membre: L'Exemplaire",
+        "Quartier: Vieille-Ville",
+        "Catégorie: Rencontre Avec"
+      ],
+      "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 10,
+      "workflowState": 1,
+      "publishOn": 1754915888935,
+      "addedOn": 1754915888935,
+      "updatedOn": 1779455553493
+    },
+    {
+      "id": "6899dee4f1c33a1e2e97ae63",
+      "title": "Michèle Rossier · Teo Jakob",
+      "fullUrl": "/article/rencontre-avec-michele-rossier-teo-jakob",
+      "urlId": "rencontre-avec-michele-rossier-teo-jakob",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/ad6bc43d-a53a-4f4d-b656-cb293b1b4ce9/Geneva_Art_Week-Journal-Rencontre_avec-Michelle_Rossier-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5238538370866679,
+        "y": 0.28276439400985953,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Focus",
+        "Sujet: Michèle Rossier",
+        "Membre: Teo Jakob",
+        "Quartier: Carouge",
+        "Catégorie: Rencontre Avec"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rencontre avec Michèle Rossier, directrice régional de Téo Jakob. </p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 9,
+      "workflowState": 1,
+      "publishOn": 1754915717654,
+      "addedOn": 1754915717654,
+      "updatedOn": 1779407762898
+    },
+    {
+      "id": "6899daa0f3895a7e48c98936",
+      "title": "Danaé Panchaud · Centre de la Photographie Genève",
+      "fullUrl": "/article/rencontre-avec-danae-panchaud-cpg",
+      "urlId": "rencontre-avec-danae-panchaud-cpg",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/b7831e50-7694-4b36-9c4a-9255814e402e/Geneva_Art_Week-Journal-Rencontre_avec-Danae_Panchaud-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5238538370866679,
+        "y": 0.30062319784206115,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Focus",
+        "Membre: Centre de la Photographie Genève",
+        "Quartier: Quartier des Bains",
+        "Sujet: Danaé Panchaud",
+        "Catégorie: Rencontre Avec"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rencontre avec Danae Panchaud, directrice du Centre de la Photographie Genève. </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 8,
+      "workflowState": 1,
+      "publishOn": 1754914517849,
+      "addedOn": 1754914517849,
+      "updatedOn": 1779407724914
+    },
+    {
+      "id": "6899c51bdda9355c39dc30d3",
+      "title": "Asma Barchiche &amp; Mina Squalli-Houssaïni · Forde ",
+      "fullUrl": "/article/rencontre-avec-espace-forde",
+      "urlId": "rencontre-avec-espace-forde",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1754908183393-7HFDULCIX8BSZJ4N555Z/PHOTO-2025-01-08-16-08-50.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Membre: Forde",
+        "Quartier: Quartier des Bains",
+        "Sujet: Asma Barchiche",
+        "Sujet: Mina Squalli-Houssaïni",
+        "Catégorie: Rencontre Avec"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rencontre avec Asma Barchiche &amp; Mina Squalli-Houssaïni de l’espace Forde.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 7,
+      "workflowState": 1,
+      "publishOn": 1754908913272,
+      "addedOn": 1754908913272,
+      "updatedOn": 1779407692343
+    },
+    {
+      "id": "6899c107aebcf263997354ef",
+      "title": "Lampe à&nbsp;lave Astro — Denis Savary",
+      "fullUrl": "/article/l-objet-de-denis-savary",
+      "urlId": "l-objet-de-denis-savary",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0e32466c-9810-418a-bb54-5683fcd9449d/Geneva_Art_Week-Journal-L_Objet_de_Denis_Savary-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "L’Objet de"
+      ],
+      "tags": [
+        "Sujet: Denis Savary",
+        "Artiste: Denis Savary",
+        "Catégorie: L'Objet de"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Un.e artiste nous parle d’un objet qui lui est cher, l’accompagne au&nbsp;quotidien, et&nbsp;a&nbsp;bien souvent un&nbsp;lien avec son processus créatif.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1754907803883,
+      "addedOn": 1754907803883,
+      "updatedOn": 1779400640428
+    },
+    {
+      "id": "6895d13342fcc62f2e4f7a80",
+      "title": "L’Œuvre de Lionel Latham",
+      "fullUrl": "/article/l-oeuvvre-de-lionel-latham",
+      "urlId": "l-oeuvvre-de-lionel-latham",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/661a0889-ea82-4c49-a947-8e3214eef8d3/Geneva_Art_Week-Journal-L_OEuvre_de_Lionel_Latham-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "L’Œuvre de"
+      ],
+      "tags": [
+        "Sujet: Lionel Latham",
+        "Membre: Galerie Latham",
+        "Catégorie: L’Œuvre de",
+        "Quartier: Quartier des banques",
+        "Quartier: Autre"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Une oeuvre ou un artiste qui a marqué la carrière d’un marchand. Lionel Latham évoque sa&nbsp;rencontre décisive avec Edouard Chapallaz (1921-2016), l’une des personnalités majeures de&nbsp;la céramique suisse de&nbsp;la&nbsp;seconde moitié du&nbsp;20e&nbsp;siècle.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 4,
+      "workflowState": 1,
+      "publishOn": 1754660029817,
+      "addedOn": 1754660029817,
+      "updatedOn": 1779373413650
+    },
+    {
+      "id": "6895c46fe6f10e301fdfed80",
+      "title": "Anne Minazio, fondatrice de la galerie Kissed Then Burned nous présente son rapport au livre et sa bibliothèque.",
+      "fullUrl": "/article/la-bibliotheque-d-anne-minazio",
+      "urlId": "la-bibliotheque-d-anne-minazio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1754646093887-M9A0RQ9ISV3ZNL59QYXB/DSC09024-HD-2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.45089285714285715,
+        "y": 0.1875,
+        "source": 3
+      },
+      "categories": [
+        "La Bibliothèque"
+      ],
+      "tags": [
+        "Sujet: Anne Minazio",
+        "Membre: Kissed Then Burned",
+        "Quartier: Grottes Saint-Gervais",
+        "Catégorie: La Bibliothèque"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">En&nbsp;2013, Anne Minazio transforme son ancien atelier en&nbsp;y&nbsp;ouvrant l’espace HIT : l’un des&nbsp;Artist-run spaces les plus stimulants et&nbsp;dynamiques que&nbsp;la&nbsp;ville ait&nbsp;connu ces dernières&nbsp;années. En&nbsp;janvier 2025, le&nbsp;lieu change d’orientation pour devenir une galerie sous le&nbsp;nom de&nbsp;Kissed then Burned</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1754645615969,
+      "addedOn": 1754645615969,
+      "updatedOn": 1779484134404
+    },
+    {
+      "id": "6893538896a4d940520bc1ad",
+      "title": "«J’aime le&nbsp;changement», explique Florian Le&nbsp;Bouhec, chef cuisinier incontournable de&nbsp;la place genevoise.",
+      "fullUrl": "/article/v1wu30gkikx12jimcjzga287xk0ceo",
+      "urlId": "v1wu30gkikx12jimcjzga287xk0ceo",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/8ee2545b-c031-4e99-ab7d-8cbb73f4d09e/Geneva_Art_Week-Journal-Tour_by-Florian_Le_Bouhec-Featured.webp",
+      "mediaFocalPoint": {
+        "x": 0.375,
+        "y": 0.1696428571428571,
+        "source": 3
+      },
+      "categories": [
+        "Tour by"
+      ],
+      "tags": [
+        "Sélection: Homepage",
+        "Sujet: Florian Le Bouhec",
+        "Catégorie: Tour by"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1754485785054,
+      "addedOn": 1754485785054,
+      "updatedOn": 1779475218184
+    },
+    {
+      "id": "68920686bded6257f838ca68",
+      "title": "Markus Amm, né&nbsp;à&nbsp;Stuttgart en&nbsp;1969 est connu pour ses peintures abstraites et&nbsp;ses expérimentations avec la&nbsp;matérialité et&nbsp;la lumière.",
+      "fullUrl": "/article/ge769ygquyr0h9i2th4jlqtc4zuwrz",
+      "urlId": "ge769ygquyr0h9i2th4jlqtc4zuwrz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/364d244a-aab5-42ab-ae77-30f42a2ecf35/Geneva_Art_Week-Journal-Studio_Visit-Markus_Amm-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.25297619047619047,
+        "source": 3
+      },
+      "categories": [
+        "Studio Visit"
+      ],
+      "tags": [
+        "Quartier: Quartier des Bains",
+        "Sujet: Markus Amm",
+        "Sélection: Homepage",
+        "Catégorie: Studio Visit"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1754400899108,
+      "addedOn": 1754400899108,
+      "updatedOn": 1779374061423
+    },
+    {
+      "id": "6878f615d937c172673be9c7",
+      "title": "Balthazar Lovay fonde la&nbsp;galerie Lovay Fine Arts à&nbsp;Genève en&nbsp;2022.",
+      "fullUrl": "/article/Blog Post Title One-7f27z",
+      "urlId": "Blog Post Title One-7f27z",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1752758107488-FWRBCQVZ7NFP2DK6NEQB/Portrait.webp",
+      "mediaFocalPoint": {
+        "x": 0.5089285714285714,
+        "y": 0.30059523809523814,
+        "source": 3
+      },
+      "categories": [
+        "L’Entretien"
+      ],
+      "tags": [
+        "Quartier: Quartier des Bains",
+        "Sujet: Balthazar Lovay",
+        "Membre: Lovay Fine Arts",
+        "Sélection: Homepage",
+        "Catégorie: Entretien"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Balthazar Lovay fonde la galerie Lovay Fine Arts à Genève en 2022. Il nous raconte ici son parcours et comment il a vu la scène genevoise et le Quartier des Bains évoluer.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 0,
+      "workflowState": 1,
+      "publishOn": 1754031600616,
+      "addedOn": 1754031600616,
+      "updatedOn": 1779374183878
+    }
+  ]
+}
