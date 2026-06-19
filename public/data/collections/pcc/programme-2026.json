@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.pcc.jonasnicollin.ch/programme-2026?format=json",
-  "updatedAt": "2026-06-19T07:45:14.495Z",
-  "sourceHash": "41e785271f5726efb331ee457011c3a23b76e83c2e5e97ec0575ebe5e9d77668",
+  "updatedAt": "2026-06-19T09:28:33.586Z",
+  "sourceHash": "99dd5a0ccd42bc53ea2e9df74fb84647dc14b9360003982441a47036b3687b5c",
   "count": 52,
   "pages": 3,
   "items": [
@@ -949,7 +949,7 @@
       "workflowState": 1,
       "publishOn": 1789372800085,
       "addedOn": 1789372800085,
-      "updatedOn": 1780669828143
+      "updatedOn": 1781856672883
     },
     {
       "id": "69f74c5bd5408a02b9e57f1d",
