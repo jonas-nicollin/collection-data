@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-06-19T16:11:49.043Z",
-  "sourceHash": "c4bbc7eb06c13b138fba216757160adce96e1a014886c73a6d2be1c8a185a566",
+  "updatedAt": "2026-06-19T17:50:07.891Z",
+  "sourceHash": "73ca4162b2bbb932a1841dc193db9a745d3ff44dc79919c6c4083c8d9e97b0ae",
   "count": 29,
   "pages": 2,
   "items": [
@@ -288,7 +288,8 @@
         "Sujet: Youri Kravtchenko",
         "Sujet: Natacha De Oliveira",
         "Membre: Dimanche",
-        "Quartier: Plainpalais"
+        "Quartier: Plainpalais",
+        "Sélection: Hero"
       ],
       "excerpt": "",
       "location": {
@@ -305,7 +306,7 @@
       "workflowState": 1,
       "publishOn": 1779482904105,
       "addedOn": 1779482904105,
-      "updatedOn": 1779573570198
+      "updatedOn": 1781891261321
     },
     {
       "id": "6a1059d04e55bb13041e2dcb",
@@ -326,7 +327,8 @@
         "Sujet: Sculpture",
         "Sujet: Genève",
         "Sélection: Homepage",
-        "Catégorie: Art Public"
+        "Catégorie: Art Public",
+        "Sélection: Hero"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Art Public,  une séléction d’oeuvres à travers l’espace public genevois. </p>",
       "location": {
@@ -343,7 +345,7 @@
       "workflowState": 1,
       "publishOn": 1779458328900,
       "addedOn": 1779458328900,
-      "updatedOn": 1779483376418
+      "updatedOn": 1781891241491
     },
     {
       "id": "6a0f7fc07cdcb6319dc5ef14",
