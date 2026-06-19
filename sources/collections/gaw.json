@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "site": "gaw",
+  "collections": [
+    {
+      "id": "programme-2025",
+      "path": "/programme-2025",
+      "url": "https://genevaartweek.com/programme-2025?format=json"
+    },
+    {
+      "id": "programme-2026",
+      "path": "/programme-2026",
+      "url": "https://genevaartweek.com/programme-2026?format=json"
+    },
+    {
+      "id": "membre",
+      "path": "/membre",
+      "url": "https://genevaartweek.com/membre?format=json"
+    },
+    {
+      "id": "article",
+      "path": "/article",
+      "url": "https://genevaartweek.com/article?format=json"
+    }
+  ]
+}
