@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-06-22T11:16:47.464Z",
-  "sourceHash": "73ca4162b2bbb932a1841dc193db9a745d3ff44dc79919c6c4083c8d9e97b0ae",
+  "updatedAt": "2026-06-22T16:03:06.350Z",
+  "sourceHash": "a1c9c047e03f26b6b934c8841dc894ec7a506527b2eb26330483facff3234fbb",
   "count": 29,
   "pages": 2,
   "items": [
@@ -289,7 +289,8 @@
         "Sujet: Natacha De Oliveira",
         "Membre: Dimanche",
         "Quartier: Plainpalais",
-        "Sélection: Hero"
+        "Sélection: Hero",
+        "Membre: MAMCO"
       ],
       "excerpt": "",
       "location": {
@@ -306,7 +307,7 @@
       "workflowState": 1,
       "publishOn": 1779482904105,
       "addedOn": 1779482904105,
-      "updatedOn": 1781891261321
+      "updatedOn": 1782131001627
     },
     {
       "id": "6a1059d04e55bb13041e2dcb",
