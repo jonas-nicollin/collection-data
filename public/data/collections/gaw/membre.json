@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-06-23T11:29:01.535Z",
-  "sourceHash": "0cfa77cbcdfdd808c5f86d01872ad510a2bebee6d373b2be527e8f3a085d374b",
+  "updatedAt": "2026-06-23T14:00:56.047Z",
+  "sourceHash": "721e391709f2961e50c093ce74526d43c7fb064418b5ce1c4a35825af63f9a5a",
   "count": 87,
   "pages": 1,
   "items": [
@@ -2076,7 +2076,7 @@
       "workflowState": 1,
       "publishOn": 1745571600330,
       "addedOn": 1745571600330,
-      "updatedOn": 1780813750725
+      "updatedOn": 1782215174511
     },
     {
       "id": "687cf28ca63e0b4856a2f447",
@@ -2114,7 +2114,7 @@
       "workflowState": 1,
       "publishOn": 1745568000310,
       "addedOn": 1745568000310,
-      "updatedOn": 1778447367831
+      "updatedOn": 1782215536066
     },
     {
       "id": "6a251e6b91521777c54fc531",
@@ -2155,7 +2155,7 @@
       "workflowState": 1,
       "publishOn": 1745566315953,
       "addedOn": 1745566315953,
-      "updatedOn": 1781258911638
+      "updatedOn": 1782215802795
     },
     {
       "id": "68248795cdfab25869f2b3a1",
@@ -2192,7 +2192,7 @@
       "workflowState": 1,
       "publishOn": 1745539200195,
       "addedOn": 1745539200195,
-      "updatedOn": 1781131675085
+      "updatedOn": 1782215852713
     },
     {
       "id": "68248795cdfab25869f2b3a4",
@@ -2231,7 +2231,7 @@
       "workflowState": 1,
       "publishOn": 1745452800331,
       "addedOn": 1745452800331,
-      "updatedOn": 1778447473224
+      "updatedOn": 1782215870643
     },
     {
       "id": "6a2525d537cb0c548d7da56b",
@@ -2271,7 +2271,7 @@
       "workflowState": 1,
       "publishOn": 1745309013736,
       "addedOn": 1745309013736,
-      "updatedOn": 1780820580486
+      "updatedOn": 1782216003566
     },
     {
       "id": "68248795cdfab25869f2b3b2",
@@ -2311,7 +2311,7 @@
       "workflowState": 1,
       "publishOn": 1745193600297,
       "addedOn": 1745193600297,
-      "updatedOn": 1778447573083
+      "updatedOn": 1782216018518
     },
     {
       "id": "68248796cdfab25869f2b3b5",
@@ -2348,7 +2348,7 @@
       "workflowState": 1,
       "publishOn": 1745107200027,
       "addedOn": 1745107200027,
-      "updatedOn": 1778447594150
+      "updatedOn": 1782216040160
     },
     {
       "id": "68248796cdfab25869f2b3b8",
@@ -2385,7 +2385,7 @@
       "workflowState": 1,
       "publishOn": 1745020800010,
       "addedOn": 1745020800010,
-      "updatedOn": 1778447611200
+      "updatedOn": 1782216086999
     },
     {
       "id": "68248796cdfab25869f2b3bb",
@@ -2422,7 +2422,7 @@
       "workflowState": 1,
       "publishOn": 1744934400198,
       "addedOn": 1744934400198,
-      "updatedOn": 1778447627114
+      "updatedOn": 1782220103562
     },
     {
       "id": "68248796cdfab25869f2b3d7",
@@ -2462,7 +2462,7 @@
       "workflowState": 1,
       "publishOn": 1744848000236,
       "addedOn": 1744848000236,
-      "updatedOn": 1780817414599
+      "updatedOn": 1782220124816
     },
     {
       "id": "68248797cdfab25869f2b3fc",
@@ -2500,7 +2500,7 @@
       "workflowState": 1,
       "publishOn": 1744797600141,
       "addedOn": 1744797600141,
-      "updatedOn": 1780818821082
+      "updatedOn": 1782220195386
     },
     {
       "id": "68248797cdfab25869f2b3da",
@@ -2537,7 +2537,7 @@
       "workflowState": 1,
       "publishOn": 1744761600374,
       "addedOn": 1744761600374,
-      "updatedOn": 1778447752959
+      "updatedOn": 1782220594692
     },
     {
       "id": "68248797cdfab25869f2b43f",
@@ -2575,7 +2575,7 @@
       "workflowState": 1,
       "publishOn": 1744588800353,
       "addedOn": 1744588800353,
-      "updatedOn": 1778447778793
+      "updatedOn": 1782220628370
     },
     {
       "id": "6a33f90afbe7475617881141",
@@ -2615,7 +2615,7 @@
       "workflowState": 1,
       "publishOn": 1744588586415,
       "addedOn": 1744588586415,
-      "updatedOn": 1781791815858
+      "updatedOn": 1782220646587
     },
     {
       "id": "68248797cdfab25869f2b485",
@@ -2656,7 +2656,7 @@
       "workflowState": 1,
       "publishOn": 1744502400692,
       "addedOn": 1744502400692,
-      "updatedOn": 1778447833897
+      "updatedOn": 1782220670951
     },
     {
       "id": "68248798cdfab25869f2b4c6",
@@ -2697,7 +2697,7 @@
       "workflowState": 1,
       "publishOn": 1744416000080,
       "addedOn": 1744416000080,
-      "updatedOn": 1778447868385
+      "updatedOn": 1782220692343
     },
     {
       "id": "68248798cdfab25869f2b570",
@@ -2739,7 +2739,7 @@
       "workflowState": 1,
       "publishOn": 1744365600379,
       "addedOn": 1744365600379,
-      "updatedOn": 1778447940603
+      "updatedOn": 1782220712258
     },
     {
       "id": "68248798cdfab25869f2b50b",
@@ -2783,7 +2783,7 @@
       "workflowState": 1,
       "publishOn": 1744329600107,
       "addedOn": 1744329600107,
-      "updatedOn": 1778448026721
+      "updatedOn": 1782220762219
     },
     {
       "id": "68248798cdfab25869f2b587",
@@ -2822,7 +2822,7 @@
       "workflowState": 1,
       "publishOn": 1744156800422,
       "addedOn": 1744156800422,
-      "updatedOn": 1778448046524
+      "updatedOn": 1782220777656
     },
     {
       "id": "68248793cdfab25869f2b343",
@@ -2863,7 +2863,7 @@
       "workflowState": 1,
       "publishOn": 1744099200778,
       "addedOn": 1744099200778,
-      "updatedOn": 1778448070679
+      "updatedOn": 1782220793308
     },
     {
       "id": "68a7784e44fb850982dc848d",
@@ -2904,7 +2904,7 @@
       "workflowState": 1,
       "publishOn": 1744095600339,
       "addedOn": 1744095600339,
-      "updatedOn": 1778448200564
+      "updatedOn": 1782220809958
     },
     {
       "id": "68248798cdfab25869f2b5a3",
@@ -2942,7 +2942,7 @@
       "workflowState": 1,
       "publishOn": 1744070400458,
       "addedOn": 1744070400458,
-      "updatedOn": 1778448235436
+      "updatedOn": 1782220828186
     },
     {
       "id": "68248799cdfab25869f2b5a7",
@@ -2985,7 +2985,7 @@
       "workflowState": 1,
       "publishOn": 1743984000888,
       "addedOn": 1743984000888,
-      "updatedOn": 1781649756649
+      "updatedOn": 1782220846536
     },
     {
       "id": "687cf7b5d1ea102c304ccc1d",
@@ -3024,7 +3024,7 @@
       "workflowState": 1,
       "publishOn": 1743922800279,
       "addedOn": 1743922800279,
-      "updatedOn": 1778448462880
+      "updatedOn": 1782220873739
     },
     {
       "id": "6894704a8d222d78ea0ad6f1",
@@ -3064,7 +3064,7 @@
       "workflowState": 1,
       "publishOn": 1743913320560,
       "addedOn": 1743913320560,
-      "updatedOn": 1778448487638
+      "updatedOn": 1782220890168
     },
     {
       "id": "68248799cdfab25869f2b5aa",
@@ -3105,7 +3105,7 @@
       "workflowState": 1,
       "publishOn": 1743897600564,
       "addedOn": 1743897600564,
-      "updatedOn": 1778448539527
+      "updatedOn": 1782220917683
     },
     {
       "id": "68248799cdfab25869f2b5ad",
@@ -3146,7 +3146,7 @@
       "workflowState": 1,
       "publishOn": 1743811200528,
       "addedOn": 1743811200528,
-      "updatedOn": 1781730164908
+      "updatedOn": 1782221041120
     },
     {
       "id": "6a343db9689672253fa6631a",
@@ -3187,7 +3187,7 @@
       "workflowState": 1,
       "publishOn": 1743792569838,
       "addedOn": 1743792569838,
-      "updatedOn": 1781813438815
+      "updatedOn": 1782221179694
     },
     {
       "id": "68b3664367a03177f34cb62e",
@@ -3228,7 +3228,7 @@
       "workflowState": 1,
       "publishOn": 1743757500120,
       "addedOn": 1743757500120,
-      "updatedOn": 1778448724986
+      "updatedOn": 1782221224887
     },
     {
       "id": "68248799cdfab25869f2b5b0",
@@ -3268,7 +3268,7 @@
       "workflowState": 1,
       "publishOn": 1743724800089,
       "addedOn": 1743724800089,
-      "updatedOn": 1778448804349
+      "updatedOn": 1782221285923
     },
     {
       "id": "6824879acdfab25869f2b5b3",
@@ -3307,7 +3307,7 @@
       "workflowState": 1,
       "publishOn": 1743638400764,
       "addedOn": 1743638400764,
-      "updatedOn": 1778448833760
+      "updatedOn": 1782221300763
     },
     {
       "id": "6824879acdfab25869f2b5b6",
@@ -3349,7 +3349,7 @@
       "workflowState": 1,
       "publishOn": 1743552000362,
       "addedOn": 1743552000362,
-      "updatedOn": 1781131779593
+      "updatedOn": 1782221353647
     },
     {
       "id": "6a29ea03df6d743e11461f2d",
@@ -3387,7 +3387,7 @@
       "workflowState": 1,
       "publishOn": 1743547779564,
       "addedOn": 1743547779564,
-      "updatedOn": 1781133140090
+      "updatedOn": 1782221371020
     },
     {
       "id": "6824879acdfab25869f2b5da",
@@ -3428,7 +3428,7 @@
       "workflowState": 1,
       "publishOn": 1743465600518,
       "addedOn": 1743465600518,
-      "updatedOn": 1778449011028
+      "updatedOn": 1782221507997
     },
     {
       "id": "6824879acdfab25869f2b5ef",
@@ -3467,7 +3467,7 @@
       "workflowState": 1,
       "publishOn": 1743379200260,
       "addedOn": 1743379200260,
-      "updatedOn": 1781730764306
+      "updatedOn": 1782221532399
     }
   ]
 }
