@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-06-23T14:00:57.272Z",
-  "sourceHash": "eedb3cad77458effdc918c8b59cfd5fa375e96d7a0f66755519be6af02d7b7a8",
+  "updatedAt": "2026-06-23T16:37:48.217Z",
+  "sourceHash": "3eff4286833643c955267a05eeee03254e8d2d9821294ef537d257577ba9194d",
   "count": 29,
   "pages": 2,
   "items": [
@@ -1010,7 +1010,10 @@
       "tags": [
         "Sélection: Homepage",
         "Sujet: Florian Le Bouhec",
-        "Catégorie: Tour by"
+        "Catégorie: Tour by",
+        "Membre: Dimanche",
+        "Membre: MAMCO",
+        "Membre: Galerie Mezzanin"
       ],
       "excerpt": "",
       "location": {
@@ -1027,7 +1030,7 @@
       "workflowState": 1,
       "publishOn": 1754485785054,
       "addedOn": 1754485785054,
-      "updatedOn": 1779475218184
+      "updatedOn": 1782224928797
     },
     {
       "id": "68920686bded6257f838ca68",
