@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-06-24T13:30:18.711Z",
-  "sourceHash": "3eff4286833643c955267a05eeee03254e8d2d9821294ef537d257577ba9194d",
+  "updatedAt": "2026-06-24T15:57:23.583Z",
+  "sourceHash": "5abe4fc37402a8a3f1c3e4a0177ff03105654b2262112cace51aaeab192abd03",
   "count": 29,
   "pages": 2,
   "items": [
@@ -178,7 +178,8 @@
         "Catégorie: Rencontre Avec",
         "Sujet: Frédéric Ormond",
         "Membre: Ormond Editions",
-        "Quartier: Eaux-Vives Cité"
+        "Quartier: Eaux-Vives Cité",
+        "Sélection: Homepage"
       ],
       "excerpt": "",
       "location": {
@@ -195,7 +196,7 @@
       "workflowState": 1,
       "publishOn": 1781178070832,
       "addedOn": 1781178070832,
-      "updatedOn": 1781178071029
+      "updatedOn": 1782315836130
     },
     {
       "id": "6a0f880682b392465d441a93",
@@ -478,7 +479,8 @@
       "tags": [
         "Sujet: Caroline Bachmann",
         "Artiste: Caroline Bachmann",
-        "Catégorie: Studio Visit"
+        "Catégorie: Studio Visit",
+        "Sélection: Homepage"
       ],
       "excerpt": "",
       "location": {
@@ -495,7 +497,7 @@
       "workflowState": 1,
       "publishOn": 1760107939226,
       "addedOn": 1760107939226,
-      "updatedOn": 1779371455065
+      "updatedOn": 1782313993537
     },
     {
       "id": "68e50fd093ec250702069457",
