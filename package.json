@@ -3,6 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build:locations": "node scripts/build-location-json.mjs sources/pcc-locations.config.json"
+    "build:locations:pcc": "node scripts/build-location-json.mjs sources/pcc-locations.config.json",
+    "build:locations:gaw": "node scripts/build-location-json.mjs sources/gaw-locations.config.json",
+    "build:locations": "npm run build:locations:pcc && npm run build:locations:gaw"
   }
 }
