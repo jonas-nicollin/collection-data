@@ -26,13 +26,13 @@ jobs:
 
       - name: Commit changes if needed
         run: |
-          if git diff --quiet -- public/data/locations/pcc.json; then
+          if git diff --quiet -- public/data/locations; then
             echo "No data changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/locations/pcc.json
-          git commit -m "Update PCC location data"
+          git add public/data/locations
+          git commit -m "Update location data"
           git push
