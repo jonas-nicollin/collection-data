@@ -1,0 +1,38 @@
+{
+  "id": "gaw-locations",
+  "type": "locations",
+  "site": "gaw",
+  "sourceType": "google-sheet-csv",
+  "sourceUrl": "https://docs.google.com/spreadsheets/d/1tl79x8Mt69yC_iVpmf5WobvS_UAER9xrs-lsF3-chpI/gviz/tq?tqx=out:csv&gid=0",
+  "output": "public/data/locations/gaw.json",
+  "fallbackCountry": "Suisse",
+  "match": {
+    "dataField": "title",
+    "normalize": "slug"
+  },
+  "columns": {
+    "title": ["Location"],
+    "zone": ["Zone"],
+    "address1": ["Address"],
+    "postalCode": ["Postal Code"],
+    "city": ["City"],
+    "country": ["Country"],
+    "phone": ["Phone"],
+    "website": ["Website"],
+    "email": ["Email"],
+    "mapUrl": ["Google Maps URL"],
+    "latitude": ["Latitude"],
+    "longitude": ["Longitude"],
+    "instagram": ["Instagram"],
+    "monday": ["Monday"],
+    "tuesday": ["Tuesday"],
+    "wednesday": ["Wednesday"],
+    "thursday": ["Thursday"],
+    "friday": ["Friday"],
+    "saturday": ["Saturday"],
+    "sunday": ["Sunday"],
+    "slug": ["Key"],
+    "image": ["Image"],
+    "imagePosition": ["Image Position"]
+  }
+}
