@@ -5,8 +5,8 @@
   "id": "programme-2025",
   "path": "/programme-2025",
   "sourceUrl": "https://genevaartweek.com/programme-2025?format=json",
-  "updatedAt": "2026-06-29T11:49:34.163Z",
-  "sourceHash": "1bbeb3b426bd240d9297ca62651f738137686ea1ff47a6634f591ee9ff9dbc92",
+  "updatedAt": "2026-06-29T15:20:36.147Z",
+  "sourceHash": "bc8f64ce0385c2562478173b8f945b0de2403c24fcd17a422ae7a839257d612a",
   "count": 169,
   "pages": 1,
   "items": [
@@ -7525,13 +7525,13 @@
         "Artiste: Nicolas Polli",
         "Type: Exposition",
         "Membre: Centre de la Photographie Genève",
-        "Display: Featured on Homepage",
         "Sélection: Quartier des Bains",
         "Date: 2025-09-21",
         "Date: 2025-09-18",
         "Date: 2025-09-17",
         "Date: 2025-09-19",
-        "Date: 2025-09-20"
+        "Date: 2025-09-20",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">8 juillet–21 septembre 2025</p>",
       "location": {
@@ -7549,7 +7549,7 @@
       "workflowState": 1,
       "publishOn": 1751936400039,
       "addedOn": 1751936400039,
-      "updatedOn": 1777542488652
+      "updatedOn": 1782743088172
     },
     {
       "id": "6825ea8daddf153767e92d35",
@@ -7627,13 +7627,13 @@
         "Quartier: Quartier des Bains",
         "Type: Exposition",
         "Membre: Centre de la Photographie Genève",
-        "Display: Featured on Homepage",
         "Sélection: Quartier des Bains",
         "Date: 2025-09-21",
         "Date: 2025-09-18",
         "Date: 2025-09-17",
         "Date: 2025-09-19",
-        "Date: 2025-09-20"
+        "Date: 2025-09-20",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">16 mai–12 octobre 2025</p>",
       "location": {
@@ -7651,7 +7651,7 @@
       "workflowState": 1,
       "publishOn": 1747378800615,
       "addedOn": 1747378800615,
-      "updatedOn": 1777542488608
+      "updatedOn": 1782743088142
     }
   ]
 }
