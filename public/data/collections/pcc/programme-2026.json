@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.pcc.jonasnicollin.ch/programme-2026?format=json",
-  "updatedAt": "2026-06-30T06:09:10.650Z",
-  "sourceHash": "99dd5a0ccd42bc53ea2e9df74fb84647dc14b9360003982441a47036b3687b5c",
+  "updatedAt": "2026-06-30T09:59:33.232Z",
+  "sourceHash": "8d1548adf39160ef2e7f01d2cc238dcb55bd90d4ed856abce76d0198a5fdb324",
   "count": 52,
   "pages": 3,
   "items": [
@@ -1137,7 +1137,6 @@
         "Année: 2026",
         "Artiste: Amélie Patry",
         "Lieu: Le Salon Vert",
-        "Origine: France",
         "Sélection: Homepage",
         "Date: 2026-09-19/2026-09-27",
         "Numéro: 10",
@@ -1159,13 +1158,13 @@
       "workflowState": 1,
       "publishOn": 1789027200135,
       "addedOn": 1789027200135,
-      "updatedOn": 1780669895601
+      "updatedOn": 1782806269333
     },
     {
       "id": "696a423a054fc71a7afeec5d",
       "title": "Capucine Pageron",
-      "fullUrl": "/programme-2026/expositions/12/capucine-pageron",
-      "urlId": "expositions/12/capucine-pageron",
+      "fullUrl": "/programme-2026/expositions/11/capucine-pageron",
+      "urlId": "expositions/11/capucine-pageron",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/bd42449e-a2b4-41b0-8b7e-8c52df63cf3b/PCC_2026-12-Galerie_Series_Rares-Capucine_Pageron-014.webp",
       "mediaFocalPoint": {
         "x": 0.7938457720702277,
@@ -1180,7 +1179,6 @@
         "Artiste: Capucine Pageron",
         "Lieu: Galerie Séries Rares",
         "Sélection: Homepage",
-        "Origine: France",
         "Date: 2026-09-19/2026-09-27",
         "Zone: Carouge",
         "Numéro: 11",
@@ -1202,7 +1200,7 @@
       "workflowState": 1,
       "publishOn": 1788940800213,
       "addedOn": 1788940800213,
-      "updatedOn": 1780669907161
+      "updatedOn": 1782806009824
     },
     {
       "id": "6a1eb54fad22853d973ff081",
