@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-06-30T14:46:32.664Z",
-  "sourceHash": "23fc4867003b67b0251b1b92f6346e3868d11a898871049cce8fd1838048daba",
+  "updatedAt": "2026-06-30T16:56:30.988Z",
+  "sourceHash": "c37023dc3eec79a628be9db134b24f1a2368d3555c9f22765f3e3531e193e86a",
   "count": 29,
   "pages": 2,
   "items": [
@@ -1074,8 +1074,8 @@
     {
       "id": "6878f615d937c172673be9c7",
       "title": "Balthazar Lovay fonde la&nbsp;galerie Lovay Fine Arts à&nbsp;Genève en&nbsp;2022.",
-      "fullUrl": "/article/Blog Post Title One-7f27z",
-      "urlId": "Blog Post Title One-7f27z",
+      "fullUrl": "/article/balthazar-lovay-lovay-fine-arts-geneve-2022",
+      "urlId": "balthazar-lovay-lovay-fine-arts-geneve-2022",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1752758107488-FWRBCQVZ7NFP2DK6NEQB/Portrait.webp",
       "mediaFocalPoint": {
         "x": 0.5089285714285714,
@@ -1108,7 +1108,7 @@
       "workflowState": 1,
       "publishOn": 1754031600616,
       "addedOn": 1754031600616,
-      "updatedOn": 1779374183878
+      "updatedOn": 1782836969651
     }
   ]
 }
