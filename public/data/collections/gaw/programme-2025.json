@@ -5,8 +5,8 @@
   "id": "programme-2025",
   "path": "/programme-2025",
   "sourceUrl": "https://genevaartweek.com/programme-2025?format=json",
-  "updatedAt": "2026-07-01T13:18:54.871Z",
-  "sourceHash": "bc8f64ce0385c2562478173b8f945b0de2403c24fcd17a422ae7a839257d612a",
+  "updatedAt": "2026-07-01T15:59:07.387Z",
+  "sourceHash": "4969e688f5da9c9fc22526054340d462491617eb623689bb79f982e3ac13a084",
   "count": 169,
   "pages": 1,
   "items": [
@@ -7519,7 +7519,6 @@
         "Thématique: Photographie",
         "Thématique: Scène artistique suisse",
         "Thématique: Scène émergente",
-        "Lieu: Maison de l'enfance et de l'adolescence des HUG",
         "Quartier: Plainpalais",
         "Artiste: Sabine Hess",
         "Artiste: Nicolas Polli",
@@ -7531,7 +7530,8 @@
         "Date: 2025-09-17",
         "Date: 2025-09-19",
         "Date: 2025-09-20",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Lieu: Maison de l’enfance et de l’adolescence des HUG"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">8 juillet–21 septembre 2025</p>",
       "location": {
@@ -7549,7 +7549,7 @@
       "workflowState": 1,
       "publishOn": 1751936400039,
       "addedOn": 1751936400039,
-      "updatedOn": 1782743088172
+      "updatedOn": 1782914457851
     },
     {
       "id": "6825ea8daddf153767e92d35",
