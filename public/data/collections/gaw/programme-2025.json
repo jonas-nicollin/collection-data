@@ -5,8 +5,8 @@
   "id": "programme-2025",
   "path": "/programme-2025",
   "sourceUrl": "https://genevaartweek.com/programme-2025?format=json",
-  "updatedAt": "2026-07-02T04:18:01.902Z",
-  "sourceHash": "4969e688f5da9c9fc22526054340d462491617eb623689bb79f982e3ac13a084",
+  "updatedAt": "2026-07-02T07:47:32.627Z",
+  "sourceHash": "cd4e662ae6ccee499c9246cb961366bea3fc9c28ac586ee1c72f47c9d24ec4f0",
   "count": 169,
   "pages": 1,
   "items": [
@@ -5921,7 +5921,7 @@
       "workflowState": 1,
       "publishOn": 1758088800097,
       "addedOn": 1758088800097,
-      "updatedOn": 1777542488438
+      "updatedOn": 1782972961865
     },
     {
       "id": "6825ea6daddf153767e927ec",

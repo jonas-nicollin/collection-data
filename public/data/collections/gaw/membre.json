@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-07-02T04:18:03.302Z",
-  "sourceHash": "e6801fc118005db949a8ecb4e0b0a5f89724b7948cb7f627c8205487c62c3b7e",
+  "updatedAt": "2026-07-02T07:47:33.778Z",
+  "sourceHash": "41b2d8b35d6bb922293cf9b81cca818bb6f96026c3cc5c291eed6423bd507143",
   "count": 87,
   "pages": 1,
   "items": [
@@ -79,7 +79,7 @@
         "mapLng": 6.1586818,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "ARCADIA",
+        "addressTitle": "Arcadia",
         "addressLine1": "Rue des Eaux-Vives 20 ",
         "addressLine2": "1207 Genève",
         "addressCountry": "Suisse"
@@ -88,7 +88,7 @@
       "workflowState": 1,
       "publishOn": 1748476800370,
       "addedOn": 1748476800370,
-      "updatedOn": 1782197803346
+      "updatedOn": 1782976427909
     },
     {
       "id": "6a252c2437cb0c548d7ea898",
