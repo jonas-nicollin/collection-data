@@ -5,8 +5,8 @@
   "id": "programme-2025",
   "path": "/programme-2025",
   "sourceUrl": "https://genevaartweek.com/programme-2025?format=json",
-  "updatedAt": "2026-07-03T08:23:46.322Z",
-  "sourceHash": "cd4e662ae6ccee499c9246cb961366bea3fc9c28ac586ee1c72f47c9d24ec4f0",
+  "updatedAt": "2026-07-03T11:07:40.703Z",
+  "sourceHash": "b102a72b0c51df8eed8aabae7c4aeb9e5b32a876142972f2c27be01f8c34966e",
   "count": 169,
   "pages": 1,
   "items": [
@@ -3434,11 +3434,8 @@
         "Membre: Galerie Mezzanin",
         "Sélection: Quartier des Bains",
         "Sélection: Expositions principales",
-        "Date: 2025-09-21",
-        "Date: 2025-09-18",
-        "Date: 2025-09-19",
-        "Date: 2025-09-20",
-        "Vernissage: 2025-09-17T17:00"
+        "Vernissage: 2025-09-17T17:00",
+        "Date: 2025-09-18/2025-11-08"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">18 septembre–8 novembre 2025</p>",
       "location": {
@@ -3456,7 +3453,7 @@
       "workflowState": 1,
       "publishOn": 1758164400695,
       "addedOn": 1758164400695,
-      "updatedOn": 1779376605377
+      "updatedOn": 1783071948782
     },
     {
       "id": "6825ea85addf153767e92b6d",
@@ -5992,12 +5989,8 @@
         "Membre: Skopia / P.-H. Jaccaud",
         "Sélection: Quartier des Bains",
         "Sélection: Expositions principales",
-        "Date: 2025-09-21",
-        "Date: 2025-09-18",
-        "Date: 2025-09-17",
-        "Date: 2025-09-19",
-        "Date: 2025-09-20",
-        "Vernissage: 2025-09-17T18:00"
+        "Vernissage: 2025-09-17T18:00",
+        "Date: 2025-09-17/2025-11-01"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">17 septembre–1 novembre 2025<br></p>",
       "location": {
@@ -6015,7 +6008,7 @@
       "workflowState": 1,
       "publishOn": 1758081600549,
       "addedOn": 1758081600549,
-      "updatedOn": 1779376396312
+      "updatedOn": 1783071884784
     },
     {
       "id": "68ab2bc4009b92091f0e3469",
@@ -7477,11 +7470,7 @@
         "Type: Exposition",
         "Sélection: Quartier des Bains",
         "Sélection: Expositions principales",
-        "Date: 2025-09-21",
-        "Date: 2025-09-18",
-        "Date: 2025-09-17",
-        "Date: 2025-09-19",
-        "Date: 2025-09-20"
+        "Date: 2025-09-03/2025-10-05"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3 septembre–5 octobre 2025</p>",
       "location": {
@@ -7499,7 +7488,7 @@
       "workflowState": 1,
       "publishOn": 1756892820597,
       "addedOn": 1756892820597,
-      "updatedOn": 1777542489288
+      "updatedOn": 1783072018578
     },
     {
       "id": "6825ea76addf153767e9292e",
@@ -7525,13 +7514,9 @@
         "Type: Exposition",
         "Membre: Centre de la Photographie Genève",
         "Sélection: Quartier des Bains",
-        "Date: 2025-09-21",
-        "Date: 2025-09-18",
-        "Date: 2025-09-17",
-        "Date: 2025-09-19",
-        "Date: 2025-09-20",
         "Sélection: Expositions principales",
-        "Lieu: Maison de l’enfance et de l’adolescence des HUG"
+        "Lieu: Maison de l’enfance et de l’adolescence des HUG",
+        "Date: 2025-07-08/2025-09-21"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">8 juillet–21 septembre 2025</p>",
       "location": {
@@ -7549,7 +7534,7 @@
       "workflowState": 1,
       "publishOn": 1751936400039,
       "addedOn": 1751936400039,
-      "updatedOn": 1782914457851
+      "updatedOn": 1783072083745
     },
     {
       "id": "6825ea8daddf153767e92d35",
@@ -7628,12 +7613,8 @@
         "Type: Exposition",
         "Membre: Centre de la Photographie Genève",
         "Sélection: Quartier des Bains",
-        "Date: 2025-09-21",
-        "Date: 2025-09-18",
-        "Date: 2025-09-17",
-        "Date: 2025-09-19",
-        "Date: 2025-09-20",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Date: 2025-05-16/2025-10-12"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">16 mai–12 octobre 2025</p>",
       "location": {
@@ -7651,7 +7632,7 @@
       "workflowState": 1,
       "publishOn": 1747378800615,
       "addedOn": 1747378800615,
-      "updatedOn": 1782743088142
+      "updatedOn": 1783072137397
     }
   ]
 }
