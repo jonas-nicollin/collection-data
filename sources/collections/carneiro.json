@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "site": "carneiro",
+  "collections": [
+    {
+      "id": "projet",
+      "path": "/projet",
+      "url": "https://www.carneiro.ch/projet?format=json"
+    }
+  ]
+}
