@@ -1,0 +1,2220 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "carneiro",
+  "id": "projet",
+  "path": "/projet",
+  "sourceUrl": "https://www.carneiro.ch/projet?format=json",
+  "updatedAt": "2026-07-06T10:04:29.275Z",
+  "sourceHash": "5b44a36faf56ffaac9e6a45faaee8c2222ab0847bb0baf8d8eed79f955650983",
+  "count": 46,
+  "pages": 3,
+  "items": [
+    {
+      "id": "6a4b5f921749f32d0d7dec21",
+      "title": "Épinettes",
+      "fullUrl": "/projet/epinettes",
+      "urlId": "epinettes",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1783325971467-FSNP3A7SDLOFT4MFLKOI/Carneiro_Architectes-Epinettes-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maisons contiguës",
+        "Immeuble résidentiel"
+      ],
+      "tags": [
+        "Lieu: Chêne-Bougeries",
+        "Pays: Suisse",
+        "Année: 2028",
+        "Intervention: Construction neuve",
+        "Intervention: Rénovation",
+        "Intervention: Extension",
+        "Élément: Cour",
+        "Élément: Façade",
+        "Élément: Ancien",
+        "Domaine: Immobilier",
+        "Matière: Brique",
+        "Statut: Index",
+        "Mis en avant: Non"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une façade métallique clarifie l’existant selon une trame régulière.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rénovation d’une façade à ossature métallique dans le quartier des Acacias à Carouge.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 45,
+      "workflowState": 1,
+      "publishOn": 1783326430249,
+      "addedOn": 1783326430249,
+      "updatedOn": 1783326430486
+    },
+    {
+      "id": "697c73bfad3ef43356050453",
+      "title": "Vallon",
+      "fullUrl": "/projet/vallon",
+      "urlId": "vallon",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772647702664-H91ZVFHLB5DUBJ33WW9X/Carneiro_Architectes-Ensemble_de_villas_Chene-Bougeries-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5039643211100099,
+        "y": 0.7321769055480631,
+        "source": 3
+      },
+      "categories": [
+        "Maisons contiguës",
+        "Immeuble résidentiel"
+      ],
+      "tags": [
+        "Lieu: Chêne-Bougeries",
+        "Pays: Suisse",
+        "Année: 2028",
+        "Mis en avant: Oui",
+        "Intervention: Construction neuve",
+        "Intervention: Rénovation",
+        "Intervention: Extension",
+        "Élément: Cour",
+        "Élément: Façade",
+        "Élément: Ancien",
+        "Domaine: Immobilier",
+        "Matière: Brique",
+        "Review: Thumbnail",
+        "Statut: Index"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un ensemble résidentiel qui densifie le site par la diversité typologique et une unité de matière.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">À Chêne-Bougeries, un ensemble résidentiel qui densifie avec mesure, en combinant restauration, nouvelles typologies et une écriture unifiée par la brique.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 6,
+      "workflowState": 1,
+      "publishOn": 1777626031995,
+      "addedOn": 1777626031995,
+      "updatedOn": 1783324616772
+    },
+    {
+      "id": "697c73bead3ef43356050432",
+      "title": "Rénovation, Choulex",
+      "fullUrl": "/projet/renovation-choulex",
+      "urlId": "renovation-choulex",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775490359498-MMFBYXY0BGBAOCIWQPOX/Carneiro_Architectes-Maison_de_famille_Choulex-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Choulex",
+        "Pays: Suisse",
+        "Année: 2025",
+        "Statut: Case Study",
+        "Mis en avant: Oui",
+        "Intervention: Rénovation",
+        "Intervention: Extension",
+        "Élément: Façade",
+        "Élément: Détail",
+        "Élément: Sur mesure",
+        "Domaine: Client privé",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Matière: Textile & cuir",
+        "Intervention: Intérieur",
+        "Review: Final",
+        "Crédit photographique: Luca Fascini"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une maison familiale réécrite par la pierre, dans une continuité précise entre façade, intérieur et paysage.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">À Choulex, une maison familiale est transformée par une écriture minérale précise, de la façade en pierre bleue jusqu’aux aménagements intérieurs. Un projet de continuité et de sobriété.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 4,
+      "workflowState": 1,
+      "publishOn": 1777622431133,
+      "addedOn": 1777622431133,
+      "updatedOn": 1779190594350
+    },
+    {
+      "id": "697c73c3ad3ef43356050472",
+      "title": "Au bord du lac, Anières",
+      "fullUrl": "/projet/au-bord-du-lac-anieres",
+      "urlId": "au-bord-du-lac-anieres",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772550788263-6CG3Z169FT6IIQNHJI9X/Carneiro_Architectes-Au_bord_du_lac_Anieres-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Anières",
+        "Pays: Suisse",
+        "Année: 2028",
+        "Statut: Case Study",
+        "Mis en avant: Oui",
+        "Intervention: Construction neuve",
+        "Intervention: Concours",
+        "Élément: Façade",
+        "Élément: Piscine",
+        "Élément: Double hauteur",
+        "Élément: Jardin",
+        "Élément: Patio",
+        "Élément: Détail",
+        "Élément: Sur mesure",
+        "Domaine: Client privé",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Matière: Verre",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Une villa traversante où les volumes orchestrent lumière, horizon et parcours.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">À Anières, projet lauréat pour cette villa ouverte sur le paysage, où doubles volumes et parcours fluides organisent la relation à la lumière et au lac.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 14,
+      "workflowState": 1,
+      "publishOn": 1775034031082,
+      "addedOn": 1775034031082,
+      "updatedOn": 1779271127338
+    },
+    {
+      "id": "697c73bead3ef4335605042f",
+      "title": "Interior design, Megève",
+      "fullUrl": "/projet/interior-design-megeve",
+      "urlId": "interior-design-megeve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1779178115631-HVFGPKM2RPVAV7V88CS8/Chalet_Mege_Carne_251218-239_WIP-2.JPG",
+      "mediaFocalPoint": {
+        "x": 0.65625,
+        "y": 0.5982142857142857,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Megève",
+        "Pays: France",
+        "Année: 2025",
+        "Statut: Case Study",
+        "Mis en avant: Oui",
+        "Élément: Détail",
+        "Élément: Piscine",
+        "Élément: Sur mesure",
+        "Domaine: Client privé",
+        "Matière: Bois",
+        "Matière: Pierre",
+        "Intervention: Intérieur",
+        "Review: Final",
+        "Crédit photographique: Luca Fascini"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un intérieur de montagne où la matière et le détail redéfinissent l’expérience spatiale.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">À Megève, une intervention intérieure radicale, portée par la matière, les proportions et le travail artisanal. Un projet où le détail change l’échelle de l’espace.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 3,
+      "workflowState": 1,
+      "publishOn": 1772352031777,
+      "addedOn": 1772352031777,
+      "updatedOn": 1783321822727
+    },
+    {
+      "id": "697c73bdad3ef4335605042c",
+      "title": "Extension, Collonge-Bellerive",
+      "fullUrl": "/projet/extension-collonge-bellerive",
+      "urlId": "extension-collonge-bellerive",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775483351455-MO1D0DQA4APJOMGI5C1X/Carneiro_Architectes-Extension_Collonge-Bellerive-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Collonge-Bellerive",
+        "Pays: Suisse",
+        "Année: En cours",
+        "Mis en avant: Non",
+        "Intervention: Étude",
+        "Élément: Double Hauteur",
+        "Élément: Façade",
+        "Domaine: Client privé",
+        "Matière: Bois",
+        "Review: Thumbnail",
+        "Statut: Case Study"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une maison familiale agrandie et rénovée à Collonge Bellerive.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Surélévation mesurée de la maison existante, accueillant une chambre master et un bureau, avec toit-terrasse ouvert sur les vues du jardin.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 2,
+      "workflowState": 1,
+      "publishOn": 1768035631983,
+      "addedOn": 1768035631983,
+      "updatedOn": 1783322627081
+    },
+    {
+      "id": "697c73c1ad3ef43356050462",
+      "title": "Attique, Florissant",
+      "fullUrl": "/projet/attique-florissant",
+      "urlId": "attique-florissant",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1779178054126-JGIITK6E9DE0K9SCIR9R/Att_29Corbu_240705-0046_HD_ok.JPG",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Appartement"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2023",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Intervention: Concours",
+        "Élément: Détail",
+        "Élément: Sur mesure",
+        "Domaine: Client privé",
+        "Matière: Bois",
+        "Matière: Métal",
+        "Matière: Textile & cuir",
+        "Intervention: Intérieur",
+        "Review: Thumbnail",
+        "Crédit photographique: Luca Fascini"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un attique à Florissant rénové par un design intérieur sur mesure.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Dessin de meubles sur mesure et remaniement du plan pour adapter le logement aux souhaits des nouveaux propriétaires, dans une continuité architecturale soignée.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 9,
+      "workflowState": 1,
+      "publishOn": 1767949231992,
+      "addedOn": 1767949231992,
+      "updatedOn": 1783320380441
+    },
+    {
+      "id": "697c73c4ad3ef4335605047f",
+      "title": "Comité international de la Croix-Rouge (CICR)",
+      "fullUrl": "/projet/comite-international-de-la-croix-rouge-cicr",
+      "urlId": "comite-international-de-la-croix-rouge-cicr",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1770309220205-2CUV2WKLJT2RX8T41WFU/Carneiro_Architectes-Comite_international_de_la_Croix-Rouge_CICR-025.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Bureaux"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2020",
+        "Statut: Case Study",
+        "Mis en avant: Oui",
+        "Intervention: Rénovation",
+        "Intervention: Concours",
+        "Élément: Atrium",
+        "Élément: Double hauteur",
+        "Élément: Façade",
+        "Élément: Détail",
+        "Élément: Sur mesure",
+        "Élément: Escalier",
+        "Élément: Passage",
+        "Élément: Vitrine",
+        "Domaine: Institutions et associations",
+        "Matière: Bois",
+        "Matière: Verre",
+        "Matière: Métal",
+        "Intervention: Intérieur",
+        "Review: Final",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Un espace existant transformé en plateforme open space autour d’un grand atrium.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Projet lauréat pour l’aménagement de nouveaux bureaux pour le Comité international de la Croix-Rouge (CICR), organisés autour d’un atrium lumineux et d’un mur végétal, pensés pour soutenir les échanges, le travail collectif et les missions humanitaires.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 17,
+      "workflowState": 1,
+      "publishOn": 1767780031148,
+      "addedOn": 1767780031148,
+      "updatedOn": 1783323392223
+    },
+    {
+      "id": "697c73c2ad3ef4335605046f",
+      "title": "Pré-Caché",
+      "fullUrl": "/projet/pre-cache",
+      "urlId": "pre-cache",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1779177976305-MBZ16Y516F934WVK2OBE/Final_03.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Vandœuvres",
+        "Pays: Suisse",
+        "Année: En cours",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Étude",
+        "Élément: Façade",
+        "Élément: Piscine",
+        "Élément: Double hauteur",
+        "Élément: Jardin",
+        "Domaine: Client privé",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Matière: Verre",
+        "Matière: Métal",
+        "Review: Final"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une maison familiale protégée des regards dans un cadre végétal à Vandoeuvres.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Maison articulée autour d’un espace central en double hauteur, où les espaces de réception prolongent le dialogue entre intérieur, jardin et piscine.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 13,
+      "workflowState": 1,
+      "publishOn": 1767607231599,
+      "addedOn": 1767607231599,
+      "updatedOn": 1783320635118
+    },
+    {
+      "id": "697c73c1ad3ef43356050465",
+      "title": "Crèche, restaurant, centre sportif, Troinex",
+      "fullUrl": "/projet/creche-restaurant-centre-sportif-troinex",
+      "urlId": "creche-restaurant-centre-sportif-troinex",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1770303097410-NAS13E2H2H29OEDTRV10/Carneiro_Architectes-Creche_restaurant_centre_sportif_Troinex-14.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Restaurant",
+        "École & crèche"
+      ],
+      "tags": [
+        "Lieu: Troinex",
+        "Pays: Suisse",
+        "Année: 2019",
+        "Statut: Case Study",
+        "Mis en avant: Oui",
+        "Intervention: Construction neuve",
+        "Intervention: Concours",
+        "Élément: Cour",
+        "Élément: Jardin",
+        "Élément: Façade",
+        "Élément: Escalier",
+        "Domaine: Institutions et associations",
+        "Matière: Bois",
+        "Review: Final",
+        "Crédit photographique: Paola Corsini"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un ensemble public lisible et ancré, où le bois structure les usages et les rythmes de vie.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">À Troinex, un ensemble public structuré par deux volumes clairs et un socle commun, où l’architecture organise les usages et les temporalités.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 10,
+      "workflowState": 1,
+      "publishOn": 1767434431302,
+      "addedOn": 1767434431302,
+      "updatedOn": 1779172742628
+    },
+    {
+      "id": "697c73bfad3ef43356050450",
+      "title": "Vieux chalet, Megève",
+      "fullUrl": "/projet/vieux-chalet-megeve",
+      "urlId": "vieux-chalet-megeve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772722481623-82WNLKU0PZBU48CN02QE/Carneiro_Architectes-Renovation_d_un_vieux_chalet_Megeve-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Megève",
+        "Pays: France",
+        "Année: En cours",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Détail",
+        "Élément: Sur mesure",
+        "Élément: Ancien",
+        "Domaine: Client privé",
+        "Matière: Bois",
+        "Matière: Pierre",
+        "Matière: Métal",
+        "Intervention: Intérieur"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un vieux chalet à rénover au cœur du village de Megève.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Démolition complète des intérieurs et réorganisation totale des étages, sans intervention sur les façades conservées.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 5,
+      "workflowState": 1,
+      "publishOn": 1766998831019,
+      "addedOn": 1766998831019,
+      "updatedOn": 1779188671189
+    },
+    {
+      "id": "697c73c0ad3ef43356050459",
+      "title": "Appartements, Chêne-Bougeries",
+      "fullUrl": "/projet/appartements-chene-bougeries",
+      "urlId": "appartements-chene-bougeries",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772647426907-EHBLTRRYR19OVBNLTMAM/Carneiro_Architectes-Appartements_Chene-Bougeries-002.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Immeuble résidentiel"
+      ],
+      "tags": [
+        "Lieu: Chêne-Bougeries",
+        "Pays: Suisse",
+        "Année: 2027",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Jardin",
+        "Élément: Façade",
+        "Domaine: Immobilier",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Intervention: Intérieur",
+        "Review: Thumbnail",
+        "Statut: Index"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Quatre appartements en villas issus d’un concours lauréat.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Appartements, duplex et attiques en périphérie urbaine, pensés comme des espaces de standing aux volumes dessinés et aux finitions maîtrisées.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 8,
+      "workflowState": 1,
+      "publishOn": 1766826031622,
+      "addedOn": 1766826031622,
+      "updatedOn": 1779188680154
+    },
+    {
+      "id": "697c73c2ad3ef4335605046c",
+      "title": "Trio, Collonge-Bellerive",
+      "fullUrl": "/projet/trio-collonge-bellerive",
+      "urlId": "trio-collonge-bellerive",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775489054862-VNWYVFH01W03GQS8RKNH/Carneiro_Architectes-Trio_Collonge-Bellerive-04.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Collonge-Bellerive",
+        "Pays: Suisse",
+        "Année: En cours",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Concours",
+        "Élément: Façade",
+        "Élément: Piscine",
+        "Élément: Double hauteur",
+        "Domaine: Client privé",
+        "Matière: Brique",
+        "Matière: Métal",
+        "Review: Final"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Trois maisons individuelles pensées pour un site résidentiel à Collonge-Bellerive.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Villas compactes de standing aux volumes généreux et aux doubles hauteurs, prolongées vers l’extérieur par leur piscine et un brasero à fleur d’eau.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 12,
+      "workflowState": 1,
+      "publishOn": 1766656831918,
+      "addedOn": 1766656831918,
+      "updatedOn": 1779188689072
+    },
+    {
+      "id": "697c73c1ad3ef43356050468",
+      "title": "2 villas contiguës, Vandœuvres",
+      "fullUrl": "/projet/2-villas-contigues-vandoeuvres",
+      "urlId": "2-villas-contigues-vandoeuvres",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775658209474-32KMDX9EXLWM4855N85J/Carneiro_Architectes-2_villas_contigues_Vandoeuvres-015.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maisons contiguës"
+      ],
+      "tags": [
+        "Lieu: Vandœuvres",
+        "Pays: Suisse",
+        "Année: 2015",
+        "Statut: Case Study",
+        "Mis en avant: Oui",
+        "Intervention: Construction neuve",
+        "Élément: Façade",
+        "Élément: Détail",
+        "Élément: Patio",
+        "Domaine: Client privé",
+        "Matière: Bois",
+        "Review: Final",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Deux maisons imbriquées, pensées pour partager un volume sans jamais se voir.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">À Vandoeuvres, deux villas imbriquées dans un seul volume, conçues pour offrir une intimité totale tout en partageant une structure commune.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 11,
+      "workflowState": 1,
+      "publishOn": 1766484031504,
+      "addedOn": 1766484031504,
+      "updatedOn": 1779180747504
+    },
+    {
+      "id": "697c73bdad3ef43356050429",
+      "title": "Minorque",
+      "fullUrl": "/projet/minorque",
+      "urlId": "minorque",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772551511549-CBQOY7K2RVCIV68CO29A/Carneiro_Architectes-Maison_de_vacances_Minorque-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Minorque",
+        "Pays: Espagne",
+        "Année: 2025",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Détail",
+        "Élément: Piscine",
+        "Élément: Sur mesure",
+        "Domaine: Client privé",
+        "Matière: Enduit & papier peint",
+        "Intervention: Intérieur",
+        "Review: Thumbnail",
+        "Statut: Index"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une maison de vacances sur l’île de Minorque, en Espagne.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rénovation d’une maison face à la Méditerranée, où les matières minérales, les gestes simples et la lumière calme traduisent l’esprit de Minorque.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 1,
+      "workflowState": 1,
+      "publishOn": 1766307631691,
+      "addedOn": 1766307631691,
+      "updatedOn": 1779187275635
+    },
+    {
+      "id": "697c73c3ad3ef43356050475",
+      "title": "Pool house",
+      "fullUrl": "/projet/pool-house",
+      "urlId": "pool-house",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775579783161-TYUTZU4IOX8V74TXATEC/Carneiro_Architectes-Pool_House_Chene-Bougeries-009.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Pavillon"
+      ],
+      "tags": [
+        "Lieu: Chêne-Bougeries",
+        "Pays: Suisse",
+        "Année: 2020",
+        "Statut: Case Study",
+        "Mis en avant: Oui",
+        "Intervention: Construction neuve",
+        "Élément: Piscine",
+        "Élément: Jardin",
+        "Élément: Vitrine",
+        "Élément: Façade",
+        "Élément: Détail Sur mesure",
+        "Domaine: Client privé",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Matière: Verre",
+        "Review: Final",
+        "Crédit photographique: Paola Corsini",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un pavillon monolithique en pierre, pensé comme une façon d’habiter le jardin.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">À Chêne-Bougeries, un pool house minimaliste en pierre de Vals, conçu comme un seuil habité entre maison, jardin et piscine.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 15,
+      "workflowState": 1,
+      "publishOn": 1766138431359,
+      "addedOn": 1766138431359,
+      "updatedOn": 1779180747454
+    },
+    {
+      "id": "697c73c4ad3ef4335605047c",
+      "title": "Carneiro Studio",
+      "fullUrl": "/projet/carneiro-studio",
+      "urlId": "carneiro-studio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1782823939541-JNIW5R0PILJLULT0EV9Y/Carneiro_Architectes-Carneiro_Studio-004.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Bureaux"
+      ],
+      "tags": [
+        "Lieu: Carouge",
+        "Pays: Suisse",
+        "Année: 2022",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Élément: Détail",
+        "Élément: Sur mesure",
+        "Élément: Ancien",
+        "Domaine: Services professionnels",
+        "Matière: Bois",
+        "Matière: Enduit & papier peint",
+        "Intervention: Intérieur",
+        "Review: Thumbnail",
+        "Crédit photographique: Luca Fascini"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Nos bureaux dans le Vieux Carouge.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aménagement de bureaux d’architecture, pensés comme un lieu de travail ouvert, propice à la créativité, aux échanges et aux idées partagées.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 16,
+      "workflowState": 1,
+      "publishOn": 1765965631706,
+      "addedOn": 1765965631706,
+      "updatedOn": 1782824086793
+    },
+    {
+      "id": "697c73bcad3ef43356050424",
+      "title": "Maison, Gy",
+      "fullUrl": "/projet/maison-gy",
+      "urlId": "maison-gy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775480862907-N5S2351GFMBIO8P7T0O0/Carneiro_Architectes-Maison_Gy-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Gy",
+        "Pays: Suisse",
+        "Année: En cours",
+        "Intervention: Rénovation",
+        "Élément: Paysage",
+        "Élément: Tiny house",
+        "Domaine: Client privé",
+        "Matière: Bois",
+        "Review: Thumbnail",
+        "Statut: Index",
+        "Mis en avant: Non"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une petite maison rénovée dans le respect du contexte agricole genevois.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Habillage extérieur en bois et réorganisation d’un plan circulaire, avec grande cuisine ouverte, combles aménagés et deck prolongeant la maison.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 0,
+      "workflowState": 1,
+      "publishOn": 1765789231494,
+      "addedOn": 1765789231494,
+      "updatedOn": 1779186618729
+    },
+    {
+      "id": "697c73caad3ef433560504ba",
+      "title": "Clinique privée, Lausanne",
+      "fullUrl": "/projet/clinique-privee-lausanne",
+      "urlId": "clinique-privee-lausanne",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772806653418-8LB2CWNZF2O1SRFHPOQH/Carneiro_Architectes-Clinique_privee_Lausanne-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Clinique"
+      ],
+      "tags": [
+        "Lieu: Lausanne",
+        "Pays: Suisse",
+        "Année: 2009",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Façade",
+        "Élément: Détail",
+        "Domaine: Santé",
+        "Matière: Bois",
+        "Matière: Enduit & papier peint",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Construction d’un petit immeuble dédié à une clinique privée près du CHUV.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Structure hospitalière mêlant soins, accueil, ambulatoire et logements, dans une architecture maîtrisée par les exigences sanitaires et techniques.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 30,
+      "workflowState": 1,
+      "publishOn": 1765620031557,
+      "addedOn": 1765620031557,
+      "updatedOn": 1779186393305
+    },
+    {
+      "id": "697c73c5ad3ef43356050482",
+      "title": "Chemin des Fourches",
+      "fullUrl": "/projet/chemin-des-fourches",
+      "urlId": "chemin-des-fourches",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772725408610-XY7WT6ROBHNICQVM6IGY/Carneiro_Architectes-Habitat_groupe_Cologny-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maisons contiguës"
+      ],
+      "tags": [
+        "Lieu: Cologny",
+        "Pays: Suisse",
+        "Année: 2016",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Jardin",
+        "Élément: Façade",
+        "Élément: Détail",
+        "Domaine: Immobilier",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Matière: Verre",
+        "Review: Final",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Quatre townhouses à Cologny inscrites dans une logique d’habitat groupé.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Quatre unités d’habitation suivent la légère pente du terrain et s’insèrent dans une parcelle étroite, ouverte sur la campagne genevoise.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 18,
+      "workflowState": 1,
+      "publishOn": 1765447231316,
+      "addedOn": 1765447231316,
+      "updatedOn": 1779186243015
+    },
+    {
+      "id": "697c73c9ad3ef433560504b0",
+      "title": "Boucle",
+      "fullUrl": "/projet/boucle",
+      "urlId": "boucle",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1779177339057-8ATECI9PSL9CR1IIY4Z1/k-car-bouA-409.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Vésenaz",
+        "Pays: Suisse",
+        "Année: 2013",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Façade",
+        "Élément: Piscine",
+        "Élément: Double hauteur",
+        "Domaine: Client privé",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Crédit photographique: Thomas Jantscher",
+        "Direction des Travaux: Roberto Mazzu"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Deux villas face au lac organisées autour des vues et du paysage.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Jeu de volumes pour deux villas avec piscine, où vues et diagonales dilatent les espaces intérieurs vers le paysage et les résonances du lac.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 28,
+      "workflowState": 1,
+      "publishOn": 1765274431406,
+      "addedOn": 1765274431406,
+      "updatedOn": 1779194978119
+    },
+    {
+      "id": "697c73c5ad3ef4335605048a",
+      "title": "Le Nord-Sud",
+      "fullUrl": "/projet/le-nord-sud",
+      "urlId": "le-nord-sud",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772725154991-PRJ8KLXZIF5IKL2G6NZE/Carneiro_Architectes-Le_Nord-Sud-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Cinéma"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2015",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Atrium",
+        "Élément: Détail",
+        "Élément: Ancien",
+        "Élément: Vitrine",
+        "Domaine: Arts et culture",
+        "Matière: Textile & cuir",
+        "Matière: Enduit & papier peint",
+        "Review: Final",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Des cinémas indépendants rénovés autour d’une identité intérieure commune. Projet lauréat. Voici le Nord Sud.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Création d’une petite salle dans la salle historique rénovée, où l’intervention intérieure précise les usages tout en respectant l’esprit du lieu.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 20,
+      "workflowState": 1,
+      "publishOn": 1765101631714,
+      "addedOn": 1765101631714,
+      "updatedOn": 1779272511423
+    },
+    {
+      "id": "697c73c6ad3ef43356050493",
+      "title": "Les Scala",
+      "fullUrl": "/projet/les-scala",
+      "urlId": "les-scala",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1770371400679-OBWLODYAMUVFSKMD9NCC/Carneiro_Architectes-Les_Scala-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.505653072896045,
+        "y": 0.19346137748221182,
+        "source": 3
+      },
+      "categories": [
+        "Cinéma"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2015",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Atrium",
+        "Élément: Détail",
+        "Élément: Ancien",
+        "Élément: Vitrine",
+        "Domaine: Arts et culture",
+        "Matière: Bois",
+        "Matière: Textile & cuir",
+        "Review: Final",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Des cinémas indépendants rénovés autour d’une identité intérieure commune. Projet lauréat. Voici Les Scalas.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rénovation de trois salles aux Eaux-Vives, avec une nouvelle ambiance contemporaine où la couleur accompagne les usages et redonne une lecture sensible des lieux.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 22,
+      "workflowState": 1,
+      "publishOn": 1764928831959,
+      "addedOn": 1764928831959,
+      "updatedOn": 1779272549212
+    },
+    {
+      "id": "697c73c8ad3ef433560504a3",
+      "title": "Cinélux",
+      "fullUrl": "/projet/cinelux",
+      "urlId": "cinelux",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772726318379-B4VJODZ11LLSCRP0INQU/Carneiro_Architectes-Cinelux-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Cinéma"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2014",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Vitrine",
+        "Élément: Détail",
+        "Élément: Ancien",
+        "Domaine: Arts et culture",
+        "Matière: Textile & cuir",
+        "Review: Final",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Des cinémas indépendants rénovés autour d’une identité intérieure commune. Projet lauréat. Voici le Cinelux.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rénovation complète d’une salle et de ses équipements, avec création d’un auvent miroir qui prolonge l’accueil sur le boulevard de la ville.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 26,
+      "workflowState": 1,
+      "publishOn": 1764756031047,
+      "addedOn": 1764756031047,
+      "updatedOn": 1779272653945
+    },
+    {
+      "id": "697c73c9ad3ef433560504ac",
+      "title": "City",
+      "fullUrl": "/projet/city",
+      "urlId": "city",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775566284638-ZXTD0DNKYHBYYRK9BXJF/Carneiro_Architectes-City-014.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Cinéma"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2014",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Vitrine",
+        "Élément: Détail",
+        "Élément: Ancien",
+        "Domaine: Arts et culture",
+        "Matière: Textile & cuir",
+        "Matière: Enduit & papier peint",
+        "Review: Final",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Des cinémas indépendants rénovés autour d’une identité intérieure commune. Projet lauréat. Voici Le City.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rénovation de la salle de cinéma, avec création d’un bar et d’un guichet dans un accueil compact ouvert sur la ville.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 27,
+      "workflowState": 1,
+      "publishOn": 1764583231548,
+      "addedOn": 1764583231548,
+      "updatedOn": 1779272677764
+    },
+    {
+      "id": "697c73c6ad3ef4335605048f",
+      "title": "Shiso, Genève",
+      "fullUrl": "/projet/shiso-geneve",
+      "urlId": "shiso-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1770710700156-YEWKIBIQXA7XOKLDXPG5/Carneiro_Architectes-Shiso_Zurich-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Restaurant"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2020",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Vitrine",
+        "Élément: Détail",
+        "Domaine: Alimentation et restauration",
+        "Matière: Bois",
+        "Matière: Végétal",
+        "Matière: Enduit & papier peint",
+        "Intervention: Intérieur",
+        "Review: Thumbnail",
+        "Statut: Case Study"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un premier restaurant Shiso Burger adapté au contexte genevois du boulevard George-Favon.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aménagement complet d’un petit espace sur deux niveaux, avec mezzanine, cuisine compacte, bar à emporter et terrasse ouverte sur le boulevard.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 21,
+      "workflowState": 1,
+      "publishOn": 1764410431850,
+      "addedOn": 1764410431850,
+      "updatedOn": 1779272528614
+    },
+    {
+      "id": "697c73c0ad3ef43356050456",
+      "title": "Shiso, Zürich",
+      "fullUrl": "/projet/shiso-zurich",
+      "urlId": "shiso-zurich",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772725910648-L04LC1LQPZ3DQKL6PUE7/Carneiro_Architectes-Shiso_Zurich-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Restaurant"
+      ],
+      "tags": [
+        "Lieu: Zürich",
+        "Pays: Suisse",
+        "Année: 2022",
+        "Statut: Index",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Vitrine",
+        "Élément: Détail",
+        "Domaine: Alimentation et restauration",
+        "Matière: Végétal",
+        "Matière: Enduit & papier peint",
+        "Intervention: Intérieur",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un restaurant inscrit dans le tissu dense de la vieille ville zurichoise.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aménagement d’un restaurant réunissant bar, grande salle et terrasse, avec cuisine professionnelle et locaux de service dans une composition claire et habitée.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 7,
+      "workflowState": 1,
+      "publishOn": 1764234031637,
+      "addedOn": 1764234031637,
+      "updatedOn": 1779185569442
+    },
+    {
+      "id": "697c73c5ad3ef43356050487",
+      "title": "Mancy",
+      "fullUrl": "/projet/mancy",
+      "urlId": "mancy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775578128650-CQJS4BZWDCF3E2Y2GRVC/k-car-mancy-057.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maisons contiguës"
+      ],
+      "tags": [
+        "Lieu: Vésenaz",
+        "Pays: Suisse",
+        "Année: 2016",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Façade",
+        "Élément: Piscine",
+        "Élément: Détail",
+        "Domaine: Immobilier",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Matière: Verre",
+        "Review: Final",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Trois maisons groupées implantées dans la longueur d’une parcelle étroite à Vésenaz.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Maison familiale aux volumes contemporains, où les grandes baies vitrées, les détails soignés et les matériaux choisis composent un objet de standing.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 19,
+      "workflowState": 1,
+      "publishOn": 1764064831709,
+      "addedOn": 1764064831709,
+      "updatedOn": 1779272482998
+    },
+    {
+      "id": "697c73c7ad3ef4335605049d",
+      "title": "Maison de famille, Veyrier",
+      "fullUrl": "/projet/maison-de-famille-veyrier",
+      "urlId": "maison-de-famille-veyrier",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1779176848222-W3T7L0CGK4VXYNWCAL4S/k-car-antoi2-201.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Veyrier",
+        "Pays: Suisse",
+        "Année: 2015",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Double hauteur",
+        "Élément: Sur mesure",
+        "Élément: Piscine",
+        "Domaine: Client privé",
+        "Matière: Verre",
+        "Matière: Enduit & papier peint",
+        "Crédit photographique: Thomas Jantscher",
+        "Direction des Travaux: Roberto Mazzu"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une maison individuelle inscrite dans un environnement calme et végétal, à Veyrier.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Maison familiale organisée autour d’une double hauteur, où les espaces de jour et de nuit dialoguent avec le jardin et la piscine.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 24,
+      "workflowState": 1,
+      "publishOn": 1763892031372,
+      "addedOn": 1763892031372,
+      "updatedOn": 1779272624689
+    },
+    {
+      "id": "697c73ccad3ef433560504d3",
+      "title": "Clinique Champel Élysée",
+      "fullUrl": "/projet/clinique-champel-elysee",
+      "urlId": "clinique-champel-elysee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772551736572-Q4GD47N59QQYPOQ6XSNK/Carneiro_Architectes-Clinique_Champel_Elysee-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Clinique"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2008",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Détail",
+        "Élément: Ancien",
+        "Élément: Passage",
+        "Domaine: Santé",
+        "Matière: Enduit & papier peint",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une clinique privée conçue autour d’équipements haut de gamme et d’intérieurs soignés.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Redéfinition des circulations entre patients et séjours ambulatoires, dans des espaces apaisés où l’unité spatiale clarifie les parcours.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 35,
+      "workflowState": 1,
+      "publishOn": 1763715631385,
+      "addedOn": 1763715631385,
+      "updatedOn": 1779185267569
+    },
+    {
+      "id": "697c73c7ad3ef4335605049a",
+      "title": "Antoine-Martin",
+      "fullUrl": "/projet/antoine-martin",
+      "urlId": "antoine-martin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775492299488-ZJMUF55PF378IK7ZKGKX/Carneiro_Architectes-Habitat_groupe_Vessy-027.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Immeuble résidentiel"
+      ],
+      "tags": [
+        "Lieu: Veyrier",
+        "Pays: Suisse",
+        "Année: 2015",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Façade",
+        "Élément: Toiture",
+        "Élément: Double hauteur",
+        "Domaine: Immobilier",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Matière: Verre",
+        "Matière: Enduit & papier peint",
+        "Review: Final",
+        "Crédit photographique: Thomas Jantscher"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un habitat groupé organisé autour de huit logements à Vessy.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ensemble de six appartements et deux townhouses rue Antoine-Martin, dans une impasse calme, où l’implantation préserve tranquillité et standing.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 23,
+      "workflowState": 1,
+      "publishOn": 1763546431745,
+      "addedOn": 1763546431745,
+      "updatedOn": 1779272570583
+    },
+    {
+      "id": "697c73c9ad3ef433560504b4",
+      "title": "Maison de famille, Vessy",
+      "fullUrl": "/projet/maison-de-famille-vessy",
+      "urlId": "maison-de-famille-vessy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772806891598-5JO9Z43N1LYQDQVZV1EU/Carneiro_Architectes-Maison_de_famille_Vessy-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Vessy",
+        "Pays: Suisse",
+        "Année: 2011",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Façade",
+        "Élément: Piscine",
+        "Élément: Double hauteur",
+        "Domaine: Client privé",
+        "Matière: Bois",
+        "Matière: Enduit & papier peint",
+        "Intervention: Intérieur",
+        "Review: Thumbnail",
+        "Crédit photographique: Renaud Marion"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un rez-de-chaussée entièrement vitré pour cette maison familiale à Vessy. </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Telle une lanterne, cette maison déploie un étage de jour entièrement vitré, tandis que l’étage de nuit, plus contenu, s’articule autour d’un séjour en double hauteur.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 29,
+      "workflowState": 1,
+      "publishOn": 1763373631228,
+      "addedOn": 1763373631228,
+      "updatedOn": 1779272748193
+    },
+    {
+      "id": "697c73cead3ef433560504e0",
+      "title": "Pavillon dans le parc, Champel",
+      "fullUrl": "/projet/pavillon-dans-le-parc-champel",
+      "urlId": "pavillon-dans-le-parc-champel",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772727545623-8F4L5UGJ8CC2KG11VC0A/Carneiro_Architectes-Pavillon_dans_le_parc_Champel-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Pavillon"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2006",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Tiny house",
+        "Élément: Vitrine",
+        "Élément: Jardin",
+        "Domaine: Client privé",
+        "Matière: Verre",
+        "Matière: Métal",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un pavillon privé inscrit dans le paysage du Parc Bertrand, à Genève.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Nouvelle construction dans le jardin d’une villa, accueillant un bureau ouvert sur la végétation et un garage pour voiture de collection.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 39,
+      "workflowState": 1,
+      "publishOn": 1763197231170,
+      "addedOn": 1763197231170,
+      "updatedOn": 1779184797338
+    },
+    {
+      "id": "697c73cfad3ef433560504ec",
+      "title": "La Louchette",
+      "fullUrl": "/projet/la-louchette",
+      "urlId": "la-louchette",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772704435587-FQBXBYBR6KCAIHVBP92L/Carneiro_Architectes-La_Louchette-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Immeuble résidentiel",
+        "École & crèche"
+      ],
+      "tags": [
+        "Lieu: Cologny",
+        "Pays: Suisse",
+        "Année: 2008",
+        "Statut: Index",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Cour",
+        "Élément: Façade",
+        "Domaine: Institutions et associations",
+        "Matière: Bois",
+        "Matière: Enduit & papier peint",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un ensemble à Cologny réunissant logements et crèche autour d’espaces partagés.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Réalisation d’un ensemble issu d’un concours remporté par Marco Corda Architecte, avec suivi des travaux et mise en œuvre sur site.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 42,
+      "workflowState": 1,
+      "publishOn": 1763024431289,
+      "addedOn": 1763024431289,
+      "updatedOn": 1779184690425
+    },
+    {
+      "id": "697c73d2ad3ef43356050502",
+      "title": "Dully",
+      "fullUrl": "/projet/dully",
+      "urlId": "dully",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1779174842820-GE1MWXI38QN9D2EWDQ5C/IMG_0739.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Dully",
+        "Pays: Suisse",
+        "Année: 2014",
+        "Statut: Case Study",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Jardin",
+        "Élément: Piscine",
+        "Élément: Façade",
+        "Élément: Double hauteur",
+        "Domaine: Client privé",
+        "Matière: Pierre",
+        "Matière: Bois",
+        "Matière: Verre",
+        "Matière: Métal",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une propriété lacustre pensée pour prolonger l’habitat vers le paysage à Dully, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Réalisation d’une grande villa en pierre de lave pour le compte d’architectes étrangers, avec suivi local et mise en œuvre soignée.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 48,
+      "workflowState": 1,
+      "publishOn": 1762682431170,
+      "addedOn": 1762682431170,
+      "updatedOn": 1779184588298
+    },
+    {
+      "id": "697c73c8ad3ef433560504a0",
+      "title": "Interior design, Florissant",
+      "fullUrl": "/projet/interior-design-florissant",
+      "urlId": "interior-design-florissant",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772722774070-GO96XAWO1N6X035SEQIB/Carneiro_Architectes-Interior_design_Florissant-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Appartement"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2018",
+        "Statut: Index",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Détail",
+        "Élément: Sur mesure",
+        "Élément: Ancien",
+        "Domaine: Client privé",
+        "Matière: Enduit & papier peint",
+        "Intervention: Intérieur",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Design sur mesure pour cet appartement à Florissant.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Réunion de deux appartements en un seul logement, avec reprise complète des intérieurs pour un projet sur mesure.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 25,
+      "workflowState": 1,
+      "publishOn": 1762682431040,
+      "addedOn": 1762682431040,
+      "updatedOn": 1779184483638
+    },
+    {
+      "id": "697c73caad3ef433560504c6",
+      "title": "Crans",
+      "fullUrl": "/projet/crans",
+      "urlId": "crans",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772807893547-G9NOUOJDQLAA0YBC2HLV/Carneiro_Architectes-Appartement_Crans-Montana-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Crans-Montana",
+        "Pays: Suisse",
+        "Année: 2019",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Détail",
+        "Élément: Sur mesure",
+        "Élément: Ancien",
+        "Domaine: Client privé",
+        "Matière: Bois",
+        "Matière: Pierre",
+        "Review: Thumbnail",
+        "Statut: Index"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un appartement de montagne rénové dans une continuité intérieure sobre.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Réfection intérieure du sol au plafond, où cuisine, salles de bains et finitions redéfinissent le cadre habité.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 31,
+      "workflowState": 1,
+      "publishOn": 1762506031452,
+      "addedOn": 1762506031452,
+      "updatedOn": 1779184388361
+    },
+    {
+      "id": "697c73cbad3ef433560504ca",
+      "title": "Bureaux, Carouge",
+      "fullUrl": "/projet/bureaux-carouge",
+      "urlId": "bureaux-carouge",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1779176350757-J10WPTNO2ELHEDYZZVFR/DSC_0021+%282%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Bureaux"
+      ],
+      "tags": [
+        "Lieu: Carouge",
+        "Pays: Suisse",
+        "Année: 2011",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Vitrine",
+        "Élément: Ancien",
+        "Domaine: Services professionnels",
+        "Matière: Pierre",
+        "Matière: Enduit & papier peint",
+        "Intervention: Intérieur",
+        "Statut: Index"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Des bureaux à Carouge pensés pour conjuguer concentration et créativité.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Cloisonnement de bureaux de direction et salles de réunion dans un open space généreux, où les volumes structurent travail et confidentialité.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 32,
+      "workflowState": 1,
+      "publishOn": 1762160431778,
+      "addedOn": 1762160431778,
+      "updatedOn": 1779184224117
+    },
+    {
+      "id": "697c73cbad3ef433560504cd",
+      "title": "Bureaux, Genève",
+      "fullUrl": "/projet/bureaux-geneve",
+      "urlId": "bureaux-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1773076744923-Y2ARBMLFY1B0JAWEHD1Z/Carneiro_Architectes-Bureaux_Geneve-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Bureaux"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2007",
+        "Statut: Index",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Vitrine",
+        "Élément: Passage",
+        "Domaine: Finance",
+        "Matière: Verre",
+        "Intervention: Intérieur"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un open space structuré par un aménagement intérieur clair et fonctionnel.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Création de boîtes vitrées où transparence et nouvelles circulations organisent les usages dans un espace lisible.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 33,
+      "workflowState": 1,
+      "publishOn": 1761987631889,
+      "addedOn": 1761987631889,
+      "updatedOn": 1779184131940
+    },
+    {
+      "id": "697c73cdad3ef433560504d6",
+      "title": "Surélévation, Carouge",
+      "fullUrl": "/projet/surelevation-carouge",
+      "urlId": "surelevation-carouge",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772724151615-TC3X1QQLQBU56EGH7QR9/Carneiro_Architectes-Surrelevation_Carouge-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Immeuble résidentiel"
+      ],
+      "tags": [
+        "Lieu: Carouge",
+        "Pays: Suisse",
+        "Année: 2009",
+        "Statut: Index",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Ancien",
+        "Élément: Façade",
+        "Domaine: Immobilier",
+        "Matière: Bois",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Surélévation en bois dans le Vieux Carouge.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Intervention contemporaine dans le tissu du Vieux-Carouge, où le bois compose une façade sensible et dissimule de grandes baies vitrées.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 36,
+      "workflowState": 1,
+      "publishOn": 1761814831607,
+      "addedOn": 1761814831607,
+      "updatedOn": 1779184034314
+    },
+    {
+      "id": "697c73cdad3ef433560504d9",
+      "title": "Piscine privée, Cologny",
+      "fullUrl": "/projet/piscine-privee-cologny",
+      "urlId": "piscine-privee-cologny",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772704735181-QZOZEUV222IG8QC120G3/Carneiro_Architectes-Piscine_privee_Cologny-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Cologny",
+        "Pays: Suisse",
+        "Année: 2014",
+        "Mis en avant: Non",
+        "Intervention: Construction neuve",
+        "Élément: Jardin",
+        "Élément: Piscine",
+        "Domaine: Client privé",
+        "Matière: Pierre",
+        "Review: Thumbnail",
+        "Statut: Index"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une piscine intégrée au jardin pour prolonger les usages extérieurs.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Construction d’une piscine et aménagement extérieur, où pierre naturelle, plage et fontaine composent un espace calme et minéral.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 37,
+      "workflowState": 1,
+      "publishOn": 1761642031728,
+      "addedOn": 1761642031728,
+      "updatedOn": 1779183879768
+    },
+    {
+      "id": "697c73cdad3ef433560504dd",
+      "title": "Verbier",
+      "fullUrl": "/projet/verbier",
+      "urlId": "verbier",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1772705095712-M98I4A265ENHXK1ZIBG0/Carneiro_Architectes-Appartement_Verbier-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Verbier",
+        "Pays: Suisse",
+        "Année: 2014",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Ancien",
+        "Élément: Sur mesure",
+        "Domaine: Client privé",
+        "Matière: Bois",
+        "Intervention: Intérieur",
+        "Review: Thumbnail",
+        "Statut: Index"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un appartement de montagne structuré par un design intérieur sur mesure.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Réunification de deux appartements par un aménagement sur mesure, où le bois relie sols, murs et plafonds dans une continuité habitée.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 38,
+      "workflowState": 1,
+      "publishOn": 1761469231743,
+      "addedOn": 1761469231743,
+      "updatedOn": 1779183800115
+    },
+    {
+      "id": "697c73d0ad3ef433560504f5",
+      "title": "Anières",
+      "fullUrl": "/projet/anieres",
+      "urlId": "anieres",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1779175548589-SP7NA4Y62I93VWN9X110/DSC_0191+copy.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Maison individuelle"
+      ],
+      "tags": [
+        "Lieu: Anières",
+        "Pays: Suisse",
+        "Année: 2006",
+        "Statut: Index",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Piscine",
+        "Élément: Double hauteur",
+        "Domaine: Client privé",
+        "Matière: Cuivre",
+        "Matière: Enduit & papier peint",
+        "Intervention: Intérieur"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Une villa familiale rénovée autour d’un nouvel aménagement intérieur.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Réorganisation d’une maison aux volumes généreux, où demi-niveaux, mezzanines ouvertes et nouvelles circulations clarifient l’espace sans modifier l’enveloppe.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 44,
+      "workflowState": 1,
+      "publishOn": 1761292831658,
+      "addedOn": 1761292831658,
+      "updatedOn": 1779183592110
+    },
+    {
+      "id": "697c73d1ad3ef433560504f8",
+      "title": "Evento",
+      "fullUrl": "/projet/evento",
+      "urlId": "evento",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1775567999218-68SRCW64OSX2LOD6WQX4/Carneiro_Architectes-Evento-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Restaurant"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2011",
+        "Statut: Index",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Cour",
+        "Élément: Double hauteur",
+        "Élément: Ancien",
+        "Domaine: Alimentation et restauration",
+        "Matière: Bois",
+        "Matière: Verre",
+        "Matière: Métal",
+        "Intervention: Intérieur",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un restaurant familial installé au cœur d’une cour intérieure vitrée.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aménagement d’un espace dédié à la restauration, entre bar, événements et accueil familial, pensé comme un lieu vivant aux usages multiples.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 45,
+      "workflowState": 1,
+      "publishOn": 1761120031927,
+      "addedOn": 1761120031927,
+      "updatedOn": 1779183468352
+    },
+    {
+      "id": "697c73d2ad3ef43356050505",
+      "title": "Vivendo",
+      "fullUrl": "/projet/vivendo",
+      "urlId": "vivendo",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1773075722422-496A8OLTLXPJFTHPPCEJ/Carneiro_Architectes-Vivendo-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Restaurant"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2005",
+        "Statut: Index",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Double hauteur",
+        "Élément: Passage",
+        "Élément: Vitrine",
+        "Domaine: Alimentation et restauration",
+        "Matière: Bois",
+        "Intervention: Intérieur",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un restaurant de quartier pensé autour d’une atmosphère familiale et conviviale.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aménagement d’un restaurant aux ambiances feutrées, entre terrasse, grande salle en double hauteur et bar ouvert sur la ville, dans le quartier de l’Hôpital à Genève.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 49,
+      "workflowState": 1,
+      "publishOn": 1760778031647,
+      "addedOn": 1760778031647,
+      "updatedOn": 1779183361775
+    },
+    {
+      "id": "697c73d3ad3ef43356050508",
+      "title": "Little Buddha",
+      "fullUrl": "/projet/little-buddha",
+      "urlId": "little-buddha",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/697722b91bc0d51087178769/1773077558123-TQ395UECSR880UMK4BQK/Carneiro_Architectes-Little_Buddha-Thumbnail.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Restaurant"
+      ],
+      "tags": [
+        "Lieu: Genève",
+        "Pays: Suisse",
+        "Année: 2008",
+        "Statut: Index",
+        "Mis en avant: Non",
+        "Intervention: Rénovation",
+        "Élément: Ancien",
+        "Élément: Sur mesure",
+        "Domaine: Alimentation et restauration",
+        "Intervention: Intérieur",
+        "Review: Thumbnail"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">Un bar feutré et immersif, mêlant influences asiatiques, lumière tamisée et ambiance nocturne.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aménagement d’un restaurant aux ambiances graduées, entre salle, bar et espace DJ, pensé pour accueillir le jour comme la nuit.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 50,
+      "workflowState": 1,
+      "publishOn": 1760605231945,
+      "addedOn": 1760605231945,
+      "updatedOn": 1779183212541
+    }
+  ]
+}
