@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/programme-2026?format=json",
-  "updatedAt": "2026-07-06T10:58:27.849Z",
-  "sourceHash": "5183f2f546577e0ab6b6bfdf1fd62841f9ca16c7aecfb7232722c8bccc1ef96b",
+  "updatedAt": "2026-07-06T14:30:31.230Z",
+  "sourceHash": "0a7ffa788cbabc131cdef5902ac4791072cc7a9b57beed95ef94332985b1e450",
   "count": 52,
   "pages": 3,
   "items": [
@@ -743,13 +743,13 @@
       "workflowState": 1,
       "publishOn": 1789804803932,
       "addedOn": 1789804803932,
-      "updatedOn": 1780751522462
+      "updatedOn": 1783340835741
     },
     {
       "id": "69f74bc4ae0e0573c302249e",
       "title": "Marie Gueydon de Dives",
-      "fullUrl": "/programme-2026/expositions/02/marie-gueydon-de-dives",
-      "urlId": "expositions/02/marie-gueydon-de-dives",
+      "fullUrl": "/programme-2026/expositions/01/marie-gueydon-de-dives",
+      "urlId": "expositions/01/marie-gueydon-de-dives",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777902386332-4CKRE9EMZZGSECRYEURE/PCC_2026-02-Atelier_Potter-Marie_Gueydon_de_Dives-016.webp",
       "mediaFocalPoint": {
         "x": 0.48333333333333334,
@@ -785,13 +785,13 @@
       "workflowState": 1,
       "publishOn": 1789632017032,
       "addedOn": 1789632017032,
-      "updatedOn": 1780751907285
+      "updatedOn": 1783343388589
     },
     {
       "id": "696a422e054fc71a7afeea1f",
       "title": "Pop-up Swissceramics",
-      "fullUrl": "/programme-2026/expositions/03/pop-up-swissceramics",
-      "urlId": "expositions/03/pop-up-swissceramics",
+      "fullUrl": "/programme-2026/expositions/02/pop-up-swissceramics",
+      "urlId": "expositions/02/pop-up-swissceramics",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780670537019-KKEIYCQ1M81LUE43S17E/PCC_2026-02-Pop-up_Swissceramics-001.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -809,7 +809,7 @@
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
         "Lieu: Ibis Styles"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Invité par la Fondation Bruckner pour une seconde édition, le popup store Swissceramics se tiendra dans un lieu insolite: l’Hôtel IBIS – Style de Carouge. Les visiteurs pourront acquérir des céramiques 100% suisses à prix abordable et profiter du café de l’hôtel pour faire une pause bien méritée dans le marathon des visites du Parcours Céramique Carouge.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Swissceramics, association professionnelle pour la céramique en Suisse, est invitée pour une seconde édition à tenir un popup store. Celui-ci se tiendra dans un lieu inédit: l’hôtel Ibis Syles de Carouge. Les visiteur·euses pourront acquérir des céramiques 100% suisses et profiter du café de l’hôtel pour faire une pause bien méritée dans le marathon des visites du Parcours Céramique Carouge.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1793585,
@@ -825,13 +825,13 @@
       "workflowState": 1,
       "publishOn": 1789545600666,
       "addedOn": 1789545600666,
-      "updatedOn": 1781521752665
+      "updatedOn": 1783343602185
     },
     {
       "id": "69f8833fd5408a02b93c9c87",
       "title": "Platform 2026 · Swissceramics",
-      "fullUrl": "/programme-2026/expositions/4/platform-2026-swissceramics",
-      "urlId": "expositions/4/platform-2026-swissceramics",
+      "fullUrl": "/programme-2026/expositions/3/platform-2026-swissceramics",
+      "urlId": "expositions/3/platform-2026-swissceramics",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/a55f0969-999c-4990-b36f-e36aeea395be/PCC_2026-03-Maison_Pertin-Platform_Swissceramics-001.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -865,13 +865,13 @@
       "workflowState": 1,
       "publishOn": 1789459220012,
       "addedOn": 1789459220012,
-      "updatedOn": 1781007551270
+      "updatedOn": 1783344053662
     },
     {
       "id": "696a4238054fc71a7afeec34",
       "title": "Natascha Madeiski",
-      "fullUrl": "/programme-2026/expositions/06/natascha-madeiski",
-      "urlId": "expositions/06/natascha-madeiski",
+      "fullUrl": "/programme-2026/expositions/4/natascha-madeiski",
+      "urlId": "expositions/4/natascha-madeiski",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1776942733552-OZSECUT9XG5S8H0V4OIB/PCC_2026-05-NOV_Gallery-Natascha_Madeiski-004.webp",
       "mediaFocalPoint": {
         "x": 0.3570941125379986,
@@ -898,7 +898,7 @@
         "mapLng": 6.140531999999999,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "NOV Gallery",
+        "addressTitle": "Nov Gallery",
         "addressLine1": "4 Rue Joseph-Girard",
         "addressLine2": "Carouge, GE, 1227",
         "addressCountry": "Switzerland"
@@ -907,13 +907,13 @@
       "workflowState": 1,
       "publishOn": 1789372800544,
       "addedOn": 1789372800544,
-      "updatedOn": 1781093883266
+      "updatedOn": 1783344129867
     },
     {
       "id": "696a4239054fc71a7afeec41",
       "title": "Léonie Chauchat",
-      "fullUrl": "/programme-2026/expositions/06/leonie-chauchat",
-      "urlId": "expositions/06/leonie-chauchat",
+      "fullUrl": "/programme-2026/expositions/5/leonie-chauchat",
+      "urlId": "expositions/5/leonie-chauchat",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1776877234958-2F2BQVB459V16HE97NXZ/PCC_2026-06-Atelier_Nicolas_Perrottet-Leonie_Chauchat-006.webp",
       "mediaFocalPoint": {
         "x": 0.48214285714285715,
@@ -949,13 +949,13 @@
       "workflowState": 1,
       "publishOn": 1789372800085,
       "addedOn": 1789372800085,
-      "updatedOn": 1781856672883
+      "updatedOn": 1783345622675
     },
     {
       "id": "69f74c5bd5408a02b9e57f1d",
       "title": "Sandrine Ramona × Chris Murner",
-      "fullUrl": "/programme-2026/expositions/07/sandrine-ramona-chris-murner",
-      "urlId": "expositions/07/sandrine-ramona-chris-murner",
+      "fullUrl": "/programme-2026/expositions/6/sandrine-ramona-chris-murner",
+      "urlId": "expositions/6/sandrine-ramona-chris-murner",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780069755992-6HGCUB5SXU85B6QC3GVJ/PCC_2026-07-L_Antre-Peaux-Sandrine_Ramona-009.webp",
       "mediaFocalPoint": {
         "x": 0.6964285714285714,
@@ -975,14 +975,14 @@
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
         "Lieu: L’Antre-Peaux – Chris Murner"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">«D’un corps à l’autre»: Chris Murner, maroquinière, et Sandrine Ramona, céramiste, font dialoguer cuir et porcelaine dans une exploration commune du corps. D’une matière à l’autre, souplesse et rigidité, sensualité et délicatesse se répondent. Sandrine Ramona compose des tableaux muraux de pièces uniques en porcelaine où se tissent liens et traces de vie, tandis que Chris Murner travaille le cuir comme matière organique. Leurs œuvres reflètent un corps qui change, se libère et se transforme.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>D'un corps à l'autre</em>: Chris Murner, maroquinière, et Sandrine Ramona, céramiste, font dialoguer cuir et porcelaine dans une exploration commune du corps. D'une matière à l'autre, souplesse et rigidité, sensualité et délicatesse se répondent. Sandrine Ramona compose des tableaux muraux de pièces uniques en porcelaine où se tissent liens et traces de vie, tandis que Chris Murner travaille le cuir comme matière organique. Leurs œuvres reflètent un corps qui change, se libère et se transforme.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1811256,
         "mapLng": 6.1409856,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "L’Antre-Peaux",
+        "addressTitle": "L’Antre-Peaux - Chris Murner",
         "addressLine1": "43 Rue Ancienne",
         "addressLine2": "Carouge, GE, 1227",
         "addressCountry": "Switzerland"
@@ -991,13 +991,13 @@
       "workflowState": 1,
       "publishOn": 1789290038154,
       "addedOn": 1789290038154,
-      "updatedOn": 1781593939177
+      "updatedOn": 1783346237863
     },
     {
       "id": "69f4c5ee743a3574329386e1",
       "title": "La matière de l’absence",
-      "fullUrl": "/programme-2026/expositions/04/la-matiere-de-l-absence",
-      "urlId": "expositions/04/la-matiere-de-l-absence",
+      "fullUrl": "/programme-2026/expositions/7/la-matiere-de-l-absence",
+      "urlId": "expositions/7/la-matiere-de-l-absence",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777905921119-SF390D6MP0ML0YGTR9FA/PCC_2026-04-Maison_Pertin-Ninon_Hivert-003.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1017,7 +1017,7 @@
         "Numéro: 7",
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>La matière de l’absence</em></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Et si l’absence était une de présence? C’est l’intuition qui traverse cette exposition conçue par Émilie Fargues, directrice du PCC, réunissant deux artistes céramistes autour de ce que les corps laissent derrière eux lorsqu’ils se retirent.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Asya Marakulina contemple les murs mitoyens des immeubles de Saint-Pétersbourg et de Vienne après démolition. Contours de pièces, restes de papier peint, conduites suspendues dans le vide: l’architecture porte encore l’empreinte de ceux qui l’ont habitée. Ses céramiques en font des portraits fragiles, où l’espace domestique survit à sa propre disparition.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ninon Hivert recueille les vêtements abandonnés dans l’espace urbain et les traduit en sculptures de terre. Manteaux affaissés, gants vidés de leurs mains: autant de mues qui conservent la posture et le geste d’un corps absent.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">D’un côté l’enveloppe architecturale, de l’autre l’enveloppe textile. Dans les deux cas, la céramique donne une permanence paradoxale à ce qui a disparu. L’espace négatif, celui de l’habitant, celui du porteur, devient le véritable sujet de l’œuvre.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>La Matière de l’absence</em></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Et si l’absence était une présence? C’est l’intuition qui traverse cette exposition conçue par Émilie Fargues, directrice du PCC, réunissant deux artistes céramistes autour de ce que les corps laissent derrière eux lorsqu’ils se retirent.</p><p class=\"MsoNormal\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Asya Marakulina contemple les murs mitoyens des immeubles de Saint-Pétersbourg et de Vienne après démolition. Contours de pièces, restes de papier peint, conduites suspendues dans le vide: l’architecture porte encore l’empreinte de ceux qui l’ont habitée. Ses céramiques en font des portraits fragiles, où l’espace domestique survit à sa propre disparition.</p><p class=\"MsoNormal\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ninon Hivert recueille les vêtements abandonnés dans l’espace urbain et les traduit en sculptures de terre. Manteaux affaissés, gants vidés de leurs mains: autant de mues qui conservent la posture et le geste d’un corps absent.</p><p class=\"MsoNormal\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">D’un côté l’enveloppe architecturale, de l’autre l’enveloppe textile. Dans les deux cas, la céramique donne une permanence paradoxale à ce qui a disparu. L’espace négatif, celui du corps qui a habité, celui du corps qui a porté, devient le véritable sujet de l’œuvre.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1823246,
@@ -1033,13 +1033,13 @@
       "workflowState": 1,
       "publishOn": 1789286422524,
       "addedOn": 1789286422524,
-      "updatedOn": 1780669855933
+      "updatedOn": 1783346464213
     },
     {
       "id": "696a4236054fc71a7afeebcd",
       "title": "Nina Malo",
-      "fullUrl": "/programme-2026/expositions/09/nina-malo",
-      "urlId": "expositions/09/nina-malo",
+      "fullUrl": "/programme-2026/expositions/08/nina-malo",
+      "urlId": "expositions/08/nina-malo",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780749523743-XBYYOTV3FQ03R0BAVEKT/PCC_2026-09-Les_Insolites-Nina_Malo-012.webp",
       "mediaFocalPoint": {
         "x": 0.6546085232903865,
@@ -1059,7 +1059,7 @@
         "Numéro: 8",
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Nina Malo ne représente pas le corps, elle le fait advenir. À travers des volumes organiques, des courbes tendues et des spirales, la matière se déploie, se contracte et s’équilibre comme traversée par une énergie interne. Inspirée par le monde marin, elle explore des formes en perpétuelle transformation où affleurent, dans les creux et les cavités, des notions de féminité et d’intimité. Une écriture épurée où la simplicité devient essentielle.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Nina Malo ne représente pas le corps, elle le fait advenir. Avec <em>Corps &amp; Graphie</em>, elle déploie des volumes organiques, des courbes tendues et des spirales où la matière se contracte et s’équilibre comme traversée par une énergie interne. Inspirée par le monde marin, elle explore des formes en perpétuelle transformation où affleurent, dans les creux et les cavités, des notions de féminité et d’intimité. Une écriture épurée où la simplicité devient essentielle</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1825156,
@@ -1075,13 +1075,13 @@
       "workflowState": 1,
       "publishOn": 1789200000137,
       "addedOn": 1789200000137,
-      "updatedOn": 1781096395177
+      "updatedOn": 1783346706639
     },
     {
       "id": "69f883b502e5642a1d46e0c2",
       "title": "Marianne Brand – Rétrospective",
-      "fullUrl": "/programme-2026/expositions/10/marianne-brand-retrospective",
-      "urlId": "expositions/10/marianne-brand-retrospective",
+      "fullUrl": "/programme-2026/expositions/9/marianne-brand-retrospective",
+      "urlId": "expositions/9/marianne-brand-retrospective",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/d9b1116b-0950-413b-b576-bf464e97067c/PCC_2026-10-Galerie_Marianne_Brand-Retrospective-001.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1100,7 +1100,7 @@
         "Numéro: 9",
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">De céramiste à galeriste, Marianne Brand est une figure majeure de la scène carougeoise. Depuis près de quarante ans, elle déploie une activité foisonnante entre création, engagement et promotion de l’art. «À cœur et à corps. Le parcours dans le parcours.» retrace cet itinéraire singulier, de l’ouverture de son atelier céramique en 1969 à la galerie qu’il est devenu, réunissant œuvres, archives et témoignages. Une immersion sensible dans un parcours d’exception.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">De céramiste à galeriste, Marianne Brand est une figure majeure de la scène carougeoise. Depuis près de quarante ans, elle déploie une activité foisonnante entre création, engagement et promotion de l'art.&nbsp; <em>À cœur et à corps. Le Parcours dans le Parcours</em> retrace cet itinéraire singulier, de l'ouverture de son atelier céramique en 1969 à la galerie qu'il est devenu, réunissant œuvres, archives et témoignages. Une immersion sensible dans un parcours d'exception.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1825548,
@@ -1116,17 +1116,17 @@
       "workflowState": 1,
       "publishOn": 1789113621965,
       "addedOn": 1789113621965,
-      "updatedOn": 1780669882212
+      "updatedOn": 1783347024420
     },
     {
       "id": "696a422d054fc71a7afeea03",
       "title": "Amélie Patry",
-      "fullUrl": "/programme-2026/expositions/11/amelie-patry",
-      "urlId": "expositions/11/amelie-patry",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779094607972-7XS42G66OHWXUGFNL7S0/PCC_2026-11-Le_Salon_Vert-Amelie_Patry-005.webp",
+      "fullUrl": "/programme-2026/expositions/10/amelie-patry",
+      "urlId": "expositions/10/amelie-patry",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779094606838-DCY8I9GCSB8PYH35ZMX5/PCC_2026-11-Le_Salon_Vert-Amelie_Patry-001.webp",
       "mediaFocalPoint": {
-        "x": 0.25892857142857145,
-        "y": 0.5059523809523809,
+        "x": 0.5089285714285714,
+        "y": 0.6934523809523809,
         "source": 3
       },
       "categories": [
@@ -1158,7 +1158,7 @@
       "workflowState": 1,
       "publishOn": 1789027200135,
       "addedOn": 1789027200135,
-      "updatedOn": 1782806269333
+      "updatedOn": 1783347346004
     },
     {
       "id": "696a423a054fc71a7afeec5d",
@@ -1200,17 +1200,17 @@
       "workflowState": 1,
       "publishOn": 1788940800213,
       "addedOn": 1788940800213,
-      "updatedOn": 1782806009824
+      "updatedOn": 1783347514793
     },
     {
       "id": "6a1eb54fad22853d973ff081",
       "title": "Sixtine Jacquart",
-      "fullUrl": "/programme-2026/expositions/13/sixtine-jacquart",
-      "urlId": "expositions/13/sixtine-jacquart",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682376082-P6E1AREEXW2KL3AY3Z1P/PCC_2026-13-Halles_de_la_Fonderie-Sixtine_Jacquart-007.webp",
+      "fullUrl": "/programme-2026/expositions/12-2/sixtine-jacquart",
+      "urlId": "expositions/12-2/sixtine-jacquart",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682378775-QOMTUMDOB71TLW9IKRLF/PCC_2026-13-Halles_de_la_Fonderie-Sixtine_Jacquart-003.webp",
       "mediaFocalPoint": {
-        "x": 0.2481180811808118,
-        "y": 0.13095847091103563,
+        "x": 0.5,
+        "y": 0.5,
         "source": 3
       },
       "categories": [
@@ -1222,9 +1222,10 @@
         "Date: 2026-09-19/2026-09-27",
         "Lieu: Halles de la Fonderie",
         "Artiste: Sixtine Jacquart",
-        "Numéro: 12.1"
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Numéro: 12.2"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>Base</em>, Sixtine Jacquart investit les Halles de la Fonderie d’une installation performée où tissu, porcelaine, cuivre, fibre de verre et élastiques composent un environnement à la fois protecteur et menaçant. Au centre, des gourdes en porcelaine en forme de buste évoquent des corps fragiles, contenant de l’eau, vêtues de gilets de protection. Ces corps miniatures peuvent être portés par des corps humains, eux-mêmes équipés pour protéger leurs organes vitaux. Une grande structure modulaire, à tendre ou à gonfler, évoque un abri de secours.</p><p class=\"p1\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lors de moments de performance, l’artiste enfile un costume, manipule les objets, organise sa survie et prépare la venue d’un corps collectif. En dehors de ces activations, l’installation reste visible, à ciel ouvert. Diplômée de La Cambre à Bruxelles et lauréate du Prix de la Jeune Céramique 2018, Sixtine Jacquart poursuit ici une recherche au long cours sur les liens entre le corps, l’objet et l’espace, où la porcelaine, matériau froid et fragile, intensifie notre attention et réveille un instinct de protection.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>Base</em>, Sixtine Jacquart investit les Halles de la Fonderie d’une installation performée où tissu, porcelaine, cuivre et élastiques composent un environnement à la fois protecteur et menaçant. Des gourdes en porcelaine en forme de buste, fragiles et vêtues de gilets de protection, évoquent des corps vulnérables qu’il faut prendre en charge. L’artiste poursuit ici une recherche au long cours sur les liens entre le corps, l’objet et l’espace, où la porcelaine intensifie notre attention et réveille un instinct de vigilance.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1856142,
@@ -1240,17 +1241,17 @@
       "workflowState": 1,
       "publishOn": 1788858051441,
       "addedOn": 1788858051441,
-      "updatedOn": 1780669933734
+      "updatedOn": 1783347932532
     },
     {
       "id": "69f8840cae0e0573c35babdd",
       "title": "Laure Gonthier",
-      "fullUrl": "/programme-2026/expositions/13/laure-gonthier",
-      "urlId": "expositions/13/laure-gonthier",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682381376-6ZT4OMFXVOS655GDGBC8/PCC_2026-13-Halles_de_la_Fonderie-Laure_Gonthier-001.webp",
+      "fullUrl": "/programme-2026/expositions/12-1/laure-gonthier",
+      "urlId": "expositions/12-1/laure-gonthier",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682385380-VJKBQP42L2O7K78FMRAQ/PCC_2026-13-Halles_de_la_Fonderie-Laure_Gonthier-003.webp",
       "mediaFocalPoint": {
-        "x": 0.36521308225966304,
-        "y": 0.7083662744733292,
+        "x": 0.5,
+        "y": 0.5,
         "source": 3
       },
       "categories": [
@@ -1262,10 +1263,10 @@
         "Date: 2026-09-19/2026-09-27",
         "Artiste: Laure Gonthier",
         "Lieu: Halles de la Fonderie",
-        "Numéro: 12.2",
-        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Numéro: 12.1"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Installation mix-média avec la participation de Benoît Meylan, Jeanne et Vanessa Langer</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Dans l’installation immersive <em>What happens to the dream when the dreamer dies?</em>, Laure Gonthier entremêle céramique, son, texte et voix pour explorer le deuil et la transmission. Le public est invité à s’asseoir sur certaines sculptures, à intégrer physiquement l’œuvre. Entre gestes de la cuisine et gestes de la céramique, les mains façonnent, transmettent, prolongent. Celles des femmes de sa famille, qui relient par le silence ou par le toucher.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Installation mixed-media avec la participation de Benoît Meylan, Jeanne et Vanessa Langer</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Dans l’installation immersive <em>What Happens to the Dream when the Dreamer Dies?,</em> Laure Gonthier entremêle céramique, son, texte et voix pour explorer le deuil et la transmission. Le public est invité en s’asseyant sur certaines sculptures, à intégrer physiquement l’œuvre. Il existe une parenté silencieuse entre les gestes de la cuisine et ceux de la céramique: dans les deux cas, la main mesure, mélange, enveloppe, ajuste. Au cœur de l’œuvre, les femmes de la famille de l’artiste: mère, sœur, grand-mère, fille, celles qui transmettent par le silence ou par leurs mains.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1856142,
@@ -1281,7 +1282,7 @@
       "workflowState": 1,
       "publishOn": 1788854411146,
       "addedOn": 1788854411146,
-      "updatedOn": 1780669945969
+      "updatedOn": 1783348190182
     },
     {
       "id": "69f884ebafa81773646637c5",
