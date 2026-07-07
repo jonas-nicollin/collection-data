@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-07-02T11:11:55.817Z",
-  "sourceHash": "07436c6c43af1380ca5f814b5578390d4c59c05f62299d399117a705ea0d0ccd",
+  "updatedAt": "2026-07-07T15:31:56.938Z",
+  "sourceHash": "5b6dcbba2f77b9d68f971596d23397f4a02dc29d196ef244389c0c8e14b784b5",
   "count": 31,
   "items": [
     {
@@ -30,13 +30,13 @@
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/b0debfba-ff97-4bbc-924e-98eda777466f/PCC-Fondation_Bruckner.webp",
       "imagePosition": "",
-      "lundi": "11h–18h30",
-      "mardi": "11h–18h30",
-      "mercredi": "11h–18h30",
-      "jeudi": "14h–20h",
-      "vendredi": "11h–18h30",
-      "samedi": "11h–17h",
-      "dimanche": "11h–17h"
+      "lundi": "sur rdv",
+      "mardi": "sur rdv",
+      "mercredi": "-",
+      "jeudi": "sur rdv",
+      "vendredi": "sur rdv",
+      "samedi": "sur rdv",
+      "dimanche": "sur rdv"
     },
     {
       "slug": "atelier-maison-potter",
@@ -837,12 +837,12 @@
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/40778980-64a8-439f-8dd7-c4dda6b050a7/PCC_Espace_Labo.webp",
       "imagePosition": "",
       "lundi": "-",
-      "mardi": "-",
-      "mercredi": "-",
-      "jeudi": "-",
-      "vendredi": "-",
-      "samedi": "-",
-      "dimanche": "-"
+      "mardi": "11h-19h",
+      "mercredi": "11h-19h",
+      "jeudi": "11h-19h",
+      "vendredi": "11h-19h",
+      "samedi": "13h-17h",
+      "dimanche": "13h-17h"
     },
     {
       "slug": "galerie-ligne-treize",
