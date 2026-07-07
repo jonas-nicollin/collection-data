@@ -5,8 +5,8 @@
   "id": "artistes",
   "path": "/artistes",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/artistes?format=json",
-  "updatedAt": "2026-07-07T16:27:28.910Z",
-  "sourceHash": "567f7a3366c1e2bb35421af0baf0eda53aedfb5be798d0e0079521c53c2c647f",
+  "updatedAt": "2026-07-07T18:29:57.114Z",
+  "sourceHash": "8064ba402da666c858f89c978af180de6db1d8580a88186bbd9769c26bd59d83",
   "count": 39,
   "pages": 2,
   "items": [
@@ -15,7 +15,7 @@
       "title": "Vasilis Zografos",
       "fullUrl": "/artistes/vasilis-zografos",
       "urlId": "vasilis-zografos",
-      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc5a0259be70f07b0e5c3/1780467160392/",
+      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc5a0259be70f07b0e5c3/1783443313476/",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -27,7 +27,7 @@
         "Origine: Grèce",
         "Naissance: 1965"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vasilis Zografos (*1965, Grèce) Vit et travaille à Thessalonique, Grèce</p><p class=\"p1\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vasilis Zografos crée des assemblages de bibelots en porcelaine et de fragments céramiques côtiers, mêlant répliques culturelles et trouvailles accidentelles façonnées par la nature. Ses œuvres forgent un dialogue entre deux «archives», formant un langage visuel où des formes familières transmettent des significations transformées à ceux qui acceptent de les déchiffrer.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Thessalonique, Grèce</p><p class=\"p1\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vasilis Zografos crée des assemblages de bibelots en porcelaine et de fragments céramiques côtiers, mêlant répliques culturelles et trouvailles accidentelles façonnées par la nature. Ses œuvres forgent un dialogue entre deux «archives», formant un langage visuel où des formes familières transmettent des significations transformées à ceux qui acceptent de les déchiffrer.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -42,14 +42,14 @@
       "workflowState": 1,
       "publishOn": 1780467118247,
       "addedOn": 1780467118247,
-      "updatedOn": 1780467160392
+      "updatedOn": 1783443313476
     },
     {
       "id": "6a1fc553f8f3ce46ee330641",
       "title": "Vivianne van Singer",
       "fullUrl": "/artistes/vivianne-van-singer",
       "urlId": "vivianne-van-singer",
-      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc553f8f3ce46ee330641/1780467093597/",
+      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc553f8f3ce46ee330641/1783443348887/",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -59,9 +59,10 @@
       "tags": [
         "Artiste: Vivianne van Singer",
         "Origine: Italie",
-        "Naissance: 1957"
+        "Naissance: 1957",
+        "Origine: Suisse"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vivianne van Singer (*1957, Côme, Italie) Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formée à Lausanne, à l’Université de Toledo (USA) et à l’ESAV de Genève, Vivianne van Singer partage sa vie entre pratique artistique et enseignement de l’histoire de l’art contemporain. Au cœur de sa recherche, la couleur occupe des territoires multiples — réel, imaginaire, symbolique. Elle la traque dans les objets trouvés, les œuvres du passé et son propre environnement, puis invente des stratégies pour la révéler telle qu’elle l’a perçue.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Expositions: CCCB (Barcelone), Maison Tavel (Genève), Mucem (Marseille), Musée Benaki (Athènes), Openbox (Milan).</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formée à Lausanne, à l’Université de Toledo (USA) et à l’ESAV de Genève, Vivianne van Singer partage sa vie entre pratique artistique et enseignement de l’histoire de l’art contemporain. Au cœur de sa recherche, la couleur occupe des territoires multiples — réel, imaginaire, symbolique. Elle la traque dans les objets trouvés, les œuvres du passé et son propre environnement, puis invente des stratégies pour la révéler telle qu’elle l’a perçue.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Expositions: CCCB (Barcelone), Maison Tavel (Genève), Mucem (Marseille), Musée Benaki (Athènes), Openbox (</em>Milan).</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -76,14 +77,14 @@
       "workflowState": 1,
       "publishOn": 1780467051017,
       "addedOn": 1780467051017,
-      "updatedOn": 1780467093597
+      "updatedOn": 1783443348887
     },
     {
       "id": "6a1fc51b2e73892294577b65",
       "title": "Fernando de la Rocque",
       "fullUrl": "/artistes/fernando-de-la-rocque",
       "urlId": "fernando-de-la-rocque",
-      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc51b2e73892294577b65/1780467024799/",
+      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc51b2e73892294577b65/1783443374085/",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -95,7 +96,7 @@
         "Origine: Brésil",
         "Naissance: 1979"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Fernando de la Rocque (*1979, Brésil) Vit et travaille à Rio de Janeiro, Brésil</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Fernando de la Rocque combine dessin, peinture, broderie et céramique pour construire des mondes vibrants et sensuels. Ses carreaux de porcelaine représentent des figures humaines entrelacées dans des scènes psychédéliques et ludiques, explorant le plaisir, le désir et les normes sociales, invitant le spectateur à reconsidérer ses propres perceptions.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Rio de Janeiro, Brésil</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Fernando de la Rocque combine dessin, peinture, broderie et céramique pour construire des mondes vibrants et sensuels. Ses carreaux de porcelaine représentent des figures humaines entrelacées dans des scènes psychédéliques et ludiques, explorant le plaisir, le désir et les normes sociales, invitant le spectateur à reconsidérer ses propres perceptions.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -110,7 +111,7 @@
       "workflowState": 1,
       "publishOn": 1780466987930,
       "addedOn": 1780466987930,
-      "updatedOn": 1780467024799
+      "updatedOn": 1783443374085
     },
     {
       "id": "6a1fc3a7f8f3ce46ee328660",
@@ -584,7 +585,7 @@
         "Artiste: Jan Steenman",
         "Naissance: 1994"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1994, Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste-sculpteur diplômé d’un Bachelor à la Royal Academy of Art de La Haye (2018) et d’un Master à la HEAD – Genève (2022), Jan Steenman développe une pratique céramique entre sculpture et recherche formelle.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Expositions: Musée Ariana, Palais de Justice de Genève, KunstRAI Amsterdam, Palm Springs Art Museum. Biface I (2023) dans la collection du Musée Ariana. Solo show à ArtGenève (2026). Résidence à l’EKWC (European Ceramic Workcentre, Pays-Bas).</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste-sculpteur diplômé d’un Bachelor à la Royal Academy of Art de La Haye (2018) et d’un Master à la HEAD – Genève (2022), Jan Steenman développe une pratique céramique entre sculpture et recherche formelle.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Expositions: Musée Ariana, Palais de Justice de Genève, KunstRAI Amsterdam, Palm Springs Art Museum. Biface I (2023) dans la collection du Musée Ariana. Solo show à ArtGenève (2026). Résidence à l’EKWC (European Ceramic Workcentre, Pays-Bas).</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -600,7 +601,7 @@
       "workflowState": 1,
       "publishOn": 1779462019036,
       "addedOn": 1779462019036,
-      "updatedOn": 1780670927195
+      "updatedOn": 1783443426761
     },
     {
       "id": "6a106eb430bd2b52ee323eef",
@@ -619,7 +620,7 @@
         "Origine: Suisse",
         "Naissance: 1959"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1959, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Berne, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste céramiste et designer, Margareta Daepp s’est formée aux écoles des arts appliqués de Berne et de Genève (sous la direction de Setsuko Nagasawa) puis à l’Université des Arts de Berlin. De nombreuses résidences au Japon et en Chine nourrissent un travail exigeant et épuré. Son œuvre se caractérise par la radicalité de formes simples, voire minimales, combinées à des couleurs réfléchies, vives ou aiguës, et une technique maîtrisée.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Berne, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste céramiste et designer, Margareta Daepp s’est formée dans les écoles des arts appliqués de Berne et de Genève (sous la direction de Setsuko Nagasawa) puis à l’Université des Arts de Berlin. De nombreuses résidences au Japon et en Chine nourrissent un travail exigeant et épuré. Son œuvre se caractérise par la radicalité de formes simples, voire minimales, combinées à des couleurs réfléchies, vives ou aiguës, et une technique maîtrisée.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -635,7 +636,7 @@
       "workflowState": 1,
       "publishOn": 1779461904183,
       "addedOn": 1779461904183,
-      "updatedOn": 1780670971840
+      "updatedOn": 1783442797459
     },
     {
       "id": "6a106e69158af01a826e32c7",
@@ -893,13 +894,14 @@
         "y": 0.20238095238095233,
         "source": 3
       },
+      "categories": [],
       "tags": [
         "Origine: Suisse",
         "Artiste: Claire Mayet",
         "Naissance: 1979",
         "Origine: France"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1979, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée de la HEAD – Genève, Claire Mayet développe une pratique de la céramique autour des notions d’ornement, de revêtement, de décor et de réappropriation. Depuis 2023, elle enseigne la céramique à la HEAD.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Expositions: Biennale de Vallauris, Musée de Carouge, Officine Saffi (Milan), Salon C14 (Paris).</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée de la HEAD – Genève, Claire Mayet développe une pratique de la céramique autour des notions d’ornement, de revêtement, de décor et de réappropriation. Depuis 2023, elle enseigne la céramique à la HEAD.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Expositions: Biennale de Vallauris, Musée de Carouge, Officine Saffi (Milan), Salon C14 (Paris).</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -915,7 +917,7 @@
       "workflowState": 1,
       "publishOn": 1779461034892,
       "addedOn": 1779461034892,
-      "updatedOn": 1779461187903
+      "updatedOn": 1783442737687
     },
     {
       "id": "6a106806840e9b406bb5af55",
