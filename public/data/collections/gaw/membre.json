@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-07-07T11:46:14.157Z",
-  "sourceHash": "627ce81a0ab313760e9b0d4463dc1da6fd624f677a22e0d0b2243ab073dc9fbe",
+  "updatedAt": "2026-07-07T13:54:24.524Z",
+  "sourceHash": "f872300ea47c5d16e0eb9b6fa7ef90e1248ad9ded83af2525290bbf33670dc08",
   "count": 80,
   "pages": 1,
   "items": [
@@ -1679,7 +1679,7 @@
       "workflowState": 1,
       "publishOn": 1745708506022,
       "addedOn": 1745708506022,
-      "updatedOn": 1782200574356
+      "updatedOn": 1783426466879
     },
     {
       "id": "68828065b0bcb434942b72d2",

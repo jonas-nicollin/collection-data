@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/programme-2026?format=json",
-  "updatedAt": "2026-07-07T11:46:16.887Z",
-  "sourceHash": "8e697a64552170f263f005843b7540045578ec7319189b38b69bd45a1f607717",
+  "updatedAt": "2026-07-07T13:54:26.735Z",
+  "sourceHash": "ef8f0cc012c947034617c12f2c649f936330aefa88bbf7f13e79e6c36669ffd4",
   "count": 52,
   "pages": 3,
   "items": [
@@ -49,10 +49,10 @@
     },
     {
       "id": "6a2434eed49402018d2a5df4",
-      "title": "Coffee and art · Visite commentée de l’exposition de Dita Cossio",
+      "title": "Coffee and art · Visite de l’exposition de Dita Cossio",
       "fullUrl": "/programme-2026/coffee-and-art-visite-commentee-de-l-exposition-de-dita-cossio",
       "urlId": "coffee-and-art-visite-commentee-de-l-exposition-de-dita-cossio",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777984751594-56ORNB39KET6NFR6JGKI/PCC_2026-023-Aubert_Jansem_Galerie-Dita_Cossio-004.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777984745711-178Z4Y8VXK72T6XFA8LM/PCC_2026-023-Aubert_Jansem_Galerie-Dita_Cossio-014.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -68,7 +68,7 @@
         "Date: 2026-09-27T11:30",
         "Lieu: Aubert Jansem Genève"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Un dimanche matin combinant <em>coffe and art</em> voici la proposition que fait la galerie Aubert Jansem Genève pour découvrir l’exposition <em>Inherited</em>, de Dita Cossio, dans le cadre du Parcours Céramique Carouge.<br><br></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -83,7 +83,7 @@
       "workflowState": 1,
       "publishOn": 1790501442273,
       "addedOn": 1790501442273,
-      "updatedOn": 1781593912348
+      "updatedOn": 1783431356370
     },
     {
       "id": "6a242c2a3a3f2306e007056c",
@@ -311,7 +311,7 @@
       "workflowState": 1,
       "publishOn": 1790265612141,
       "addedOn": 1790265612141,
-      "updatedOn": 1780754197514
+      "updatedOn": 1783429455661
     },
     {
       "id": "6a2423e87506e80033b4cf3e",
@@ -443,7 +443,7 @@
       "title": "Démonstration Dita Cossio",
       "fullUrl": "/programme-2026/demonstration-dita-cossio",
       "urlId": "demonstration-dita-cossio",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777984745711-178Z4Y8VXK72T6XFA8LM/PCC_2026-023-Aubert_Jansem_Galerie-Dita_Cossio-014.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780846096373-CE3JAM12RE57MFBUYGI9/PCC_2026-023-Aubert_Jansem_Galerie-Dita_Cossio-023.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -459,7 +459,7 @@
         "Lieu: Fondation Bruckner",
         "Date: 2026-09-20T15:00"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">La pratique de Dita Cossio naît de la rencontre entre la céramique et la couture. Elle coud et rembourre à la main des moules en cuir qui accueillent la porcelaine liquide, en absorbent les tensions, les plis, les coutures. Sous l'effet du poids et du temps, le moule remodèle lentement la matière, jusqu'à ce que le feu la fige. La porcelaine n'imite pas le cuir, elle s'en souvient. Lors de sa démonstration à la Fondation Bruckner, l'artiste invite le public à découvrir ce processus singulier où la matière se transmet d'un corps à l'autre.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -474,7 +474,7 @@
       "workflowState": 1,
       "publishOn": 1789909201439,
       "addedOn": 1789909201439,
-      "updatedOn": 1780752563391
+      "updatedOn": 1783431671440
     },
     {
       "id": "6a205eb75e398664ac1fb676",
@@ -1335,8 +1335,8 @@
     {
       "id": "69f88604000be15056d41d0b",
       "title": "Fabienne Guyomarch",
-      "fullUrl": "/programme-2026/expositions/15/fabienne-guyomarch",
-      "urlId": "expositions/15/fabienne-guyomarch",
+      "fullUrl": "/programme-2026/expositions/14/fabienne-guyomarch",
+      "urlId": "expositions/14/fabienne-guyomarch",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/95e7a305-e790-46b8-8bf5-27b9097b4ff5/PCC_2026-15-Galerie_Kaolin-Fabienne_Guyomarch-001.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1372,13 +1372,13 @@
       "workflowState": 1,
       "publishOn": 1788681605426,
       "addedOn": 1788681605426,
-      "updatedOn": 1780911976930
+      "updatedOn": 1783427592955
     },
     {
       "id": "6a0dc5b39d556f7e6823107b",
       "title": "Aline Favre",
-      "fullUrl": "/programme-2026/expositions/16/aline-favre",
-      "urlId": "expositions/16/aline-favre",
+      "fullUrl": "/programme-2026/expositions/15/aline-favre",
+      "urlId": "expositions/15/aline-favre",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780845647716-X6WPI8LVXLWOO0LZ9OZ6/PCC_2026-15-Galerie_FADA-Aline_Favre-010.webp",
       "mediaFocalPoint": {
         "x": 0.4955357142857143,
@@ -1397,7 +1397,7 @@
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
         "Zone: Carouge"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aline, de cœur et de terre révèle un univers intérieur sensible, celui d’une artiste pour qui la céramique était un chemin d’accomplissement. Disparue en 2013, Aline Favre a développé une relation profonde avec la matière et le vivant, guidée par la terre, l’eau, l’air et le feu. Dans le grès et la porcelaine, elle cherchait à faire surgir une énergie vivante, accueillant empreintes et fissures comme signes du vécu. Une présence qui continue de rayonner.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Aline, de cœur et de terre</em> révèle un univers intérieur sensible, celui d’une artiste pour qui la céramique était un chemin d’accomplissement. Disparue en 2013, Aline Favre a développé une relation profonde avec la matière et le vivant, guidée par la terre, l’eau, l’air et le feu. Dans le grès et la porcelaine, elle cherchait à faire surgir une énergie vivante, accueillant empreintes et fissures comme signes du vécu. Une présence qui continue de rayonner.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1863871,
@@ -1413,7 +1413,7 @@
       "workflowState": 1,
       "publishOn": 1788595235652,
       "addedOn": 1788595235652,
-      "updatedOn": 1780902536649
+      "updatedOn": 1783427870611
     },
     {
       "id": "696a4237054fc71a7afeebd3",
@@ -1455,17 +1455,17 @@
       "workflowState": 1,
       "publishOn": 1788508800036,
       "addedOn": 1788508800036,
-      "updatedOn": 1781105344526
+      "updatedOn": 1783427932683
     },
     {
       "id": "696a4238054fc71a7afeec17",
       "title": "Anne Breton",
-      "fullUrl": "/programme-2026/expositions/18/anne-breton",
-      "urlId": "expositions/18/anne-breton",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1776941157134-0D9L58SILD3C4ELHFSLG/PCC_2026-18-Galerie_h-Anne_Breton-007.webp",
+      "fullUrl": "/programme-2026/expositions/17/anne-breton",
+      "urlId": "expositions/17/anne-breton",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1776941159818-UJ6YM20GXDM9RLTIE6MR/PCC_2026-18-Galerie_h-Anne_Breton-010.webp",
       "mediaFocalPoint": {
-        "x": 0.30357142857142855,
-        "y": 0.7261904761904762,
+        "x": 0.43452380952380953,
+        "y": 0.6190476190476191,
         "source": 3
       },
       "categories": [
@@ -1497,13 +1497,13 @@
       "workflowState": 1,
       "publishOn": 1788422400842,
       "addedOn": 1788422400842,
-      "updatedOn": 1781522137909
+      "updatedOn": 1783428236751
     },
     {
       "id": "69f886c574e1ce4c39dffd08",
       "title": "Hélène Loussier",
-      "fullUrl": "/programme-2026/expositions/19/helene-loussier",
-      "urlId": "expositions/19/helene-loussier",
+      "fullUrl": "/programme-2026/expositions/18/helene-loussier",
+      "urlId": "expositions/18/helene-loussier",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1781097405666-FR6HOVCWDQSM8X0HTXRR/PCC_2026-019-L_Echoppe_des_Arts-Helene_Loussier-016.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1522,7 +1522,7 @@
         "Numéro: 18",
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Peintre à l’origine, Hélène Loussier a laissé la terre entrer dans sa vie. Absorbée par la question de la transformation, elle donne forme à des créatures incarnant le passage d’un règne à l’autre, mi-bêtes mi-plantes, surgies de la boue des souvenirs. Ses Petits Esprits naissent du geste pur, images fugitives accueillies sans volonté particulière. Ses Grands Esprits exigent un véritable corps à corps avec la matière, explorant la parentalité et le corps générationnel.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Peintre à l’origine, Hélène Loussier a laissé la terre entrer dans sa vie. Absorbée par la question de la transformation, elle donne forme à des créatures incarnant le passage d’un règne à l’autre, mi-bêtes mi-plantes, surgies de la boue des souvenirs. Ses <em>Petits Esprits</em> naissent du geste pur, images fugitives accueillies sans volonté particulière. Ses <em>Grands Esprits</em> exigent un véritable corps à corps avec la matière, explorant la parentalité et le corps générationnel.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1849409,
@@ -1538,14 +1538,14 @@
       "workflowState": 1,
       "publishOn": 1788336022115,
       "addedOn": 1788336022115,
-      "updatedOn": 1781097418088
+      "updatedOn": 1783428528992
     },
     {
       "id": "69f888923d814d38b2d3917e",
       "title": "Linda Ouhbi",
-      "fullUrl": "/programme-2026/expositions/20/linda-ouhbi",
-      "urlId": "expositions/20/linda-ouhbi",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779283220524-H2FPTQ9M7WDWGKJMUF5D/PCC_2026-020-Poesis-Linda_Ouhbi-003.webp",
+      "fullUrl": "/programme-2026/expositions/19/linda-ouhbi",
+      "urlId": "expositions/19/linda-ouhbi",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779283219532-YG2F5N5DAEL93FVUAURD/PCC_2026-020-Poesis-Linda_Ouhbi-004.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -1563,7 +1563,7 @@
         "Numéro: 19",
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Linda Ouhbi façonne à la main des sculptures en grès où la finesse des parois devient signature. Ses pièces, marquées par l’empreinte du temps et de la main, s’imposent comme des volumes autonomes entre savoir-faire ancestraux et formes contemporaines. Les émaux qu’elle formule elle-même prolongent l’expression de la terre, révélant failles, reliefs et mémoire. Au cœur de sa pratique, le corps et ses tensions: ses sculptures traduisent un mouvement intérieur, une présence silencieuse mais toujours habitée.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Linda Ouhbi façonne à la main des sculptures en grès où la finesse des parois devient signature. Ses pièces s’imposent comme des volumes autonomes entre savoir-faire ancestraux et formes contemporaines. Les émaux qu’elle formule elle-même prolongent l’expression de la terre, révélant failles, reliefs et mémoire. Puisant dans les sensations du corps, appuis, tensions et déséquilibres, ses sculptures traduisent un mouvement intérieur, une présence silencieuse.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.183844,
@@ -1579,13 +1579,13 @@
       "workflowState": 1,
       "publishOn": 1788249613596,
       "addedOn": 1788249613596,
-      "updatedOn": 1780670051613
+      "updatedOn": 1783429041532
     },
     {
       "id": "69f88af982601b1a55219e6d",
       "title": "Le Mouvement · Concours international de céramique",
-      "fullUrl": "/programme-2026/expositions/21/mouvement-concours-international-de-ceramique",
-      "urlId": "expositions/21/mouvement-concours-international-de-ceramique",
+      "fullUrl": "/programme-2026/expositions/20/mouvement-concours-international-de-ceramique",
+      "urlId": "expositions/20/mouvement-concours-international-de-ceramique",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/28a7584d-a49f-4e93-b10c-9857d06e441b/PCC_2026-21-Musee_de_Carouge-Mouvement_Concours_international_de_ceramique-001.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1599,9 +1599,9 @@
         "Année: 2026",
         "Zone: Carouge",
         "Lieu: Musée de Carouge",
-        "Date: 2026-09-19/2026-09-29",
         "Numéro: 20",
-        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Date: 2026-09-19/2026-11-29"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Depuis 1987, le Musée de Carouge organise une biennale de céramique contemporaine portant sur la création d’œuvres autour d’un thème imposé, lequel pour cette 20ème édition est «le mouvement». Les œuvres sélectionnées sont exposées du 19 septembre au 29 novembre 2026.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Les 40 œuvres exposées reflètent des propositions riches, audacieuses et profondément singulières, où le mouvement se décline sous toutes ses formes, figuratives, abstraites ou conceptuelles.</p>",
       "location": {
@@ -1619,17 +1619,17 @@
       "workflowState": 1,
       "publishOn": 1788163213244,
       "addedOn": 1788163213244,
-      "updatedOn": 1780670063608
+      "updatedOn": 1783429535320
     },
     {
       "id": "696a4237054fc71a7afeebd0",
       "title": "Raphaël Emine",
-      "fullUrl": "/programme-2026/expositions/22/raphael-emine",
-      "urlId": "expositions/22/raphael-emine",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779970925964-13W3JRU6IBYMS36VCWT4/PCC_2026-022-Teo_Jakob-Raphael_Emine-015.webp",
+      "fullUrl": "/programme-2026/expositions/21/raphael-emine",
+      "urlId": "expositions/21/raphael-emine",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779970934856-QXNXS55NTVBLG7EZAMB8/PCC_2026-022-Teo_Jakob-Raphael_Emine-003.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.6517857142857143,
+        "y": 0.41666666666666663,
         "source": 3
       },
       "categories": [
@@ -1661,7 +1661,7 @@
       "workflowState": 1,
       "publishOn": 1788080400815,
       "addedOn": 1788080400815,
-      "updatedOn": 1780670074239
+      "updatedOn": 1783429630415
     },
     {
       "id": "69f88b4dae0e0573c35e2a8b",
@@ -1703,17 +1703,17 @@
       "workflowState": 1,
       "publishOn": 1788076814073,
       "addedOn": 1788076814073,
-      "updatedOn": 1781098694329
+      "updatedOn": 1783429925682
     },
     {
       "id": "69f4d23fb0db023387fae5c9",
       "title": "Dita Cossio",
-      "fullUrl": "/programme-2026/expositions/24/dita-cossio",
-      "urlId": "expositions/24/dita-cossio",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777984750162-AEY2HD51JXTZK6EQGCXB/PCC_2026-023-Aubert_Jansem_Galerie-Dita_Cossio-022.webp",
+      "fullUrl": "/programme-2026/expositions/23/dita-cossio",
+      "urlId": "expositions/23/dita-cossio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777984747895-OU3V9R26JE32RWF5HUOX/PCC_2026-023-Aubert_Jansem_Galerie-Dita_Cossio-018.webp",
       "mediaFocalPoint": {
-        "x": 0.4920713577799802,
-        "y": 0.7024136167046459,
+        "x": 0.5044642857142857,
+        "y": 0.34523809523809523,
         "source": 3
       },
       "categories": [
@@ -1728,14 +1728,14 @@
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
         "Lieu: Aubert Jansem Genève"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">La pratique de Dita Cossio naît de la rencontre entre deux savoir-faire: la céramique et la couture. Elle façonne des moules en cuir cousus et rembourrés à la main, véritables peaux qui reçoivent la porcelaine liquide, absorbant tensions, coutures et plis. Ses pièces ne représentent pas des corps, elles sont des corps: comprimées, marquées, portant la mémoire d’une peau qui les a contenues. Topographies de l’absence, fossiles textiles révélant l’anatomie de la tension.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">La pratique de Dita Cossio fusionne céramique et couture. Elle coud des moules en cuir qui se comportent comme une peau et accueillent la porcelaine liquide, en absorbant tensions, coutures et plis. Sous le poids, le moule remodèle la matière jusqu'à ce que le feu la fige. Avec <em>Inherited</em>, elle nomme le cœur de son travai: une surface qui s'hérite. La porcelaine n'imite pas le cuir, elle s'en souvient. Ses pièces ne figurent pas des corps, elles en gardent l'empreinte.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1879912,
         "mapLng": 6.1261657,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "Aubert Jansem Galerie",
+        "addressTitle": "Aubert Jansem Genève",
         "addressLine1": "6A Route du Grand-Lancy",
         "addressLine2": "Lancy, GE, 1227",
         "addressCountry": "Switzerland"
@@ -1744,7 +1744,7 @@
       "workflowState": 1,
       "publishOn": 1787990421453,
       "addedOn": 1787990421453,
-      "updatedOn": 1781593912334
+      "updatedOn": 1783430109345
     },
     {
       "id": "69f4ca3727a19d79e3993abc",

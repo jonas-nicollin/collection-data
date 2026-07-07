@@ -5,8 +5,8 @@
   "id": "artistes",
   "path": "/artistes",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/artistes?format=json",
-  "updatedAt": "2026-07-07T11:46:17.447Z",
-  "sourceHash": "30f83e5d5701d5bfc3de5ce90720b3a9882708d7a88d336341a3e2aaa83142ed",
+  "updatedAt": "2026-07-07T13:54:27.163Z",
+  "sourceHash": "38885f432034ec9805e7bcb488bd91bd7213286c0ab8b0bda489e1f8bc2d5a1c",
   "count": 39,
   "pages": 2,
   "items": [
@@ -1317,7 +1317,7 @@
         "Origine: France",
         "Naissance: 1982"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1982, Paris, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille dans le Gard, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Céramiste et plasticienne, Marie Gueydon de Dives développe un travail d’installation in situ où la terre prolonge le corps et engage une relation directe aux éléments: terre, eau, air, feu et à leurs transformations. Son passage d’un contexte urbain à un environnement rural marque un tournant dans sa pratique, désormais centrée sur les formes du vivant. Ses installations investissent aussi bien des espaces d’exposition que des sites naturels, là où la céramique entre en résonance avec le paysage.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Installations: Céramique 14, Festival d’Anduze, Musée de la Briqueterie, Bambouseraie en Cévennes, Parc Naturel Régional de Camargue.</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille dans le Gard, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Céramiste et plasticienne, Marie Gueydon de Dives développe un travail d’installation in situ où la terre prolonge le corps et engage une relation directe aux éléments: terre, eau, air, feu et à leurs transformations. Son passage d’un contexte urbain à un environnement rural marque un tournant dans sa pratique, désormais centrée sur les formes du vivant. Ses installations investissent aussi bien des espaces d’exposition que des sites naturels, là où la céramique entre en résonance avec le paysage.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Installations: Céramique 14, Festival d’Anduze, Musée de la Briqueterie, Bambouseraie en Cévennes, Parc Naturel Régional de Camargue.</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1333,7 +1333,7 @@
       "workflowState": 1,
       "publishOn": 1778248004298,
       "addedOn": 1778248004298,
-      "updatedOn": 1783349087065
+      "updatedOn": 1783427047911
     },
     {
       "id": "69fb353a191a2915b3f7e85c",
