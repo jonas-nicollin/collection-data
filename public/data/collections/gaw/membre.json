@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-07-07T08:52:21.651Z",
-  "sourceHash": "41b2d8b35d6bb922293cf9b81cca818bb6f96026c3cc5c291eed6423bd507143",
-  "count": 87,
+  "updatedAt": "2026-07-07T11:46:14.157Z",
+  "sourceHash": "627ce81a0ab313760e9b0d4463dc1da6fd624f677a22e0d0b2243ab073dc9fbe",
+  "count": 80,
   "pages": 1,
   "items": [
     {
@@ -415,43 +415,6 @@
       "publishOn": 1747872000571,
       "addedOn": 1747872000571,
       "updatedOn": 1782139528743
-    },
-    {
-      "id": "688883cb191cfc034f3fb982",
-      "title": "Cinéma Bio",
-      "fullUrl": "/membre/cinema-bio",
-      "urlId": "cinema-bio",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1754473094467-698FQ64C5YM2KJGEDBJY/Geneva_Art_Week-Members-Cinema_Bio-Thumbnail_Image-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Membre invité"
-      ],
-      "tags": [
-        "Membre: Cinéma Bio",
-        "Thématique: Cinéma",
-        "Quartier: Carouge"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1844613,
-        "mapLng": 6.1414776,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "Cinéma Bio",
-        "addressLine1": "Rue Saint-Joseph 47",
-        "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 16,
-      "workflowState": 1,
-      "publishOn": 1747815480720,
-      "addedOn": 1747815480720,
-      "updatedOn": 1782139552025
     },
     {
       "id": "6824878fcdfab25869f2b2a5",
@@ -924,45 +887,6 @@
       "updatedOn": 1782198283496
     },
     {
-      "id": "6898e97467c80b4b1ff06089",
-      "title": "Galerie Annick Zufferey",
-      "fullUrl": "/membre/galerie-annick-zufferey",
-      "urlId": "galerie-annick-zufferey",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755513261917-T2LARVUGJ63EMVSWNW3B/Geneva_Art_Week-Members-Galerie_Annick_Zufferey-Thumbnail_Image-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Membre invité"
-      ],
-      "tags": [
-        "Membre: Galerie Annick Zufferey",
-        "Thématique: Bijou contemporain",
-        "Thématique: Bijou d'auteur",
-        "Thématique: Bijou design",
-        "Quartier: Carouge"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1849249,
-        "mapLng": 6.1390474,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "Galerie Annick Zufferey",
-        "addressLine1": "Place des Charmettes 1",
-        "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 29,
-      "workflowState": 1,
-      "publishOn": 1747004400706,
-      "addedOn": 1747004400706,
-      "updatedOn": 1782198302433
-    },
-    {
       "id": "68248791cdfab25869f2b2f7",
       "title": "Galerie Fabienne Levy",
       "fullUrl": "/membre/fabienne-levy",
@@ -1161,46 +1085,6 @@
       "publishOn": 1746754020733,
       "addedOn": 1746754020733,
       "updatedOn": 1782892071194
-    },
-    {
-      "id": "68b0b98d3e112f3afcdb3de5",
-      "title": "Galerie Marianne Brand",
-      "fullUrl": "/membre/galerie-marianne-brand",
-      "urlId": "galerie-marianne-brand",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1756654543958-GPT98VTEZKEFMTST1ZF6/Geneva_Art_Week-Members-Galerie_Marianne_Brand-Featured_Image-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Membre invité"
-      ],
-      "tags": [
-        "Membre: Galerie Marianne Brand",
-        "Thématique: Art contemporain",
-        "Thématique: Peinture",
-        "Thématique: Dessin",
-        "Thématique: Sculpture",
-        "Quartier: Carouge"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1825548,
-        "mapLng": 6.1410136,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "Galerie Marianne Brand",
-        "addressLine1": "Rue Ancienne 20",
-        "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 35,
-      "workflowState": 1,
-      "publishOn": 1746692700899,
-      "addedOn": 1746692700899,
-      "updatedOn": 1782199961241
     },
     {
       "id": "68248792cdfab25869f2b31d",
@@ -1874,88 +1758,6 @@
       "publishOn": 1745643600837,
       "addedOn": 1745643600837,
       "updatedOn": 1782200665068
-    },
-    {
-      "id": "689619555f43b858a8277cab",
-      "title": "La Menuiserie Vandœuvres",
-      "fullUrl": "/membre/la-menuiserie-vandoeuvres",
-      "urlId": "la-menuiserie-vandoeuvres",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755594399279-R1YHJ4KYIMXJ4BMKQL56/Geneva_Art_Week-Members-La_Menuiserie_Vandoeuvres-Thumbnail_Image-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Membre invité"
-      ],
-      "tags": [
-        "Membre: La Menuiserie Vandœuvres",
-        "Thématique: Art contemporain",
-        "Thématique: Sculpture",
-        "Thématique: Photographie",
-        "Thématique: Vidéo",
-        "Thématique: Peinture",
-        "Quartier: Vandœuvres"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.2223001,
-        "mapLng": 6.2031865,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "La Menuiserie Vandœuvres",
-        "addressLine1": "Route de Meinier 12",
-        "addressLine2": "1253 Vandœuvres",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 53,
-      "workflowState": 1,
-      "publishOn": 1745640000027,
-      "addedOn": 1745640000027,
-      "updatedOn": 1782200684205
-    },
-    {
-      "id": "68a38ca9882a972ad89bba59",
-      "title": "Laurence and Friends",
-      "fullUrl": "/membre/laurence-and-friends",
-      "urlId": "laurence-and-friends",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755861152924-2RBPBBS6IY4UBJIG2Y83/Geneva_Art_Week-Members-Laurence_and_Friends-Thumbnail_Image-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Membre invité"
-      ],
-      "tags": [
-        "Membre: Laurence and Friends",
-        "Thématique: Art contemporain",
-        "Thématique: Peinture",
-        "Thématique: Dessin",
-        "Thématique: Mixed Media",
-        "Thématique: Sculpture",
-        "Quartier: Quartier des Bains"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.19845100000001,
-        "mapLng": 6.137790300000001,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "Laurence and Friends",
-        "addressLine1": "Rue des Vieux-Grenadiers 11",
-        "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 54,
-      "workflowState": 1,
-      "publishOn": 1745623620741,
-      "addedOn": 1745623620741,
-      "updatedOn": 1782200701216
     },
     {
       "id": "68248794cdfab25869f2b397",
@@ -2866,47 +2668,6 @@
       "updatedOn": 1782220793308
     },
     {
-      "id": "68a7784e44fb850982dc848d",
-      "title": "Simon Studer Art",
-      "fullUrl": "/membre/simon-studer-art",
-      "urlId": "simon-studer-art",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1d14c193-2111-4f4f-b585-e6d54852c771/Geneva_Art_Week-Members-Simon_Studer_Art-Featured_Image-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Membre invité"
-      ],
-      "tags": [
-        "Thématique: Art moderne",
-        "Thématique: Photographie",
-        "Thématique: Peinture",
-        "Thématique: Scène artistique suisse",
-        "Thématique: Art contemporain",
-        "Membre: Simon Studer Art",
-        "Quartier: Acacias Bâtie"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.18829230000001,
-        "mapLng": 6.1272986,
-        "markerLat": 46.18829230000001,
-        "markerLng": 6.1272986,
-        "addressTitle": "Simon Studer Art",
-        "addressLine1": "Route des Jeunes 4Ter",
-        "addressLine2": "1227 Lancy",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 76,
-      "workflowState": 1,
-      "publishOn": 1744095600339,
-      "addedOn": 1744095600339,
-      "updatedOn": 1782220809958
-    },
-    {
       "id": "68248798cdfab25869f2b5a3",
       "title": "Skopia / P.-H. Jaccaud",
       "fullUrl": "/membre/skopia-p-h-jaccaud",
@@ -3160,7 +2921,7 @@
         "source": 3
       },
       "categories": [
-        "Membre invité"
+        "Espace indépendant"
       ],
       "tags": [
         "Membre: Usine Kugler",
@@ -3187,48 +2948,7 @@
       "workflowState": 1,
       "publishOn": 1743792569838,
       "addedOn": 1743792569838,
-      "updatedOn": 1782221179694
-    },
-    {
-      "id": "68b3664367a03177f34cb62e",
-      "title": "Usine Parker",
-      "fullUrl": "/membre/usine-parker",
-      "urlId": "usine-parker",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1756655508503-12XSIYT5DEKOLLV7VJNI/Geneva_Art_Week-Members-Usine_Parker-Thumbnail_Image-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Membre invité"
-      ],
-      "tags": [
-        "Membre: Usine Parker",
-        "Thématique: Art contemporain",
-        "Thématique: Sculpture",
-        "Thématique: Peinture",
-        "Thématique: Mixed Media",
-        "Thématique: Scène émergente",
-        "Quartier: Carouge"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1803725,
-        "mapLng": 6.136632,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "Usine Parker",
-        "addressLine1": "Chemin du Faubourg-de-Cruseilles 14",
-        "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 83,
-      "workflowState": 1,
-      "publishOn": 1743757500120,
-      "addedOn": 1743757500120,
-      "updatedOn": 1782221224887
+      "updatedOn": 1783424385330
     },
     {
       "id": "68248799cdfab25869f2b5b0",

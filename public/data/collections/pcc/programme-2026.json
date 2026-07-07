@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/programme-2026?format=json",
-  "updatedAt": "2026-07-07T08:52:22.750Z",
-  "sourceHash": "0a7ffa788cbabc131cdef5902ac4791072cc7a9b57beed95ef94332985b1e450",
+  "updatedAt": "2026-07-07T11:46:16.887Z",
+  "sourceHash": "8e697a64552170f263f005843b7540045578ec7319189b38b69bd45a1f607717",
   "count": 52,
   "pages": 3,
   "items": [
@@ -1079,7 +1079,7 @@
     },
     {
       "id": "69f883b502e5642a1d46e0c2",
-      "title": "Marianne Brand – Rétrospective",
+      "title": "Marianne Brand",
       "fullUrl": "/programme-2026/expositions/9/marianne-brand-retrospective",
       "urlId": "expositions/9/marianne-brand-retrospective",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/d9b1116b-0950-413b-b576-bf464e97067c/PCC_2026-10-Galerie_Marianne_Brand-Retrospective-001.webp",
@@ -1116,7 +1116,7 @@
       "workflowState": 1,
       "publishOn": 1789113621965,
       "addedOn": 1789113621965,
-      "updatedOn": 1783347024420
+      "updatedOn": 1783414878354
     },
     {
       "id": "696a422d054fc71a7afeea03",
@@ -1330,7 +1330,7 @@
       "workflowState": 1,
       "publishOn": 1788781095887,
       "addedOn": 1788781095887,
-      "updatedOn": 1780848724327
+      "updatedOn": 1783418540386
     },
     {
       "id": "69f88604000be15056d41d0b",
