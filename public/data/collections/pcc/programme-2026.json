@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/programme-2026?format=json",
-  "updatedAt": "2026-07-07T13:54:26.735Z",
-  "sourceHash": "ef8f0cc012c947034617c12f2c649f936330aefa88bbf7f13e79e6c36669ffd4",
-  "count": 52,
+  "updatedAt": "2026-07-07T16:27:28.436Z",
+  "sourceHash": "4f80d2adb8a98f509f9df969d3654eef6a81f352539294d7ff961aa9dc32c960",
+  "count": 50,
   "pages": 3,
   "items": [
     {
@@ -45,7 +45,7 @@
       "workflowState": 1,
       "publishOn": 1790506816102,
       "addedOn": 1790506816102,
-      "updatedOn": 1780758054827
+      "updatedOn": 1783434634734
     },
     {
       "id": "6a2434eed49402018d2a5df4",
@@ -84,43 +84,6 @@
       "publishOn": 1790501442273,
       "addedOn": 1790501442273,
       "updatedOn": 1783431356370
-    },
-    {
-      "id": "6a242c2a3a3f2306e007056c",
-      "title": "Masterclass avec XXXX",
-      "fullUrl": "/programme-2026/masterclass-avec-xxxx",
-      "urlId": "masterclass-avec-xxxx",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/67a60988-a5c7-42d4-ab8a-a877c927ff78/PCC2017_Fondation-Bruckner-64.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Démonstration"
-      ],
-      "tags": [
-        "Zone: Carouge",
-        "Année: 2026",
-        "Lieu: Fondation Bruckner",
-        "Date: 2026-09-27T10:00"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.0007613,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "workflowState": 1,
-      "publishOn": 1790496018317,
-      "addedOn": 1790496018317,
-      "updatedOn": 1780756414468
     },
     {
       "id": "6a24364855f0b80a8ab06d62",
@@ -196,43 +159,6 @@
       "publishOn": 1790409643266,
       "addedOn": 1790409643266,
       "updatedOn": 1780757718401
-    },
-    {
-      "id": "6a242b0ad5be4c54ecffacc0",
-      "title": "Masterclass avec Lorem Ipsum Dolor",
-      "fullUrl": "/programme-2026/masterclass-avec-lorem-ipsum-dolor",
-      "urlId": "masterclass-avec-lorem-ipsum-dolor",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/67a60988-a5c7-42d4-ab8a-a877c927ff78/PCC2017_Fondation-Bruckner-64.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Démonstration"
-      ],
-      "tags": [
-        "Zone: Carouge",
-        "Année: 2026",
-        "Lieu: Fondation Bruckner",
-        "Date: 2026-09-26T10:00"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.0007613,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "workflowState": 1,
-      "publishOn": 1790409630641,
-      "addedOn": 1790409630641,
-      "updatedOn": 1780755498339
     },
     {
       "id": "6a2424acdd18c84bb027f98e",
@@ -481,7 +407,7 @@
       "title": "Conférence d’Amélie Patry",
       "fullUrl": "/programme-2026/d1b5b7rvs594tq25arop5e10h2uyvy",
       "urlId": "d1b5b7rvs594tq25arop5e10h2uyvy",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779094609263-Y2NUCW2993M9WNW5EYQA/PCC_2026-11-Le_Salon_Vert-Amelie_Patry-004.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783437691064-DMNQHYZTUWUZA5IUVY6V/PCC_2026-10-Le_Salon_Vert-Amelie_Patry-028.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -512,7 +438,7 @@
       "workflowState": 1,
       "publishOn": 1789902050523,
       "addedOn": 1789902050523,
-      "updatedOn": 1780556867333
+      "updatedOn": 1783437880133
     },
     {
       "id": "6a241feef09d98418d6a9a78",

@@ -5,8 +5,8 @@
   "id": "artistes",
   "path": "/artistes",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/artistes?format=json",
-  "updatedAt": "2026-07-07T13:54:27.163Z",
-  "sourceHash": "38885f432034ec9805e7bcb488bd91bd7213286c0ab8b0bda489e1f8bc2d5a1c",
+  "updatedAt": "2026-07-07T16:27:28.910Z",
+  "sourceHash": "567f7a3366c1e2bb35421af0baf0eda53aedfb5be798d0e0079521c53c2c647f",
   "count": 39,
   "pages": 2,
   "items": [
@@ -126,9 +126,10 @@
       "categories": [],
       "tags": [
         "Artiste: Chris Murner",
-        "Origine: Suisse"
+        "Origine: Suisse",
+        "Naissance: 1962"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1962, Genève</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Carouge, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Styliste-maroquinière depuis plus de quarante ans, Chris Murner crée et réalise ses collections dans ses ateliers au cœur de Carouge. Inspirée du Bauhaus, elle conjugue une esthétique épurée aux lignes essentielles, alliant liberté formelle et fonction, tout en sublimant le cuir et les peaux dans toute leur qualité et sensualité. Dernière formatrice maroquinière en Suisse, elle a ouvert son centre de formation cmAcm et s’engage activement dans la promotion des métiers d’art et la formation des métiers à petits effectifs.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Prix de l’Artisanat Genevois (2003). Distinction «L’Intelligence de la Main», Ballenberg (2016). Mérite Carougeois pour l’engagement des métiers d’art et la formation (2020). Membre Homo Faber, Guide Michelangelo.</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Carouge, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Styliste-maroquinière depuis plus de quarante ans, Chris Murner crée et réalise ses collections dans ses ateliers au cœur de Carouge. Inspirée du Bauhaus, elle conjugue une esthétique épurée aux lignes essentielles, alliant liberté formelle et fonction, tout en sublimant le cuir et les peaux dans toute leur qualité et sensualité. Dernière formatrice maroquinière en Suisse, elle a ouvert son centre de formation cmAcm et s’engage activement dans la promotion des métiers d’art et la formation des métiers à petits effectifs.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Prix de l’Artisanat Genevois (2003). Distinction «L’Intelligence de la Main», Ballenberg (2016). Mérite Carougeois pour l’engagement des métiers d’art et la formation (2020). Membre Homo Faber, Guide Michelangelo.</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -143,7 +144,7 @@
       "workflowState": 1,
       "publishOn": 1780466628377,
       "addedOn": 1780466628377,
-      "updatedOn": 1783349306560
+      "updatedOn": 1783433925483
     },
     {
       "id": "6a1fc34bcba4833589da7084",
@@ -162,7 +163,7 @@
         "Naissance: 1976",
         "Artiste: Sandrine Ramona"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1976, Douarnenez, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Nantes, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Autodidacte, Sandrine Ramona fonde l’Atelier DOUARN en 2005 et se consacre à la porcelaine qu’elle grave, martèle et modèle, la laissant blanche, mate, naturelle, rehaussée parfois de feuille d’or. Elle conçoit essentiellement des panneaux muraux où son inspiration s’ancre dans la notion de mouvements, de flux, de courants générés par l’observation de la nature. Des segments, des fibres, des formes du minuscule semblent se développer, cheminer, grandir en silence et en lenteur. Fragments de vies inscrits, gravés d’une création à une autre, ses œuvres tissent un ensemble narratif où le monde végétal et la notion de temps sont perceptibles. La vie, tout simplement.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Membre des Ateliers d’Art de France depuis 2009. Labellisée Homo Faber (2021).</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Nantes, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Autodidacte, Sandrine Ramona fonde l’Atelier DOUARN en 2005 et se consacre à la porcelaine qu’elle grave, martèle et modèle, la laissant blanche, mate, naturelle, rehaussée parfois de feuille d’or. Elle conçoit essentiellement des panneaux muraux où son inspiration s’ancre dans la notion de mouvements, de flux, de courants générés par l’observation de la nature. Des segments, des fibres, des formes du minuscule semblent se développer, cheminer, grandir en silence et en lenteur. Fragments de vies inscrits, gravés d’une création à une autre, ses œuvres tissent un ensemble narratif où le monde végétal et la notion de temps sont perceptibles. La vie, tout simplement.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Membre des Ateliers d’Art de France depuis 2009. Labellisée Homo Faber (2021).</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -177,7 +178,7 @@
       "workflowState": 1,
       "publishOn": 1780466536466,
       "addedOn": 1780466536466,
-      "updatedOn": 1783349238529
+      "updatedOn": 1783433958335
     },
     {
       "id": "6a182ac9671a8a6611a9243a",
@@ -196,7 +197,7 @@
         "Origine: Suisse",
         "Naissance: 1995"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1995, Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée en céramique du CFP Arts de Genève (2022), Anja Ripoll fait émerger des mondes fantasmagoriques où s’entrelacent chute et ascension, ordre et chaos, renaissance et disparition. Dans le refus d’un système normatif, ses œuvres invitent à regarder de près des recoins chargés de réminiscences pré-post-apocalyptiques: objets funéraires, paysages mythiques, reliques spirituelles. Elles interrogent les marges des réalités dominantes, les déséquilibres sociaux, l’exploitation des ressources et les responsabilités écologiques.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Résidence de soutien aux jeunes céramistes, Fondation Bruckner (2022). Nominée à la Bourse BLCG (2025).</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée en céramique du CFP Arts de Genève (2022), Anja Ripoll fait émerger des mondes fantasmagoriques où s’entrelacent chute et ascension, ordre et chaos, renaissance et disparition. Dans le refus d’un système normatif, ses œuvres invitent à regarder de près des recoins chargés de réminiscences pré-post-apocalyptiques: objets funéraires, paysages mythiques, reliques spirituelles. Elles interrogent les marges des réalités dominantes, les déséquilibres sociaux, l’exploitation des ressources et les responsabilités écologiques.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Résidence de soutien aux jeunes céramistes, Fondation Bruckner (2022). Nominée à la Bourse BLCG (2025).</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -212,7 +213,7 @@
       "workflowState": 1,
       "publishOn": 1779968727199,
       "addedOn": 1779968727199,
-      "updatedOn": 1783350534040
+      "updatedOn": 1783434424806
     },
     {
       "id": "6a1824ba5c5a944ee0691b51",
@@ -231,7 +232,7 @@
         "Naissance: 1995",
         "Artiste: Raphael Oboé"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1995, Jundiaí, São Paulo, Brésil</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille au Brésil</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Venu du graffiti et de l’art de rue, Raphael Oboé se tourne vers la céramique, aujourd’hui son médium principal, nourri par les traditions artistiques des peuples autochtones d’Amérique du Sud. À travers la terre, il entrelace mémoires familiales, processus de métissage et effacement identitaire, faisant référence de manière empirique et intuitive aux traditions ancestrales du continent. En 2019, un grave accident le cloue au lit pendant deux ans: cette période de convalescence devient un temps d’étude intensive des techniques céramiques, des minéraux et des cultures qui leur sont liées. Son œuvre est un processus de réinterprétation de la douleur et du trauma, où l’expérience corporelle devient outil de transformation.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille au Brésil</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Venu du graffiti et de l’art de rue, Raphael Oboé se tourne vers la céramique, aujourd’hui son médium principal, nourri par les traditions artistiques des peuples autochtones d’Amérique du Sud. À travers la terre, il entrelace mémoires familiales, processus de métissage et effacement identitaire, faisant référence de manière empirique et intuitive aux traditions ancestrales du continent. En 2019, un grave accident le cloue au lit pendant deux ans: cette période de convalescence devient un temps d’étude intensive des techniques céramiques, des minéraux et des cultures qui leur sont liées. Son œuvre est un processus de réinterprétation de la douleur et du trauma, où l’expérience corporelle devient outil de transformation.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -247,14 +248,14 @@
       "workflowState": 1,
       "publishOn": 1779967188534,
       "addedOn": 1779967188534,
-      "updatedOn": 1783350408627
+      "updatedOn": 1783434373034
     },
     {
       "id": "6a182457e59505151a915b4b",
       "title": "William Mora",
       "fullUrl": "/artistes/william-mora",
       "urlId": "william-mora",
-      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a182457e59505151a915b4b/1783350426521/",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783438207935-GVBUI0CHMATSWY7DJ9X1/PCC-William_Mora-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -266,7 +267,7 @@
         "Origine: Colombie",
         "Naissance: 1995"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1995, Bogota, Colombie</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Montréal, Canada</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Titulaire d’un Bachelor en sculpture-céramique de l’Université Concordia, William Mora explore la céramique et les arts graphiques. Son œuvre revisite l’histoire qui structure son identité culturelle et collective, faisant émerger pictogrammes, symboles, images et récits tout en ouvrant une réflexion philosophique sur leur nature. À travers sa double appartenance colombienne et québécoise, il construit un dialogue entre identités, observations et mémoires, nourrissant une expression picturale sensible et symbolique, entre signe et récit.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Montréal, Canada</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Titulaire d’un Bachelor en sculpture-céramique de l’Université Concordia, William Mora explore la céramique et les arts graphiques. Son œuvre revisite l’histoire qui structure son identité culturelle et collective, faisant émerger pictogrammes, symboles, images et récits tout en ouvrant une réflexion philosophique sur leur nature. À travers sa double appartenance colombienne et québécoise, il construit un dialogue entre identités, observations et mémoires, nourrissant une expression picturale sensible et symbolique, entre signe et récit.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -282,7 +283,7 @@
       "workflowState": 1,
       "publishOn": 1779967158653,
       "addedOn": 1779967158653,
-      "updatedOn": 1783350426521
+      "updatedOn": 1783438213583
     },
     {
       "id": "6a182393b2ed4e3256bdabfa",
@@ -301,7 +302,7 @@
         "Artiste: Lola Metz",
         "Naissance: 1995"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1995, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Montpellier, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée d’un DNAP des Beaux-Arts de Montpellier (2019), Lola Metz est artiste céramiste et co-créatrice de l’atelier LUSINE34 à Vendargues. Ses céramiques déforment librement la matière et révèlent une esthétique tactile, proche des doudous ou des jouets façonnés par des mains d’enfants. Rigides et fragiles, elles semblent pourtant molles, malléables, presque comme de la pâte à modeler. Par le jeu des textures et des imperfections volontaires, elle détourne les attentes liées à la céramique et ouvre une lecture sensible, instinctive et libre de la matière, entre spontanéité, expressivité et forme enfantine vivante.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Montpellier, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée d’un DNAP des Beaux-Arts de Montpellier (2019), Lola Metz est artiste céramiste et co-créatrice de l’atelier LUSINE34 à Vendargues. Ses céramiques déforment librement la matière et révèlent une esthétique tactile, proche des doudous ou des jouets façonnés par des mains d’enfants. Rigides et fragiles, elles semblent pourtant molles, malléables, presque comme de la pâte à modeler. Par le jeu des textures et des imperfections volontaires, elle détourne les attentes liées à la céramique et ouvre une lecture sensible, instinctive et libre de la matière, entre spontanéité, expressivité et forme enfantine vivante.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -317,17 +318,17 @@
       "workflowState": 1,
       "publishOn": 1779967059679,
       "addedOn": 1779967059679,
-      "updatedOn": 1783350200820
+      "updatedOn": 1783434309417
     },
     {
       "id": "6a18203b70e3071bfb05da1f",
       "title": "Guillaume Martin-Taton",
       "fullUrl": "/artistes/guillaume-martin-taton",
       "urlId": "guillaume-martin-taton",
-      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a18203b70e3071bfb05da1f/1783350136746/",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783438192569-JKIMCNQE2US3F21UK6PA/PCC-Guillaume_Marton_Taton.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5178571428571429,
+        "y": 0.27976190476190477,
         "source": 3
       },
       "categories": [],
@@ -336,7 +337,7 @@
         "Origine: France",
         "Naissance: 1991"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1991, Nîmes, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômé du DNSEP de l’ESBAMM Montpellier (2019), Guillaume Martin-Taton est artiste pluridisciplinaire installé à Genève depuis 2022. Depuis 2018, sa pratique se centre sur la céramique, pensée comme le prolongement naturel du dessin et de la peinture. Le passage au volume lui permet d’inscrire un langage visuel né sur la surface dans des formes durables, et d’en explorer la matière, la répétition et la dimension rituelle. Céramique, dessin et peinture forment un triptyque indissociable, où formes, motifs et couleurs issus de l’aposématisme donnent sens aux objets mêmes et aux signes vifs.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômé du DNSEP de l’ESBAMM Montpellier (2019), Guillaume Martin-Taton est artiste pluridisciplinaire installé à Genève depuis 2022. Depuis 2018, sa pratique se centre sur la céramique, pensée comme le prolongement naturel du dessin et de la peinture. Le passage au volume lui permet d’inscrire un langage visuel né sur la surface dans des formes durables, et d’en explorer la matière, la répétition et la dimension rituelle. Céramique, dessin et peinture forment un triptyque indissociable, où formes, motifs et couleurs issus de l’aposématisme donnent sens aux objets mêmes et aux signes vifs.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -352,7 +353,7 @@
       "workflowState": 1,
       "publishOn": 1779966195275,
       "addedOn": 1779966195275,
-      "updatedOn": 1783350136746
+      "updatedOn": 1783438199608
     },
     {
       "id": "6a181fc67d8a711f21851c05",
@@ -371,7 +372,7 @@
         "Naissance: 1995",
         "Artiste: Eirik Falckner"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1995, Bergen, Norvège</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Bergen, Norvège</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômé en beaux-arts de la Bergen Art Academy (2021), Eirick Falckner travaille la céramique, le textile, la vidéo et l’installation. Ses œuvres renvoient à des formes issues de la nature — fossiles, coraux, racines — tout en évoquant des présences inconnues et inquiétantes, venues des profondeurs de l’océan ou de l’espace. Son travail explore l’éphémère et la condition humaine face à des forces naturelles puissantes, presque préhistoriques. Entre fragilité, mystère et transformation, ses sculptures interrogent les fondements de notre existence et notre lien au vivant, en perpétuel devenir.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Bergen, Norvège</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômé en beaux-arts de la Bergen Art Academy (2021), Eirick Falckner travaille la céramique, le textile, la vidéo et l’installation. Ses œuvres renvoient à des formes issues de la nature — fossiles, coraux, racines — tout en évoquant des présences inconnues et inquiétantes, venues des profondeurs de l’océan ou de l’espace. Son travail explore l’éphémère et la condition humaine face à des forces naturelles puissantes, presque préhistoriques. Entre fragilité, mystère et transformation, ses sculptures interrogent les fondements de notre existence et notre lien au vivant, en perpétuel devenir.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -387,7 +388,7 @@
       "workflowState": 1,
       "publishOn": 1779965894340,
       "addedOn": 1779965894340,
-      "updatedOn": 1783350549662
+      "updatedOn": 1783434217929
     },
     {
       "id": "6a181ad5d8c7644b7eb75dfd",
@@ -407,7 +408,7 @@
         "Origine: France",
         "Naissance: 1988"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1988, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Bruxelles, Belgique</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée en céramique de La Cambre (ENSAV, Bruxelles, 2012), Sixtine Jacquart combine sculpture, dessin et performance. Elle se concentre sur la porcelaine moulée pour produire des pièces multiples ou modulaires. Dans ses installations, des outils peuvent être activés ou simplement évoquer une action. Avec détachement et cynisme, elle interroge les paradoxes du corps contemporain — modifié, sculpté, capitalisé — en empruntant aux objets leur proximité physique ou sensible au corps. Elle a récemment produit des installations monumentales pour le musée Keramis et des performances autour du travail pré-industriel du cheval.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Prix de la Jeune Céramique, Musée Keramis (2018). Prix Sofam, Watch This Space 11 (2022). Expositions solo: Keramis (La Louvière), ISELP et Wolubilis (Bruxelles), TAMAT (Tournai), La Place (Barcelone). European Ceramic Context (Bornholm), Biennale de Vallauris (2014).</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Bruxelles, Belgique</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée en céramique de La Cambre (ENSAV, Bruxelles, 2012), Sixtine Jacquart combine sculpture, dessin et performance. Elle se concentre sur la porcelaine moulée pour produire des pièces multiples ou modulaires. Dans ses installations, des outils peuvent être activés ou simplement évoquer une action. Avec détachement et cynisme, elle interroge les paradoxes du corps contemporain — modifié, sculpté, capitalisé — en empruntant aux objets leur proximité physique ou sensible au corps. Elle a récemment produit des installations monumentales pour le musée Keramis et des performances autour du travail pré-industriel du cheval.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Prix de la Jeune Céramique, Musée Keramis (2018). Prix Sofam, Watch This Space 11 (2022). Expositions solo: Keramis (La Louvière), ISELP et Wolubilis (Bruxelles), TAMAT (Tournai), La Place (Barcelone). European Ceramic Context (Bornholm), Biennale de Vallauris (2014).</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -423,7 +424,7 @@
       "workflowState": 1,
       "publishOn": 1779965206222,
       "addedOn": 1779965206222,
-      "updatedOn": 1783349756361
+      "updatedOn": 1783434168328
     },
     {
       "id": "6a180cce2ff0a3423614dfe6",
@@ -439,7 +440,8 @@
       "categories": [],
       "tags": [
         "Artiste: Youlichka Fioramonti",
-        "Naissance: 1981"
+        "Naissance: 1981",
+        "Origine: Suisse"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Carouge, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Céramiste indépendante et enseignante au CFP Arts, Youlichka Fioramonti travaille la terre et les émaux avec une attention particulière aux textures et aux structures organiques. Elle n’envisage pas l’argile comme un simple matériau mais comme un partenaire vivant, doté d’une mémoire et d’une volonté propre. Son parcours est celui d’une quête d’équilibre entre maîtrise technique et lâcher-prise artistique. Avec Jörg Brockmann, elle se lance dans l’exploration du cyanotype sur céramique: une nouvelle manière de travailler et d’accepter une part d’imprévisibilité de la matière.</p>",
       "location": {
@@ -457,7 +459,7 @@
       "workflowState": 1,
       "publishOn": 1779961192110,
       "addedOn": 1779961192110,
-      "updatedOn": 1780846746348
+      "updatedOn": 1783434832706
     },
     {
       "id": "6a1807389f59236feab9b498",
@@ -492,7 +494,7 @@
       "workflowState": 1,
       "publishOn": 1779959874223,
       "addedOn": 1779959874223,
-      "updatedOn": 1780846819151
+      "updatedOn": 1783434851847
     },
     {
       "id": "6a17f630a919995422be47ad",
@@ -509,9 +511,10 @@
       "tags": [
         "Origine: Suisse",
         "Artiste: Aline Favre",
-        "Naissance: 1932"
+        "Naissance: 1932",
+        "Naissance: 1932-2013"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1932, Genève, Suisse–†2013</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Figure majeure du renouveau de la céramique suisse et de l’émergence de l’École de Genève, Aline Favre se forme à la section céramique de l’École des Arts décoratifs de Genève auprès de Philippe Lambercy. Enseignante dans cette même école de 1965 à 1990, elle développe en parallèle sa pratique personnelle dans trois ateliers collectifs successifs: Jussy, Arare puis Juriens, dans le Jura vaudois. Libérée de l’enseignement, son œuvre gagne en ampleur, s’orientant vers un registre sculptural en grès et porcelaine où l’équilibre fragile entre les formes, le noir et le blanc, le lourd et le léger, devient sa signature.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Membre de l’Académie internationale de céramique. Œuvres dans la collection du Musée Ariana, Genève.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Figure majeure du renouveau de la céramique suisse et de l’émergence de l’École de Genève, Aline Favre se forme à la section céramique de l’École des Arts décoratifs de Genève auprès de Philippe Lambercy. Enseignante dans cette même école de 1965 à 1990, elle développe en parallèle sa pratique personnelle dans trois ateliers collectifs successifs: Jussy, Arare puis Juriens, dans le Jura vaudois. Libérée de l’enseignement, son œuvre gagne en ampleur, s’orientant vers un registre sculptural en grès et porcelaine où l’équilibre fragile entre les formes, le noir et le blanc, le lourd et le léger, devient sa signature.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Membre de l’Académie internationale de céramique. Œuvres dans la collection du Musée Ariana, Genève.</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -527,7 +530,7 @@
       "workflowState": 1,
       "publishOn": 1779955316335,
       "addedOn": 1779955316335,
-      "updatedOn": 1779971606502
+      "updatedOn": 1783434591130
     },
     {
       "id": "6a170479d1176116afcc62f3",
@@ -546,7 +549,7 @@
         "Naissance: 1961",
         "Artiste: Nina Malo"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1961, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille entre Genève et Le Cap, Afrique du Sud</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formée à la HEAD – Genève en bijou et design d’objet, Nina Malo découvre la céramique en 2017 au Cap, où elle séjourne plusieurs mois par an. Elle développe une pratique sculpturale en grès-porcelaine et terre raku, construisant ses pièces au colombin avec une liberté guidée par la main. Jamais émaillées, ses sculptures sont teintées par enfumage, oxydes et substances naturelles, puis polies avec un soin extrême qui leur confère une douceur tactile singulière. Cercle, spirale, ruban de Möbius: ses formes organiques déploient une chorégraphie silencieuse entre tension, équilibre et vide, dans une quête du mouvement infini.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille entre Genève et Le Cap, Afrique du Sud</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formée à la HEAD – Genève en bijou et design d’objet, Nina Malo découvre la céramique en 2017 au Cap, où elle séjourne plusieurs mois par an. Elle développe une pratique sculpturale en grès-porcelaine et terre raku, construisant ses pièces au colombin avec une liberté guidée par la main. Jamais émaillées, ses sculptures sont teintées par enfumage, oxydes et substances naturelles, puis polies avec un soin extrême qui leur confère une douceur tactile singulière. Cercle, spirale, ruban de Möbius: ses formes organiques déploient une chorégraphie silencieuse entre tension, équilibre et vide, dans une quête du mouvement infini.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -562,7 +565,7 @@
       "workflowState": 1,
       "publishOn": 1779896647808,
       "addedOn": 1779896647808,
-      "updatedOn": 1783349478313
+      "updatedOn": 1783434040166
     },
     {
       "id": "6a106f335846c9763631759c",
@@ -649,9 +652,10 @@
       "tags": [
         "Artiste: Xinyi Hu",
         "Origine: Chine",
-        "Origine: France"
+        "Origine: France",
+        "Naissance: 1996"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Saint-Denis, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste visuelle diplômée de la HEAD – Genève (2022), Xinyi Hu développe une pratique mêlant céramique, installation et performance. Son travail explore les relations entre corps et matière à travers des formes évolutives où vulnérabilité et soin sont en jeu. Elle conçoit ses œuvres comme des situations sensibles, où gestes et matières se soutiennent et se transforment.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lauréate d’une bourse de la Fondation Bruckner en 2023</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Saint-Denis, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste visuelle diplômée de la HEAD – Genève (2022), Xinyi Hu développe une pratique mêlant céramique, installation et performance. Son travail explore les relations entre corps et matière à travers des formes évolutives où vulnérabilité et soin sont en jeu. Elle conçoit ses œuvres comme des situations sensibles, où gestes et matières se soutiennent et se transforment.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Lauréate d’une résidence de la Fondation Bruckner en 2023</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -667,7 +671,7 @@
       "workflowState": 1,
       "publishOn": 1779461807895,
       "addedOn": 1779461807895,
-      "updatedOn": 1780845167532
+      "updatedOn": 1783435160859
     },
     {
       "id": "6a106e1e9ddeab5508da40bd",
@@ -685,7 +689,7 @@
         "Artiste: Dita Cossio",
         "Origine: Chili"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Dita Cossio (Bernardita Cossio) (*Chili — année de naissance non disponible) Vit et travaille à Santiago, Chili</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste multidisciplinaire chilienne, Dita Cossio fonde sa pratique sur l’interrelation entre céramique et couture. Après un diplôme en design (Universidad Católica de Chile) et plus d’une décennie en direction artistique, elle se tourne en 2015 vers l’investigation des objets. Elle développe un procédé autodidacte mêlant quilting et coulage de porcelaine dans des moules textiles, explorant comment la souplesse peut façonner la structure. Ses formes hybrides font de la céramique une peau, une archive, un réceptacle.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Prix spécial, Gyeonggi Ceramics Biennale (Corée). Homo Faber (Venise). Révélations (Paris).</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste multidisciplinaire chilienne, Dita (Bernardita) Cossio fonde sa pratique sur l’interrelation entre céramique et couture. Après un diplôme en design (Universidad Católica de Chile) et plus d’une décennie en direction artistique, elle se tourne en 2015 vers l’investigation des objets. Elle développe un procédé autodidacte mêlant quilting et coulage de porcelaine dans des moules textiles, explorant comment la souplesse peut façonner la structure. Ses formes hybrides font de la céramique une peau, une archive, un réceptacle.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Prix spécial, Gyeonggi Ceramics Biennale (Corée). Homo Faber (Venise). Révélations (Paris).</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -701,7 +705,7 @@
       "workflowState": 1,
       "publishOn": 1779461733343,
       "addedOn": 1779461733343,
-      "updatedOn": 1780846056229
+      "updatedOn": 1783434950649
     },
     {
       "id": "6a106dc6550f886bc74b1365",
@@ -720,7 +724,7 @@
         "Naissance: 1986",
         "Origine: France"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1986, Les Sables-d’Olonne, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Paris, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Les sculptures de Raphaël Emine fusionnent modelage traditionnel et impression 3D céramique pour créer des formes complexes inspirées des architectures produites par les vivants. En intégrant parfois végétaux, insectes et bactéries dans ses œuvres, il explore la manière dont nature et création peuvent interagir, au croisement entre architecture utopique, design spéculatif et arts décoratifs.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Paris, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Les sculptures de Raphaël Emine fusionnent modelage traditionnel et impression 3D céramique pour créer des formes complexes inspirées des architectures produites par les vivants. En intégrant parfois végétaux, insectes et bactéries dans ses œuvres, il explore la manière dont nature et création peuvent interagir, au croisement entre architecture utopique, design spéculatif et arts décoratifs.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -736,7 +740,7 @@
       "workflowState": 1,
       "publishOn": 1779461641505,
       "addedOn": 1779461641505,
-      "updatedOn": 1779971023151
+      "updatedOn": 1783434776627
     },
     {
       "id": "6a106d667da356766a5a4eaa",
@@ -755,7 +759,7 @@
         "Artiste: Hélène Loussier",
         "Naissance: 1960"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1960, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille en Baie de Somme, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Née dans une famille de musiciens, Hélène Loussier peint, écrit et dessine depuis l’enfance. Après des études artistiques, des séjours à New York puis à Londres, elle s’installe à Paris où elle expérimente peinture et dessin. Elle découvre la terre, qui devient son outil d’expression quasi unique à partir de 2011. Depuis 2024, son atelier de modelage se trouve en Baie de Somme.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Galeries à Paris, Boulogne-Billancourt, Vaison-la-Romaine, Roubaix, Château-Gontier, La Flotte et Châteauneuf-en-Auxois.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille en Baie de Somme, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Née dans une famille de musiciens, Hélène Loussier peint, écrit et dessine depuis l’enfance. Après des études artistiques, des séjours à New York puis à Londres, elle s’installe à Paris où elle expérimente peinture et dessin. Elle découvre la terre, qui devient son outil d’expression quasi unique à partir de 2011. Depuis 2024, son atelier de modelage se trouve en Baie de Somme.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Galeries à Paris, Boulogne-Billancourt, Vaison-la-Romaine, Roubaix, Château-Gontier, La Flotte et Châteauneuf-en-Auxois.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -771,7 +775,7 @@
       "workflowState": 1,
       "publishOn": 1779461559430,
       "addedOn": 1779461559430,
-      "updatedOn": 1780912569888
+      "updatedOn": 1783434708257
     },
     {
       "id": "6a106d144b886432e77de3b2",
@@ -780,8 +784,8 @@
       "urlId": "anne-breton",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780671323736-YWSBD2609HX4DT5FH2L2/PCC-Anne_Breton.webp",
       "mediaFocalPoint": {
-        "x": 0.5000290646980178,
-        "y": 0.1607217597544529,
+        "x": 0.5335426113242646,
+        "y": 0.2738349920937587,
         "source": 3
       },
       "categories": [],
@@ -790,7 +794,7 @@
         "Origine: France",
         "Naissance: 1977"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1977, Nancy, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Lille, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Après des études d’art et de design enrichies par un parcours dans la vidéo et le textile, Anne Breton se consacre à la céramique. Elle aborde la sculpture par le modelage et déploie un univers onirique et sensible, constitué de pièces abstraites et de personnages en grès. Consacrant du temps à la recherche des matières, elle réalise ses propres émaux et engobes. Fidèle à son parcours pluridisciplinaire, elle intègre parfois d’autres matériaux à ses œuvres, prolongeant le dialogue entre formes et textures.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Lille, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Après des études d’art et de design enrichies par un parcours dans la vidéo et le textile, Anne Breton se consacre à la céramique. Elle aborde la sculpture par le modelage et déploie un univers onirique et sensible, constitué de pièces abstraites et de personnages en grès. Consacrant du temps à la recherche des matières, elle réalise ses propres émaux et engobes. Fidèle à son parcours pluridisciplinaire, elle intègre parfois d’autres matériaux à ses œuvres, prolongeant le dialogue entre formes et textures.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -806,7 +810,7 @@
       "workflowState": 1,
       "publishOn": 1779461471997,
       "addedOn": 1779461471997,
-      "updatedOn": 1780671333786
+      "updatedOn": 1783434667299
     },
     {
       "id": "6a106cb274da2a5979a2b598",
@@ -825,7 +829,7 @@
         "Origine: Pays-Bas",
         "Naissance: 1964"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille aux Pays-Bas.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste céramiste néerlandaise, Marie-Josée Comello obtient son BFA (2009) et son MFA (2010) à la MAD Faculty de Hasselt, Belgique. Après avoir vécu et travaillé en Italie et en Allemagne, elle revient aux Pays-Bas où elle poursuit une pratique sculpturale saluée sur la scène internationale de la céramique contemporaine.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MARTINSONS Gold Award, Biennale internationale de céramique de Lettonie (2016). Audience Prize, Museum De Domijnen (2017). Second Prix, Ceramic Art Andenne (2018). Second Prix, Biennale d’Aveiro (2021). Kikuchi Biennale Tokyo (2025). Membre de l’IAC.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille aux Pays-Bas.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste céramiste néerlandaise, Marie-Josée Comello obtient son BFA (2009) et son MFA (2010) à la MAD Faculty de Hasselt, Belgique. Après avoir vécu et travaillé en Italie et en Allemagne, elle revient aux Pays-Bas où elle poursuit une pratique sculpturale saluée sur la scène internationale de la céramique contemporaine.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>MARTINSONS Gold Award, Biennale internationale de céramique de Lettonie (2016). Audience Prize, Museum De Domijnen (2017). Second Prix, Ceramic Art Andenne (2018). Second Prix, Biennale d’Aveiro (2021). Kikuchi Biennale Tokyo (2025). Membre de l’IAC.</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -841,7 +845,7 @@
       "workflowState": 1,
       "publishOn": 1779461392117,
       "addedOn": 1779461392117,
-      "updatedOn": 1780845006313
+      "updatedOn": 1783434628981
     },
     {
       "id": "6a106c43d80a7b61c613309c",
@@ -876,7 +880,7 @@
       "workflowState": 1,
       "publishOn": 1779461274966,
       "addedOn": 1779461274966,
-      "updatedOn": 1780912155702
+      "updatedOn": 1783434457354
     },
     {
       "id": "6a106a55c50c8753fe763f4b",
@@ -930,7 +934,7 @@
         "Naissance: 1983",
         "Artiste: Laure Gonthier"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1983, Morges, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à la Vallée de Joux, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée d’un Master of Arts in Public Spheres (EDHEA, Sierre, 2023), formée au CERCCO (HEAD) et à l’école des arts appliqués de Vevey, Laure Gonthier séjourne régulièrement en Chine pour affiner ses connaissances techniques et tisser des liens entre tradition et art contemporain. Ses recherches portent sur les relations entre imaginaire, transformation du matériau, mémoire et vivant. Elle développe une pratique qui oscille entre l’atelier et des projets expérimentaux, inscrite dans une recherche poétique du lien entre humain et paysage.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Prix de la relève Pro Helvetia. Soutien de la Fondation Ikea. Membre fondatrice de L-imprimerie (Lausanne) et du collectif LACS.</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à la Vallée de Joux, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée d’un Master of Arts in Public Spheres (EDHEA, Sierre, 2023), formée au CERCCO (HEAD) et à l’école des arts appliqués de Vevey, Laure Gonthier séjourne régulièrement en Chine pour affiner ses connaissances techniques et tisser des liens entre tradition et art contemporain. Ses recherches portent sur les relations entre imaginaire, transformation du matériau, mémoire et vivant. Elle développe une pratique qui oscille entre l’atelier et des projets expérimentaux, inscrite dans une recherche poétique du lien entre humain et paysage.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Prix de la relève Pro Helvetia. Soutien de la Fondation Ikea. Membre fondatrice de L-imprimerie (Lausanne) et du collectif LACS.</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -946,7 +950,7 @@
       "workflowState": 1,
       "publishOn": 1779460193219,
       "addedOn": 1779460193219,
-      "updatedOn": 1783349725159
+      "updatedOn": 1783434148105
     },
     {
       "id": "6a1067732e380559ef93166b",
@@ -965,7 +969,7 @@
         "Artiste: Capucine Pageron",
         "Naissance: 1995"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1995, Lille, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Nantes, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Dessinatrice et ancienne designeuse d’espace diplômée de l’école Boulle (2017), Capucine Pageron trouve dans la céramique le lien entre son travail de l’espace et du dessin. Formée à la Maison de la Céramique de Dieulefit (2021), elle développe un univers empreint de son identité graphique, que celui-ci soit modelé ou appliqué comme décor. Dans son atelier nantais, elle modèle en grès et en porcelaine des objets entre utilitaire et sculptural.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Lauréate d’une résidence de soutien de la Fondation Bruckner en 2024</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Nantes, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Dessinatrice et ancienne designeuse d’espace diplômée de l’école Boulle (2017), Capucine Pageron trouve dans la céramique le lien entre son travail de l’espace et du dessin. Formée à la Maison de la Céramique de Dieulefit (2021), elle développe un univers empreint de son identité graphique, que celui-ci soit modelé ou appliqué comme décor. Dans son atelier nantais, elle modèle en grès et en porcelaine des objets entre utilitaire et sculptural.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Lauréate d’une résidence de soutien de la Fondation Bruckner en 2024</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -981,7 +985,7 @@
       "workflowState": 1,
       "publishOn": 1779460053352,
       "addedOn": 1779460053352,
-      "updatedOn": 1783349672021
+      "updatedOn": 1783434118346
     },
     {
       "id": "6a1066e3aa76a10d73cefca9",
@@ -994,12 +998,13 @@
         "y": 0.351206808352323,
         "source": 3
       },
+      "categories": [],
       "tags": [
         "Origine: France",
         "Naissance: 1990",
         "Artiste: Amélie Patry"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1990, Angers, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Denée, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Amélie Patry arpente les chemins noirs où elle collecte terres, roches et végétaux. De ces fragments naissent bols et vases qui relient la matière, le corps et les paysages. Dans son atelier, le minéral fusionne au four en une géologie sensible. Ses pièces modelées, libres et spontanées, révèlent des harmonies brutes, douces et vibrantes, nourries par une intimité profonde avec le territoire ligérien.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Denée, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Amélie Patry arpente les chemins noirs où elle collecte terres, roches et végétaux. De ces fragments naissent bols et vases qui relient la matière, le corps et les paysages. Dans son atelier, le minéral fusionne au four en une géologie sensible. Ses pièces modelées, libres et spontanées, révèlent des harmonies brutes, douces et vibrantes, nourries par une intimité profonde avec le territoire ligérien.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1015,7 +1020,7 @@
       "workflowState": 1,
       "publishOn": 1779459897922,
       "addedOn": 1779459897922,
-      "updatedOn": 1779459955885
+      "updatedOn": 1783434096404
     },
     {
       "id": "6a1065915beeb215a59f338b",
@@ -1034,7 +1039,7 @@
         "Origine: Suisse",
         "Naissance: 1945"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1945, Genève, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Carouge, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Céramiste et figure emblématique de la scène carougeoise, Marianne Brand consacre sa vie à l’art de la terre et à sa promotion. Après un diplôme de laborantine, elle se tourne vers la céramique et installe son atelier à Carouge dès 1969. Elle participe à des expositions internationales et remporte plusieurs distinctions. Actrice majeure de la promotion céramique, elle ouvre sa galerie d’art en 1986, initie le Parcours Céramique Carougeois trois ans plus tard et l’organise jusqu’en 2007.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Carouge, Suisse.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Céramiste et figure emblématique de la scène carougeoise, Marianne Brand consacre sa vie à l’art de la terre et à sa promotion. Après un diplôme de laborantine, elle se tourne vers la céramique et installe son atelier à Carouge dès 1969. Elle participe à des expositions internationales et remporte plusieurs distinctions. Actrice majeure de la promotion céramique, elle ouvre sa galerie d’art en 1986, initie le Parcours Céramique Carougeois trois ans plus tard et l’organise jusqu’en 2007.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1050,7 +1055,7 @@
       "workflowState": 1,
       "publishOn": 1779459589266,
       "addedOn": 1779459589266,
-      "updatedOn": 1783349529967
+      "updatedOn": 1783434065382
     },
     {
       "id": "6a1064db5cd9802582747cd6",
@@ -1070,7 +1075,7 @@
         "Naissance: 1988",
         "Artiste: Asya Marakulina"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1988, Perm, Russie</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Vienne, Autriche</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste multidisciplinaire, Asya Marakulina travaille la céramique, le dessin, le textile, la sculpture et l’installation. Au cours des deux dernières années, elle s’est concentrée sur la céramique pour explorer ce que signifie être humain dans un paysage urbain en mutation et contradictoire. Elle envisage la ville comme un organisme vivant dans lequel se reflètent les transformations politiques, sociales et artistiques d’une époque.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Credit Suisse Award for Young Artists, Cosmoscow (2018). Prix spécial de l’Institut Français, Sergey Kuryokhin Award (2019). Ceramic Brussels Art Fair Prize (2025). Membre d’IG Bildende Kunst, Autriche.</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Vienne, Autriche</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste multidisciplinaire, Asya Marakulina travaille la céramique, le dessin, le textile, la sculpture et l’installation. Au cours des deux dernières années, elle s’est concentrée sur la céramique pour explorer ce que signifie être humain dans un paysage urbain en mutation et contradictoire. Elle envisage la ville comme un organisme vivant dans lequel se reflètent les transformations politiques, sociales et artistiques d’une époque.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Credit Suisse Award for Young Artists, Cosmoscow (2018). Prix spécial de l’Institut Français, Sergey Kuryokhin Award (2019). Ceramic Brussels Art Fair Prize (2025). Membre d’IG Bildende Kunst, Autriche.</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1086,7 +1091,7 @@
       "workflowState": 1,
       "publishOn": 1779459417741,
       "addedOn": 1779459417741,
-      "updatedOn": 1783349397328
+      "updatedOn": 1783433979654
     },
     {
       "id": "6a1063f6e01b4a4d056068c8",
@@ -1101,12 +1106,11 @@
       },
       "categories": [],
       "tags": [
-        "Origine: Italie",
         "Naissance: 1995",
         "Artiste: Ninon Hivert",
         "Origine: France"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1995</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille entre Paris et Montpellier, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ninon Hivert réalise des sculptures en céramique à partir d’objets du quotidien — doudounes, casquettes, chaussures, sacs à dos, extincteurs — non pour les reproduire à l’identique, mais pour leur accorder une âme au-delà de leur usage. Ce ne sont pas des répliques: ce sont des vestiges archéologiques de notre temps qui convoquent les êtres qui les ont portés. En les sculptant dans l’argile, elle leur transfère une sensibilité, une fragilité qui nous renvoie à nos origines et à notre propre finitude.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Diplômée de l’ESBA Montpellier (2017) et de l’ENSBA Paris (2021). Lauréate du Ceramic Brussels Art Prize 2026 (Prix du Centre Wallonie-Bruxelles, Prix Monographie de l’ambassade de France, Prix résidence CCCA Yixing). Finaliste du Prix Carré sur Seine (2024). Lauréate du Prix Galerie C14 (2025).</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille entre Paris et Montpellier, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ninon Hivert réalise des sculptures en céramique à partir d’objets du quotidien — doudounes, casquettes, chaussures, sacs à dos, extincteurs — non pour les reproduire à l’identique, mais pour leur accorder une âme au-delà de leur usage. Ce ne sont pas des répliques: ce sont des vestiges archéologiques de notre temps qui convoquent les êtres qui les ont portés. En les sculptant dans l’argile, elle leur transfère une sensibilité, une fragilité qui nous renvoie à nos origines et à notre propre finitude.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Diplômée de l’ESBA Montpellier (2017) et de l’ENSBA Paris (2021). Lauréate du Ceramic Brussels Art Prize 2026 (Prix du Centre Wallonie-Bruxelles, Prix Monographie de l’ambassade de France, Prix résidence CCCA Yixing). Finaliste du Prix Carré sur Seine (2024). Lauréate du Prix Galerie C14 (2025).</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1122,7 +1126,7 @@
       "workflowState": 1,
       "publishOn": 1779459187658,
       "addedOn": 1779459187658,
-      "updatedOn": 1783349360393
+      "updatedOn": 1783434007567
     },
     {
       "id": "6a105eeef3f2ba431350c5a0",
@@ -1141,7 +1145,7 @@
         "Origine: Suisse",
         "Origine: Italie"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*Bolzano, Italie</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Zurich, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Designer et artiste multidisciplinaire formée en architecture à Innsbruck, Natascha Madeiski travaille à la frontière entre objets expérimentaux et fonctionnels. Sa pratique explore la recherche sur les matériaux, transformant rebuts industriels et matières non conventionnelles par des techniques artisanales guidées par le processus. Entre sculpture et design, elle crée des pièces uniques aux côtés d’objets plus fonctionnels, s’ouvrant aussi à des contextes d’art public.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Zurich, Suisse</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Designer et artiste multidisciplinaire formée en architecture à Innsbruck, Natascha Madeiski travaille à la frontière entre objets expérimentaux et fonctionnels. Sa pratique explore la recherche sur les matériaux, transformant rebuts industriels et matières non conventionnelles par des techniques artisanales guidées par le processus. Entre sculpture et design, elle crée des pièces uniques aux côtés d’objets plus fonctionnels, s’ouvrant aussi à des contextes d’art public.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1157,7 +1161,7 @@
       "workflowState": 1,
       "publishOn": 1779458079783,
       "addedOn": 1779458079783,
-      "updatedOn": 1780670797376
+      "updatedOn": 1783433859853
     },
     {
       "id": "6a0eb134d4fa6d498a000eb7",
@@ -1177,7 +1181,7 @@
         "Origine: Belgique",
         "Naissance: 1993"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1993, Paris, France)<br><br>Vit et travaille à Bruxelles, Belgique</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée en céramique de l’ENSAV La Cambre à Bruxelles (2018), Léonie Chauchat allie pratique sculpturale et savoir-faire potier. Grâce à sa maîtrise du moulage, du tournage et du modelage, elle explore les analogies entre les contenants-refuges qui l’entourent: le pot, le corps, la maison. Ses pièces interrogent ce qui abrite, contient et protège, dans un dialogue constant entre forme utilitaire et geste sculptural.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Bruxelles, Belgique</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée en céramique de l’ENSAV La Cambre à Bruxelles (2018), Léonie Chauchat allie pratique sculpturale et savoir-faire potier. Grâce à sa maîtrise du moulage, du tournage et du modelage, elle explore les analogies entre les contenants-refuges qui l’entourent: le pot, le corps, la maison. Ses pièces interrogent ce qui abrite, contient et protège, dans un dialogue constant entre forme utilitaire et geste sculptural.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1193,7 +1197,7 @@
       "workflowState": 1,
       "publishOn": 1779347816070,
       "addedOn": 1779347816070,
-      "updatedOn": 1783349158467
+      "updatedOn": 1783433894315
     },
     {
       "id": "6a0db573cb76e605dd279659",
@@ -1212,7 +1216,7 @@
         "Origine: Maroc",
         "Naissance: 1984"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1984, Casablanca, Maroc</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Paris, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formée à l’École Duperré, Linda Ouhbi façonne des pièces en grès selon la technique ancestrale du colombin. Ce procédé lent fait naître des formes uniques à l’équilibre fragile, empreintes d’une qualité émotionnelle propre. Elle poursuit une recherche exigeante sur les émaux de grès, explorant les effets de la matière cuite et de la lumière à partir de matières premières naturelles. Inspirée par les créations de civilisations anciennes, elle inscrit son travail minimaliste entre objet d’art et sculpture, dans la continuité d’un langage universel.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lauréate du Prix Visa Kyoto (2018). Résidence artistique au Japon: expositions au Tokyo Metropolitan Art Museum et à Kyoto. Représentée dans des galeries aux États-Unis, au Danemark, au Royaume-Uni et en France.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Paris, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formée à l’École Duperré, Linda Ouhbi façonne des pièces en grès selon la technique ancestrale du colombin. Ce procédé lent fait naître des formes uniques à l’équilibre fragile, empreintes d’une qualité émotionnelle propre. Elle poursuit une recherche exigeante sur les émaux de grès, explorant les effets de la matière cuite et de la lumière à partir de matières premières naturelles. Inspirée par les créations de civilisations anciennes, elle inscrit son travail minimaliste entre objet d’art et sculpture, dans la continuité d’un langage universel.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Lauréate du Prix Visa Kyoto (2018). Résidence artistique au Japon: expositions au Tokyo Metropolitan Art Museum et à Kyoto. Représentée dans des galeries aux États-Unis, au Danemark, au Royaume-Uni et en France.</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1228,7 +1232,7 @@
       "workflowState": 1,
       "publishOn": 1779283382558,
       "addedOn": 1779283382558,
-      "updatedOn": 1779959748848
+      "updatedOn": 1783434744468
     },
     {
       "id": "6a0dabf056e3da031ce1f1de",
@@ -1247,7 +1251,7 @@
         "Artiste: Louis Danjou",
         "Naissance: 1984"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1984</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille en région parisienne, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste pluridisciplinaire formé aux arts appliqués à l’Institut Saint-Luc de Tournai (Belgique), Louis Danjou embrasse sculpture, performance, art culinaire, peinture, céramique et bijouterie. Sa démarche repose sur la porosité entre les disciplines: la bijouterie informe la sculpture dans son rapport au corps, la céramique dialogue avec la cuisine dans l’apprivoisement de la matière par le feu. Membre fondateur des Ateliers Wonder, il y occupe une place de cuisinier, médiateur et créateur de lien, faisant du repas partagé un espace de sculpture sociale. La collaboration est au cœur de sa pratique, aux côtés de plasticiens, musiciens et performeurs.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Expositions et performances: Palais de Tokyo (2025), FRAC Île-de-France (2018), HEAD – Genève, Rome, Brême, Bruxelles. Workshop Sauvage Cuisine, HEAD – Genève (2025).</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille en région parisienne, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste pluridisciplinaire formé aux arts appliqués à l’Institut Saint-Luc de Tournai (Belgique), Louis Danjou embrasse sculpture, performance, art culinaire, peinture, céramique et bijouterie. Sa démarche repose sur la porosité entre les disciplines: la bijouterie informe la sculpture dans son rapport au corps, la céramique dialogue avec la cuisine dans l’apprivoisement de la matière par le feu. Membre fondateur des Ateliers Wonder, il y occupe une place de cuisinier, médiateur et créateur de lien, faisant du repas partagé un espace de sculpture sociale. La collaboration est au cœur de sa pratique, aux côtés de plasticiens, musiciens et performeurs.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Expositions et performances: Palais de Tokyo (2025), FRAC Île-de-France (2018), HEAD – Genève, Rome, Brême, Bruxelles. Workshop Sauvage Cuisine, HEAD – Genève (2025).</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1263,7 +1267,7 @@
       "workflowState": 1,
       "publishOn": 1779280924545,
       "addedOn": 1779280924545,
-      "updatedOn": 1783349848359
+      "updatedOn": 1783434193098
     },
     {
       "id": "6a0da1a4a6142b4e8c57eec9",
@@ -1282,7 +1286,7 @@
         "Origine: France",
         "Naissance: 1996"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">*1996, Clermont-Ferrand, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Saint-Fons, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée d’un DNSEP art mention céramique de l’École Nationale Supérieure d’Art et de Design de Limoges (2021), Marie Pic est artiste céramiste et résidente des ateliers du CAP Saint-Fons depuis juin 2024. Sa pratique explore les notions de passage et de seuil, à travers des formes sculpturales mêlant architecture, symétries bourgeonnantes et représentations végétales.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Lauréate du Ceramic Brussels Art Prize 2026. Résidence au YXCCCA (Chine). Expositions: La Peau de l’Ours (Bruxelles), BAM Projects (Bordeaux).</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Saint-Fons, France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômée d’un DNSEP art mention céramique de l’École Nationale Supérieure d’Art et de Design de Limoges (2021), Marie Pic est artiste céramiste et résidente des ateliers du CAP Saint-Fons depuis juin 2024. Sa pratique explore les notions de passage et de seuil, à travers des formes sculpturales mêlant architecture, symétries bourgeonnantes et représentations végétales.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Lauréate du Ceramic Brussels Art Prize 2026. Résidence au YXCCCA (Chine). Expositions: La Peau de l’Ours (Bruxelles), BAM Projects (Bordeaux).</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1298,7 +1302,7 @@
       "workflowState": 1,
       "publishOn": 1779278298590,
       "addedOn": 1779278298590,
-      "updatedOn": 1783350485464
+      "updatedOn": 1783434399705
     },
     {
       "id": "69fde7da1f3bca474c51b0d5",
