@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/programme-2026?format=json",
-  "updatedAt": "2026-07-08T06:15:14.730Z",
-  "sourceHash": "4f80d2adb8a98f509f9df969d3654eef6a81f352539294d7ff961aa9dc32c960",
+  "updatedAt": "2026-07-08T08:46:25.831Z",
+  "sourceHash": "f5d384a6d332226f7c2379d5901432e35d8bcabae30ca4f4b775f86b12831715",
   "count": 50,
   "pages": 3,
   "items": [
@@ -1916,10 +1916,10 @@
       "title": "Elsewhere Begins Here",
       "fullUrl": "/programme-2026/expositions/29/elsewhere-begins-here-the-poetics-of-the-in-between",
       "urlId": "expositions/29/elsewhere-begins-here-the-poetics-of-the-in-between",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/41e51fae-5f6d-410a-ae66-9e540c45d3e9/PCC_2026-29-Espace_L-Elsewhere_Begins_Here-001.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/4e100eb3-13b1-4b70-b470-9e20ee9d710b/PCC_2026-28-Espace_L-Elsewhere_Begins_Here-002.webp",
       "mediaFocalPoint": {
-        "x": 0.5000290646980178,
-        "y": 0.8631353764590988,
+        "x": 0.5159128978224455,
+        "y": 0.732210957120268,
         "source": 3
       },
       "categories": [
@@ -1952,7 +1952,7 @@
       "workflowState": 1,
       "publishOn": 1787385622450,
       "addedOn": 1787385622450,
-      "updatedOn": 1781595687085
+      "updatedOn": 1783496386523
     },
     {
       "id": "69f88f8f5a3a3b38b7c32bab",

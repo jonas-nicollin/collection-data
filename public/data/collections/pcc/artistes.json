@@ -5,8 +5,8 @@
   "id": "artistes",
   "path": "/artistes",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/artistes?format=json",
-  "updatedAt": "2026-07-08T06:15:15.242Z",
-  "sourceHash": "8064ba402da666c858f89c978af180de6db1d8580a88186bbd9769c26bd59d83",
+  "updatedAt": "2026-07-08T08:46:26.244Z",
+  "sourceHash": "d11e949c825636ea0b58ebc0f94e1dd83a202db36f758b0ea109d1d292e4506f",
   "count": 39,
   "pages": 2,
   "items": [
@@ -49,10 +49,10 @@
       "title": "Vivianne van Singer",
       "fullUrl": "/artistes/vivianne-van-singer",
       "urlId": "vivianne-van-singer",
-      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc553f8f3ce46ee330641/1783443348887/",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783496313284-C6DQT7VI5ZEC5EJUY6MC/PCC_2026-28-Espace_L-Elsewhere_Begins_Here-Viviane_van_Singer-027.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.6875,
+        "y": 0.36309523809523814,
         "source": 3
       },
       "categories": [],
@@ -77,17 +77,17 @@
       "workflowState": 1,
       "publishOn": 1780467051017,
       "addedOn": 1780467051017,
-      "updatedOn": 1783443348887
+      "updatedOn": 1783496525541
     },
     {
       "id": "6a1fc51b2e73892294577b65",
       "title": "Fernando de la Rocque",
       "fullUrl": "/artistes/fernando-de-la-rocque",
       "urlId": "fernando-de-la-rocque",
-      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc51b2e73892294577b65/1783443374085/",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783496324639-TFI0ZE60LUHEYXS7FJ11/PCC_2026-28-Espace_L-Elsewhere_Begins_Here-Fernando_de_la_Roque-022.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.4955357142857143,
+        "y": 0.16666666666666663,
         "source": 3
       },
       "categories": [],
@@ -111,7 +111,7 @@
       "workflowState": 1,
       "publishOn": 1780466987930,
       "addedOn": 1780466987930,
-      "updatedOn": 1783443374085
+      "updatedOn": 1783496535592
     },
     {
       "id": "6a1fc3a7f8f3ce46ee328660",
