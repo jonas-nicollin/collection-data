@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/programme-2026?format=json",
-  "updatedAt": "2026-07-08T10:51:11.967Z",
-  "sourceHash": "f5d384a6d332226f7c2379d5901432e35d8bcabae30ca4f4b775f86b12831715",
+  "updatedAt": "2026-07-08T12:18:20.857Z",
+  "sourceHash": "b6acb1952ff37ba354161fc76e5ea446106f9ea134245a4a32ffcdd4cfd5e6a3",
   "count": 50,
   "pages": 3,
   "items": [
@@ -1693,7 +1693,8 @@
         "Lieu: Art Résonance",
         "Numéro: 24",
         "Artiste: Xinyi Hu",
-        "Zone: Genève"
+        "Zone: Genève",
+        "Vernissage: 2026-09-16T16:00"
       ],
       "excerpt": "",
       "location": {
@@ -1711,7 +1712,7 @@
       "workflowState": 1,
       "publishOn": 1787904008551,
       "addedOn": 1787904008551,
-      "updatedOn": 1783074940247
+      "updatedOn": 1783511929804
     },
     {
       "id": "69f88c69a44f9a2979822283",
