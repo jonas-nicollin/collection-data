@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-07-07T15:31:56.938Z",
-  "sourceHash": "5b6dcbba2f77b9d68f971596d23397f4a02dc29d196ef244389c0c8e14b784b5",
+  "updatedAt": "2026-07-08T13:11:15.941Z",
+  "sourceHash": "b6bd78e651b7cda933f8501cabcd4346e0215224a084b46294ad715e73058a7f",
   "count": 31,
   "items": [
     {
@@ -650,11 +650,11 @@
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/4a05a147-c556-45af-8665-59baed2b4237/PCC_Musee-de-Carouge.webp",
       "imagePosition": "",
-      "lundi": "14h-18h",
-      "mardi": "14h-18h",
-      "mercredi": "14h-18h",
-      "jeudi": "14h-18h",
-      "vendredi": "14h-18h",
+      "lundi": "14h–18h",
+      "mardi": "14h–18h",
+      "mercredi": "14h–18h",
+      "jeudi": "14h–18h",
+      "vendredi": "14h–18h",
       "samedi": "11h–18h",
       "dimanche": "11h–18h"
     },
@@ -774,13 +774,13 @@
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/b4b6ea6c-12c9-4569-bfac-b508f7269c2a/PCC_Art_Resonance.webp",
       "imagePosition": "",
-      "lundi": "14h-17h",
-      "mardi": "14h-17h",
-      "mercredi": "14h-17h",
-      "jeudi": "14h-17h",
-      "vendredi": "14h-17h",
-      "samedi": "11h-17h*",
-      "dimanche": "11h-17h"
+      "lundi": "-",
+      "mardi": "sur rdv",
+      "mercredi": "sur rdv",
+      "jeudi": "14h–18h",
+      "vendredi": "sur rdv",
+      "samedi": "11h–18h",
+      "dimanche": "12h–16h"
     },
     {
       "slug": "musee-ariana",
@@ -806,12 +806,12 @@
       "image": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/03b5fe35-9d54-45c1-a6cc-c4e69eba8f68/Musee_Ariana_1_Geneve.webp",
       "imagePosition": "",
       "lundi": "-",
-      "mardi": "11h-17h",
-      "mercredi": "11h-17h",
-      "jeudi": "11h-17h",
-      "vendredi": "11h-17h",
-      "samedi": "11h-17h",
-      "dimanche": "11h-17h"
+      "mardi": "11h–17h",
+      "mercredi": "11h–17h",
+      "jeudi": "11h–17h",
+      "vendredi": "11h–17h",
+      "samedi": "11h–17h",
+      "dimanche": "11h–17h"
     },
     {
       "slug": "espace-labo",
@@ -837,12 +837,12 @@
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/40778980-64a8-439f-8dd7-c4dda6b050a7/PCC_Espace_Labo.webp",
       "imagePosition": "",
       "lundi": "-",
-      "mardi": "11h-19h",
-      "mercredi": "11h-19h",
-      "jeudi": "11h-19h",
-      "vendredi": "11h-19h",
-      "samedi": "13h-17h",
-      "dimanche": "13h-17h"
+      "mardi": "11h–19h",
+      "mercredi": "11h–19h",
+      "jeudi": "11h–19h",
+      "vendredi": "11h–19h",
+      "samedi": "13h–17h",
+      "dimanche": "13h–17h"
     },
     {
       "slug": "galerie-ligne-treize",
@@ -868,11 +868,11 @@
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/7525b960-97e2-4b54-85a4-006de62279ee/PCC_Galerie_Ligne_Treize.webp",
       "imagePosition": "",
       "lundi": "-",
-      "mardi": "11h-18h",
-      "mercredi": "11h-18h",
-      "jeudi": "11h-18h",
-      "vendredi": "11h-18h",
-      "samedi": "11h-17h",
+      "mardi": "11h–18h",
+      "mercredi": "11h–18h",
+      "jeudi": "11h–18h",
+      "vendredi": "11h–18h",
+      "samedi": "11h–17h",
       "dimanche": "-"
     },
     {
@@ -929,13 +929,13 @@
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/ba412923-755c-4199-9fc9-d8f4678ac2e9/PCC_Taste_Contemporary.webp",
       "imagePosition": "",
-      "lundi": "-",
-      "mardi": "-",
+      "lundi": "11h–18h",
+      "mardi": "11h–18h",
       "mercredi": "-",
-      "jeudi": "-",
-      "vendredi": "-",
-      "samedi": "-",
-      "dimanche": "-"
+      "jeudi": "11h–18h",
+      "vendredi": "11h–18h",
+      "samedi": "12h–18h",
+      "dimanche": "12h–17h"
     },
     {
       "slug": "olizane-espace-d-art-contemporain",
