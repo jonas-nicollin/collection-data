@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-07-08T20:47:31.580Z",
-  "sourceHash": "9db228a638cd0ab20216101bea35edcdb268243bdcb778a9df11f21e161fceca",
+  "updatedAt": "2026-07-08T21:52:48.759Z",
+  "sourceHash": "0513bab927e7b644c81818a4ff06ae51a28b435a5a4ceb1941945b1a1766440d",
   "count": 80,
   "pages": 1,
   "items": [
@@ -2100,20 +2100,20 @@
       "excerpt": null,
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.1983622,
-        "mapLng": 6.1506773,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
+        "mapLat": 46.199284,
+        "mapLng": 6.1515081,
+        "markerLat": 46.199284,
+        "markerLng": 6.1515081,
         "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
-        "addressLine1": "Promenade du Pin 5",
-        "addressLine2": "1204 Genève",
+        "addressLine1": "Rue Charles-Galland 2",
+        "addressLine2": "1206 Genève",
         "addressCountry": "Suisse"
       },
       "displayIndex": 61,
       "workflowState": 1,
       "publishOn": 1745193600297,
       "addedOn": 1745193600297,
-      "updatedOn": 1782216018518
+      "updatedOn": 1783546021189
     },
     {
       "id": "68248796cdfab25869f2b3b5",
