@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-07-08T13:11:15.941Z",
-  "sourceHash": "b6bd78e651b7cda933f8501cabcd4346e0215224a084b46294ad715e73058a7f",
+  "updatedAt": "2026-07-08T15:52:01.268Z",
+  "sourceHash": "3647446ca000685a965cce6cbc9655568618ac9d44ad97f44bd876fc6fe0d558",
   "count": 31,
   "items": [
     {
@@ -931,10 +931,10 @@
       "imagePosition": "",
       "lundi": "11h–18h",
       "mardi": "11h–18h",
-      "mercredi": "-",
+      "mercredi": "11h-18h",
       "jeudi": "11h–18h",
       "vendredi": "11h–18h",
-      "samedi": "12h–18h",
+      "samedi": "12h-17h",
       "dimanche": "12h–17h"
     },
     {
