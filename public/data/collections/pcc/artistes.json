@@ -5,9 +5,9 @@
   "id": "artistes",
   "path": "/artistes",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/artistes?format=json",
-  "updatedAt": "2026-07-08T12:18:21.277Z",
-  "sourceHash": "d11e949c825636ea0b58ebc0f94e1dd83a202db36f758b0ea109d1d292e4506f",
-  "count": 39,
+  "updatedAt": "2026-07-08T16:22:35.746Z",
+  "sourceHash": "67277eea96ea410da2fefa343a88d2089b7f5e5d472d5eed7305fcfc873b9262",
+  "count": 38,
   "pages": 2,
   "items": [
     {
@@ -15,7 +15,7 @@
       "title": "Vasilis Zografos",
       "fullUrl": "/artistes/vasilis-zografos",
       "urlId": "vasilis-zografos",
-      "assetUrl": "https://static1.squarespace.com/static/696a2a1f2271cc548a020832/69fb353a191a2915b3f7e85b/6a1fc5a0259be70f07b0e5c3/1783443313476/",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783496318808-YNUDFBQR3MFAC403VVWV/PCC_2026-28-Espace_L-Elsewhere_Begins_Here-Vasilis_Zografos-012.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -42,7 +42,7 @@
       "workflowState": 1,
       "publishOn": 1780467118247,
       "addedOn": 1780467118247,
-      "updatedOn": 1783443313476
+      "updatedOn": 1783513959666
     },
     {
       "id": "6a1fc553f8f3ce46ee330641",
@@ -77,7 +77,7 @@
       "workflowState": 1,
       "publishOn": 1780467051017,
       "addedOn": 1780467051017,
-      "updatedOn": 1783496525541
+      "updatedOn": 1783513973010
     },
     {
       "id": "6a1fc51b2e73892294577b65",
@@ -653,7 +653,6 @@
       "tags": [
         "Artiste: Xinyi Hu",
         "Origine: Chine",
-        "Origine: France",
         "Naissance: 1996"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Saint-Denis, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste visuelle diplômée de la HEAD – Genève (2022), Xinyi Hu développe une pratique mêlant céramique, installation et performance. Son travail explore les relations entre corps et matière à travers des formes évolutives où vulnérabilité et soin sont en jeu. Elle conçoit ses œuvres comme des situations sensibles, où gestes et matières se soutiennent et se transforment.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Lauréate d’une résidence de la Fondation Bruckner en 2023</em></p>",
@@ -672,7 +671,7 @@
       "workflowState": 1,
       "publishOn": 1779461807895,
       "addedOn": 1779461807895,
-      "updatedOn": 1783435160859
+      "updatedOn": 1783513911008
     },
     {
       "id": "6a106e1e9ddeab5508da40bd",
@@ -1340,40 +1339,6 @@
       "publishOn": 1778248004298,
       "addedOn": 1778248004298,
       "updatedOn": 1783427047911
-    },
-    {
-      "id": "69fb353a191a2915b3f7e85c",
-      "title": "Theaster Gates",
-      "fullUrl": "/artistes/Blog Post Title One-3zaa9-zlxng-67tfc-a4hyr",
-      "urlId": "Blog Post Title One-3zaa9-zlxng-67tfc-a4hyr",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778072521559-NQEYZ2FBGWVZ97E9UP1F/Placeholder-Theaster_Gates-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5039643211100099,
-        "y": 0.16667441752313628,
-        "source": 3
-      },
-      "tags": [
-        "Origine: Royaume-Uni",
-        "Artiste: Theaster Gates",
-        "Naissance: 1973"
-      ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Chicago.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Evelliquo dolumque molutem poribus aute volorem volupit hici dia aupti dus, od maio. Ipsandio. Liti temquis verchil mod que necaeperibus nimperis volesti beruptaque que labo. Ximaximus iunt doloratem laborum ne et venis atempor ruptas sumquis sit hiligenita soluptatus vero quas et eaquibus nonsequodi non corum quam quo et liquunt eaquo quiatque doles aut accaeruntur aut eos doluptum quunt volore reperib ernat.</p>",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "displayIndex": 24,
-      "workflowState": 1,
-      "publishOn": 1559056390536,
-      "addedOn": 1559056390536,
-      "updatedOn": 1778247642906
     }
   ]
 }

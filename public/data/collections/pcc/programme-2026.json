@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/programme-2026?format=json",
-  "updatedAt": "2026-07-08T12:18:20.857Z",
-  "sourceHash": "b6acb1952ff37ba354161fc76e5ea446106f9ea134245a4a32ffcdd4cfd5e6a3",
-  "count": 50,
+  "updatedAt": "2026-07-08T16:22:35.177Z",
+  "sourceHash": "a8a60c605e1176f23959b88b1b847638f398d091c63bf00fa89789e1e9f78a06",
+  "count": 51,
   "pages": 3,
   "items": [
     {
@@ -83,7 +83,7 @@
       "workflowState": 1,
       "publishOn": 1790501442273,
       "addedOn": 1790501442273,
-      "updatedOn": 1783431356370
+      "updatedOn": 1783517222829
     },
     {
       "id": "6a24364855f0b80a8ab06d62",
@@ -400,7 +400,7 @@
       "workflowState": 1,
       "publishOn": 1789909201439,
       "addedOn": 1789909201439,
-      "updatedOn": 1783431671440
+      "updatedOn": 1783526037596
     },
     {
       "id": "6a205eb75e398664ac1fb676",
@@ -554,7 +554,7 @@
       "workflowState": 1,
       "publishOn": 1789894842278,
       "addedOn": 1789894842278,
-      "updatedOn": 1780751046663
+      "updatedOn": 1783526028309
     },
     {
       "id": "6a2124434d7a6d31914f8843",
@@ -2000,8 +2000,8 @@
     {
       "id": "69f890182a65a5690a23ce4e",
       "title": "Jan Steemann",
-      "fullUrl": "/programme-2026/expositions/31/jan-steemann",
-      "urlId": "expositions/31/jan-steemann",
+      "fullUrl": "/programme-2026/expositions/30/jan-steemann",
+      "urlId": "expositions/30/jan-steemann",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778072250564-9PSLK3SAVEMUQNZYDOVB/PCC_2026-030-Olizane-Jan_Steemann-011.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -2026,7 +2026,7 @@
         "mapLng": 6.137841600000001,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "Espace Olizane",
+        "addressTitle": "Olizane – Espace d&#39;art contemporain",
         "addressLine1": "11 Rue des Vieux-Grenadiers",
         "addressLine2": "Genève, GE, 1205",
         "addressCountry": "Switzerland"
@@ -2035,7 +2035,46 @@
       "workflowState": 1,
       "publishOn": 1787212847118,
       "addedOn": 1787212847118,
-      "updatedOn": 1781593990186
+      "updatedOn": 1783517189306
+    },
+    {
+      "id": "6a4e50353c148a62264fc303",
+      "title": "Visite commentée ",
+      "fullUrl": "/programme-2026/viste-commentee-mutualisme-jan-steenmann",
+      "urlId": "viste-commentee-mutualisme-jan-steenmann",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778072254738-15N8Q8U1132HEZJ91CLJ/PCC_2026-030-Olizane-Jan_Steemann-006.webp",
+      "mediaFocalPoint": {
+        "x": 0.6696428571428571,
+        "y": 0.6785714285714286,
+        "source": 3
+      },
+      "categories": [
+        "Visite commentée"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Artiste: Dita Cossio",
+        "Zone: Genève",
+        "Date: 2026-09-24T18:00",
+        "Lieu: Olizane – Espace d’art contemporain",
+        "Artiste: Jan Steemann"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Visite commentée de l’exposition <em>Mutualisme</em> par Jan Steenman.<br><br></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1783517237919,
+      "addedOn": 1783517237919,
+      "updatedOn": 1783517818750
     }
   ]
 }
