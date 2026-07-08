@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.ch/programme-2026?format=json",
-  "updatedAt": "2026-07-08T16:22:35.177Z",
-  "sourceHash": "a8a60c605e1176f23959b88b1b847638f398d091c63bf00fa89789e1e9f78a06",
+  "updatedAt": "2026-07-08T17:58:24.383Z",
+  "sourceHash": "c9e2946004f8ebe3a9df446172a7f78b9b5194bc96720dcabc5a98e7201e661b",
   "count": 51,
   "pages": 3,
   "items": [
@@ -15,7 +15,7 @@
       "title": "Atelier modelage parents/enfants «La sieste du géant»",
       "fullUrl": "/programme-2026/atelier-modelage-parents-enfants-la-sieste-du-geant",
       "urlId": "atelier-modelage-parents-enfants-la-sieste-du-geant",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/334db1c1-82d8-4303-b669-2482d5b9e7c7/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-003.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -45,7 +45,7 @@
       "workflowState": 1,
       "publishOn": 1790506816102,
       "addedOn": 1790506816102,
-      "updatedOn": 1783434634734
+      "updatedOn": 1783530096899
     },
     {
       "id": "6a2434eed49402018d2a5df4",
@@ -90,7 +90,7 @@
       "title": "«Le Secret des abeilles»",
       "fullUrl": "/programme-2026/spectacle-le-secret-des-abeilles",
       "urlId": "spectacle-le-secret-des-abeilles",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783529760643-I003YQQRGIWWHRFA74RL/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-002.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -120,14 +120,14 @@
       "workflowState": 1,
       "publishOn": 1790424028555,
       "addedOn": 1790424028555,
-      "updatedOn": 1780758193905
+      "updatedOn": 1783529869931
     },
     {
       "id": "6a242a27d8c9092abd5280a9",
       "title": "Exposition centre aéré été enfants «Le secret des abeilles»",
       "fullUrl": "/programme-2026/exposition-centre-aere-ete-enfants-le-secret-des-abeilles",
       "urlId": "exposition-centre-aere-ete-enfants-le-secret-des-abeilles",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783529760643-I003YQQRGIWWHRFA74RL/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-002.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -158,7 +158,7 @@
       "workflowState": 1,
       "publishOn": 1790409643266,
       "addedOn": 1790409643266,
-      "updatedOn": 1780757718401
+      "updatedOn": 1783529807755
     },
     {
       "id": "6a2424acdd18c84bb027f98e",
@@ -442,13 +442,13 @@
     },
     {
       "id": "6a241feef09d98418d6a9a78",
-      "title": "Atelier modelage parents/ enfants «Chimères»",
+      "title": "Atelier modelage parents/enfants «Chimères»",
       "fullUrl": "/programme-2026/atelier-modelage-adulte-jouons-avec-la-porcelaine-7smka",
       "urlId": "atelier-modelage-adulte-jouons-avec-la-porcelaine-7smka",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c7453f53-80b6-4ec1-92e7-512253610cba/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-001.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5515361744301288,
+        "y": 0,
         "source": 3
       },
       "categories": [
@@ -477,7 +477,7 @@
       "workflowState": 1,
       "publishOn": 1789902006085,
       "addedOn": 1789902006085,
-      "updatedOn": 1780752479272
+      "updatedOn": 1783528968289
     },
     {
       "id": "6a241e75ec68211b7f8b643f",
@@ -602,10 +602,10 @@
       "title": "Atelier modelage adulte «Jouons avec la porcelaine»",
       "fullUrl": "/programme-2026/atelier-modelage-adulte-jouons-avec-la-porcelaine",
       "urlId": "atelier-modelage-adulte-jouons-avec-la-porcelaine",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780751768975-QMND62M1UO8C49RJ7E35/andy-kelly-P21tYLUo_PI-unsplash.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/e35c4168-25f9-4029-aebd-0c4fa9ff12b3/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-004.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.4722497522299306,
+        "y": 0.3214435195089057,
         "source": 3
       },
       "categories": [
@@ -632,7 +632,7 @@
       "workflowState": 1,
       "publishOn": 1789819248276,
       "addedOn": 1789819248276,
-      "updatedOn": 1780752559089
+      "updatedOn": 1783529430763
     },
     {
       "id": "6a241ac68f66a64eb6af5734",
