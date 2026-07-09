@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-07-08T15:52:01.268Z",
-  "sourceHash": "3647446ca000685a965cce6cbc9655568618ac9d44ad97f44bd876fc6fe0d558",
+  "updatedAt": "2026-07-09T11:20:19.823Z",
+  "sourceHash": "f8876e1e1a34e2357dafb576db52b853bb8706c046eae0732c7196f4b2790719",
   "count": 31,
   "items": [
     {
@@ -30,13 +30,13 @@
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/b0debfba-ff97-4bbc-924e-98eda777466f/PCC-Fondation_Bruckner.webp",
       "imagePosition": "",
-      "lundi": "sur rdv",
-      "mardi": "sur rdv",
+      "lundi": "Sur rendez-vous",
+      "mardi": "Sur rendez-vous",
       "mercredi": "-",
-      "jeudi": "sur rdv",
-      "vendredi": "sur rdv",
-      "samedi": "sur rdv",
-      "dimanche": "sur rdv"
+      "jeudi": "Sur rendez-vous",
+      "vendredi": "Sur rendez-vous",
+      "samedi": "Sur rendez-vous",
+      "dimanche": "Sur rendez-vous"
     },
     {
       "slug": "atelier-maison-potter",
