@@ -5,8 +5,8 @@
   "id": "programme-2025",
   "path": "/programme-2025",
   "sourceUrl": "https://genevaartweek.com/programme-2025?format=json",
-  "updatedAt": "2026-07-09T07:56:05.881Z",
-  "sourceHash": "b102a72b0c51df8eed8aabae7c4aeb9e5b32a876142972f2c27be01f8c34966e",
+  "updatedAt": "2026-07-09T10:18:16.587Z",
+  "sourceHash": "565abb52cddcbf57a5d5f9378bbeda8b52f85bb3bc3eb41944c72cca36c91e50",
   "count": 169,
   "pages": 1,
   "items": [
@@ -3437,7 +3437,7 @@
         "Vernissage: 2025-09-17T17:00",
         "Date: 2025-09-18/2025-11-08"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">18 septembre–8 novembre 2025</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">18 septembre&nbsp;–&nbsp;8 novembre 2025</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1976103,
@@ -3453,7 +3453,7 @@
       "workflowState": 1,
       "publishOn": 1758164400695,
       "addedOn": 1758164400695,
-      "updatedOn": 1783071948782
+      "updatedOn": 1783590643132
     },
     {
       "id": "6825ea85addf153767e92b6d",
