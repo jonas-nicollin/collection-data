@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-07-09T11:03:47.137Z",
-  "sourceHash": "0513bab927e7b644c81818a4ff06ae51a28b435a5a4ceb1941945b1a1766440d",
-  "count": 80,
+  "updatedAt": "2026-07-09T13:47:07.809Z",
+  "sourceHash": "6393e0259bca1b869470b55d07c0c346b80ee93486618a88035d01ba2090997f",
+  "count": 81,
   "pages": 1,
   "items": [
     {
@@ -330,6 +330,44 @@
       "publishOn": 1748242800856,
       "addedOn": 1748242800856,
       "updatedOn": 1782197905550
+    },
+    {
+      "id": "6824878ecdfab25869f2b29f",
+      "title": "Centre d’Art Contemporain Genève",
+      "fullUrl": "/membre/centre-dart-contemporain-geneve",
+      "urlId": "centre-dart-contemporain-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/a9d94e58-81a3-4988-874d-d53fc32b5805/Geneva_Art_Week-Members-Centre_d_Art_Contemporain_Geneve-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: Centre d'Art Contemporain Genève",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1989555,
+        "mapLng": 6.1379394,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Centre d&#39;Art Contemporain Genève",
+        "addressLine1": "Rue des Vieux-Grenadiers 10",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 13,
+      "workflowState": 1,
+      "publishOn": 1747958400583,
+      "addedOn": 1747958400583,
+      "updatedOn": 1783600754703
     },
     {
       "id": "6824878fcdfab25869f2b2a2",
