@@ -22,15 +22,33 @@ jobs:
           node-version: 24
 
       - name: Build collection JSON
+        id: build
         run: |
-          set -e
+          set +e
+          failed=0
+          : > /tmp/collection-sync-failures.txt
+
           for config in sources/collections/*.json; do
             echo "Building ${config}"
-            node scripts/build-collection-json.mjs "$config"
+            if node scripts/build-collection-json.mjs "$config"; then
+              echo "OK ${config}"
+            else
+              failed=1
+              echo "FAILED ${config}" | tee -a /tmp/collection-sync-failures.txt
+            fi
           done
+
+          echo "failed=${failed}" >> "$GITHUB_OUTPUT"
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v7.1.0
         with:
           commit_message: Update collection data
           file_pattern: public/data/collections/**/*.json
+
+      - name: Report collection sync failures
+        if: steps.build.outputs.failed == '1'
+        run: |
+          echo "Some collection configs failed:"
+          cat /tmp/collection-sync-failures.txt
+          exit 1
