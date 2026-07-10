@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-07-10T07:54:18.412Z",
-  "sourceHash": "b894e4ba19f6644ff0f9785105cb14b1ced014a8ef336f57a880ec9e7d2c9546",
+  "updatedAt": "2026-07-10T10:50:17.459Z",
+  "sourceHash": "bdff4e434b721814d60a3a1cf9e12e7bc6cde84ba4218e9477842f175fc7cc73",
   "count": 51,
   "pages": 3,
   "items": [
@@ -167,7 +167,7 @@
       "title": "Visite commentée des expositions à&nbsp;Carouge · Partie 4",
       "fullUrl": "/programme-2026/visite-commentee-des-expositions-carouge-partie-4",
       "urlId": "visite-commentee-des-expositions-carouge-partie-4",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c756be63-587d-46da-80f5-250d34a39e86/PCC2022_Espace_Jorg_Brockmann_Fondation_Bruckner-Aline_Bovard_Rudaz.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/50acef51-fde5-4191-9ed1-35ffe74b3c6c/PCC24_StrategiesObliques-EstelleGassmann%E2%94%AC%C2%AERaphaelleMueller-3.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -201,7 +201,7 @@
       "workflowState": 1,
       "publishOn": 1790287220191,
       "addedOn": 1790287220191,
-      "updatedOn": 1783609801397
+      "updatedOn": 1783676302717
     },
     {
       "id": "6a2426487cef27205fc9730e",
@@ -287,7 +287,7 @@
       "title": "Visite commentée des expositions à&nbsp;Carouge · Partie 2",
       "fullUrl": "/programme-2026/visite-commentee-des-expositions-carouge-partie-2",
       "urlId": "visite-commentee-des-expositions-carouge-partie-2",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c756be63-587d-46da-80f5-250d34a39e86/PCC2022_Espace_Jorg_Brockmann_Fondation_Bruckner-Aline_Bovard_Rudaz.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/e000a25f-12dc-494e-a876-ce9810c1ac53/PCC2022_Teo_Jakob%C2%A9Fondation_Bruckner-Aline_Bovard_Rudaz-%282%29.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -322,14 +322,14 @@
       "workflowState": 1,
       "publishOn": 1790028025460,
       "addedOn": 1790028025460,
-      "updatedOn": 1783608804674
+      "updatedOn": 1783676224680
     },
     {
       "id": "6a2420b3f09d98418d6acc0c",
       "title": "Visite commentée des expositions à&nbsp;Carouge · Partie 1",
       "fullUrl": "/programme-2026/visite-commentee-des-expositions-carouge-partie-1",
       "urlId": "visite-commentee-des-expositions-carouge-partie-1",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c756be63-587d-46da-80f5-250d34a39e86/PCC2022_Espace_Jorg_Brockmann_Fondation_Bruckner-Aline_Bovard_Rudaz.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/436323ed-bf5d-45a2-bfc7-b3ebb598e9a7/PCC24_NovGallery_PUULCeramicsxMaraTschudi%C2%A9RaphaelleMueller-4.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -363,7 +363,7 @@
       "workflowState": 1,
       "publishOn": 1789941623349,
       "addedOn": 1789941623349,
-      "updatedOn": 1783606891635
+      "updatedOn": 1783675640973
     },
     {
       "id": "6a241f353a3f2306e003c2e3",
