@@ -4,9 +4,9 @@
   "site": "pcc",
   "id": "programme-2026",
   "path": "/programme-2026",
-  "sourceUrl": "https://www.parcoursceramiquecarouge.ch/programme-2026?format=json",
-  "updatedAt": "2026-07-09T04:18:00.186Z",
-  "sourceHash": "c9e2946004f8ebe3a9df446172a7f78b9b5194bc96720dcabc5a98e7201e661b",
+  "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
+  "updatedAt": "2026-07-10T07:54:18.412Z",
+  "sourceHash": "b894e4ba19f6644ff0f9785105cb14b1ced014a8ef336f57a880ec9e7d2c9546",
   "count": 51,
   "pages": 3,
   "items": [
@@ -28,9 +28,11 @@
         "Zone: Carouge",
         "Année: 2026",
         "Lieu: Atelier Maison Potter",
-        "Date: 2026-09-27T13:00"
+        "Date: 2026-09-27T13:00",
+        "Date: 2026-09-27T14:00",
+        "Date: 2026-09-27T15:00"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Et si un géant s'était endormi là, sous nos pieds ? Le temps d'un après-midi, parents et enfants imaginent ce corps immense au repos et modèlent la terre à son échelle rêvée : ce qu'il tient dans sa main, ce qui pousse sur son dos, ce dont il rêve. Guidé·es par Perrine Cardon et Jean-Marc Desaules, les familles façonnent ensemble un fragment de ce paysage né du sommeil du colosse.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -45,7 +47,7 @@
       "workflowState": 1,
       "publishOn": 1790506816102,
       "addedOn": 1790506816102,
-      "updatedOn": 1783530096899
+      "updatedOn": 1783590979103
     },
     {
       "id": "6a2434eed49402018d2a5df4",
@@ -83,7 +85,7 @@
       "workflowState": 1,
       "publishOn": 1790501442273,
       "addedOn": 1790501442273,
-      "updatedOn": 1783517222829
+      "updatedOn": 1783590480821
     },
     {
       "id": "6a24364855f0b80a8ab06d62",
@@ -177,12 +179,12 @@
       "tags": [
         "Zone: Carouge",
         "Année: 2026",
+        "Date: 2026-09-25T12:00",
+        "Lieu: Aubert Jansem Genève",
         "Lieu: Espace Jörg Brockmann",
         "Lieu: Teo Jakob",
         "Lieu: Stratégies Obliques",
-        "Date: 2026-09-25T12:00",
-        "Lieu: Galerie H",
-        "Lieu: Aubert Jansem Genève"
+        "Lieu: Galerie H"
       ],
       "excerpt": "",
       "location": {
@@ -199,7 +201,7 @@
       "workflowState": 1,
       "publishOn": 1790287220191,
       "addedOn": 1790287220191,
-      "updatedOn": 1781593912307
+      "updatedOn": 1783609801397
     },
     {
       "id": "6a2426487cef27205fc9730e",
@@ -244,7 +246,7 @@
       "title": "Visite commentée des expositions à&nbsp;Carouge · Partie 3",
       "fullUrl": "/programme-2026/visite-commentee-des-expositions-carouge-partie-3",
       "urlId": "visite-commentee-des-expositions-carouge-partie-3",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c756be63-587d-46da-80f5-250d34a39e86/PCC2022_Espace_Jorg_Brockmann_Fondation_Bruckner-Aline_Bovard_Rudaz.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/6116b9b5-b882-4393-ae27-1a26a4fff564/PCC24_GalerieKaolin_RitaDeNigris%C2%A9RaphaelleMueller-4.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -263,7 +265,7 @@
         "Lieu: Galerie Séries Rares",
         "Lieu: Galerie FADA"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Afin d'appréhender au mieux la richesse du medium céramique au regard du thème de la biennale, Corps, la Fondation Bruckner, organisatrice de l'événement, propose une série de quatre visites commentées qui parcourent, par tranches, les différents lieux du parcours.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Chacune réunit un petit groupe autour d'une partie des propositions : l'occasion d'en apprendre davantage sur les techniques céramiques, de se doter d'une grille de lecture et de rendre accessible ce qui, parfois, pourrait ne pas l'être. Une invitation à entrer plus avant dans la compréhension du medium.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -278,7 +280,7 @@
       "workflowState": 1,
       "publishOn": 1790251204353,
       "addedOn": 1790251204353,
-      "updatedOn": 1780753555148
+      "updatedOn": 1783609660558
     },
     {
       "id": "6a24230d68d55c321acb7ed4",
@@ -320,7 +322,7 @@
       "workflowState": 1,
       "publishOn": 1790028025460,
       "addedOn": 1790028025460,
-      "updatedOn": 1780753370709
+      "updatedOn": 1783608804674
     },
     {
       "id": "6a2420b3f09d98418d6acc0c",
@@ -339,13 +341,12 @@
       "tags": [
         "Zone: Carouge",
         "Année: 2026",
-        "Lieu: Fondation Bruckner",
         "Date: 2026-09-21T12:00",
-        "Lieu: Bruckner Hors-les-murs",
-        "Lieu: Atelier Nicolas Perrottet",
         "Lieu: Atelier Maison Potter",
         "Lieu: Nov Gallery",
-        "Lieu: L’Antre-Peaux – Chris Murner"
+        "Lieu: Atelier Nicolas Perrottet",
+        "Lieu: L’Antre-Peaux – Chris Murner",
+        "Lieu: Bruckner Hors-les-murs"
       ],
       "excerpt": "",
       "location": {
@@ -362,7 +363,7 @@
       "workflowState": 1,
       "publishOn": 1789941623349,
       "addedOn": 1789941623349,
-      "updatedOn": 1781593939164
+      "updatedOn": 1783606891635
     },
     {
       "id": "6a241f353a3f2306e003c2e3",
@@ -443,8 +444,8 @@
     {
       "id": "6a241feef09d98418d6a9a78",
       "title": "Atelier modelage parents/enfants «Chimères»",
-      "fullUrl": "/programme-2026/atelier-modelage-adulte-jouons-avec-la-porcelaine-7smka",
-      "urlId": "atelier-modelage-adulte-jouons-avec-la-porcelaine-7smka",
+      "fullUrl": "/programme-2026/atelier-modelage-parents-enfants-chimeres",
+      "urlId": "atelier-modelage-parents-enfants-chimeres",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c7453f53-80b6-4ec1-92e7-512253610cba/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-001.webp",
       "mediaFocalPoint": {
         "x": 0.5515361744301288,
@@ -462,7 +463,7 @@
         "Date: 2026-09-20T14:00",
         "Date: 2026-09-20T15:00"
       ],
-      "excerpt": "",
+      "excerpt": "<p class=\"font-claude-response-body break-words whitespace-normal\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Créature hybride née de l'imaginaire, la chimère assemble des corps qui ne devraient jamais se rencontrer. Le temps d'un après-midi, parents et enfants façonnent ensemble leur propre bête fabuleuse : une tête d'ici, des ailes d'ailleurs, une queue inventée. Guidé·es par Perrine Cardon et Jean-Marc Desaules, les familles donnent forme à ces figures composites où chaque main ajoute son fragment.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -477,7 +478,7 @@
       "workflowState": 1,
       "publishOn": 1789902006085,
       "addedOn": 1789902006085,
-      "updatedOn": 1783528968289
+      "updatedOn": 1783591271372
     },
     {
       "id": "6a241e75ec68211b7f8b643f",
@@ -561,10 +562,10 @@
       "title": "Performance de Sixtine Jacquart",
       "fullUrl": "/programme-2026/performance-de-sixtine-jacquart",
       "urlId": "performance-de-sixtine-jacquart",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682378775-QOMTUMDOB71TLW9IKRLF/PCC_2026-13-Halles_de_la_Fonderie-Sixtine_Jacquart-003.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778682373995-27908T3ANAKO57XKF876/PCC_2026-13-Halles_de_la_Fonderie-Sixtine_Jacquart-010.webp",
       "mediaFocalPoint": {
-        "x": 0.5753221010901883,
-        "y": 0.8988513230711994,
+        "x": 0.5000551473887056,
+        "y": 0.7202380952380952,
         "source": 3
       },
       "categories": [
@@ -595,7 +596,7 @@
       "workflowState": 1,
       "publishOn": 1789822847324,
       "addedOn": 1789822847324,
-      "updatedOn": 1780750431021
+      "updatedOn": 1783601072929
     },
     {
       "id": "6a241ca2418d931011a957a3",
@@ -669,13 +670,13 @@
       "workflowState": 1,
       "publishOn": 1789804803932,
       "addedOn": 1789804803932,
-      "updatedOn": 1783340835741
+      "updatedOn": 1783592083072
     },
     {
       "id": "69f74bc4ae0e0573c302249e",
       "title": "Marie Gueydon de Dives",
-      "fullUrl": "/programme-2026/expositions/01/marie-gueydon-de-dives",
-      "urlId": "expositions/01/marie-gueydon-de-dives",
+      "fullUrl": "/programme-2026/expositions/1/marie-gueydon-de-dives",
+      "urlId": "expositions/1/marie-gueydon-de-dives",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777902386332-4CKRE9EMZZGSECRYEURE/PCC_2026-02-Atelier_Potter-Marie_Gueydon_de_Dives-016.webp",
       "mediaFocalPoint": {
         "x": 0.48333333333333334,
@@ -688,7 +689,6 @@
       "tags": [
         "Année: 2026",
         "Zone: Carouge",
-        "Sélection: Homepage",
         "Date: 2026-09-19/2026-09-27",
         "Artiste: Marie Gueydon de Dives",
         "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
@@ -702,7 +702,7 @@
         "mapLng": 6.1445234,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "Atelier Potter",
+        "addressTitle": "Atelier Maison Potter",
         "addressLine1": "22 Chemin de Pinchat",
         "addressLine2": "Carouge, GE, 1227",
         "addressCountry": "Switzerland"
@@ -711,7 +711,7 @@
       "workflowState": 1,
       "publishOn": 1789632017032,
       "addedOn": 1789632017032,
-      "updatedOn": 1783343388589
+      "updatedOn": 1783601194534
     },
     {
       "id": "696a422e054fc71a7afeea1f",
@@ -941,7 +941,8 @@
         "Artiste: Asya Marakulina",
         "Lieu: Bruckner Hors-les-murs",
         "Numéro: 7",
-        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Selection: Homepage"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>La Matière de l’absence</em></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Et si l’absence était une présence? C’est l’intuition qui traverse cette exposition conçue par Émilie Fargues, directrice du PCC, réunissant deux artistes céramistes autour de ce que les corps laissent derrière eux lorsqu’ils se retirent.</p><p class=\"MsoNormal\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Asya Marakulina contemple les murs mitoyens des immeubles de Saint-Pétersbourg et de Vienne après démolition. Contours de pièces, restes de papier peint, conduites suspendues dans le vide: l’architecture porte encore l’empreinte de ceux qui l’ont habitée. Ses céramiques en font des portraits fragiles, où l’espace domestique survit à sa propre disparition.</p><p class=\"MsoNormal\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ninon Hivert recueille les vêtements abandonnés dans l’espace urbain et les traduit en sculptures de terre. Manteaux affaissés, gants vidés de leurs mains: autant de mues qui conservent la posture et le geste d’un corps absent.</p><p class=\"MsoNormal\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">D’un côté l’enveloppe architecturale, de l’autre l’enveloppe textile. Dans les deux cas, la céramique donne une permanence paradoxale à ce qui a disparu. L’espace négatif, celui du corps qui a habité, celui du corps qui a porté, devient le véritable sujet de l’œuvre.</p>",
       "location": {
@@ -959,7 +960,7 @@
       "workflowState": 1,
       "publishOn": 1789286422524,
       "addedOn": 1789286422524,
-      "updatedOn": 1783346464213
+      "updatedOn": 1783601236942
     },
     {
       "id": "696a4236054fc71a7afeebcd",
@@ -1717,8 +1718,8 @@
     {
       "id": "69f88c69a44f9a2979822283",
       "title": "Les collections du Cirva: Le verre, au-delà de la matière",
-      "fullUrl": "/programme-2026/expositions/26/les-collections-du-cirva-le-verre-au-dela-de-la-matiere",
-      "urlId": "expositions/26/les-collections-du-cirva-le-verre-au-dela-de-la-matiere",
+      "fullUrl": "/programme-2026/expositions/25-1/les-collections-du-cirva-le-verre-au-dela-de-la-matiere",
+      "urlId": "expositions/25-1/les-collections-du-cirva-le-verre-au-dela-de-la-matiere",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779100752010-Y7RYVR3BP3TGKK897VQ5/PCC_2026-25-Musee_Ariana-Les_Collections_du_Cirva-004.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1735,7 +1736,7 @@
         "Date: 2025-09-19/2026-10-04",
         "Numéro: 25.1"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">L’exposition <em>Le verre, au-delà de la matière</em> propose une plongée dans les collections du Cirva, centre international de recherche sur le verre et les arts plastiques fondé en 1983 à Marseille. Ce laboratoire atypique accueille en résidence des artistes venus du monde entier qui, pour la plupart, découvrent le verre pour la première fois. À travers une sélection de projets, l’exposition fait dialoguer design et arts visuels, portant un regard contemporain sur une matière travaillée depuis des millénaires.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">L’exposition <em>Le Verre, au-delà de la matière</em> propose une plongée dans les collections du Cirva, centre international de recherche sur le verre et les arts plastiques fondé en 1983 à Marseille. Ce laboratoire atypique accueille en résidence des artistes venus du monde entier qui, pour la plupart, découvrent le verre pour la première fois. À travers une sélection de projets, l’exposition fait dialoguer design et arts visuels, portant un regard contemporain sur une matière travaillée depuis des millénaires.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.2254104,
@@ -1751,13 +1752,13 @@
       "workflowState": 1,
       "publishOn": 1787817642672,
       "addedOn": 1787817642672,
-      "updatedOn": 1780669616454
+      "updatedOn": 1783592590168
     },
     {
       "id": "69f88d8e4be1e46e39170169",
       "title": "Tender Buttons",
-      "fullUrl": "/programme-2026/expositions/26/tender-buttons",
-      "urlId": "expositions/26/tender-buttons",
+      "fullUrl": "/programme-2026/expositions/25-2/tender-buttons",
+      "urlId": "expositions/25-2/tender-buttons",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1389cfbf-14d9-4c00-83ee-1c053bad4932/PCC_2026-25-Musee_Ariana-Tender_Buttons-017.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1790,13 +1791,13 @@
       "workflowState": 1,
       "publishOn": 1787731219989,
       "addedOn": 1787731219989,
-      "updatedOn": 1780669628608
+      "updatedOn": 1783592606566
     },
     {
       "id": "69f88dafc6e22026064a2478",
       "title": "Marie Ducaté: Simultanés",
-      "fullUrl": "/programme-2026/expositions/26/marie-ducat-simultanes",
-      "urlId": "expositions/26/marie-ducat-simultanes",
+      "fullUrl": "/programme-2026/expositions/25-3/marie-ducat-simultanes",
+      "urlId": "expositions/25-3/marie-ducat-simultanes",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780306529362-7NKW2KU55F9H4C0E5Z6P/PCC_2026-25-Musee_Ariana-Marie_Ducate_Simultanes-017.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1830,7 +1831,7 @@
       "workflowState": 1,
       "publishOn": 1787644821177,
       "addedOn": 1787644821177,
-      "updatedOn": 1780669669093
+      "updatedOn": 1783592718645
     },
     {
       "id": "69f88df874e1ce4c39e29010",
@@ -1874,10 +1875,10 @@
     },
     {
       "id": "69f88e4374e1ce4c39e2a986",
-      "title": "Margaretta Daepp",
-      "fullUrl": "/programme-2026/expositions/28/margareta-daepp",
-      "urlId": "expositions/28/margareta-daepp",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778687207544-C8L4EO4YL484X3ZVJDYW/PCC_2026-27-Ligne_13-Margareta_Daepp-004.webp",
+      "title": "Margareta Daepp",
+      "fullUrl": "/programme-2026/expositions/27/margareta-daepp",
+      "urlId": "expositions/27/margareta-daepp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778687208567-SPYXFOYOVZWYQTOWCW5M/PCC_2026-27-Ligne_13-Margareta_Daepp-003.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -1890,11 +1891,11 @@
         "Année: 2026",
         "Zone: Genève",
         "Lieu: Galerie Ligne Treize",
-        "Artiste: Margaretta Daepp",
         "Date: 2026-09-17/2026-09-26",
-        "Numéro: 27"
+        "Numéro: 27",
+        "Artiste: Margareta Daepp"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>&nbsp;Urbain</em>, Margareta Daepp s'inspire des gratte-ciels des métropoles, paysages de béton et de verre aux lignes pures et radicales. Elle moule ses œuvres en porcelaine à partir de matériaux industriels, tôle ondulée, tuyaux en plastique, carreaux, et n'hésite pas à les recouvrir de laque pour carrosserie. Le titre prend ici son double sens étymologique : ses pièces évoquent l'architecture de la ville contemporaine tout en faisant preuve d'urbanité, appelant la contemplation et le plaisir.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1986155,
@@ -1910,13 +1911,13 @@
       "workflowState": 1,
       "publishOn": 1787472008168,
       "addedOn": 1787472008168,
-      "updatedOn": 1783075623993
+      "updatedOn": 1783590013420
     },
     {
       "id": "69f88f4be61f4720c2e6edea",
       "title": "Elsewhere Begins Here",
-      "fullUrl": "/programme-2026/expositions/29/elsewhere-begins-here-the-poetics-of-the-in-between",
-      "urlId": "expositions/29/elsewhere-begins-here-the-poetics-of-the-in-between",
+      "fullUrl": "/programme-2026/expositions/28/elsewhere-begins-here-the-poetics-of-the-in-between",
+      "urlId": "expositions/28/elsewhere-begins-here-the-poetics-of-the-in-between",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/4e100eb3-13b1-4b70-b470-9e20ee9d710b/PCC_2026-28-Espace_L-Elsewhere_Begins_Here-002.webp",
       "mediaFocalPoint": {
         "x": 0.5159128978224455,
@@ -1953,17 +1954,17 @@
       "workflowState": 1,
       "publishOn": 1787385622450,
       "addedOn": 1787385622450,
-      "updatedOn": 1783496386523
+      "updatedOn": 1783593413354
     },
     {
       "id": "69f88f8f5a3a3b38b7c32bab",
       "title": "Dark Room, Dye Lab &amp; The Kiln",
-      "fullUrl": "/programme-2026/expositions/30/dark-room-dye-lab-and-the-kiln",
-      "urlId": "expositions/30/dark-room-dye-lab-and-the-kiln",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779093646526-IF3GT3Q1612IFYFJVHST/PCC_2026-29-Taste_Contemporary-Garry_Fabian_Miller-003.webp",
+      "fullUrl": "/programme-2026/expositions/29/dark-room-dye-lab-and-the-kiln",
+      "urlId": "expositions/29/dark-room-dye-lab-and-the-kiln",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779093645330-AR5PHLSEACDZRNEMAUIF/PCC_2026-29-Taste_Contemporary-Marit_Tingleff-002.webp",
       "mediaFocalPoint": {
-        "x": 0.5000310192940008,
-        "y": 0.06548228071807272,
+        "x": 0.5,
+        "y": 0.5,
         "source": 3
       },
       "categories": [
@@ -1995,7 +1996,7 @@
       "workflowState": 1,
       "publishOn": 1787299238383,
       "addedOn": 1787299238383,
-      "updatedOn": 1780669728714
+      "updatedOn": 1783593141216
     },
     {
       "id": "69f890182a65a5690a23ce4e",
@@ -2053,13 +2054,12 @@
       ],
       "tags": [
         "Année: 2026",
-        "Artiste: Dita Cossio",
         "Zone: Genève",
         "Date: 2026-09-24T18:00",
         "Lieu: Olizane – Espace d’art contemporain",
         "Artiste: Jan Steemann"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Visite commentée de l’exposition <em>Mutualisme</em> par Jan Steenman.<br><br></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>Mutualisme</em>, Jan Steenman s'inspire des mycorhizes, ces réseaux de filaments qui relient plantes et champignons, pour explorer comment des êtres coexistent dans une relation réciproque. Ses sculptures apparaissent comme les manifestations visibles d'un système plus vaste, dont l'essentiel demeure souterrain et invisible. Le temps d'une visite commentée, l'artiste accompagne le public au fil de ces formes en expansion, où l'individualité se dissout dans un réseau vivant et interconnecté.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -2074,7 +2074,7 @@
       "workflowState": 1,
       "publishOn": 1783517237919,
       "addedOn": 1783517237919,
-      "updatedOn": 1783517818750
+      "updatedOn": 1783593736983
     }
   ]
 }
