@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-07-09T11:20:19.823Z",
-  "sourceHash": "f8876e1e1a34e2357dafb576db52b853bb8706c046eae0732c7196f4b2790719",
+  "updatedAt": "2026-07-10T13:29:38.490Z",
+  "sourceHash": "d3ae8ddd0fe13e492fd5ac314adef085436d94df85e1c2c7514ca34b91e3bec0",
   "count": 31,
   "items": [
     {
@@ -899,11 +899,11 @@
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/efefc3f2-0fd0-4f9d-997d-873cbe6f3afe/PCC_Espace_L.webp",
       "imagePosition": "",
       "lundi": "-",
-      "mardi": "-",
-      "mercredi": "-",
-      "jeudi": "-",
-      "vendredi": "-",
-      "samedi": "-",
+      "mardi": "11h–18h",
+      "mercredi": "11h–18h",
+      "jeudi": "11h–18h",
+      "vendredi": "11h–18h",
+      "samedi": "11h–17h",
       "dimanche": "-"
     },
     {
@@ -931,10 +931,10 @@
       "imagePosition": "",
       "lundi": "11h–18h",
       "mardi": "11h–18h",
-      "mercredi": "11h-18h",
+      "mercredi": "11h–18h",
       "jeudi": "11h–18h",
       "vendredi": "11h–18h",
-      "samedi": "12h-17h",
+      "samedi": "12h–17h",
       "dimanche": "12h–17h"
     },
     {
