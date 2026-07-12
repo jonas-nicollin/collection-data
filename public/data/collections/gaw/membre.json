@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-07-12T18:31:42.332Z",
-  "sourceHash": "6393e0259bca1b869470b55d07c0c346b80ee93486618a88035d01ba2090997f",
-  "count": 81,
+  "updatedAt": "2026-07-12T19:46:02.673Z",
+  "sourceHash": "3f3223b3c73800a0d4676d4f6f4ad90c6b8ea7ca05b95ab2f650d8b2df00daaf",
+  "count": 82,
   "pages": 1,
   "items": [
     {
@@ -205,7 +205,45 @@
       "workflowState": 1,
       "publishOn": 1748302181143,
       "addedOn": 1748302181143,
-      "updatedOn": 1782197857063
+      "updatedOn": 1783882161048
+    },
+    {
+      "id": "6a53e3395b8ea50435dd21de",
+      "title": "Atelier Maison Potter",
+      "fullUrl": "/membre/atelier-maison-potter",
+      "urlId": "atelier-maison-potter",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/8c154707-1b8c-4650-bbc1-974d486c40aa/Geneva_Art_Week-Members_Atelier-Maison-Potter.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Sculpture",
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Membre: Atelier Maison Potter"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1774056,
+        "mapLng": 6.1445234,
+        "markerLat": 46.1774056,
+        "markerLng": 6.1445234,
+        "addressTitle": "Atelier Maison Potter",
+        "addressLine1": "Chemin de Pinchat 22bis",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 91,
+      "workflowState": 1,
+      "publishOn": 1748301053564,
+      "addedOn": 1748301053564,
+      "updatedOn": 1783883526569
     },
     {
       "id": "6824878ecdfab25869f2b296",
@@ -1002,7 +1040,7 @@
       "workflowState": 1,
       "publishOn": 1746921786583,
       "addedOn": 1746921786583,
-      "updatedOn": 1782198348954
+      "updatedOn": 1783882117437
     },
     {
       "id": "68248791cdfab25869f2b314",
@@ -1122,7 +1160,7 @@
       "workflowState": 1,
       "publishOn": 1746754020733,
       "addedOn": 1746754020733,
-      "updatedOn": 1782892071194
+      "updatedOn": 1783882409547
     },
     {
       "id": "68248792cdfab25869f2b31d",
@@ -1362,7 +1400,7 @@
       "workflowState": 1,
       "publishOn": 1746316800678,
       "addedOn": 1746316800678,
-      "updatedOn": 1782200243572
+      "updatedOn": 1783882220910
     },
     {
       "id": "68248793cdfab25869f2b340",
@@ -1995,7 +2033,7 @@
       "workflowState": 1,
       "publishOn": 1745566315953,
       "addedOn": 1745566315953,
-      "updatedOn": 1782215802795
+      "updatedOn": 1783882280243
     },
     {
       "id": "68248795cdfab25869f2b3a1",
@@ -2455,7 +2493,7 @@
       "workflowState": 1,
       "publishOn": 1744588586415,
       "addedOn": 1744588586415,
-      "updatedOn": 1782220646587
+      "updatedOn": 1783882469530
     },
     {
       "id": "68248797cdfab25869f2b485",
@@ -2863,7 +2901,7 @@
       "workflowState": 1,
       "publishOn": 1743913320560,
       "addedOn": 1743913320560,
-      "updatedOn": 1782220890168
+      "updatedOn": 1783882354494
     },
     {
       "id": "68248799cdfab25869f2b5aa",
