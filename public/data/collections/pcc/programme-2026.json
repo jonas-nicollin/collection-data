@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-07-15T08:03:02.780Z",
-  "sourceHash": "bdff4e434b721814d60a3a1cf9e12e7bc6cde84ba4218e9477842f175fc7cc73",
+  "updatedAt": "2026-07-15T10:13:16.539Z",
+  "sourceHash": "5b7aa30122d2be828caa293fee96d936b925be52089c3f75a91484b885018309",
   "count": 51,
   "pages": 3,
   "items": [
@@ -15,7 +15,7 @@
       "title": "Atelier modelage parents/enfants «La sieste du géant»",
       "fullUrl": "/programme-2026/atelier-modelage-parents-enfants-la-sieste-du-geant",
       "urlId": "atelier-modelage-parents-enfants-la-sieste-du-geant",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/334db1c1-82d8-4303-b669-2482d5b9e7c7/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-003.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/d28a8434-ca5a-45a7-b3d2-0c3e9e5dca1a/PCC2019-Atelier_enfants%C2%A9Fondation_Bruckner-%2815%29.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -47,7 +47,7 @@
       "workflowState": 1,
       "publishOn": 1790506816102,
       "addedOn": 1790506816102,
-      "updatedOn": 1783590979103
+      "updatedOn": 1784109578742
     },
     {
       "id": "6a2434eed49402018d2a5df4",
@@ -92,7 +92,7 @@
       "title": "«Le Secret des abeilles»",
       "fullUrl": "/programme-2026/spectacle-le-secret-des-abeilles",
       "urlId": "spectacle-le-secret-des-abeilles",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783529760643-I003YQQRGIWWHRFA74RL/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-002.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/95c35c9c-206a-4d67-808e-2c615386d188/PCC2019-Atelier_enfants%C2%A9Fondation_Bruckner-%2813%29.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -107,7 +107,7 @@
         "Lieu: Atelier Maison Potter",
         "Date: 2026-09-26T14:00"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Soleil, fleurs, miel: suivez-nous dans un voyage merveilleux, suivez-vous dans le monde fascinant et doré de la ruche; découvrez “Le Secret des abeilles” spectacle imaginé à partir des créations des enfants des centres aérés d’été de l’Atelier Maison Potter.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Conté par Alexandre Diakoff et mis en scène par Silvia Fabiani.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -122,14 +122,14 @@
       "workflowState": 1,
       "publishOn": 1790424028555,
       "addedOn": 1790424028555,
-      "updatedOn": 1783529869931
+      "updatedOn": 1784110302836
     },
     {
       "id": "6a242a27d8c9092abd5280a9",
       "title": "Exposition centre aéré été enfants «Le secret des abeilles»",
       "fullUrl": "/programme-2026/exposition-centre-aere-ete-enfants-le-secret-des-abeilles",
       "urlId": "exposition-centre-aere-ete-enfants-le-secret-des-abeilles",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783529760643-I003YQQRGIWWHRFA74RL/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-002.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c7453f53-80b6-4ec1-92e7-512253610cba/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-001.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -142,10 +142,10 @@
         "Zone: Carouge",
         "Année: 2026",
         "Lieu: Atelier Maison Potter",
-        "Date: 2026-09-26T10:00",
-        "Date: 2026-09-27T10:00"
+        "Date: 2026-09-26T11:00",
+        "Date: 2026-09-27T11:00"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Installé depuis 1986 dans l'ancien atelier du peintre Adolphe Potter, l'Atelier Maison Potter organise sous la houlette de Natacha Lozes-Cardon des centres aérés d’été durant lesquels des générations d’enfants ont pu s’initier à la céramique. A l’issue de ces stages estivaux une exposition est organisée.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Cette année, les enfants sont invités à créer autour du conte “Le Secret des abeilles” et leurs créations seront présentées lors du 2e week-end du Parcours Céramique Carouge</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -160,7 +160,7 @@
       "workflowState": 1,
       "publishOn": 1790409643266,
       "addedOn": 1790409643266,
-      "updatedOn": 1783529807755
+      "updatedOn": 1784110332410
     },
     {
       "id": "6a2424acdd18c84bb027f98e",
@@ -446,10 +446,10 @@
       "title": "Atelier modelage parents/enfants «Chimères»",
       "fullUrl": "/programme-2026/atelier-modelage-parents-enfants-chimeres",
       "urlId": "atelier-modelage-parents-enfants-chimeres",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/c7453f53-80b6-4ec1-92e7-512253610cba/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-001.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1783529760643-I003YQQRGIWWHRFA74RL/PCC26-Atelier_Maison_Potter-Atelier_parents-enfants-002.webp",
       "mediaFocalPoint": {
-        "x": 0.5515361744301288,
-        "y": 0,
+        "x": 0.5,
+        "y": 0.5,
         "source": 3
       },
       "categories": [
@@ -478,7 +478,7 @@
       "workflowState": 1,
       "publishOn": 1789902006085,
       "addedOn": 1789902006085,
-      "updatedOn": 1783591271372
+      "updatedOn": 1784110370401
     },
     {
       "id": "6a241e75ec68211b7f8b643f",
@@ -633,7 +633,7 @@
       "workflowState": 1,
       "publishOn": 1789819248276,
       "addedOn": 1789819248276,
-      "updatedOn": 1783529430763
+      "updatedOn": 1784108970991
     },
     {
       "id": "6a241ac68f66a64eb6af5734",
