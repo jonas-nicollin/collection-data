@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-07-15T10:13:16.539Z",
-  "sourceHash": "5b7aa30122d2be828caa293fee96d936b925be52089c3f75a91484b885018309",
-  "count": 51,
+  "updatedAt": "2026-07-15T11:51:30.343Z",
+  "sourceHash": "1998e8ecc66c7136c2266ce0ab60c7b6c63c7967655ff63f407c7ffa63eaa087",
+  "count": 52,
   "pages": 3,
   "items": [
     {
@@ -205,7 +205,7 @@
     },
     {
       "id": "6a2426487cef27205fc9730e",
-      "title": "Le Mouvement · Visite commentée de l’exposition",
+      "title": "Le Mouvement · Visite commentée de l’exposition (FR)",
       "fullUrl": "/programme-2026/le-mouvement-visite-commentee-de-l-exposition",
       "urlId": "le-mouvement-visite-commentee-de-l-exposition",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/28a7584d-a49f-4e93-b10c-9857d06e441b/PCC_2026-21-Musee_de_Carouge-Mouvement_Concours_international_de_ceramique-001.webp",
@@ -221,10 +221,9 @@
         "Zone: Carouge",
         "Année: 2026",
         "Lieu: Musée de Carouge",
-        "Date: 2026-09-24T18:00",
-        "Date: 2026-09-25T18:00"
+        "Date: 2026-09-24T18:00"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Partenaire de longue date du Parcours Céramique Carouge, le Musée de Carouge présente <em>Le Mouvement</em>, thème de la 20e édition du Concours International de Céramique. Quarante œuvres, retenues par un jury international, y cherchent à figer l'élan dans la matière et à retenir le geste. Le temps d'une visite commentée, la céramiste et enseignante Sonja Décaillet accompagne le public au fil des pièces, partageant les techniques et les partis pris qui font dialoguer terre, forme et mouvement.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -239,7 +238,7 @@
       "workflowState": 1,
       "publishOn": 1790265612141,
       "addedOn": 1790265612141,
-      "updatedOn": 1783429455661
+      "updatedOn": 1784115852425
     },
     {
       "id": "6a2423e87506e80033b4cf3e",
@@ -478,7 +477,7 @@
       "workflowState": 1,
       "publishOn": 1789902006085,
       "addedOn": 1789902006085,
-      "updatedOn": 1784110370401
+      "updatedOn": 1784110488082
     },
     {
       "id": "6a241e75ec68211b7f8b643f",
@@ -497,9 +496,9 @@
       "tags": [
         "Zone: Carouge",
         "Année: 2026",
-        "Lieu: Art Résonance",
         "Artiste: Xinyi Hu",
-        "Date: 2026-09-20T11:00"
+        "Date: 2026-09-20T11:00",
+        "Lieu: Art Resonance Gallery"
       ],
       "excerpt": "",
       "location": {
@@ -516,7 +515,7 @@
       "workflowState": 1,
       "publishOn": 1789894849874,
       "addedOn": 1789894849874,
-      "updatedOn": 1780752181462
+      "updatedOn": 1784110984805
     },
     {
       "id": "6a24185eada08a3c9fcc54c5",
@@ -618,7 +617,7 @@
         "Date: 2026-09-19T14:00",
         "Lieu: Atelier Maison Potter"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Natacha Lozes-Cardon et Sonja Décaillet céramistes et enseignantes aguerries, proposent un atelier exceptionnel pour s'initier au travail de la porcelaine. Une occasion d'aller à la rencontrer de cette argile aussi belle qu'exigeante… tout en s'amusant.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -633,7 +632,7 @@
       "workflowState": 1,
       "publishOn": 1789819248276,
       "addedOn": 1789819248276,
-      "updatedOn": 1784108970991
+      "updatedOn": 1784110404115
     },
     {
       "id": "6a241ac68f66a64eb6af5734",
@@ -1691,11 +1690,11 @@
         "Année: 2026",
         "Sélection: Homepage",
         "Date: 2026-09-19/2026-09-27",
-        "Lieu: Art Résonance",
         "Numéro: 24",
         "Artiste: Xinyi Hu",
         "Zone: Genève",
-        "Vernissage: 2026-09-16T16:00"
+        "Vernissage: 2026-09-16T16:00",
+        "Lieu: Art Resonance Gallery"
       ],
       "excerpt": "",
       "location": {
@@ -1713,7 +1712,7 @@
       "workflowState": 1,
       "publishOn": 1787904008551,
       "addedOn": 1787904008551,
-      "updatedOn": 1783511929804
+      "updatedOn": 1784111136956
     },
     {
       "id": "69f88c69a44f9a2979822283",
@@ -2037,6 +2036,43 @@
       "publishOn": 1787212847118,
       "addedOn": 1787212847118,
       "updatedOn": 1783517189306
+    },
+    {
+      "id": "6a5771aca8e15061f7f2333a",
+      "title": "Le Mouvement · Visite commentée de l’exposition (en)",
+      "fullUrl": "/programme-2026/le-mouvement-visite-commentee-de-l-exposition-m9tga",
+      "urlId": "le-mouvement-visite-commentee-de-l-exposition-m9tga",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/28a7584d-a49f-4e93-b10c-9857d06e441b/PCC_2026-21-Musee_de_Carouge-Mouvement_Concours_international_de_ceramique-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite commentée"
+      ],
+      "tags": [
+        "Zone: Carouge",
+        "Année: 2026",
+        "Lieu: Musée de Carouge",
+        "Date: 2026-09-25T18:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A long-standing partner of the Parcours Céramique Carouge, the Musée de Carouge presents <em>The Movement</em> (Le Mouvement), the theme of the 20th International Ceramics Competition. Forty works, selected by an international jury, seek to capture momentum in matter and to hold the gesture still. During this guided tour, cultural mediator and art historian Maddalena Rudloff-Azzi leads visitors through the selected pieces, sharing the techniques and creative choices that bring clay, form and movement into dialogue.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1784115763884,
+      "addedOn": 1784115763884,
+      "updatedOn": 1784116178288
     },
     {
       "id": "6a4e50353c148a62264fc303",
