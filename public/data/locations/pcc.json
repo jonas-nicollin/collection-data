@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-07-10T13:29:38.490Z",
-  "sourceHash": "d3ae8ddd0fe13e492fd5ac314adef085436d94df85e1c2c7514ca34b91e3bec0",
+  "updatedAt": "2026-07-15T11:12:01.411Z",
+  "sourceHash": "8580b182647b003b2ba52f78aaf5baf4f342ee81ca6a0ac94d2dadbba3c41a15",
   "count": 31,
   "items": [
     {
@@ -752,9 +752,9 @@
       "dimanche": "11h–17h"
     },
     {
-      "slug": "art-resonance",
-      "matchKey": "art-resonance",
-      "title": "Art Résonance",
+      "slug": "art-resonance-gallery",
+      "matchKey": "art-resonance-gallery",
+      "title": "Art Resonance Gallery",
       "zone": "Genève",
       "address1": "Rue Rodolphe-Toepffer 11",
       "address2": "1206 Genève",
