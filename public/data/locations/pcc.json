@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-07-15T11:12:01.411Z",
-  "sourceHash": "8580b182647b003b2ba52f78aaf5baf4f342ee81ca6a0ac94d2dadbba3c41a15",
+  "updatedAt": "2026-07-20T12:34:47.023Z",
+  "sourceHash": "925f473574653026190654ced34cfe490123a581af96e55ec8dfcf25fc1faebf",
   "count": 31,
   "items": [
     {
@@ -960,13 +960,13 @@
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/935a94ce-280e-4009-9958-57836897cca7/PCC_Editions_Olizane.webp",
       "imagePosition": "",
-      "lundi": "-",
-      "mardi": "-",
-      "mercredi": "-",
-      "jeudi": "-",
-      "vendredi": "-",
-      "samedi": "-",
-      "dimanche": "-"
+      "lundi": "11h–18h30",
+      "mardi": "11h–18h30",
+      "mercredi": "11h–18h30",
+      "jeudi": "14h–20h",
+      "vendredi": "11h–18h30",
+      "samedi": "11h–17h",
+      "dimanche": "11h–17h"
     }
   ]
 }
