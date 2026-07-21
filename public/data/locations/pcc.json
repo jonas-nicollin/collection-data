@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "pcc",
   "id": "pcc-locations",
-  "updatedAt": "2026-07-20T12:34:47.023Z",
-  "sourceHash": "925f473574653026190654ced34cfe490123a581af96e55ec8dfcf25fc1faebf",
+  "updatedAt": "2026-07-21T14:13:34.989Z",
+  "sourceHash": "df953e3b8bd5d1a513bce0f027979007b72866b17191c5a77d9322e8d47de433",
   "count": 31,
   "items": [
     {
@@ -849,7 +849,7 @@
       "matchKey": "galerie-ligne-treize",
       "title": "Galerie Ligne Treize",
       "zone": "Genève",
-      "address1": "Boulevard Carl-Vogt 51",
+      "address1": "Nouvelle adresse\nBoulevard Carl-Vogt 51",
       "address2": "1205 Genève",
       "address3": "Suisse",
       "mapUrl": "https://maps.app.goo.gl/ncdWFaKqb1r7jiyX8",
@@ -867,7 +867,7 @@
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/696a2a1f2271cc548a020832/7525b960-97e2-4b54-85a4-006de62279ee/PCC_Galerie_Ligne_Treize.webp",
       "imagePosition": "",
-      "lundi": "-",
+      "lundi": "11h–18h",
       "mardi": "11h–18h",
       "mercredi": "11h–18h",
       "jeudi": "11h–18h",
