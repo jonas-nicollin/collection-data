@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-07-22T13:07:37.084Z",
-  "sourceHash": "fe5c067b8836853c4bbbcfa4f4b63c4247260cefa3d680b059d43013ffd78ddd",
-  "count": 83,
+  "updatedAt": "2026-07-22T15:14:46.483Z",
+  "sourceHash": "3f224eeb9d98bfa3e9af99d67155d82f4137f1da85d3456b5d8f9846f85644bc",
+  "count": 82,
   "pages": 1,
   "items": [
     {
@@ -370,11 +370,11 @@
       "updatedOn": 1782197905550
     },
     {
-      "id": "6824878ecdfab25869f2b29f",
+      "id": "6a25304f7cef27205f03b18b",
       "title": "Centre d’Art Contemporain Genève",
-      "fullUrl": "/membre/centre-dart-contemporain-geneve",
-      "urlId": "centre-dart-contemporain-geneve",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/a9d94e58-81a3-4988-874d-d53fc32b5805/Geneva_Art_Week-Members-Centre_d_Art_Contemporain_Geneve-Featured_Image-001.webp",
+      "fullUrl": "/membre/l-arcade",
+      "urlId": "l-arcade",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/8e40c0b5-5dc4-4ae9-9e77-bca5aa3094be/Geneva_Art_Week-Members-LArcade.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -384,28 +384,31 @@
         "Institution & Fondation"
       ],
       "tags": [
-        "Membre: Centre d'Art Contemporain Genève",
         "Thématique: Art contemporain",
         "Thématique: Scène artistique suisse",
-        "Quartier: Quartier des Bains"
+        "Thématique: Scène émergente",
+        "Thématique: Vidéo",
+        "Thématique: Mixed Media",
+        "Quartier: Grottes Saint-Gervais",
+        "Membre: Centre d'Art Contemporain Genève"
       ],
       "excerpt": null,
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.1989555,
-        "mapLng": 6.1379394,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
+        "mapLat": 46.2078407,
+        "mapLng": 6.145207,
+        "markerLat": 46.2078407,
+        "markerLng": 6.145207,
         "addressTitle": "Centre d&#39;Art Contemporain Genève",
-        "addressLine1": "Rue des Vieux-Grenadiers 10",
-        "addressLine2": "1205 Genève",
+        "addressLine1": "Rue de Chantepoulet 1-3",
+        "addressLine2": "1201 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 13,
+      "displayIndex": 84,
       "workflowState": 1,
-      "publishOn": 1747958400583,
-      "addedOn": 1747958400583,
-      "updatedOn": 1783600754703
+      "publishOn": 1747957695570,
+      "addedOn": 1747957695570,
+      "updatedOn": 1784727014021
     },
     {
       "id": "6824878fcdfab25869f2b2a2",
@@ -1675,47 +1678,6 @@
       "publishOn": 1745713800437,
       "addedOn": 1745713800437,
       "updatedOn": 1782200414499
-    },
-    {
-      "id": "6a25304f7cef27205f03b18b",
-      "title": "L’Arcade",
-      "fullUrl": "/membre/l-arcade",
-      "urlId": "l-arcade",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/8e40c0b5-5dc4-4ae9-9e77-bca5aa3094be/Geneva_Art_Week-Members-LArcade.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Institution & Fondation"
-      ],
-      "tags": [
-        "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
-        "Membre: L'Arcade",
-        "Thématique: Scène émergente",
-        "Thématique: Vidéo",
-        "Thématique: Mixed Media",
-        "Quartier: Grottes Saint-Gervais"
-      ],
-      "excerpt": null,
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.2078407,
-        "mapLng": 6.145207,
-        "markerLat": 46.2078407,
-        "markerLng": 6.145207,
-        "addressTitle": "L&#39;Arcade",
-        "addressLine1": "Rue de Chantepoulet 1-3",
-        "addressLine2": "1201 Genève",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 84,
-      "workflowState": 1,
-      "publishOn": 1745711295570,
-      "addedOn": 1745711295570,
-      "updatedOn": 1782200499461
     },
     {
       "id": "6a330efaf58c910d7b4b6a15",
