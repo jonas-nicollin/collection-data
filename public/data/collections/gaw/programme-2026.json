@@ -5,10 +5,10 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-27T10:57:11.595Z",
-  "sourceHash": "d40bbc8e2f64cc56f4ac1952727ab30ee05529eec20b9db132afe53b9974c229",
-  "count": 55,
-  "pages": 3,
+  "updatedAt": "2026-07-27T12:00:06.286Z",
+  "sourceHash": "b01f280e06dcea4f0fe00c56f58f78d63b623b70aefb493fcbbd021ad76cc64f",
+  "count": 81,
+  "pages": 5,
   "items": [
     {
       "id": "6a5124f50400ba72cdffe25e",
@@ -334,6 +334,99 @@
       "updatedOn": 1785147495819
     },
     {
+      "id": "6a5fe478799b9d502f654e5f",
+      "title": "Dîner exploratoire",
+      "fullUrl": "/programme-2026/diner-exploratoire",
+      "urlId": "diner-exploratoire",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/bb805cc9-9eb6-4c83-bc6b-8aca23b193b8/Geneva_Art_Week-Event_2026-Souffle.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Performance"
+      ],
+      "tags": [
+        "Membre: HiFlow",
+        "Quartier: Plan-les-Ouates",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Type: Événement",
+        "Artiste: Séverin Guelpa",
+        "Thématique: Mixed Media",
+        "Date: 2026-09-18T20:30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.164745,
+        "mapLng": 6.1036682,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "HiFlow",
+        "addressLine1": "Chemin du Champ-des-Filles 36A",
+        "addressLine2": "1228 Plan-les-Ouates",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 82,
+      "workflowState": 1,
+      "publishOn": 1784669304400,
+      "addedOn": 1784669304400,
+      "updatedOn": 1785153234080
+    },
+    {
+      "id": "6a5fe01ff968e2685ee7ae17",
+      "title": "Autour du Nouveau Réalisme",
+      "fullUrl": "/programme-2026/le-nouveau-realisme-un-recyclage-poetique-du-reel-urbain-5appf",
+      "urlId": "le-nouveau-realisme-un-recyclage-poetique-du-reel-urbain-5appf",
+      "assetUrl": "https://static1.squarespace.com/static/681a007f6f3cac6d5d03b4c2/6a26bf628fb7ec7d44b4c972/6a5fe01ff968e2685ee7ae17/1785153251907/",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Thématique: Art contemporain",
+        "Quartier: Vieille-Ville",
+        "Membre: Galerie Sonia Zannettacci",
+        "Artiste: Arman",
+        "Artiste: César",
+        "Artiste: Christo et Jeanne-Claude",
+        "Artiste: Gérard Deschamps",
+        "Artiste: François Dufrêne",
+        "Artiste: Yves Klein",
+        "Artiste: Niki de Saint Phalle",
+        "Artiste: Daniel Spoerri",
+        "Artiste: Jean Tinguely",
+        "Artiste: Jacques Villeglé",
+        "Date: 2026-09-16/2026-10-31",
+        "Vernissage: 2026-09-16T16:00",
+        "Artiste: Mimmo Rotella"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20102869999999,
+        "mapLng": 6.1459188,
+        "markerLat": 46.20102869999999,
+        "markerLng": 6.1459188,
+        "addressTitle": "Galerie Sonia Zannettacci",
+        "addressLine1": "Rue Henri-Fazy 4",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 80,
+      "workflowState": 1,
+      "publishOn": 1784668191973,
+      "addedOn": 1784668191973,
+      "updatedOn": 1785153251907
+    },
+    {
       "id": "6a5a65996839a411e1a47a10",
       "title": "Pierre la Police, rétrospective",
       "fullUrl": "/programme-2026/pierre-la-police-retrospective",
@@ -506,6 +599,535 @@
       "updatedOn": 1785148086601
     },
     {
+      "id": "6a5a4934e4e64175c38ae0b9",
+      "title": "Dita Cossio: INHERITED",
+      "fullUrl": "/programme-2026/dita-cossio-inherited",
+      "urlId": "dita-cossio-inherited",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784301995793-ZME53GXNKRMSDH8LI0YE/Geneva_Art_Week-Exhibition_2026-Aubert_Jansem_Geneve-Dita_Cossio_Inherited-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Thématique: Céramique",
+        "Artiste: Dita Cossio",
+        "Quartier: Lancy",
+        "Membre: Aubert Jansem Genève",
+        "Thématique: Sculpture",
+        "Date: 2026-09-16/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Lieu: Patio des Ports Francs et Entrepôts de Genève S.A."
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1879912,
+        "mapLng": 6.1261657,
+        "markerLat": 46.1879912,
+        "markerLng": 6.1261657,
+        "addressTitle": "Patio des Ports Francs et Entrepôts de Genève",
+        "addressLine1": "Route du Grand-Lancy 6A",
+        "addressLine2": "1227 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 69,
+      "workflowState": 1,
+      "publishOn": 1784301876814,
+      "addedOn": 1784301876814,
+      "updatedOn": 1785153579567
+    },
+    {
+      "id": "6a5805608b34023ea0285e48",
+      "title": "Art Talks – Les scènes de l'art contemporain à Genève",
+      "fullUrl": "/programme-2026/art-talks",
+      "urlId": "art-talks",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1d2c9bd3-fec1-4725-a169-938ff444906e/Geneva_Art_Week-Event_2026-Art-Talk.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Membre: Geneva Art Week",
+        "Lieu: Salle du catalogue",
+        "Date: 2026-09-19T14:30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1990479,
+        "mapLng": 6.1463127,
+        "markerLat": 46.1990479,
+        "markerLng": 6.1463127,
+        "addressTitle": "Salle du catalogue – Bibliothèque de Genève – Bastions, 1er étage",
+        "addressLine1": "Promenade des Bastions",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 67,
+      "workflowState": 1,
+      "publishOn": 1784153440453,
+      "addedOn": 1784153440453,
+      "updatedOn": 1785153263112
+    },
+    {
+      "id": "6a57fdb38090722e11b78006",
+      "title": "Rokocozeit",
+      "fullUrl": "/programme-2026/rokocozeit",
+      "urlId": "rokocozeit",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784151521552-LJE5MM40VONGLPB9SXOF/Geneva_Art_Week-Exhibition_2026-Le_Labo-Rokocozeit-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Quartier: Jonction",
+        "Membre: Le Labo",
+        "Thématique: Céramique",
+        "Thématique: Mixed Media",
+        "Thématique: Art contemporain",
+        "Artiste: Claire Mayet",
+        "Date: 2026-09-16/2026-10-31",
+        "Vernissage: 2026-09-16T17:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2014076,
+        "mapLng": 6.131189399999999,
+        "markerLat": 46.2014076,
+        "markerLng": 6.131189399999999,
+        "addressTitle": "Le Labo",
+        "addressLine1": "Boulevard de Saint-Georges 5",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 65,
+      "workflowState": 1,
+      "publishOn": 1784151475193,
+      "addedOn": 1784151475193,
+      "updatedOn": 1785151625080
+    },
+    {
+      "id": "6a57fa4675819e7269891e1f",
+      "title": "Reopening in Blue",
+      "fullUrl": "/programme-2026/reopening-in-blue",
+      "urlId": "reopening-in-blue",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784150605942-ZW91J1N907K5CEDQHEH8/Geneva_Art_Week-Exhibition_2026-Galerie_Latham-Reopening_in_Blue-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Quartier: Quartier des banques",
+        "Membre: Galerie Latham",
+        "Thématique: Arts Décoratifs du XXe siècle",
+        "Artiste: Loetz Witwe",
+        "Artiste: Alessandro Mendini",
+        "Artiste: Henri Navarre",
+        "Artiste: Edouard Chapallaz",
+        "Artiste: Bodil Manz",
+        "Artiste: Roger Vieillard",
+        "Artiste: Yves Laloy",
+        "Artiste: Edmond Lachenal",
+        "Date: 2026-09-16/2026-09-26",
+        "Vernissage: 2026-09-16T14:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2016042,
+        "mapLng": 6.140503799999999,
+        "markerLat": 46.2024371,
+        "markerLng": 6.144837,
+        "addressTitle": "Galerie Latham",
+        "addressLine1": "Boulevard Georges-Favon 19",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 64,
+      "workflowState": 1,
+      "publishOn": 1784150598383,
+      "addedOn": 1784150598383,
+      "updatedOn": 1785151495605
+    },
+    {
+      "id": "6a57f80bdce3817a4d091bf6",
+      "title": "Between Form and Use, Where Gestures Begin",
+      "fullUrl": "/programme-2026/between-form-and-use-where-gestures-begin",
+      "urlId": "between-form-and-use-where-gestures-begin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784150035782-D5YCMNZR0MSXPKB2A4OC/Geneva_Art_Week-Exhibition_2026-Art_Resonance_Gallery-Between_Form_and_Use_Where_Gestures_Begin-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Quartier: Vieille-Ville",
+        "Membre: Art Resonance Gallery",
+        "Thématique: Céramique",
+        "Date: 2026-09-16/2026-10-15",
+        "Vernissage: 2026-09-16T16:00",
+        "Artiste: Xinyi Hu"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1986027,
+        "mapLng": 6.1539644,
+        "markerLat": 46.2024371,
+        "markerLng": 6.144837,
+        "addressTitle": "Art Resonance Gallery",
+        "addressLine1": "Rue Rodolphe-Toepffer 11",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 63,
+      "workflowState": 1,
+      "publishOn": 1784150027852,
+      "addedOn": 1784150027852,
+      "updatedOn": 1785151519686
+    },
+    {
+      "id": "6a57f2a266d71f6071e55f47",
+      "title": "Small Dance",
+      "fullUrl": "/programme-2026/small-dance",
+      "urlId": "small-dance",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784148703242-VCKYLDY27WG4Y1T3R32A/Geneva_Art_Week-Exhibition_2026-Galerie_Polomarco-Small_Dance-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Thématique: Art contemporain",
+        "Membre: Galerie Polomarco",
+        "Quartier: Vieille-Ville",
+        "Artiste: Vanessa Riera",
+        "Thématique: Art textile",
+        "Thématique: Vidéo",
+        "Date: 2026-09-14/2026-10-18",
+        "Vernissage: 2026-09-16T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2024371,
+        "mapLng": 6.144837,
+        "markerLat": 46.2024371,
+        "markerLng": 6.144837,
+        "addressTitle": "Galerie Polomarco",
+        "addressLine1": "Grand-Rue 5",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 62,
+      "workflowState": 1,
+      "publishOn": 1784148642310,
+      "addedOn": 1784148642310,
+      "updatedOn": 1785151555908
+    },
+    {
+      "id": "6a57ecf04ba7754fcced3aaa",
+      "title": "Cartographie intérieure",
+      "fullUrl": "/programme-2026/cartographie-interieure",
+      "urlId": "cartographie-interieure",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784147415148-WJ7SL3I777HJ65W6K55N/Geneva_Art_Week-Exhibition_2026-Atelier_Galerie_Kaolin-Cartographie_interieure-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Membre: Atelier Galerie Kaolin",
+        "Quartier: Carouge",
+        "Artiste: Fabienne Guyomarch",
+        "Date: 2026-09-19/2026-09-27",
+        "Thématique: Céramique",
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Vernissage: 2026-09-19T11:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1863342,
+        "mapLng": 6.1422364,
+        "markerLat": 46.1863342,
+        "markerLng": 6.1422364,
+        "addressTitle": "Atelier Galerie Kaolin",
+        "addressLine1": "Avenue Cardinal-Mermillod 18",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 61,
+      "workflowState": 1,
+      "publishOn": 1784147184314,
+      "addedOn": 1784147184314,
+      "updatedOn": 1785151512711
+    },
+    {
+      "id": "6a57e99f2e2ab15a53776ddf",
+      "title": "Dystopie",
+      "fullUrl": "/programme-2026/dystopie",
+      "urlId": "dystopie",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784146609954-IIDSXQQHJ9F88GITE60N/Geneva_Art_Week-Exhibition_2026-Gutknecht_Gallery-Dystopie-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Vernissage: 2026-09-16T18:00",
+        "Membre: Gutknecht Gallery",
+        "Quartier: Vieille-Ville",
+        "Type: Solo show",
+        "Artiste: Cédric Delsaux",
+        "Thématique: Photographie",
+        "Date: 2026-09-16/2026-10-31"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1993532,
+        "mapLng": 6.148347800000001,
+        "markerLat": 46.1993532,
+        "markerLng": 6.148347800000001,
+        "addressTitle": " Gutknecht Gallery",
+        "addressLine1": "Rue Saint-Léger 28",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 60,
+      "workflowState": 1,
+      "publishOn": 1784146335766,
+      "addedOn": 1784146335766,
+      "updatedOn": 1785151502783
+    },
+    {
+      "id": "6a56df03eaca7446822dc221",
+      "title": "Studio Visits",
+      "fullUrl": "/programme-2026/studio-visits",
+      "urlId": "studio-visits",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784148677101-18WAGPU5MIO1D7LT5MGO/Geneva_Art_Week-Event_2026-Studio-Visit-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Membre: Geneva Art Week",
+        "Date: 2026-09-16/2026-09-20"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1742417,
+        "mapLng": 6.1352932,
+        "markerLat": 46.1742417,
+        "markerLng": 6.1352932,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 59,
+      "workflowState": 1,
+      "publishOn": 1784078083299,
+      "addedOn": 1784078083299,
+      "updatedOn": 1785151487917
+    },
+    {
+      "id": "6a56ca4ecee308493d1075b5",
+      "title": "Parcours Céramique Carouge",
+      "fullUrl": "/programme-2026/parcours-ceramique-carouge",
+      "urlId": "parcours-ceramique-carouge",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784076979606-9Q71MALGW66CF21JBYFL/Geneva_Art_Week-Event_2026-PCC-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Quartier: Carouge",
+        "Membre: Fondation Bruckner",
+        "Date: 2026-09-19T11:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1742417,
+        "mapLng": 6.1352932,
+        "markerLat": 46.1742417,
+        "markerLng": 6.1352932,
+        "addressTitle": "Fondation Bruckner",
+        "addressLine1": "Chemin de Grange-Collomb 38",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 58,
+      "workflowState": 1,
+      "publishOn": 1784072782360,
+      "addedOn": 1784072782360,
+      "updatedOn": 1785151480191
+    },
+    {
+      "id": "6a56c6caeaca744682249198",
+      "title": "Nuit des Bains",
+      "fullUrl": "/programme-2026/nuit-des-bains",
+      "urlId": "nuit-des-bains",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784072462733-0D10ZBOT7CPWMSBTWHZS/Geneva_Art_Week-Event_2026-QDB-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.49107142857142855,
+        "y": 0.37797619047619047,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Quartier: Quartier des Bains",
+        "Membre: Quartier des Bains",
+        "Date: 2026-09-17T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1985766,
+        "mapLng": 6.1378595,
+        "markerLat": 46.1985766,
+        "markerLng": 6.1378595,
+        "addressTitle": "Quartier des Bains",
+        "addressLine1": "Rue des Vieux-Grenadiers",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 57,
+      "workflowState": 1,
+      "publishOn": 1784071882261,
+      "addedOn": 1784071882261,
+      "updatedOn": 1785151470866
+    },
+    {
+      "id": "6a56bf8f18f4a346b26fa6d0",
+      "title": "Art en Vieille-Ville",
+      "fullUrl": "/programme-2026/art-en-vieille-ville",
+      "urlId": "art-en-vieille-ville",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784071416821-OGKVDQANJ85GAEJSIM4L/Geneva_Art_Week-Event_2026-AVV-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Quartier: Vieille-Ville",
+        "Membre: Art en Vieille-Ville",
+        "Date: 2026-09-16T16:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2002544,
+        "mapLng": 6.1491858,
+        "markerLat": 46.2002544,
+        "markerLng": 6.1491858,
+        "addressTitle": "Art en Vieille-Ville",
+        "addressLine1": "Place du Bourg-de-Four",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 56,
+      "workflowState": 1,
+      "publishOn": 1784070031909,
+      "addedOn": 1784070031909,
+      "updatedOn": 1785151265403
+    },
+    {
+      "id": "6a55685bad611a24c1408353",
+      "title": "Le regard de Mayte Garcia",
+      "fullUrl": "/programme-2026/le-regard-de-mayte-garcia",
+      "urlId": "le-regard-de-mayte-garcia",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/88170454-1058-4c9b-b67d-7e70f7c0a111/Geneva_Art_Week-Event_2026-Le+regard-de-Mayte-Garcia.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Talk"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Membre: De Jonckheere",
+        "Quartier: Vieille-Ville",
+        "Thématique: Peinture",
+        "Date: 2026-09-16T18:00",
+        "Intervenante: Mayte Garcia"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2006739,
+        "mapLng": 6.1476339,
+        "markerLat": 46.2006739,
+        "markerLng": 6.1476339,
+        "addressTitle": "De Jonckheere",
+        "addressLine1": "Rue de l&#39;Hôtel-de-Ville 7",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 55,
+      "workflowState": 1,
+      "publishOn": 1783982171859,
+      "addedOn": 1783982171859,
+      "updatedOn": 1785151272092
+    },
+    {
       "id": "6a555b8edfb5864a8194fc67",
       "title": "Dix ans de Transbordeur",
       "fullUrl": "/programme-2026/dix-ans-de-transbordeur",
@@ -555,6 +1177,513 @@
       "publishOn": 1783978894150,
       "addedOn": 1783978894150,
       "updatedOn": 1785146630067
+    },
+    {
+      "id": "6a5558dc4bcec764eb51603c",
+      "title": "Nocturne",
+      "fullUrl": "/programme-2026/nocturne",
+      "urlId": "nocturne",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/72df5e75-c4ce-4b8d-b2e1-c5db41f5f976/Geneva_Art_Week-Event_2026-MAMCO-Nocturne-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.4603567888999009,
+        "y": 0.3839464260800819,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Membre: MAMCO",
+        "Artiste: Sylvia Sleigh",
+        "Lieu: Musée Rath",
+        "Quartier: Centre",
+        "Type: Événement",
+        "Date: 2026-09-17T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2009623,
+        "mapLng": 6.1434779,
+        "markerLat": 46.2009623,
+        "markerLng": 6.1434779,
+        "addressTitle": "Musée Rath",
+        "addressLine1": "Place de Neuve 1",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 53,
+      "workflowState": 1,
+      "publishOn": 1783978204794,
+      "addedOn": 1783978204794,
+      "updatedOn": 1785151320713
+    },
+    {
+      "id": "6a552fb65e2ee141fa20b098",
+      "title": "Visite musicale de l'exposition Sylvia Sleigh – Balade musicale au musée",
+      "fullUrl": "/programme-2026/visite-musicale-de-l-exposition-sylvia-sleigh-balade-musicale-au-musee",
+      "urlId": "visite-musicale-de-l-exposition-sylvia-sleigh-balade-musicale-au-musee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/b2c92e20-4021-4d26-b5c8-ff4329d6f200/Geneva_Art_Week-Event_2026-MAMCO-Sylvia+Sleigh-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.48214285714285715,
+        "y": 0.33630952380952384,
+        "source": 3
+      },
+      "categories": [
+        "Performance"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Membre: MAMCO",
+        "Artiste: Sylvia Sleigh",
+        "Lieu: Musée Rath",
+        "Artiste: Noëlle Reymond",
+        "Thématique: Scène artistique suisse",
+        "Date: 2026-09-17T18:30",
+        "Quartier: Centre",
+        "Type: Événement"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2009623,
+        "mapLng": 6.1434779,
+        "markerLat": 46.2009623,
+        "markerLng": 6.1434779,
+        "addressTitle": "Musée Rath",
+        "addressLine1": "Place de Neuve 1",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 52,
+      "workflowState": 1,
+      "publishOn": 1783967670385,
+      "addedOn": 1783967670385,
+      "updatedOn": 1785151612023
+    },
+    {
+      "id": "6a552bae78b1d715536a69ab",
+      "title": "Fragiles – Visite guidée par l’artiste Gisèle Bonin",
+      "fullUrl": "/programme-2026/fragiles-visite-guidee",
+      "urlId": "fragiles-visite-guidee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783967395364-4GGKN19JRQLVZ9XNFL0I/Geneva_Art_Week-Event_2026-Fragiles-Visite-Guidee-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Thématique: Dessin",
+        "Membre: MABE Gallery",
+        "Quartier: Vieille-Ville",
+        "Artiste: Gisèle Bonin",
+        "Date: 2026-09-17T12:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2017889,
+        "mapLng": 6.146338600000001,
+        "markerLat": 46.2017889,
+        "markerLng": 6.146338600000001,
+        "addressTitle": "MABE Gallery",
+        "addressLine1": "Grand-Rue 25",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 51,
+      "workflowState": 1,
+      "publishOn": 1783966638711,
+      "addedOn": 1783966638711,
+      "updatedOn": 1785151578232
+    },
+    {
+      "id": "6a55115731513a7c6eb157a5",
+      "title": "LANDSCAPE VIDEO GAME",
+      "fullUrl": "/programme-2026/landscape-video-game",
+      "urlId": "landscape-video-game",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783959978273-ZTS9JLT64PGF7H98L20J/Geneva_Art_Week-Exhibition_2026-Base_Window-Landscape_Video_Game-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Quartier: Pâquis Sécheron",
+        "Type: Exposition",
+        "Artiste: Pascal Greco",
+        "Thématique: Art numérique",
+        "Thématique: Photographie",
+        "Membre: Base Window",
+        "Date: 2026-09-16/2026-10-30",
+        "Vernissage: 2026-09-16T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2103999,
+        "mapLng": 6.149202499999999,
+        "markerLat": 46.2103999,
+        "markerLng": 6.149202499999999,
+        "addressTitle": "Base Window",
+        "addressLine1": "Rue de Monthoux 12",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 50,
+      "workflowState": 1,
+      "publishOn": 1783959895721,
+      "addedOn": 1783959895721,
+      "updatedOn": 1785151569493
+    },
+    {
+      "id": "6a550e4d8fcc0051265ad807",
+      "title": "Concours International de Céramique 2026 – Le Mouvement",
+      "fullUrl": "/programme-2026/concours-international-de-ceramique-2026-le-mouvement",
+      "urlId": "concours-international-de-ceramique-2026-le-mouvement",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783959133262-YULU1AMUAK89ZW5YC1LD/Geneva_Art_Week-Exhibition_2026-Musee_de_Carouge-Concours_International_Ceramique_2026_Le_Mouvement-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Artiste: Pierre André Ferrand",
+        "Quartier: Carouge",
+        "Membre: Musée de Carouge",
+        "Type: Exposition",
+        "Date: 2026-09-19/2026-11-29",
+        "Thématique: Céramique",
+        "Thématique: Sculpture",
+        "Vernissage: 2026-09-19T19:00",
+        "Artiste: Mendy Arp",
+        "Artiste: Camille Azéma",
+        "Artiste: Domitilla Biondi",
+        "Artiste: Lindsey Bloomfield",
+        "Artiste: Théodora Yuchang Chiou",
+        "Artiste: Charlotte Clauzel",
+        "Artiste: Marc Cotting",
+        "Artiste: Jessica Cremone",
+        "Artiste: Wang Deng & Xiong Jinghao",
+        "Artiste: Marie Epiney",
+        "Artiste: Sandra Foltz",
+        "Artiste: Ana Gonzalez Dominguez",
+        "Artiste: Murielle Hansotte",
+        "Artiste: Julia Huteau",
+        "Artiste: Agate Kalcenaua",
+        "Artiste: Atsushi Kitahara",
+        "Artiste: Lara Koull",
+        "Artiste: Daria Kowalewska",
+        "Artiste: Klemans",
+        "Artiste: Florence Lemiegre",
+        "Artiste: Annina Linggi",
+        "Artiste: Marco Malavolti & Lorella Morgantini",
+        "Artiste: Nina Malo",
+        "Artiste: Bruno Mertens",
+        "Artiste: Béatrice Meunier Okumura",
+        "Artiste: Akashi Murakami",
+        "Artiste: Pegah Mirzaei",
+        "Artiste: Beate Pfefferkorn",
+        "Artiste: Georgia Polyzoi",
+        "Artiste: Mirielle Rohr",
+        "Artiste: Julia Rückert",
+        "Artiste: Sylvia Sauerwald",
+        "Artiste: Barbara Schmid",
+        "Artiste: Aline Schmitt",
+        "Artiste: SaeRi Seo",
+        "Artiste: Anastasia Shu",
+        "Artiste: Nadia Stieglitz",
+        "Artiste: Kwan Tam",
+        "Artiste: Ellen Van der Woude",
+        "Artiste: Annemarie Vogel",
+        "Artiste: Dawid Zynda"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1843684,
+        "mapLng": 6.1391744,
+        "markerLat": 46.1843684,
+        "markerLng": 6.1391744,
+        "addressTitle": "Musée de Carouge",
+        "addressLine1": "Place de Sardaigne 2",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 49,
+      "workflowState": 1,
+      "publishOn": 1783959117424,
+      "addedOn": 1783959117424,
+      "updatedOn": 1785151597362
+    },
+    {
+      "id": "6a550814d2b952267ff74d31",
+      "title": "Pierre André Ferrand",
+      "fullUrl": "/programme-2026/pierre-andre-ferrand",
+      "urlId": "pierre-andre-ferrand",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783958757857-5F3U6KCF8JCQAC5L49AW/Geneva_Art_Week-Exhibition_2026-Skopia-Pierre_Andre_Ferrand-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Vernissage: 2026-09-17T18:00",
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains",
+        "Type: Solo show",
+        "Thématique: Peinture",
+        "Membre: Skopia / P.-H. Jaccaud",
+        "Artiste: Pierre André Ferrand",
+        "Thématique: Dessin",
+        "Date: 2026-09-18/2026-10-31"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984082,
+        "mapLng": 6.1380007,
+        "markerLat": 46.1984082,
+        "markerLng": 6.1380007,
+        "addressTitle": "Skopia / P.-H. Jaccaud",
+        "addressLine1": "Rue des Vieux-Grenadiers 9",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 48,
+      "workflowState": 1,
+      "publishOn": 1783957524272,
+      "addedOn": 1783957524272,
+      "updatedOn": 1785151605025
+    },
+    {
+      "id": "6a55067afffd3229acd136be",
+      "title": "Unfamiliar, Luminous, Remote",
+      "fullUrl": "/programme-2026/unfamiliar-luminous-remote",
+      "urlId": "unfamiliar-luminous-remote",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784151342562-VKJTZTH9UNM92K2FNXQW/Geneva_Art_Week-Event_2026-Unfamiliar-Luminous-Remote-04.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Vernissage: 2026-09-17T18:00",
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains",
+        "Type: Solo show",
+        "Membre: Galerie Fabienne Levy",
+        "Artiste: Amit Berman",
+        "Thématique: Peinture",
+        "Thématique: Scène émergente",
+        "Date: 2026-09-17/2026-11-07"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1985036,
+        "mapLng": 6.1388396,
+        "markerLat": 46.1985036,
+        "markerLng": 6.1388396,
+        "addressTitle": "Galerie Fabienne Levy",
+        "addressLine1": "Rue des Vieux-Grenadiers 2",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 47,
+      "workflowState": 1,
+      "publishOn": 1783957114429,
+      "addedOn": 1783957114429,
+      "updatedOn": 1785151461893
+    },
+    {
+      "id": "6a5504b4fffd3229acd069b5",
+      "title": "David Medalla",
+      "fullUrl": "/programme-2026/david-medalla",
+      "urlId": "david-medalla",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783956906278-SJOHR16ONDU6V30X4LSC/Geneva_Art_Week-Exhibition_2026-Lovay_Fine_Arts-David_Medalla-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Vernissage: 2026-09-17T18:00",
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains",
+        "Membre: Lovay Fine Arts",
+        "Date: 2026-09-18/2026-10-25",
+        "Artiste: David Medalla",
+        "Type: Solo show",
+        "Thématique: Dessin",
+        "Thématique: Mixed Media"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2010251,
+        "mapLng": 6.1370692,
+        "markerLat": 46.2010251,
+        "markerLng": 6.1370692,
+        "addressTitle": "Lovay Fine Arts",
+        "addressLine1": "Rue des Sablons 4",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 46,
+      "workflowState": 1,
+      "publishOn": 1783956660283,
+      "addedOn": 1783956660283,
+      "updatedOn": 1785151381115
+    },
+    {
+      "id": "6a540cf570bbc541a84421cb",
+      "title": "Démonstration de Dita Cossio",
+      "fullUrl": "/programme-2026/demonstration-de-dita-cossio",
+      "urlId": "demonstration-de-dita-cossio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1877ee5a-f553-4975-a410-4dff946532c0/Geneva_Art_Week-Event_2026-Demonstration-Dita-Cossio.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Performance"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Thématique: Céramique",
+        "Membre: Fondation Bruckner",
+        "Quartier: Carouge",
+        "Artiste: Dita Cossio",
+        "Date: 2026-09-20T15:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1742417,
+        "mapLng": 6.1352932,
+        "markerLat": 46.1742417,
+        "markerLng": 6.1352932,
+        "addressTitle": "Fondation Bruckner",
+        "addressLine1": "Chemin de Grange-Collomb 38",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 45,
+      "workflowState": 1,
+      "publishOn": 1783893237724,
+      "addedOn": 1783893237724,
+      "updatedOn": 1785151449625
+    },
+    {
+      "id": "6a5404ab7825930f6996ab95",
+      "title": "Conférence d'Amélie Patry",
+      "fullUrl": "/programme-2026/conference-amelie-patry",
+      "urlId": "conference-amelie-patry",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/75b70260-9b54-40b2-a686-6dda62401bbc/Geneva_Art_Week-Event_2026-Confe%CC%81rence-Ame%CC%81lie-Patry.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Talk"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Thématique: Céramique",
+        "Membre: Fondation Bruckner",
+        "Quartier: Carouge",
+        "Artiste: Amélie Patry",
+        "Date: 2026-09-20T13:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1742417,
+        "mapLng": 6.1352932,
+        "markerLat": 46.1742417,
+        "markerLng": 6.1352932,
+        "addressTitle": "Fondation Bruckner",
+        "addressLine1": "Chemin de Grange-Collomb 38",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 44,
+      "workflowState": 1,
+      "publishOn": 1783891115061,
+      "addedOn": 1783891115061,
+      "updatedOn": 1785151335594
+    },
+    {
+      "id": "6a5400e18668e102f9135b90",
+      "title": "La Matière de l'absence – Visite guidée",
+      "fullUrl": "/programme-2026/la-matiere-de-l-absence-visite-guidee",
+      "urlId": "la-matiere-de-l-absence-visite-guidee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783890483487-CPKEI43IC0OT5AVHOQD4/Geneva_Art_Week-Event_2026-La-Matie%CC%80re-de-l-absence%E2%80%93Visite+guide%CC%81e-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Thématique: Céramique",
+        "Thématique: Art contemporain",
+        "Membre: Fondation Bruckner",
+        "Quartier: Carouge",
+        "Thématique: Sculpture",
+        "Lieu: Bruckner hors les murs",
+        "Artiste: Ninon Hivert",
+        "Artiste: Asya Marakulina",
+        "Intervenante: Emilie Fargues",
+        "Date: 2026-09-20T11:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1823246,
+        "mapLng": 6.140715399999999,
+        "markerLat": 46.1823246,
+        "markerLng": 6.140715399999999,
+        "addressTitle": "Bruckner hors les murs",
+        "addressLine1": "Rue Adolphe-Fontanel 4",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 43,
+      "workflowState": 1,
+      "publishOn": 1783890145121,
+      "addedOn": 1783890145121,
+      "updatedOn": 1785151328243
     },
     {
       "id": "6a53d0a770bbc541a8305b1f",
