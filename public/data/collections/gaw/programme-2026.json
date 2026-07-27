@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-27T12:00:06.286Z",
-  "sourceHash": "b01f280e06dcea4f0fe00c56f58f78d63b623b70aefb493fcbbd021ad76cc64f",
-  "count": 81,
+  "updatedAt": "2026-07-27T12:04:31.919Z",
+  "sourceHash": "3abb1ac02414b85057dabe7c42ca23845bce83a1f5c81abf6a034719a0731740",
+  "count": 84,
   "pages": 5,
   "items": [
     {
@@ -597,6 +597,141 @@
       "publishOn": 1784307475042,
       "addedOn": 1784307475042,
       "updatedOn": 1785148086601
+    },
+    {
+      "id": "6a5a553309e76b531054f160",
+      "title": "Lilian Bourgeat",
+      "fullUrl": "/programme-2026/lilian-bourgeat",
+      "urlId": "lilian-bourgeat",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784305073348-FOGGKI5ETGLKQYF8VAY3/Geneva_Art_Week-Exhibition_2026-galerie_lange_pult-Lilian_Bourgeat-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Artiste: Lilian Bourgeat",
+        "Membre: Galerie Lange + Pult",
+        "Thématique: Sculpture",
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains",
+        "Date: 2026-09-17/2026-11-07",
+        "Vernissage: 2026-09-17T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1983213,
+        "mapLng": 6.137031299999999,
+        "markerLat": 46.1983213,
+        "markerLng": 6.137031299999999,
+        "addressTitle": " Galerie lange &#43; pult",
+        "addressLine1": "Rue des Bains 22",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 72,
+      "workflowState": 1,
+      "publishOn": 1784304947556,
+      "addedOn": 1784304947556,
+      "updatedOn": 1785153785166
+    },
+    {
+      "id": "6a5a4dea93ef786c65d99343",
+      "title": "Intérieurs",
+      "fullUrl": "/programme-2026/interieurs",
+      "urlId": "interieurs",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784304615979-F6LKS67FQRRF8SO5IS15/Geneva_Art_Week-Exhibition_2026-Galerie_Series_Rares-Interieurs-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Artiste: Capucine Pageron",
+        "Membre: Galerie Séries Rares",
+        "Thématique: Céramique",
+        "Thématique: Dessin",
+        "Quartier: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1849465,
+        "mapLng": 6.1423862,
+        "markerLat": 46.1849465,
+        "markerLng": 6.1423862,
+        "addressTitle": "Galerie Séries Rares",
+        "addressLine1": "Rue Vautier 15",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 71,
+      "workflowState": 1,
+      "publishOn": 1784303082537,
+      "addedOn": 1784303082537,
+      "updatedOn": 1785153669295
+    },
+    {
+      "id": "6a5a4b6c03f0132411378a4b",
+      "title": "Le Nouveau Réalisme : un recyclage poétique du réel urbain",
+      "fullUrl": "/programme-2026/le-nouveau-realisme-un-recyclage-poetique-du-reel-urbain",
+      "urlId": "le-nouveau-realisme-un-recyclage-poetique-du-reel-urbain",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784302538146-YRXW9JUDIMPA5UDM9OQ8/Geneva_Art_Week-Exhibition_2026-Galerie_Sonia_Zannattecci-Le_Nouveau_Realisme_Un_Recyclage_Poetique_Du_Reel_Urbain-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Thématique: Art contemporain",
+        "Quartier: Vieille-Ville",
+        "Membre: Galerie Sonia Zannettacci",
+        "Artiste: Arman",
+        "Artiste: César",
+        "Artiste: Christo et Jeanne-Claude",
+        "Artiste: Gérard Deschamps",
+        "Artiste: François Dufrêne",
+        "Artiste: Yves Klein",
+        "Artiste: Niki de Saint Phalle",
+        "Artiste: Daniel Spoerri",
+        "Artiste: Jean Tinguely",
+        "Artiste: Jacques Villeglé",
+        "Date: 2026-09-16/2026-10-31",
+        "Vernissage: 2026-09-16T16:00",
+        "Artiste: Mimmo Rotella"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20102869999999,
+        "mapLng": 6.1459188,
+        "markerLat": 46.20102869999999,
+        "markerLng": 6.1459188,
+        "addressTitle": "Galerie Sonia Zannettacci",
+        "addressLine1": "Rue Henri-Fazy 4",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 70,
+      "workflowState": 1,
+      "publishOn": 1784302444151,
+      "addedOn": 1784302444151,
+      "updatedOn": 1785153619805
     },
     {
       "id": "6a5a4934e4e64175c38ae0b9",
