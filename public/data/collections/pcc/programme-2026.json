@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-07-27T14:55:07.220Z",
-  "sourceHash": "26d95db6dbb1e653fb42332d86d837cfed75243c6ded78a5b5a1f81d24182752",
+  "updatedAt": "2026-07-27T16:55:18.908Z",
+  "sourceHash": "84303548aee158c4531856d7278c10bf3570ab52549c50bf7ffb31f0c9273a0a",
   "count": 52,
   "pages": 3,
   "items": [
@@ -1381,7 +1381,7 @@
       "workflowState": 1,
       "publishOn": 1788508800036,
       "addedOn": 1788508800036,
-      "updatedOn": 1783427932683
+      "updatedOn": 1785165031721
     },
     {
       "id": "696a4238054fc71a7afeec17",
@@ -1587,7 +1587,7 @@
       "workflowState": 1,
       "publishOn": 1788080400815,
       "addedOn": 1788080400815,
-      "updatedOn": 1783429630415
+      "updatedOn": 1785165099859
     },
     {
       "id": "69f88b4dae0e0573c35e2a8b",
@@ -1670,7 +1670,7 @@
       "workflowState": 1,
       "publishOn": 1787990421453,
       "addedOn": 1787990421453,
-      "updatedOn": 1783430109345
+      "updatedOn": 1785165144941
     },
     {
       "id": "69f4ca3727a19d79e3993abc",
@@ -1712,7 +1712,7 @@
       "workflowState": 1,
       "publishOn": 1787904008551,
       "addedOn": 1787904008551,
-      "updatedOn": 1784111136956
+      "updatedOn": 1785165164039
     },
     {
       "id": "69f88c69a44f9a2979822283",
@@ -1790,7 +1790,7 @@
       "workflowState": 1,
       "publishOn": 1787731219989,
       "addedOn": 1787731219989,
-      "updatedOn": 1783592606566
+      "updatedOn": 1785165206126
     },
     {
       "id": "69f88dafc6e22026064a2478",
@@ -1870,7 +1870,7 @@
       "workflowState": 1,
       "publishOn": 1787558403936,
       "addedOn": 1787558403936,
-      "updatedOn": 1784644006964
+      "updatedOn": 1785165976417
     },
     {
       "id": "69f88e4374e1ce4c39e2a986",
@@ -1910,7 +1910,7 @@
       "workflowState": 1,
       "publishOn": 1787472008168,
       "addedOn": 1787472008168,
-      "updatedOn": 1783590013420
+      "updatedOn": 1785166000511
     },
     {
       "id": "69f88f4be61f4720c2e6edea",
