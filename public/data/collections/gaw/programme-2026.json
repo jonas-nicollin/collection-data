@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-27T12:04:31.919Z",
-  "sourceHash": "3abb1ac02414b85057dabe7c42ca23845bce83a1f5c81abf6a034719a0731740",
-  "count": 84,
+  "updatedAt": "2026-07-27T14:55:02.089Z",
+  "sourceHash": "59278e869d072167bfd134aabbacfdffd315d563436598c0eb014c0c04734bc5",
+  "count": 87,
   "pages": 5,
   "items": [
     {
@@ -556,6 +556,50 @@
       "updatedOn": 1785148076313
     },
     {
+      "id": "6a5a6129f9de534ae1b5558d",
+      "title": "Base",
+      "fullUrl": "/programme-2026/base",
+      "urlId": "base",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784308240235-NH0L6KVWONGVA4I6LZBJ/Geneva_Art_Week-Exhibition_2026-Fondation_Bruckner-Base-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: Fondation Bruckner",
+        "Quartier: Carouge",
+        "Thématique: Céramique",
+        "Date: 2026-09-19/2026-09-27",
+        "Artiste: Sixtine Jacquart",
+        "Lieu: Halles de la Fonderie",
+        "Type: Solo show",
+        "Thématique: Mixed Media",
+        "Thématique: Performance",
+        "Vernissage: 2026-09-19T11:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1856142,
+        "mapLng": 6.145381899999999,
+        "markerLat": 46.1856142,
+        "markerLng": 6.145381899999999,
+        "addressTitle": "Halles de la Fonderie",
+        "addressLine1": "Avenue Cardinal-Mermillod 17",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 76,
+      "workflowState": 1,
+      "publishOn": 1784308009478,
+      "addedOn": 1784308009478,
+      "updatedOn": 1785153962178
+    },
+    {
       "id": "6a5a5f13621cdc516a5c445c",
       "title": "La Matière de l'absence",
       "fullUrl": "/programme-2026/la-matiere-de-labsence",
@@ -597,6 +641,96 @@
       "publishOn": 1784307475042,
       "addedOn": 1784307475042,
       "updatedOn": 1785148086601
+    },
+    {
+      "id": "6a5a5d6bfb1aa80e0e9988db",
+      "title": "Puissance 5",
+      "fullUrl": "/programme-2026/puissance-5",
+      "urlId": "puissance-5",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784307192568-3O5K0PNV5NCIL54CQURC/Geneva_Art_Week-Exhibition_2026-Rosa_Turetsky_Art_Contemporain-Puissance_5-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Quartier: Vieille-Ville",
+        "Membre: Galerie Rosa Turetsky",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Scène émergente",
+        "Date: 2026-09-16/2026-10-31",
+        "Artiste: Isa Barbier",
+        "Artiste: Vidya Gastaldon",
+        "Artiste: Lisa Lurati",
+        "Artiste: Myriam Mechita",
+        "Artiste: Sandrine Pelletier",
+        "Vernissage: 2026-09-16T16:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984412,
+        "mapLng": 6.137841600000001,
+        "markerLat": 46.1984412,
+        "markerLng": 6.137841600000001,
+        "addressTitle": "Galerie Rosa Turetsky",
+        "addressLine1": "Grand-Rue 25",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 74,
+      "workflowState": 1,
+      "publishOn": 1784307051700,
+      "addedOn": 1784307051700,
+      "updatedOn": 1785154445553
+    },
+    {
+      "id": "6a5a574c4da9785ff338f5d3",
+      "title": "Mutualisme",
+      "fullUrl": "/programme-2026/mutualisme",
+      "urlId": "mutualisme",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784305498019-TMSKK1757HKSNIKI4IGI/Geneva_Art_Week-Exhibition_2026-Olizane_Espace_Art_Contemporain-Mutualisme-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Thématique: Sculpture",
+        "Quartier: Quartier des Bains",
+        "Vernissage: 2026-09-17T18:00",
+        "Artiste: Jan Steenman",
+        "Membre: Olizane - Espace d'art contemporain",
+        "Thématique: Céramique",
+        "Thématique: Art contemporain",
+        "Date: 2026-09-16/2026-09-30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984412,
+        "mapLng": 6.137841600000001,
+        "markerLat": 46.1984412,
+        "markerLng": 6.137841600000001,
+        "addressTitle": "Olizane - Espace d&#39;art contemporain",
+        "addressLine1": "Rue des Vieux-Grenadiers 11",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 73,
+      "workflowState": 1,
+      "publishOn": 1784305484277,
+      "addedOn": 1784305484277,
+      "updatedOn": 1785153925355
     },
     {
       "id": "6a5a553309e76b531054f160",
