@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-28T17:48:16.176Z",
-  "sourceHash": "3d53657c23af13b4a16cf63163c5530c7128bd8e73624a9ad229f15f80ffaf0b",
+  "updatedAt": "2026-07-28T18:59:00.092Z",
+  "sourceHash": "13a9e3ecd7523d51a403d929d514d285c216236a8d0107a7b3e51726f69f781e",
   "count": 87,
   "pages": 5,
   "items": [
@@ -1107,7 +1107,8 @@
         "Thématique: Art textile",
         "Thématique: Vidéo",
         "Date: 2026-09-14/2026-10-18",
-        "Vernissage: 2026-09-16T18:00"
+        "Vernissage: 2026-09-16T18:00",
+        "Sélection: Art en Vieille-Ville"
       ],
       "excerpt": "",
       "location": {
@@ -1125,7 +1126,7 @@
       "workflowState": 1,
       "publishOn": 1784148642310,
       "addedOn": 1784148642310,
-      "updatedOn": 1785151555908
+      "updatedOn": 1785261096897
     },
     {
       "id": "6a57ecf04ba7754fcced3aaa",
@@ -3094,7 +3095,8 @@
         "Vernissage: 2026-09-18T18:00",
         "Quartier: Carouge",
         "Membre: teo jakob",
-        "Artiste: Raphaël Emine"
+        "Artiste: Raphaël Emine",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -3112,7 +3114,7 @@
       "workflowState": 1,
       "publishOn": 1783540957393,
       "addedOn": 1783540957393,
-      "updatedOn": 1785147772403
+      "updatedOn": 1785261250218
     },
     {
       "id": "6a4ea97dd62a154d73c23087",
@@ -3245,7 +3247,8 @@
         "Artiste: Sarah Jade Sullivan",
         "Artiste: Farren van Wyk",
         "Quartier: Quartier des Bains",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -3263,7 +3266,7 @@
       "workflowState": 1,
       "publishOn": 1783538691373,
       "addedOn": 1783538691373,
-      "updatedOn": 1785253055488
+      "updatedOn": 1785260963725
     },
     {
       "id": "6a4ea10807d9df04ffe58c22",
@@ -3289,7 +3292,8 @@
         "Artiste: Florian Luthi",
         "Date: 2026-07-13/2026-10-02",
         "Lieu: Maison de l'enfance et de l'adolescence (HUG)",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -3307,7 +3311,7 @@
       "workflowState": 1,
       "publishOn": 1783537928620,
       "addedOn": 1783537928620,
-      "updatedOn": 1785253096100
+      "updatedOn": 1785260940444
     },
     {
       "id": "6a4bce42eb4e700dfde28cdd",
@@ -3738,7 +3742,8 @@
         "Artiste: Yuyan Wang",
         "Artiste: Claus Gunti",
         "Artiste: Giselle’s Books",
-        "Date: 2026-09-13/2026-11-08"
+        "Date: 2026-09-13/2026-11-08",
+        "Sélection: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -3756,7 +3761,7 @@
       "workflowState": 1,
       "publishOn": 1783330521895,
       "addedOn": 1783330521895,
-      "updatedOn": 1785147541656
+      "updatedOn": 1785261004774
     },
     {
       "id": "6a4b72624622e4019fc4cdeb",
