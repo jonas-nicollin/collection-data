@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-28T11:59:53.074Z",
-  "sourceHash": "59278e869d072167bfd134aabbacfdffd315d563436598c0eb014c0c04734bc5",
-  "count": 87,
+  "updatedAt": "2026-07-28T14:28:52.359Z",
+  "sourceHash": "b1113d60d205b7f549bd15e494a58b28bb6cc9997e9df86eb217dbaf7e822931",
+  "count": 86,
   "pages": 5,
   "items": [
     {
@@ -3746,46 +3746,6 @@
       "publishOn": 1783330521895,
       "addedOn": 1783330521895,
       "updatedOn": 1785147541656
-    },
-    {
-      "id": "6a4b72624622e4019fc4cdeb",
-      "title": "Le Règne animal",
-      "fullUrl": "/programme-2026/le-regne-animal",
-      "urlId": "le-regne-animal",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783329853466-QKG443VN2CXWZFESUDCM/Geneva_Art_Week-Exhibition_2026-Musee_Barbier_Mueller-Le_Regne_Animal-Featured-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Exposition"
-      ],
-      "tags": [
-        "Type: Exposition",
-        "Membre: Musée Barbier-Mueller",
-        "Thématique: Art autochtone",
-        "Quartier: Centre",
-        "Artiste: Autochtones à l'identité inconnue",
-        "Date: 2026-06-26/2027-01-31"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.2020817,
-        "mapLng": 6.146649699999999,
-        "markerLat": 46.2020817,
-        "markerLng": 6.146649699999999,
-        "addressTitle": "Musée Barbier-Mueller",
-        "addressLine1": "10 Rue Jean-Calvin",
-        "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 1,
-      "workflowState": 1,
-      "publishOn": 1783329378947,
-      "addedOn": 1783329378947,
-      "updatedOn": 1785147533144
     },
     {
       "id": "6a3955d9adf86433f900c349",
