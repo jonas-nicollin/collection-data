@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-28T21:37:02.845Z",
-  "sourceHash": "13a9e3ecd7523d51a403d929d514d285c216236a8d0107a7b3e51726f69f781e",
+  "updatedAt": "2026-07-28T22:40:04.207Z",
+  "sourceHash": "f4e4e571d825fd37966136e4d55a295eb642ca06845c1055b9d5a3cebedf6120",
   "count": 87,
   "pages": 5,
   "items": [
@@ -674,7 +674,7 @@
         "Artiste: Lisa Lurati",
         "Artiste: Myriam Mechita",
         "Artiste: Sandrine Pelletier",
-        "Vernissage: 2026-09-16T16:00"
+        "Vernissage: 2026-09-16T16:30"
       ],
       "excerpt": "",
       "location": {
@@ -692,7 +692,7 @@
       "workflowState": 1,
       "publishOn": 1784307051700,
       "addedOn": 1784307051700,
-      "updatedOn": 1785154445553
+      "updatedOn": 1785275283823
     },
     {
       "id": "6a5a574c4da9785ff338f5d3",
@@ -1173,9 +1173,9 @@
     },
     {
       "id": "6a57e99f2e2ab15a53776ddf",
-      "title": "Dystopie",
-      "fullUrl": "/programme-2026/dystopie",
-      "urlId": "dystopie",
+      "title": "Dystopix",
+      "fullUrl": "/programme-2026/dystopix",
+      "urlId": "dystopix",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784146609954-IIDSXQQHJ9F88GITE60N/Geneva_Art_Week-Exhibition_2026-Gutknecht_Gallery-Dystopie-Featured-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1210,7 +1210,7 @@
       "workflowState": 1,
       "publishOn": 1784146335766,
       "addedOn": 1784146335766,
-      "updatedOn": 1785151502783
+      "updatedOn": 1785275479973
     },
     {
       "id": "6a56df03eaca7446822dc221",
