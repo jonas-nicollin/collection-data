@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-28T16:18:58.175Z",
-  "sourceHash": "c331f7b4fcbdc63415e1f17bd95608e3ecf74fed3a990c5c522621ff474d995d",
+  "updatedAt": "2026-07-28T17:48:16.176Z",
+  "sourceHash": "3d53657c23af13b4a16cf63163c5530c7128bd8e73624a9ad229f15f80ffaf0b",
   "count": 87,
   "pages": 5,
   "items": [
@@ -153,7 +153,8 @@
         "Thématique: Scène artistique suisse",
         "Artiste: Pauline Coquart",
         "Lieu: Brasserie Europe | Restaurant du Plaza Centre Cinema",
-        "Quartier: Cornavin"
+        "Quartier: Cornavin",
+        "Sélection: Art Tables"
       ],
       "excerpt": "",
       "location": {
@@ -171,7 +172,7 @@
       "workflowState": 1,
       "publishOn": 1784675230883,
       "addedOn": 1784675230883,
-      "updatedOn": 1785147393257
+      "updatedOn": 1785260685462
     },
     {
       "id": "6a5ff5d8781295475b4857e0",
@@ -193,7 +194,8 @@
         "Thématique: Scène artistique suisse",
         "Artiste: Clara Roumégoux",
         "Lieu: Tablard",
-        "Quartier: Carouge"
+        "Quartier: Carouge",
+        "Sélection: Art Tables"
       ],
       "excerpt": "",
       "location": {
@@ -211,7 +213,7 @@
       "workflowState": 1,
       "publishOn": 1784673752778,
       "addedOn": 1784673752778,
-      "updatedOn": 1785147406272
+      "updatedOn": 1785260726343
     },
     {
       "id": "6a5ff22aa366315b33ff46e3",
@@ -233,7 +235,8 @@
         "Thématique: Scène artistique suisse",
         "Lieu: Anouch",
         "Artiste: Julie Richard",
-        "Quartier: Quartier des banques"
+        "Quartier: Quartier des banques",
+        "Sélection: Art Tables"
       ],
       "excerpt": "",
       "location": {
@@ -251,7 +254,7 @@
       "workflowState": 1,
       "publishOn": 1784672810891,
       "addedOn": 1784672810891,
-      "updatedOn": 1785147416475
+      "updatedOn": 1785260709041
     },
     {
       "id": "6a5fef10d708b826713a02fa",
@@ -273,7 +276,8 @@
         "Thématique: Scène artistique suisse",
         "Lieu: Bleu Nuit",
         "Quartier: Plainpalais",
-        "Artiste: Salomé Engel"
+        "Artiste: Salomé Engel",
+        "Sélection: Art Tables"
       ],
       "excerpt": "",
       "location": {
@@ -291,7 +295,7 @@
       "workflowState": 1,
       "publishOn": 1784672016182,
       "addedOn": 1784672016182,
-      "updatedOn": 1785147428050
+      "updatedOn": 1785260651240
     },
     {
       "id": "6a5fea9aea5133409618fe61",
@@ -313,7 +317,8 @@
         "Quartier: Genève-Cité",
         "Date: 2026-09-16/2026-09-20",
         "Artiste: Yann-Stéphane Bisso",
-        "Thématique: Scène artistique suisse"
+        "Thématique: Scène artistique suisse",
+        "Sélection: Art Tables"
       ],
       "excerpt": "",
       "location": {
@@ -331,7 +336,7 @@
       "workflowState": 1,
       "publishOn": 1784670874526,
       "addedOn": 1784670874526,
-      "updatedOn": 1785147495819
+      "updatedOn": 1785260694565
     },
     {
       "id": "6a5fe478799b9d502f654e5f",
