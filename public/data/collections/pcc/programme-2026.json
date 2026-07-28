@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-07-28T09:57:53.788Z",
-  "sourceHash": "84303548aee158c4531856d7278c10bf3570ab52549c50bf7ffb31f0c9273a0a",
+  "updatedAt": "2026-07-28T11:59:58.486Z",
+  "sourceHash": "1d908d64ae75d890c42e16acaa6d258d0267ef9e4a604829f58b2d2527951a21",
   "count": 52,
   "pages": 3,
   "items": [
@@ -1716,7 +1716,7 @@
     },
     {
       "id": "69f88c69a44f9a2979822283",
-      "title": "Les collections du Cirva: Le verre, au-delà de la matière",
+      "title": "Le verre, au-delà de la matière. Les collections du Cirva",
       "fullUrl": "/programme-2026/expositions/25-1/les-collections-du-cirva-le-verre-au-dela-de-la-matiere",
       "urlId": "expositions/25-1/les-collections-du-cirva-le-verre-au-dela-de-la-matiere",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779100752010-Y7RYVR3BP3TGKK897VQ5/PCC_2026-25-Musee_Ariana-Les_Collections_du_Cirva-004.webp",
@@ -1732,8 +1732,8 @@
         "Année: 2026",
         "Lieu: Musée Ariana",
         "Zone: Genève",
-        "Date: 2025-09-19/2026-10-04",
-        "Numéro: 25.1"
+        "Numéro: 25.1",
+        "Date: 2026-04-24/2027-01-03"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">L’exposition <em>Le Verre, au-delà de la matière</em> propose une plongée dans les collections du Cirva, centre international de recherche sur le verre et les arts plastiques fondé en 1983 à Marseille. Ce laboratoire atypique accueille en résidence des artistes venus du monde entier qui, pour la plupart, découvrent le verre pour la première fois. À travers une sélection de projets, l’exposition fait dialoguer design et arts visuels, portant un regard contemporain sur une matière travaillée depuis des millénaires.</p>",
       "location": {
@@ -1751,7 +1751,7 @@
       "workflowState": 1,
       "publishOn": 1787817642672,
       "addedOn": 1787817642672,
-      "updatedOn": 1783592590168
+      "updatedOn": 1785237344367
     },
     {
       "id": "69f88d8e4be1e46e39170169",
@@ -1771,8 +1771,8 @@
         "Année: 2026",
         "Lieu: Musée Ariana",
         "Zone: Genève",
-        "Date: 2026-04-23/2026-10-30",
-        "Numéro: 25.2"
+        "Numéro: 25.2",
+        "Date: 2025-09-19/2026-10-04"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Inspirée d’un recueil de poésie de Gertrude Stein, l’exposition <em>Tender Buttons</em> propose une approche transdisciplinaire d’une typologie d’objet singulière. Plus de trois cents boutons en céramique et verre dialoguent avec des œuvres du Musée Ariana, du 18e siècle à nos jours. Supports d’expérimentations formelles mais aussi sources de survie, d’expression identitaire et de collaboration, ces objets portés au quotidien révèlent des histoires sociales méconnues. Un hommage à un objet utilitaire et profondément symbolique.</p>",
       "location": {
@@ -1790,11 +1790,11 @@
       "workflowState": 1,
       "publishOn": 1787731219989,
       "addedOn": 1787731219989,
-      "updatedOn": 1785165206126
+      "updatedOn": 1785237094932
     },
     {
       "id": "69f88dafc6e22026064a2478",
-      "title": "Marie Ducaté: Simultanés",
+      "title": "Marie Ducaté · Simultanés",
       "fullUrl": "/programme-2026/expositions/25-3/marie-ducat-simultanes",
       "urlId": "expositions/25-3/marie-ducat-simultanes",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780306529362-7NKW2KU55F9H4C0E5Z6P/PCC_2026-25-Musee_Ariana-Marie_Ducate_Simultanes-017.webp",
@@ -1811,8 +1811,8 @@
         "Lieu: Musée Ariana",
         "Zone: Genève",
         "Artiste: Marie Ducaté",
-        "Date: 2026-02-19/2026-12-31",
-        "Numéro: 25.3"
+        "Numéro: 25.3",
+        "Date: 2026-02-20/2026-11-29"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Depuis plus de trente ans, Marie Ducaté déploie un univers éclatant au croisement de la culture pop et de l’histoire de l’art. Le Musée Ariana accueille une sélection de 130 œuvres en céramique, papier calque, aquarelle, textile et verre. La figuration dense de ses débuts se délie et s’abstrait à travers la couleur pour investir la transparence avec ses dernières productions en verre réalisées en Tchéquie, exposées ici de façon inédite. Un esprit libre et curieux à découvrir.</p>",
       "location": {
@@ -1830,7 +1830,7 @@
       "workflowState": 1,
       "publishOn": 1787644821177,
       "addedOn": 1787644821177,
-      "updatedOn": 1783592718645
+      "updatedOn": 1785237250100
     },
     {
       "id": "69f88df874e1ce4c39e29010",
@@ -2002,10 +2002,10 @@
       "title": "Jan Steemann",
       "fullUrl": "/programme-2026/expositions/30/jan-steemann",
       "urlId": "expositions/30/jan-steemann",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1778072250564-9PSLK3SAVEMUQNZYDOVB/PCC_2026-030-Olizane-Jan_Steemann-011.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/dcea5165-241c-4fd2-8831-a0977c93e354/PCC_2026-030-Olizane-Jan_Steemann-013.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.6665014866204163,
+        "y": 0.21429567967260388,
         "source": 3
       },
       "categories": [
@@ -2035,7 +2035,7 @@
       "workflowState": 1,
       "publishOn": 1787212847118,
       "addedOn": 1787212847118,
-      "updatedOn": 1783517189306
+      "updatedOn": 1785236695936
     },
     {
       "id": "6a5771aca8e15061f7f2333a",
