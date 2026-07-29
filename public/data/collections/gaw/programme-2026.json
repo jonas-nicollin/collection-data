@@ -5,11 +5,810 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-29T07:21:48.220Z",
-  "sourceHash": "f4e4e571d825fd37966136e4d55a295eb642ca06845c1055b9d5a3cebedf6120",
-  "count": 87,
-  "pages": 5,
+  "updatedAt": "2026-07-29T10:06:14.762Z",
+  "sourceHash": "16611e359fb592f8ccaebd2f6e72f5d362e1c39b1ec5dda3825ce7163022e2a5",
+  "count": 105,
+  "pages": 6,
   "items": [
+    {
+      "id": "6a692b651ccf8761e33a544b",
+      "title": "Dia al-Azzawi: Inner Worlds, Under Open Skies",
+      "fullUrl": "/programme-2026/dia-al-azzawi-inner-worlds-under-open-skies",
+      "urlId": "dia-al-azzawi-inner-worlds-under-open-skies",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785277304044-FZTEFNQ85GUK4YN23JG2/Geneva_Art_Week-Exhibition_2026-La_Galerie_38-Dia_al_Azzawi-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Thématique: Peinture",
+        "Thématique: Art contemporain",
+        "Artiste: Dia al-Azzawi",
+        "Membre:  La Galerie 38",
+        "Thématique: Sculpture",
+        "Quartier:  Quartier des Bains",
+        "Date: 2026-09-17/2026-12-19",
+        "Vernissage: 2026-09-17T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984548,
+        "mapLng": 6.1371483,
+        "markerLat": 46.1984548,
+        "markerLng": 6.1371483,
+        "addressTitle": "La Galerie 38",
+        "addressLine1": "Rue des Bains 24",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 107,
+      "workflowState": 1,
+      "publishOn": 1785277285132,
+      "addedOn": 1785277285132,
+      "updatedOn": 1785316662504
+    },
+    {
+      "id": "6a6926ab150c545027ca5d5d",
+      "title": "Les Futurs possibles du CFP Arts",
+      "fullUrl": "/programme-2026/les-futurs-possibles-du-cfp-arts",
+      "urlId": "les-futurs-possibles-du-cfp-arts",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785276296471-7KUPVDOMOQZLLUM4QUDQ/Geneva_Art_Week-Exhibition_2026-Usine_Kugler-Les_Futurs_possibles_du_CFP_Arts-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Mixed Media",
+        "Membre: Usine Kugler",
+        "Thématique: Art contemporain",
+        "Quartier: Jonction",
+        "Lieu: Usine Kugler",
+        "Type: Exposition",
+        "Thématique: Scène émergente",
+        "Date: 2026-09-09/2026-09-20",
+        "Artiste: CFP Arts"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2018002,
+        "mapLng": 6.1258148,
+        "markerLat": 46.2018002,
+        "markerLng": 6.1258148,
+        "addressTitle": "Usine Kugler",
+        "addressLine1": "Rue de la Truite 4bis",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 106,
+      "workflowState": 1,
+      "publishOn": 1785276075121,
+      "addedOn": 1785276075121,
+      "updatedOn": 1785316655364
+    },
+    {
+      "id": "6a69220b5f6841195a369785",
+      "title": "FUSION",
+      "fullUrl": "/programme-2026/fusion",
+      "urlId": "fusion",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785275794895-BAYHUVGNYFD74ZY96C77/Geneva_Art_Week-Exhibition_2026-Espace_Kugler_Gallery-FUSION-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Thématique: Mixed Media",
+        "Membre: Usine Kugler",
+        "Thématique: Peinture",
+        "Thématique: Art contemporain",
+        "Artiste: Aldo Locatelli",
+        "Date: 2026-09-16/2026-09-27",
+        "Quartier: Jonction",
+        "Vernissage: 2026-09-16T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.201308,
+        "mapLng": 6.125519499999999,
+        "markerLat": 46.201308,
+        "markerLng": 6.125519499999999,
+        "addressTitle": "Usine Kugler",
+        "addressLine1": "Avenue de la Jonction 19",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 105,
+      "workflowState": 1,
+      "publishOn": 1785274891309,
+      "addedOn": 1785274891309,
+      "updatedOn": 1785316648690
+    },
+    {
+      "id": "6a691f0f436d344d829e1c26",
+      "title": "Archaeofutura",
+      "fullUrl": "/programme-2026/archaeofutura",
+      "urlId": "archaeofutura",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785274135179-NU565285CCIDVLOITPE9/Geneva_Art_Week-Exhibition_2026-Kree%CC%88mart-Archaeofutura-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: Kreëmart",
+        "Type: Solo show",
+        "Thématique: Scène émergente",
+        "Thématique: Mixed Media",
+        "Thématique: Performance",
+        "Thématique: Poetry",
+        "Thématique: Nature",
+        "Artiste: Rachel Marks",
+        "Date: 2026-09-16/2027-07-19"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2036691,
+        "mapLng": 6.1551452,
+        "markerLat": 46.2036691,
+        "markerLng": 6.1551452,
+        "addressTitle": "Kreëmart",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 104,
+      "workflowState": 1,
+      "publishOn": 1785274127210,
+      "addedOn": 1785274127210,
+      "updatedOn": 1785316640198
+    },
+    {
+      "id": "6a691c295b96c10d5ba7b8e7",
+      "title": "Jérémy Bajulaz",
+      "fullUrl": "/programme-2026/jeremy-bajulaz",
+      "urlId": "jeremy-bajulaz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785273394624-4BUGAC2PC6CK3A0L6GKE/Geneva_Art_Week-Exhibition_2026-Ormond_Editions-Jeremy_Bajulaz-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Membre: Ormond Editions",
+        "Quartier: Eaux-Vives Cité",
+        "Type: Exposition",
+        "Artiste: Jérémy Bajulaz",
+        "Date: 2026-09-16/2026-09-20",
+        "Vernissage: 2026-09-16T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2036691,
+        "mapLng": 6.1551452,
+        "markerLat": 46.2036691,
+        "markerLng": 6.1551452,
+        "addressTitle": "Ormond Editions",
+        "addressLine1": "Rue de la Scie 4-6",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 103,
+      "workflowState": 1,
+      "publishOn": 1785273385742,
+      "addedOn": 1785273385742,
+      "updatedOn": 1785316631436
+    },
+    {
+      "id": "6a6916959c0ad7721dd35fd4",
+      "title": "Miscellanées #2",
+      "fullUrl": "/programme-2026/miscellanees-2",
+      "urlId": "miscellanees-2",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785271973192-23EPHV4D67I2L01FHZV6/Geneva_Art_Week-Exhibition_2026-De_Jonckheere-Miscellanees_2-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Vieille-Ville",
+        "Type: Exposition",
+        "Membre: De Jonckheere",
+        "Thématique: Peinture",
+        "Artiste: Maîtres flamandes du XVe au XVIIe siècles",
+        "Date: 2026-09-16/2026-11-04",
+        "Vernissage: 2026-09-16T16:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2006739,
+        "mapLng": 6.1476339,
+        "markerLat": 46.199284,
+        "markerLng": 6.1515081,
+        "addressTitle": "De Jonckheere",
+        "addressLine1": "Rue de l&#39;Hôtel-de-Ville 7",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 101,
+      "workflowState": 1,
+      "publishOn": 1785271957995,
+      "addedOn": 1785271957995,
+      "updatedOn": 1785316609219
+    },
+    {
+      "id": "6a6902ee86e70f34b301d210",
+      "title": "Exposition en valise : Ugo Rondinone",
+      "fullUrl": "/programme-2026/exposition-en-valise-ugo-rondinone",
+      "urlId": "exposition-en-valise-ugo-rondinone",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785271319745-3ZXJYRH2TAMOFZ7V9ODC/Geneva_Art_Week-Exhibition_2026-MAH-Exposition_en_valise_Ugo_Rondinone-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Vieille-Ville",
+        "Membre: MAH – Musée d’Art et d’Histoire de Genève",
+        "Type: Exposition",
+        "Thématique: Horlogerie",
+        "Date: 2026-04-03/2030-07-01",
+        "Artiste: Ugo Rondinone"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.199284,
+        "mapLng": 6.1515081,
+        "markerLat": 46.199284,
+        "markerLng": 6.1515081,
+        "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+        "addressLine1": "Rue Charles-Galland 2",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 100,
+      "workflowState": 1,
+      "publishOn": 1785266926043,
+      "addedOn": 1785266926043,
+      "updatedOn": 1785316596158
+    },
+    {
+      "id": "6a6901db198c8170021a2a20",
+      "title": "Exposition en valise : Jakob Lena Knebl",
+      "fullUrl": "/programme-2026/exposition-en-valise-jakob-lena-knebl",
+      "urlId": "exposition-en-valise-jakob-lena-knebl",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785266725297-H2E57F0P1TX2EB78KCMK/Geneva_Art_Week-Exhibition_2026-MAH-Exposition_en_valise_Jakob_Lena_Knebi-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Vieille-Ville",
+        "Membre: MAH – Musée d’Art et d’Histoire de Genève",
+        "Thématique: Art contemporain",
+        "Type: Exposition",
+        "Artiste: Jakob Lena Knebl",
+        "Date: 2026-07-04/2030-07-01"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.199284,
+        "mapLng": 6.1515081,
+        "markerLat": 46.199284,
+        "markerLng": 6.1515081,
+        "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+        "addressLine1": "Rue Charles-Galland 2",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 99,
+      "workflowState": 1,
+      "publishOn": 1785266651867,
+      "addedOn": 1785266651867,
+      "updatedOn": 1785316582622
+    },
+    {
+      "id": "6a68ffe49c0ad7721dc94f13",
+      "title": "Exposition en valise : Wim Delvoye",
+      "fullUrl": "/programme-2026/exposition-en-valise-wim-delvoye",
+      "urlId": "exposition-en-valise-wim-delvoye",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785266156716-6A42WBQXF5AYL9PNYA1P/Geneva_Art_Week-Exhibition_2026-MAH-Exposition_en_valise-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Vieille-Ville",
+        "Membre: MAH – Musée d’Art et d’Histoire de Genève",
+        "Thématique: Art contemporain",
+        "Type: Exposition",
+        "Artiste: Wim Delvoye",
+        "Date: 2026-06-16/2030-06-01",
+        "Sélection: Art en Vieille-Ville"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.199284,
+        "mapLng": 6.1515081,
+        "markerLat": 46.199284,
+        "markerLng": 6.1515081,
+        "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+        "addressLine1": "Rue Charles-Galland 2",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 98,
+      "workflowState": 1,
+      "publishOn": 1785266148402,
+      "addedOn": 1785266148402,
+      "updatedOn": 1785316537727
+    },
+    {
+      "id": "6a68d3c7619e296b57119eb2",
+      "title": "La chair et Le siphon",
+      "fullUrl": "/programme-2026/la-chair-et-le-siphon",
+      "urlId": "la-chair-et-le-siphon",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785254862574-PX0VHVR6JAR8RX2P3WWF/Geneva_Art_Week-Exhibition_2026-Musee_dartet_dhistoire-La_Chair_et_le_siphon-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Vieille-Ville",
+        "Membre: MAH – Musée d’Art et d’Histoire de Genève",
+        "Thématique: Art contemporain",
+        "Type: Exposition",
+        "Artiste: Daniel Dewar",
+        "Artiste: Grégory Gicquel",
+        "Date: 2026-07-16/2030-07-16"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.199284,
+        "mapLng": 6.1515081,
+        "markerLat": 46.199284,
+        "markerLng": 6.1515081,
+        "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+        "addressLine1": "Rue Charles-Galland 2",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 97,
+      "workflowState": 1,
+      "publishOn": 1785254855637,
+      "addedOn": 1785254855637,
+      "updatedOn": 1785316497042
+    },
+    {
+      "id": "6a68d0cdd93c4468a42cb9cf",
+      "title": "Observatoires, Carte blanche à John M Armleder",
+      "fullUrl": "/programme-2026/observatoires-carte-blanche-a-john-m-armleder",
+      "urlId": "observatoires-carte-blanche-a-john-m-armleder",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785254101140-DRFMTTQ83WXGL1YT43C0/Geneva_Art_Week-Exhibition_2026-Musee_dartet_dhistoire-Observatoires_Carte_blanche_a_John_MArmleder-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Vieille-Ville",
+        "Thématique: Art contemporain",
+        "Membre: MAH – Musée d’Art et d’Histoire de Genève",
+        "Type: Exposition",
+        "Date: 2026-01-30/2026-10-25",
+        "Artiste: John M Armleder",
+        "Artiste: Olivier Mosset",
+        "Artiste: Christian Floquet",
+        "Artiste: Jan van Os",
+        "Artiste: Marie Laurencin",
+        "Artiste: Jan Brueghel l'Ancien",
+        "Artiste: Christian Marclay",
+        "Artiste: John Cage",
+        "Artiste: Sol LeWitt",
+        "Artiste: Joseph Beuys",
+        "Artiste: Robert Smithson",
+        "Artiste: Salvador Dalí",
+        "Artiste: Sylvie Fleury",
+        "Artiste: Jacques-Laurent Agasse",
+        "Artiste: Ferdinand Hodler",
+        "Artiste: Cuno Amiet",
+        "Artiste: Elisabeth de Stoutz",
+        "Artiste: Giovanni Giacometti",
+        "Artiste: Henriette Rath",
+        "Artiste: Fabrice Gygi",
+        "Artiste: Lawrence Weiner",
+        "Artiste: Muriel Olesen",
+        "Artiste: Ben Vauthier",
+        "Artiste: Ed Ruscha",
+        "Artiste: Yoko Ono",
+        "Artiste: Marcel Duchamp",
+        "Artiste: Tristan Tzara",
+        "Artiste: Sonia Delaunay",
+        "Artiste: Andy Warhol",
+        "Sélection: Art en Vieille-Ville"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.199284,
+        "mapLng": 6.1515081,
+        "markerLat": 46.199284,
+        "markerLng": 6.1515081,
+        "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+        "addressLine1": "Rue Charles-Galland 2",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 96,
+      "workflowState": 1,
+      "publishOn": 1785254093749,
+      "addedOn": 1785254093749,
+      "updatedOn": 1785315228240
+    },
+    {
+      "id": "6a68cdb052a76e1018304aa8",
+      "title": "Fragiles",
+      "fullUrl": "/programme-2026/fragiles",
+      "urlId": "fragiles",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785253647205-B5OBCLXHCJ3G6KCIP5SR/Geneva_Art_Week-Exhibition_2026-MABE_Gallery-Fragiles-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Dessin",
+        "Membre: MABE Gallery",
+        "Quartier: Vieille-Ville",
+        "Type: Solo show",
+        "Artiste: Gisèle Bonin",
+        "Date: 2026-09-16/2026-10-03",
+        "Vernissage: 2026-09-16T16:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2017889,
+        "mapLng": 6.146338600000001,
+        "markerLat": 46.2017889,
+        "markerLng": 6.146338600000001,
+        "addressTitle": "MABE Gallery",
+        "addressLine1": "Grand-Rue 25",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 95,
+      "workflowState": 1,
+      "publishOn": 1785253296379,
+      "addedOn": 1785253296379,
+      "updatedOn": 1785315193859
+    },
+    {
+      "id": "6a68cbc8927f1347638b5b8c",
+      "title": "Skin to Skin",
+      "fullUrl": "/programme-2026/skin-to-skin",
+      "urlId": "skin-to-skin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785253006193-AHXTL1P62E0TZKG1GPQA/Geneva_Art_Week-Exhibition_2026-Galerie_Mezzanin-Skin_to_skin-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Membre: Galerie Mezzanin",
+        "Quartier:  Quartier des Bains",
+        "Thématique: Scène artistique suisse",
+        "Artiste: Lou Masduraud",
+        "Type: Exposition",
+        "Date: 2026-09-18/2026-11-07",
+        "Vernissage: 2026-09-17T18:00",
+        "Sélection: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 48.8535569,
+        "mapLng": 2.406382,
+        "markerLat": 46.1774056,
+        "markerLng": 6.1445234,
+        "addressTitle": "Galerie Mezzanin",
+        "addressLine1": "Rue des Maraîchers 63",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 94,
+      "workflowState": 1,
+      "publishOn": 1785252808179,
+      "addedOn": 1785252808179,
+      "updatedOn": 1785314807438
+    },
+    {
+      "id": "6a68c9387757af206613a8a8",
+      "title": "Représentation",
+      "fullUrl": "/programme-2026/representation",
+      "urlId": "representation",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785252335185-LJC5JR3ARJW5RJ5VUKPA/Geneva_Art_Week-Exhibition_2026-Wisteria-Representation-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Quartier: Grand-Lancy",
+        "Membre: Wisteria",
+        "Thématique: Art contemporain",
+        "Date: 2026-09-16/2026-09-27",
+        "Vernissage: 2026-09-16T18:00",
+        "Artiste: Elena Biasco",
+        "Artiste: Leo Dorner",
+        "Artiste: Hanaé Gonseth",
+        "Artiste: Emma Hayoz",
+        "Artiste: Jeremy Kangou",
+        "Artiste: Inès Lehrian",
+        "Artiste: Maude Lueber",
+        "Artiste: Math Maeder",
+        "Artiste: Aylin Özer",
+        "Artiste: Ewan Mesa",
+        "Artiste: Audrey Ramos",
+        "Artiste: Luna Rauck",
+        "Artiste: Gabriel Varanda",
+        "Artiste: Helena Zivkovic"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1839897,
+        "mapLng": 6.1213241,
+        "markerLat": 46.1839897,
+        "markerLng": 6.1213241,
+        "addressTitle": "Wisteria",
+        "addressLine1": "Route du Grand-Lancy 62",
+        "addressLine2": "1212 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 93,
+      "workflowState": 1,
+      "publishOn": 1785252152442,
+      "addedOn": 1785252152442,
+      "updatedOn": 1785314773146
+    },
+    {
+      "id": "6a68c7a97c9ebe325d1fac7b",
+      "title": "Platform",
+      "fullUrl": "/programme-2026/platform",
+      "urlId": "platform",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785251850676-4N2EHC9HA1FYDT43RC4D/Geneva_Art_Week-Exhibition_2026-sw-Platform-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Carouge",
+        "Thématique: Céramique",
+        "Type: Exposition",
+        "Artiste: Une trentaine de céramistes suisses",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Lieu: Maison Pertin",
+        "Membre: sw",
+        "Sélection: Parcours Céramique Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1801097,
+        "mapLng": 6.1399731,
+        "markerLat": 46.1801097,
+        "markerLng": 6.1399731,
+        "addressTitle": "Maison Pertin",
+        "addressLine1": "63 Rue Ancienne",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 92,
+      "workflowState": 1,
+      "publishOn": 1785251753825,
+      "addedOn": 1785251753825,
+      "updatedOn": 1785314750379
+    },
+    {
+      "id": "6a68c6283121e01c6bbacb2c",
+      "title": "Popup store",
+      "fullUrl": "/programme-2026/popup-store",
+      "urlId": "popup-store",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785251531059-8ADA27W64UV4W0WH9YKV/Geneva_Art_Week-Exhibition_2026-Swissceramics-Popup_store-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Carouge",
+        "Thématique: Céramique",
+        "Membre: swissceramics",
+        "Type: Exposition",
+        "Artiste: Une trentaine de céramistes suisses",
+        "Lieu: Hotel Ibis Styles Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Sélection: Parcours Céramique Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1793585,
+        "mapLng": 6.138237000000001,
+        "markerLat": 46.1793585,
+        "markerLng": 6.138237000000001,
+        "addressTitle": "Hotel Ibis Styles Carouge",
+        "addressLine1": "Route de Saint-Julien 3",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 91,
+      "workflowState": 1,
+      "publishOn": 1785251368764,
+      "addedOn": 1785251368764,
+      "updatedOn": 1785314716830
+    },
+    {
+      "id": "6a68c46658b2356fdd717af4",
+      "title": "Marie Gueydon de Dives",
+      "fullUrl": "/programme-2026/marie-gueydon-de-dives",
+      "urlId": "marie-gueydon-de-dives",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785250990701-2PGGUMD0AH12ZXG3XDQL/Geneva_Art_Week-Exhibition_2026-Atelier_Maison_Potter-Marie_Gueydon_de_Dives-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Carouge",
+        "Thématique: Art contemporain",
+        "Membre:  Atelier Maison Potter",
+        "Type: Solo show",
+        "Artiste: Marie Gueydon de Dives",
+        "Thématique: Céramique",
+        "Thématique: Sculpture",
+        "Vernissage: 2026-09-19T11:30",
+        "Date: 2026-09-19/2026-09-27",
+        "Sélection: Parcours Céramique Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1774056,
+        "mapLng": 6.1445234,
+        "markerLat": 46.1774056,
+        "markerLng": 6.1445234,
+        "addressTitle": "Atelier Maison Potter",
+        "addressLine1": "Chemin de Pinchat 22bis",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 90,
+      "workflowState": 1,
+      "publishOn": 1785250918918,
+      "addedOn": 1785250918918,
+      "updatedOn": 1785314697647
+    },
+    {
+      "id": "6a68c217ae07b839c6ec2463",
+      "title": "Collection annuelle",
+      "fullUrl": "/programme-2026/collection-annuelle",
+      "urlId": "collection-annuelle",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785250475545-E5ZGB1SV8EY3BZQ7LQ4J/Geneva_Art_Week-Exhibition_2026-PACO-Collection_Annuelle-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: PAC(O) – Projets Artistiques Collaboratifs (et Orientations)",
+        "Quartier: Carouge",
+        "Type: Exposition",
+        "Artiste: Vanessa Riera",
+        "Artiste: Carla da Silva",
+        "Artiste: Les jeunes de PAC(O)",
+        "Thématique: Art contemporain",
+        "Thématique: Photographie",
+        "Thématique: Art textile",
+        "Lieu: Vitrines du kiosk sur le rond-point de Plainpalais",
+        "Date: 2026-09-08/2026-09-28"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1978601,
+        "mapLng": 6.1425482,
+        "markerLat": 46.1978601,
+        "markerLng": 6.1425482,
+        "addressTitle": "Vitrines du kiosk sur le rond-point de Plainpalais",
+        "addressLine1": "Rond-Point de Plainpalais",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 89,
+      "workflowState": 1,
+      "publishOn": 1785250327475,
+      "addedOn": 1785250327475,
+      "updatedOn": 1785314680708
+    },
     {
       "id": "6a5124f50400ba72cdffe25e",
       "title": "Artistes de l'École genevoise – Dégustation de vins",
