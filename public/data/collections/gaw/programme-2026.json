@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-29T12:15:56.534Z",
-  "sourceHash": "16611e359fb592f8ccaebd2f6e72f5d362e1c39b1ec5dda3825ce7163022e2a5",
+  "updatedAt": "2026-07-29T14:33:34.843Z",
+  "sourceHash": "704f12e14b991925d2f5fc36c372145a30e9b7dc0b8488f7d44671e0c4e2663d",
   "count": 105,
   "pages": 6,
   "items": [
@@ -560,7 +560,7 @@
         "Type: Exposition",
         "Date: 2026-09-18/2026-11-07",
         "Vernissage: 2026-09-17T18:00",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -578,7 +578,7 @@
       "workflowState": 1,
       "publishOn": 1785252808179,
       "addedOn": 1785252808179,
-      "updatedOn": 1785314807438
+      "updatedOn": 1785332781773
     },
     {
       "id": "6a68c9387757af206613a8a8",
@@ -4047,7 +4047,7 @@
         "Artiste: Farren van Wyk",
         "Quartier: Quartier des Bains",
         "Sélection: Expositions principales",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -4065,7 +4065,7 @@
       "workflowState": 1,
       "publishOn": 1783538691373,
       "addedOn": 1783538691373,
-      "updatedOn": 1785260963725
+      "updatedOn": 1785332781703
     },
     {
       "id": "6a4ea10807d9df04ffe58c22",
@@ -4092,7 +4092,7 @@
         "Date: 2026-07-13/2026-10-02",
         "Lieu: Maison de l'enfance et de l'adolescence (HUG)",
         "Sélection: Expositions principales",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -4110,7 +4110,7 @@
       "workflowState": 1,
       "publishOn": 1783537928620,
       "addedOn": 1783537928620,
-      "updatedOn": 1785260940444
+      "updatedOn": 1785332781730
     },
     {
       "id": "6a4bce42eb4e700dfde28cdd",
@@ -4542,7 +4542,7 @@
         "Artiste: Claus Gunti",
         "Artiste: Giselle’s Books",
         "Date: 2026-09-13/2026-11-08",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -4560,7 +4560,7 @@
       "workflowState": 1,
       "publishOn": 1783330521895,
       "addedOn": 1783330521895,
-      "updatedOn": 1785261004774
+      "updatedOn": 1785332781751
     },
     {
       "id": "6a4b72624622e4019fc4cdeb",
