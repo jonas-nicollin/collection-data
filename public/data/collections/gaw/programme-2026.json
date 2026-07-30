@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-30T12:26:53.786Z",
-  "sourceHash": "b2b23fbae7e83ce12e4cf6a2ef2e95e3f08d3ebf84755535f440d229e4fea799",
+  "updatedAt": "2026-07-30T14:42:06.599Z",
+  "sourceHash": "31339bc0a6805c2b4442f44468b9c8fc7af1c2c1713ac79f4ff41f196bfcefa6",
   "count": 110,
   "pages": 6,
   "items": [
@@ -4212,7 +4212,8 @@
         "Membre: MAMCO",
         "Quartier: Eaux-Vives Cité",
         "Lieu: SaSA - Site archéologique Saint-Antoine, Genève",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Art en Vieille-Ville"
       ],
       "excerpt": "",
       "location": {
@@ -4230,7 +4231,7 @@
       "workflowState": 1,
       "publishOn": 1783539286654,
       "addedOn": 1783539286654,
-      "updatedOn": 1785253074717
+      "updatedOn": 1785420102424
     },
     {
       "id": "6a4ea4032edcd54816726cc2",
