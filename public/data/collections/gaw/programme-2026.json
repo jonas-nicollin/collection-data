@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-30T14:42:06.599Z",
-  "sourceHash": "31339bc0a6805c2b4442f44468b9c8fc7af1c2c1713ac79f4ff41f196bfcefa6",
-  "count": 110,
+  "updatedAt": "2026-07-30T16:16:42.016Z",
+  "sourceHash": "c6765ea79330f0b1e2a4ee9e1823eeb3c8b6baf2f78601815012079b15728f1a",
+  "count": 106,
   "pages": 6,
   "items": [
     {
@@ -2221,156 +2221,6 @@
       "publishOn": 1784146335766,
       "addedOn": 1784146335766,
       "updatedOn": 1785275479973
-    },
-    {
-      "id": "6a56df03eaca7446822dc221",
-      "title": "Studio Visits",
-      "fullUrl": "/programme-2026/studio-visits",
-      "urlId": "studio-visits",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784148677101-18WAGPU5MIO1D7LT5MGO/Geneva_Art_Week-Event_2026-Studio-Visit-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rendez-vous"
-      ],
-      "tags": [
-        "Membre: Geneva Art Week",
-        "Date: 2026-09-16/2026-09-20"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1742417,
-        "mapLng": 6.1352932,
-        "markerLat": 46.1742417,
-        "markerLng": 6.1352932,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "displayIndex": 59,
-      "workflowState": 1,
-      "publishOn": 1784078083299,
-      "addedOn": 1784078083299,
-      "updatedOn": 1785151487917
-    },
-    {
-      "id": "6a56ca4ecee308493d1075b5",
-      "title": "Parcours Céramique Carouge",
-      "fullUrl": "/programme-2026/parcours-ceramique-carouge",
-      "urlId": "parcours-ceramique-carouge",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784076979606-9Q71MALGW66CF21JBYFL/Geneva_Art_Week-Event_2026-PCC-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rendez-vous"
-      ],
-      "tags": [
-        "Type: Événement",
-        "Quartier: Carouge",
-        "Membre: Fondation Bruckner",
-        "Date: 2026-09-19T11:00"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1742417,
-        "mapLng": 6.1352932,
-        "markerLat": 46.1742417,
-        "markerLng": 6.1352932,
-        "addressTitle": "Fondation Bruckner",
-        "addressLine1": "Chemin de Grange-Collomb 38",
-        "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 58,
-      "workflowState": 1,
-      "publishOn": 1784072782360,
-      "addedOn": 1784072782360,
-      "updatedOn": 1785151480191
-    },
-    {
-      "id": "6a56c6caeaca744682249198",
-      "title": "Nuit des Bains",
-      "fullUrl": "/programme-2026/nuit-des-bains",
-      "urlId": "nuit-des-bains",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784072462733-0D10ZBOT7CPWMSBTWHZS/Geneva_Art_Week-Event_2026-QDB-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.49107142857142855,
-        "y": 0.37797619047619047,
-        "source": 3
-      },
-      "categories": [
-        "Rendez-vous"
-      ],
-      "tags": [
-        "Type: Événement",
-        "Quartier: Quartier des Bains",
-        "Membre: Quartier des Bains",
-        "Date: 2026-09-17T18:00"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1985766,
-        "mapLng": 6.1378595,
-        "markerLat": 46.1985766,
-        "markerLng": 6.1378595,
-        "addressTitle": "Quartier des Bains",
-        "addressLine1": "Rue des Vieux-Grenadiers",
-        "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 57,
-      "workflowState": 1,
-      "publishOn": 1784071882261,
-      "addedOn": 1784071882261,
-      "updatedOn": 1785151470866
-    },
-    {
-      "id": "6a56bf8f18f4a346b26fa6d0",
-      "title": "Art en Vieille-Ville",
-      "fullUrl": "/programme-2026/art-en-vieille-ville",
-      "urlId": "art-en-vieille-ville",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784071416821-OGKVDQANJ85GAEJSIM4L/Geneva_Art_Week-Event_2026-AVV-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rendez-vous"
-      ],
-      "tags": [
-        "Type: Événement",
-        "Quartier: Vieille-Ville",
-        "Membre: Art en Vieille-Ville",
-        "Date: 2026-09-16T16:00"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.2002544,
-        "mapLng": 6.1491858,
-        "markerLat": 46.2002544,
-        "markerLng": 6.1491858,
-        "addressTitle": "Art en Vieille-Ville",
-        "addressLine1": "Place du Bourg-de-Four",
-        "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 56,
-      "workflowState": 1,
-      "publishOn": 1784070031909,
-      "addedOn": 1784070031909,
-      "updatedOn": 1785151265403
     },
     {
       "id": "6a55685bad611a24c1408353",
