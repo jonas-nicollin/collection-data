@@ -5,11 +5,222 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-30T08:45:15.941Z",
-  "sourceHash": "9e9091a0132f4e7bd61673e8ea09e35968cb92581db6dcffd339ed400799ac94",
-  "count": 105,
+  "updatedAt": "2026-07-30T10:53:17.750Z",
+  "sourceHash": "b2b23fbae7e83ce12e4cf6a2ef2e95e3f08d3ebf84755535f440d229e4fea799",
+  "count": 110,
   "pages": 6,
   "items": [
+    {
+      "id": "6a6a6e729907ba723c12cb31",
+      "title": "Natascha Madeiski",
+      "fullUrl": "/programme-2026/natascha-madeiski",
+      "urlId": "natascha-madeiski",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785359993184-XSZ0V6SCASLMMTRL8EPO/Geneva_Art_Week-Exhibition_2026-NOV_Gallery-Natascha_Madeiski-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Type: Solo show",
+        "Membre: NOV Gallery",
+        "Artiste: Natascha Madeiski"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1805731,
+        "mapLng": 6.1405248,
+        "markerLat": 46.1805731,
+        "markerLng": 6.1405248,
+        "addressTitle": "NOV Gallery",
+        "addressLine1": "Rue Joseph-Girard 4",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 112,
+      "workflowState": 1,
+      "publishOn": 1785359986682,
+      "addedOn": 1785359986682,
+      "updatedOn": 1785408715725
+    },
+    {
+      "id": "6a6a6b5345ed6e3086ec0812",
+      "title": "Youlichka Fioramonti × Jörg Brockmann",
+      "fullUrl": "/programme-2026/youlichka-fioramonti-jorg-brockmann",
+      "urlId": "youlichka-fioramonti-jorg-brockmann",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785359448614-US5XWK74BI9UZN313ATU/Geneva_Art_Week-Exhibition_2026-Espace_Jo%CC%88rg_Brockmann-Youlichka_Fioramonti_Jo%CC%88rg_Brockmann-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Thématique: Photographie",
+        "Type: Exposition",
+        "Membre: Espace Jörg Brockmann",
+        "Artiste: Youlichka Fioramonti",
+        "Artiste: Jörg Brockmann"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.18826,
+        "mapLng": 6.1323365,
+        "markerLat": 46.1806823,
+        "markerLng": 6.141282299999999,
+        "addressTitle": "Espace Jörg Brockmann",
+        "addressLine1": "Rue des Noirettes 32",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 111,
+      "workflowState": 1,
+      "publishOn": 1785359187398,
+      "addedOn": 1785359187398,
+      "updatedOn": 1785408701075
+    },
+    {
+      "id": "6a6a68d4e1ebbd53fb8bb53f",
+      "title": "Léonie Chauchat",
+      "fullUrl": "/programme-2026/leonie-chauchat",
+      "urlId": "leonie-chauchat",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785358791657-IUQDQY9846PEB1OXZ8K6/Geneva_Art_Week-Exhibition_2026-Atelier_Nicolas_Perrottet-Le%CC%81onie_Chauchat-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Type: Solo show",
+        "Quartier: Carouge",
+        "Membre: Atelier Nicolas Perrottet",
+        "Artiste: Léonie Chauchat",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1806823,
+        "mapLng": 6.141282299999999,
+        "markerLat": 46.1806823,
+        "markerLng": 6.141282299999999,
+        "addressTitle": "Atelier Nicolas Perrottet",
+        "addressLine1": "Rue Joseph-Girard 16",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 110,
+      "workflowState": 1,
+      "publishOn": 1785358548203,
+      "addedOn": 1785358548203,
+      "updatedOn": 1785408692535
+    },
+    {
+      "id": "6a6a6657927d13037b788571",
+      "title": "CORPS&amp;GRAPHIE",
+      "fullUrl": "/programme-2026/corps-et-graphie",
+      "urlId": "corps-et-graphie",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785358153774-90XF46V8UWNS66JC5CAG/Geneva_Art_Week-Exhibition_2026-LES_INSOLITES-CORPS%26GRAPHIE-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Thématique: Sculpture",
+        "Type: Solo show",
+        "Thématique: Art contemporain",
+        "Membre: Les Insolites",
+        "Quartier: Carouge",
+        "Artiste: Nina Malo",
+        "Date: 2026-09-16/2026-09-27",
+        "Vernissage: 2026-09-19T11:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1825156,
+        "mapLng": 6.140999799999999,
+        "markerLat": 46.2020817,
+        "markerLng": 6.146649699999999,
+        "addressTitle": "Les Insolites",
+        "addressLine1": "Rue Ancienne 22",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 109,
+      "workflowState": 1,
+      "publishOn": 1785357911137,
+      "addedOn": 1785357911137,
+      "updatedOn": 1785408682666
+    },
+    {
+      "id": "6a6a65073aed5407b13290b4",
+      "title": "Pleasing the Spirits",
+      "fullUrl": "/programme-2026/pleasing-the-spirits",
+      "urlId": "pleasing-the-spirits",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785357582828-4FUD2C1YGB9FQNW9ZK3R/Geneva_Art_Week-Exhibition_2026-Musee_Barbier_Mueller-Pleasing_the_Spirits-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Thématique: Céramique",
+        "Thématique: Sculpture",
+        "Thématique: Ethnographie",
+        "Membre: Musée Barbier-Mueller",
+        "Quartier: Vieille-Ville",
+        "Artiste: Séverine Fromaigeat",
+        "Artiste: Paul Maheke",
+        "Date: 2025-10-29/2026-09-30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2020817,
+        "mapLng": 6.146649699999999,
+        "markerLat": 46.2020817,
+        "markerLng": 6.146649699999999,
+        "addressTitle": "Musée Barbier-Mueller",
+        "addressLine1": "Rue Jean-Calvin 10",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 108,
+      "workflowState": 1,
+      "publishOn": 1785357575955,
+      "addedOn": 1785357575955,
+      "updatedOn": 1785408671559
+    },
     {
       "id": "6a692b651ccf8761e33a544b",
       "title": "Dia al-Azzawi: Inner Worlds, Under Open Skies",
