@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-31T13:19:58.396Z",
-  "sourceHash": "a7259314a193129a710e132ce4525b7b736d22bb79645e2add9bdbb8de237de2",
+  "updatedAt": "2026-07-31T14:49:34.156Z",
+  "sourceHash": "11efd6d8bfe3448439e0c237f78ab0dd18bab256fc24da56faeaefc1cd9302cc",
   "count": 101,
   "pages": 6,
   "items": [
@@ -250,7 +250,8 @@
         "Quartier:  Quartier des Bains",
         "Date: 2026-09-17/2026-12-19",
         "Vernissage: 2026-09-17T18:00",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -268,7 +269,7 @@
       "workflowState": 1,
       "publishOn": 1785277285132,
       "addedOn": 1785277285132,
-      "updatedOn": 1785494492878
+      "updatedOn": 1785505657232
     },
     {
       "id": "6a6926ab150c545027ca5d5d",
@@ -765,8 +766,8 @@
       "urlId": "skin-to-skin",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785253006193-AHXTL1P62E0TZKG1GPQA/Geneva_Art_Week-Exhibition_2026-Galerie_Mezzanin-Skin_to_skin-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.4028726572079173,
+        "y": 0.35715946612100635,
         "source": 3
       },
       "categories": [
@@ -782,7 +783,8 @@
         "Type: Exposition",
         "Date: 2026-09-18/2026-11-07",
         "Vernissage: 2026-09-17T18:00",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -800,7 +802,7 @@
       "workflowState": 1,
       "publishOn": 1785252808179,
       "addedOn": 1785252808179,
-      "updatedOn": 1785332781773
+      "updatedOn": 1785505881813
     },
     {
       "id": "6a68c9387757af206613a8a8",
@@ -1692,7 +1694,8 @@
         "Quartier: Quartier des Bains",
         "Date: 2026-09-17/2026-11-07",
         "Vernissage: 2026-09-17T18:00",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -1710,7 +1713,7 @@
       "workflowState": 1,
       "publishOn": 1784304947556,
       "addedOn": 1784304947556,
-      "updatedOn": 1785494492644
+      "updatedOn": 1785505915478
     },
     {
       "id": "6a5a4dea93ef786c65d99343",
@@ -2476,7 +2479,8 @@
         "Artiste: Ellen Van der Woude",
         "Artiste: Annemarie Vogel",
         "Artiste: Dawid Zynda",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -2494,7 +2498,7 @@
       "workflowState": 1,
       "publishOn": 1783959117424,
       "addedOn": 1783959117424,
-      "updatedOn": 1785489507733
+      "updatedOn": 1785505700357
     },
     {
       "id": "6a550814d2b952267ff74d31",
@@ -2520,7 +2524,8 @@
         "Artiste: Pierre André Ferrand",
         "Thématique: Dessin",
         "Date: 2026-09-18/2026-10-31",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -2538,7 +2543,7 @@
       "workflowState": 1,
       "publishOn": 1783957524272,
       "addedOn": 1783957524272,
-      "updatedOn": 1785494492694
+      "updatedOn": 1785505988880
     },
     {
       "id": "6a55067afffd3229acd136be",
@@ -2564,7 +2569,8 @@
         "Thématique: Peinture",
         "Thématique: Scène émergente",
         "Date: 2026-09-17/2026-11-07",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -2582,7 +2588,7 @@
       "workflowState": 1,
       "publishOn": 1783957114429,
       "addedOn": 1783957114429,
-      "updatedOn": 1785494492792
+      "updatedOn": 1785505955690
     },
     {
       "id": "6a5504b4fffd3229acd069b5",
@@ -3455,7 +3461,8 @@
         "Type: Solo show",
         "Membre: Arcadia",
         "Date: 2026-09-15/2026-10-31",
-        "Vernissage: 2026-09-16T18:00"
+        "Vernissage: 2026-09-16T18:00",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -3473,7 +3480,7 @@
       "workflowState": 1,
       "publishOn": 1783634189675,
       "addedOn": 1783634189675,
-      "updatedOn": 1785148677042
+      "updatedOn": 1785505623121
     },
     {
       "id": "6a50168f5c3d38684afa7d5b",
@@ -3960,7 +3967,8 @@
         "Artiste: Hannah Wilke",
         "Artiste: Irène Zurkinden",
         "Lieu: Musée Rath",
-        "Quartier: Centre"
+        "Quartier: Centre",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -3978,7 +3986,7 @@
       "workflowState": 1,
       "publishOn": 1783540093894,
       "addedOn": 1783540093894,
-      "updatedOn": 1785147944866
+      "updatedOn": 1785506079247
     },
     {
       "id": "6a4ea656ab94e148672cef55",
@@ -4003,7 +4011,6 @@
         "Membre: MAMCO",
         "Quartier: Eaux-Vives Cité",
         "Lieu: SaSA - Site archéologique Saint-Antoine, Genève",
-        "Sélection: Expositions principales",
         "Sélection: Art en Vieille-Ville"
       ],
       "excerpt": "",
@@ -4022,7 +4029,7 @@
       "workflowState": 1,
       "publishOn": 1783539286654,
       "addedOn": 1783539286654,
-      "updatedOn": 1785420102424
+      "updatedOn": 1785506111270
     },
     {
       "id": "6a4ea4032edcd54816726cc2",
@@ -4094,7 +4101,6 @@
         "Artiste: Florian Luthi",
         "Date: 2026-07-13/2026-10-02",
         "Lieu: Maison de l'enfance et de l'adolescence (HUG)",
-        "Sélection: Expositions principales",
         "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
@@ -4113,7 +4119,7 @@
       "workflowState": 1,
       "publishOn": 1783537928620,
       "addedOn": 1783537928620,
-      "updatedOn": 1785494492814
+      "updatedOn": 1785506132463
     },
     {
       "id": "6a4bce42eb4e700dfde28cdd",
@@ -4147,7 +4153,8 @@
         "Date: 2026-09-02/2026-09-27",
         "Membre: Centre d'Art Contemporain Genève",
         "Lieu: Le Commun",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -4165,7 +4172,7 @@
       "workflowState": 1,
       "publishOn": 1783352898630,
       "addedOn": 1783352898630,
-      "updatedOn": 1785494492837
+      "updatedOn": 1785505728897
     },
     {
       "id": "6a4bc793afabb73f86f2ca8a",

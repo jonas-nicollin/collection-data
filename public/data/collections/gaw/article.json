@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-07-31T13:20:02.833Z",
-  "sourceHash": "c37023dc3eec79a628be9db134b24f1a2368d3555c9f22765f3e3531e193e86a",
+  "updatedAt": "2026-07-31T14:49:36.090Z",
+  "sourceHash": "61a52dc3d373ca37a52c4d0ec99788c1d787a539e89623dbac05eb2e913e2aa2",
   "count": 29,
   "pages": 2,
   "items": [
@@ -103,8 +103,7 @@
         "Catégorie: Rencontre Avec",
         "Sujet: Séverine Redon",
         "Membre: HiFlow",
-        "Quartier: Plan-les-Ouates",
-        "Sélection: Hero"
+        "Quartier: Plan-les-Ouates"
       ],
       "excerpt": "",
       "location": {
@@ -121,7 +120,7 @@
       "workflowState": 1,
       "publishOn": 1781191574378,
       "addedOn": 1781191574378,
-      "updatedOn": 1782214959039
+      "updatedOn": 1785504321982
     },
     {
       "id": "6a0fa00dfddd2772e79a5e37",
@@ -480,7 +479,8 @@
         "Sujet: Caroline Bachmann",
         "Artiste: Caroline Bachmann",
         "Catégorie: Studio Visit",
-        "Sélection: Homepage"
+        "Sélection: Homepage",
+        "Sélection: Hero"
       ],
       "excerpt": "",
       "location": {
@@ -497,7 +497,7 @@
       "workflowState": 1,
       "publishOn": 1760107939226,
       "addedOn": 1760107939226,
-      "updatedOn": 1782313993537
+      "updatedOn": 1785504309281
     },
     {
       "id": "68e50fd093ec250702069457",
