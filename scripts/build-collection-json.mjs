@@ -9,6 +9,7 @@ const KEEP_FIELDS = [
   'id',
   'title',
   'fullUrl',
+  'sourceUrl',
   'urlId',
   'assetUrl',
   'mediaFocalPoint',
