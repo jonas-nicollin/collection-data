@@ -2,8 +2,19 @@ name: Sync collection data
 
 on:
   workflow_dispatch:
+    inputs:
+      trigger:
+        description: Trigger source
+        required: false
+        default: manual
+        type: string
   schedule:
-    - cron: "7,17,27,37,47,57 * * * *"
+    # Hourly GitHub backup. The 10-minute primary schedule is handled by Cloudflare.
+    - cron: "43 * * * *"
+
+concurrency:
+  group: sync-collection-data
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -11,8 +22,17 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
+      - name: Record trigger
+        env:
+          SYNC_TRIGGER: ${{ inputs.trigger || github.event_name }}
+        run: |
+          echo "Triggered by: ${SYNC_TRIGGER}"
+          echo "### Collection data sync" >> "$GITHUB_STEP_SUMMARY"
+          echo "Trigger: \`${SYNC_TRIGGER}\`" >> "$GITHUB_STEP_SUMMARY"
+
       - name: Checkout
         uses: actions/checkout@v6
 
