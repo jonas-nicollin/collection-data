@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-07-31T11:44:29.023Z",
-  "sourceHash": "e0b6615be006fa3680a3aa951e0dbd92057bb90830c85aa640c1c988ae06807c",
+  "updatedAt": "2026-07-31T13:19:59.944Z",
+  "sourceHash": "0da1d5cfae2fdd0d1b556f050f5b61c08e23467efc4987a138c37355d0a2f904",
   "count": 82,
   "pages": 1,
   "items": [
@@ -1563,6 +1563,7 @@
       "id": "68248794cdfab25869f2b375",
       "title": "HiFlow",
       "fullUrl": "/membre/hiflow",
+      "sourceUrl": "",
       "urlId": "hiflow",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753368910449-8U6B56712FTQR2RVSL0T/Geneva_Art_Week-Members-HiFlow-Thumbnail_Image-001.webp",
       "mediaFocalPoint": {
@@ -2157,6 +2158,7 @@
       "id": "68248796cdfab25869f2b3b5",
       "title": "MAMCO",
       "fullUrl": "/membre/mamco",
+      "sourceUrl": "",
       "urlId": "mamco",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755785924804-BQ7FNXCERPHXF9VJ7JW8/Geneva_Art_Week-Members-MAMCO-Thumbnail_Image-001.webp",
       "mediaFocalPoint": {
