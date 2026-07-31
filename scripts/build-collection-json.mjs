@@ -93,6 +93,28 @@ function hashItems(items) {
     .digest('hex');
 }
 
+function stablePayload(data) {
+  if (!data || typeof data !== 'object') return null;
+
+  return {
+    schemaVersion: data.schemaVersion,
+    type: data.type,
+    site: data.site,
+    id: data.id,
+    path: data.path,
+    sourceUrl: data.sourceUrl,
+    sourceHash: data.sourceHash,
+    count: data.count,
+    pages: data.pages,
+    items: data.items
+  };
+}
+
+function payloadIsUnchanged(existingPayload, nextPayload) {
+  if (!existingPayload) return false;
+  return JSON.stringify(stablePayload(existingPayload)) === JSON.stringify(nextPayload);
+}
+
 function mergeSetCookie(cookieHeader, cookies) {
   if (!cookieHeader) return cookies;
 
@@ -169,6 +191,19 @@ async function fetchAllCollectionItems(collection) {
   return { items, pages };
 }
 
+async function readExistingJson(filePath) {
+  try {
+    return JSON.parse(await readFile(filePath, 'utf8'));
+  } catch (error) {
+    if (error?.code === 'ENOENT') return null;
+    if (error instanceof SyntaxError) {
+      console.warn(`Existing output is invalid JSON and will be replaced: ${filePath}`);
+      return null;
+    }
+    throw error;
+  }
+}
+
 async function writeJson(filePath, data) {
   await mkdir(path.dirname(filePath), { recursive: true });
   await writeFile(filePath, `${JSON.stringify(data, null, 2)}\n`, 'utf8');
@@ -194,14 +229,13 @@ async function main() {
 
     const result = await fetchAllCollectionItems(collection);
     const sourceHash = hashItems(result.items);
-    const payload = {
+    const nextPayload = {
       schemaVersion: 1,
       type: 'squarespace-collection',
       site,
       id: collection.id,
       path: collection.path || null,
       sourceUrl: collection.url,
-      updatedAt: new Date().toISOString(),
       sourceHash,
       count: result.items.length,
       pages: result.pages,
@@ -209,11 +243,33 @@ async function main() {
     };
 
     const outputPath = path.join(outputRoot, site, `${collection.id}.json`);
+    const existingPayload = await readExistingJson(outputPath);
+    const unchanged = payloadIsUnchanged(existingPayload, nextPayload);
+    const status = unchanged ? 'unchanged' : existingPayload ? 'changed' : 'new';
 
     if (dryRun) {
-      console.log(`${collection.id}: ${payload.count} items, ${payload.pages} pages, ${sourceHash.slice(0, 12)}`);
+      console.log(`${collection.id}: ${status}, ${nextPayload.count} items, ${nextPayload.pages} pages, ${sourceHash.slice(0, 12)}`);
       continue;
     }
+
+    if (unchanged) {
+      console.log(`Unchanged ${outputPath} (${nextPayload.count} items, ${nextPayload.pages} pages)`);
+      continue;
+    }
+
+    const payload = {
+      schemaVersion: nextPayload.schemaVersion,
+      type: nextPayload.type,
+      site: nextPayload.site,
+      id: nextPayload.id,
+      path: nextPayload.path,
+      sourceUrl: nextPayload.sourceUrl,
+      updatedAt: new Date().toISOString(),
+      sourceHash: nextPayload.sourceHash,
+      count: nextPayload.count,
+      pages: nextPayload.pages,
+      items: nextPayload.items
+    };
 
     await writeJson(outputPath, payload);
     console.log(`Wrote ${outputPath} (${payload.count} items, ${payload.pages} pages)`);
