@@ -5,10 +5,10 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-31T09:33:40.492Z",
-  "sourceHash": "976654421372cc0408a9b196ec90d4959888f65251921b3197bbea3881ca2b5f",
-  "count": 95,
-  "pages": 5,
+  "updatedAt": "2026-07-31T11:19:09.824Z",
+  "sourceHash": "a7259314a193129a710e132ce4525b7b736d22bb79645e2add9bdbb8de237de2",
+  "count": 101,
+  "pages": 6,
   "items": [
     {
       "id": "6a6a6e729907ba723c12cb31",
@@ -224,7 +224,7 @@
       "workflowState": 1,
       "publishOn": 1785357575955,
       "addedOn": 1785357575955,
-      "updatedOn": 1785488064193
+      "updatedOn": 1785495993450
     },
     {
       "id": "6a692b651ccf8761e33a544b",
@@ -250,7 +250,7 @@
         "Quartier:  Quartier des Bains",
         "Date: 2026-09-17/2026-12-19",
         "Vernissage: 2026-09-17T18:00",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -268,7 +268,7 @@
       "workflowState": 1,
       "publishOn": 1785277285132,
       "addedOn": 1785277285132,
-      "updatedOn": 1785490229012
+      "updatedOn": 1785494492878
     },
     {
       "id": "6a6926ab150c545027ca5d5d",
@@ -1115,6 +1115,252 @@
       "updatedOn": 1785147803947
     },
     {
+      "id": "6a5ffba27f937f13b7b039d3",
+      "title": "Mathias Messerli – Art Tables",
+      "fullUrl": "/programme-2026/mathias-messerli-art-table",
+      "urlId": "mathias-messerli-art-table",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784157048007-94AGRF8HBOFLZ7OKPLRF/Geneva_Art_Week-Event_2026-Art-Tables-05.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: Geneva Art Week",
+        "Date: 2026-09-16/2026-09-20",
+        "Thématique: Scène artistique suisse",
+        "Lieu: Café de l'Amitié",
+        "Quartier: Eaux-Vives Cité",
+        "Artiste: Mathias Messerli",
+        "Sélection: Art Tables"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2028666,
+        "mapLng": 6.1592002,
+        "markerLat": 46.2028666,
+        "markerLng": 6.1592002,
+        "addressTitle": "Café de l&#39;Amitié",
+        "addressLine1": "Rue de Montchoisy 7",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 88,
+      "workflowState": 1,
+      "publishOn": 1784675234037,
+      "addedOn": 1784675234037,
+      "updatedOn": 1785495860714
+    },
+    {
+      "id": "6a5ffb9edc9e077ef532e18e",
+      "title": "Pauline Coquart – Art Tables",
+      "fullUrl": "/programme-2026/pauline-coquart-art-table",
+      "urlId": "pauline-coquart-art-table",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784157048086-NKCLYKKNTZ08R09SBS58/Geneva_Art_Week-Event_2026-Art-Tables-04.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: Geneva Art Week",
+        "Date: 2026-09-16/2026-09-20",
+        "Thématique: Scène artistique suisse",
+        "Artiste: Pauline Coquart",
+        "Lieu: Brasserie Europe | Restaurant du Plaza Centre Cinema",
+        "Quartier: Cornavin",
+        "Sélection: Art Tables"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2078284,
+        "mapLng": 6.145397699999999,
+        "markerLat": 46.2078284,
+        "markerLng": 6.145397699999999,
+        "addressTitle": "Brasserie Europe | Restaurant du Plaza Centre Cinema ",
+        "addressLine1": "Rue de Chantepoulet 1",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 87,
+      "workflowState": 1,
+      "publishOn": 1784675230883,
+      "addedOn": 1784675230883,
+      "updatedOn": 1785495868885
+    },
+    {
+      "id": "6a5ff5d8781295475b4857e0",
+      "title": "Clara Roumégoux – Art Tables",
+      "fullUrl": "/programme-2026/clara-roumegoux-art-table",
+      "urlId": "clara-roumegoux-art-table",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784674456377-PGTL63JMCR7BLTTKT4XN/Geneva_Art_Week-Event_2026-Art-Tables-03.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: Geneva Art Week",
+        "Date: 2026-09-16/2026-09-20",
+        "Thématique: Scène artistique suisse",
+        "Artiste: Clara Roumégoux",
+        "Lieu: Tablard",
+        "Quartier: Carouge",
+        "Sélection: Art Tables"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.18498109999999,
+        "mapLng": 6.1410513,
+        "markerLat": 46.18498109999999,
+        "markerLng": 6.1410513,
+        "addressTitle": "Tablard",
+        "addressLine1": "Rue Saint-Joseph 26",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 86,
+      "workflowState": 1,
+      "publishOn": 1784673752778,
+      "addedOn": 1784673752778,
+      "updatedOn": 1785495875982
+    },
+    {
+      "id": "6a5ff22aa366315b33ff46e3",
+      "title": "Julie Richard – Art Tables",
+      "fullUrl": "/programme-2026/julie-richard-art-table",
+      "urlId": "julie-richard-art-table",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784157049553-5BY44XDPS51G3BAGC6KX/Geneva_Art_Week-Event_2026-Art-Tables-02.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: Geneva Art Week",
+        "Date: 2026-09-16/2026-09-20",
+        "Thématique: Scène artistique suisse",
+        "Lieu: Anouch",
+        "Artiste: Julie Richard",
+        "Quartier: Quartier des banques",
+        "Sélection: Art Tables"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20161239999999,
+        "mapLng": 6.1406401,
+        "markerLat": 46.20161239999999,
+        "markerLng": 6.1406401,
+        "addressTitle": "Anouch",
+        "addressLine1": "Rue Bovy-Lysberg 1",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 85,
+      "workflowState": 1,
+      "publishOn": 1784672810891,
+      "addedOn": 1784672810891,
+      "updatedOn": 1785495883463
+    },
+    {
+      "id": "6a5fef10d708b826713a02fa",
+      "title": "Salomé Engel – Art Tables",
+      "fullUrl": "/programme-2026/salom-engel-art-table",
+      "urlId": "salom-engel-art-table",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784157046685-4C7Y5SIEWY0YURZ4IE4Q/Geneva_Art_Week-Event_2026-Art-Tables-06.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: Geneva Art Week",
+        "Date: 2026-09-16/2026-09-20",
+        "Thématique: Scène artistique suisse",
+        "Lieu: Bleu Nuit",
+        "Quartier: Plainpalais",
+        "Artiste: Salomé Engel",
+        "Sélection: Art Tables"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2004002,
+        "mapLng": 6.139255400000001,
+        "markerLat": 46.2004002,
+        "markerLng": 6.139255400000001,
+        "addressTitle": "Bleu Nuit",
+        "addressLine1": "Rue du Vieux-Billard 4",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 84,
+      "workflowState": 1,
+      "publishOn": 1784672016182,
+      "addedOn": 1784672016182,
+      "updatedOn": 1785495889814
+    },
+    {
+      "id": "6a5fea9aea5133409618fe61",
+      "title": "Yann-Stéphane Bisso – Art Tables",
+      "fullUrl": "/programme-2026/yann-stphane-bisso-art-table",
+      "urlId": "yann-stphane-bisso-art-table",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784671639204-XPMJP0BVEVTF8DU672CS/Geneva_Art_Week-Event_2026-Art-Tables-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: Geneva Art Week",
+        "Lieu: Le Dorian",
+        "Quartier: Genève-Cité",
+        "Date: 2026-09-16/2026-09-20",
+        "Artiste: Yann-Stéphane Bisso",
+        "Thématique: Scène artistique suisse",
+        "Sélection: Art Tables"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2002595,
+        "mapLng": 6.1427347,
+        "markerLat": 46.2002595,
+        "markerLng": 6.1427347,
+        "addressTitle": "Le Dorian",
+        "addressLine1": "Place René-Payot 1",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 83,
+      "workflowState": 1,
+      "publishOn": 1784670874526,
+      "addedOn": 1784670874526,
+      "updatedOn": 1785495897643
+    },
+    {
       "id": "6a5fe478799b9d502f654e5f",
       "title": "Dîner exploratoire",
       "fullUrl": "/programme-2026/diner-exploratoire",
@@ -1446,7 +1692,7 @@
         "Quartier: Quartier des Bains",
         "Date: 2026-09-17/2026-11-07",
         "Vernissage: 2026-09-17T18:00",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -1464,7 +1710,7 @@
       "workflowState": 1,
       "publishOn": 1784304947556,
       "addedOn": 1784304947556,
-      "updatedOn": 1785489186210
+      "updatedOn": 1785494492644
     },
     {
       "id": "6a5a4dea93ef786c65d99343",
@@ -1664,7 +1910,8 @@
         "Thématique: Art contemporain",
         "Artiste: Claire Mayet",
         "Date: 2026-09-16/2026-10-31",
-        "Vernissage: 2026-09-16T17:00"
+        "Vernissage: 2026-09-16T17:00",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -1682,7 +1929,7 @@
       "workflowState": 1,
       "publishOn": 1784151475193,
       "addedOn": 1784151475193,
-      "updatedOn": 1785151625080
+      "updatedOn": 1785490461657
     },
     {
       "id": "6a57fa4675819e7269891e1f",
@@ -2273,7 +2520,7 @@
         "Artiste: Pierre André Ferrand",
         "Thématique: Dessin",
         "Date: 2026-09-18/2026-10-31",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -2291,7 +2538,7 @@
       "workflowState": 1,
       "publishOn": 1783957524272,
       "addedOn": 1783957524272,
-      "updatedOn": 1785490182398
+      "updatedOn": 1785494492694
     },
     {
       "id": "6a55067afffd3229acd136be",
@@ -2317,7 +2564,7 @@
         "Thématique: Peinture",
         "Thématique: Scène émergente",
         "Date: 2026-09-17/2026-11-07",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -2335,7 +2582,7 @@
       "workflowState": 1,
       "publishOn": 1783957114429,
       "addedOn": 1783957114429,
-      "updatedOn": 1785489589624
+      "updatedOn": 1785494492792
     },
     {
       "id": "6a5504b4fffd3229acd069b5",
@@ -2362,7 +2609,7 @@
         "Thématique: Dessin",
         "Thématique: Mixed Media",
         "Sélection: Expositions principales",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -2380,7 +2627,7 @@
       "workflowState": 1,
       "publishOn": 1783956660283,
       "addedOn": 1783956660283,
-      "updatedOn": 1785489608353
+      "updatedOn": 1785494492720
     },
     {
       "id": "6a540cf570bbc541a84421cb",
@@ -2784,7 +3031,7 @@
         "Intervenante: Carmen Campo Real",
         "Date: 2026-09-18T11:45",
         "Quartier: Quartier des Bains",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -2802,7 +3049,7 @@
       "workflowState": 1,
       "publishOn": 1783812667351,
       "addedOn": 1783812667351,
-      "updatedOn": 1785489644063
+      "updatedOn": 1785494492858
     },
     {
       "id": "6a516f01cfa15f7f6b4c1d69",
@@ -3294,7 +3541,8 @@
         "Artiste: Garry Fabian Miller",
         "Artiste: Ptolemy Mann",
         "Artiste: Marit Tingleff",
-        "Sélection: Quartier des Bains"
+        "Sélection: Parcours Céramique Carouge",
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -3312,7 +3560,7 @@
       "workflowState": 1,
       "publishOn": 1783632794874,
       "addedOn": 1783632794874,
-      "updatedOn": 1785489714279
+      "updatedOn": 1785494492670
     },
     {
       "id": "6a500fb5218dbf10dedeb5f1",
@@ -3338,7 +3586,7 @@
         "Thématique: Art contemporain",
         "Thématique: Scène artistique suisse",
         "Quartier: Quartier des Bains",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -3356,7 +3604,7 @@
       "workflowState": 1,
       "publishOn": 1783631797633,
       "addedOn": 1783631797633,
-      "updatedOn": 1785489726366
+      "updatedOn": 1785494492900
     },
     {
       "id": "6a500ca103eca961603dd6f9",
@@ -3426,7 +3674,7 @@
         "Vernissage: 2026-09-17T18:00",
         "Artiste: Seline Burn",
         "Quartier: Quartier des Bains",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -3444,7 +3692,7 @@
       "workflowState": 1,
       "publishOn": 1783630677538,
       "addedOn": 1783630677538,
-      "updatedOn": 1785489767750
+      "updatedOn": 1785494492770
     },
     {
       "id": "6a4eda91af61824f6997e5fc",
@@ -3847,8 +4095,7 @@
         "Date: 2026-07-13/2026-10-02",
         "Lieu: Maison de l'enfance et de l'adolescence (HUG)",
         "Sélection: Expositions principales",
-        "Sélection: Nuit des Bains",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -3866,7 +4113,7 @@
       "workflowState": 1,
       "publishOn": 1783537928620,
       "addedOn": 1783537928620,
-      "updatedOn": 1785489851975
+      "updatedOn": 1785494492814
     },
     {
       "id": "6a4bce42eb4e700dfde28cdd",
@@ -3900,7 +4147,7 @@
         "Date: 2026-09-02/2026-09-27",
         "Membre: Centre d'Art Contemporain Genève",
         "Lieu: Le Commun",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -3918,7 +4165,7 @@
       "workflowState": 1,
       "publishOn": 1783352898630,
       "addedOn": 1783352898630,
-      "updatedOn": 1785489865363
+      "updatedOn": 1785494492837
     },
     {
       "id": "6a4bc793afabb73f86f2ca8a",
@@ -4017,7 +4264,8 @@
         "Thématique: Dessin",
         "Artiste: Marie Ducaté",
         "Membre: Musée Ariana",
-        "Date: 2026-02-20/2026-11-29"
+        "Date: 2026-02-20/2026-11-29",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -4035,7 +4283,7 @@
       "workflowState": 1,
       "publishOn": 1783347143039,
       "addedOn": 1783347143039,
-      "updatedOn": 1785147611785
+      "updatedOn": 1785490492436
     },
     {
       "id": "6a4bb5be29f52d08dd58f0c2",
@@ -4061,7 +4309,7 @@
         "Date: 2026-09-18/2026-11-08",
         "Vernissage: 2026-09-17T18:00",
         "Membre: Centre d'Art Contemporain Genève",
-        "Sélection: Quartier des Bains"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -4079,7 +4327,7 @@
       "workflowState": 1,
       "publishOn": 1783346622744,
       "addedOn": 1783346622744,
-      "updatedOn": 1785489908519
+      "updatedOn": 1785494492744
     },
     {
       "id": "6a4b8cd461bf980f6c6e9e2d",
