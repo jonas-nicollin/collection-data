@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-07-31T16:18:00.433Z",
-  "sourceHash": "11efd6d8bfe3448439e0c237f78ab0dd18bab256fc24da56faeaefc1cd9302cc",
+  "updatedAt": "2026-08-01T16:36:36.828Z",
+  "sourceHash": "75aea00f2dd438e7d699b277664d33ef97cf14faa489d003308d56de990f6e68",
   "count": 101,
   "pages": 6,
   "items": [
@@ -4338,7 +4338,7 @@
     },
     {
       "id": "6a4b8cd461bf980f6c6e9e2d",
-      "title": "Art et Soin - Sublimations",
+      "title": "Art et Soin – Sublimations",
       "fullUrl": "/programme-2026/art-et-soin-sublimations",
       "urlId": "art-et-soin-sublimations",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783336639813-A46J37C58K7VQSBRG1VT/Geneva_Art_Week-Exhibition_2026-ArtHUG-Art_et_Soin_Sublimations-Featured-01.jpg",
@@ -4396,11 +4396,11 @@
       "workflowState": 1,
       "publishOn": 1783336148588,
       "addedOn": 1783336148588,
-      "updatedOn": 1785147585810
+      "updatedOn": 1785602046787
     },
     {
       "id": "6a4b86887e9b8b70db3b814e",
-      "title": "Artistes de l'École genevoise",
+      "title": "Artistes de l’École genevoise",
       "fullUrl": "/programme-2026/artistes-de-l-ecole-genevoise",
       "urlId": "artistes-de-l-ecole-genevoise",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783334840729-DLWMLDTC1TFUXBLAAAC3/Geneva_Art_Week-Exhibition_2026-Collection_du_Crest-Artistes_de_Ecole_Genevoise-Featured-01.webp",
@@ -4443,7 +4443,7 @@
       "workflowState": 1,
       "publishOn": 1783334536532,
       "addedOn": 1783334536532,
-      "updatedOn": 1785147558488
+      "updatedOn": 1785601950148
     },
     {
       "id": "6a4b81a583601f702d731111",
@@ -4488,7 +4488,7 @@
       "workflowState": 1,
       "publishOn": 1783333285600,
       "addedOn": 1783333285600,
-      "updatedOn": 1785489977013
+      "updatedOn": 1785601863807
     },
     {
       "id": "6a3955d9adf86433f900c349",
@@ -4530,7 +4530,7 @@
       "workflowState": 1,
       "publishOn": 1782142425493,
       "addedOn": 1782142425493,
-      "updatedOn": 1785147520742
+      "updatedOn": 1785601751171
     }
   ]
 }
