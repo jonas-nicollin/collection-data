@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-01T16:36:36.828Z",
-  "sourceHash": "75aea00f2dd438e7d699b277664d33ef97cf14faa489d003308d56de990f6e68",
+  "updatedAt": "2026-08-01T16:38:06.628Z",
+  "sourceHash": "7fceb3ad4ffaa499462a6ba14ce2a7290ee27649e758c5d4a7f32c19116f8674",
   "count": 101,
   "pages": 6,
   "items": [
@@ -4294,7 +4294,7 @@
     },
     {
       "id": "6a4bb5be29f52d08dd58f0c2",
-      "title": "Short Life Attention Span #3",
+      "title": "Pauline Coquart – Short Life Attention Span #3",
       "fullUrl": "/programme-2026/short-life-attention-span-3",
       "urlId": "short-life-attention-span-3",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783347004648-S7NJC4Z696MROLN8KCOG/Geneva_Art_Week-Exhibition_2026-Centre_Art_Comtemporain-Short_Life_Attention_Span-Featured-01.webp",
@@ -4334,7 +4334,7 @@
       "workflowState": 1,
       "publishOn": 1783346622744,
       "addedOn": 1783346622744,
-      "updatedOn": 1785494492744
+      "updatedOn": 1785602201480
     },
     {
       "id": "6a4b8cd461bf980f6c6e9e2d",
