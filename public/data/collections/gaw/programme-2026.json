@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-01T16:48:05.326Z",
-  "sourceHash": "cf86e95084628bcecaa6fd7f68541740c625e5ed5b9bc447eb4eb3745c306f9d",
+  "updatedAt": "2026-08-01T16:58:07.138Z",
+  "sourceHash": "92f77ebbc1b4faa43a4368f9bf88ee829a5e486c432aec53ed898e292587de64",
   "count": 101,
   "pages": 6,
   "items": [
@@ -3922,17 +3922,17 @@
       "workflowState": 1,
       "publishOn": 1783540957393,
       "addedOn": 1783540957393,
-      "updatedOn": 1785486710689
+      "updatedOn": 1785603428094
     },
     {
       "id": "6a4ea97dd62a154d73c23087",
       "title": "MAMCO × MAH Sylvia Sleigh et Refaire collection : une exposition en deux parties",
       "fullUrl": "/programme-2026/mamco-x-mah-sylvia-sleigh-et-refaire-collection",
       "urlId": "mamco-x-mah-sylvia-sleigh-et-refaire-collection",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783540270195-HV5K06J04O5GZNHZ1XNO/Geneva_Art_Week-Exhibition_2026-MAMCO-MAH_Sylvia_Sleigh_Refair_collection-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/e9355ab1-06b8-46d4-baa8-73b8433c6110/Geneva_Art_Week-Exhibition_2026-MAMCO-MAH-Sylvia-Sleigh.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.7430648271769767,
+        "y": 0.25298795516904615,
         "source": 3
       },
       "categories": [
@@ -3986,7 +3986,7 @@
       "workflowState": 1,
       "publishOn": 1783540093894,
       "addedOn": 1783540093894,
-      "updatedOn": 1785506079247
+      "updatedOn": 1785603351820
     },
     {
       "id": "6a4ea656ab94e148672cef55",
@@ -4029,7 +4029,7 @@
       "workflowState": 1,
       "publishOn": 1783539286654,
       "addedOn": 1783539286654,
-      "updatedOn": 1785506111270
+      "updatedOn": 1785602949301
     },
     {
       "id": "6a4ea4032edcd54816726cc2",
