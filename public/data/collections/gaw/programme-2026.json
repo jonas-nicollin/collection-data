@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T16:08:12.833Z",
-  "sourceHash": "fa47e5aeb62090cb99d55ae43e56581869c32200b50bb137511b7b7f87687486",
+  "updatedAt": "2026-08-02T16:18:11.170Z",
+  "sourceHash": "d20c51bccd157980d2d1fa8b9bf38efc2fbe4c7b6747fadc8b6ad069b5658470",
   "count": 98,
   "pages": 5,
   "items": [
@@ -41,7 +41,7 @@
         "mapLng": 6.1405248,
         "markerLat": 46.1805731,
         "markerLng": 6.1405248,
-        "addressTitle": "NOV Gallery",
+        "addressTitle": "Nov Gallery",
         "addressLine1": "Rue Joseph-Girard 4",
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
@@ -50,7 +50,7 @@
       "workflowState": 1,
       "publishOn": 1785359986682,
       "addedOn": 1785359986682,
-      "updatedOn": 1785488274760
+      "updatedOn": 1785687029288
     },
     {
       "id": "6a6a6b5345ed6e3086ec0812",
