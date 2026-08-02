@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T15:08:12.485Z",
-  "sourceHash": "c045a01b9365cb082dd1bda50584a26be0424b58281019bf010da73d3cc13ea7",
+  "updatedAt": "2026-08-02T15:18:13.237Z",
+  "sourceHash": "95ef2ec45dd4d2a72b18552a4bc1e94f3d73c01e8f3877db16dd001b39a38733",
   "count": 99,
   "pages": 5,
   "items": [
@@ -1237,7 +1237,7 @@
       "workflowState": 1,
       "publishOn": 1784673752778,
       "addedOn": 1784673752778,
-      "updatedOn": 1785495875982
+      "updatedOn": 1785683888319
     },
     {
       "id": "6a5ff22aa366315b33ff46e3",
@@ -1319,7 +1319,7 @@
       "workflowState": 1,
       "publishOn": 1784672016182,
       "addedOn": 1784672016182,
-      "updatedOn": 1785495889814
+      "updatedOn": 1785683759558
     },
     {
       "id": "6a5fea9aea5133409618fe61",
@@ -1360,7 +1360,7 @@
       "workflowState": 1,
       "publishOn": 1784670874526,
       "addedOn": 1784670874526,
-      "updatedOn": 1785495897643
+      "updatedOn": 1785683782734
     },
     {
       "id": "6a5fe478799b9d502f654e5f",
@@ -1402,7 +1402,7 @@
       "workflowState": 1,
       "publishOn": 1784669304400,
       "addedOn": 1784669304400,
-      "updatedOn": 1785153234080
+      "updatedOn": 1785683484815
     },
     {
       "id": "6a5a65996839a411e1a47a10",
@@ -1443,7 +1443,7 @@
       "workflowState": 1,
       "publishOn": 1784309145907,
       "addedOn": 1784309145907,
-      "updatedOn": 1785250327583
+      "updatedOn": 1785683402602
     },
     {
       "id": "6a5a62cd5689f86b33cd3cd0",
