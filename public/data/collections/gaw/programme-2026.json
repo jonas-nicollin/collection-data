@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T20:08:13.343Z",
-  "sourceHash": "feaa99eafce678b01daad1257ebda697ef75409e2c541345cc86fa09f97d1e17",
+  "updatedAt": "2026-08-02T20:18:11.107Z",
+  "sourceHash": "854e4989dd33502d84ba81e147518f70ae54d7d4128640bc2720ba7cfbfe18c4",
   "count": 102,
   "pages": 6,
   "items": [
@@ -2126,8 +2126,8 @@
         "Thématique: Céramique",
         "Thématique: Art contemporain",
         "Thématique: Sculpture",
-        "Vernissage: 2026-09-19T11:00",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Vernissage: 2026-09-19T11:30"
       ],
       "excerpt": "",
       "location": {
@@ -2145,7 +2145,7 @@
       "workflowState": 1,
       "publishOn": 1784147184314,
       "addedOn": 1784147184314,
-      "updatedOn": 1785489358364
+      "updatedOn": 1785701351857
     },
     {
       "id": "6a57e99f2e2ab15a53776ddf",
