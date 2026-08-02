@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T11:28:10.457Z",
-  "sourceHash": "4a184455f6d76ceaa778040aab508e54b773076f97771f684312924ab883e731",
+  "updatedAt": "2026-08-02T11:38:11.099Z",
+  "sourceHash": "ed8dfe5d46eb6713773d22c280e627ddcf96734d326d4dc9d34eece1b31cd340",
   "count": 101,
   "pages": 6,
   "items": [
@@ -2891,8 +2891,8 @@
       "urlId": "atelier-adultes-jouons-avec-la-porcelaine",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/eda2db77-54ac-46a5-8b8f-f34a987b109e/Geneva_Art_Week-Event_2026-Maison-Potter-Atelier-adulte.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.47621407333994054,
+        "y": 0.2708459284750965,
         "source": 3
       },
       "categories": [
@@ -2923,7 +2923,7 @@
       "workflowState": 1,
       "publishOn": 1783869743129,
       "addedOn": 1783869743129,
-      "updatedOn": 1785149270601
+      "updatedOn": 1785670625974
     },
     {
       "id": "6a53a6a65442af5901123eb8",
@@ -2932,8 +2932,8 @@
       "urlId": "collection-annuelle-visite-guidee",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/d2e39cf7-3ca4-4198-9b32-dfa3f8ed954d/Geneva_Art_Week-Event_2026-Collection-annuelle-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.49603567888999006,
+        "y": 0.06250290657117608,
         "source": 3
       },
       "categories": [
@@ -2968,7 +2968,7 @@
       "workflowState": 1,
       "publishOn": 1783867046945,
       "addedOn": 1783867046945,
-      "updatedOn": 1785148956411
+      "updatedOn": 1785670531210
     },
     {
       "id": "6a52db49fc240d5144da0d69",
@@ -3013,11 +3013,11 @@
       "workflowState": 1,
       "publishOn": 1783814985544,
       "addedOn": 1783814985544,
-      "updatedOn": 1785148948264
+      "updatedOn": 1785670436948
     },
     {
       "id": "6a52d23bb344bf6935b610a9",
-      "title": "Ciném'Art",
+      "title": "Ciném’Art",
       "fullUrl": "/programme-2026/cinemart",
       "urlId": "cinemart",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783813755001-Q80Z0DTV3918B719FR0K/Geneva_Art_Week-Event_2026-Cinem-Art.webp",
@@ -3055,11 +3055,11 @@
       "workflowState": 1,
       "publishOn": 1783812667351,
       "addedOn": 1783812667351,
-      "updatedOn": 1785494492858
+      "updatedOn": 1785670187546
     },
     {
       "id": "6a516f01cfa15f7f6b4c1d69",
-      "title": "Visite d'atelier de Marta Blanc",
+      "title": "Visite d’atelier de Marta Blanc",
       "fullUrl": "/programme-2026/visite-d-atelier-de-marta-blanc",
       "urlId": "visite-d-atelier-de-marta-blanc",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783722145483-EPZ3PY1IEH7RN92ZP7IX/Geneva_Art_Week-Event_2026-Visite-atelier-Marta-Blanc-01.webp",
@@ -3096,7 +3096,7 @@
       "workflowState": 1,
       "publishOn": 1783721729245,
       "addedOn": 1783721729245,
-      "updatedOn": 1785148931336
+      "updatedOn": 1785670142157
     },
     {
       "id": "6a51654b8f69b4706246a09b",
@@ -3471,7 +3471,7 @@
         "mapLng": 6.1586818,
         "markerLat": 46.2040668,
         "markerLng": 6.1586818,
-        "addressTitle": "Arcadia x Joy de Rouvre",
+        "addressTitle": "Arcadia",
         "addressLine1": "Rue des Eaux-Vives 20",
         "addressLine2": "1207 Genève",
         "addressCountry": "Suisse"
@@ -3480,7 +3480,7 @@
       "workflowState": 1,
       "publishOn": 1783634189675,
       "addedOn": 1783634189675,
-      "updatedOn": 1785668718341
+      "updatedOn": 1785670287792
     },
     {
       "id": "6a50168f5c3d38684afa7d5b",
