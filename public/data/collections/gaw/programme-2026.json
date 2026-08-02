@@ -5,10 +5,10 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T14:58:14.957Z",
-  "sourceHash": "ca6cba264189d549a019a8dd49b4f76ceac0366b7968692fbb7de11bd7995860",
-  "count": 101,
-  "pages": 6,
+  "updatedAt": "2026-08-02T15:08:12.485Z",
+  "sourceHash": "c045a01b9365cb082dd1bda50584a26be0424b58281019bf010da73d3cc13ea7",
+  "count": 99,
+  "pages": 5,
   "items": [
     {
       "id": "6a6a6e729907ba723c12cb31",
@@ -1537,7 +1537,7 @@
     },
     {
       "id": "6a5a5f13621cdc516a5c445c",
-      "title": "La Matière de l'absence",
+      "title": "La Matière de l’absence",
       "fullUrl": "/programme-2026/la-matiere-de-labsence",
       "urlId": "la-matiere-de-labsence",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784307657418-HD5B1SI0QHISM3DOOC7D/Geneva_Art_Week-Exhibition_2026-Fondation_Bruckner_Centre_ceramique-La_Matiere_de_labsence-Featured-01.webp",
@@ -1577,7 +1577,7 @@
       "workflowState": 1,
       "publishOn": 1784307475042,
       "addedOn": 1784307475042,
-      "updatedOn": 1785489094797
+      "updatedOn": 1785683225464
     },
     {
       "id": "6a5a5d6bfb1aa80e0e9988db",
@@ -1669,51 +1669,7 @@
       "workflowState": 1,
       "publishOn": 1784305484277,
       "addedOn": 1784305484277,
-      "updatedOn": 1785489136250
-    },
-    {
-      "id": "6a5a553309e76b531054f160",
-      "title": "Lilian Bourgeat",
-      "fullUrl": "/programme-2026/lilian-bourgeat",
-      "urlId": "lilian-bourgeat",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784305073348-FOGGKI5ETGLKQYF8VAY3/Geneva_Art_Week-Exhibition_2026-galerie_lange_pult-Lilian_Bourgeat-Featured-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Exposition"
-      ],
-      "tags": [
-        "Type: Solo show",
-        "Artiste: Lilian Bourgeat",
-        "Membre: Galerie Lange + Pult",
-        "Thématique: Sculpture",
-        "Thématique: Art contemporain",
-        "Quartier: Quartier des Bains",
-        "Date: 2026-09-17/2026-11-07",
-        "Vernissage: 2026-09-17T18:00",
-        "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1983213,
-        "mapLng": 6.137031299999999,
-        "markerLat": 46.1983213,
-        "markerLng": 6.137031299999999,
-        "addressTitle": " Galerie lange &#43; pult",
-        "addressLine1": "Rue des Bains 22",
-        "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 72,
-      "workflowState": 1,
-      "publishOn": 1784304947556,
-      "addedOn": 1784304947556,
-      "updatedOn": 1785505915478
+      "updatedOn": 1785683103795
     },
     {
       "id": "6a5a4dea93ef786c65d99343",
@@ -1756,11 +1712,11 @@
       "workflowState": 1,
       "publishOn": 1784303082537,
       "addedOn": 1784303082537,
-      "updatedOn": 1785489205935
+      "updatedOn": 1785682991133
     },
     {
       "id": "6a5a4b6c03f0132411378a4b",
-      "title": "Le Nouveau Réalisme : un recyclage poétique du réel urbain",
+      "title": "Le Nouveau Réalisme: un recyclage poétique du réel urbain",
       "fullUrl": "/programme-2026/le-nouveau-realisme-un-recyclage-poetique-du-reel-urbain",
       "urlId": "le-nouveau-realisme-un-recyclage-poetique-du-reel-urbain",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784302538146-YRXW9JUDIMPA5UDM9OQ8/Geneva_Art_Week-Exhibition_2026-Galerie_Sonia_Zannattecci-Le_Nouveau_Realisme_Un_Recyclage_Poetique_Du_Reel_Urbain-Featured-01.webp",
@@ -1808,50 +1764,7 @@
       "workflowState": 1,
       "publishOn": 1784302444151,
       "addedOn": 1784302444151,
-      "updatedOn": 1785489243469
-    },
-    {
-      "id": "6a5a4934e4e64175c38ae0b9",
-      "title": "Dita Cossio: INHERITED",
-      "fullUrl": "/programme-2026/dita-cossio-inherited",
-      "urlId": "dita-cossio-inherited",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784301995793-ZME53GXNKRMSDH8LI0YE/Geneva_Art_Week-Exhibition_2026-Aubert_Jansem_Geneve-Dita_Cossio_Inherited-Featured-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Exposition"
-      ],
-      "tags": [
-        "Type: Solo show",
-        "Thématique: Céramique",
-        "Artiste: Dita Cossio",
-        "Quartier: Lancy",
-        "Membre: Aubert Jansem Genève",
-        "Thématique: Sculpture",
-        "Date: 2026-09-16/2026-09-27",
-        "Vernissage: 2026-09-19T11:30",
-        "Lieu: Patio des Ports Francs et Entrepôts de Genève S.A."
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1879912,
-        "mapLng": 6.1261657,
-        "markerLat": 46.1879912,
-        "markerLng": 6.1261657,
-        "addressTitle": "Patio des Ports Francs et Entrepôts de Genève",
-        "addressLine1": "Route du Grand-Lancy 6A",
-        "addressLine2": "1227 Lancy",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 69,
-      "workflowState": 1,
-      "publishOn": 1784301876814,
-      "addedOn": 1784301876814,
-      "updatedOn": 1785153579567
+      "updatedOn": 1785682879499
     },
     {
       "id": "6a5805608b34023ea0285e48",
