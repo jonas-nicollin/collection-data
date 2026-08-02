@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T11:44:30.101Z",
-  "sourceHash": "d080ad322b8a51c53e73b540e978d18417d3bd192bf57bb0b5313a2270d05229",
+  "updatedAt": "2026-08-02T13:58:14.959Z",
+  "sourceHash": "9b302b31b42ddc996a760654d6fc2af04676da7f3f30841658ec5d27ab13dea1",
   "count": 101,
   "pages": 6,
   "items": [
@@ -2673,11 +2673,11 @@
       "workflowState": 1,
       "publishOn": 1783893237724,
       "addedOn": 1783893237724,
-      "updatedOn": 1785151449625
+      "updatedOn": 1785679054627
     },
     {
       "id": "6a5404ab7825930f6996ab95",
-      "title": "Conférence d'Amélie Patry",
+      "title": "Conférence d’Amélie Patry",
       "fullUrl": "/programme-2026/conference-amelie-patry",
       "urlId": "conference-amelie-patry",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/75b70260-9b54-40b2-a686-6dda62401bbc/Geneva_Art_Week-Event_2026-Confe%CC%81rence-Ame%CC%81lie-Patry.webp",
@@ -2713,7 +2713,7 @@
       "workflowState": 1,
       "publishOn": 1783891115061,
       "addedOn": 1783891115061,
-      "updatedOn": 1785151335594
+      "updatedOn": 1785678906250
     },
     {
       "id": "6a5400e18668e102f9135b90",
