@@ -5,14 +5,56 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T22:38:13.961Z",
-  "sourceHash": "a32b3db0cfee9f42b3d27dffc7506a081ae0c4b229d2ceabd883d34d4a30c77b",
-  "count": 107,
+  "updatedAt": "2026-08-02T22:48:10.331Z",
+  "sourceHash": "dc560fa40a050ecd41813ad94c3e4fb09d28ab930400936408a4d7155c4b5119",
+  "count": 108,
   "pages": 6,
   "items": [
     {
+      "id": "6a6fc6c76b329c18385bad85",
+      "title": "Alexandra Maurer – Visite d’atelier",
+      "fullUrl": "/programme-2026/visite-d-atelier-de-alexandra-maurer",
+      "urlId": "visite-d-atelier-de-alexandra-maurer",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7be15e68-8025-48b4-a1d7-4c76c1606616/Geneva_Art_Week-Event_2026-Studio-Visit-Alexandra-Maurer.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Studio Visit"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Membre: Usine Kugler",
+        "Quartier: Jonction",
+        "Thématique: Peinture",
+        "Thématique: Art contemporain",
+        "Artiste: Alexandra Maurer",
+        "Thématique: Mixed Media",
+        "Date: 2026-09-19T17:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.201308,
+        "mapLng": 6.125519499999999,
+        "markerLat": 46.201308,
+        "markerLng": 6.125519499999999,
+        "addressTitle": "Usine Kugler",
+        "addressLine1": "Avenue de la Jonction 19",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 121,
+      "workflowState": 1,
+      "publishOn": 1785710279227,
+      "addedOn": 1785710279227,
+      "updatedOn": 1785710576021
+    },
+    {
       "id": "6a6fc4f669e423237aab6852",
-      "title": "Thierry Feuz – Visite d’atelier",
+      "title": "Philippe Fretz – Visite d’atelier",
       "fullUrl": "/programme-2026/visite-d-atelier-de-philippe-fretz",
       "urlId": "visite-d-atelier-de-philippe-fretz",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/785e2a30-5552-4d3d-a4c4-3d9f9a135582/Geneva_Art_Week-Event_2026-Studio-Visit-Philippe-Fretz.webp",
@@ -49,7 +91,7 @@
       "workflowState": 1,
       "publishOn": 1785709814905,
       "addedOn": 1785709814905,
-      "updatedOn": 1785710279253
+      "updatedOn": 1785710692255
     },
     {
       "id": "6a6fc17a32067566f78eca7f",
