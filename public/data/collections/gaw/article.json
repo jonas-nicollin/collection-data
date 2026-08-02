@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-08-02T19:48:12.219Z",
-  "sourceHash": "74f0ce7bf0ca0d8f2a9595cdb62f7b9f67aa213f7c713fd38b25ae429d8f2531",
+  "updatedAt": "2026-08-02T19:58:13.987Z",
+  "sourceHash": "c8d7ae0a7cef36e4647984d48d0013aaba0c16fc4e08957ad3d8505298259152",
   "count": 29,
   "pages": 2,
   "items": [
@@ -48,155 +48,6 @@
       "updatedOn": 1781855006011
     },
     {
-      "id": "6a0f8e5009913b746bf12480",
-      "title": "Séverine Redon · HiFlow",
-      "fullUrl": "/article/rencontre-avec-severine-redon",
-      "urlId": "rencontre-avec-severine-redon",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781191562055-WB4SGHVOS4GBK4B44H7H/Geneva_Art_Week-Journal-Rencontre_avec-Severine_Redon-Hiflow-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rencontre Avec"
-      ],
-      "tags": [
-        "Catégorie: Rencontre Avec",
-        "Sujet: Séverine Redon",
-        "Membre: HiFlow",
-        "Quartier: Plan-les-Ouates"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.0007613,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "workflowState": 1,
-      "publishOn": 1781191574378,
-      "addedOn": 1781191574378,
-      "updatedOn": 1785504321982
-    },
-    {
-      "id": "6a0f979e39d01c1d9898a22a",
-      "title": "Frédéric Ormond · Ormond Editions",
-      "fullUrl": "/article/rencontre-avec-frederic-ormond",
-      "urlId": "rencontre-avec-frederic-ormond",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781178058307-7RXC4YVCXMRGD76UKXG8/Geneva_Art_Week-Journal-Rencontre_avec-Frederic_Ormond-Ormond_Editions-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rencontre Avec"
-      ],
-      "tags": [
-        "Catégorie: Rencontre Avec",
-        "Sujet: Frédéric Ormond",
-        "Membre: Ormond Editions",
-        "Quartier: Eaux-Vives Cité",
-        "Sélection: Homepage"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.0007613,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "workflowState": 1,
-      "publishOn": 1781178070832,
-      "addedOn": 1781178070832,
-      "updatedOn": 1782315836130
-    },
-    {
-      "id": "6a0f880682b392465d441a93",
-      "title": "Sonia Zannettacci · Galerie Sonia Zannettacci",
-      "fullUrl": "/article/rencontre-avec-sonia-zannettacci",
-      "urlId": "rencontre-avec-sonia-zannettacci",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781177141223-GVZYC8F7YABLEE2JTWHH/Geneva_Art_Week-Journal-Rencontre_avec-Sonia_Zannettacci-003.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rencontre Avec"
-      ],
-      "tags": [
-        "Catégorie: Rencontre Avec",
-        "Sujet: Sonia Zannettacci",
-        "Membre: Galerie Sonia Zannettacci",
-        "Quartier: Vieille-Ville"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.0007613,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "workflowState": 1,
-      "publishOn": 1781177298422,
-      "addedOn": 1781177298422,
-      "updatedOn": 1781177298897
-    },
-    {
-      "id": "6a0fa00dfddd2772e79a5e37",
-      "title": "Monique Deul · Taste Contemporary",
-      "fullUrl": "/article/rencontre-avec-monique-deul",
-      "urlId": "rencontre-avec-monique-deul",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781178551795-VG3FQ7AMPI496PQUCHDC/Geneva_Art_Week-Journal-Rencontre_avec-Monique_Deul-Taste_Contemporary-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rencontre Avec"
-      ],
-      "tags": [
-        "Catégorie: Rencontre Avec",
-        "Sujet: Monique Deul",
-        "Membre: Taste Contemporary",
-        "Quartier: Quartier des Bains"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.0007613,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "workflowState": 1,
-      "publishOn": 1780055516229,
-      "addedOn": 1780055516229,
-      "updatedOn": 1785700071860
-    },
-    {
       "id": "6a121501f7b0481548d18eac",
       "title": "Stéphane Ribordy collectionne depuis plus de 25 ans les signatures pointues de l’art contemporain et du design",
       "fullUrl": "/article/inside-stephane-ribordy",
@@ -230,6 +81,43 @@
       "publishOn": 1779569921880,
       "addedOn": 1779569921880,
       "updatedOn": 1779573370307
+    },
+    {
+      "id": "6a0f8e5009913b746bf12480",
+      "title": "Séverine Redon · HiFlow",
+      "fullUrl": "/article/rencontre-avec-severine-redon",
+      "urlId": "rencontre-avec-severine-redon",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781191562055-WB4SGHVOS4GBK4B44H7H/Geneva_Art_Week-Journal-Rencontre_avec-Severine_Redon-Hiflow-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Séverine Redon",
+        "Membre: HiFlow",
+        "Quartier: Plan-les-Ouates"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1779549974378,
+      "addedOn": 1779549974378,
+      "updatedOn": 1785700321506
     },
     {
       "id": "6a10a3124b5d4a2fb8c8c377",
@@ -310,6 +198,43 @@
       "publishOn": 1779458328900,
       "addedOn": 1779458328900,
       "updatedOn": 1781891241491
+    },
+    {
+      "id": "6a0f880682b392465d441a93",
+      "title": "Sonia Zannettacci · Galerie Sonia Zannettacci",
+      "fullUrl": "/article/rencontre-avec-sonia-zannettacci",
+      "urlId": "rencontre-avec-sonia-zannettacci",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781177141223-GVZYC8F7YABLEE2JTWHH/Geneva_Art_Week-Journal-Rencontre_avec-Sonia_Zannettacci-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Sonia Zannettacci",
+        "Membre: Galerie Sonia Zannettacci",
+        "Quartier: Vieille-Ville"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1779449298422,
+      "addedOn": 1779449298422,
+      "updatedOn": 1785700212975
     },
     {
       "id": "6a0f7fc07cdcb6319dc5ef14",
@@ -424,44 +349,6 @@
       "updatedOn": 1779402758894
     },
     {
-      "id": "6a0f9d429939bd1c35526515",
-      "title": "Céline Lange et Stefano Pult · Galerie Lange + Pult",
-      "fullUrl": "/article/rencontre-avec-celine-lange-et-stefano-pult",
-      "urlId": "rencontre-avec-celine-lange-et-stefano-pult",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781798914959-WNM36U8GDV5N2FJ9EBS1/Geneva_Art_Week-Journal-Rencontre_avec-Celine_Lange_Stefano_Pult-Lange_Pult-003.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rencontre Avec"
-      ],
-      "tags": [
-        "Catégorie: Rencontre Avec",
-        "Sujet: Céline Lange",
-        "Sujet: Stefano Pult",
-        "Membre: Galerie Lange + Pult",
-        "Quartier: Quartier des Bains"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.0007613,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "workflowState": 1,
-      "publishOn": 1767599294884,
-      "addedOn": 1767599294884,
-      "updatedOn": 1785700031035
-    },
-    {
       "id": "68e912f1726bf7419fc6819e",
       "title": "Caroline Bachmann a&nbsp;développé une&nbsp;pratique de&nbsp;la&nbsp;peinture qui&nbsp;aborde les&nbsp;grands thèmes du&nbsp;XIXe siècle",
       "fullUrl": "/article/caroline-bachmann-anbspdvelopp-unenbsppratique-denbsplanbsppeinture-quinbspaborde-lesnbspgrands-thmes-dunbspxixe-sicle",
@@ -498,6 +385,43 @@
       "publishOn": 1760107939226,
       "addedOn": 1760107939226,
       "updatedOn": 1785504309281
+    },
+    {
+      "id": "6a0fa00dfddd2772e79a5e37",
+      "title": "Monique Deul · Taste Contemporary",
+      "fullUrl": "/article/rencontre-avec-monique-deul",
+      "urlId": "rencontre-avec-monique-deul",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781178551795-VG3FQ7AMPI496PQUCHDC/Geneva_Art_Week-Journal-Rencontre_avec-Monique_Deul-Taste_Contemporary-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Monique Deul",
+        "Membre: Taste Contemporary",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1759924316229,
+      "addedOn": 1759924316229,
+      "updatedOn": 1785700347075
     },
     {
       "id": "68e50fd093ec250702069457",
@@ -573,6 +497,44 @@
       "publishOn": 1757519858105,
       "addedOn": 1757519858105,
       "updatedOn": 1779458044093
+    },
+    {
+      "id": "6a0f979e39d01c1d9898a22a",
+      "title": "Frédéric Ormond · Ormond Editions",
+      "fullUrl": "/article/rencontre-avec-frederic-ormond",
+      "urlId": "rencontre-avec-frederic-ormond",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781178058307-7RXC4YVCXMRGD76UKXG8/Geneva_Art_Week-Journal-Rencontre_avec-Frederic_Ormond-Ormond_Editions-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Frédéric Ormond",
+        "Membre: Ormond Editions",
+        "Quartier: Eaux-Vives Cité",
+        "Sélection: Homepage"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1757418070832,
+      "addedOn": 1757418070832,
+      "updatedOn": 1785700371131
     },
     {
       "id": "689a011a54a4620ce8714039",
@@ -1109,6 +1071,44 @@
       "publishOn": 1754031600616,
       "addedOn": 1754031600616,
       "updatedOn": 1782836969651
+    },
+    {
+      "id": "6a0f9d429939bd1c35526515",
+      "title": "Céline Lange et Stefano Pult · Galerie Lange + Pult",
+      "fullUrl": "/article/rencontre-avec-celine-lange-et-stefano-pult",
+      "urlId": "rencontre-avec-celine-lange-et-stefano-pult",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781798914959-WNM36U8GDV5N2FJ9EBS1/Geneva_Art_Week-Journal-Rencontre_avec-Celine_Lange_Stefano_Pult-Lange_Pult-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Céline Lange",
+        "Sujet: Stefano Pult",
+        "Membre: Galerie Lange + Pult",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1753339694884,
+      "addedOn": 1753339694884,
+      "updatedOn": 1785700282094
     }
   ]
 }

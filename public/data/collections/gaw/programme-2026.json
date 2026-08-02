@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T19:38:15.904Z",
-  "sourceHash": "81b4cab55ff78da763d780e0ae7398ab77a35dde420973cefc81d7a5de7ebfaa",
+  "updatedAt": "2026-08-02T19:58:11.155Z",
+  "sourceHash": "27f245d15c12fd254108c09d9d0db0fb0447ec7e660a74ef3af05c1930b89c9a",
   "count": 102,
   "pages": 6,
   "items": [
@@ -3003,7 +3003,7 @@
       "workflowState": 1,
       "publishOn": 1783867046945,
       "addedOn": 1783867046945,
-      "updatedOn": 1785699074168
+      "updatedOn": 1785700633621
     },
     {
       "id": "6a52db49fc240d5144da0d69",
@@ -3396,7 +3396,7 @@
       "title": "Artistes de l’École genevoise – Visite guidée",
       "fullUrl": "/programme-2026/artistes-de-l-ecole-genevoise-ym9fn-x6gcn",
       "urlId": "artistes-de-l-ecole-genevoise-ym9fn-x6gcn",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783334840729-DLWMLDTC1TFUXBLAAAC3/Geneva_Art_Week-Exhibition_2026-Collection_du_Crest-Artistes_de_Ecole_Genevoise-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/10e08891-a510-4ab6-b4bd-a4a90c1c9399/Geneva_Art_Week-Exhibition_2026-Collection-du-Crest-1.webp",
       "mediaFocalPoint": {
         "x": 0.49600376116596145,
         "y": 0.2887039017811468,
@@ -3437,7 +3437,7 @@
       "title": "Artistes de l’École genevoise – Visite guidée",
       "fullUrl": "/programme-2026/artistes-de-l-ecole-genevoise-ym9fn",
       "urlId": "artistes-de-l-ecole-genevoise-ym9fn",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783334840729-DLWMLDTC1TFUXBLAAAC3/Geneva_Art_Week-Exhibition_2026-Collection_du_Crest-Artistes_de_Ecole_Genevoise-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/10e08891-a510-4ab6-b4bd-a4a90c1c9399/Geneva_Art_Week-Exhibition_2026-Collection-du-Crest-1.webp",
       "mediaFocalPoint": {
         "x": 0.49600376116596145,
         "y": 0.28275124401246343,
@@ -4438,7 +4438,7 @@
       "title": "Artistes de l’École genevoise",
       "fullUrl": "/programme-2026/artistes-de-l-ecole-genevoise",
       "urlId": "artistes-de-l-ecole-genevoise",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783334840729-DLWMLDTC1TFUXBLAAAC3/Geneva_Art_Week-Exhibition_2026-Collection_du_Crest-Artistes_de_Ecole_Genevoise-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/10e08891-a510-4ab6-b4bd-a4a90c1c9399/Geneva_Art_Week-Exhibition_2026-Collection-du-Crest-1.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -4478,7 +4478,7 @@
       "workflowState": 1,
       "publishOn": 1783334536532,
       "addedOn": 1783334536532,
-      "updatedOn": 1785669215735
+      "updatedOn": 1785700487674
     },
     {
       "id": "6a4b81a583601f702d731111",
