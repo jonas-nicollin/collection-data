@@ -5,11 +5,56 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T23:08:11.587Z",
-  "sourceHash": "56bb0b6252ba16ff2444168336ac7657f3af49dac68aa64ba48c166035b16008",
-  "count": 109,
+  "updatedAt": "2026-08-02T23:18:12.488Z",
+  "sourceHash": "dc6dc20fbad81d2fdae067a5adfc09af54e5e7a2ea95e0f8b562579751b9bf3c",
+  "count": 110,
   "pages": 6,
   "items": [
+    {
+      "id": "6a6fcc9432067566f7922286",
+      "title": "Futurs possibles: Horizons 2050+ à Genève – Visite guidée",
+      "fullUrl": "/programme-2026/les-futurs-possibles-du-cfp-arts-visite-guidee",
+      "urlId": "les-futurs-possibles-du-cfp-arts-visite-guidee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785276296471-7KUPVDOMOQZLLUM4QUDQ/Geneva_Art_Week-Exhibition_2026-Usine_Kugler-Les_Futurs_possibles_du_CFP_Arts-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Thématique: Mixed Media",
+        "Membre: Usine Kugler",
+        "Thématique: Art contemporain",
+        "Quartier: Jonction",
+        "Thématique: Scène émergente",
+        "Date: 2026-09-20T14:00",
+        "Intervenante: Karine Tissot",
+        "Intervenant: Pierre-Louis Chantre",
+        "Intervenante: Stéphanie Prizreni",
+        "Intervenants: Diplômant.e.s du CPF Arts 2026",
+        "Lieu: Fonderie Kugler"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2018002,
+        "mapLng": 6.1258148,
+        "markerLat": 46.2018002,
+        "markerLng": 6.1258148,
+        "addressTitle": "Fonderie Kugler",
+        "addressLine1": "Rue de la Truite 4bis",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 123,
+      "workflowState": 1,
+      "publishOn": 1785711764187,
+      "addedOn": 1785711764187,
+      "updatedOn": 1785712195018
+    },
     {
       "id": "6a6fc8f1a9b5546fa2b27eac",
       "title": "Salomé Engel, Niels Hung, Clara Roumégoux – Visite d’atelier",
