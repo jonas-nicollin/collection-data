@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T11:08:12.367Z",
-  "sourceHash": "16db39c5b86178ef6f1bc89b4b07de69b6e59fd38c37a26e0aef9adbe019162a",
+  "updatedAt": "2026-08-02T11:18:10.380Z",
+  "sourceHash": "2806bc7b0d1beb2e069f138ed7d3f4115ac6714a1c105f684231915f1d053256",
   "count": 101,
   "pages": 6,
   "items": [
@@ -3358,13 +3358,13 @@
     },
     {
       "id": "6a512b390085f71591426e1c",
-      "title": "Artistes de l'Ecole genevoise – Visite guidée",
+      "title": "Artistes de l’École genevoise – Visite guidée",
       "fullUrl": "/programme-2026/artistes-de-l-ecole-genevoise-ym9fn-x6gcn",
       "urlId": "artistes-de-l-ecole-genevoise-ym9fn-x6gcn",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783334840729-DLWMLDTC1TFUXBLAAAC3/Geneva_Art_Week-Exhibition_2026-Collection_du_Crest-Artistes_de_Ecole_Genevoise-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.49600376116596145,
+        "y": 0.2887039017811468,
         "source": 3
       },
       "categories": [
@@ -3395,17 +3395,17 @@
       "workflowState": 1,
       "publishOn": 1783704377724,
       "addedOn": 1783704377724,
-      "updatedOn": 1785148859857
+      "updatedOn": 1785669031480
     },
     {
       "id": "6a5127b04efcae4e1783a70b",
-      "title": "Artistes de l'Ecole genevoise – Visite guidée",
+      "title": "Artistes de l’École genevoise – Visite guidée",
       "fullUrl": "/programme-2026/artistes-de-l-ecole-genevoise-ym9fn",
       "urlId": "artistes-de-l-ecole-genevoise-ym9fn",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783334840729-DLWMLDTC1TFUXBLAAAC3/Geneva_Art_Week-Exhibition_2026-Collection_du_Crest-Artistes_de_Ecole_Genevoise-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.49600376116596145,
+        "y": 0.28275124401246343,
         "source": 3
       },
       "categories": [
@@ -3436,7 +3436,7 @@
       "workflowState": 1,
       "publishOn": 1783703472727,
       "addedOn": 1783703472727,
-      "updatedOn": 1785668851315
+      "updatedOn": 1785669037459
     },
     {
       "id": "6a50190d7df0ca35c5ef0a1c",
@@ -3522,7 +3522,7 @@
       "workflowState": 1,
       "publishOn": 1783633551905,
       "addedOn": 1783633551905,
-      "updatedOn": 1785668265660
+      "updatedOn": 1785669311815
     },
     {
       "id": "6a50139a4d4de74032f135cd",
@@ -4443,7 +4443,7 @@
       "workflowState": 1,
       "publishOn": 1783334536532,
       "addedOn": 1783334536532,
-      "updatedOn": 1785601950148
+      "updatedOn": 1785669215735
     },
     {
       "id": "6a4b81a583601f702d731111",
