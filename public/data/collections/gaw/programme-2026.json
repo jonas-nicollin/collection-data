@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-01T17:08:09.187Z",
-  "sourceHash": "62998a7494e4a9b804f65b766b6bca253c9e3c25e0a2955cfdc11b4c06d9caf3",
+  "updatedAt": "2026-08-02T10:58:15.297Z",
+  "sourceHash": "5bfde3de938cd5bf0c85423f4f0fb4c5bd1cd48536817b88014eedf5599d514f",
   "count": 101,
   "pages": 6,
   "items": [
@@ -3522,14 +3522,14 @@
       "workflowState": 1,
       "publishOn": 1783633551905,
       "addedOn": 1783633551905,
-      "updatedOn": 1785489689276
+      "updatedOn": 1785668265660
     },
     {
       "id": "6a50139a4d4de74032f135cd",
       "title": "The Darkroom, The Dye Lab &amp; The Kiln",
       "fullUrl": "/programme-2026/the-darkroom-the-dye-lab-the-kiln",
       "urlId": "the-darkroom-the-dye-lab-the-kiln",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783632807148-NDTZJ5WS6EH8UUGSP1L9/Geneva_Art_Week-Exhibition_2026-Taste_+Contemporary-The_Darkroom_The_Dye_Lab_The_Kiln-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0cfe3f8f-c5aa-4eb6-b5b7-596ce7eab5fc/Geneva_Art_Week-Exhibition_2026-Taste_+Contemporary-The_Darkroom_The_Dye_Lab_The_Kiln-Featured-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -3567,7 +3567,7 @@
       "workflowState": 1,
       "publishOn": 1783632794874,
       "addedOn": 1783632794874,
-      "updatedOn": 1785494492670
+      "updatedOn": 1785668167712
     },
     {
       "id": "6a500fb5218dbf10dedeb5f1",
@@ -3611,7 +3611,7 @@
       "workflowState": 1,
       "publishOn": 1783631797633,
       "addedOn": 1783631797633,
-      "updatedOn": 1785494492900
+      "updatedOn": 1785667978013
     },
     {
       "id": "6a500ca103eca961603dd6f9",
@@ -3655,7 +3655,7 @@
       "workflowState": 1,
       "publishOn": 1783631009400,
       "addedOn": 1783631009400,
-      "updatedOn": 1785489753045
+      "updatedOn": 1785667920189
     },
     {
       "id": "6a500b55f112e63579e5b865",
@@ -3699,7 +3699,7 @@
       "workflowState": 1,
       "publishOn": 1783630677538,
       "addedOn": 1783630677538,
-      "updatedOn": 1785603825426
+      "updatedOn": 1785667777024
     },
     {
       "id": "6a4eda91af61824f6997e5fc",
