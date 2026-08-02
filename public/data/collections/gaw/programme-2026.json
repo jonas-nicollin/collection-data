@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T14:18:08.423Z",
-  "sourceHash": "9d25ff8002b91fbb2e74d6b969e03503f43f79d946a9607bd7b72a07826e715e",
+  "updatedAt": "2026-08-02T14:28:19.620Z",
+  "sourceHash": "09b5f1a2b19148bafbb96aa01dc6b00307778ec31998389fed77b72fdc37d441",
   "count": 101,
   "pages": 6,
   "items": [
@@ -2161,8 +2161,8 @@
       "urlId": "le-regard-de-mayte-garcia",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/88170454-1058-4c9b-b67d-7e70f7c0a111/Geneva_Art_Week-Event_2026-Le+regard-de-Mayte-Garcia.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5078964381368716,
+        "y": 0.6458633679021533,
         "source": 3
       },
       "categories": [
@@ -2192,7 +2192,7 @@
       "workflowState": 1,
       "publishOn": 1783982171859,
       "addedOn": 1783982171859,
-      "updatedOn": 1785151272092
+      "updatedOn": 1785680659926
     },
     {
       "id": "6a555b8edfb5864a8194fc67",
@@ -2243,7 +2243,7 @@
       "workflowState": 1,
       "publishOn": 1783978894150,
       "addedOn": 1783978894150,
-      "updatedOn": 1785146630067
+      "updatedOn": 1785680508358
     },
     {
       "id": "6a5558dc4bcec764eb51603c",
@@ -2284,7 +2284,7 @@
       "workflowState": 1,
       "publishOn": 1783978204794,
       "addedOn": 1783978204794,
-      "updatedOn": 1785151320713
+      "updatedOn": 1785680396170
     },
     {
       "id": "6a552fb65e2ee141fa20b098",
