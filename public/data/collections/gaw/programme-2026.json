@@ -5,16 +5,57 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T22:08:12.019Z",
-  "sourceHash": "ef237ad61ec90bafe30ac52dada6e08406dc0739bcff9fc50c5c33122734c05f",
-  "count": 104,
+  "updatedAt": "2026-08-02T22:18:14.887Z",
+  "sourceHash": "99f78ba64fbb859fcd869390e1f5acb411076b9fce7ace54b7e8b26ed4478383",
+  "count": 105,
   "pages": 6,
   "items": [
     {
+      "id": "6a6fbef35aa347740bdd679f",
+      "title": "Pleasing the Spirits – Visite guidée",
+      "fullUrl": "/programme-2026/pleasing-the-spirits-visite-guidee",
+      "urlId": "pleasing-the-spirits-visite-guidee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785357878179-7ZG4TZQFJNNI0NVNEOSF/Geneva_Art_Week-Exhibition_2026-Musee_Barbier_Mueller-Pleasing_the_Spirits-Gallery-03.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Thématique: Sculpture",
+        "Thématique: Ethnographie",
+        "Membre: Musée Barbier-Mueller",
+        "Quartier: Vieille-Ville",
+        "Date: 2026-09-20T11:00",
+        "Type: Événement"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2020817,
+        "mapLng": 6.146649699999999,
+        "markerLat": 46.2020817,
+        "markerLng": 6.146649699999999,
+        "addressTitle": "Musée Barbier-Mueller",
+        "addressLine1": "Rue Jean-Calvin 10",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 118,
+      "workflowState": 1,
+      "publishOn": 1785708275116,
+      "addedOn": 1785708275116,
+      "updatedOn": 1785708761345
+    },
+    {
       "id": "6a6fbd694c4e5263aa6c913d",
       "title": "Archaeofutura – Performance",
-      "fullUrl": "/programme-2026/archaeofutura-2ggg8",
-      "urlId": "archaeofutura-2ggg8",
+      "fullUrl": "/programme-2026/archaeofutura-performance",
+      "urlId": "archaeofutura-performance",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785274135179-NU565285CCIDVLOITPE9/Geneva_Art_Week-Exhibition_2026-Kree%CC%88mart-Archaeofutura-Featured-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -51,7 +92,7 @@
       "workflowState": 1,
       "publishOn": 1785707881377,
       "addedOn": 1785707881377,
-      "updatedOn": 1785708014162
+      "updatedOn": 1785708774098
     },
     {
       "id": "6a6b4fa978f8e538d88c5023",
