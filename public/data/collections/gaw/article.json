@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-07-31T16:18:00.761Z",
-  "sourceHash": "61a52dc3d373ca37a52c4d0ec99788c1d787a539e89623dbac05eb2e913e2aa2",
+  "updatedAt": "2026-08-02T19:48:12.219Z",
+  "sourceHash": "74f0ce7bf0ca0d8f2a9595cdb62f7b9f67aa213f7c713fd38b25ae429d8f2531",
   "count": 29,
   "pages": 2,
   "items": [
@@ -48,44 +48,6 @@
       "updatedOn": 1781855006011
     },
     {
-      "id": "6a0f9d429939bd1c35526515",
-      "title": "Céline Lange et Stefano Pult · Galerie Lange + Pult",
-      "fullUrl": "/article/rencontre-avec-celine-lange-et-stefano-pult",
-      "urlId": "rencontre-avec-celine-lange-et-stefano-pult",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781798914959-WNM36U8GDV5N2FJ9EBS1/Geneva_Art_Week-Journal-Rencontre_avec-Celine_Lange_Stefano_Pult-Lange_Pult-003.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rencontre Avec"
-      ],
-      "tags": [
-        "Catégorie: Rencontre Avec",
-        "Sujet: Céline Lange",
-        "Sujet: Stefano Pult",
-        "Membre: Galerie Lange + Pult",
-        "Quartier: Quartier des Bains"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.0007613,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "workflowState": 1,
-      "publishOn": 1781851694884,
-      "addedOn": 1781851694884,
-      "updatedOn": 1781853033450
-    },
-    {
       "id": "6a0f8e5009913b746bf12480",
       "title": "Séverine Redon · HiFlow",
       "fullUrl": "/article/rencontre-avec-severine-redon",
@@ -121,43 +83,6 @@
       "publishOn": 1781191574378,
       "addedOn": 1781191574378,
       "updatedOn": 1785504321982
-    },
-    {
-      "id": "6a0fa00dfddd2772e79a5e37",
-      "title": "Monique Deul · Taste Contemporary",
-      "fullUrl": "/article/rencontre-avec-monique-deul",
-      "urlId": "rencontre-avec-monique-deul",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781178551795-VG3FQ7AMPI496PQUCHDC/Geneva_Art_Week-Journal-Rencontre_avec-Monique_Deul-Taste_Contemporary-001.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Rencontre Avec"
-      ],
-      "tags": [
-        "Catégorie: Rencontre Avec",
-        "Sujet: Monique Deul",
-        "Membre: Taste Contemporary",
-        "Quartier: Quartier des Bains"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.0007613,
-        "markerLat": 40.7207559,
-        "markerLng": -74.0007613,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "workflowState": 1,
-      "publishOn": 1781178716229,
-      "addedOn": 1781178716229,
-      "updatedOn": 1781178716462
     },
     {
       "id": "6a0f979e39d01c1d9898a22a",
@@ -233,6 +158,43 @@
       "publishOn": 1781177298422,
       "addedOn": 1781177298422,
       "updatedOn": 1781177298897
+    },
+    {
+      "id": "6a0fa00dfddd2772e79a5e37",
+      "title": "Monique Deul · Taste Contemporary",
+      "fullUrl": "/article/rencontre-avec-monique-deul",
+      "urlId": "rencontre-avec-monique-deul",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781178551795-VG3FQ7AMPI496PQUCHDC/Geneva_Art_Week-Journal-Rencontre_avec-Monique_Deul-Taste_Contemporary-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Monique Deul",
+        "Membre: Taste Contemporary",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1780055516229,
+      "addedOn": 1780055516229,
+      "updatedOn": 1785700071860
     },
     {
       "id": "6a121501f7b0481548d18eac",
@@ -460,6 +422,44 @@
       "publishOn": 1777552868692,
       "addedOn": 1777552868692,
       "updatedOn": 1779402758894
+    },
+    {
+      "id": "6a0f9d429939bd1c35526515",
+      "title": "Céline Lange et Stefano Pult · Galerie Lange + Pult",
+      "fullUrl": "/article/rencontre-avec-celine-lange-et-stefano-pult",
+      "urlId": "rencontre-avec-celine-lange-et-stefano-pult",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781798914959-WNM36U8GDV5N2FJ9EBS1/Geneva_Art_Week-Journal-Rencontre_avec-Celine_Lange_Stefano_Pult-Lange_Pult-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rencontre Avec"
+      ],
+      "tags": [
+        "Catégorie: Rencontre Avec",
+        "Sujet: Céline Lange",
+        "Sujet: Stefano Pult",
+        "Membre: Galerie Lange + Pult",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1767599294884,
+      "addedOn": 1767599294884,
+      "updatedOn": 1785700031035
     },
     {
       "id": "68e912f1726bf7419fc6819e",
