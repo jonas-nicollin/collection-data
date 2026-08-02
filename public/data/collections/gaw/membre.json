@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-07-31T16:18:00.608Z",
-  "sourceHash": "0da1d5cfae2fdd0d1b556f050f5b61c08e23467efc4987a138c37355d0a2f904",
+  "updatedAt": "2026-08-02T19:38:17.132Z",
+  "sourceHash": "98bf29f80c9d82445eafe0a2b682ae85dc127e46390ee0ecc7e535a17ae9d0a0",
   "count": 82,
   "pages": 1,
   "items": [
@@ -2598,7 +2598,6 @@
         "Espace indépendant"
       ],
       "tags": [
-        "Membre: PAC(O) - projets artistiques collaboratifs (et orientations)",
         "Thématique: Art contemporain",
         "Thématique: Photographie",
         "Thématique: Mixed Media",
@@ -2607,7 +2606,8 @@
         "Thématique: Arts plastiques",
         "Thématique: Vidéo",
         "Thématique: Performance",
-        "Quartier: Carouge"
+        "Quartier: Carouge",
+        "Membre: PAC(O) – Projets Artistiques Collaboratifs (et Orientations)"
       ],
       "excerpt": null,
       "location": {
@@ -2625,7 +2625,7 @@
       "workflowState": 1,
       "publishOn": 1744329600107,
       "addedOn": 1744329600107,
-      "updatedOn": 1782220762219
+      "updatedOn": 1785698925571
     },
     {
       "id": "68248798cdfab25869f2b587",

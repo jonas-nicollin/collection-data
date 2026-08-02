@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T19:28:17.989Z",
-  "sourceHash": "c98d9b6efaeca9a7767725d9669143e916c16f159f4ef774a9d9d9b930ab22e8",
+  "updatedAt": "2026-08-02T19:38:15.904Z",
+  "sourceHash": "81b4cab55ff78da763d780e0ae7398ab77a35dde420973cefc81d7a5de7ebfaa",
   "count": 102,
   "pages": 6,
   "items": [
@@ -1125,7 +1125,6 @@
         "Exposition"
       ],
       "tags": [
-        "Membre: PAC(O) – Projets Artistiques Collaboratifs (et Orientations)",
         "Quartier: Carouge",
         "Type: Exposition",
         "Artiste: Vanessa Riera",
@@ -1135,7 +1134,8 @@
         "Thématique: Photographie",
         "Thématique: Art textile",
         "Lieu: Vitrines du kiosk sur le rond-point de Plainpalais",
-        "Date: 2026-09-08/2026-09-28"
+        "Date: 2026-09-08/2026-09-28",
+        "Membre: PAC(O) – Projets Artistiques Collaboratifs (et Orientations)"
       ],
       "excerpt": "",
       "location": {
@@ -1153,7 +1153,7 @@
       "workflowState": 1,
       "publishOn": 1785250327475,
       "addedOn": 1785250327475,
-      "updatedOn": 1785685268385
+      "updatedOn": 1785699074193
     },
     {
       "id": "6a5124f50400ba72cdffe25e",
@@ -2976,7 +2976,6 @@
       ],
       "tags": [
         "Type: Événement",
-        "Membre: PAC(O) - projets artistiques collaboratifs (et orientations)",
         "Quartier: Carouge",
         "Thématique: Art contemporain",
         "Thématique: Photographie",
@@ -2985,7 +2984,8 @@
         "Artiste: Carla da Silva",
         "Artiste: Jeunes de PAC(O)",
         "Lieu: Vitrines du kiosk sur le rond-point de Plainpalais",
-        "Date: 2026-09-17T18:00"
+        "Date: 2026-09-17T18:00",
+        "Membre: PAC(O) – Projets Artistiques Collaboratifs (et Orientations)"
       ],
       "excerpt": "",
       "location": {
@@ -3003,7 +3003,7 @@
       "workflowState": 1,
       "publishOn": 1783867046945,
       "addedOn": 1783867046945,
-      "updatedOn": 1785670531210
+      "updatedOn": 1785699074168
     },
     {
       "id": "6a52db49fc240d5144da0d69",
@@ -3094,7 +3094,7 @@
     },
     {
       "id": "6a516f01cfa15f7f6b4c1d69",
-      "title": "Visite d’atelier de Marta Blanc",
+      "title": "Marta Blanc – Visite d’atelier",
       "fullUrl": "/programme-2026/visite-d-atelier-de-marta-blanc",
       "urlId": "visite-d-atelier-de-marta-blanc",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783722145483-EPZ3PY1IEH7RN92ZP7IX/Geneva_Art_Week-Event_2026-Visite-atelier-Marta-Blanc-01.webp",
@@ -3131,7 +3131,7 @@
       "workflowState": 1,
       "publishOn": 1783721729245,
       "addedOn": 1783721729245,
-      "updatedOn": 1785670142157
+      "updatedOn": 1785699385439
     },
     {
       "id": "6a51654b8f69b4706246a09b",
