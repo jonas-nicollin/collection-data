@@ -5,11 +5,54 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T21:58:11.149Z",
-  "sourceHash": "02d18068e4253db4ffb5a8881d648904ac9d975317a62c09ac2f80bd586ab866",
-  "count": 103,
+  "updatedAt": "2026-08-02T22:08:12.019Z",
+  "sourceHash": "ef237ad61ec90bafe30ac52dada6e08406dc0739bcff9fc50c5c33122734c05f",
+  "count": 104,
   "pages": 6,
   "items": [
+    {
+      "id": "6a6fbd694c4e5263aa6c913d",
+      "title": "Archaeofutura – Performance",
+      "fullUrl": "/programme-2026/archaeofutura-2ggg8",
+      "urlId": "archaeofutura-2ggg8",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785274135179-NU565285CCIDVLOITPE9/Geneva_Art_Week-Exhibition_2026-Kree%CC%88mart-Archaeofutura-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Performance"
+      ],
+      "tags": [
+        "Membre: Kreëmart",
+        "Thématique: Scène émergente",
+        "Thématique: Mixed Media",
+        "Thématique: Performance",
+        "Thématique: Poetry",
+        "Thématique: Nature",
+        "Artiste: Rachel Marks",
+        "Type: Événement",
+        "Date: 2026-09-19T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2036691,
+        "mapLng": 6.1551452,
+        "markerLat": 46.2036691,
+        "markerLng": 6.1551452,
+        "addressTitle": "Kreëmart",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 117,
+      "workflowState": 1,
+      "publishOn": 1785707881377,
+      "addedOn": 1785707881377,
+      "updatedOn": 1785708014162
+    },
     {
       "id": "6a6b4fa978f8e538d88c5023",
       "title": "VOTIVE",
