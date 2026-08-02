@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T23:28:14.688Z",
-  "sourceHash": "e5802f82b248f78526ed345b61f69084a975d6d6008bf347097b13f7032a803f",
+  "updatedAt": "2026-08-02T23:36:38.627Z",
+  "sourceHash": "96ff4c1d976429c982f6fb52a9794e8d4d4a28419793dc017c30eecfd5636dae",
   "count": 110,
   "pages": 6,
   "items": [
@@ -379,7 +379,7 @@
         "Artiste: Vivianne van Singer",
         "Artiste: Heberth Sobral",
         "Artiste: Vasilis Zografos",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -397,7 +397,7 @@
       "workflowState": 1,
       "publishOn": 1785417338667,
       "addedOn": 1785417338667,
-      "updatedOn": 1785697470423
+      "updatedOn": 1785713673178
     },
     {
       "id": "6a6b4a3d63b18152e2624909",
@@ -4606,7 +4606,8 @@
         "Artiste: Bob Wilson",
         "Artiste: Betty Woodman",
         "Date: 2026-04-24/2027-01-03",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -4624,7 +4625,7 @@
       "workflowState": 1,
       "publishOn": 1783351187296,
       "addedOn": 1783351187296,
-      "updatedOn": 1785602394289
+      "updatedOn": 1785713415940
     },
     {
       "id": "6a4bb7c7189f996281d94665",
