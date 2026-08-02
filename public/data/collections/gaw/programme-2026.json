@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T11:38:11.099Z",
-  "sourceHash": "ed8dfe5d46eb6713773d22c280e627ddcf96734d326d4dc9d34eece1b31cd340",
+  "updatedAt": "2026-08-02T11:44:30.101Z",
+  "sourceHash": "d080ad322b8a51c53e73b540e978d18417d3bd192bf57bb0b5313a2270d05229",
   "count": 101,
   "pages": 6,
   "items": [
@@ -2717,7 +2717,7 @@
     },
     {
       "id": "6a5400e18668e102f9135b90",
-      "title": "La Matière de l'absence – Visite guidée",
+      "title": "La Matière de l’absence – Visite guidée",
       "fullUrl": "/programme-2026/la-matiere-de-l-absence-visite-guidee",
       "urlId": "la-matiere-de-l-absence-visite-guidee",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783890483487-CPKEI43IC0OT5AVHOQD4/Geneva_Art_Week-Event_2026-La-Matie%CC%80re-de-l-absence%E2%80%93Visite+guide%CC%81e-01.webp",
@@ -2758,7 +2758,7 @@
       "workflowState": 1,
       "publishOn": 1783890145121,
       "addedOn": 1783890145121,
-      "updatedOn": 1785151328243
+      "updatedOn": 1785671057766
     },
     {
       "id": "6a53d0a770bbc541a8305b1f",
@@ -2767,8 +2767,8 @@
       "urlId": "performance-sixtine-jaquart",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1280a643-a735-4917-8621-21d421c9bcb5/Geneva_Art_Week-Event_2026-Sixtine-Jacquart-Performance.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.49603567888999006,
+        "y": 0.7172952611263544,
         "source": 3
       },
       "categories": [
@@ -2801,7 +2801,7 @@
       "workflowState": 1,
       "publishOn": 1783877799556,
       "addedOn": 1783877799556,
-      "updatedOn": 1785149398769
+      "updatedOn": 1785670972084
     },
     {
       "id": "6a53c447bbd1a60649725722",
@@ -2841,7 +2841,7 @@
       "workflowState": 1,
       "publishOn": 1783874631411,
       "addedOn": 1783874631411,
-      "updatedOn": 1785485763520
+      "updatedOn": 1785670835385
     },
     {
       "id": "6a53b776f2631c24f833d657",
@@ -2882,7 +2882,7 @@
       "workflowState": 1,
       "publishOn": 1783871350908,
       "addedOn": 1783871350908,
-      "updatedOn": 1785149290004
+      "updatedOn": 1785670716540
     },
     {
       "id": "6a53b12f5b8ea50435cddce2",
