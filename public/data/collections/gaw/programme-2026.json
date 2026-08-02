@@ -5,11 +5,56 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T22:48:10.331Z",
-  "sourceHash": "dc560fa40a050ecd41813ad94c3e4fb09d28ab930400936408a4d7155c4b5119",
-  "count": 108,
+  "updatedAt": "2026-08-02T23:08:11.587Z",
+  "sourceHash": "56bb0b6252ba16ff2444168336ac7657f3af49dac68aa64ba48c166035b16008",
+  "count": 109,
   "pages": 6,
   "items": [
+    {
+      "id": "6a6fc8f1a9b5546fa2b27eac",
+      "title": "Salomé Engel, Niels Hung, Clara Roumégoux – Visite d’atelier",
+      "fullUrl": "/programme-2026/visite-d-atelier-salome-engel-niels-hung-clara-roumegoux",
+      "urlId": "visite-d-atelier-salome-engel-niels-hung-clara-roumegoux",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/2da6d0b2-fd80-4624-ade6-dd620b5fca14/IMG_0941.webp",
+      "mediaFocalPoint": {
+        "x": 0.5238095238095238,
+        "y": 0.38988095238095233,
+        "source": 3
+      },
+      "categories": [
+        "Studio Visit"
+      ],
+      "tags": [
+        "Membre: Forde",
+        "Type: Événement",
+        "Artiste: Salomé Engel",
+        "Artiste: Clara Roumégoux",
+        "Artiste: Niels Hung",
+        "Thématique: Art contemporain",
+        "Date: 2026-09-19T16:00",
+        "Lieu: Atelier 401",
+        "Quartier: Jonction",
+        "Intervenante: Clara Chavan",
+        "Intervenante: Camille Zaerpour"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20399099999999,
+        "mapLng": 6.136381099999999,
+        "markerLat": 46.20399099999999,
+        "markerLng": 6.136381099999999,
+        "addressTitle": "Atelier 401",
+        "addressLine1": "Place des Volontaires 4",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 122,
+      "workflowState": 1,
+      "publishOn": 1785710833796,
+      "addedOn": 1785710833796,
+      "updatedOn": 1785711585328
+    },
     {
       "id": "6a6fc6c76b329c18385bad85",
       "title": "Alexandra Maurer – Visite d’atelier",
@@ -696,7 +741,7 @@
       "workflowState": 1,
       "publishOn": 1785276075121,
       "addedOn": 1785276075121,
-      "updatedOn": 1785686648572
+      "updatedOn": 1785711764245
     },
     {
       "id": "6a69220b5f6841195a369785",
