@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T22:34:23.629Z",
-  "sourceHash": "9dd5122eda8982c53f43d2e498bd13aa09ca2406ac8a68a7ca71d85528105196",
-  "count": 106,
+  "updatedAt": "2026-08-02T22:38:13.961Z",
+  "sourceHash": "a32b3db0cfee9f42b3d27dffc7506a081ae0c4b229d2ceabd883d34d4a30c77b",
+  "count": 107,
   "pages": 6,
   "items": [
+    {
+      "id": "6a6fc4f669e423237aab6852",
+      "title": "Thierry Feuz – Visite d’atelier",
+      "fullUrl": "/programme-2026/visite-d-atelier-de-philippe-fretz",
+      "urlId": "visite-d-atelier-de-philippe-fretz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/785e2a30-5552-4d3d-a4c4-3d9f9a135582/Geneva_Art_Week-Event_2026-Studio-Visit-Philippe-Fretz.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Studio Visit"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Membre: Usine Kugler",
+        "Quartier: Jonction",
+        "Thématique: Peinture",
+        "Thématique: Art contemporain",
+        "Artiste: Philippe Fretz",
+        "Date: 2026-09-20T14:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.201308,
+        "mapLng": 6.125519499999999,
+        "markerLat": 46.201308,
+        "markerLng": 6.125519499999999,
+        "addressTitle": "Usine Kugler",
+        "addressLine1": "Avenue de la Jonction 19",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 120,
+      "workflowState": 1,
+      "publishOn": 1785709814905,
+      "addedOn": 1785709814905,
+      "updatedOn": 1785710279253
+    },
     {
       "id": "6a6fc17a32067566f78eca7f",
       "title": "Tami Ichino – Visite d’atelier",
