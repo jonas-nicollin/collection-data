@@ -5,11 +5,187 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T16:18:11.170Z",
-  "sourceHash": "d20c51bccd157980d2d1fa8b9bf38efc2fbe4c7b6747fadc8b6ad069b5658470",
-  "count": 98,
-  "pages": 5,
+  "updatedAt": "2026-08-02T19:08:14.902Z",
+  "sourceHash": "1cf3fa81b169b13499c1ead86b2c32e0b49d042ae70dcfe2ca413b5a01cc9b78",
+  "count": 102,
+  "pages": 6,
   "items": [
+    {
+      "id": "6a6b4fa978f8e538d88c5023",
+      "title": "VOTIVE",
+      "fullUrl": "/programme-2026/votive",
+      "urlId": "votive",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785532139408-PDJ0M513PRN49KWAD0KQ/Geneva_Art_Week-Exhibition_2026-Analix_Forever-Votive-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.7410714285714286,
+        "y": 0.1160714285714286,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Type: Exposition",
+        "Thématique: Sculpture",
+        "Thématique: Vidéo",
+        "Quartier: Chêne-Bourg",
+        "Artiste: Rachel Labastie",
+        "Artiste: Robert Montgomery",
+        "Date: 2026-09-03/2026-11-21",
+        "Membre: Analix Forever"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1948089,
+        "mapLng": 6.1918783,
+        "markerLat": 46.1948089,
+        "markerLng": 6.1918783,
+        "addressTitle": "Analix Forever",
+        "addressLine1": "Rue du Gothard 10",
+        "addressLine2": "1225 Chêne-Bourg",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 116,
+      "workflowState": 1,
+      "publishOn": 1785417641800,
+      "addedOn": 1785417641800,
+      "updatedOn": 1785697487402
+    },
+    {
+      "id": "6a6b4e7a930bfd5acb209ee7",
+      "title": "Flora Icognita",
+      "fullUrl": "/programme-2026/flora-icognita",
+      "urlId": "flora-icognita",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785417354498-II9HZXITQ3TEFCT8BPJR/Geneva_Art_Week-Exhibition_2026-espaceL-Flora_Icognita-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Type: Exposition",
+        "Membre: Espace_L",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Quartier:  Quartier des Bains",
+        "Date: 2026-09-17/2026-10-24",
+        "Vernissage: 2026-09-17T18:00",
+        "Artiste: David Elia",
+        "Artiste: Marius Margot",
+        "Artiste: Vivianne van Singer",
+        "Artiste: Heberth Sobral",
+        "Artiste: Vasilis Zografos",
+        "Sélection: Parcours Céramique Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.198065,
+        "mapLng": 6.136406,
+        "markerLat": 46.198065,
+        "markerLng": 6.136406,
+        "addressTitle": "Espace_L",
+        "addressLine1": "Rue des Bains 23",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 115,
+      "workflowState": 1,
+      "publishOn": 1785417338667,
+      "addedOn": 1785417338667,
+      "updatedOn": 1785697470423
+    },
+    {
+      "id": "6a6b4a3d63b18152e2624909",
+      "title": "Sandrine Ramona × Chris Murner",
+      "fullUrl": "/programme-2026/sandrine-ramona-chris-murner",
+      "urlId": "sandrine-ramona-chris-murner",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785416283401-J9I1JQMR85AK117S5OJ2/Geneva_Art_Week-Exhibition_2026-LAntre_Peaux-Sandrine_Ramona_Chris_Murner-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Membre: L'Antre-Peaux",
+        "Type: Exposition",
+        "Artiste: Sandrine Ramona",
+        "Artiste: Chris Murner",
+        "Sélection: Parcours Céramique Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1811256,
+        "mapLng": 6.1409856,
+        "markerLat": 46.1811256,
+        "markerLng": 6.1409856,
+        "addressTitle": "L&#39;Antre-Peaux",
+        "addressLine1": "Rue Ancienne 43",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 114,
+      "workflowState": 1,
+      "publishOn": 1785416253781,
+      "addedOn": 1785416253781,
+      "updatedOn": 1785697336972
+    },
+    {
+      "id": "6a6a705b75ff207bbaa4046f",
+      "title": "Linda Ouhbi",
+      "fullUrl": "/programme-2026/linda-ouhbi",
+      "urlId": "linda-ouhbi",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785360481714-QPFVAH2T2QLX9G3S14RP/Geneva_Art_Week-Exhibition_2026-POESIS-Linda_Ouhbi-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Type: Solo show",
+        "Artiste: Linda Ouhbi",
+        "Membre: Poesis",
+        "Sélection: Parcours Céramique Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.183844,
+        "mapLng": 6.140274,
+        "markerLat": 46.183844,
+        "markerLng": 6.140274,
+        "addressTitle": "Poesis",
+        "addressLine1": "Place du Marché 15",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 113,
+      "workflowState": 1,
+      "publishOn": 1785360475156,
+      "addedOn": 1785360475156,
+      "updatedOn": 1785697294992
+    },
     {
       "id": "6a6a6e729907ba723c12cb31",
       "title": "Natascha Madeiski",
@@ -1800,8 +1976,8 @@
       "urlId": "reopening-in-blue",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784150605942-ZW91J1N907K5CEDQHEH8/Geneva_Art_Week-Exhibition_2026-Galerie_Latham-Reopening_in_Blue-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5059523809523809,
+        "y": 0.18154761904761907,
         "source": 3
       },
       "categories": [
@@ -1839,7 +2015,7 @@
       "workflowState": 1,
       "publishOn": 1784150598383,
       "addedOn": 1784150598383,
-      "updatedOn": 1785682204656
+      "updatedOn": 1785697544243
     },
     {
       "id": "6a57f80bdce3817a4d091bf6",
