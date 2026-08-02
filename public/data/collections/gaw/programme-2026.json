@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T15:42:39.419Z",
-  "sourceHash": "130c3a381bd23b010825909d70f5cdf475198bc5ed0b4c8b4f6f63de405a7369",
-  "count": 99,
+  "updatedAt": "2026-08-02T15:58:12.086Z",
+  "sourceHash": "5367f58cc7c176088a9e54e897752359398a0737fb7e7ec3f1317febfe151e5b",
+  "count": 98,
   "pages": 5,
   "items": [
     {
@@ -439,7 +439,7 @@
       "workflowState": 1,
       "publishOn": 1785273385742,
       "addedOn": 1785273385742,
-      "updatedOn": 1785316631436
+      "updatedOn": 1785686269384
     },
     {
       "id": "6a6916959c0ad7721dd35fd4",
@@ -481,11 +481,11 @@
       "workflowState": 1,
       "publishOn": 1785271957995,
       "addedOn": 1785271957995,
-      "updatedOn": 1785488015104
+      "updatedOn": 1785686183136
     },
     {
       "id": "6a6902ee86e70f34b301d210",
-      "title": "Exposition en valise : Ugo Rondinone",
+      "title": "Exposition en valise: Ugo Rondinone",
       "fullUrl": "/programme-2026/exposition-en-valise-ugo-rondinone",
       "urlId": "exposition-en-valise-ugo-rondinone",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785271319745-3ZXJYRH2TAMOFZ7V9ODC/Geneva_Art_Week-Exhibition_2026-MAH-Exposition_en_valise_Ugo_Rondinone-Featured-01.webp",
@@ -522,11 +522,11 @@
       "workflowState": 1,
       "publishOn": 1785266926043,
       "addedOn": 1785266926043,
-      "updatedOn": 1785488928366
+      "updatedOn": 1785686113340
     },
     {
       "id": "6a6901db198c8170021a2a20",
-      "title": "Exposition en valise : Jakob Lena Knebl",
+      "title": "Exposition en valise: Jakob Lena Knebl",
       "fullUrl": "/programme-2026/exposition-en-valise-jakob-lena-knebl",
       "urlId": "exposition-en-valise-jakob-lena-knebl",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785266725297-H2E57F0P1TX2EB78KCMK/Geneva_Art_Week-Exhibition_2026-MAH-Exposition_en_valise_Jakob_Lena_Knebi-Featured-01.webp",
@@ -563,11 +563,11 @@
       "workflowState": 1,
       "publishOn": 1785266651867,
       "addedOn": 1785266651867,
-      "updatedOn": 1785488176708
+      "updatedOn": 1785686088696
     },
     {
       "id": "6a68ffe49c0ad7721dc94f13",
-      "title": "Exposition en valise : Wim Delvoye",
+      "title": "Exposition en valise: Wim Delvoye",
       "fullUrl": "/programme-2026/exposition-en-valise-wim-delvoye",
       "urlId": "exposition-en-valise-wim-delvoye",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785266156716-6A42WBQXF5AYL9PNYA1P/Geneva_Art_Week-Exhibition_2026-MAH-Exposition_en_valise-Featured-01.webp",
@@ -604,7 +604,7 @@
       "workflowState": 1,
       "publishOn": 1785266148402,
       "addedOn": 1785266148402,
-      "updatedOn": 1785316537727
+      "updatedOn": 1785686005513
     },
     {
       "id": "6a68d3c7619e296b57119eb2",
@@ -613,8 +613,8 @@
       "urlId": "la-chair-et-le-siphon",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785254862574-PX0VHVR6JAR8RX2P3WWF/Geneva_Art_Week-Exhibition_2026-Musee_dartet_dhistoire-La_Chair_et_le_siphon-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.4744986053924824,
+        "y": 0.7947167705329736,
         "source": 3
       },
       "categories": [
@@ -646,7 +646,7 @@
       "workflowState": 1,
       "publishOn": 1785254855637,
       "addedOn": 1785254855637,
-      "updatedOn": 1785488077736
+      "updatedOn": 1785685970870
     },
     {
       "id": "6a68d0cdd93c4468a42cb9cf",
@@ -715,7 +715,7 @@
       "workflowState": 1,
       "publishOn": 1785254093749,
       "addedOn": 1785254093749,
-      "updatedOn": 1785485658671
+      "updatedOn": 1785685743711
     },
     {
       "id": "6a68cdb052a76e1018304aa8",
@@ -757,7 +757,7 @@
       "workflowState": 1,
       "publishOn": 1785253296379,
       "addedOn": 1785253296379,
-      "updatedOn": 1785488153278
+      "updatedOn": 1785685615313
     },
     {
       "id": "6a68cbc8927f1347638b5b8c",
@@ -802,61 +802,7 @@
       "workflowState": 1,
       "publishOn": 1785252808179,
       "addedOn": 1785252808179,
-      "updatedOn": 1785505881813
-    },
-    {
-      "id": "6a68c9387757af206613a8a8",
-      "title": "Représentation",
-      "fullUrl": "/programme-2026/representation",
-      "urlId": "representation",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785252335185-LJC5JR3ARJW5RJ5VUKPA/Geneva_Art_Week-Exhibition_2026-Wisteria-Representation-Featured-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Exposition"
-      ],
-      "tags": [
-        "Type: Exposition",
-        "Quartier: Grand-Lancy",
-        "Membre: Wisteria",
-        "Thématique: Art contemporain",
-        "Date: 2026-09-16/2026-09-27",
-        "Vernissage: 2026-09-16T18:00",
-        "Artiste: Elena Biasco",
-        "Artiste: Leo Dorner",
-        "Artiste: Hanaé Gonseth",
-        "Artiste: Emma Hayoz",
-        "Artiste: Jeremy Kangou",
-        "Artiste: Inès Lehrian",
-        "Artiste: Maude Lueber",
-        "Artiste: Math Maeder",
-        "Artiste: Aylin Özer",
-        "Artiste: Ewan Mesa",
-        "Artiste: Audrey Ramos",
-        "Artiste: Luna Rauck",
-        "Artiste: Gabriel Varanda",
-        "Artiste: Helena Zivkovic"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1839897,
-        "mapLng": 6.1213241,
-        "markerLat": 46.1839897,
-        "markerLng": 6.1213241,
-        "addressTitle": "Wisteria",
-        "addressLine1": "Route du Grand-Lancy 62",
-        "addressLine2": "1212 Lancy",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 93,
-      "workflowState": 1,
-      "publishOn": 1785252152442,
-      "addedOn": 1785252152442,
-      "updatedOn": 1785314773146
+      "updatedOn": 1785685572361
     },
     {
       "id": "6a68c7a97c9ebe325d1fac7b",
@@ -942,7 +888,7 @@
       "workflowState": 1,
       "publishOn": 1785251368764,
       "addedOn": 1785251368764,
-      "updatedOn": 1785486311342
+      "updatedOn": 1785685462964
     },
     {
       "id": "6a68c46658b2356fdd717af4",
