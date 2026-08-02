@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T15:58:12.086Z",
-  "sourceHash": "5367f58cc7c176088a9e54e897752359398a0737fb7e7ec3f1317febfe151e5b",
+  "updatedAt": "2026-08-02T16:08:12.833Z",
+  "sourceHash": "fa47e5aeb62090cb99d55ae43e56581869c32200b50bb137511b7b7f87687486",
   "count": 98,
   "pages": 5,
   "items": [
@@ -136,7 +136,7 @@
       "workflowState": 1,
       "publishOn": 1785358548203,
       "addedOn": 1785358548203,
-      "updatedOn": 1785488318299
+      "updatedOn": 1785686855968
     },
     {
       "id": "6a6a6657927d13037b788571",
@@ -180,7 +180,7 @@
       "workflowState": 1,
       "publishOn": 1785357911137,
       "addedOn": 1785357911137,
-      "updatedOn": 1785488328960
+      "updatedOn": 1785686783524
     },
     {
       "id": "6a6a65073aed5407b13290b4",
@@ -189,8 +189,8 @@
       "urlId": "pleasing-the-spirits",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785357582828-4FUD2C1YGB9FQNW9ZK3R/Geneva_Art_Week-Exhibition_2026-Musee_Barbier_Mueller-Pleasing_the_Spirits-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.514910190083125,
+        "y": 0.25894061293772963,
         "source": 3
       },
       "categories": [
@@ -224,7 +224,7 @@
       "workflowState": 1,
       "publishOn": 1785357575955,
       "addedOn": 1785357575955,
-      "updatedOn": 1785495993450
+      "updatedOn": 1785686758103
     },
     {
       "id": "6a692b651ccf8761e33a544b",
@@ -312,7 +312,7 @@
       "workflowState": 1,
       "publishOn": 1785276075121,
       "addedOn": 1785276075121,
-      "updatedOn": 1785316655364
+      "updatedOn": 1785686648572
     },
     {
       "id": "6a69220b5f6841195a369785",
@@ -355,7 +355,7 @@
       "workflowState": 1,
       "publishOn": 1785274891309,
       "addedOn": 1785274891309,
-      "updatedOn": 1785316648690
+      "updatedOn": 1785686579773
     },
     {
       "id": "6a691f0f436d344d829e1c26",
@@ -398,7 +398,7 @@
       "workflowState": 1,
       "publishOn": 1785274127210,
       "addedOn": 1785274127210,
-      "updatedOn": 1785316640198
+      "updatedOn": 1785686394090
     },
     {
       "id": "6a691c295b96c10d5ba7b8e7",
