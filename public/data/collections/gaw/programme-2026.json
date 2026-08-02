@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T15:28:15.409Z",
-  "sourceHash": "1750bd1fa94e900c47dd9fea52572e83a8469c676201d84d5d753615f19e7934",
+  "updatedAt": "2026-08-02T15:38:10.119Z",
+  "sourceHash": "5d5db04fb4623afe5883cf9a69b26b348343c3825cc53b58c0725567b722126f",
   "count": 99,
   "pages": 5,
   "items": [
@@ -1035,7 +1035,7 @@
     },
     {
       "id": "6a5124f50400ba72cdffe25e",
-      "title": "Artistes de l'École genevoise – Dégustation de vins",
+      "title": "Artistes de l’École genevoise – Dégustation de vins",
       "fullUrl": "/programme-2026/artistes-de-l-ecole-genevoise-degustation-de-vins",
       "urlId": "artistes-de-l-ecole-genevoise-degustation-de-vins",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783703016639-UB7EIUQ8X807TFBPMBU7/Geneva_Art_Week-Event_2026-Artiste-Ecole-Genevoise.webp",
@@ -1071,7 +1071,7 @@
       "workflowState": 1,
       "publishOn": 1785148683617,
       "addedOn": 1785148683617,
-      "updatedOn": 1785148687138
+      "updatedOn": 1785684519646
     },
     {
       "id": "6a4ec7312562e451b5e76801",
