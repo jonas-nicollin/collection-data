@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T11:18:10.380Z",
-  "sourceHash": "2806bc7b0d1beb2e069f138ed7d3f4115ac6714a1c105f684231915f1d053256",
+  "updatedAt": "2026-08-02T11:28:10.457Z",
+  "sourceHash": "4a184455f6d76ceaa778040aab508e54b773076f97771f684312924ab883e731",
   "count": 101,
   "pages": 6,
   "items": [
@@ -3105,8 +3105,8 @@
       "urlId": "apero-meet-the-artist-xinyi-hu",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783719840960-2DHTYMDLYLNBTR3IMQXL/Geneva_Art_Week-Event_2026-Ape%CC%81ro-Meet-the-artist-Xinyi-HU-02.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5713577799801784,
+        "y": 0.3779937683113984,
         "source": 3
       },
       "categories": [
@@ -3136,7 +3136,7 @@
       "workflowState": 1,
       "publishOn": 1783719243504,
       "addedOn": 1783719243504,
-      "updatedOn": 1785148921651
+      "updatedOn": 1785670013391
     },
     {
       "id": "6a515b1fbb604b7437f86f5d",
@@ -3179,7 +3179,7 @@
       "workflowState": 1,
       "publishOn": 1783716639931,
       "addedOn": 1783716639931,
-      "updatedOn": 1785148910999
+      "updatedOn": 1785669903742
     },
     {
       "id": "6a5158a6482e436eb2898e48",
@@ -3188,8 +3188,8 @@
       "urlId": "ce-que-leau-garde-visite-guidee-par-seline-burn",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783630744666-4FY9PLB1P4PHRSRY3MN3/Geneva_Art_Week-Exhibition_2026-Wilde-Ce_que_leau_garde-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.529839883551674,
+        "y": 0.6637213412082035,
         "source": 3
       },
       "categories": [
@@ -3221,7 +3221,7 @@
       "workflowState": 1,
       "publishOn": 1783716006175,
       "addedOn": 1783716006175,
-      "updatedOn": 1785148900260
+      "updatedOn": 1785669826256
     },
     {
       "id": "6a5155b26890e8667f523183",
@@ -3263,7 +3263,7 @@
       "workflowState": 1,
       "publishOn": 1783715250536,
       "addedOn": 1783715250536,
-      "updatedOn": 1785148891871
+      "updatedOn": 1785669735218
     },
     {
       "id": "6a513c0b6dc68a14ad91f2b9",
@@ -3309,7 +3309,7 @@
       "workflowState": 1,
       "publishOn": 1783708683795,
       "addedOn": 1783708683795,
-      "updatedOn": 1785148882405
+      "updatedOn": 1785669690799
     },
     {
       "id": "6a513517f9efae5edfb0fc5a",
@@ -3354,7 +3354,7 @@
       "workflowState": 1,
       "publishOn": 1783706903080,
       "addedOn": 1783706903080,
-      "updatedOn": 1785148871533
+      "updatedOn": 1785669504216
     },
     {
       "id": "6a512b390085f71591426e1c",
