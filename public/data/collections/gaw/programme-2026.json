@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T20:18:11.107Z",
-  "sourceHash": "854e4989dd33502d84ba81e147518f70ae54d7d4128640bc2720ba7cfbfe18c4",
-  "count": 102,
+  "updatedAt": "2026-08-02T20:28:13.081Z",
+  "sourceHash": "8e8f72d16e480e729de852de1a6e8a80a64c2833c2c42275c48e11480a5a33d2",
+  "count": 103,
   "pages": 6,
   "items": [
     {
@@ -616,6 +616,49 @@
       "publishOn": 1785273385742,
       "addedOn": 1785273385742,
       "updatedOn": 1785686269384
+    },
+    {
+      "id": "6a6918a0bda8447fddd9fc56",
+      "title": "Roméo Mivekannin",
+      "fullUrl": "/programme-2026/gowen-tba",
+      "urlId": "gowen-tba",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/04970d26-1319-4ada-9236-4a051bd206e9/Geneva_Art_Week-Exhibition_2026-Gowen-Rome%CC%81o-Mivekannin.webp",
+      "mediaFocalPoint": {
+        "x": 0.253918958887903,
+        "y": 0.16369808863879454,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Vieille-Ville",
+        "Type: Solo show",
+        "Membre: GOWEN",
+        "Thématique: Art contemporain",
+        "Thématique: Art textile",
+        "Thématique: Mixed Media",
+        "Artiste: Roméo Mivekannin",
+        "Vernissage: 2026-09-16T17:00",
+        "Date: 2026-09-16/2026-11-28"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2018792,
+        "mapLng": 6.146126499999999,
+        "markerLat": 46.2018792,
+        "markerLng": 6.146126499999999,
+        "addressTitle": "GOWEN",
+        "addressLine1": "Grand-Rue 23",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 102,
+      "workflowState": 1,
+      "publishOn": 1785272480475,
+      "addedOn": 1785272480475,
+      "updatedOn": 1785702063710
     },
     {
       "id": "6a6916959c0ad7721dd35fd4",
