@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T22:18:14.887Z",
-  "sourceHash": "99f78ba64fbb859fcd869390e1f5acb411076b9fce7ace54b7e8b26ed4478383",
-  "count": 105,
+  "updatedAt": "2026-08-02T22:34:23.629Z",
+  "sourceHash": "9dd5122eda8982c53f43d2e498bd13aa09ca2406ac8a68a7ca71d85528105196",
+  "count": 106,
   "pages": 6,
   "items": [
+    {
+      "id": "6a6fc17a32067566f78eca7f",
+      "title": "Tami Ichino – Visite d’atelier",
+      "fullUrl": "/programme-2026/visite-d-atelier-de-tami-ichino",
+      "urlId": "visite-d-atelier-de-tami-ichino",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/f914d8ec-48e4-45ae-925b-caff60f35570/Geneva_Art_Week-Event_2026-Studio-Visit-Tami-Ichino.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Studio Visit"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Membre: Usine Kugler",
+        "Quartier: Jonction",
+        "Artiste: Tami Ichino",
+        "Date: 2026-09-19T15:00",
+        "Thématique: Peinture",
+        "Thématique: Art contemporain"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.201308,
+        "mapLng": 6.125519499999999,
+        "markerLat": 46.201308,
+        "markerLng": 6.125519499999999,
+        "addressTitle": "Usine Kugler",
+        "addressLine1": "Avenue de la Jonction 19",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 119,
+      "workflowState": 1,
+      "publishOn": 1785708922694,
+      "addedOn": 1785708922694,
+      "updatedOn": 1785709814931
+    },
     {
       "id": "6a6fbef35aa347740bdd679f",
       "title": "Pleasing the Spirits – Visite guidée",
