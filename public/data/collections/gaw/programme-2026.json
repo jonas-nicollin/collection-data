@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T14:08:09.192Z",
-  "sourceHash": "71602e6584aa8b04a937d5d822fe6f48e164f4e848b0e392da4fe69d3b28bb35",
+  "updatedAt": "2026-08-02T14:12:03.540Z",
+  "sourceHash": "20696ec4ad7a6905aa1b97867b4086f6322c6f7337cf4a33b250e6e17bd74402",
   "count": 101,
   "pages": 6,
   "items": [
@@ -2378,8 +2378,8 @@
       "urlId": "landscape-video-game",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783959978273-ZTS9JLT64PGF7H98L20J/Geneva_Art_Week-Exhibition_2026-Base_Window-Landscape_Video_Game-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.49326173931353967,
+        "y": 0.16369808863879454,
         "source": 3
       },
       "categories": [
@@ -2412,7 +2412,7 @@
       "workflowState": 1,
       "publishOn": 1783959895721,
       "addedOn": 1783959895721,
-      "updatedOn": 1785151569493
+      "updatedOn": 1785679849188
     },
     {
       "id": "6a550e4d8fcc0051265ad807",
