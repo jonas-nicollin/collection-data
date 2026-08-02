@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T23:18:12.488Z",
-  "sourceHash": "dc6dc20fbad81d2fdae067a5adfc09af54e5e7a2ea95e0f8b562579751b9bf3c",
+  "updatedAt": "2026-08-02T23:28:14.688Z",
+  "sourceHash": "e5802f82b248f78526ed345b61f69084a975d6d6008bf347097b13f7032a803f",
   "count": 110,
   "pages": 6,
   "items": [
@@ -938,7 +938,8 @@
         "Thématique: Mixed Media",
         "Artiste: Roméo Mivekannin",
         "Vernissage: 2026-09-16T17:00",
-        "Date: 2026-09-16/2026-11-28"
+        "Date: 2026-09-16/2026-11-28",
+        "Sélection: Art en Vieille-Ville"
       ],
       "excerpt": "",
       "location": {
@@ -956,7 +957,7 @@
       "workflowState": 1,
       "publishOn": 1785272480475,
       "addedOn": 1785272480475,
-      "updatedOn": 1785702063710
+      "updatedOn": 1785712948901
     },
     {
       "id": "6a6916959c0ad7721dd35fd4",
@@ -1130,8 +1131,8 @@
       "urlId": "la-chair-et-le-siphon",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785254862574-PX0VHVR6JAR8RX2P3WWF/Geneva_Art_Week-Exhibition_2026-Musee_dartet_dhistoire-La_Chair_et_le_siphon-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.4744986053924824,
-        "y": 0.7947167705329736,
+        "x": 0.48299907026165495,
+        "y": 0.8482931820295787,
         "source": 3
       },
       "categories": [
@@ -1163,7 +1164,7 @@
       "workflowState": 1,
       "publishOn": 1785254855637,
       "addedOn": 1785254855637,
-      "updatedOn": 1785685970870
+      "updatedOn": 1785713034525
     },
     {
       "id": "6a68d0cdd93c4468a42cb9cf",
@@ -2318,7 +2319,7 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784150605942-ZW91J1N907K5CEDQHEH8/Geneva_Art_Week-Exhibition_2026-Galerie_Latham-Reopening_in_Blue-Featured-01.webp",
       "mediaFocalPoint": {
         "x": 0.5059523809523809,
-        "y": 0.18154761904761907,
+        "y": 0.11011904761904767,
         "source": 3
       },
       "categories": [
@@ -2356,7 +2357,7 @@
       "workflowState": 1,
       "publishOn": 1784150598383,
       "addedOn": 1784150598383,
-      "updatedOn": 1785697544243
+      "updatedOn": 1785713225008
     },
     {
       "id": "6a57f80bdce3817a4d091bf6",
