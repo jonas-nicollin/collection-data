@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T12:28:22.018Z",
-  "sourceHash": "cbed2c0e3ed2be6a4ef6944ed151580db6e2215c00cb16eb0a88249d58517ebc",
+  "updatedAt": "2026-08-03T13:38:22.467Z",
+  "sourceHash": "d09ddd24230d3e3136a02b82f29e3eb99042cca7700f83a1c66b979b312176a4",
   "count": 82,
   "pages": 1,
   "items": [
@@ -2869,7 +2869,7 @@
     },
     {
       "id": "6a53e706fb742f7c1c34f4ed",
-      "title": "swissceramics",
+      "title": "Swissceramics",
       "fullUrl": "/membre/swissceramics",
       "urlId": "swissceramics",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/26f908d1-2226-4135-adc9-7eaf0e46f781/Geneva_Art_Week-Members_swissceramics.webp",
@@ -2885,7 +2885,7 @@
         "Thématique: Sculpture",
         "Thématique: Céramique",
         "Quartier: Carouge",
-        "Membre: swissceramics"
+        "Membre: Swissceramics"
       ],
       "excerpt": "",
       "location": {
@@ -2894,7 +2894,7 @@
         "mapLng": 7.255491800000001,
         "markerLat": 46.1774056,
         "markerLng": 6.1445234,
-        "addressTitle": "swissceramics",
+        "addressTitle": "Swissceramics",
         "addressLine1": "Rue de la Gurzelen 5",
         "addressLine2": "2502 Bienne",
         "addressCountry": "Suisse"
@@ -2903,7 +2903,7 @@
       "workflowState": 1,
       "publishOn": 1743909126541,
       "addedOn": 1743909126541,
-      "updatedOn": 1783889575596
+      "updatedOn": 1785764276131
     },
     {
       "id": "68248799cdfab25869f2b5aa",
