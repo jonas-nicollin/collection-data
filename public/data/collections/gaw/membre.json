@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T14:18:24.082Z",
-  "sourceHash": "ddfb21cc91fd3b533902326afd24096bfe24fe9ff95e425e94db28a0ff2de11d",
-  "count": 83,
+  "updatedAt": "2026-08-03T14:38:19.859Z",
+  "sourceHash": "5a7e0b1f3e9d5f6eae7aa5647e45d35423fe963a253ad868dc853a2049e7ada8",
+  "count": 84,
   "pages": 1,
   "items": [
     {
@@ -812,6 +812,44 @@
       "publishOn": 1747377786694,
       "addedOn": 1747377786694,
       "updatedOn": 1782198162858
+    },
+    {
+      "id": "6a70a1a361412d59ead1a1b3",
+      "title": "Espace Jörg Brockmann",
+      "fullUrl": "/membre/espace-jorg-brockmann",
+      "urlId": "espace-jorg-brockmann",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/93e4ae8d-b388-4a26-ba7b-b5561fb39427/Geneva_Art_Week-Members_2026-Espace-Jo%CC%88rg-Brockmann.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Thématique: Photographie",
+        "Membre: Espace Jörg Brockmann"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.18826,
+        "mapLng": 6.1323365,
+        "markerLat": 46.18826,
+        "markerLng": 6.1323365,
+        "addressTitle": "Espace Jörg Brockmann",
+        "addressLine1": "Rue des Noirettes 32",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 94,
+      "workflowState": 1,
+      "publishOn": 1747350707530,
+      "addedOn": 1747350707530,
+      "updatedOn": 1785767519511
     },
     {
       "id": "68248794cdfab25869f2b37b",
