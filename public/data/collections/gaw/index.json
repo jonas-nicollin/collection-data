@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "gaw",
+  "id": "index",
+  "path": "/index",
+  "sourceUrl": "https://genevaartweek.com/index?format=json",
+  "updatedAt": "2026-08-03T11:48:30.926Z",
+  "sourceHash": "ae8b7f72d4923afd7830b14f5d62800c81ddcd0bfb8d3fa8aa9d402baef66367",
+  "count": 6,
+  "pages": 1,
+  "items": [
+    {
+      "id": "6a6c841fcafe0a1328d0b443",
+      "title": "Art Talks",
+      "fullUrl": "/index/art-talks",
+      "sourceUrl": "/programme/art-talks",
+      "urlId": "art-talks",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785503780623-U1B3K4D7LCA7X24YJY6I/GAW-Rendez-vous-Art-Talks-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Date: 2026-09-16/2026-09-20",
+        "Descripteur: Conversations"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1785496689191,
+      "addedOn": 1785496689191,
+      "updatedOn": 1785503789828
+    },
+    {
+      "id": "6a6c833a434d6570806bbfac",
+      "title": "Studio Visits",
+      "fullUrl": "/index/studio-visits",
+      "sourceUrl": "/programme/studio-visits",
+      "urlId": "studio-visits",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785496586585-M7EHUQTOIMPZZKGZVTVP/GAW-Rendez-vous-Studio-Visits-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Date: 2026-09-16/2026-09-20",
+        "Descripteur: Visites d’ateliers"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1785496603227,
+      "addedOn": 1785496603227,
+      "updatedOn": 1785496607535
+    },
+    {
+      "id": "6a6c82dd70ad2f758ea60040",
+      "title": "Art Tables",
+      "fullUrl": "/index/art-en-vieille-ville-chr4n",
+      "sourceUrl": "/programme/art-en-vieille-ville",
+      "urlId": "art-en-vieille-ville-chr4n",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0ca17887-b111-421c-9c2c-654d3eca24ff/GAW-Rendez-vous-Art-Tables-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Date: 2026-09-16/2026-09-20",
+        "Descripteur: Artistes × restaurants"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1785496321785,
+      "addedOn": 1785496321785,
+      "updatedOn": 1785496378277
+    },
+    {
+      "id": "6a6c82a770ad2f758ea5f1f1",
+      "title": "Art en Vieille-Ville",
+      "fullUrl": "/index/art-en-vieille-ville",
+      "sourceUrl": "/programme/art-en-vieille-ville",
+      "urlId": "art-en-vieille-ville",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785496253729-HA1XRYQJP32XTD2MOZI2/Art-Geneve-18sept_95.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Descripteur: Vernissages",
+        "Date: 2026-09-17T18:00/2026-09-17T21:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1785496280967,
+      "addedOn": 1785496280967,
+      "updatedOn": 1785496285526
+    },
+    {
+      "id": "6a6c821d724a8154193f3660",
+      "title": "Nuit des Bains",
+      "fullUrl": "/index/nuit-des-bains",
+      "sourceUrl": "/programme/nuit-des-bains",
+      "urlId": "nuit-des-bains",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785496133391-D0G33E9BB2RSDWK4937V/Art-Geneve-17sept_70.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Descripteur: Vernissages",
+        "Date: 2026-09-17T18:00/2026-09-17T21:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1785496228297,
+      "addedOn": 1785496228297,
+      "updatedOn": 1785496231975
+    },
+    {
+      "id": "6a6c7c37a6ca42583f34ee8a",
+      "title": "Parcours Céramique Carouge",
+      "fullUrl": "/index/parcours-ceramique-carouge",
+      "sourceUrl": "/programme/parcours-ceramique-carouge",
+      "urlId": "parcours-ceramique-carouge",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785494954700-3QBDLFH3AGBYEK6GF8K1/carouge-GAW-26_17.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Rendez-vous"
+      ],
+      "tags": [
+        "Date: 2026-09-19T11:00/2026-09-19T17:00",
+        "Descripteur: Vernissages"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1785495214813,
+      "addedOn": 1785495214813,
+      "updatedOn": 1785496093199
+    }
+  ]
+}
