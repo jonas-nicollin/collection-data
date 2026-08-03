@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-03T20:28:09.354Z",
-  "sourceHash": "39ea8ba2618807ad5310152af646eda9a3f0dd4ec11f31d0a516d1b221cb52f6",
+  "updatedAt": "2026-08-03T20:38:09.002Z",
+  "sourceHash": "31cef79c2eb8f5b124eb9805552077ff467ba8f2c84fac5e91e7616339cb2c03",
   "count": 110,
   "pages": 6,
   "items": [
@@ -964,7 +964,7 @@
       "title": "Miscellanées #2",
       "fullUrl": "/programme-2026/miscellanees-2",
       "urlId": "miscellanees-2",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785271973192-23EPHV4D67I2L01FHZV6/Geneva_Art_Week-Exhibition_2026-De_Jonckheere-Miscellanees_2-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785789117275-T198MF0Y4N7UFBVUKT6U/Geneva_Art_Week-Exhibition_2026-De_Jonckheere-Miscellanees_2-Featured-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -999,7 +999,7 @@
       "workflowState": 1,
       "publishOn": 1785271957995,
       "addedOn": 1785271957995,
-      "updatedOn": 1785686183136
+      "updatedOn": 1785789216620
     },
     {
       "id": "6a6902ee86e70f34b301d210",
