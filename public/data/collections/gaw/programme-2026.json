@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-03T20:16:57.790Z",
-  "sourceHash": "d7f4794e0062a957ddb7c394c77da48a9a0681a106197b06d2660c30775abc3a",
+  "updatedAt": "2026-08-03T20:28:09.354Z",
+  "sourceHash": "39ea8ba2618807ad5310152af646eda9a3f0dd4ec11f31d0a516d1b221cb52f6",
   "count": 110,
   "pages": 6,
   "items": [
@@ -4460,7 +4460,7 @@
       "title": "Florian Luthi. Fantômes Météores",
       "fullUrl": "/programme-2026/florian-luthi-fantomes-meteores",
       "urlId": "florian-luthi-fantomes-meteores",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783538168149-3HLYQK5PL24HK2EFU1XI/Geneva_Art_Week-Exhibition_2026-Centre_Photographie_Geneve-Florian_Luthi_Fantomes_Meteores-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785788619049-FU72GY6P3M65J5D0OHJN/Geneva_Art_Week-Exhibition_2026-Centre_Photographie_Geneve-Florian_Luthi_Fantomes_Meteores-Featured-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -4497,7 +4497,7 @@
       "workflowState": 1,
       "publishOn": 1783537928620,
       "addedOn": 1783537928620,
-      "updatedOn": 1785602695627
+      "updatedOn": 1785788689195
     },
     {
       "id": "6a4bce42eb4e700dfde28cdd",
