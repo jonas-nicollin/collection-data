@@ -21,6 +21,11 @@
       "id": "article",
       "path": "/article",
       "url": "https://genevaartweek.com/article?format=json"
+    },
+    {
+      "id": "index",
+      "path": "/index",
+      "url": "https://genevaartweek.com/index?format=json"
     }
   ]
 }
