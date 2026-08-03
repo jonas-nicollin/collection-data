@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T23:48:09.469Z",
-  "sourceHash": "784f7c2ae523e3fc4c9a89b33bf3f894f17c7d97446844fbdc14234a1e38f120",
+  "updatedAt": "2026-08-03T23:58:14.043Z",
+  "sourceHash": "8ab06ca15667aa92497d05b96255ce09532585d5f18331aa44bdc1ca921d261f",
   "count": 88,
   "pages": 1,
   "items": [
@@ -2099,7 +2099,7 @@
         "mapLng": 6.1199192,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "Le TROU",
+        "addressTitle": "Le Trou",
         "addressLine1": "Chemin des Semailles 15",
         "addressLine2": "1212 Lancy",
         "addressCountry": "Suisse"
@@ -2108,7 +2108,7 @@
       "workflowState": 1,
       "publishOn": 1745568000310,
       "addedOn": 1745568000310,
-      "updatedOn": 1785800657099
+      "updatedOn": 1785801123805
     },
     {
       "id": "6a251e6b91521777c54fc531",

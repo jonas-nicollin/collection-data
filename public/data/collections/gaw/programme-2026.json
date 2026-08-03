@@ -5,11 +5,59 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-03T23:38:11.685Z",
-  "sourceHash": "44b4f6b981da68fde6d03176eb5e8801b6214b2ec8b8f523a76eef9c96e26de6",
-  "count": 110,
+  "updatedAt": "2026-08-03T23:58:12.892Z",
+  "sourceHash": "66e5f6e810398a22569301abaa244014a85a6a1a7a61cb194e6f6327a2fe9b2f",
+  "count": 111,
   "pages": 6,
   "items": [
+    {
+      "id": "6a71258e3b729e068f880f7c",
+      "title": "Real Life Situations",
+      "fullUrl": "/programme-2026/real-life-situations",
+      "urlId": "real-life-situations",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785800542358-8Q1AVVIHQH5I1WDWFUX2/Geneva_Art_Week-Event_2026-Real-Life-Situations.webp",
+      "mediaFocalPoint": {
+        "x": 0.4642857142857143,
+        "y": 0.27083333333333337,
+        "source": 3
+      },
+      "categories": [
+        "Autre"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Thématique: Vidéo",
+        "Membre: Le Trou",
+        "Quartier: Grand-Lancy",
+        "Date: 2026-09-18T19:30",
+        "Artiste: Carmen-Sibha Keiso",
+        "Artiste: Nicolas Ponce",
+        "Artiste: Marina Olivares",
+        "Artiste: YouYang Qin",
+        "Artiste: Ciel Sourdeau",
+        "Artiste: Paul Fritz",
+        "Artiste: Kairaan Kika",
+        "Artiste: Hugo Langlade",
+        "Type: Événement"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1780922,
+        "mapLng": 6.119927,
+        "markerLat": 46.1780922,
+        "markerLng": 6.119927,
+        "addressTitle": "Le Trou",
+        "addressLine1": "Chemin des Semailles 15",
+        "addressLine2": "1212 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 124,
+      "workflowState": 1,
+      "publishOn": 1785800078466,
+      "addedOn": 1785800078466,
+      "updatedOn": 1785801027364
+    },
     {
       "id": "6a6fcc9432067566f7922286",
       "title": "Futurs possibles: Horizons 2050+ à Genève – Visite guidée",
