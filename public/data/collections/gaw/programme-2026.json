@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-03T11:48:28.114Z",
-  "sourceHash": "d43b3c64fb1b8322feed58578d43eccecbcf7244ad0d24f73a5724df9d8e8e57",
+  "updatedAt": "2026-08-03T11:58:13.366Z",
+  "sourceHash": "8da3f0db9e91343430521f682d2939a4686b1674a41b4045f58f93d90d6051fb",
   "count": 110,
   "pages": 6,
   "items": [
@@ -2242,7 +2242,8 @@
         "source": 3
       },
       "categories": [
-        "Rendez-vous"
+        "Rendez-vous",
+        "Talk"
       ],
       "tags": [
         "Membre: Geneva Art Week",
@@ -2265,7 +2266,7 @@
       "workflowState": 1,
       "publishOn": 1784153440453,
       "addedOn": 1784153440453,
-      "updatedOn": 1785756998464
+      "updatedOn": 1785758226919
     },
     {
       "id": "6a57fdb38090722e11b78006",
