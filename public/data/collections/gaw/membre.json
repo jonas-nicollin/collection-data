@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T22:38:08.790Z",
-  "sourceHash": "7bbdaebe50dc9ca3cc8df64d8aeb5d937e23af1609e73955278dce0b1e802f9e",
-  "count": 86,
+  "updatedAt": "2026-08-03T22:58:09.745Z",
+  "sourceHash": "a7351d413267543f2a178cd0e2e9b1b91310f9aeadfbaa2d001da1dabae5cfac",
+  "count": 87,
   "pages": 1,
   "items": [
     {
@@ -88,7 +88,7 @@
       "workflowState": 1,
       "publishOn": 1748476800370,
       "addedOn": 1748476800370,
-      "updatedOn": 1782976427909
+      "updatedOn": 1785797849274
     },
     {
       "id": "6a252c2437cb0c548d7ea898",
@@ -1715,6 +1715,45 @@
       "publishOn": 1745798400755,
       "addedOn": 1745798400755,
       "updatedOn": 1782200396759
+    },
+    {
+      "id": "6a711826ccee0d24443e999e",
+      "title": "L'Antre-Peaux",
+      "fullUrl": "/membre/l-antre-peaux",
+      "urlId": "l-antre-peaux",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7a27817c-bbbf-4888-88ac-3ed656380463/Geneva_Art_Week-Members_2026-L%27Antre-Peaux.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Membre: L'Antre-Peaux",
+        "Thématique: Maroquinerie",
+        "Thématique: Artisanat"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1811256,
+        "mapLng": 6.1409856,
+        "markerLat": 46.1811256,
+        "markerLng": 6.1409856,
+        "addressTitle": "L&#39;Antre-Peaux",
+        "addressLine1": "Rue Ancienne 43",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 97,
+      "workflowState": 1,
+      "publishOn": 1745789846300,
+      "addedOn": 1745789846300,
+      "updatedOn": 1785797420612
     },
     {
       "id": "68248795cdfab25869f2b3a7",
