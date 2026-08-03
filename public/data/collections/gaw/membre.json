@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T14:38:19.859Z",
-  "sourceHash": "5a7e0b1f3e9d5f6eae7aa5647e45d35423fe963a253ad868dc853a2049e7ada8",
-  "count": 84,
+  "updatedAt": "2026-08-03T14:48:18.907Z",
+  "sourceHash": "ab0678d270c9133eed4ab6ac18ee9c52be63d0478c4c0824839f10eac1d0e4f2",
+  "count": 85,
   "pages": 1,
   "items": [
     {
@@ -2457,6 +2457,45 @@
       "publishOn": 1744761600374,
       "addedOn": 1744761600374,
       "updatedOn": 1782220594692
+    },
+    {
+      "id": "6a70a67ca9b5546fa2f313c2",
+      "title": "NOV Gallery",
+      "fullUrl": "/membre/nov-gallery",
+      "urlId": "nov-gallery",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/a61150ca-1909-4953-a870-9fd181c064b1/Geneva_Art_Week-Members_2026-Nov-Gallery.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Membre: NOV Gallery"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1805731,
+        "mapLng": 6.1405248,
+        "markerLat": 46.1805731,
+        "markerLng": 6.1405248,
+        "addressTitle": "NOV Gallery",
+        "addressLine1": "Rue Joseph-Girard 4",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 95,
+      "workflowState": 1,
+      "publishOn": 1744727548680,
+      "addedOn": 1744727548680,
+      "updatedOn": 1785768183061
     },
     {
       "id": "68248797cdfab25869f2b43f",
