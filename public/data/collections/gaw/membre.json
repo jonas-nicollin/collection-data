@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T14:48:18.907Z",
-  "sourceHash": "ab0678d270c9133eed4ab6ac18ee9c52be63d0478c4c0824839f10eac1d0e4f2",
-  "count": 85,
+  "updatedAt": "2026-08-03T22:38:08.790Z",
+  "sourceHash": "7bbdaebe50dc9ca3cc8df64d8aeb5d937e23af1609e73955278dce0b1e802f9e",
+  "count": 86,
   "pages": 1,
   "items": [
     {
@@ -2781,6 +2781,43 @@
       "publishOn": 1744156800422,
       "addedOn": 1744156800422,
       "updatedOn": 1782220777656
+    },
+    {
+      "id": "6a7114589a1f565e923ac5be",
+      "title": "Poesis",
+      "fullUrl": "/membre/poesis",
+      "urlId": "poesis",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/877b1178-0684-4cc5-b30a-2b7a59aebb24/Geneva_Art_Week-Members_2026-Poesis.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Membre: Poesis"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.183844,
+        "mapLng": 6.140274,
+        "markerLat": 46.183844,
+        "markerLng": 6.140274,
+        "addressTitle": "Poesis",
+        "addressLine1": "Place du Marché 15",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 96,
+      "workflowState": 1,
+      "publishOn": 1744147272543,
+      "addedOn": 1744147272543,
+      "updatedOn": 1785796646330
     },
     {
       "id": "68248793cdfab25869f2b343",
