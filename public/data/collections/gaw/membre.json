@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T22:58:09.745Z",
-  "sourceHash": "a7351d413267543f2a178cd0e2e9b1b91310f9aeadfbaa2d001da1dabae5cfac",
+  "updatedAt": "2026-08-03T23:08:12.160Z",
+  "sourceHash": "57d10af7b4ffd78bbb7c1cc5f73a223db46714e230a7bf91c49c5ae8ac0cb8b0",
   "count": 87,
   "pages": 1,
   "items": [
@@ -751,9 +751,9 @@
         "Quartier: Quartier des Bains",
         "Thématique: Art contemporain",
         "Thématique: Céramique",
-        "Thématique: Photographie",
         "Thématique: Peinture",
-        "Thématique: Sculpture"
+        "Thématique: Scène émergente",
+        "Thématique: Mixed Media"
       ],
       "excerpt": "",
       "location": {
@@ -771,7 +771,7 @@
       "workflowState": 1,
       "publishOn": 1747378800533,
       "addedOn": 1747378800533,
-      "updatedOn": 1779194417570
+      "updatedOn": 1785798203736
     },
     {
       "id": "6a2512fa54fe294edeb7383a",
