@@ -4,6 +4,8 @@ import path from 'node:path';
 
 const DEFAULT_CONFIG = 'sources/collections/pcc.json';
 const DEFAULT_OUTPUT_DIR = 'public/data/collections';
+const MAX_FETCH_ATTEMPTS = 3;
+const RETRY_DELAYS_MS = [1000, 3000];
 
 const KEEP_FIELDS = [
   'id',
@@ -137,8 +139,25 @@ function cookieHeader(cookies) {
     .join('; ');
 }
 
+function wait(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function isRetryableStatus(status) {
+  return status === 429 || status >= 500;
+}
+
+async function waitBeforeRetry(url, attempt, reason) {
+  const delay = RETRY_DELAYS_MS[Math.min(attempt, RETRY_DELAYS_MS.length - 1)];
+  console.warn(
+    `Retrying ${url} in ${delay}ms ` +
+    `(attempt ${attempt + 2}/${MAX_FETCH_ATTEMPTS}: ${reason})`
+  );
+  await wait(delay);
+}
+
 async function fetchJson(url, cookies) {
-  for (let attempt = 0; attempt < 2; attempt += 1) {
+  for (let attempt = 0; attempt < MAX_FETCH_ATTEMPTS; attempt += 1) {
     const headers = {
       accept: 'application/json,text/html;q=0.9,*/*;q=0.8',
       'accept-language': 'fr-CH,fr;q=0.9,en;q=0.8',
@@ -151,10 +170,18 @@ async function fetchJson(url, cookies) {
     const cookie = cookieHeader(cookies);
     if (cookie) headers.cookie = cookie;
 
-    const res = await fetch(url, {
-      headers,
-      redirect: 'follow'
-    });
+    let res;
+
+    try {
+      res = await fetch(url, {
+        headers,
+        redirect: 'follow'
+      });
+    } catch (error) {
+      if (attempt >= MAX_FETCH_ATTEMPTS - 1) throw error;
+      await waitBeforeRetry(url, attempt, error?.cause?.code || error?.message || 'network error');
+      continue;
+    }
 
     mergeSetCookie(res.headers.get('set-cookie'), cookies);
 
@@ -163,6 +190,11 @@ async function fetchJson(url, cookies) {
     }
 
     if ((res.status === 401 || res.status === 403) && attempt === 0 && cookies.size) {
+      continue;
+    }
+
+    if (isRetryableStatus(res.status) && attempt < MAX_FETCH_ATTEMPTS - 1) {
+      await waitBeforeRetry(url, attempt, `HTTP ${res.status}`);
       continue;
     }
 
