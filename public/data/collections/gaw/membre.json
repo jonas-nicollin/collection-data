@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T13:48:17.890Z",
-  "sourceHash": "8029634b188fc90938cbbdd187d9134772c72012e9d6ae0dcba76e5287549a55",
-  "count": 82,
+  "updatedAt": "2026-08-03T14:18:24.082Z",
+  "sourceHash": "ddfb21cc91fd3b533902326afd24096bfe24fe9ff95e425e94db28a0ff2de11d",
+  "count": 83,
   "pages": 1,
   "items": [
     {
@@ -244,6 +244,45 @@
       "publishOn": 1748301053564,
       "addedOn": 1748301053564,
       "updatedOn": 1783883526569
+    },
+    {
+      "id": "6a709cf907a7104addba3ad5",
+      "title": "Atelier Nicolas Perrottet",
+      "fullUrl": "/membre/atelier-nicolas-perrottet",
+      "urlId": "atelier-nicolas-perrottet",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/a2dfaa50-1fd3-4c5c-b2ee-9c26edd575e3/Geneva_Art_Week-Members_2026-Atelier-Nicolas-Perrottet-1.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Thématique: Décoration",
+        "Thématique: Artisanat",
+        "Membre: Atelier Nicolas Perrottet"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1806823,
+        "mapLng": 6.141282299999999,
+        "markerLat": 46.1806823,
+        "markerLng": 6.141282299999999,
+        "addressTitle": "Atelier Nicolas Perrottet",
+        "addressLine1": "Rue Joseph-Girard 16",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 93,
+      "workflowState": 1,
+      "publishOn": 1748296913647,
+      "addedOn": 1748296913647,
+      "updatedOn": 1785766258949
     },
     {
       "id": "6824878ecdfab25869f2b296",
