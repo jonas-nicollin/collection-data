@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-02T23:36:38.627Z",
-  "sourceHash": "96ff4c1d976429c982f6fb52a9794e8d4d4a28419793dc017c30eecfd5636dae",
+  "updatedAt": "2026-08-03T10:58:14.938Z",
+  "sourceHash": "89dad4c27839bf3f9913f914dc5530ae6104e0f881fcc9a1dcc1e5971a91c5b7",
   "count": 110,
   "pages": 6,
   "items": [
@@ -4694,7 +4694,8 @@
         "Date: 2026-09-18/2026-11-08",
         "Vernissage: 2026-09-17T18:00",
         "Membre: Centre d'Art Contemporain Genève",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Lieu: L'Arcade"
       ],
       "excerpt": "",
       "location": {
@@ -4703,7 +4704,7 @@
         "mapLng": 6.145207,
         "markerLat": 46.2078407,
         "markerLng": 6.145207,
-        "addressTitle": "Centre d&#39;Art Contemporain Genève",
+        "addressTitle": "L&#39;Arcade",
         "addressLine1": "Rue de Chantepoulet 1-3",
         "addressLine2": "1201 Genève",
         "addressCountry": "Suisse"
@@ -4712,7 +4713,7 @@
       "workflowState": 1,
       "publishOn": 1783346622744,
       "addedOn": 1783346622744,
-      "updatedOn": 1785602201480
+      "updatedOn": 1785754326094
     },
     {
       "id": "6a4b8cd461bf980f6c6e9e2d",
