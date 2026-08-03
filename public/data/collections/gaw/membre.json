@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T23:28:10.011Z",
-  "sourceHash": "59d45fe67d26e92fd574d8ac1b99de68dc096341daf5ad55a730727344be5f2f",
+  "updatedAt": "2026-08-03T23:48:09.469Z",
+  "sourceHash": "784f7c2ae523e3fc4c9a89b33bf3f894f17c7d97446844fbdc14234a1e38f120",
   "count": 88,
   "pages": 1,
   "items": [
@@ -2087,10 +2087,10 @@
         "Espace indépendant"
       ],
       "tags": [
-        "Membre: Le TROU",
         "Thématique: Art contemporain",
         "Quartier: Autre",
-        "Quartier: Grand-Lancy"
+        "Quartier: Grand-Lancy",
+        "Membre: Le Trou"
       ],
       "excerpt": "",
       "location": {
@@ -2108,7 +2108,7 @@
       "workflowState": 1,
       "publishOn": 1745568000310,
       "addedOn": 1745568000310,
-      "updatedOn": 1782215536066
+      "updatedOn": 1785800657099
     },
     {
       "id": "6a251e6b91521777c54fc531",
