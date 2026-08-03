@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T23:08:12.160Z",
-  "sourceHash": "57d10af7b4ffd78bbb7c1cc5f73a223db46714e230a7bf91c49c5ae8ac0cb8b0",
-  "count": 87,
+  "updatedAt": "2026-08-03T23:28:10.011Z",
+  "sourceHash": "59d45fe67d26e92fd574d8ac1b99de68dc096341daf5ad55a730727344be5f2f",
+  "count": 88,
   "pages": 1,
   "items": [
     {
@@ -1712,9 +1712,46 @@
       },
       "displayIndex": 48,
       "workflowState": 1,
-      "publishOn": 1745798400755,
-      "addedOn": 1745798400755,
-      "updatedOn": 1782200396759
+      "publishOn": 1745830800755,
+      "addedOn": 1745830800755,
+      "updatedOn": 1785799650934
+    },
+    {
+      "id": "6a711e649a1f565e923e5561",
+      "title": "Kreëmart",
+      "fullUrl": "/membre/kreemart",
+      "urlId": "kreemart",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785274872338-Z1LOFC92OUHQX460L786/Geneva_Art_Week-Exhibition_2026-Kree%CC%88mart-Archaeofutura-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Sculpture",
+        "Membre: Kreëmart",
+        "Thématique: Art contemporain"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1774056,
+        "mapLng": 6.1445234,
+        "markerLat": 46.1774056,
+        "markerLng": 6.1445234,
+        "addressTitle": "Kreëmart",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 98,
+      "workflowState": 1,
+      "publishOn": 1745795044382,
+      "addedOn": 1745795044382,
+      "updatedOn": 1785799639849
     },
     {
       "id": "6a711826ccee0d24443e999e",
