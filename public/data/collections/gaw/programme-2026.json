@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-04T00:08:14.062Z",
-  "sourceHash": "a186f1a200e46c03b4975c447a4238c44fb183f515dc011f6e406fb8d2383a5e",
-  "count": 112,
+  "updatedAt": "2026-08-04T00:18:11.903Z",
+  "sourceHash": "0bb37c8432537c8f6bdaa0e5e68644ec9289ca19e869f8c6beae2106da5cb04e",
+  "count": 113,
   "pages": 6,
   "items": [
+    {
+      "id": "6a712bf02c45d17f3cd2a9fd",
+      "title": "Thierry Feuz – Visite d’atelier",
+      "fullUrl": "/programme-2026/visite-d-atelier-de-thierry-feuz",
+      "urlId": "visite-d-atelier-de-thierry-feuz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/86f2ea41-af29-4de8-97b2-5c4f68620854/Geneva_Art_Week-Event_2026-Studio-Visit-Thierry-Feuz.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Studio Visit"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Membre: Usine Kugler",
+        "Quartier: Jonction",
+        "Thématique: Peinture",
+        "Thématique: Art contemporain",
+        "Artiste: Thierry Feuz",
+        "Date: 2026-09-17T17:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.201308,
+        "mapLng": 6.125519499999999,
+        "markerLat": 46.201308,
+        "markerLng": 6.125519499999999,
+        "addressTitle": "Usine Kugler",
+        "addressLine1": "Avenue de la Jonction 19",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 126,
+      "workflowState": 1,
+      "publishOn": 1785801712130,
+      "addedOn": 1785801712130,
+      "updatedOn": 1785802218655
+    },
     {
       "id": "6a712943ba5b137e3e09c37a",
       "title": "Olaf Holzapfel en conversation avec Julie Portier",
