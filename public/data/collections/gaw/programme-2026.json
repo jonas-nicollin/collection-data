@@ -5,11 +5,53 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-03T23:58:12.892Z",
-  "sourceHash": "66e5f6e810398a22569301abaa244014a85a6a1a7a61cb194e6f6327a2fe9b2f",
-  "count": 111,
+  "updatedAt": "2026-08-04T00:08:14.062Z",
+  "sourceHash": "a186f1a200e46c03b4975c447a4238c44fb183f515dc011f6e406fb8d2383a5e",
+  "count": 112,
   "pages": 6,
   "items": [
+    {
+      "id": "6a712943ba5b137e3e09c37a",
+      "title": "Olaf Holzapfel en conversation avec Julie Portier",
+      "fullUrl": "/programme-2026/olaf-holzapfel-en-conversation-avec-julie-portier",
+      "urlId": "olaf-holzapfel-en-conversation-avec-julie-portier",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785801165264-O5ORDJ8YTYCSDE1EL5K2/Geneva_Art_Week-Event_2026-Xippas-2.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Talk"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Membre: Xippas",
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Lieu: Villa du Parc",
+        "Artiste: Olaf Holzapfel",
+        "Intervenante: Julie Portier",
+        "Date: 2026-09-19T11:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1934861,
+        "mapLng": 6.2320585,
+        "markerLat": 46.1934861,
+        "markerLng": 6.2320585,
+        "addressTitle": "Villa du Parc",
+        "addressLine1": "Rue de Genève 12",
+        "addressLine2": "74100 Annemasse",
+        "addressCountry": "France"
+      },
+      "displayIndex": 125,
+      "workflowState": 1,
+      "publishOn": 1785801027302,
+      "addedOn": 1785801027302,
+      "updatedOn": 1785801577441
+    },
     {
       "id": "6a71258e3b729e068f880f7c",
       "title": "Real Life Situations",
@@ -188,7 +230,7 @@
       "workflowState": 1,
       "publishOn": 1785710279227,
       "addedOn": 1785710279227,
-      "updatedOn": 1785710576021
+      "updatedOn": 1785801988644
     },
     {
       "id": "6a6fc4f669e423237aab6852",
