@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-04T00:18:11.903Z",
-  "sourceHash": "0bb37c8432537c8f6bdaa0e5e68644ec9289ca19e869f8c6beae2106da5cb04e",
+  "updatedAt": "2026-08-04T12:08:21.253Z",
+  "sourceHash": "6576ed5aa3b421a7efdbec5eb405b86efcc60a1c1a4fcab8c655acc24ac26b99",
   "count": 113,
   "pages": 6,
   "items": [
@@ -874,7 +874,7 @@
       "workflowState": 1,
       "publishOn": 1785277285132,
       "addedOn": 1785277285132,
-      "updatedOn": 1785505657232
+      "updatedOn": 1785844902350
     },
     {
       "id": "6a6926ab150c545027ca5d5d",
@@ -2373,7 +2373,6 @@
         "source": 3
       },
       "categories": [
-        "Rendez-vous",
         "Talk"
       ],
       "tags": [
@@ -2397,7 +2396,7 @@
       "workflowState": 1,
       "publishOn": 1784153440453,
       "addedOn": 1784153440453,
-      "updatedOn": 1785758226919
+      "updatedOn": 1785844798553
     },
     {
       "id": "6a57fdb38090722e11b78006",
