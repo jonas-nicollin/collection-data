@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-03T23:58:14.043Z",
-  "sourceHash": "8ab06ca15667aa92497d05b96255ce09532585d5f18331aa44bdc1ca921d261f",
+  "updatedAt": "2026-08-06T15:50:09.135Z",
+  "sourceHash": "4fb0b0c9a9c7840241694a3de8ba4a4554824667a0fc0e5b8031a12c20244065",
   "count": 88,
   "pages": 1,
   "items": [
@@ -264,7 +264,8 @@
         "Quartier: Carouge",
         "Thématique: Décoration",
         "Thématique: Artisanat",
-        "Membre: Atelier Nicolas Perrottet"
+        "Membre: Atelier Nicolas Perrottet",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -282,7 +283,7 @@
       "workflowState": 1,
       "publishOn": 1748296913647,
       "addedOn": 1748296913647,
-      "updatedOn": 1785766258949
+      "updatedOn": 1786029758266
     },
     {
       "id": "6824878ecdfab25869f2b296",
