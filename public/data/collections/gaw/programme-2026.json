@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-07T09:27:35.423Z",
-  "sourceHash": "bab3b82cc4d2d94e44c8d9a7d81f1e526e1f35b85c9a5ffcca3ea527117f883f",
+  "updatedAt": "2026-08-07T09:37:09.931Z",
+  "sourceHash": "2b2e706cb100d5ef29387b9b23738359d02b31db2a67efab67cb8f1227ca00c1",
   "count": 114,
   "pages": 6,
   "items": [
@@ -2374,7 +2374,6 @@
         "Artiste: Arman",
         "Artiste: César",
         "Artiste: Christo et Jeanne-Claude",
-        "Artiste: Gérard Deschamps",
         "Artiste: François Dufrêne",
         "Artiste: Yves Klein",
         "Artiste: Niki de Saint Phalle",
@@ -2402,7 +2401,7 @@
       "workflowState": 1,
       "publishOn": 1784302444151,
       "addedOn": 1784302444151,
-      "updatedOn": 1785682879499
+      "updatedOn": 1786094970358
     },
     {
       "id": "6a5805608b34023ea0285e48",
