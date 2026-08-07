@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-07T10:27:36.522Z",
-  "sourceHash": "6fbd0e73251c49250c87eaa1f9c819301ebc2dcb3a53fd5a9e34a28e2d5e906e",
+  "updatedAt": "2026-08-07T13:28:05.716Z",
+  "sourceHash": "da762608fdf4934e2ccacd5b024579b1d139f78fcdafe978c01a0f3e2fa95298",
   "count": 114,
   "pages": 6,
   "items": [
@@ -1106,14 +1106,14 @@
       "tags": [
         "Quartier: Vieille-Ville",
         "Type: Solo show",
-        "Membre: GOWEN",
         "Thématique: Art contemporain",
         "Thématique: Art textile",
         "Thématique: Mixed Media",
         "Artiste: Roméo Mivekannin",
         "Vernissage: 2026-09-16T17:00",
         "Date: 2026-09-16/2026-11-28",
-        "Sélection: Art en Vieille-Ville"
+        "Sélection: Art en Vieille-Ville",
+        "Membre: Gowen"
       ],
       "excerpt": "",
       "location": {
@@ -1131,7 +1131,7 @@
       "workflowState": 1,
       "publishOn": 1785272480475,
       "addedOn": 1785272480475,
-      "updatedOn": 1785712948901
+      "updatedOn": 1786108690496
     },
     {
       "id": "6a6916959c0ad7721dd35fd4",
