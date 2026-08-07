@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-07T09:37:09.931Z",
-  "sourceHash": "2b2e706cb100d5ef29387b9b23738359d02b31db2a67efab67cb8f1227ca00c1",
+  "updatedAt": "2026-08-07T09:47:42.957Z",
+  "sourceHash": "004ecd1032a39887dc3dd6049e0b64cb5d1298ab58c60cc0ceaa12c33940886c",
   "count": 114,
   "pages": 6,
   "items": [
@@ -15,7 +15,7 @@
       "title": "RIFT",
       "fullUrl": "/programme-2026/rift",
       "urlId": "rift",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/cb3c4128-5173-4f88-afc9-4710c9608a69/Geneva_Art_Week-Exhibition_2026-Hiflow-Rift-1.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/17ae77de-a2ec-400e-8d5f-eb4bda96453d/Geneva_Art_Week-Exhibition_2026-Hiflow-Rift-1.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -51,7 +51,7 @@
       "workflowState": 1,
       "publishOn": 1786093817118,
       "addedOn": 1786093817118,
-      "updatedOn": 1786094465524
+      "updatedOn": 1786095522945
     },
     {
       "id": "6a712bf02c45d17f3cd2a9fd",
