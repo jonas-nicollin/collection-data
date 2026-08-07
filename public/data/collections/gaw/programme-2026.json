@@ -5,11 +5,54 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-04T12:08:21.253Z",
-  "sourceHash": "6576ed5aa3b421a7efdbec5eb405b86efcc60a1c1a4fcab8c655acc24ac26b99",
-  "count": 113,
+  "updatedAt": "2026-08-07T09:27:35.423Z",
+  "sourceHash": "bab3b82cc4d2d94e44c8d9a7d81f1e526e1f35b85c9a5ffcca3ea527117f883f",
+  "count": 114,
   "pages": 6,
   "items": [
+    {
+      "id": "6a75a0f9d3aad97d81c2dc6d",
+      "title": "RIFT",
+      "fullUrl": "/programme-2026/rift",
+      "urlId": "rift",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/cb3c4128-5173-4f88-afc9-4710c9608a69/Geneva_Art_Week-Exhibition_2026-Hiflow-Rift-1.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Membre: HiFlow",
+        "Quartier: Plan-les-Ouates",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Artiste: Séverin Guelpa",
+        "Type: Exposition",
+        "Date: 2026-09-18/2026-10-23",
+        "Thématique: Mixed Media",
+        "Vernissage: 2026-09-18T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.164745,
+        "mapLng": 6.1036682,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "HiFlow",
+        "addressLine1": "Chemin du Champ-des-Filles 36A",
+        "addressLine2": "1228 Plan-les-Ouates",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 127,
+      "workflowState": 1,
+      "publishOn": 1786093817118,
+      "addedOn": 1786093817118,
+      "updatedOn": 1786094465524
+    },
     {
       "id": "6a712bf02c45d17f3cd2a9fd",
       "title": "Thierry Feuz – Visite d’atelier",
@@ -2153,8 +2196,8 @@
         "Lieu: Bruckner hors les murs",
         "Thématique: Céramique",
         "Date: 2026-09-19/2026-09-27",
-        "Vernissage: 20226-09-19T11:30",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Vernissage: 2026-09-19T11:30"
       ],
       "excerpt": "",
       "location": {
@@ -2172,7 +2215,7 @@
       "workflowState": 1,
       "publishOn": 1784307475042,
       "addedOn": 1784307475042,
-      "updatedOn": 1785683225464
+      "updatedOn": 1786094545377
     },
     {
       "id": "6a5a5d6bfb1aa80e0e9988db",
