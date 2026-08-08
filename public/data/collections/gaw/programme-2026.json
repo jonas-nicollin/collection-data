@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-08T23:38:07.767Z",
-  "sourceHash": "b1253a0f73dc8fa6397f5e5e57a8350a4454d7d5c953b9851a93b30a413cdc0d",
+  "updatedAt": "2026-08-08T23:48:01.913Z",
+  "sourceHash": "ff5b7f1fdadc2fa2c3b8c38ecd7b0920da1ab9697051860268adb86d4b97709a",
   "count": 118,
   "pages": 6,
   "items": [
@@ -3740,7 +3740,7 @@
       "title": "Ciném’Art",
       "fullUrl": "/programme-2026/cinemart",
       "urlId": "cinemart",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783813755001-Q80Z0DTV3918B719FR0K/Geneva_Art_Week-Event_2026-Cinem-Art.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/eec20dea-c645-4e7b-b781-41239d5760d3/Geneva_Art_Week-Event_2026-Cinemart.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -3775,7 +3775,7 @@
       "workflowState": 1,
       "publishOn": 1783812667351,
       "addedOn": 1783812667351,
-      "updatedOn": 1785670187546
+      "updatedOn": 1786232373645
     },
     {
       "id": "6a516f01cfa15f7f6b4c1d69",
@@ -5015,7 +5015,7 @@
     },
     {
       "id": "6a4bb5be29f52d08dd58f0c2",
-      "title": "Pauline Coquart – Short Life Attention Span #3",
+      "title": "Pauline Coquart – Short Ass Attention Span #3",
       "fullUrl": "/programme-2026/short-life-attention-span-3",
       "urlId": "short-life-attention-span-3",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783347004648-S7NJC4Z696MROLN8KCOG/Geneva_Art_Week-Exhibition_2026-Centre_Art_Comtemporain-Short_Life_Attention_Span-Featured-01.webp",
@@ -5034,11 +5034,11 @@
         "Thématique: Scène artistique suisse",
         "Artiste: Pauline Coquart",
         "Quartier: Centre",
-        "Date: 2026-09-18/2026-11-08",
         "Vernissage: 2026-09-17T18:00",
         "Membre: Centre d'Art Contemporain Genève",
         "Sélection: Nuit des Bains",
-        "Lieu: L'Arcade"
+        "Lieu: L'Arcade",
+        "Date: 2026-09-18/2026-11-15"
       ],
       "excerpt": "",
       "location": {
@@ -5056,7 +5056,7 @@
       "workflowState": 1,
       "publishOn": 1783346622744,
       "addedOn": 1783346622744,
-      "updatedOn": 1785754326094
+      "updatedOn": 1786232770336
     },
     {
       "id": "6a4b8cd461bf980f6c6e9e2d",
