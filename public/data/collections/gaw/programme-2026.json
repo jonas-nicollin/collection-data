@@ -5,11 +5,51 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-08T22:38:03.403Z",
-  "sourceHash": "0dab30faf32e0fae1d06babda7904fbc23963967b23d3fe4ad35933e594619a4",
-  "count": 114,
+  "updatedAt": "2026-08-08T22:48:05.862Z",
+  "sourceHash": "77cbc8a246b8efa6ed44c6c645f4db6fa162251c7a5596709dccff651ffaf6b0",
+  "count": 115,
   "pages": 6,
   "items": [
+    {
+      "id": "6a77ad97eb7a4f7fe15aa137",
+      "title": "Découverte de l’exposition avec Olaf Holzapfel",
+      "fullUrl": "/programme-2026/decouverte-de-l-exposition-avec-olaf-holzapfel",
+      "urlId": "decouverte-de-l-exposition-avec-olaf-holzapfel",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7c602152-a1da-4854-92ee-c94ca14bf3ab/Geneva_Art_Week-Event_2026-Xippas-Olaf-Holzapfel.webp",
+      "mediaFocalPoint": {
+        "x": 0.580503144654088,
+        "y": 0.20536669301957866,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Membre: Xippas",
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Artiste: Olaf Holzapfel",
+        "Date: 2026-09-17T17:30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2009589,
+        "mapLng": 6.1371084,
+        "markerLat": 46.2009589,
+        "markerLng": 6.1371084,
+        "addressTitle": "Xippas",
+        "addressLine1": "Rue des Sablons 6",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 128,
+      "workflowState": 1,
+      "publishOn": 1786228119365,
+      "addedOn": 1786228119365,
+      "updatedOn": 1786228763569
+    },
     {
       "id": "6a75a0f9d3aad97d81c2dc6d",
       "title": "RIFT",
