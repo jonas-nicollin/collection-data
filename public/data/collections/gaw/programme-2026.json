@@ -5,11 +5,56 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-08T23:18:04.572Z",
-  "sourceHash": "2e4528758dedcac4ce1d651c0c091596b6ebf60bef82fade1840f52724b92029",
-  "count": 117,
+  "updatedAt": "2026-08-08T23:38:07.767Z",
+  "sourceHash": "b1253a0f73dc8fa6397f5e5e57a8350a4454d7d5c953b9851a93b30a413cdc0d",
+  "count": 118,
   "pages": 6,
   "items": [
+    {
+      "id": "6a77b93f9c2dbb45cf708eda",
+      "title": "Dialogue entre art et archéologie",
+      "fullUrl": "/programme-2026/dialogue-entre-art-et-archeologie",
+      "urlId": "dialogue-entre-art-et-archeologie",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783539635600-XB9Y05PAV4Q4FR89I1G2/Geneva_Art_Week-Exhibition_2026-MAMCO-SaSa_Joana_Hadjithomas_Khalil_Joreige-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Membre: MAMCO",
+        "Quartier: Eaux-Vives Cité",
+        "Lieu: SaSA - Site archéologique Saint-Antoine, Genève",
+        "Sélection: Art en Vieille-Ville",
+        "Type: Événement",
+        "Intervenante: Cindy Dulac",
+        "Date: 2026-09-16T18:00",
+        "Thématique: Vidéo",
+        "Thématique: Sculpture",
+        "Thématique: Mixed Media"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20028629999999,
+        "mapLng": 6.1513522,
+        "markerLat": 46.1999836,
+        "markerLng": 6.1449584,
+        "addressTitle": "SaSA - Site archéologique Saint-Antoine, Genève",
+        "addressLine1": "Esplanade Theodelinde 1",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 131,
+      "workflowState": 1,
+      "publishOn": 1786231103492,
+      "addedOn": 1786231103492,
+      "updatedOn": 1786232167151
+    },
     {
       "id": "6a77b4cf794fbb61e0a89899",
       "title": "Gustave Didelot – Visite d’atelier",
@@ -4704,7 +4749,7 @@
       "workflowState": 1,
       "publishOn": 1783539286654,
       "addedOn": 1783539286654,
-      "updatedOn": 1786194073016
+      "updatedOn": 1786232219974
     },
     {
       "id": "6a4ea4032edcd54816726cc2",
