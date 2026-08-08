@@ -5,11 +5,55 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-08T22:48:05.862Z",
-  "sourceHash": "77cbc8a246b8efa6ed44c6c645f4db6fa162251c7a5596709dccff651ffaf6b0",
-  "count": 115,
+  "updatedAt": "2026-08-08T22:58:14.331Z",
+  "sourceHash": "ec5439b1c627e2ef06f9f77e123f61fe336182a4a712a812eb669457ae8a5da9",
+  "count": 116,
   "pages": 6,
   "items": [
+    {
+      "id": "6a77b08c469d6b5c61baa176",
+      "title": "Balade guidée au Jardin botanique avec Olaf Holzapfel et Marion Festal",
+      "fullUrl": "/programme-2026/balade-guidee-au-jardin-botanique-avec-olaf-holzapfel-et-marion-festal",
+      "urlId": "balade-guidee-au-jardin-botanique-avec-olaf-holzapfel-et-marion-festal",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/164369ed-e6ec-4da2-ae5f-cca904fe2ee1/Geneva_Art_Week-Event_2026-Xippas-Olaf-Holzapfel-Jardin-Botanique.webp",
+      "mediaFocalPoint": {
+        "x": 0.47621407333994054,
+        "y": 0.09226619541459335,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Membre: Xippas",
+        "Artiste: Olaf Holzapfel",
+        "Thématique: Écologie",
+        "Thématique: Paysage",
+        "Thématique: Architecture vernaculaire",
+        "Thématique: Savoir-faire artisanaux",
+        "Intervenante: Marion Festal",
+        "Date: 2026-09-18T10:00",
+        "Lieu: Jardin Botanique de Genève"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2271156,
+        "mapLng": 6.1467768,
+        "markerLat": 46.2271156,
+        "markerLng": 6.1467768,
+        "addressTitle": "Jardin Botanique de Genève ",
+        "addressLine1": "Chemin de l&#39;Impératrice 1",
+        "addressLine2": "1292 Pregny-Chambésy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 129,
+      "workflowState": 1,
+      "publishOn": 1786228876712,
+      "addedOn": 1786228876712,
+      "updatedOn": 1786229713267
+    },
     {
       "id": "6a77ad97eb7a4f7fe15aa137",
       "title": "Découverte de l’exposition avec Olaf Holzapfel",
@@ -28,9 +72,9 @@
         "Type: Événement",
         "Membre: Xippas",
         "Thématique: Art contemporain",
-        "Thématique: Sculpture",
         "Artiste: Olaf Holzapfel",
-        "Date: 2026-09-17T17:30"
+        "Date: 2026-09-17T17:30",
+        "Thématique: Mixed Media"
       ],
       "excerpt": "",
       "location": {
@@ -48,7 +92,7 @@
       "workflowState": 1,
       "publishOn": 1786228119365,
       "addedOn": 1786228119365,
-      "updatedOn": 1786228763569
+      "updatedOn": 1786229736021
     },
     {
       "id": "6a75a0f9d3aad97d81c2dc6d",
