@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-08T23:59:08.305Z",
-  "sourceHash": "e1d400c66aadcdaac1f0c098f30d4e6ea3d483ab4443b35ffb1d9c44cf3bae2a",
+  "updatedAt": "2026-08-09T19:37:39.577Z",
+  "sourceHash": "e6ea65d8fd19863e27748a8c2d50722c95140c832f06f396406d094298d94921",
   "count": 118,
   "pages": 6,
   "items": [
@@ -3742,8 +3742,8 @@
       "urlId": "cinemart",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/eec20dea-c645-4e7b-b781-41239d5760d3/Geneva_Art_Week-Event_2026-Cinemart.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.37202380952380953,
+        "x": 0.48214285714285715,
+        "y": 0.27083333333333337,
         "source": 3
       },
       "categories": [
@@ -3775,7 +3775,7 @@
       "workflowState": 1,
       "publishOn": 1783812667351,
       "addedOn": 1783812667351,
-      "updatedOn": 1786233512869
+      "updatedOn": 1786304243312
     },
     {
       "id": "6a516f01cfa15f7f6b4c1d69",
