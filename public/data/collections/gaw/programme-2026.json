@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-10T13:57:43.727Z",
-  "sourceHash": "1192b613285bdc68170809e076f8203a786bb268a78cc039aba305d251771e06",
+  "updatedAt": "2026-08-10T14:57:46.936Z",
+  "sourceHash": "7c40f938863fb6c2e04d11c7d0ae95e7a09df4f00a78215622af8e75ef96aff6",
   "count": 122,
   "pages": 7,
   "items": [
@@ -481,10 +481,10 @@
       "title": "Real Life Situations",
       "fullUrl": "/programme-2026/real-life-situations",
       "urlId": "real-life-situations",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785800542358-8Q1AVVIHQH5I1WDWFUX2/Geneva_Art_Week-Event_2026-Real-Life-Situations.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/4c1b95d6-b20e-4a89-961e-9516e47b171d/Geneva_Art_Week-Event_2026-Le-Trou.webp",
       "mediaFocalPoint": {
-        "x": 0.4642857142857143,
-        "y": 0.27083333333333337,
+        "x": 0.5089285714285714,
+        "y": 0.6279761904761905,
         "source": 3
       },
       "categories": [
@@ -522,7 +522,7 @@
       "workflowState": 1,
       "publishOn": 1785800078466,
       "addedOn": 1785800078466,
-      "updatedOn": 1785801027364
+      "updatedOn": 1786373721823
     },
     {
       "id": "6a6fcc9432067566f7922286",
