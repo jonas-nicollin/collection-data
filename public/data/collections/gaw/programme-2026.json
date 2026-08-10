@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-10T10:37:42.867Z",
-  "sourceHash": "e099d3db8d9c34b71666d392a6b599941f00875da3c3f0bd4dec21dca3be2e7a",
+  "updatedAt": "2026-08-10T10:46:16.373Z",
+  "sourceHash": "68d2d52029f327cc3d9c824699b6dafef87ec2870936a76da81abc6e9ac80326",
   "count": 121,
   "pages": 7,
   "items": [
@@ -168,7 +168,7 @@
         "mapLng": 6.1513522,
         "markerLat": 46.1999836,
         "markerLng": 6.1449584,
-        "addressTitle": "SaSA - Site archéologique Saint-Antoine, Genève",
+        "addressTitle": "SaSA – Site archéologique Saint-Antoine, Genève",
         "addressLine1": "Esplanade Theodelinde 1",
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
@@ -177,7 +177,7 @@
       "workflowState": 1,
       "publishOn": 1786231103492,
       "addedOn": 1786231103492,
-      "updatedOn": 1786232167151
+      "updatedOn": 1786358754227
     },
     {
       "id": "6a77b4cf794fbb61e0a89899",
@@ -4770,7 +4770,7 @@
     },
     {
       "id": "6a4ea97dd62a154d73c23087",
-      "title": "MAMCO × MAH Sylvia Sleigh et Refaire collection : une exposition en deux parties",
+      "title": "MAMCO × MAH – Sylvia Sleigh et Refaire collection: une exposition en deux parties",
       "fullUrl": "/programme-2026/mamco-x-mah-sylvia-sleigh-et-refaire-collection",
       "urlId": "mamco-x-mah-sylvia-sleigh-et-refaire-collection",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/e9355ab1-06b8-46d4-baa8-73b8433c6110/Geneva_Art_Week-Exhibition_2026-MAMCO-MAH-Sylvia-Sleigh.webp",
@@ -4830,11 +4830,11 @@
       "workflowState": 1,
       "publishOn": 1783540093894,
       "addedOn": 1783540093894,
-      "updatedOn": 1785603351820
+      "updatedOn": 1786358548678
     },
     {
       "id": "6a4ea656ab94e148672cef55",
-      "title": "MAMCO × SaSA                                                               Joana Hadjithomas &amp; Khalil Joreige",
+      "title": "MAMCO × SaSA – Joana&nbsp;Hadjithomas &amp; Khalil Joreige",
       "fullUrl": "/programme-2026/mamco-x-sasa-joana-hadjithomas-khalil-joreige",
       "urlId": "mamco-x-sasa-joana-hadjithomas-khalil-joreige",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783539635600-XB9Y05PAV4Q4FR89I1G2/Geneva_Art_Week-Exhibition_2026-MAMCO-SaSa_Joana_Hadjithomas_Khalil_Joreige-Featured-01.webp",
@@ -4864,7 +4864,7 @@
         "mapLng": 6.1513522,
         "markerLat": 46.1999836,
         "markerLng": 6.1449584,
-        "addressTitle": "SaSA - Site archéologique Saint-Antoine, Genève",
+        "addressTitle": "SaSA – Site archéologique Saint-Antoine, Genève",
         "addressLine1": "Esplanade Theodelinde 1",
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
@@ -4873,7 +4873,7 @@
       "workflowState": 1,
       "publishOn": 1783539286654,
       "addedOn": 1783539286654,
-      "updatedOn": 1786232219974
+      "updatedOn": 1786358730311
     },
     {
       "id": "6a4ea4032edcd54816726cc2",
