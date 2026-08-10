@@ -5,11 +5,53 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-10T09:57:44.444Z",
-  "sourceHash": "a67e85a26274abbfe7ef4f923812540651a6d58d547333b86c579700a3400ef3",
-  "count": 120,
-  "pages": 6,
+  "updatedAt": "2026-08-10T10:07:51.505Z",
+  "sourceHash": "6c4678f989a2f5c98d07d2db93f3c8f475d35075730955aab7b0dc6e76974022",
+  "count": 121,
+  "pages": 7,
   "items": [
+    {
+      "id": "6a79906b04b60324bea6091d",
+      "title": "KOUNELLIS – CHARRIÈRE",
+      "fullUrl": "/programme-2026/kounellis-charriere",
+      "urlId": "kounellis-charriere",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786351762987-5M5WYB9BGKABTRKHVPIY/Geneva_Art_Week-Exhibition_2026-Olivier_Varenne_art_moderne_et_contemporain-KOUNELLIS_CHARRIERE-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier:  Quartier des Bains",
+        "Thématique: Art contemporain",
+        "Membre: Olivier Varenne – Art Moderne & Contemporain",
+        "Type: Exposition",
+        "Artiste: Jannis Kounellis",
+        "Artiste: Julian Charrière",
+        "Date: 2026-09-16/2026-10-31",
+        "Vernissage: 2026-09-16T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1990504,
+        "mapLng": 6.137084199999999,
+        "markerLat": 46.1990504,
+        "markerLng": 6.137084199999999,
+        "addressTitle": "Olivier Varenne – Art Moderne &amp; Contemporain",
+        "addressLine1": "Rue des Bains 37-39",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 134,
+      "workflowState": 1,
+      "publishOn": 1786351723864,
+      "addedOn": 1786351723864,
+      "updatedOn": 1786355866125
+    },
     {
       "id": "6a7989e42b6b236732eead7f",
       "title": "Une réalité insolite",
@@ -41,7 +83,7 @@
         "mapLng": 6.1371084,
         "markerLat": 46.2009589,
         "markerLng": 6.1371084,
-        "addressTitle": "XIPPAS",
+        "addressTitle": "Xippas",
         "addressLine1": "Rue des Sablons 6",
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
@@ -50,17 +92,17 @@
       "workflowState": 1,
       "publishOn": 1786350052871,
       "addedOn": 1786350052871,
-      "updatedOn": 1786355775979
+      "updatedOn": 1786355925954
     },
     {
       "id": "6a7985ae9efa502bbd06356c",
       "title": "Penser par le trait. 250 ans de dessin à Genève",
       "fullUrl": "/programme-2026/penser-par-le-trait-250-ans-de-dessin-geneve",
       "urlId": "penser-par-le-trait-250-ans-de-dessin-geneve",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786349007387-V2AY7BKP8IR4U3MB05JO/Geneva_Art_Week-Exhibition_2026-Socie%CC%81te%CC%81_des_Arts_de_Gene%CC%80ve-Penser_par_le_trait-Featured-02.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1e314f94-49a1-4f3d-a2a4-49a00fb7cd09/Geneva_Art_Week-Exhibition_2026-Socie%CC%81te%CC%81_des_Arts_de_Gene%CC%80ve-Penser_par_le_trait-Featured-02.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5041351568785197,
+        "y": 0.1041715109519602,
         "source": 3
       },
       "categories": [
@@ -70,9 +112,9 @@
         "Type: Exposition",
         "Thématique: Dessin",
         "Quartier: Vieille-Ville",
-        "Membre: Société des Arts",
         "Date: 2026-09-18/2026-12-20",
-        "Vernissage: 2026-09-17T18:00"
+        "Vernissage: 2026-09-17T18:00",
+        "Membre: Société des Arts de Genève"
       ],
       "excerpt": "",
       "location": {
@@ -81,7 +123,7 @@
         "mapLng": 6.1479177,
         "markerLat": 46.1986167,
         "markerLng": 6.1479177,
-        "addressTitle": "Société des Arts, Palais de l&#39;Athénée",
+        "addressTitle": "Société des Arts de Genève",
         "addressLine1": "Rue de l&#39;Athénée 2",
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
@@ -90,7 +132,7 @@
       "workflowState": 1,
       "publishOn": 1786348974659,
       "addedOn": 1786348974659,
-      "updatedOn": 1786355789921
+      "updatedOn": 1786356353687
     },
     {
       "id": "6a77b93f9c2dbb45cf708eda",

@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-06T15:50:09.135Z",
-  "sourceHash": "4fb0b0c9a9c7840241694a3de8ba4a4554824667a0fc0e5b8031a12c20244065",
+  "updatedAt": "2026-08-10T10:07:52.845Z",
+  "sourceHash": "531406485b50fd109fae171f5ca10d1ae924e4b05d4c34e39c0485e84adc8353",
   "count": 88,
   "pages": 1,
   "items": [
@@ -2995,10 +2995,10 @@
         "Thématique: Scène artistique suisse",
         "Thématique: Scène émergente",
         "Thématique: Mixed Media",
-        "Membre: Société des Arts – Palais de l’Athénée",
         "Thématique: Art moderne",
         "Thématique: Peinture",
-        "Thématique: Dessin"
+        "Thématique: Dessin",
+        "Membre: Société des Arts de Genève"
       ],
       "excerpt": null,
       "location": {
@@ -3007,7 +3007,7 @@
         "mapLng": 6.1482245,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "Société des Arts, Palais de l&#39;Athénée",
+        "addressTitle": "Société des Arts de Genève",
         "addressLine1": "Rue de l&#39;Athénée 2 ",
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
@@ -3016,7 +3016,7 @@
       "workflowState": 1,
       "publishOn": 1743984000888,
       "addedOn": 1743984000888,
-      "updatedOn": 1782220846536
+      "updatedOn": 1786356042909
     },
     {
       "id": "687cf7b5d1ea102c304ccc1d",
