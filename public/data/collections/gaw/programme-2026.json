@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-10T10:46:16.373Z",
-  "sourceHash": "68d2d52029f327cc3d9c824699b6dafef87ec2870936a76da81abc6e9ac80326",
+  "updatedAt": "2026-08-10T11:17:41.178Z",
+  "sourceHash": "34ee480bb67ee45c56256a1583801f77c3e3add97178c038b009bd55e92c1f87",
   "count": 121,
   "pages": 7,
   "items": [
@@ -886,11 +886,11 @@
         "Quartier: Carouge",
         "Date: 2026-09-19/2026-09-27",
         "Vernissage: 2026-09-19T11:30",
-        "Membre: L'Antre-Peaux",
         "Type: Exposition",
         "Artiste: Sandrine Ramona",
         "Artiste: Chris Murner",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Membre: L’Antre-Peaux"
       ],
       "excerpt": "",
       "location": {
@@ -908,7 +908,7 @@
       "workflowState": 1,
       "publishOn": 1785416253781,
       "addedOn": 1785416253781,
-      "updatedOn": 1785697336972
+      "updatedOn": 1786360504636
     },
     {
       "id": "6a6a705b75ff207bbaa4046f",
@@ -2579,11 +2579,11 @@
         "Quartier: Quartier des Bains",
         "Vernissage: 2026-09-17T18:00",
         "Artiste: Jan Steenman",
-        "Membre: Olizane - Espace d'art contemporain",
         "Thématique: Céramique",
         "Thématique: Art contemporain",
         "Date: 2026-09-16/2026-09-30",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Membre: Olizane"
       ],
       "excerpt": "",
       "location": {
@@ -2601,7 +2601,7 @@
       "workflowState": 1,
       "publishOn": 1784305484277,
       "addedOn": 1784305484277,
-      "updatedOn": 1785683103795
+      "updatedOn": 1786360624414
     },
     {
       "id": "6a5a4dea93ef786c65d99343",
@@ -5161,8 +5161,8 @@
         "Vernissage: 2026-09-17T18:00",
         "Membre: Centre d'Art Contemporain Genève",
         "Sélection: Nuit des Bains",
-        "Lieu: L'Arcade",
-        "Date: 2026-09-18/2026-11-15"
+        "Date: 2026-09-18/2026-11-15",
+        "Lieu: L’Arcade"
       ],
       "excerpt": "",
       "location": {
@@ -5180,7 +5180,7 @@
       "workflowState": 1,
       "publishOn": 1783346622744,
       "addedOn": 1783346622744,
-      "updatedOn": 1786232770336
+      "updatedOn": 1786360564367
     },
     {
       "id": "6a4b8cd461bf980f6c6e9e2d",

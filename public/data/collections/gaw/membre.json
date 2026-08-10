@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-10T10:47:44.317Z",
-  "sourceHash": "9fe9050c36559fb6819740c6a66bc1ba68eb48d0d07a19f624bb4db0edb3ebc6",
+  "updatedAt": "2026-08-10T11:17:42.449Z",
+  "sourceHash": "5c4afc67b0e4d9bd3ec98b9f5e579e08983f76b0ccca8a9f1d6f0ebec2809d28",
   "count": 88,
   "pages": 1,
   "items": [
@@ -1771,9 +1771,9 @@
       "tags": [
         "Thématique: Céramique",
         "Quartier: Carouge",
-        "Membre: L'Antre-Peaux",
         "Thématique: Maroquinerie",
-        "Thématique: Artisanat"
+        "Thématique: Artisanat",
+        "Membre: L’Antre-Peaux"
       ],
       "excerpt": "",
       "location": {
@@ -1791,7 +1791,7 @@
       "workflowState": 1,
       "publishOn": 1745789846300,
       "addedOn": 1745789846300,
-      "updatedOn": 1786358793086
+      "updatedOn": 1786360438959
     },
     {
       "id": "68248795cdfab25869f2b3a7",
@@ -1808,13 +1808,13 @@
         "Galerie"
       ],
       "tags": [
-        "Membre: L'Appartement",
         "Thématique: Art contemporain",
         "Thématique: Sculpture",
         "Thématique: Peinture",
         "Thématique: Art moderne",
         "Thématique: Céramique",
-        "Quartier: Eaux-Vives Cité"
+        "Quartier: Eaux-Vives Cité",
+        "Membre: L’Appartement"
       ],
       "excerpt": null,
       "location": {
@@ -1832,7 +1832,7 @@
       "workflowState": 1,
       "publishOn": 1745713800437,
       "addedOn": 1745713800437,
-      "updatedOn": 1782200414499
+      "updatedOn": 1786360423424
     },
     {
       "id": "6a330efaf58c910d7b4b6a15",
