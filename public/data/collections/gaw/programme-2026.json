@@ -5,11 +5,55 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-10T13:37:42.292Z",
-  "sourceHash": "3f0724801582dca07c12924ad502799617d07d7e6ecc5b3350e75d5e86186c04",
-  "count": 121,
+  "updatedAt": "2026-08-10T13:57:43.727Z",
+  "sourceHash": "1192b613285bdc68170809e076f8203a786bb268a78cc039aba305d251771e06",
+  "count": 122,
   "pages": 7,
   "items": [
+    {
+      "id": "6a79d4ad1caa852c2960d385",
+      "title": "Meet the artists over Mimosas",
+      "fullUrl": "/programme-2026/meet-the-artists-over-mimosas",
+      "urlId": "meet-the-artists-over-mimosas",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786369654814-PQ7ABC6NQX9JQ4VCWQBV/Geneva_Art_Week-Event_2026-Meet-the-artists-over-Mimosas-4.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Talk"
+      ],
+      "tags": [
+        "Membre: Espace_L",
+        "Thématique: Art contemporain",
+        "Quartier:  Quartier des Bains",
+        "Artiste: Marius Margot",
+        "Artiste: Vivianne van Singer",
+        "Artiste: Vasilis Zografos",
+        "Type: Événement",
+        "Thématique: Mixed Media",
+        "Thématique: Scène artistique suisse",
+        "Date: 2026-09-18T12:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.198065,
+        "mapLng": 6.136406,
+        "markerLat": 46.198065,
+        "markerLng": 6.136406,
+        "addressTitle": "Espace_L",
+        "addressLine1": "Rue des Bains 23",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 136,
+      "workflowState": 1,
+      "publishOn": 1786369939867,
+      "addedOn": 1786369939867,
+      "updatedOn": 1786369956267
+    },
     {
       "id": "6a79906b04b60324bea6091d",
       "title": "KOUNELLIS – CHARRIÈRE",
@@ -867,7 +911,7 @@
       "workflowState": 1,
       "publishOn": 1785417338667,
       "addedOn": 1785417338667,
-      "updatedOn": 1785713673178
+      "updatedOn": 1786369725156
     },
     {
       "id": "6a6b4a3d63b18152e2624909",
