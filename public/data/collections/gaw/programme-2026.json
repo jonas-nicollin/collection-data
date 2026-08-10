@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-10T11:17:41.178Z",
-  "sourceHash": "34ee480bb67ee45c56256a1583801f77c3e3add97178c038b009bd55e92c1f87",
+  "updatedAt": "2026-08-10T11:27:44.659Z",
+  "sourceHash": "ed0ce99c129255abb95d039aa5ccd4dc79c960d4cda8abb4bb8ed84384d63287",
   "count": 121,
   "pages": 7,
   "items": [
@@ -17,8 +17,8 @@
       "urlId": "kounellis-charriere",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786351762987-5M5WYB9BGKABTRKHVPIY/Geneva_Art_Week-Exhibition_2026-Olivier_Varenne_art_moderne_et_contemporain-KOUNELLIS_CHARRIERE-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5159366262814539,
+        "y": 0.3780113477816017,
         "source": 3
       },
       "categories": [
@@ -32,7 +32,8 @@
         "Artiste: Jannis Kounellis",
         "Artiste: Julian Charrière",
         "Date: 2026-09-16/2026-10-31",
-        "Vernissage: 2026-09-16T18:00"
+        "Vernissage: 2026-09-16T18:00",
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -50,7 +51,7 @@
       "workflowState": 1,
       "publishOn": 1786351723864,
       "addedOn": 1786351723864,
-      "updatedOn": 1786355866125
+      "updatedOn": 1786361135243
     },
     {
       "id": "6a7989e42b6b236732eead7f",
@@ -74,7 +75,8 @@
         "Artiste: Olaf Holzapfel",
         "Thématique: Art contemporain",
         "Thématique: Mixed Media",
-        "Date: 2026-09-18/2026-10-31"
+        "Date: 2026-09-18/2026-10-31",
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -92,7 +94,7 @@
       "workflowState": 1,
       "publishOn": 1786350052871,
       "addedOn": 1786350052871,
-      "updatedOn": 1786355925954
+      "updatedOn": 1786361097251
     },
     {
       "id": "6a7985ae9efa502bbd06356c",
@@ -132,7 +134,7 @@
       "workflowState": 1,
       "publishOn": 1786348974659,
       "addedOn": 1786348974659,
-      "updatedOn": 1786356353687
+      "updatedOn": 1786360920699
     },
     {
       "id": "6a77b93f9c2dbb45cf708eda",
