@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-10T10:07:51.505Z",
-  "sourceHash": "6c4678f989a2f5c98d07d2db93f3c8f475d35075730955aab7b0dc6e76974022",
+  "updatedAt": "2026-08-10T10:37:42.867Z",
+  "sourceHash": "e099d3db8d9c34b71666d392a6b599941f00875da3c3f0bd4dec21dca3be2e7a",
   "count": 121,
   "pages": 7,
   "items": [
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "6a4ec7312562e451b5e76801",
-      "title": "Carmen Perrin – Visite d'atelier ",
+      "title": "Carmen Perrin – Visite d’atelier",
       "fullUrl": "/programme-2026/carmen-perrin-visite-atelier",
       "urlId": "carmen-perrin-visite-atelier",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783548905007-YODKZ1N9G7TAANWV2PLC/Geneva_Art_Week-Event_2026-Carmen-Perrin.webp",
@@ -2046,7 +2046,7 @@
       "workflowState": 1,
       "publishOn": 1785147803681,
       "addedOn": 1785147803681,
-      "updatedOn": 1785684434507
+      "updatedOn": 1786358198967
     },
     {
       "id": "6a5ffba27f937f13b7b039d3",
