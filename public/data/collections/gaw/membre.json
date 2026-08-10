@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-10T10:07:52.845Z",
-  "sourceHash": "531406485b50fd109fae171f5ca10d1ae924e4b05d4c34e39c0485e84adc8353",
+  "updatedAt": "2026-08-10T10:47:44.317Z",
+  "sourceHash": "9fe9050c36559fb6819740c6a66bc1ba68eb48d0d07a19f624bb4db0edb3ebc6",
   "count": 88,
   "pages": 1,
   "items": [
@@ -1756,7 +1756,7 @@
     },
     {
       "id": "6a711826ccee0d24443e999e",
-      "title": "L'Antre-Peaux",
+      "title": "L’Antre-Peaux",
       "fullUrl": "/membre/l-antre-peaux",
       "urlId": "l-antre-peaux",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7a27817c-bbbf-4888-88ac-3ed656380463/Geneva_Art_Week-Members_2026-L%27Antre-Peaux.webp",
@@ -1791,7 +1791,7 @@
       "workflowState": 1,
       "publishOn": 1745789846300,
       "addedOn": 1745789846300,
-      "updatedOn": 1785797420612
+      "updatedOn": 1786358793086
     },
     {
       "id": "68248795cdfab25869f2b3a7",
