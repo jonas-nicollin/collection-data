@@ -5,11 +5,93 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-10T08:07:40.452Z",
-  "sourceHash": "2eb3811f343bfa8b5bb248150787169d04ebfd8e927e44bcdbc0737c7388c998",
-  "count": 118,
+  "updatedAt": "2026-08-10T09:57:44.444Z",
+  "sourceHash": "a67e85a26274abbfe7ef4f923812540651a6d58d547333b86c579700a3400ef3",
+  "count": 120,
   "pages": 6,
   "items": [
+    {
+      "id": "6a7989e42b6b236732eead7f",
+      "title": "Une réalité insolite",
+      "fullUrl": "/programme-2026/une-realite-insolite",
+      "urlId": "une-realite-insolite",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786350886173-G35ZBI0TKB3R9TWSWTCG/Geneva_Art_Week-Exhibition_2026-XIPPAS-Une_realite_insolite-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Vernissage: 2026-09-17T18:00",
+        "Membre: Xippas",
+        "Quartier:  Quartier des Bains",
+        "Type: Solo show",
+        "Artiste: Olaf Holzapfel",
+        "Thématique: Art contemporain",
+        "Thématique: Mixed Media",
+        "Date: 2026-09-18/2026-10-31"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2009589,
+        "mapLng": 6.1371084,
+        "markerLat": 46.2009589,
+        "markerLng": 6.1371084,
+        "addressTitle": "XIPPAS",
+        "addressLine1": "Rue des Sablons 6",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 133,
+      "workflowState": 1,
+      "publishOn": 1786350052871,
+      "addedOn": 1786350052871,
+      "updatedOn": 1786355775979
+    },
+    {
+      "id": "6a7985ae9efa502bbd06356c",
+      "title": "Penser par le trait. 250 ans de dessin à Genève",
+      "fullUrl": "/programme-2026/penser-par-le-trait-250-ans-de-dessin-geneve",
+      "urlId": "penser-par-le-trait-250-ans-de-dessin-geneve",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786349007387-V2AY7BKP8IR4U3MB05JO/Geneva_Art_Week-Exhibition_2026-Socie%CC%81te%CC%81_des_Arts_de_Gene%CC%80ve-Penser_par_le_trait-Featured-02.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Thématique: Dessin",
+        "Quartier: Vieille-Ville",
+        "Membre: Société des Arts",
+        "Date: 2026-09-18/2026-12-20",
+        "Vernissage: 2026-09-17T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1986167,
+        "mapLng": 6.1479177,
+        "markerLat": 46.1986167,
+        "markerLng": 6.1479177,
+        "addressTitle": "Société des Arts, Palais de l&#39;Athénée",
+        "addressLine1": "Rue de l&#39;Athénée 2",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 132,
+      "workflowState": 1,
+      "publishOn": 1786348974659,
+      "addedOn": 1786348974659,
+      "updatedOn": 1786355789921
+    },
     {
       "id": "6a77b93f9c2dbb45cf708eda",
       "title": "Dialogue entre art et archéologie",
