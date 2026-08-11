@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "type": "collection-data-manifest",
+  "updatedAt": "2026-08-10T22:47:39.046Z",
+  "files": {
+    "carneiro/projet.json": {
+      "sourceHash": "4b008aec9a199c3bcdcafb0bc6d4d71acc0605cdd0fb79a561d45343f207487b",
+      "updatedAt": "2026-07-31T16:17:59.332Z",
+      "count": 46,
+      "pages": 3
+    },
+    "gaw/article.json": {
+      "sourceHash": "264fc89e3afbfea04ad2b903d3e484236325c588f37215a72c1821b83f0819a2",
+      "updatedAt": "2026-08-10T22:47:39.046Z",
+      "count": 29,
+      "pages": 2
+    },
+    "gaw/index.json": {
+      "sourceHash": "ae8b7f72d4923afd7830b14f5d62800c81ddcd0bfb8d3fa8aa9d402baef66367",
+      "updatedAt": "2026-08-03T11:48:30.926Z",
+      "count": 6,
+      "pages": 1
+    },
+    "gaw/membre.json": {
+      "sourceHash": "0da66465dec795be74e1e8b5101abfad95b22dad02be19bb36b723a4fef4bc63",
+      "updatedAt": "2026-08-10T14:57:48.440Z",
+      "count": 88,
+      "pages": 1
+    },
+    "gaw/programme-2025.json": {
+      "sourceHash": "565abb52cddcbf57a5d5f9378bbeda8b52f85bb3bc3eb41944c72cca36c91e50",
+      "updatedAt": "2026-07-31T16:18:00.030Z",
+      "count": 169,
+      "pages": 1
+    },
+    "gaw/programme-2026.json": {
+      "sourceHash": "7c40f938863fb6c2e04d11c7d0ae95e7a09df4f00a78215622af8e75ef96aff6",
+      "updatedAt": "2026-08-10T14:57:46.936Z",
+      "count": 122,
+      "pages": 7
+    },
+    "pcc/artistes.json": {
+      "sourceHash": "67277eea96ea410da2fefa343a88d2089b7f5e5d472d5eed7305fcfc873b9262",
+      "updatedAt": "2026-07-31T16:18:02.306Z",
+      "count": 38,
+      "pages": 2
+    },
+    "pcc/programme-2026.json": {
+      "sourceHash": "1d908d64ae75d890c42e16acaa6d258d0267ef9e4a604829f58b2d2527951a21",
+      "updatedAt": "2026-07-31T16:18:02.052Z",
+      "count": 52,
+      "pages": 3
+    }
+  }
+}
