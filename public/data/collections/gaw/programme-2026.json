@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T13:37:33.999Z",
-  "sourceHash": "51a630b02b8710f1d4625f74061bb9a295bf28cf19104bc83cf012679b2ce283",
+  "updatedAt": "2026-08-11T13:47:47.044Z",
+  "sourceHash": "de83312c8ee3fa622ef0abd6ef1c388c85135acc166e2128f4635590862d2bc4",
   "count": 123,
   "pages": 7,
   "items": [
@@ -1262,7 +1262,7 @@
     },
     {
       "id": "6a692b651ccf8761e33a544b",
-      "title": "Dia al-Azzawi: Inner Worlds, Under Open Skies",
+      "title": "Dia al-Azzawi – Inner Worlds, Under Open Skies",
       "fullUrl": "/programme-2026/dia-al-azzawi-inner-worlds-under-open-skies",
       "urlId": "dia-al-azzawi-inner-worlds-under-open-skies",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785488366463-JTP3FFDQMQFI0J2I52DK/Geneva_Art_Week-Exhibition_2026-La_Galerie_38-Dia_al_Azzawi-Featured-01.webp",
@@ -1303,7 +1303,7 @@
       "workflowState": 1,
       "publishOn": 1785277285132,
       "addedOn": 1785277285132,
-      "updatedOn": 1785844902350
+      "updatedOn": 1786455518018
     },
     {
       "id": "6a6926ab150c545027ca5d5d",
