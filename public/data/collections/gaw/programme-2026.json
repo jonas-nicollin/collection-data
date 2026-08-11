@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T14:27:36.215Z",
-  "sourceHash": "45ea8172964cec0febca9c531424c2040984c36bcb0adedc9524dcea6da4d3fa",
+  "updatedAt": "2026-08-11T14:37:33.758Z",
+  "sourceHash": "cbec660b5c441692288a90c4cb1edb4277b16ab24911ca83776b9c2c45b1cc5c",
   "count": 124,
   "pages": 7,
   "items": [
@@ -398,7 +398,7 @@
     },
     {
       "id": "6a75a0f9d3aad97d81c2dc6d",
-      "title": "RIFT",
+      "title": "Séverin Guelpa – RIFT",
       "fullUrl": "/programme-2026/rift",
       "urlId": "rift",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/17ae77de-a2ec-400e-8d5f-eb4bda96453d/Geneva_Art_Week-Exhibition_2026-Hiflow-Rift-1.webp",
@@ -437,7 +437,7 @@
       "workflowState": 1,
       "publishOn": 1786093817118,
       "addedOn": 1786093817118,
-      "updatedOn": 1786095522945
+      "updatedOn": 1786458508349
     },
     {
       "id": "6a712bf02c45d17f3cd2a9fd",
@@ -909,7 +909,7 @@
       "workflowState": 1,
       "publishOn": 1785417641800,
       "addedOn": 1785417641800,
-      "updatedOn": 1786348974865
+      "updatedOn": 1786458479952
     },
     {
       "id": "6a6b4e7a930bfd5acb209ee7",
@@ -1923,7 +1923,7 @@
       "workflowState": 1,
       "publishOn": 1785251753825,
       "addedOn": 1785251753825,
-      "updatedOn": 1785486311321
+      "updatedOn": 1786458713541
     },
     {
       "id": "6a68c6283121e01c6bbacb2c",
