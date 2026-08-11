@@ -64,7 +64,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7.1.0
         with:
           commit_message: Update collection data
-          file_pattern: public/data/collections/**/*.json
+          file_pattern: public/data/collections/**/*.json public/data/manifest.json
 
       - name: Report collection sync failures
         if: steps.build.outputs.failed == '1'
