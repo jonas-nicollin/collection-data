@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 const DEFAULT_CONFIG = 'sources/collections/pcc.json';
@@ -241,9 +241,73 @@ async function writeJson(filePath, data) {
   await writeFile(filePath, `${JSON.stringify(data, null, 2)}\n`, 'utf8');
 }
 
+async function listJsonFiles(directory) {
+  let entries;
+
+  try {
+    entries = await readdir(directory, { withFileTypes: true });
+  } catch (error) {
+    if (error?.code === 'ENOENT') return [];
+    throw error;
+  }
+
+  const files = [];
+
+  for (const entry of entries) {
+    const entryPath = path.join(directory, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...await listJsonFiles(entryPath));
+    } else if (entry.isFile() && entry.name.endsWith('.json')) {
+      files.push(entryPath);
+    }
+  }
+
+  return files.sort((a, b) => a.localeCompare(b));
+}
+
+async function buildManifest(outputRoot, manifestPath) {
+  const files = {};
+  const collectionFiles = await listJsonFiles(outputRoot);
+
+  for (const filePath of collectionFiles) {
+    const payload = await readExistingJson(filePath);
+    if (payload?.type !== 'squarespace-collection' || !payload.sourceHash) continue;
+
+    const relativePath = path.relative(outputRoot, filePath).split(path.sep).join('/');
+    files[relativePath] = {
+      sourceHash: payload.sourceHash,
+      updatedAt: payload.updatedAt || null,
+      count: Number(payload.count || 0),
+      pages: Number(payload.pages || 0)
+    };
+  }
+
+  const latestUpdatedAt = Object.values(files)
+    .map((entry) => entry.updatedAt)
+    .filter(Boolean)
+    .sort()
+    .at(-1) || null;
+  const manifest = {
+    schemaVersion: 1,
+    type: 'collection-data-manifest',
+    updatedAt: latestUpdatedAt,
+    files
+  };
+  const existingManifest = await readExistingJson(manifestPath);
+
+  if (JSON.stringify(existingManifest) === JSON.stringify(manifest)) {
+    console.log(`Unchanged ${manifestPath} (${Object.keys(files).length} collections)`);
+    return;
+  }
+
+  await writeJson(manifestPath, manifest);
+  console.log(`Wrote ${manifestPath} (${Object.keys(files).length} collections)`);
+}
+
 async function main() {
   const configPath = process.argv.find((arg) => !arg.startsWith('--') && arg.endsWith('.json')) || DEFAULT_CONFIG;
   const outputRoot = argValue('--output', DEFAULT_OUTPUT_DIR);
+  const manifestPath = argValue('--manifest', path.join(outputRoot, '..', 'manifest.json'));
   const dryRun = process.argv.includes('--dry-run');
 
   const config = JSON.parse(await readFile(configPath, 'utf8'));
@@ -305,6 +369,10 @@ async function main() {
 
     await writeJson(outputPath, payload);
     console.log(`Wrote ${outputPath} (${payload.count} items, ${payload.pages} pages)`);
+  }
+
+  if (!dryRun) {
+    await buildManifest(outputRoot, manifestPath);
   }
 }
 
