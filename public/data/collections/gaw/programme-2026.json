@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T22:07:29.263Z",
-  "sourceHash": "f06e62fe0c91357d7e331a72b0167fb7e2903deccc8fb9cd8ebff19edc3ecdb0",
+  "updatedAt": "2026-08-11T22:22:56.422Z",
+  "sourceHash": "1cba0ca25d00b9b627a1b2e4d98c0155eab38ee733feb7f4d36e64bd1e8f888a",
   "count": 124,
   "pages": 7,
   "items": [
@@ -4442,7 +4442,8 @@
         "Artiste: Margareta DAEPP",
         "Thématique: Céramique",
         "Date: 2026-09-17/2026-09-26",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -4460,7 +4461,7 @@
       "workflowState": 1,
       "publishOn": 1783633551905,
       "addedOn": 1783633551905,
-      "updatedOn": 1785669311815
+      "updatedOn": 1786486933932
     },
     {
       "id": "6a50139a4d4de74032f135cd",
