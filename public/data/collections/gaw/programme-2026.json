@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T13:07:39.213Z",
-  "sourceHash": "643cb83e3338966eb434d79a1b658c7ae91d01f3bc33ebe44cda63e4b57c1cb2",
-  "count": 121,
+  "updatedAt": "2026-08-11T13:17:36.718Z",
+  "sourceHash": "ec3588a0cb5118b5687d3b6591619a83ece3457ca9ed53929e4abe45286b4d04",
+  "count": 122,
   "pages": 7,
   "items": [
     {
@@ -1790,6 +1790,51 @@
       "publishOn": 1785253296379,
       "addedOn": 1785253296379,
       "updatedOn": 1785685615313
+    },
+    {
+      "id": "6a68cbc8927f1347638b5b8c",
+      "title": "Lou Masduraud – Skin to Skin",
+      "fullUrl": "/programme-2026/skin-to-skin",
+      "urlId": "skin-to-skin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/5d8d19af-76cf-4477-a682-5cdd88e1f0fd/Geneva_Art_Week-Event_2026-Skin-to-Skin-Salon-Vert.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Thématique: Sculpture",
+        "Membre: Galerie Mezzanin",
+        "Quartier:  Quartier des Bains",
+        "Thématique: Scène artistique suisse",
+        "Artiste: Lou Masduraud",
+        "Type: Exposition",
+        "Date: 2026-09-18/2026-11-07",
+        "Vernissage: 2026-09-17T18:00",
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 48.8535569,
+        "mapLng": 2.406382,
+        "markerLat": 46.1774056,
+        "markerLng": 6.1445234,
+        "addressTitle": "Galerie Mezzanin",
+        "addressLine1": "Rue des Maraîchers 63",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 94,
+      "workflowState": 1,
+      "publishOn": 1785252808179,
+      "addedOn": 1785252808179,
+      "updatedOn": 1786454038463
     },
     {
       "id": "6a68c7a97c9ebe325d1fac7b",
