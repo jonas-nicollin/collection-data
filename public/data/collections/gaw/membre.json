@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-11T21:26:50.745Z",
-  "sourceHash": "7ebae48c23d67e07642f16b77a35cf72eb4e0f169209912443bcc5b6455a64c1",
-  "count": 88,
+  "updatedAt": "2026-08-11T21:37:48.601Z",
+  "sourceHash": "24f6593af900923e348e9f8112b286827729ef476941534e104edccaefb4c5e1",
+  "count": 89,
   "pages": 1,
   "items": [
     {
@@ -450,7 +450,7 @@
       "workflowState": 1,
       "publishOn": 1747957695570,
       "addedOn": 1747957695570,
-      "updatedOn": 1786373389945
+      "updatedOn": 1786484247377
     },
     {
       "id": "6824878fcdfab25869f2b2a2",
@@ -3108,6 +3108,43 @@
       "publishOn": 1743913320560,
       "addedOn": 1743913320560,
       "updatedOn": 1786461655231
+    },
+    {
+      "id": "6a7b8efeccbf2e287f691eca",
+      "title": "Studiobinichain",
+      "fullUrl": "/membre/studiobinichain",
+      "urlId": "studiobinichain",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/441fd5fe-319e-412c-b42d-9fd9531fb515/Geneva_Art_Week-Members_2026-Studiobinichain-1.webp",
+      "mediaFocalPoint": {
+        "x": 0.5044731400458616,
+        "y": 0.15319328361584716,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Quartier: Carouge",
+        "Membre: Studiobinichain",
+        "Thématique: Scène émergente"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.17923630000001,
+        "mapLng": 6.1361982,
+        "markerLat": 46.17923630000001,
+        "markerLng": 6.1361982,
+        "addressTitle": "Studiobinichain",
+        "addressLine1": "Chemin de la Marbrerie 13",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 99,
+      "workflowState": 1,
+      "publishOn": 1743912430117,
+      "addedOn": 1743912430117,
+      "updatedOn": 1786483954020
     },
     {
       "id": "6a53e706fb742f7c1c34f4ed",
