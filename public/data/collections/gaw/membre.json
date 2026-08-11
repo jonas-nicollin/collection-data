@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-11T13:27:36.070Z",
-  "sourceHash": "8e9ca2a1862c54c80e3656c882ae6480296656a9c353ad0012a295557a1ea476",
+  "updatedAt": "2026-08-11T15:17:39.854Z",
+  "sourceHash": "2bb9193b0f2210d9539dc2c65e955f6d7d9a4ea8488f20afb413f97ec2de3249",
   "count": 88,
   "pages": 1,
   "items": [
@@ -187,7 +187,8 @@
         "Thématique: Céramique",
         "Thématique: Sculpture",
         "Thématique: Art contemporain",
-        "Quartier: Carouge"
+        "Quartier: Carouge",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -205,7 +206,7 @@
       "workflowState": 1,
       "publishOn": 1748302181143,
       "addedOn": 1748302181143,
-      "updatedOn": 1785701383461
+      "updatedOn": 1786461001016
     },
     {
       "id": "6a53e3395b8ea50435dd21de",
@@ -225,7 +226,8 @@
         "Thématique: Sculpture",
         "Thématique: Céramique",
         "Quartier: Carouge",
-        "Membre: Atelier Maison Potter"
+        "Membre: Atelier Maison Potter",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -243,7 +245,7 @@
       "workflowState": 1,
       "publishOn": 1748301053564,
       "addedOn": 1748301053564,
-      "updatedOn": 1783883526569
+      "updatedOn": 1786461039374
     },
     {
       "id": "6a709cf907a7104addba3ad5",
@@ -283,7 +285,7 @@
       "workflowState": 1,
       "publishOn": 1748296913647,
       "addedOn": 1748296913647,
-      "updatedOn": 1786029758266
+      "updatedOn": 1786461061279
     },
     {
       "id": "6824878ecdfab25869f2b296",
@@ -832,7 +834,8 @@
         "Thématique: Céramique",
         "Quartier: Carouge",
         "Thématique: Photographie",
-        "Membre: Espace Jörg Brockmann"
+        "Membre: Espace Jörg Brockmann",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -850,7 +853,7 @@
       "workflowState": 1,
       "publishOn": 1747350707530,
       "addedOn": 1747350707530,
-      "updatedOn": 1785767519511
+      "updatedOn": 1786461113663
     },
     {
       "id": "68248794cdfab25869f2b37b",
@@ -1103,7 +1106,8 @@
         "Thématique: Céramique",
         "Thématique: Bijou contemporain",
         "Thématique: Textile ancien",
-        "Quartier: Carouge"
+        "Quartier: Carouge",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -1121,7 +1125,7 @@
       "workflowState": 1,
       "publishOn": 1746921786583,
       "addedOn": 1746921786583,
-      "updatedOn": 1783882117437
+      "updatedOn": 1786461155258
     },
     {
       "id": "68248791cdfab25869f2b314",
@@ -1223,7 +1227,8 @@
         "Thématique: Dessin",
         "Thématique: Peinture",
         "Thématique: Céramique",
-        "Quartier: Quartier des Bains"
+        "Quartier: Quartier des Bains",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -1241,7 +1246,7 @@
       "workflowState": 1,
       "publishOn": 1746754020733,
       "addedOn": 1746754020733,
-      "updatedOn": 1783882409547
+      "updatedOn": 1786461186151
     },
     {
       "id": "68248792cdfab25869f2b31d",
@@ -1463,7 +1468,8 @@
         "Thématique: Arts appliqués",
         "Thématique: Céramique",
         "Thématique: Bande Dessinée",
-        "Thématique: Illustration"
+        "Thématique: Illustration",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": null,
       "location": {
@@ -1481,7 +1487,7 @@
       "workflowState": 1,
       "publishOn": 1746316800678,
       "addedOn": 1746316800678,
-      "updatedOn": 1783882220910
+      "updatedOn": 1786461228191
     },
     {
       "id": "68248793cdfab25869f2b340",
@@ -1773,7 +1779,8 @@
         "Quartier: Carouge",
         "Thématique: Maroquinerie",
         "Thématique: Artisanat",
-        "Membre: L’Antre-Peaux"
+        "Membre: L’Antre-Peaux",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -1791,7 +1798,7 @@
       "workflowState": 1,
       "publishOn": 1745789846300,
       "addedOn": 1745789846300,
-      "updatedOn": 1786360438959
+      "updatedOn": 1786461277733
     },
     {
       "id": "68248795cdfab25869f2b3a7",
@@ -1854,7 +1861,8 @@
         "Thématique: Sculpture",
         "Thématique: Céramique",
         "Quartier: Carouge",
-        "Membre: L’Échoppe des Arts"
+        "Membre: L’Échoppe des Arts",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -1872,7 +1880,7 @@
       "workflowState": 1,
       "publishOn": 1745708506022,
       "addedOn": 1745708506022,
-      "updatedOn": 1783527657773
+      "updatedOn": 1786461305140
     },
     {
       "id": "68828065b0bcb434942b72d2",
@@ -2553,7 +2561,8 @@
         "Quartier: Carouge",
         "Thématique: Art contemporain",
         "Thématique: Scène artistique suisse",
-        "Membre: NOV Gallery"
+        "Membre: NOV Gallery",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -2571,7 +2580,7 @@
       "workflowState": 1,
       "publishOn": 1744727548680,
       "addedOn": 1744727548680,
-      "updatedOn": 1785768183061
+      "updatedOn": 1786461342931
     },
     {
       "id": "68248797cdfab25869f2b43f",
@@ -2631,7 +2640,8 @@
         "Thématique: Céramique",
         "Thématique: Sculpture",
         "Thématique: Scène artistique suisse",
-        "Quartier: Quartier des Bains"
+        "Quartier: Quartier des Bains",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -2649,7 +2659,7 @@
       "workflowState": 1,
       "publishOn": 1744588586415,
       "addedOn": 1744588586415,
-      "updatedOn": 1783882469530
+      "updatedOn": 1786461369939
     },
     {
       "id": "68248797cdfab25869f2b485",
@@ -2875,7 +2885,8 @@
       "tags": [
         "Thématique: Céramique",
         "Quartier: Carouge",
-        "Membre: Poesis"
+        "Membre: Poesis",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -2893,7 +2904,7 @@
       "workflowState": 1,
       "publishOn": 1744147272543,
       "addedOn": 1744147272543,
-      "updatedOn": 1785796646330
+      "updatedOn": 1786461407580
     },
     {
       "id": "68248793cdfab25869f2b343",
@@ -3114,7 +3125,8 @@
         "Thématique: Sculpture",
         "Thématique: Céramique",
         "Quartier: Carouge",
-        "Membre: Swissceramics"
+        "Membre: Swissceramics",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -3132,7 +3144,7 @@
       "workflowState": 1,
       "publishOn": 1743909126541,
       "addedOn": 1743909126541,
-      "updatedOn": 1785764276131
+      "updatedOn": 1786461437090
     },
     {
       "id": "68248799cdfab25869f2b5aa",
