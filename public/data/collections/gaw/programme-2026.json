@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T21:57:33.834Z",
-  "sourceHash": "195d727563a8715e3fee9781abbedac9e4c2b23019285bc3a5f47287c04e98eb",
+  "updatedAt": "2026-08-11T22:07:29.263Z",
+  "sourceHash": "f06e62fe0c91357d7e331a72b0167fb7e2903deccc8fb9cd8ebff19edc3ecdb0",
   "count": 124,
   "pages": 7,
   "items": [
@@ -98,7 +98,7 @@
       "workflowState": 1,
       "publishOn": 1786365457277,
       "addedOn": 1786365457277,
-      "updatedOn": 1786455219116
+      "updatedOn": 1786485623488
     },
     {
       "id": "6a79906b04b60324bea6091d",
@@ -2941,7 +2941,8 @@
         "Date: 2026-09-16/2026-10-15",
         "Vernissage: 2026-09-16T16:00",
         "Artiste: Xinyi Hu",
-        "Sélection: Art en Vieille-Ville"
+        "Sélection: Art en Vieille-Ville",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -2959,7 +2960,7 @@
       "workflowState": 1,
       "publishOn": 1784150027852,
       "addedOn": 1784150027852,
-      "updatedOn": 1786454962621
+      "updatedOn": 1786486017292
     },
     {
       "id": "6a57f2a266d71f6071e55f47",
