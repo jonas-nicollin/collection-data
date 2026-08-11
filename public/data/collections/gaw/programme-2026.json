@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T13:57:36.066Z",
-  "sourceHash": "9b24ef6af69e3d4327857691e71b9e71c85227b8c2979ea50aaf5041b6df23c5",
+  "updatedAt": "2026-08-11T14:27:36.215Z",
+  "sourceHash": "45ea8172964cec0febca9c531424c2040984c36bcb0adedc9524dcea6da4d3fa",
   "count": 124,
   "pages": 7,
   "items": [
@@ -1436,7 +1436,7 @@
     },
     {
       "id": "6a691c295b96c10d5ba7b8e7",
-      "title": "Pensées sous les nuages – Jérémy Bajulaz",
+      "title": "Jérémy Bajulaz – Pensées sous les nuages",
       "fullUrl": "/programme-2026/jeremy-bajulaz",
       "urlId": "jeremy-bajulaz",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785273394624-4BUGAC2PC6CK3A0L6GKE/Geneva_Art_Week-Exhibition_2026-Ormond_Editions-Jeremy_Bajulaz-Featured-01.webp",
@@ -1473,7 +1473,7 @@
       "workflowState": 1,
       "publishOn": 1785273385742,
       "addedOn": 1785273385742,
-      "updatedOn": 1785757231464
+      "updatedOn": 1786458445025
     },
     {
       "id": "6a6918a0bda8447fddd9fc56",
@@ -2471,7 +2471,7 @@
     },
     {
       "id": "6a5a62cd5689f86b33cd3cd0",
-      "title": "What happens to the Dream when the Dreamer Dies?",
+      "title": "Laure Gonthier – What happens to the Dream when the Dreamer Dies?",
       "fullUrl": "/programme-2026/what-happens-to-the-dream-when-the-dreamer-dies",
       "urlId": "what-happens-to-the-dream-when-the-dreamer-dies",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784308436032-0E7GXPTAY4TZPVKTMC8D/Geneva_Art_Week-Exhibition_2026-Fondation_Bruckner-What_happens_to_the_Dream_when_the_Dreamer_Dies-Featured-01.webp",
@@ -2512,11 +2512,11 @@
       "workflowState": 1,
       "publishOn": 1784308429897,
       "addedOn": 1784308429897,
-      "updatedOn": 1785489075808
+      "updatedOn": 1786458353363
     },
     {
       "id": "6a5a6129f9de534ae1b5558d",
-      "title": "Base",
+      "title": "Sixtine Jacquart – Base",
       "fullUrl": "/programme-2026/base",
       "urlId": "base",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784308240235-NH0L6KVWONGVA4I6LZBJ/Geneva_Art_Week-Exhibition_2026-Fondation_Bruckner-Base-Featured-01.webp",
@@ -2557,7 +2557,7 @@
       "workflowState": 1,
       "publishOn": 1784308009478,
       "addedOn": 1784308009478,
-      "updatedOn": 1785489085631
+      "updatedOn": 1786458325507
     },
     {
       "id": "6a5a5f13621cdc516a5c445c",
@@ -2697,7 +2697,7 @@
     },
     {
       "id": "6a5a4dea93ef786c65d99343",
-      "title": "Intérieurs",
+      "title": "Capucine Pageron – Intérieurs",
       "fullUrl": "/programme-2026/interieurs",
       "urlId": "interieurs",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784304615979-F6LKS67FQRRF8SO5IS15/Geneva_Art_Week-Exhibition_2026-Galerie_Series_Rares-Interieurs-Featured-01.webp",
@@ -2736,7 +2736,7 @@
       "workflowState": 1,
       "publishOn": 1784303082537,
       "addedOn": 1784303082537,
-      "updatedOn": 1785682991133
+      "updatedOn": 1786458292448
     },
     {
       "id": "6a5a4b6c03f0132411378a4b",
@@ -3309,7 +3309,7 @@
     },
     {
       "id": "6a55115731513a7c6eb157a5",
-      "title": "LANDSCAPE VIDEO GAME",
+      "title": "Pascal Greco – LANDSCAPE VIDEO GAME",
       "fullUrl": "/programme-2026/landscape-video-game",
       "urlId": "landscape-video-game",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783959978273-ZTS9JLT64PGF7H98L20J/Geneva_Art_Week-Exhibition_2026-Base_Window-Landscape_Video_Game-Featured-01.webp",
@@ -3348,7 +3348,7 @@
       "workflowState": 1,
       "publishOn": 1783959895721,
       "addedOn": 1783959895721,
-      "updatedOn": 1785679849188
+      "updatedOn": 1786458247659
     },
     {
       "id": "6a550e4d8fcc0051265ad807",
@@ -5016,7 +5016,7 @@
     },
     {
       "id": "6a4ea10807d9df04ffe58c22",
-      "title": "Florian Luthi. Fantômes Météores",
+      "title": "Florian Luthi – Fantômes Météores",
       "fullUrl": "/programme-2026/florian-luthi-fantomes-meteores",
       "urlId": "florian-luthi-fantomes-meteores",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785788619049-FU72GY6P3M65J5D0OHJN/Geneva_Art_Week-Exhibition_2026-Centre_Photographie_Geneve-Florian_Luthi_Fantomes_Meteores-Featured-01.webp",
@@ -5056,7 +5056,7 @@
       "workflowState": 1,
       "publishOn": 1783537928620,
       "addedOn": 1783537928620,
-      "updatedOn": 1785788689195
+      "updatedOn": 1786458195695
     },
     {
       "id": "6a4bce42eb4e700dfde28cdd",
@@ -5190,7 +5190,7 @@
     },
     {
       "id": "6a4bb7c7189f996281d94665",
-      "title": "Marie Ducaté. Simultanés",
+      "title": "Marie Ducaté – Simultanés",
       "fullUrl": "/programme-2026/marie-ducate-simultanes",
       "urlId": "marie-ducate-simultanes",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783347153591-J5PU17UVPS4EOVN81BB1/Geneva_Art_Week-Exhibition_2026-Musee_Ariana-Marie_Ducate_Simultanes-Featured-01.webp",
@@ -5229,7 +5229,7 @@
       "workflowState": 1,
       "publishOn": 1783347143039,
       "addedOn": 1783347143039,
-      "updatedOn": 1785602292692
+      "updatedOn": 1786458173336
     },
     {
       "id": "6a4bb5be29f52d08dd58f0c2",
@@ -5386,7 +5386,7 @@
     },
     {
       "id": "6a4b81a583601f702d731111",
-      "title": "KASEKI NO NIOI / L’odeur des fossiles",
+      "title": "Amélie Patry – KASEKI NO NIOI / L’odeur des fossiles",
       "fullUrl": "/programme-2026/kaseki-no-nioi",
       "urlId": "kaseki-no-nioi",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783333593277-A43SBMZ3JY83TGW6FFKZ/Geneva_Art_Week-Exhibition_2026-Le_Salon_Vert-Kaseki_No_Nioi-Featured-01.webp",
@@ -5427,7 +5427,7 @@
       "workflowState": 1,
       "publishOn": 1783333285600,
       "addedOn": 1783333285600,
-      "updatedOn": 1785601863807
+      "updatedOn": 1786458145235
     },
     {
       "id": "6a4b76d919d5ac7c22f6a5ba",
