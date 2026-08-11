@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T13:27:34.307Z",
-  "sourceHash": "fbd69968b7d58c2f338bf75fcc094b9598d1716560e5a9a314d7c4ce42dec773",
-  "count": 122,
+  "updatedAt": "2026-08-11T13:37:33.999Z",
+  "sourceHash": "51a630b02b8710f1d4625f74061bb9a295bf28cf19104bc83cf012679b2ce283",
+  "count": 123,
   "pages": 7,
   "items": [
     {
@@ -53,6 +53,52 @@
       "publishOn": 1786369939867,
       "addedOn": 1786369939867,
       "updatedOn": 1786369956267
+    },
+    {
+      "id": "6a79c6114c04de421d8b8bff",
+      "title": "El Origen de la Noche",
+      "fullUrl": "/programme-2026/el-origen-de-la-noche",
+      "urlId": "el-origen-de-la-noche",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786365478952-1RJ7Z8NEL1D4362QBKU8/Geneva_Art_Week-Exhibition_2026-Studiobinichain-El_Origen_de_la_Noche-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Quartier: Carouge",
+        "Thématique: Peinture",
+        "Thématique: Art numérique",
+        "Thématique: Photographie",
+        "Artiste: Richard Décaillet",
+        "Artiste: Aimema Úai",
+        "Artiste: Julián Burgos",
+        "Artiste: 4Direction",
+        "Date: 2026-09-18/2026-09-19",
+        "Vernissage: 2026-09-18T19:00",
+        "Membre: Studio Binichain"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.17923630000001,
+        "mapLng": 6.1361982,
+        "markerLat": 46.17923630000001,
+        "markerLng": 6.1361982,
+        "addressTitle": "Studio Binichain",
+        "addressLine1": "Chemin de la Marbrerie 13",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 135,
+      "workflowState": 1,
+      "publishOn": 1786365457277,
+      "addedOn": 1786365457277,
+      "updatedOn": 1786455219116
     },
     {
       "id": "6a79906b04b60324bea6091d",
@@ -867,7 +913,7 @@
     },
     {
       "id": "6a6b4e7a930bfd5acb209ee7",
-      "title": "Flora Icognita",
+      "title": "Flora Incognita",
       "fullUrl": "/programme-2026/flora-icognita",
       "urlId": "flora-icognita",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785417354498-II9HZXITQ3TEFCT8BPJR/Geneva_Art_Week-Exhibition_2026-espaceL-Flora_Icognita-Featured-01.webp",
@@ -911,7 +957,7 @@
       "workflowState": 1,
       "publishOn": 1785417338667,
       "addedOn": 1785417338667,
-      "updatedOn": 1786369725156
+      "updatedOn": 1786455367541
     },
     {
       "id": "6a6b4a3d63b18152e2624909",
@@ -1304,7 +1350,7 @@
     },
     {
       "id": "6a69220b5f6841195a369785",
-      "title": "FUSION",
+      "title": "Aldo Locatelli – FUSION",
       "fullUrl": "/programme-2026/fusion",
       "urlId": "fusion",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785275794895-BAYHUVGNYFD74ZY96C77/Geneva_Art_Week-Exhibition_2026-Espace_Kugler_Gallery-FUSION-Featured-01.webp",
@@ -1343,11 +1389,11 @@
       "workflowState": 1,
       "publishOn": 1785274891309,
       "addedOn": 1785274891309,
-      "updatedOn": 1785686579773
+      "updatedOn": 1786454945513
     },
     {
       "id": "6a691f0f436d344d829e1c26",
-      "title": "Archaeofutura",
+      "title": "Rachel Marks – Archaeofutura",
       "fullUrl": "/programme-2026/archaeofutura",
       "urlId": "archaeofutura",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785274135179-NU565285CCIDVLOITPE9/Geneva_Art_Week-Exhibition_2026-Kree%CC%88mart-Archaeofutura-Featured-01.webp",
@@ -1386,7 +1432,7 @@
       "workflowState": 1,
       "publishOn": 1785274127210,
       "addedOn": 1785274127210,
-      "updatedOn": 1785707828586
+      "updatedOn": 1786454889625
     },
     {
       "id": "6a691c295b96c10d5ba7b8e7",
@@ -1751,7 +1797,7 @@
     },
     {
       "id": "6a68cdb052a76e1018304aa8",
-      "title": "Fragiles",
+      "title": "Gisèle Bonin – Fragiles",
       "fullUrl": "/programme-2026/fragiles",
       "urlId": "fragiles",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785253647205-B5OBCLXHCJ3G6KCIP5SR/Geneva_Art_Week-Exhibition_2026-MABE_Gallery-Fragiles-Featured-01.webp",
@@ -1789,7 +1835,7 @@
       "workflowState": 1,
       "publishOn": 1785253296379,
       "addedOn": 1785253296379,
-      "updatedOn": 1785685615313
+      "updatedOn": 1786454914964
     },
     {
       "id": "6a68cbc8927f1347638b5b8c",
@@ -2384,7 +2430,7 @@
     },
     {
       "id": "6a5a65996839a411e1a47a10",
-      "title": "Pierre la Police, rétrospective",
+      "title": "Pierre la Police – Rétrospective",
       "fullUrl": "/programme-2026/pierre-la-police-retrospective",
       "urlId": "pierre-la-police-retrospective",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784309153114-SU85CIEX2573L2RFXSSC/Geneva_Art_Week-Exhibition_2026-Galerie_Papiers_Gras-Pierre_la_Police_Retrospective-Featured-01.webp",
@@ -2421,7 +2467,7 @@
       "workflowState": 1,
       "publishOn": 1784309145907,
       "addedOn": 1784309145907,
-      "updatedOn": 1785683402602
+      "updatedOn": 1786454869312
     },
     {
       "id": "6a5a62cd5689f86b33cd3cd0",
@@ -2607,7 +2653,7 @@
     },
     {
       "id": "6a5a574c4da9785ff338f5d3",
-      "title": "Mutualisme",
+      "title": "Jan Steenman – Mutualisme",
       "fullUrl": "/programme-2026/mutualisme",
       "urlId": "mutualisme",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784305498019-TMSKK1757HKSNIKI4IGI/Geneva_Art_Week-Exhibition_2026-Olizane_Espace_Art_Contemporain-Mutualisme-Featured-01.webp",
@@ -2647,7 +2693,7 @@
       "workflowState": 1,
       "publishOn": 1784305484277,
       "addedOn": 1784305484277,
-      "updatedOn": 1786360624414
+      "updatedOn": 1786455097790
     },
     {
       "id": "6a5a4dea93ef786c65d99343",
@@ -2782,7 +2828,7 @@
     },
     {
       "id": "6a57fdb38090722e11b78006",
-      "title": "Rokocozeit",
+      "title": "Claire Mayet – Rokocozeit",
       "fullUrl": "/programme-2026/rokocozeit",
       "urlId": "rokocozeit",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784151521552-LJE5MM40VONGLPB9SXOF/Geneva_Art_Week-Exhibition_2026-Le_Labo-Rokocozeit-Featured-01.webp",
@@ -2822,7 +2868,7 @@
       "workflowState": 1,
       "publishOn": 1784151475193,
       "addedOn": 1784151475193,
-      "updatedOn": 1785682328913
+      "updatedOn": 1786455058732
     },
     {
       "id": "6a57fa4675819e7269891e1f",
@@ -2874,7 +2920,7 @@
     },
     {
       "id": "6a57f80bdce3817a4d091bf6",
-      "title": "Between Form and Use, Where Gestures Begin",
+      "title": "Xinyi Hu – Between Form and Use, Where Gestures Begin",
       "fullUrl": "/programme-2026/between-form-and-use-where-gestures-begin",
       "urlId": "between-form-and-use-where-gestures-begin",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784150035782-D5YCMNZR0MSXPKB2A4OC/Geneva_Art_Week-Exhibition_2026-Art_Resonance_Gallery-Between_Form_and_Use_Where_Gestures_Begin-Featured-01.webp",
@@ -2912,11 +2958,11 @@
       "workflowState": 1,
       "publishOn": 1784150027852,
       "addedOn": 1784150027852,
-      "updatedOn": 1785488164258
+      "updatedOn": 1786454962621
     },
     {
       "id": "6a57f2a266d71f6071e55f47",
-      "title": "Small Dance",
+      "title": "Vanessa Riera – Small Dance",
       "fullUrl": "/programme-2026/small-dance",
       "urlId": "small-dance",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784148703242-VCKYLDY27WG4Y1T3R32A/Geneva_Art_Week-Exhibition_2026-Galerie_Polomarco-Small_Dance-Featured-01.webp",
@@ -2956,11 +3002,11 @@
       "workflowState": 1,
       "publishOn": 1784148642310,
       "addedOn": 1784148642310,
-      "updatedOn": 1785261096897
+      "updatedOn": 1786455148610
     },
     {
       "id": "6a57ecf04ba7754fcced3aaa",
-      "title": "Cartographie intérieure",
+      "title": "Fabienne Guyomarch – Cartographie intérieure",
       "fullUrl": "/programme-2026/cartographie-interieure",
       "urlId": "cartographie-interieure",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784147415148-WJ7SL3I777HJ65W6K55N/Geneva_Art_Week-Exhibition_2026-Atelier_Galerie_Kaolin-Cartographie_interieure-Featured-01.webp",
@@ -3000,7 +3046,7 @@
       "workflowState": 1,
       "publishOn": 1784147184314,
       "addedOn": 1784147184314,
-      "updatedOn": 1785701351857
+      "updatedOn": 1786455075490
     },
     {
       "id": "6a57e99f2e2ab15a53776ddf",
@@ -4330,7 +4376,7 @@
     },
     {
       "id": "6a50190d7df0ca35c5ef0a1c",
-      "title": "S.U.R.F Some Unresolved Remaining Feelings",
+      "title": "Martin Hyde – S.U.R.F Some Unresolved Remaining Feelings",
       "fullUrl": "/programme-2026/surf-some-unresolved-remaining-feelings",
       "urlId": "surf-some-unresolved-remaining-feelings",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783634218603-6YNWXFJMBGEMEHUF7YK9/Geneva_Art_Week-Exhibition_2026-Arcadia_Joy_de_Rouvre-SURF-Featured-01.webp",
@@ -4370,7 +4416,7 @@
       "workflowState": 1,
       "publishOn": 1783634189675,
       "addedOn": 1783634189675,
-      "updatedOn": 1785670287792
+      "updatedOn": 1786454982053
     },
     {
       "id": "6a50168f5c3d38684afa7d5b",
@@ -4505,7 +4551,7 @@
     },
     {
       "id": "6a500ca103eca961603dd6f9",
-      "title": "Birds of a feather flock together",
+      "title": "Marie-Josée Comello – Birds of a feather flock together",
       "fullUrl": "/programme-2026/birds-of-a-feather-flock-together",
       "urlId": "birds-of-a-feather-flock-together",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783631116911-OWUESY9T3DDNUO4TQSBI/Geneva_Art_Week-Exhibition_2026-strategies_oblique-Birds_of_a_feather_flock_together-Featured-01.webp",
@@ -4545,7 +4591,7 @@
       "workflowState": 1,
       "publishOn": 1783631009400,
       "addedOn": 1783631009400,
-      "updatedOn": 1785667920189
+      "updatedOn": 1786455000853
     },
     {
       "id": "6a500b55f112e63579e5b865",
@@ -4772,7 +4818,7 @@
     },
     {
       "id": "6a4eacddfcf73362de45d342",
-      "title": "MotherS/Cells_Eggs",
+      "title": "Raphaël Emine – MotherS/Cells_Eggs",
       "fullUrl": "/programme-2026/mothers-cells-eggs",
       "urlId": "mothers-cells-eggs",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783540970200-RGRY3EKS0TSFC9DMDZS0/Geneva_Art_Week-Exhibition_2026-teo_jakob-MotherS_Cells_Eggs-Featured-01.webp",
@@ -4812,7 +4858,7 @@
       "workflowState": 1,
       "publishOn": 1783540957393,
       "addedOn": 1783540957393,
-      "updatedOn": 1785603428094
+      "updatedOn": 1786455041505
     },
     {
       "id": "6a4ea97dd62a154d73c23087",
@@ -5045,7 +5091,8 @@
         "Membre: Centre d'Art Contemporain Genève",
         "Lieu: Le Commun",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Membre: Le Commun"
       ],
       "excerpt": "",
       "location": {
@@ -5063,7 +5110,7 @@
       "workflowState": 1,
       "publishOn": 1783352898630,
       "addedOn": 1783352898630,
-      "updatedOn": 1785788126339
+      "updatedOn": 1786455256722
     },
     {
       "id": "6a4bc793afabb73f86f2ca8a",
