@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T13:47:47.044Z",
-  "sourceHash": "de83312c8ee3fa622ef0abd6ef1c388c85135acc166e2128f4635590862d2bc4",
-  "count": 123,
+  "updatedAt": "2026-08-11T13:57:36.066Z",
+  "sourceHash": "9b24ef6af69e3d4327857691e71b9e71c85227b8c2979ea50aaf5041b6df23c5",
+  "count": 124,
   "pages": 7,
   "items": [
     {
@@ -5428,6 +5428,49 @@
       "publishOn": 1783333285600,
       "addedOn": 1783333285600,
       "updatedOn": 1785601863807
+    },
+    {
+      "id": "6a4b76d919d5ac7c22f6a5ba",
+      "title": "Yuyan Wang",
+      "fullUrl": "/programme-2026/yuyan-wang",
+      "urlId": "yuyan-wang",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783332730385-JA6HIH378KHAQ8AP2KZ0/Geneva_Art_Week-Exhibition_2026-Forde-Yuyan_Wang-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Membre: Forde",
+        "Quartier: Jonction",
+        "Thématique: Art contemporain",
+        "Artiste: Yuyan Wang",
+        "Artiste: Claus Gunti",
+        "Artiste: Giselle’s Books",
+        "Date: 2026-09-13/2026-11-08",
+        "Sélection: Nuit des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2039633,
+        "mapLng": 6.135971,
+        "markerLat": 46.2039633,
+        "markerLng": 6.135971,
+        "addressTitle": "Forde",
+        "addressLine1": "Rue de la Coulouvrenière 11",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 2,
+      "workflowState": 1,
+      "publishOn": 1783330521895,
+      "addedOn": 1783330521895,
+      "updatedOn": 1786456135521
     },
     {
       "id": "6a3955d9adf86433f900c349",
