@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-10T14:57:48.440Z",
-  "sourceHash": "0da66465dec795be74e1e8b5101abfad95b22dad02be19bb36b723a4fef4bc63",
+  "updatedAt": "2026-08-11T13:27:36.070Z",
+  "sourceHash": "8e9ca2a1862c54c80e3656c882ae6480296656a9c353ad0012a295557a1ea476",
   "count": 88,
   "pages": 1,
   "items": [
@@ -2123,7 +2123,6 @@
         "source": 3
       },
       "categories": [
-        "Espace indépendant",
         "Membre invité"
       ],
       "tags": [
@@ -2150,7 +2149,7 @@
       "workflowState": 1,
       "publishOn": 1745566315953,
       "addedOn": 1745566315953,
-      "updatedOn": 1783882280243
+      "updatedOn": 1786454279019
     },
     {
       "id": "68248795cdfab25869f2b3a1",
