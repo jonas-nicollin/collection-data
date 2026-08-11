@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T12:57:33.067Z",
-  "sourceHash": "3ecffedf8237ca953077349d6e80fbb588c6a2c14e3452ff1bf3f242c01aa567",
-  "count": 122,
+  "updatedAt": "2026-08-11T13:07:39.213Z",
+  "sourceHash": "643cb83e3338966eb434d79a1b658c7ae91d01f3bc33ebe44cda63e4b57c1cb2",
+  "count": 121,
   "pages": 7,
   "items": [
     {
@@ -99,7 +99,7 @@
     },
     {
       "id": "6a7989e42b6b236732eead7f",
-      "title": "Une réalité insolite",
+      "title": "Olaf Holzapfel – Une réalité insolite",
       "fullUrl": "/programme-2026/une-realite-insolite",
       "urlId": "une-realite-insolite",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786350886173-G35ZBI0TKB3R9TWSWTCG/Geneva_Art_Week-Exhibition_2026-XIPPAS-Une_realite_insolite-Featured-01.webp",
@@ -138,7 +138,7 @@
       "workflowState": 1,
       "publishOn": 1786350052871,
       "addedOn": 1786350052871,
-      "updatedOn": 1786361097251
+      "updatedOn": 1786453080428
     },
     {
       "id": "6a7985ae9efa502bbd06356c",
@@ -1128,7 +1128,7 @@
     },
     {
       "id": "6a6a6657927d13037b788571",
-      "title": "CORPS&amp;GRAPHIE",
+      "title": "Nina Malo – CORPS&amp;GRAPHIE",
       "fullUrl": "/programme-2026/corps-et-graphie",
       "urlId": "corps-et-graphie",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785358153774-90XF46V8UWNS66JC5CAG/Geneva_Art_Week-Exhibition_2026-LES_INSOLITES-CORPS%26GRAPHIE-Featured-01.webp",
@@ -1168,7 +1168,7 @@
       "workflowState": 1,
       "publishOn": 1785357911137,
       "addedOn": 1785357911137,
-      "updatedOn": 1785686783524
+      "updatedOn": 1786453290580
     },
     {
       "id": "6a6a65073aed5407b13290b4",
@@ -1790,51 +1790,6 @@
       "publishOn": 1785253296379,
       "addedOn": 1785253296379,
       "updatedOn": 1785685615313
-    },
-    {
-      "id": "6a68cbc8927f1347638b5b8c",
-      "title": "Skin to Skin",
-      "fullUrl": "/programme-2026/skin-to-skin",
-      "urlId": "skin-to-skin",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785253006193-AHXTL1P62E0TZKG1GPQA/Geneva_Art_Week-Exhibition_2026-Galerie_Mezzanin-Skin_to_skin-Featured-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.4028726572079173,
-        "y": 0.35715946612100635,
-        "source": 3
-      },
-      "categories": [
-        "Exposition"
-      ],
-      "tags": [
-        "Thématique: Art contemporain",
-        "Thématique: Sculpture",
-        "Membre: Galerie Mezzanin",
-        "Quartier:  Quartier des Bains",
-        "Thématique: Scène artistique suisse",
-        "Artiste: Lou Masduraud",
-        "Type: Exposition",
-        "Date: 2026-09-18/2026-11-07",
-        "Vernissage: 2026-09-17T18:00",
-        "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 48.8535569,
-        "mapLng": 2.406382,
-        "markerLat": 46.1774056,
-        "markerLng": 6.1445234,
-        "addressTitle": "Galerie Mezzanin",
-        "addressLine1": "Rue des Maraîchers 63",
-        "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 94,
-      "workflowState": 1,
-      "publishOn": 1785252808179,
-      "addedOn": 1785252808179,
-      "updatedOn": 1785685572361
     },
     {
       "id": "6a68c7a97c9ebe325d1fac7b",
@@ -3004,7 +2959,7 @@
     },
     {
       "id": "6a57e99f2e2ab15a53776ddf",
-      "title": "Dystopix",
+      "title": "Cédric Delsaux – Dystopix",
       "fullUrl": "/programme-2026/dystopix",
       "urlId": "dystopix",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784146609954-IIDSXQQHJ9F88GITE60N/Geneva_Art_Week-Exhibition_2026-Gutknecht_Gallery-Dystopie-Featured-01.webp",
@@ -3042,7 +2997,7 @@
       "workflowState": 1,
       "publishOn": 1784146335766,
       "addedOn": 1784146335766,
-      "updatedOn": 1785488052702
+      "updatedOn": 1786453246096
     },
     {
       "id": "6a55685bad611a24c1408353",
@@ -4461,7 +4416,7 @@
     },
     {
       "id": "6a500fb5218dbf10dedeb5f1",
-      "title": "Écho",
+      "title": "Gregory Bourilly – Écho",
       "fullUrl": "/programme-2026/echo",
       "urlId": "echo",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783715230547-PPKB5LZLRIYU46E2R2I9/Geneva_Art_Week-Event_Echo.webp",
@@ -4501,7 +4456,7 @@
       "workflowState": 1,
       "publishOn": 1783631797633,
       "addedOn": 1783631797633,
-      "updatedOn": 1785800035031
+      "updatedOn": 1786453180769
     },
     {
       "id": "6a500ca103eca961603dd6f9",
@@ -4549,7 +4504,7 @@
     },
     {
       "id": "6a500b55f112e63579e5b865",
-      "title": "Ce que l’eau garde",
+      "title": "Seline Burn – Ce que l’eau garde",
       "fullUrl": "/programme-2026/ce-que-leau-garde",
       "urlId": "ce-que-leau-garde",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783630744666-4FY9PLB1P4PHRSRY3MN3/Geneva_Art_Week-Exhibition_2026-Wilde-Ce_que_leau_garde-Featured-01.webp",
@@ -4589,7 +4544,7 @@
       "workflowState": 1,
       "publishOn": 1783630677538,
       "addedOn": 1783630677538,
-      "updatedOn": 1785667777024
+      "updatedOn": 1786453136702
     },
     {
       "id": "6a4eda91af61824f6997e5fc",
