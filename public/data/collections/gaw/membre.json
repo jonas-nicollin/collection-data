@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-11T21:37:48.601Z",
-  "sourceHash": "24f6593af900923e348e9f8112b286827729ef476941534e104edccaefb4c5e1",
-  "count": 89,
+  "updatedAt": "2026-08-11T21:57:35.247Z",
+  "sourceHash": "c464ede8fc4ca4208a8b015daccc26956e68e08d5245a1a2b002c6abc11ab429",
+  "count": 90,
   "pages": 1,
   "items": [
     {
@@ -2906,6 +2906,46 @@
       "publishOn": 1744147272543,
       "addedOn": 1744147272543,
       "updatedOn": 1786461407580
+    },
+    {
+      "id": "6a7b9617da582315ee1715b0",
+      "title": "SaSA",
+      "fullUrl": "/membre/sasa",
+      "urlId": "sasa",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783540076105-9AQGGNVNNHYRPCPXOAJA/Geneva_Art_Week-Exhibition_2026-MAMCO-SaSa_Joana_Hadjithomas_Khalil_Joreige-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Institution & Fondation"
+      ],
+      "tags": [
+        "Membre: SaSA",
+        "Quartier: Vieille-Ville",
+        "Thématique: Art contemporain",
+        "Thématique: Interdisciplinarité",
+        "Thématique: Dialogue archéo-art",
+        "Thématique: Projets curatoriaux"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20028629999999,
+        "mapLng": 6.1513522,
+        "markerLat": 46.20028629999999,
+        "markerLng": 6.1513522,
+        "addressTitle": "SaSA",
+        "addressLine1": "Esplanade Théodelinde 1",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 100,
+      "workflowState": 1,
+      "publishOn": 1744146027348,
+      "addedOn": 1744146027348,
+      "updatedOn": 1786485025864
     },
     {
       "id": "68248793cdfab25869f2b343",
