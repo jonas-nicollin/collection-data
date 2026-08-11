@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-11T21:57:35.247Z",
-  "sourceHash": "c464ede8fc4ca4208a8b015daccc26956e68e08d5245a1a2b002c6abc11ab429",
+  "updatedAt": "2026-08-11T22:37:32.731Z",
+  "sourceHash": "719ddf1d2c33b275e4af213f97722468799cac9252e4c769d24f4507a14b895d",
   "count": 90,
   "pages": 1,
   "items": [
@@ -2136,11 +2136,11 @@
       "tags": [
         "Thématique: Art contemporain",
         "Thématique: Sculpture",
-        "Membre: Lesa insolites",
         "Thématique: Céramique",
         "Thématique: Bijou contemporain",
         "Quartier: Carouge",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Membre: Les Insolites"
       ],
       "excerpt": "",
       "location": {
@@ -2158,7 +2158,7 @@
       "workflowState": 1,
       "publishOn": 1745566315953,
       "addedOn": 1745566315953,
-      "updatedOn": 1786461585752
+      "updatedOn": 1786487565438
     },
     {
       "id": "68248795cdfab25869f2b3a1",
