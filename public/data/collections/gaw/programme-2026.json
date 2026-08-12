@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-11T22:22:56.422Z",
-  "sourceHash": "1cba0ca25d00b9b627a1b2e4d98c0155eab38ee733feb7f4d36e64bd1e8f888a",
+  "updatedAt": "2026-08-12T13:37:33.090Z",
+  "sourceHash": "ac4e557f17b16b7a92d0296bfd0d3996ede5b4c692416e78e32d0cc1daa76177",
   "count": 124,
   "pages": 7,
   "items": [
@@ -4839,11 +4839,11 @@
         "Type: Solo show",
         "Thématique: Céramique",
         "Thématique: Scène émergente",
-        "Vernissage: 2026-09-18T18:00",
         "Quartier: Carouge",
         "Artiste: Raphaël Emine",
         "Sélection: Parcours Céramique Carouge",
-        "Membre: Teo Jakob"
+        "Membre: Teo Jakob",
+        "Vernissage: 2026-09-19T12:00"
       ],
       "excerpt": "",
       "location": {
@@ -4861,7 +4861,7 @@
       "workflowState": 1,
       "publishOn": 1783540957393,
       "addedOn": 1783540957393,
-      "updatedOn": 1786455041505
+      "updatedOn": 1786541838880
     },
     {
       "id": "6a4ea97dd62a154d73c23087",
