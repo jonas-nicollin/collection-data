@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-12T13:47:34.432Z",
-  "sourceHash": "c63d1676e49108abfea001546bf53091cd12721c66621e5c252da7e41a274543",
+  "updatedAt": "2026-08-12T15:17:33.488Z",
+  "sourceHash": "ee7074c13c638024effbe184b0f9e1f24b13c1a855344abca24613efaef1102e",
   "count": 124,
   "pages": 7,
   "items": [
@@ -4510,7 +4510,7 @@
     },
     {
       "id": "6a500fb5218dbf10dedeb5f1",
-      "title": "Gregory Bourilly – Écho",
+      "title": "Gregory Bourrilly – Écho",
       "fullUrl": "/programme-2026/echo",
       "urlId": "echo",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783715230547-PPKB5LZLRIYU46E2R2I9/Geneva_Art_Week-Event_Echo.webp",
@@ -4550,7 +4550,7 @@
       "workflowState": 1,
       "publishOn": 1783631797633,
       "addedOn": 1783631797633,
-      "updatedOn": 1786453180769
+      "updatedOn": 1786547251359
     },
     {
       "id": "6a500ca103eca961603dd6f9",
