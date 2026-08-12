@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-12T15:17:33.488Z",
-  "sourceHash": "ee7074c13c638024effbe184b0f9e1f24b13c1a855344abca24613efaef1102e",
+  "updatedAt": "2026-08-12T21:07:31.298Z",
+  "sourceHash": "ef623384e09009fca9d278928423ac2b17d3afc9bf420330402bd4fae089d767",
   "count": 124,
   "pages": 7,
   "items": [
@@ -80,7 +80,7 @@
         "Artiste: 4Direction",
         "Date: 2026-09-18/2026-09-19",
         "Vernissage: 2026-09-18T19:00",
-        "Membre: Studio Binichain"
+        "Membre: Studiobinichain"
       ],
       "excerpt": "",
       "location": {
@@ -98,7 +98,7 @@
       "workflowState": 1,
       "publishOn": 1786365457277,
       "addedOn": 1786365457277,
-      "updatedOn": 1786485623488
+      "updatedOn": 1786568476818
     },
     {
       "id": "6a79906b04b60324bea6091d",
