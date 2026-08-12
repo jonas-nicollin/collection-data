@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-08-12T00:17:31.662Z",
-  "sourceHash": "47e16bc15404a03726dc91b5bee42ba45413aaa6cbed0c4ae6d35d45ebf1afe8",
+  "updatedAt": "2026-08-12T21:37:36.586Z",
+  "sourceHash": "f419fab4c43973d7d1fbab2d59bf02af22b9b732b1ba7e2a97d8f30f101ba21d",
   "count": 29,
   "pages": 2,
   "items": [
@@ -197,7 +197,7 @@
       "workflowState": 1,
       "publishOn": 1779458328900,
       "addedOn": 1779458328900,
-      "updatedOn": 1781891241491
+      "updatedOn": 1786570399263
     },
     {
       "id": "6a0f880682b392465d441a93",
