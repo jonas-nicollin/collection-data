@@ -5,11 +5,62 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-14T23:07:29.269Z",
-  "sourceHash": "ddef1b98dde93167a8caa33d40ad7b068239411719c96ab1d75a03095bf6d010",
-  "count": 127,
+  "updatedAt": "2026-08-14T23:27:30.529Z",
+  "sourceHash": "80d4e25c9e90a52d97f3dfbf7cd7c1d83ef349967daecb75662b4c036e9783e6",
+  "count": 128,
   "pages": 7,
   "items": [
+    {
+      "id": "6a7ea8c2a4d9a509d7e6c6a5",
+      "title": "Collection actuelle",
+      "fullUrl": "/programme-2026/opera-gallery-collection-actuelle",
+      "urlId": "opera-gallery-collection-actuelle",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786685797000-JIUDNCUH56MQV7E0K5QX/Geneva_Art_Week-Exhibition_2026-Opera_Gallery-TBA-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Quartier: Vieille-Ville",
+        "Type: Exposition",
+        "Thématique: Art moderne",
+        "Membre: Opera Gallery",
+        "Artiste: Marc Chagall",
+        "Artiste: Pablo Picasso",
+        "Artiste: Jean Dubuffet",
+        "Artiste: Willem de Kooning",
+        "Artiste: Sam Francis",
+        "Artiste: Manolo Valdés",
+        "Artiste: Juan Genovés",
+        "Artiste: Ron Arad",
+        "Artiste: Pablo Atchugarry",
+        "Artiste: Andy Denzler",
+        "Artiste: Fred Eerdekens",
+        "Date: 2026-08-11/2026-09-12"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2031219,
+        "mapLng": 6.1497429,
+        "markerLat": 46.2050639,
+        "markerLng": 6.159070600000001,
+        "addressTitle": "Opera Gallery",
+        "addressLine1": "Place de Longemalle 10-12",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 140,
+      "workflowState": 1,
+      "publishOn": 1786685634305,
+      "addedOn": 1786685634305,
+      "updatedOn": 1786749779374
+    },
     {
       "id": "6a7ea7b417d2d66ebcb772f6",
       "title": "Rammellzee – Selected Works: 1983–1991",
