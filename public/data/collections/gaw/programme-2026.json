@@ -5,11 +5,149 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-14T05:07:30.581Z",
-  "sourceHash": "44bd230da0aaae21284ce0a47bd52410edfb4330d008bcb8e557f6e1b09104e2",
-  "count": 124,
+  "updatedAt": "2026-08-14T23:07:29.269Z",
+  "sourceHash": "ddef1b98dde93167a8caa33d40ad7b068239411719c96ab1d75a03095bf6d010",
+  "count": 127,
   "pages": 7,
   "items": [
+    {
+      "id": "6a7ea7b417d2d66ebcb772f6",
+      "title": "Rammellzee – Selected Works: 1983–1991",
+      "fullUrl": "/programme-2026/rammellzee-selected-works-1983-1991",
+      "urlId": "rammellzee-selected-works-1983-1991",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786685378311-J6Z1DPAHMYP92WUVI9EO/Geneva_Art_Week-Exhibition_2026-Sebastien_Bertrand-RAMMELLZEE_Selected_Works_1983_1991-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Type: Solo show",
+        "Quartier: Eaux-Vives Cité",
+        "Artiste: Rammellzee",
+        "Date: 2026-06-05/2026-09-21",
+        "Membre: Galerie Sébastien Bertrand"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050639,
+        "mapLng": 6.159070600000001,
+        "markerLat": 46.2050639,
+        "markerLng": 6.159070600000001,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "Rue Cécile-Biéler-Butticaz 16",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 139,
+      "workflowState": 1,
+      "publishOn": 1786685364902,
+      "addedOn": 1786685364902,
+      "updatedOn": 1786748772016
+    },
+    {
+      "id": "6a7ea21098a9b66d07607bb3",
+      "title": "Brave la nuit / poems for ruptures / نعبرُ الليل",
+      "fullUrl": "/programme-2026/brave-la-nuit-poems-for-ruptures",
+      "urlId": "brave-la-nuit-poems-for-ruptures",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786684025362-ZQFJFO3IHVAVB0XQNGZP/brave-la-nuit_web-banner.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Quartier:  Quartier des Bains",
+        "Thématique: Art contemporain",
+        "Artiste: Alfatih",
+        "Artiste: Omar Ba",
+        "Artiste: Sarah Benslimane",
+        "Artiste: Carla Barchini",
+        "Artiste: Sabrina Fernández Casas",
+        "Artiste: Ife Day",
+        "Artiste: Sandar Tun Tun",
+        "Artiste: Reema Nubani",
+        "Artiste: Dina Mimi",
+        "Artiste: Jeanne Tara",
+        "Artiste: Participant·e·x·s de l’atelier Reclaiming",
+        "Artiste: Asma Barchiche",
+        "Artiste: Catol Texeira",
+        "Artiste: Fehras Publishing Practices",
+        "Artiste: Vista Eskandari",
+        "Artiste: Boti Behrouz",
+        "Artiste: Rayya Badran",
+        "Date: 2026-09-17/2026-12-13",
+        "Vernissage: 2026-09-17T18:00",
+        "Membre: FMAC – Fonds d'art contemporain de la Ville de Genève"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2025598,
+        "mapLng": 6.1350337,
+        "markerLat": 46.2025598,
+        "markerLng": 6.1350337,
+        "addressTitle": "FMAC – Fonds d&#39;art contemporain de la Ville de Genève",
+        "addressLine1": "Chemin du 23-Août 5",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 138,
+      "workflowState": 1,
+      "publishOn": 1786683920980,
+      "addedOn": 1786683920980,
+      "updatedOn": 1786748532364
+    },
+    {
+      "id": "6a7ea08fb9d71a6053b70eb8",
+      "title": "Anne Breton – Présences imaginaires",
+      "fullUrl": "/programme-2026/presences-imaginaires",
+      "urlId": "presences-imaginaires",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786683627496-YA6TQDYDJPIEA7YEULP6/Geneva_Art_Week-Exhibition_2026-Galerie_h-Pre%CC%81sences_imaginaires-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.4438272517152364,
+        "y": 0.14723280101822878,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Quartier: Carouge",
+        "Artiste: Anne Breton",
+        "Thématique: Céramique",
+        "Membre: Galerie h",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1854849,
+        "mapLng": 6.1403136,
+        "markerLat": 46.17923630000001,
+        "markerLng": 6.1361982,
+        "addressTitle": "Galerie h",
+        "addressLine1": "Rue Saint-Victor 21",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 137,
+      "workflowState": 1,
+      "publishOn": 1786683535539,
+      "addedOn": 1786683535539,
+      "updatedOn": 1786748317313
+    },
     {
       "id": "6a79d4ad1caa852c2960d385",
       "title": "Meet the artists over Mimosas",

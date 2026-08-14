@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-08-14T05:07:30.581Z",
+  "updatedAt": "2026-08-14T23:07:29.269Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "4b008aec9a199c3bcdcafb0bc6d4d71acc0605cdd0fb79a561d45343f207487b",
@@ -34,9 +34,9 @@
       "pages": 1
     },
     "gaw/programme-2026.json": {
-      "sourceHash": "44bd230da0aaae21284ce0a47bd52410edfb4330d008bcb8e557f6e1b09104e2",
-      "updatedAt": "2026-08-14T05:07:30.581Z",
-      "count": 124,
+      "sourceHash": "ddef1b98dde93167a8caa33d40ad7b068239411719c96ab1d75a03095bf6d010",
+      "updatedAt": "2026-08-14T23:07:29.269Z",
+      "count": 127,
       "pages": 7
     },
     "pcc/artistes.json": {
