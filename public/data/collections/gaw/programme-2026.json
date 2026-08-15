@@ -5,11 +5,51 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-14T23:27:30.529Z",
-  "sourceHash": "80d4e25c9e90a52d97f3dfbf7cd7c1d83ef349967daecb75662b4c036e9783e6",
-  "count": 128,
+  "updatedAt": "2026-08-15T20:37:25.665Z",
+  "sourceHash": "9d0664aea4913e4e4590bf7c4737ca37ff1763a2b84aad2015d39bd7ac5b9368",
+  "count": 130,
   "pages": 7,
   "items": [
+    {
+      "id": "6a80c8f33e4c896de895393b",
+      "title": "Visite guidée gratuite de l’exposition en cours",
+      "fullUrl": "/programme-2026/visite-guidee-gratuite-de-l-exposition-en-cours",
+      "urlId": "visite-guidee-gratuite-de-l-exposition-en-cours",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786825402024-PY65MXQILO827YCNGM21/Geneva_Art_Week-Event_2026-FMAC-Visite-guide%CC%81e-1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Quartier:  Quartier des Bains",
+        "Thématique: Art contemporain",
+        "Membre: FMAC – Fonds d'art contemporain de la Ville de Genève",
+        "Intervenants: Médiateur-trice et historien-ne de l'art du FMAC",
+        "Date: 2026-09-20T15:00",
+        "Type: Événement"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2025598,
+        "mapLng": 6.1350337,
+        "markerLat": 46.2025598,
+        "markerLng": 6.1350337,
+        "addressTitle": "FMAC – Fonds d&#39;art contemporain de la Ville de Genève",
+        "addressLine1": "Chemin du 23-Août 5",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 141,
+      "workflowState": 1,
+      "publishOn": 1786824947622,
+      "addedOn": 1786824947622,
+      "updatedOn": 1786825677132
+    },
     {
       "id": "6a7ea8c2a4d9a509d7e6c6a5",
       "title": "Collection actuelle",
@@ -433,7 +473,6 @@
         "Thématique: Art contemporain",
         "Membre: MAMCO",
         "Quartier: Eaux-Vives Cité",
-        "Lieu: SaSA - Site archéologique Saint-Antoine, Genève",
         "Sélection: Art en Vieille-Ville",
         "Type: Événement",
         "Intervenante: Cindy Dulac",
@@ -441,7 +480,7 @@
         "Thématique: Vidéo",
         "Thématique: Sculpture",
         "Thématique: Mixed Media",
-        "Membre: SaSA"
+        "Membre: SaSA – Site archéologique Saint-Antoine"
       ],
       "excerpt": "",
       "location": {
@@ -450,8 +489,8 @@
         "mapLng": 6.1513522,
         "markerLat": 46.1999836,
         "markerLng": 6.1449584,
-        "addressTitle": "SaSA – Site archéologique Saint-Antoine, Genève",
-        "addressLine1": "Esplanade Theodelinde 1",
+        "addressTitle": "",
+        "addressLine1": "Esplanade Théodelinde 1",
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
@@ -459,7 +498,7 @@
       "workflowState": 1,
       "publishOn": 1786231103492,
       "addedOn": 1786231103492,
-      "updatedOn": 1786485168765
+      "updatedOn": 1786826222203
     },
     {
       "id": "6a77b4cf794fbb61e0a89899",
@@ -2884,6 +2923,50 @@
       "publishOn": 1784305484277,
       "addedOn": 1784305484277,
       "updatedOn": 1786455097790
+    },
+    {
+      "id": "6a5a553309e76b531054f160",
+      "title": "Lilian Bourgeat",
+      "fullUrl": "/programme-2026/lilian-bourgeat",
+      "urlId": "lilian-bourgeat",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784305073348-FOGGKI5ETGLKQYF8VAY3/Geneva_Art_Week-Exhibition_2026-galerie_lange_pult-Lilian_Bourgeat-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Artiste: Lilian Bourgeat",
+        "Membre: Galerie Lange + Pult",
+        "Thématique: Sculpture",
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains",
+        "Date: 2026-09-17/2026-11-07",
+        "Vernissage: 2026-09-17T18:00",
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1983213,
+        "mapLng": 6.137031299999999,
+        "markerLat": 46.1983213,
+        "markerLng": 6.137031299999999,
+        "addressTitle": " Galerie lange &#43; pult",
+        "addressLine1": "Rue des Bains 22",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 72,
+      "workflowState": 1,
+      "publishOn": 1784304947556,
+      "addedOn": 1784304947556,
+      "updatedOn": 1786825822570
     },
     {
       "id": "6a5a4dea93ef786c65d99343",

@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-11T22:37:32.731Z",
-  "sourceHash": "719ddf1d2c33b275e4af213f97722468799cac9252e4c769d24f4507a14b895d",
+  "updatedAt": "2026-08-15T20:37:26.666Z",
+  "sourceHash": "e99cc5b05806718d1f49bcf27d2a284400c0f6869d11e94fa61b576f72ef22a0",
   "count": 90,
   "pages": 1,
   "items": [
@@ -2922,12 +2922,12 @@
         "Institution & Fondation"
       ],
       "tags": [
-        "Membre: SaSA",
         "Quartier: Vieille-Ville",
         "Thématique: Art contemporain",
         "Thématique: Interdisciplinarité",
         "Thématique: Dialogue archéo-art",
-        "Thématique: Projets curatoriaux"
+        "Thématique: Projets curatoriaux",
+        "Membre: SaSA – Site archéologique Saint-Antoine"
       ],
       "excerpt": null,
       "location": {
@@ -2945,7 +2945,7 @@
       "workflowState": 1,
       "publishOn": 1744146027348,
       "addedOn": 1744146027348,
-      "updatedOn": 1786485025864
+      "updatedOn": 1786826012709
     },
     {
       "id": "68248793cdfab25869f2b343",
