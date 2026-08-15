@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-15T20:37:26.666Z",
-  "sourceHash": "e99cc5b05806718d1f49bcf27d2a284400c0f6869d11e94fa61b576f72ef22a0",
+  "updatedAt": "2026-08-15T20:47:31.857Z",
+  "sourceHash": "ab04b8a7a0eadffc51ed7622cdc385ac63ab0490b2febde21e4034b8212a600a",
   "count": 90,
   "pages": 1,
   "items": [
@@ -2937,7 +2937,7 @@
         "markerLat": 46.20028629999999,
         "markerLng": 6.1513522,
         "addressTitle": "SaSA",
-        "addressLine1": "Esplanade Théodelinde 1",
+        "addressLine1": "Esplanade Théodelinde",
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
@@ -2945,7 +2945,7 @@
       "workflowState": 1,
       "publishOn": 1744146027348,
       "addedOn": 1744146027348,
-      "updatedOn": 1786826012709
+      "updatedOn": 1786826549417
     },
     {
       "id": "68248793cdfab25869f2b343",

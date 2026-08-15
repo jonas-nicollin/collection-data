@@ -5,11 +5,56 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-15T20:37:25.665Z",
-  "sourceHash": "9d0664aea4913e4e4590bf7c4737ca37ff1763a2b84aad2015d39bd7ac5b9368",
-  "count": 130,
+  "updatedAt": "2026-08-15T20:47:30.857Z",
+  "sourceHash": "03d744ddfec0c30a77acaac48c4f43807bffe1eeaa4109e7cee473b5b0b41117",
+  "count": 131,
   "pages": 7,
   "items": [
+    {
+      "id": "6a80ce0ee878c4281eb3f6c0",
+      "title": "Dialogue entre art et archéologie",
+      "fullUrl": "/programme-2026/dialogue-entre-art-et-archeologie-nh8d3",
+      "urlId": "dialogue-entre-art-et-archeologie-nh8d3",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783539635600-XB9Y05PAV4Q4FR89I1G2/Geneva_Art_Week-Exhibition_2026-MAMCO-SaSa_Joana_Hadjithomas_Khalil_Joreige-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Membre: MAMCO",
+        "Quartier: Eaux-Vives Cité",
+        "Sélection: Art en Vieille-Ville",
+        "Type: Événement",
+        "Intervenante: Cindy Dulac",
+        "Thématique: Vidéo",
+        "Thématique: Sculpture",
+        "Thématique: Mixed Media",
+        "Membre: SaSA – Site archéologique Saint-Antoine",
+        "Date: 2026-09-16T18:45"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20028629999999,
+        "mapLng": 6.1513522,
+        "markerLat": 46.1999836,
+        "markerLng": 6.1449584,
+        "addressTitle": "",
+        "addressLine1": "Esplanade Théodelinde",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 142,
+      "workflowState": 1,
+      "publishOn": 1786826254995,
+      "addedOn": 1786826254995,
+      "updatedOn": 1786826427543
+    },
     {
       "id": "6a80c8f33e4c896de895393b",
       "title": "Visite guidée gratuite de l’exposition en cours",
@@ -81,7 +126,8 @@
         "Artiste: Pablo Atchugarry",
         "Artiste: Andy Denzler",
         "Artiste: Fred Eerdekens",
-        "Date: 2026-08-11/2026-09-12"
+        "Date: 2026-08-11/2026-09-12",
+        "Sélection: Art en Vieille-Ville"
       ],
       "excerpt": "",
       "location": {
@@ -99,7 +145,7 @@
       "workflowState": 1,
       "publishOn": 1786685634305,
       "addedOn": 1786685634305,
-      "updatedOn": 1786749779374
+      "updatedOn": 1786826744823
     },
     {
       "id": "6a7ea7b417d2d66ebcb772f6",
@@ -178,7 +224,8 @@
         "Artiste: Rayya Badran",
         "Date: 2026-09-17/2026-12-13",
         "Vernissage: 2026-09-17T18:00",
-        "Membre: FMAC – Fonds d'art contemporain de la Ville de Genève"
+        "Membre: FMAC – Fonds d'art contemporain de la Ville de Genève",
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -196,7 +243,7 @@
       "workflowState": 1,
       "publishOn": 1786683920980,
       "addedOn": 1786683920980,
-      "updatedOn": 1786748532364
+      "updatedOn": 1786826695245
     },
     {
       "id": "6a7ea08fb9d71a6053b70eb8",
@@ -219,7 +266,8 @@
         "Thématique: Céramique",
         "Membre: Galerie h",
         "Date: 2026-09-19/2026-09-27",
-        "Vernissage: 2026-09-19T11:30"
+        "Vernissage: 2026-09-19T11:30",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -237,7 +285,7 @@
       "workflowState": 1,
       "publishOn": 1786683535539,
       "addedOn": 1786683535539,
-      "updatedOn": 1786748317313
+      "updatedOn": 1786826755919
     },
     {
       "id": "6a79d4ad1caa852c2960d385",
@@ -490,7 +538,7 @@
         "markerLat": 46.1999836,
         "markerLng": 6.1449584,
         "addressTitle": "",
-        "addressLine1": "Esplanade Théodelinde 1",
+        "addressLine1": "Esplanade Théodelinde",
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
@@ -498,7 +546,7 @@
       "workflowState": 1,
       "publishOn": 1786231103492,
       "addedOn": 1786231103492,
-      "updatedOn": 1786826222203
+      "updatedOn": 1786826433002
     },
     {
       "id": "6a77b4cf794fbb61e0a89899",
@@ -5222,9 +5270,8 @@
         "Thématique: Art contemporain",
         "Membre: MAMCO",
         "Quartier: Eaux-Vives Cité",
-        "Lieu: SaSA - Site archéologique Saint-Antoine, Genève",
         "Sélection: Art en Vieille-Ville",
-        "Membre: SaSA"
+        "Membre: SaSA – Site archéologique Saint-Antoine"
       ],
       "excerpt": "",
       "location": {
@@ -5233,8 +5280,8 @@
         "mapLng": 6.1513522,
         "markerLat": 46.1999836,
         "markerLng": 6.1449584,
-        "addressTitle": "SaSA – Site archéologique Saint-Antoine, Genève",
-        "addressLine1": "Esplanade Theodelinde 1",
+        "addressTitle": "",
+        "addressLine1": "Esplanade Théodelinde",
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
@@ -5242,7 +5289,7 @@
       "workflowState": 1,
       "publishOn": 1783539286654,
       "addedOn": 1783539286654,
-      "updatedOn": 1786485198720
+      "updatedOn": 1786826416319
     },
     {
       "id": "6a4ea4032edcd54816726cc2",
