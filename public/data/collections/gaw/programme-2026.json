@@ -5,11 +5,65 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-17T20:58:13.409Z",
-  "sourceHash": "fd1df61fa022c21b959c2085319eec10a2410273b58b0d572f1eb48715329707",
-  "count": 132,
+  "updatedAt": "2026-08-17T21:18:16.251Z",
+  "sourceHash": "a47fbd6b33ab03401df128b7b7784c5d46252b3c043c7370b93f9d7c9d1efac1",
+  "count": 133,
   "pages": 7,
   "items": [
+    {
+      "id": "6a834b534d93f9381d399b20",
+      "title": "Design Continuum",
+      "fullUrl": "/programme-2026/design-continuum",
+      "urlId": "design-continuum",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786989406428-YM18R5WG7YUCZTJM0HWW/Geneva_Art_Week-Exhibition_2026-Domum_Gallery-Design_Continuum-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Quartier: Quartier des Bains",
+        "Type: Exposition",
+        "Thématique: Arts Décoratifs du XXe siècle",
+        "Vernissage: 2026-09-17T18:00",
+        "Artiste: Antoine Philippon",
+        "Artiste: Jacqueline Lecoq",
+        "Artiste: Finn Juhl",
+        "Artiste: Gian Franco Frattini",
+        "Artiste: Martin Eisler",
+        "Artiste: Faye Toogood",
+        "Artiste: Clément Thévenot",
+        "Artiste: Palma",
+        "Artiste: StudioPepe",
+        "Artiste: Domingos Totora",
+        "Membre: Domum",
+        "Date: 2026-09-17/2026-11-11",
+        "Thématique: Sculpture",
+        "Sélection: Nuit des Bains",
+        "Artiste: Tobia Scarpa"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20092409999999,
+        "mapLng": 6.137485799999999,
+        "markerLat": 46.20092409999999,
+        "markerLng": 6.137485799999999,
+        "addressTitle": "Domum",
+        "addressLine1": "Rue des Bains 61",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 143,
+      "workflowState": 1,
+      "publishOn": 1786989395113,
+      "addedOn": 1786989395113,
+      "updatedOn": 1787001052896
+    },
     {
       "id": "6a80ce0ee878c4281eb3f6c0",
       "title": "Dialogue entre art et archéologie",
