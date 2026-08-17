@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-15T20:47:31.857Z",
-  "sourceHash": "ab04b8a7a0eadffc51ed7622cdc385ac63ab0490b2febde21e4034b8212a600a",
+  "updatedAt": "2026-08-17T21:08:17.765Z",
+  "sourceHash": "223d9ca613c9d12712e6c7ff82eb086394902446fe870ccb6a9d9e3b2a6fa639",
   "count": 90,
   "pages": 1,
   "items": [
@@ -685,7 +685,7 @@
         "mapLng": 6.137485799999999,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "DOMUM",
+        "addressTitle": "Domum",
         "addressLine1": "Rue des Bains 61",
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
@@ -694,7 +694,7 @@
       "workflowState": 1,
       "publishOn": 1747526400968,
       "addedOn": 1747526400968,
-      "updatedOn": 1782198044713
+      "updatedOn": 1787000667138
     },
     {
       "id": "68248790cdfab25869f2b2cb",
