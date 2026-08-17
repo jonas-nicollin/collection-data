@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-17T14:17:26.251Z",
-  "sourceHash": "7aea5e46277f5f1bc588035833625e74d23a4344c61f9176405913c143308d5d",
+  "updatedAt": "2026-08-17T14:47:37.001Z",
+  "sourceHash": "d5ad72d1d99fd6cb715902496ed34619ef2115a71e11b3f9d97958fc11dd0b64",
   "count": 132,
   "pages": 7,
   "items": [
@@ -1968,8 +1968,8 @@
       "urlId": "la-chair-et-le-siphon",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785254862574-PX0VHVR6JAR8RX2P3WWF/Geneva_Art_Week-Exhibition_2026-Musee_dartet_dhistoire-La_Chair_et_le_siphon-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.48299907026165495,
-        "y": 0.8482931820295787,
+        "x": 0.4877504067178735,
+        "y": 0.8973024046024312,
         "source": 3
       },
       "categories": [
@@ -2001,7 +2001,7 @@
       "workflowState": 1,
       "publishOn": 1785254855637,
       "addedOn": 1785254855637,
-      "updatedOn": 1785713034525
+      "updatedOn": 1786977381052
     },
     {
       "id": "6a68d0cdd93c4468a42cb9cf",
@@ -2166,8 +2166,8 @@
       "urlId": "representation",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785252335185-LJC5JR3ARJW5RJ5VUKPA/Geneva_Art_Week-Exhibition_2026-Wisteria-Representation-Featured-01.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5049910726511126,
+        "y": 0.3912879788717356,
         "source": 3
       },
       "categories": [
@@ -2211,7 +2211,7 @@
       "workflowState": 1,
       "publishOn": 1785252152442,
       "addedOn": 1785252152442,
-      "updatedOn": 1786975345465
+      "updatedOn": 1786977366417
     },
     {
       "id": "6a68c7a97c9ebe325d1fac7b",
