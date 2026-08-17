@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-17T22:08:13.622Z",
-  "sourceHash": "94545c4eb7f8affbfe0c01d449ab7f678928d1534f87d6138d007be32df5afc9",
+  "updatedAt": "2026-08-17T22:28:12.755Z",
+  "sourceHash": "5f552304c2d03ea0239e6607a273829f2b43d9d1faf5cd3e3612e4eaf600b440",
   "count": 133,
   "pages": 7,
   "items": [
@@ -4854,7 +4854,7 @@
       "title": "Margareta Daepp – Urbain",
       "fullUrl": "/programme-2026/margareta-daepp-urbain",
       "urlId": "margareta-daepp-urbain",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783633559296-PFBMN5UBYXG19ULOUUPQ/Geneva_Art_Week-Exhibition_2026-Galerie_LIGNE_treize-Margareta_Daepp_Urbain-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787004342519-XDP4FUXBYSR5N0ZIUXVL/Geneva_Art_Week-Event_2026-Margareta-Daepp-4.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -4890,7 +4890,7 @@
       "workflowState": 1,
       "publishOn": 1783633551905,
       "addedOn": 1783633551905,
-      "updatedOn": 1787004470410
+      "updatedOn": 1787005322048
     },
     {
       "id": "6a50139a4d4de74032f135cd",

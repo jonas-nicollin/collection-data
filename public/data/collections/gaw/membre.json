@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-17T22:18:17.543Z",
-  "sourceHash": "42b9a6a6eef49d5076ba3bac506ff5a7dc25915e1549234f9c7b413017af99e2",
+  "updatedAt": "2026-08-17T22:28:14.388Z",
+  "sourceHash": "03a8f40815bfa19baffc8c866dcc227ae1383dc36fefc87c30934d25f74445c7",
   "count": 90,
   "pages": 1,
   "items": [
@@ -1212,7 +1212,7 @@
       "title": "Galerie Ligne Treize",
       "fullUrl": "/membre/galerie-ligne-treize",
       "urlId": "galerie-ligne-treize",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781642947604-3GTQAQBGVOVSDAKDC6X2/Geneva_Art_Week-Members-GalerieLigneTreize.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787004617620-RE42X1OJ7C1NWEQ6260E/Geneva_Art_Week-Members_2026-Galerie-ligne-treize-1+.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -1246,7 +1246,7 @@
       "workflowState": 1,
       "publishOn": 1746754020733,
       "addedOn": 1746754020733,
-      "updatedOn": 1787004675097
+      "updatedOn": 1787005294604
     },
     {
       "id": "68248792cdfab25869f2b31d",
