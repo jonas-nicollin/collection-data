@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-17T14:03:45.128Z",
-  "sourceHash": "bfb9416e738339f02b5af396dc783f7a97a16e6f67eea2d4dd431f35f1d4dfeb",
+  "updatedAt": "2026-08-17T14:17:26.251Z",
+  "sourceHash": "7aea5e46277f5f1bc588035833625e74d23a4344c61f9176405913c143308d5d",
   "count": 132,
   "pages": 7,
   "items": [
@@ -4774,7 +4774,8 @@
         "Membre: Arcadia",
         "Date: 2026-09-15/2026-10-31",
         "Vernissage: 2026-09-16T18:00",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Membre: Joy de Rouvre"
       ],
       "excerpt": "",
       "location": {
@@ -4792,7 +4793,7 @@
       "workflowState": 1,
       "publishOn": 1783634189675,
       "addedOn": 1783634189675,
-      "updatedOn": 1786974851388
+      "updatedOn": 1786976055145
     },
     {
       "id": "6a50168f5c3d38684afa7d5b",
