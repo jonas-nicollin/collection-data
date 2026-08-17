@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-17T22:28:12.755Z",
-  "sourceHash": "5f552304c2d03ea0239e6607a273829f2b43d9d1faf5cd3e3612e4eaf600b440",
+  "updatedAt": "2026-08-17T23:58:15.682Z",
+  "sourceHash": "ec2f3362dcb2b0720c5309cbd30d7235d99652387b46ff93bddf59d969e6c9af",
   "count": 133,
   "pages": 7,
   "items": [
@@ -5074,7 +5074,7 @@
       "title": "Artist talk with Amit Berman",
       "fullUrl": "/programme-2026/artist-talk-with-amit-berman",
       "urlId": "artist-talk-with-amit-berman",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/a9cca96f-95ea-4be2-b2f5-074e4365a4a0/Geneva_Art_Week-Event_2026-Artist-talk-Amit-Berman.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784151492784-4MZ432DXQP71RKT6V0CE/Geneva_Art_Week-Event_2026-Unfamiliar-Luminous-Remote-02.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -5109,7 +5109,7 @@
       "workflowState": 1,
       "publishOn": 1783552657118,
       "addedOn": 1783552657118,
-      "updatedOn": 1785603806530
+      "updatedOn": 1787011004780
     },
     {
       "id": "6a4ed4d451285a19c9e25b58",
