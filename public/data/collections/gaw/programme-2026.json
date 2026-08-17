@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-17T14:47:37.001Z",
-  "sourceHash": "d5ad72d1d99fd6cb715902496ed34619ef2115a71e11b3f9d97958fc11dd0b64",
+  "updatedAt": "2026-08-17T20:58:13.409Z",
+  "sourceHash": "fd1df61fa022c21b959c2085319eec10a2410273b58b0d572f1eb48715329707",
   "count": 132,
   "pages": 7,
   "items": [
@@ -4793,7 +4793,7 @@
       "workflowState": 1,
       "publishOn": 1783634189675,
       "addedOn": 1783634189675,
-      "updatedOn": 1786976055145
+      "updatedOn": 1786999778899
     },
     {
       "id": "6a50168f5c3d38684afa7d5b",
@@ -5081,7 +5081,8 @@
         "Date: 2026-09-17T12:00",
         "Artiste: Martin Hyde",
         "Intervenante: Veronica Granata",
-        "Artiste: Joy de Rouvre"
+        "Artiste: Joy de Rouvre",
+        "Membre: Joy de Rouvre"
       ],
       "excerpt": "",
       "location": {
@@ -5099,7 +5100,7 @@
       "workflowState": 1,
       "publishOn": 1783551188614,
       "addedOn": 1783551188614,
-      "updatedOn": 1785603707519
+      "updatedOn": 1787000272034
     },
     {
       "id": "6a4ecec951285a19c9dfbe9c",
