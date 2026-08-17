@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-15T20:47:30.857Z",
-  "sourceHash": "03d744ddfec0c30a77acaac48c4f43807bffe1eeaa4109e7cee473b5b0b41117",
+  "updatedAt": "2026-08-17T10:27:26.928Z",
+  "sourceHash": "41b349812f742cd8c20b94083564db920afe0bbd9ce8417b3197d512384508f0",
   "count": 131,
   "pages": 7,
   "items": [
@@ -4525,7 +4525,7 @@
     },
     {
       "id": "6a513c0b6dc68a14ad91f2b9",
-      "title": "Le Tiret d'Alice #5: Poétique et politique du quotidien",
+      "title": "Le Tiret d’Alice #5: Poétique et politique du quotidien",
       "fullUrl": "/programme-2026/le-tiret-d-alice-5-poetique-et-politique-du-quotidien",
       "urlId": "le-tiret-d-alice-5-poetique-et-politique-du-quotidien",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/c63b6275-2ca3-4284-ab77-86b1704df72c/Geneva_Art_Week-Event_2026-Le-Tiret-D-Alice.webp",
@@ -4567,7 +4567,7 @@
       "workflowState": 1,
       "publishOn": 1783708683795,
       "addedOn": 1783708683795,
-      "updatedOn": 1785669690799
+      "updatedOn": 1786961959371
     },
     {
       "id": "6a513517f9efae5edfb0fc5a",
