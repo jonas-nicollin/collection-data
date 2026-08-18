@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-18T12:08:15.689Z",
-  "sourceHash": "e33768b987b2828d30e4151d576d10dd60d5244a5b575ae260d4b3e21817dedf",
-  "count": 134,
+  "updatedAt": "2026-08-18T12:18:14.159Z",
+  "sourceHash": "a506dfcf5455332ee31a9be26810c95c813de2a138fe43d644e4d1ebff4e65f1",
+  "count": 135,
   "pages": 7,
   "items": [
+    {
+      "id": "6a844a87a0f94b5ecc9ee1f0",
+      "title": "Calling the operator [en terre]",
+      "fullUrl": "/programme-2026/calling-the-operator-en-terre",
+      "urlId": "calling-the-operator-en-terre",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7848b3d0-530c-452d-bc57-733b8f1ddd5b/Geneva_Art_Week-Event_2026-CEC.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Performance"
+      ],
+      "tags": [
+        "Quartier: Quartier des Bains",
+        "Thématique: Mixed Media",
+        "Membre: Centre d’édition contemporaine",
+        "Type: Événement",
+        "Date: 2026-09-17T19:00",
+        "Artiste: Octave Magescas",
+        "Artiste: Axelle Stiefel"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20222709999999,
+        "mapLng": 6.1381898,
+        "markerLat": 46.20222709999999,
+        "markerLng": 6.1381898,
+        "addressTitle": "Centre d’édition contemporaine",
+        "addressLine1": "Rue des Rois 15",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 145,
+      "workflowState": 1,
+      "publishOn": 1787054727759,
+      "addedOn": 1787054727759,
+      "updatedOn": 1787055128850
+    },
     {
       "id": "6a834eb21ce4956f83e51847",
       "title": "Live Language Model",
