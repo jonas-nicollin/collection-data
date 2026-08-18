@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-18T11:38:12.762Z",
-  "sourceHash": "c1cea6f087fe89242d6973d168dca7aeeca8c74c7cca2ed5bacf39b602ea0a14",
+  "updatedAt": "2026-08-18T11:48:16.800Z",
+  "sourceHash": "9a26b8b852ba7269bdfc59bcad6447c2ae289286b5b1b151f70457cf8a8f346b",
   "count": 134,
   "pages": 7,
   "items": [
@@ -2265,10 +2265,10 @@
       "title": "Représentation",
       "fullUrl": "/programme-2026/representation",
       "urlId": "representation",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785252335185-LJC5JR3ARJW5RJ5VUKPA/Geneva_Art_Week-Exhibition_2026-Wisteria-Representation-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787053163378-20MG8BNF2C0GJB1P3EY3/Geneva_Art_Week-Event_2026-Representations-1.webp",
       "mediaFocalPoint": {
-        "x": 0.5049910726511126,
-        "y": 0.3912879788717356,
+        "x": 0.5022328796879963,
+        "y": 0.38533541355823553,
         "source": 3
       },
       "categories": [
@@ -2312,7 +2312,7 @@
       "workflowState": 1,
       "publishOn": 1785252152442,
       "addedOn": 1785252152442,
-      "updatedOn": 1786977366417
+      "updatedOn": 1787053241277
     },
     {
       "id": "6a68c7a97c9ebe325d1fac7b",
