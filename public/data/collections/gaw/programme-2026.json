@@ -5,11 +5,60 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-18T12:18:14.159Z",
-  "sourceHash": "a506dfcf5455332ee31a9be26810c95c813de2a138fe43d644e4d1ebff4e65f1",
-  "count": 135,
+  "updatedAt": "2026-08-18T21:28:18.205Z",
+  "sourceHash": "c9cd8ac578cf774d350c99f30cabf142c94cad284894dad759524d2140b28f81",
+  "count": 136,
   "pages": 7,
   "items": [
+    {
+      "id": "6a84b5841281025ff090d1f6",
+      "title": "Sagrada Familia, rencontres &amp; dédicaces",
+      "fullUrl": "/programme-2026/sagrada-familia-rencontres-dedicaces",
+      "urlId": "sagrada-familia-rencontres-dedicaces",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/76cbc2e8-f410-4427-8832-917c07cbd262/Geneva_Art_Week-Event_2026-Talk-Analix-Forever.webp",
+      "mediaFocalPoint": {
+        "x": 0.49824649538735033,
+        "y": 0.6472482873522429,
+        "source": 3
+      },
+      "categories": [
+        "Talk"
+      ],
+      "tags": [
+        "Quartier: Chêne-Bourg",
+        "Membre: Analix Forever",
+        "Thématique: Art contemporain",
+        "Thématique: Art moderne",
+        "Thématique: Céramique",
+        "Thématique: Sculpture",
+        "Thématique: Vidéo",
+        "Thématique: Photographie",
+        "Thématique: Peinture",
+        "Date: 2026-09-17T18:00",
+        "Intervenante: Daniella Asmar",
+        "Intervenante: Élodie Perrelet",
+        "Intervenante: Fawzia Zouari",
+        "Intervenante: Béatrice Riand",
+        "Type: Événement"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1948089,
+        "mapLng": 6.1918783,
+        "markerLat": 46.1948089,
+        "markerLng": 6.1918783,
+        "addressTitle": "Analix Forever",
+        "addressLine1": "Rue du Gothard 10",
+        "addressLine2": "1225 Chêne-Bourg",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 146,
+      "workflowState": 1,
+      "publishOn": 1787082116372,
+      "addedOn": 1787082116372,
+      "updatedOn": 1787088366493
+    },
     {
       "id": "6a844a87a0f94b5ecc9ee1f0",
       "title": "Calling the operator [en terre]",
