@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-17T22:28:14.388Z",
-  "sourceHash": "03a8f40815bfa19baffc8c866dcc227ae1383dc36fefc87c30934d25f74445c7",
+  "updatedAt": "2026-08-18T11:38:14.180Z",
+  "sourceHash": "5f0130ae854da6ba9baec354e14f7be0032fa71a5aec5266da9b5c6f36d875d8",
   "count": 90,
   "pages": 1,
   "items": [
@@ -432,7 +432,7 @@
         "Thématique: Vidéo",
         "Thématique: Mixed Media",
         "Quartier: Grottes Saint-Gervais",
-        "Membre: Centre d'Art Contemporain Genève"
+        "Membre: Centre d’Art Contemporain Genève"
       ],
       "excerpt": null,
       "location": {
@@ -450,7 +450,7 @@
       "workflowState": 1,
       "publishOn": 1747957695570,
       "addedOn": 1747957695570,
-      "updatedOn": 1786484247377
+      "updatedOn": 1787052854779
     },
     {
       "id": "6824878fcdfab25869f2b2a2",
@@ -467,7 +467,6 @@
         "Institution & Fondation"
       ],
       "tags": [
-        "Membre: Centre d'édition contemporaine",
         "Thématique: Art contemporain",
         "Thématique: Scène émergente",
         "Thématique: Scène artistique suisse",
@@ -476,7 +475,8 @@
         "Thématique: Performance",
         "Thématique: Éditions et livres d'artistes",
         "Quartier: Quartier des Bains",
-        "Thématique: Autres"
+        "Thématique: Autres",
+        "Membre: Centre d’édition contemporaine"
       ],
       "excerpt": null,
       "location": {
@@ -494,7 +494,7 @@
       "workflowState": 1,
       "publishOn": 1747908000489,
       "addedOn": 1747908000489,
-      "updatedOn": 1782197948341
+      "updatedOn": 1787052903204
     },
     {
       "id": "6824878ecdfab25869f2b29c",
