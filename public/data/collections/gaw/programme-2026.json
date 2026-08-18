@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-18T00:18:12.957Z",
-  "sourceHash": "459d9d9c5bc928d350467f7a218f6d7213d65c393df34c931784e462b80e08a2",
+  "updatedAt": "2026-08-18T00:38:12.953Z",
+  "sourceHash": "eca8abffd129c5675b38c0da9f8d7f20ffbdb1e61297547a7f9dd689b93dd2a0",
   "count": 133,
   "pages": 7,
   "items": [
@@ -2211,7 +2211,7 @@
       "workflowState": 1,
       "publishOn": 1785252808179,
       "addedOn": 1785252808179,
-      "updatedOn": 1786454786895
+      "updatedOn": 1787013343427
     },
     {
       "id": "6a68c9387757af206613a8a8",
@@ -2358,7 +2358,7 @@
       "title": "Marie Gueydon de Dives",
       "fullUrl": "/programme-2026/marie-gueydon-de-dives",
       "urlId": "marie-gueydon-de-dives",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785250990701-2PGGUMD0AH12ZXG3XDQL/Geneva_Art_Week-Exhibition_2026-Atelier_Maison_Potter-Marie_Gueydon_de_Dives-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/cb727ac1-e25f-4bae-80ab-3ec742675462/Geneva_Art_Week-Exhibition_2026-Atelier_Maison_Potter-Marie_Gueydon_de_Dives-Featured-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -2395,7 +2395,7 @@
       "workflowState": 1,
       "publishOn": 1785250918918,
       "addedOn": 1785250918918,
-      "updatedOn": 1785685321770
+      "updatedOn": 1787013451375
     },
     {
       "id": "6a68c217ae07b839c6ec2463",
