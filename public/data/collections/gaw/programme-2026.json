@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-19T11:56:43.036Z",
-  "sourceHash": "a0b64a314cc827e075640a5956912218d42318fc88adbdc63ebdd47174504876",
-  "count": 136,
+  "updatedAt": "2026-08-19T12:08:14.101Z",
+  "sourceHash": "aa16fe38c805f3e90deb8c578639c0d0e60335eebd7003106ade87301d79f974",
+  "count": 137,
   "pages": 7,
   "items": [
     {
@@ -2950,6 +2950,47 @@
       "publishOn": 1784669304400,
       "addedOn": 1784669304400,
       "updatedOn": 1786098076902
+    },
+    {
+      "id": "6a5fe01ff968e2685ee7ae17",
+      "title": "Autour du Nouveau Réalisme",
+      "fullUrl": "/programme-2026/autour-du-nouveau-realisme",
+      "urlId": "autour-du-nouveau-realisme",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/dcbd2744-e895-4422-a67a-87fa14449146/Geneva_Art_Week-Event_2026-Autour+du+Nouveau+Re%CC%81alisme.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Autre"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Quartier: Vieille-Ville",
+        "Membre: Galerie Sonia Zannettacci",
+        "Type: Événement",
+        "Intervenante: Carmen Campo Real",
+        "Date: 2026-09-17T11:30",
+        "Lieu: Ciné 17"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2022386,
+        "mapLng": 6.143699199999999,
+        "markerLat": 46.2022386,
+        "markerLng": 6.143699199999999,
+        "addressTitle": "Ciné 17",
+        "addressLine1": "Rue de la Corraterie 17",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 80,
+      "workflowState": 1,
+      "publishOn": 1784668191973,
+      "addedOn": 1784668191973,
+      "updatedOn": 1787140822435
     },
     {
       "id": "6a5a65996839a411e1a47a10",
