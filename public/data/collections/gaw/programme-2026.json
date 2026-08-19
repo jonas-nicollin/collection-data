@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-18T21:28:18.205Z",
-  "sourceHash": "c9cd8ac578cf774d350c99f30cabf142c94cad284894dad759524d2140b28f81",
+  "updatedAt": "2026-08-19T10:48:12.171Z",
+  "sourceHash": "a404f760f1b46871a2012e9b28cfb378da014bd385d059f837a8e0e10abff6c5",
   "count": 136,
   "pages": 7,
   "items": [
@@ -490,7 +490,8 @@
         "source": 3
       },
       "categories": [
-        "Talk"
+        "Talk",
+        "Visite guidée"
       ],
       "tags": [
         "Membre: Espace_L",
@@ -520,7 +521,7 @@
       "workflowState": 1,
       "publishOn": 1786369939867,
       "addedOn": 1786369939867,
-      "updatedOn": 1786369956267
+      "updatedOn": 1787136361796
     },
     {
       "id": "6a79c6114c04de421d8b8bff",
@@ -792,7 +793,8 @@
         "source": 3
       },
       "categories": [
-        "Visite guidée"
+        "Visite guidée",
+        "Talk"
       ],
       "tags": [
         "Type: Événement",
@@ -822,7 +824,7 @@
       "workflowState": 1,
       "publishOn": 1786228876712,
       "addedOn": 1786228876712,
-      "updatedOn": 1786229713267
+      "updatedOn": 1787136067077
     },
     {
       "id": "6a77ad97eb7a4f7fe15aa137",
@@ -960,7 +962,8 @@
         "source": 3
       },
       "categories": [
-        "Talk"
+        "Talk",
+        "Visite guidée"
       ],
       "tags": [
         "Type: Événement",
@@ -988,7 +991,7 @@
       "workflowState": 1,
       "publishOn": 1785801027302,
       "addedOn": 1785801027302,
-      "updatedOn": 1786228119431
+      "updatedOn": 1787136407212
     },
     {
       "id": "6a71258e3b729e068f880f7c",
