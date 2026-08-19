@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-19T12:08:14.101Z",
-  "sourceHash": "aa16fe38c805f3e90deb8c578639c0d0e60335eebd7003106ade87301d79f974",
+  "updatedAt": "2026-08-19T13:18:13.600Z",
+  "sourceHash": "eadf692b652d3ea46ca1b70318f1c214f7b84077ac106ac1a100ea0fd47a1e63",
   "count": 137,
   "pages": 7,
   "items": [
@@ -3982,10 +3982,8 @@
         "Date: 2026-09-19/2026-11-29",
         "Thématique: Céramique",
         "Thématique: Sculpture",
-        "Vernissage: 2026-09-19T19:00",
         "Artiste: Mendy Arp",
         "Artiste: Camille Azéma",
-        "Artiste: Domitilla Biondi",
         "Artiste: Lindsey Bloomfield",
         "Artiste: Théodora Yuchang Chiou",
         "Artiste: Charlotte Clauzel",
@@ -4025,7 +4023,8 @@
         "Artiste: Annemarie Vogel",
         "Artiste: Dawid Zynda",
         "Sélection: Parcours Céramique Carouge",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Vernissage: 2026-09-19T9:30"
       ],
       "excerpt": "",
       "location": {
@@ -4043,7 +4042,7 @@
       "workflowState": 1,
       "publishOn": 1783959117424,
       "addedOn": 1783959117424,
-      "updatedOn": 1785679671205
+      "updatedOn": 1787145473275
     },
     {
       "id": "6a550814d2b952267ff74d31",
