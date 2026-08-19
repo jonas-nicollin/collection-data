@@ -5,11 +5,55 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-19T13:48:13.285Z",
-  "sourceHash": "2e54d90c5531bf6a5041c2cd78b6cee716bb7999253b8999ce7e2c74c35d0dc6",
-  "count": 137,
+  "updatedAt": "2026-08-19T22:28:13.332Z",
+  "sourceHash": "c2875c3a69e620b1ef43b86d8e7f21c46bc6eb925224ecce6733042ba56ee9b7",
+  "count": 138,
   "pages": 7,
   "items": [
+    {
+      "id": "6a862315cfa6727ebed18713",
+      "title": "Christian Gozenbach – Jessica Russ",
+      "fullUrl": "/programme-2026/tba-galerie-heinzer-reszler",
+      "urlId": "tba-galerie-heinzer-reszler",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787177045455-Y8H8N94EZPFNPIDXVFVS/Geneva_Art_Week-Exhibition_2026-Galerie_Heinzer_Reszler-TBA-Featured-01_compressed.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Quartier: Quartier des Bains",
+        "Type: Exposition",
+        "Thématique: Art contemporain",
+        "Membre: Galerie Heinzer Reszler",
+        "Artiste: Christian Gonzenbach",
+        "Artiste: Jessica Russ",
+        "Lieu: L'Atelier Tramons",
+        "Date: 2026-09-16/2026-09-20",
+        "Vernissage: 2026-09-17T17:00",
+        "Sélection: Nuit des Bains"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1983087,
+        "mapLng": 6.1370665,
+        "markerLat": 46.1983087,
+        "markerLng": 6.1370665,
+        "addressTitle": "L&#39;Atelier Tramons",
+        "addressLine1": "Rue des Bains 22-24",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 147,
+      "workflowState": 1,
+      "publishOn": 1787175701030,
+      "addedOn": 1787175701030,
+      "updatedOn": 1787177891570
+    },
     {
       "id": "6a84b5841281025ff090d1f6",
       "title": "Sagrada Familia, rencontres &amp; dédicaces",
