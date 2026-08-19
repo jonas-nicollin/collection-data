@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-08-19T13:48:13.285Z",
+  "updatedAt": "2026-08-19T19:38:15.037Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "4b008aec9a199c3bcdcafb0bc6d4d71acc0605cdd0fb79a561d45343f207487b",
@@ -22,9 +22,9 @@
       "pages": 1
     },
     "gaw/membre.json": {
-      "sourceHash": "70892c652688398df7b11f603f938d575bd319b79b11f9092eb022daf041018c",
-      "updatedAt": "2026-08-19T13:08:13.586Z",
-      "count": 90,
+      "sourceHash": "706c0e019ad969def6af56f7e12fdc74a256e7365b27cf9706b94c52593d3c7c",
+      "updatedAt": "2026-08-19T19:38:15.037Z",
+      "count": 91,
       "pages": 1
     },
     "gaw/programme-2025.json": {

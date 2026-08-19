@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-19T13:08:13.586Z",
-  "sourceHash": "70892c652688398df7b11f603f938d575bd319b79b11f9092eb022daf041018c",
-  "count": 90,
+  "updatedAt": "2026-08-19T19:38:15.037Z",
+  "sourceHash": "706c0e019ad969def6af56f7e12fdc74a256e7365b27cf9706b94c52593d3c7c",
+  "count": 91,
   "pages": 1,
   "items": [
     {
@@ -1126,6 +1126,48 @@
       "publishOn": 1746921786583,
       "addedOn": 1746921786583,
       "updatedOn": 1786461155258
+    },
+    {
+      "id": "6a85a2f4dab854047ea4d146",
+      "title": "Galerie Heinzer Reszler",
+      "fullUrl": "/membre/galerie-heinzer-reszler",
+      "sourceUrl": "",
+      "urlId": "galerie-heinzer-reszler",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/acbe3ded-e82f-4b4f-be63-eff92abf667f/Geneva_Art_Week-Members_2026-Galerie-Heinzer-Reszler-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Membre: Galerie Heinzer Reszler",
+        "Thématique: Dessin",
+        "Thématique: Peinture",
+        "Thématique: Photographie",
+        "Thématique: Sculpture",
+        "Quartier: Quartier des Bains"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 13,
+        "mapLat": 46.1983213,
+        "mapLng": 6.137031299999999,
+        "markerLat": 46.1983213,
+        "markerLng": 6.137031299999999,
+        "addressTitle": "Galerie Heinzer Reszler",
+        "addressLine1": "Rue des Bains 22-24",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 101,
+      "workflowState": 1,
+      "publishOn": 1746921780789,
+      "addedOn": 1746921780789,
+      "updatedOn": 1787168232545
     },
     {
       "id": "68248791cdfab25869f2b314",
