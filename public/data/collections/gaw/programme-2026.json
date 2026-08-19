@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-19T13:28:01.172Z",
-  "sourceHash": "e7b73b05eefd82527045c43490e7bdef147c96bcbac8d9e42a8a352f1f0f37c9",
+  "updatedAt": "2026-08-19T13:48:13.285Z",
+  "sourceHash": "2e54d90c5531bf6a5041c2cd78b6cee716bb7999253b8999ce7e2c74c35d0dc6",
   "count": 137,
   "pages": 7,
   "items": [
@@ -4024,7 +4024,7 @@
         "Artiste: Dawid Zynda",
         "Sélection: Parcours Céramique Carouge",
         "Sélection: Expositions principales",
-        "Vernissage: 2026-09-19T9:30"
+        "Vernissage: 2026-09-19T09:30"
       ],
       "excerpt": "",
       "location": {
@@ -4042,7 +4042,7 @@
       "workflowState": 1,
       "publishOn": 1783959117424,
       "addedOn": 1783959117424,
-      "updatedOn": 1787145961124
+      "updatedOn": 1787147086346
     },
     {
       "id": "6a550814d2b952267ff74d31",
