@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-20T08:48:14.294Z",
-  "sourceHash": "61cea26d870650a905d13a36419ddc035919f5f4a9467222ab7115327bcacdfe",
+  "updatedAt": "2026-08-20T08:58:14.786Z",
+  "sourceHash": "8fadbac54c2cdc81ef7f6d76004f23ea838da653b69d5c0604b97f851ae828b9",
   "count": 138,
   "pages": 7,
   "items": [
@@ -15,7 +15,7 @@
       "title": "Christian Gozenbach – Jessica Russ",
       "fullUrl": "/programme-2026/tba-galerie-heinzer-reszler",
       "urlId": "tba-galerie-heinzer-reszler",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787177045455-Y8H8N94EZPFNPIDXVFVS/Geneva_Art_Week-Exhibition_2026-Galerie_Heinzer_Reszler-TBA-Featured-01_compressed.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/2a06bda2-b7fd-49ec-a3e4-930bf42425a7/Geneva_Art_Week-Exhibition_2026-Galerie_Heinzer_Reszler-TBA-Featured-01_compressed.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -52,7 +52,7 @@
       "workflowState": 1,
       "publishOn": 1787175701030,
       "addedOn": 1787175701030,
-      "updatedOn": 1787177891570
+      "updatedOn": 1787216271557
     },
     {
       "id": "6a84b5841281025ff090d1f6",
@@ -335,7 +335,7 @@
       "title": "Collection actuelle",
       "fullUrl": "/programme-2026/opera-gallery-collection-actuelle",
       "urlId": "opera-gallery-collection-actuelle",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1786685797000-JIUDNCUH56MQV7E0K5QX/Geneva_Art_Week-Exhibition_2026-Opera_Gallery-TBA-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/2ca1e9e0-1f22-48ea-a440-9b43caf045f8/Geneva_Art_Week-Exhibition_2026-Opera_Gallery-TBA-Featured-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -380,7 +380,7 @@
       "workflowState": 1,
       "publishOn": 1786685634305,
       "addedOn": 1786685634305,
-      "updatedOn": 1787215677885
+      "updatedOn": 1787215706211
     },
     {
       "id": "6a7ea7b417d2d66ebcb772f6",
