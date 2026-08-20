@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-20T11:08:13.204Z",
-  "sourceHash": "2fd33a269b6cef21fdbe1aa35c5465f643518252bb8290d86a92ad25c76e1632",
+  "updatedAt": "2026-08-20T11:18:19.617Z",
+  "sourceHash": "4433dc2fcf5fc0d8471751e972f44a3be8239bade7aa6d46bfdea715c626e8cb",
   "count": 138,
   "pages": 7,
   "items": [
@@ -534,8 +534,7 @@
         "source": 3
       },
       "categories": [
-        "Talk",
-        "Visite guidée"
+        "Talk"
       ],
       "tags": [
         "Membre: Espace_L",
@@ -565,7 +564,7 @@
       "workflowState": 1,
       "publishOn": 1786369939867,
       "addedOn": 1786369939867,
-      "updatedOn": 1787136361796
+      "updatedOn": 1787224691370
     },
     {
       "id": "6a79c6114c04de421d8b8bff",
@@ -805,7 +804,8 @@
         "Thématique: Peinture",
         "Lieu: Atelier Gustave Didelot",
         "Artiste: Gustave Didelot",
-        "Date: 2026-09-17T12:30"
+        "Date: 2026-09-17T12:30",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -823,7 +823,7 @@
       "workflowState": 1,
       "publishOn": 1786229967222,
       "addedOn": 1786229967222,
-      "updatedOn": 1786230746668
+      "updatedOn": 1787224571623
     },
     {
       "id": "6a77b08c469d6b5c61baa176",
@@ -4086,7 +4086,7 @@
       "workflowState": 1,
       "publishOn": 1783959117424,
       "addedOn": 1783959117424,
-      "updatedOn": 1787147086346
+      "updatedOn": 1787224365490
     },
     {
       "id": "6a550814d2b952267ff74d31",
