@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-20T08:58:14.786Z",
-  "sourceHash": "8fadbac54c2cdc81ef7f6d76004f23ea838da653b69d5c0604b97f851ae828b9",
+  "updatedAt": "2026-08-20T11:08:13.204Z",
+  "sourceHash": "2fd33a269b6cef21fdbe1aa35c5465f643518252bb8290d86a92ad25c76e1632",
   "count": 138,
   "pages": 7,
   "items": [
@@ -995,7 +995,7 @@
     },
     {
       "id": "6a712943ba5b137e3e09c37a",
-      "title": "Olaf Holzapfel en conversation avec Julie Portier",
+      "title": "Olaf Holzapfel en conversation avec Bernard Vienat",
       "fullUrl": "/programme-2026/olaf-holzapfel-en-conversation-avec-julie-portier",
       "urlId": "olaf-holzapfel-en-conversation-avec-julie-portier",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785801165264-O5ORDJ8YTYCSDE1EL5K2/Geneva_Art_Week-Event_2026-Xippas-2.webp",
@@ -1014,8 +1014,8 @@
         "Thématique: Sculpture",
         "Lieu: Villa du Parc",
         "Artiste: Olaf Holzapfel",
-        "Intervenante: Julie Portier",
-        "Date: 2026-09-19T11:00"
+        "Date: 2026-09-19T11:00",
+        "Intervenant: Bernard Vienat"
       ],
       "excerpt": "",
       "location": {
@@ -1033,7 +1033,7 @@
       "workflowState": 1,
       "publishOn": 1785801027302,
       "addedOn": 1785801027302,
-      "updatedOn": 1787140282188
+      "updatedOn": 1787223990489
     },
     {
       "id": "6a71258e3b729e068f880f7c",
