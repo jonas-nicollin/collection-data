@@ -5,11 +5,51 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-20T11:18:19.617Z",
-  "sourceHash": "4433dc2fcf5fc0d8471751e972f44a3be8239bade7aa6d46bfdea715c626e8cb",
-  "count": 138,
+  "updatedAt": "2026-08-20T11:38:11.985Z",
+  "sourceHash": "d73a839c760f1cb45b74ed299c854df921c5b586260dc1f2ae5ab8e740edb470",
+  "count": 139,
   "pages": 7,
   "items": [
+    {
+      "id": "6a86e2f249019b00a1f96c50",
+      "title": "TENDER BUTTONS",
+      "fullUrl": "/programme-2026/tender-buttons",
+      "urlId": "tender-buttons",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0b7aa905-79d2-4062-997a-4fda9eecbd6e/Tender-Buttons_boris-dunand_Web-1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Quartier: Centre",
+        "Membre: Musée Ariana",
+        "Sélection: Parcours Céramique Carouge",
+        "Thématique: Céramique",
+        "Date: 2025-09-19/2026-10-04"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2254104,
+        "mapLng": 6.1388514,
+        "markerLat": 46.2254104,
+        "markerLng": 6.1388514,
+        "addressTitle": "Musée Ariana",
+        "addressLine1": "Avenue de la Paix 10",
+        "addressLine2": "1202 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 148,
+      "workflowState": 1,
+      "publishOn": 1787224818526,
+      "addedOn": 1787224818526,
+      "updatedOn": 1787225536710
+    },
     {
       "id": "6a862315cfa6727ebed18713",
       "title": "Christian Gozenbach – Jessica Russ",
