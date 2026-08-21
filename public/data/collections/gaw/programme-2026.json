@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-21T15:57:59.368Z",
-  "sourceHash": "20d46b54c0498737e6e244c15febe34d4cc2e8e93268a2a51ee81cc713e1833d",
-  "count": 145,
+  "updatedAt": "2026-08-21T16:48:05.929Z",
+  "sourceHash": "1bce94928f76a5a40c22a25000f08f502c09b8c84d431c1a8489d0657549f3fa",
+  "count": 146,
   "pages": 8,
   "items": [
     {
@@ -3735,6 +3735,50 @@
       "publishOn": 1784302444151,
       "addedOn": 1784302444151,
       "updatedOn": 1786094970358
+    },
+    {
+      "id": "6a5a4934e4e64175c38ae0b9",
+      "title": "Dita Cossio – INHERITED",
+      "fullUrl": "/programme-2026/dita-cossio-inherited",
+      "urlId": "dita-cossio-inherited",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785787294835-ZZFWA6VVQMCXPBKLIP86/Geneva_Art_Week-Exhibition_2026-Aubert_Jansem_Geneve-Dita_Cossio_Inherited-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Thématique: Céramique",
+        "Artiste: Dita Cossio",
+        "Quartier: Lancy",
+        "Membre: Aubert Jansem Genève",
+        "Thématique: Sculpture",
+        "Date: 2026-09-16/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Lieu: Patio des Ports Francs et Entrepôts de Genève S.A.",
+        "Sélection: Parcours Céramique Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1879912,
+        "mapLng": 6.1261657,
+        "markerLat": 46.1879912,
+        "markerLng": 6.1261657,
+        "addressTitle": "Aubert Jansem Genève",
+        "addressLine1": "Route du Grand-Lancy 6A",
+        "addressLine2": "1227 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 69,
+      "workflowState": 1,
+      "publishOn": 1784301876814,
+      "addedOn": 1784301876814,
+      "updatedOn": 1787330721446
     },
     {
       "id": "6a5805608b34023ea0285e48",
