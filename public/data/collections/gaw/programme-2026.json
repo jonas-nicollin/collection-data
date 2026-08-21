@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-21T13:47:59.989Z",
-  "sourceHash": "4b79d8f53a6e56ac886435c53935a962b6c9f1a1a7ec76f311ce11945f98da27",
+  "updatedAt": "2026-08-21T14:16:26.643Z",
+  "sourceHash": "f837e9b88f1bf409d7a6181894836848e947fdc63a7c1d1c53871ed50ceeaeb7",
   "count": 140,
   "pages": 7,
   "items": [
@@ -5802,8 +5802,8 @@
       "urlId": "bourses-berthoud-lissignol-chevalier-et-galland",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787319882004-SBG5UNNQT9SP0SN3AJF5/Geneva_Art_Week-Exhibition_2026-Bourses-BLCG-2.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5071824678804131,
+        "y": 0.3912879788717356,
         "source": 3
       },
       "categories": [
@@ -5847,7 +5847,7 @@
       "workflowState": 1,
       "publishOn": 1783352898630,
       "addedOn": 1783352898630,
-      "updatedOn": 1787319897180
+      "updatedOn": 1787321462851
     },
     {
       "id": "6a4bc793afabb73f86f2ca8a",
