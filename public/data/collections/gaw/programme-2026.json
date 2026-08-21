@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-21T14:58:09.074Z",
-  "sourceHash": "0fff23246826fefad381563844856da889d4fdc2e6243daac5ce490efeb99470",
+  "updatedAt": "2026-08-21T15:08:02.657Z",
+  "sourceHash": "f9a56b9a21f57dfe77422dcb2fbe8ac6f2696bf951bbf0c30423e63287b67579",
   "count": 141,
   "pages": 8,
   "items": [
@@ -25,7 +25,6 @@
         "Performance"
       ],
       "tags": [
-        "Type: Exposition",
         "Thématique: Art contemporain",
         "Thématique: Scène émergente",
         "Artiste: Sabrina Smaili",
@@ -33,7 +32,8 @@
         "Lieu: Le Commun",
         "Membre: Le Commun",
         "Membre: Centre d’Art Contemporain Genève",
-        "Date: 2026-09-19T17:00"
+        "Date: 2026-09-19T17:00",
+        "Type: Événement"
       ],
       "excerpt": "",
       "location": {
@@ -51,7 +51,7 @@
       "workflowState": 1,
       "publishOn": 1787323534282,
       "addedOn": 1787323534282,
-      "updatedOn": 1787324259905
+      "updatedOn": 1787324871413
     },
     {
       "id": "6a87e00800d6d1098713d51d",
