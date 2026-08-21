@@ -5,11 +5,57 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-21T15:28:05.005Z",
-  "sourceHash": "a7afed325f7a804d6d03aefcccc3cddf5f6337385e7c05c21080a8f6cb6f3e8f",
-  "count": 143,
+  "updatedAt": "2026-08-21T15:48:02.688Z",
+  "sourceHash": "2649e7e73d55edb7fe7e93bbfe75199b90ca8739a7ae48dc6bec5afebc88aaf4",
+  "count": 145,
   "pages": 8,
   "items": [
+    {
+      "id": "6a886dbb5c9df0478d791c5b",
+      "title": "Laure Marvile &amp; Yoan Mudry – Visite d’atelier",
+      "fullUrl": "/programme-2026/visite-d-atelier-laure-marvile-yoan-mudry",
+      "urlId": "visite-d-atelier-laure-marvile-yoan-mudry",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787326111113-FNX47Y9EAIIYF17GM7WV/Geneva_Art_Week-Event_2026-Studio-Visit-Laure-Marvile-Yoan-Mudry-1.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Studio Visit"
+      ],
+      "tags": [
+        "Type: Événement",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Artiste: Laure Marville",
+        "Artiste: Yoan Mudry",
+        "Thématique: Art textile",
+        "Thématique: Dessin",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Sculpture",
+        "Quartier: Jonction",
+        "Lieu: Atelier 405, Usine",
+        "Date: 2026-09-18T17:30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2039633,
+        "mapLng": 6.135971,
+        "markerLat": 46.2039633,
+        "markerLng": 6.135971,
+        "addressTitle": "Atelier 405, Usine",
+        "addressLine1": "Rue de la Coulouvrenière 11",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 154,
+      "workflowState": 1,
+      "publishOn": 1787325883748,
+      "addedOn": 1787325883748,
+      "updatedOn": 1787326705475
+    },
     {
       "id": "6a886b4e1d644e3868b8f48d",
       "title": "Regards croisés sur Dia al-Azzawi",
@@ -100,7 +146,7 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787324092884-97QE372UJZP2UNN7YNU3/Geneva_Art_Week-Exhibition_2026-Between-Homes-Les-Asperges-1.webp",
       "mediaFocalPoint": {
         "x": 0.4961030915904519,
-        "y": 0.17104306227222943,
+        "y": 0.0758020172562267,
         "source": 3
       },
       "categories": [
@@ -133,7 +179,49 @@
       "workflowState": 1,
       "publishOn": 1787323534282,
       "addedOn": 1787323534282,
-      "updatedOn": 1787324871413
+      "updatedOn": 1787326910815
+    },
+    {
+      "id": "6a88566c9cf9f5355782067c",
+      "title": "Aline Favre",
+      "fullUrl": "/programme-2026/aline-favre",
+      "urlId": "aline-favre",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/eee8d59e-f998-44ed-9581-11ef14be3492/Geneva_Art_Week-Exhibition_2026-Galerie_FADA-Aline_Favre.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Quartier: Carouge",
+        "Thématique: Céramique",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Sélection: Parcours Céramique Carouge",
+        "Artiste: Aline Favre",
+        "Membre: Galerie Fada"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1863871,
+        "mapLng": 6.14012,
+        "markerLat": 46.1863871,
+        "markerLng": 6.14012,
+        "addressTitle": "Galerie Fada",
+        "addressLine1": "Rue Saint-Victor 3",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 150,
+      "workflowState": 1,
+      "publishOn": 1787319916305,
+      "addedOn": 1787319916305,
+      "updatedOn": 1787327276266
     },
     {
       "id": "6a87e00800d6d1098713d51d",
