@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-21T09:37:58.513Z",
-  "sourceHash": "e171d652c3aa82384ac461e3dde70d3ed19641570804725da753ce681af1305c",
+  "updatedAt": "2026-08-21T13:47:59.989Z",
+  "sourceHash": "4b79d8f53a6e56ac886435c53935a962b6c9f1a1a7ec76f311ce11945f98da27",
   "count": 140,
   "pages": 7,
   "items": [
@@ -50,7 +50,7 @@
       "workflowState": 1,
       "publishOn": 1787289608602,
       "addedOn": 1787289608602,
-      "updatedOn": 1787302727781
+      "updatedOn": 1787319916449
     },
     {
       "id": "6a86e2f249019b00a1f96c50",
@@ -5800,7 +5800,7 @@
       "title": "Bourses Berthoud, Lissignol-Chevalier et Galland",
       "fullUrl": "/programme-2026/bourses-berthoud-lissignol-chevalier-et-galland",
       "urlId": "bourses-berthoud-lissignol-chevalier-et-galland",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785788069822-FT3FNVRV7IMKBZ5O3VV6/Geneva_Art_Week-Exhibition_2026-Centre_Art_Comtemporain-Bourses_Berthoud-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787319882004-SBG5UNNQT9SP0SN3AJF5/Geneva_Art_Week-Exhibition_2026-Bourses-BLCG-2.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -5847,7 +5847,7 @@
       "workflowState": 1,
       "publishOn": 1783352898630,
       "addedOn": 1783352898630,
-      "updatedOn": 1787052945461
+      "updatedOn": 1787319897180
     },
     {
       "id": "6a4bc793afabb73f86f2ca8a",
