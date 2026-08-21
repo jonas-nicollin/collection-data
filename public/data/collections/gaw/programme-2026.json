@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-21T15:18:03.877Z",
-  "sourceHash": "47d9d759984615181b30d22d0e2ec1bcb131d6dc6c55069af034263c3a2e88c9",
-  "count": 142,
+  "updatedAt": "2026-08-21T15:28:05.005Z",
+  "sourceHash": "a7afed325f7a804d6d03aefcccc3cddf5f6337385e7c05c21080a8f6cb6f3e8f",
+  "count": 143,
   "pages": 8,
   "items": [
+    {
+      "id": "6a886b4e1d644e3868b8f48d",
+      "title": "Regards croisés sur Dia al-Azzawi",
+      "fullUrl": "/programme-2026/regards-croises-sur-dia-al-azzawi",
+      "urlId": "regards-croises-sur-dia-al-azzawi",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787325533144-8EH2TNRKMHPBK5Y9X09O/Geneva_Art_Week-Event_2026-Dia+al-Azzawi.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Thématique: Peinture",
+        "Thématique: Art contemporain",
+        "Artiste: Dia al-Azzawi",
+        "Membre:  La Galerie 38",
+        "Quartier:  Quartier des Bains",
+        "Type: Événement",
+        "Date: 2026-09-18T12:30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984548,
+        "mapLng": 6.1371483,
+        "markerLat": 46.1984548,
+        "markerLng": 6.1371483,
+        "addressTitle": "La Galerie 38",
+        "addressLine1": "Rue des Bains 24",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 153,
+      "workflowState": 1,
+      "publishOn": 1787325262257,
+      "addedOn": 1787325262257,
+      "updatedOn": 1787325738351
+    },
     {
       "id": "6a886897a4c25b6c7119a343",
       "title": "Balade au gré des œuvres d’art dans la ville, du Parc Trembley au Bains des Pâquis",
@@ -989,7 +1030,7 @@
       "workflowState": 1,
       "publishOn": 1786229967222,
       "addedOn": 1786229967222,
-      "updatedOn": 1787224571623
+      "updatedOn": 1787325883846
     },
     {
       "id": "6a77b08c469d6b5c61baa176",
