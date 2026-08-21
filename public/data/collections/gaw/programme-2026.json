@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-21T15:08:02.657Z",
-  "sourceHash": "f9a56b9a21f57dfe77422dcb2fbe8ac6f2696bf951bbf0c30423e63287b67579",
-  "count": 141,
+  "updatedAt": "2026-08-21T15:18:03.877Z",
+  "sourceHash": "47d9d759984615181b30d22d0e2ec1bcb131d6dc6c55069af034263c3a2e88c9",
+  "count": 142,
   "pages": 8,
   "items": [
+    {
+      "id": "6a886897a4c25b6c7119a343",
+      "title": "Balade au gré des œuvres d’art dans la ville, du Parc Trembley au Bains des Pâquis",
+      "fullUrl": "/programme-2026/balade-au-gre-des-uvres-dart-dans-la-ville-du-parc-trembley-au-bains-des-paquis",
+      "urlId": "balade-au-gre-des-uvres-dart-dans-la-ville-du-parc-trembley-au-bains-des-paquis",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787324785450-M9OVOWDIPOF4GIWBJ6SE/Geneva_Art_Week-Event_2026-FMAC-Art-Public.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite guidée"
+      ],
+      "tags": [
+        "Quartier:  Quartier des Bains",
+        "Thématique: Art contemporain",
+        "Membre: FMAC – Fonds d'art contemporain de la Ville de Genève",
+        "Type: Événement",
+        "Intervenante: Saskia Gesinus",
+        "Date: 2026-09-20T10:30",
+        "Thématique: Sculpture"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2025598,
+        "mapLng": 6.1350337,
+        "markerLat": 46.2025598,
+        "markerLng": 6.1350337,
+        "addressTitle": "FMAC – Fonds d&#39;art contemporain de la Ville de Genève",
+        "addressLine1": "Chemin du 23-Août 5",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 152,
+      "workflowState": 1,
+      "publishOn": 1787324567853,
+      "addedOn": 1787324567853,
+      "updatedOn": 1787325174142
+    },
     {
       "id": "6a88648e5745341a4b26975b",
       "title": "Between Homes, Les Asperges",
