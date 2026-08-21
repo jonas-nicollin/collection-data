@@ -5,11 +5,53 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-21T05:27:59.615Z",
-  "sourceHash": "3034d078320de3e3fac4ba351a3e2fd1e96d7aacc8800d4ed867b59d16258ec9",
-  "count": 139,
+  "updatedAt": "2026-08-21T09:08:04.400Z",
+  "sourceHash": "5d2ef21958d6805782d4fbe25d1e1ba0e95e90900027d4971f715b0f258ed950",
+  "count": 140,
   "pages": 7,
   "items": [
+    {
+      "id": "6a87e00800d6d1098713d51d",
+      "title": "Hélène Loussier",
+      "fullUrl": "/programme-2026/helene-loussier",
+      "urlId": "helene-loussier",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787289794872-SVNUVMYQZGR60C9AP8EZ/Geneva_Art_Week-Exhibition_2026-Echoppe_des_arts-Parcours_Ceramique_Carouge-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Quartier: Carouge",
+        "Artiste: Hélène Loussier",
+        "Thématique: Céramique",
+        "Date: 2026-09-19/2026-09-27",
+        "Vernissage: 2026-09-19T11:30",
+        "Membre: L’Échoppe des Arts",
+        "Sélection: Parcours Céramique Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1849409,
+        "mapLng": 6.140495100000001,
+        "markerLat": 46.1849409,
+        "markerLng": 6.140495100000001,
+        "addressTitle": "L’Échoppe des Arts",
+        "addressLine1": "Place du Temple 9",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 149,
+      "workflowState": 1,
+      "publishOn": 1787289608602,
+      "addedOn": 1787289608602,
+      "updatedOn": 1787302727781
+    },
     {
       "id": "6a86e2f249019b00a1f96c50",
       "title": "TENDER BUTTONS",
