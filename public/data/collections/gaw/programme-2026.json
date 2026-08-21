@@ -5,11 +5,54 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-21T14:16:26.643Z",
-  "sourceHash": "f837e9b88f1bf409d7a6181894836848e947fdc63a7c1d1c53871ed50ceeaeb7",
-  "count": 140,
-  "pages": 7,
+  "updatedAt": "2026-08-21T14:58:09.074Z",
+  "sourceHash": "0fff23246826fefad381563844856da889d4fdc2e6243daac5ce490efeb99470",
+  "count": 141,
+  "pages": 8,
   "items": [
+    {
+      "id": "6a88648e5745341a4b26975b",
+      "title": "Between Homes, Les Asperges",
+      "fullUrl": "/programme-2026/between-homes-les-asperges",
+      "urlId": "between-homes-les-asperges",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787324092884-97QE372UJZP2UNN7YNU3/Geneva_Art_Week-Exhibition_2026-Between-Homes-Les-Asperges-1.webp",
+      "mediaFocalPoint": {
+        "x": 0.4961030915904519,
+        "y": 0.17104306227222943,
+        "source": 3
+      },
+      "categories": [
+        "Performance"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Thématique: Art contemporain",
+        "Thématique: Scène émergente",
+        "Artiste: Sabrina Smaili",
+        "Quartier: Plainpalais",
+        "Lieu: Le Commun",
+        "Membre: Le Commun",
+        "Membre: Centre d’Art Contemporain Genève",
+        "Date: 2026-09-19T17:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1989327,
+        "mapLng": 6.1381708,
+        "markerLat": 46.1989327,
+        "markerLng": 6.1381708,
+        "addressTitle": "Le Commun",
+        "addressLine1": "Rue des Vieux-Grenadiers 10",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 151,
+      "workflowState": 1,
+      "publishOn": 1787323534282,
+      "addedOn": 1787323534282,
+      "updatedOn": 1787324259905
+    },
     {
       "id": "6a87e00800d6d1098713d51d",
       "title": "Hélène Loussier",
