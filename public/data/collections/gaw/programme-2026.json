@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-24T09:38:05.013Z",
-  "sourceHash": "c9bb8360beac43526109f19b75a6065490739eae42d31fb3df96138221479783",
-  "count": 148,
+  "updatedAt": "2026-08-24T11:17:58.267Z",
+  "sourceHash": "7052ed7cad94a388db41a046bdb9bd2207840dad031c4aedd20a0b1c5325204f",
+  "count": 149,
   "pages": 8,
   "items": [
+    {
+      "id": "6a8c256c21c16709074f0902",
+      "title": "Antoni Tàpies – Variations sur un thème musical",
+      "fullUrl": "/programme-2026/antoni-tapies-sous-titre-variations-sur-un-theme-musical",
+      "urlId": "antoni-tapies-sous-titre-variations-sur-un-theme-musical",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/c421d38d-729d-4bcd-91b1-d324c2c24064/Geneva_Art_Week-Exhibition_2026-Ta%CC%80pies-Variation+sur+un+the%CC%80me+musical+VII.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Membre: L'Exemplaire",
+        "Artiste: Antoni Tàpies",
+        "Sélection: Art en Vieille-Ville",
+        "Quartier: Vieille-Ville",
+        "Date: 2026-09-16/2026-10-31",
+        "Vernissage: 2026-09-16T17:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2017889,
+        "mapLng": 6.146338600000001,
+        "markerLat": 46.2017889,
+        "markerLng": 6.146338600000001,
+        "addressTitle": "L&#39;Exemplaire",
+        "addressLine1": "Grand-Rue 25",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 157,
+      "workflowState": 1,
+      "publishOn": 1787569516926,
+      "addedOn": 1787569516926,
+      "updatedOn": 1787570066466
+    },
     {
       "id": "6a8bf9aea831ed1ec9465d68",
       "title": "Marianne Brand",
@@ -49,7 +90,7 @@
       "workflowState": 1,
       "publishOn": 1787558318224,
       "addedOn": 1787558318224,
-      "updatedOn": 1787564264904
+      "updatedOn": 1787569516996
     },
     {
       "id": "6a8be78c5e481c62d89c80ba",
