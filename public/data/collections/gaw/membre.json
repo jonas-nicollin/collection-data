@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-24T09:48:07.435Z",
-  "sourceHash": "3ef4eac7781beeebb2a8734c2956c5ecc524448c53219c6de48cd4bab37f9aff",
-  "count": 92,
+  "updatedAt": "2026-08-24T10:18:06.899Z",
+  "sourceHash": "78ab557b5bd1ad1bc61b8a7feb9c62a0f0b395ba61454b21928e5b792affcbcb",
+  "count": 93,
   "pages": 1,
   "items": [
     {
@@ -1086,6 +1086,48 @@
       "publishOn": 1746925200663,
       "addedOn": 1746925200663,
       "updatedOn": 1782198317535
+    },
+    {
+      "id": "6a8b494012648a6c45b0864e",
+      "title": "Galerie Fada",
+      "fullUrl": "/membre/galerie-fada",
+      "urlId": "galerie-fada",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/060d4938-2448-4f9a-a981-c4f8a362df31/Geneva_Art_Week-Members_2026-Galerie-Fada-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Thématique: Céramique",
+        "Quartier: Carouge",
+        "Thématique: Décoration",
+        "Sélection: Parcours Céramique Carouge",
+        "Membre: Galerie Fada",
+        "Thématique: Dessin",
+        "Thématique: Peinture",
+        "Thématique: Sculpture"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1863871,
+        "mapLng": 6.14012,
+        "markerLat": 46.1806823,
+        "markerLng": 6.141282299999999,
+        "addressTitle": "Galerie Fada",
+        "addressLine1": "Rue Saint-Victor 3",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 102,
+      "workflowState": 1,
+      "publishOn": 1746925192416,
+      "addedOn": 1746925192416,
+      "updatedOn": 1787566198526
     },
     {
       "id": "6a31ba0abc9a0719f5e776e5",
