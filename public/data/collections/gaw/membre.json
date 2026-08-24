@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-24T09:38:06.604Z",
-  "sourceHash": "e773390a3392eeec755793cbfc4ae8dbb6b3f4209e9bea8c2c5b05d8f371b201",
+  "updatedAt": "2026-08-24T09:48:07.435Z",
+  "sourceHash": "3ef4eac7781beeebb2a8734c2956c5ecc524448c53219c6de48cd4bab37f9aff",
   "count": 92,
   "pages": 1,
   "items": [
@@ -1310,7 +1310,8 @@
         "Thématique: Peinture",
         "Thématique: Dessin",
         "Thématique: Sculpture",
-        "Quartier: Carouge"
+        "Quartier: Carouge",
+        "Sélection: Parcours Céramique Carouge"
       ],
       "excerpt": "",
       "location": {
@@ -1328,7 +1329,7 @@
       "workflowState": 1,
       "publishOn": 1746692700899,
       "addedOn": 1746692700899,
-      "updatedOn": 1787564212954
+      "updatedOn": 1787564678281
     },
     {
       "id": "68248792cdfab25869f2b31d",
