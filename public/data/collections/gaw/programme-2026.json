@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-24T11:17:58.267Z",
-  "sourceHash": "7052ed7cad94a388db41a046bdb9bd2207840dad031c4aedd20a0b1c5325204f",
-  "count": 149,
+  "updatedAt": "2026-08-24T22:47:59.977Z",
+  "sourceHash": "6462c619cd0b41473fb9d432eb9bc0ab45176fc83574715aa1d3cb7567935547",
+  "count": 150,
   "pages": 8,
   "items": [
+    {
+      "id": "6a8cc6280123e765edb378fc",
+      "title": "Concert John Armleder Trio",
+      "fullUrl": "/programme-2026/concert-john-armleder-trio",
+      "urlId": "concert-john-armleder-trio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/5de69a07-e42b-41f9-802c-ad6f60b42551/Geneva_Art_Week-Event_2026-Concert-John-Armleder-Trio.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Performance"
+      ],
+      "tags": [
+        "Quartier: Vieille-Ville",
+        "Membre: MAH – Musée d’Art et d’Histoire de Genève",
+        "Thématique: Concert",
+        "Artiste: John Armleder",
+        "Artiste: Stephan Eicher",
+        "Artiste: Christian Marclay",
+        "Date: 2026-09-19T18:30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.199284,
+        "mapLng": 6.1515081,
+        "markerLat": 46.199284,
+        "markerLng": 6.1515081,
+        "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+        "addressLine1": "Rue Charles-Galland 2",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 158,
+      "workflowState": 1,
+      "publishOn": 1787610664245,
+      "addedOn": 1787610664245,
+      "updatedOn": 1787611098595
+    },
     {
       "id": "6a8c256c21c16709074f0902",
       "title": "Antoni Tàpies – Variations sur un thème musical",
