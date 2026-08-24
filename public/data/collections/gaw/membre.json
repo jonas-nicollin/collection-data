@@ -5,9 +5,9 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-23T19:28:04.297Z",
-  "sourceHash": "b315afb2189341a15aa7349d1b508f807fb7801b96f8e9e958669a88e629402d",
-  "count": 91,
+  "updatedAt": "2026-08-24T09:38:06.604Z",
+  "sourceHash": "e773390a3392eeec755793cbfc4ae8dbb6b3f4209e9bea8c2c5b05d8f371b201",
+  "count": 92,
   "pages": 1,
   "items": [
     {
@@ -1289,6 +1289,46 @@
       "publishOn": 1746754020733,
       "addedOn": 1746754020733,
       "updatedOn": 1787005294604
+    },
+    {
+      "id": "68b0b98d3e112f3afcdb3de5",
+      "title": "Galerie Marianne Brand",
+      "fullUrl": "/membre/galerie-marianne-brand",
+      "urlId": "galerie-marianne-brand",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1756654543958-GPT98VTEZKEFMTST1ZF6/Geneva_Art_Week-Members-Galerie_Marianne_Brand-Featured_Image-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Membre invité"
+      ],
+      "tags": [
+        "Membre: Galerie Marianne Brand",
+        "Thématique: Art contemporain",
+        "Thématique: Peinture",
+        "Thématique: Dessin",
+        "Thématique: Sculpture",
+        "Quartier: Carouge"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1825548,
+        "mapLng": 6.1410136,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Marianne Brand",
+        "addressLine1": "Rue Ancienne 20",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 35,
+      "workflowState": 1,
+      "publishOn": 1746692700899,
+      "addedOn": 1746692700899,
+      "updatedOn": 1787564212954
     },
     {
       "id": "68248792cdfab25869f2b31d",
