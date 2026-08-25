@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-08-25T08:57:58.711Z",
-  "sourceHash": "581587092d3d008451fbb9aa8415c812de22d8d5d203e87b10d94da666fb98e6",
+  "updatedAt": "2026-08-25T14:18:00.402Z",
+  "sourceHash": "c80ad1e61861327ebfa0303810d35470ea0129682662ff8d70dae9e20d2b9147",
   "count": 52,
   "pages": 3,
   "items": [
@@ -1995,7 +1995,7 @@
       "workflowState": 1,
       "publishOn": 1787299238383,
       "addedOn": 1787299238383,
-      "updatedOn": 1783593141216
+      "updatedOn": 1787667430035
     },
     {
       "id": "69f890182a65a5690a23ce4e",
@@ -2013,11 +2013,11 @@
       ],
       "tags": [
         "Année: 2026",
-        "Date: 2026-09-19/2026-09-27",
         "Zone: Genève",
         "Artiste: Jan Steemann",
         "Numéro: 30",
-        "Lieu: Olizane – Espace d’art contemporain"
+        "Lieu: Olizane – Espace d’art contemporain",
+        "Dates:2026-09-16/2026-09-30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>Mutualisme</em>, Jan Steenman s’inspire des mycorhizes, ces réseaux souterrains de filaments reliant plantes et champignons dans une relation d’échange réciproque. Ses sculptures en céramique se déploient par extensions, ramifications et tensions, comme les manifestations visibles d’un système plus vaste dont l’essentiel demeure invisible. Leurs surfaces organiques suggèrent des réseaux vivants. Chaque pièce est un état transitoire, cristallisation provisoire d’un processus en cours.</p>",
       "location": {
@@ -2035,7 +2035,7 @@
       "workflowState": 1,
       "publishOn": 1787212847118,
       "addedOn": 1787212847118,
-      "updatedOn": 1785236695936
+      "updatedOn": 1787667322054
     },
     {
       "id": "6a5771aca8e15061f7f2333a",
