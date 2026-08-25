@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-25T20:28:13.534Z",
-  "sourceHash": "f3e04158c09a310285d3dbc0cbf722e523a8dff6e4702c09b0bac1b15918c426",
-  "count": 149,
+  "updatedAt": "2026-08-25T21:28:12.275Z",
+  "sourceHash": "9233811d880efdd90e32cfd6df7eae59611f25c3ae1e35d7f0d6e9c0c4122321",
+  "count": 150,
   "pages": 8,
   "items": [
+    {
+      "id": "6a8e063111b8a57ec03b0405",
+      "title": "Jérémy Bajulaz – Pensées sous les nuages",
+      "fullUrl": "/programme-2026/jeremy-bajulaz",
+      "urlId": "jeremy-bajulaz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785273783564-0P4XR2FEEJYSX91EN5B9/Geneva_Art_Week-Exhibition_2026-Ormond_Editions-Jeremy_Bajulaz-Gallery-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Membre: Ormond Editions",
+        "Quartier: Eaux-Vives Cité",
+        "Type: Exposition",
+        "Artiste: Jérémy Bajulaz",
+        "Date: 2026-09-16/2026-09-20",
+        "Vernissage: 2026-09-16T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2036691,
+        "mapLng": 6.1551452,
+        "markerLat": 46.2036691,
+        "markerLng": 6.1551452,
+        "addressTitle": "Ormond Editions",
+        "addressLine1": "Rue de la Scie 4-6",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 159,
+      "workflowState": 1,
+      "publishOn": 1787692593037,
+      "addedOn": 1787692593037,
+      "updatedOn": 1787693217502
+    },
     {
       "id": "6a8cc6280123e765edb378fc",
       "title": "Concert John Armleder Trio",
@@ -2367,26 +2408,26 @@
     },
     {
       "id": "6a691c295b96c10d5ba7b8e7",
-      "title": "Jérémy Bajulaz – Pensées sous les nuages",
-      "fullUrl": "/programme-2026/jeremy-bajulaz",
-      "urlId": "jeremy-bajulaz",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785273394624-4BUGAC2PC6CK3A0L6GKE/Geneva_Art_Week-Exhibition_2026-Ormond_Editions-Jeremy_Bajulaz-Featured-01.webp",
+      "title": "Pensées sous les nuages – Visite guidée avec l’artiste Jérémy Bajulaz",
+      "fullUrl": "/programme-2026/jeremy-bajulaz-visite-guidee",
+      "urlId": "jeremy-bajulaz-visite-guidee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785273783564-0P4XR2FEEJYSX91EN5B9/Geneva_Art_Week-Exhibition_2026-Ormond_Editions-Jeremy_Bajulaz-Gallery-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
         "source": 3
       },
       "categories": [
-        "Exposition"
+        "Visite guidée"
       ],
       "tags": [
         "Thématique: Art contemporain",
         "Membre: Ormond Editions",
         "Quartier: Eaux-Vives Cité",
-        "Type: Exposition",
         "Artiste: Jérémy Bajulaz",
-        "Date: 2026-09-16/2026-09-20",
-        "Vernissage: 2026-09-16T18:00"
+        "Thématique: Peinture",
+        "Type: Événement",
+        "Date: 2026-09-19T15:00"
       ],
       "excerpt": "",
       "location": {
@@ -2404,7 +2445,7 @@
       "workflowState": 1,
       "publishOn": 1785273385742,
       "addedOn": 1785273385742,
-      "updatedOn": 1786458445025
+      "updatedOn": 1787693138038
     },
     {
       "id": "6a6918a0bda8447fddd9fc56",
