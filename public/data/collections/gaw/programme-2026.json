@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-25T21:28:12.275Z",
-  "sourceHash": "9233811d880efdd90e32cfd6df7eae59611f25c3ae1e35d7f0d6e9c0c4122321",
+  "updatedAt": "2026-08-25T21:38:02.386Z",
+  "sourceHash": "a4accf143f9ad44e5fdaccc0105497e6f42168b46a60628a1a5adbf1401656fa",
   "count": 150,
   "pages": 8,
   "items": [
@@ -15,7 +15,7 @@
       "title": "Jérémy Bajulaz – Pensées sous les nuages",
       "fullUrl": "/programme-2026/jeremy-bajulaz",
       "urlId": "jeremy-bajulaz",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785273783564-0P4XR2FEEJYSX91EN5B9/Geneva_Art_Week-Exhibition_2026-Ormond_Editions-Jeremy_Bajulaz-Gallery-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785273810719-PRKXGJY5A19WF0Z4T2XC/Geneva_Art_Week-Exhibition_2026-Ormond_Editions-Jeremy_Bajulaz-Featured-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -49,7 +49,7 @@
       "workflowState": 1,
       "publishOn": 1787692593037,
       "addedOn": 1787692593037,
-      "updatedOn": 1787693217502
+      "updatedOn": 1787693687980
     },
     {
       "id": "6a8cc6280123e765edb378fc",
