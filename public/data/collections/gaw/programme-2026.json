@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-25T17:48:04.393Z",
-  "sourceHash": "42450cd9d3595baca0071002648955c444417046ccf8d5625f0837ab74795dd0",
-  "count": 150,
+  "updatedAt": "2026-08-25T20:28:13.534Z",
+  "sourceHash": "f3e04158c09a310285d3dbc0cbf722e523a8dff6e4702c09b0bac1b15918c426",
+  "count": 149,
   "pages": 8,
   "items": [
     {
@@ -132,48 +132,6 @@
       "publishOn": 1787558318224,
       "addedOn": 1787558318224,
       "updatedOn": 1787569516996
-    },
-    {
-      "id": "6a8be78c5e481c62d89c80ba",
-      "title": "Elsewhere Begins Here",
-      "fullUrl": "/programme-2026/elsewhere-begins-here",
-      "urlId": "elsewhere-begins-here",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787553709613-CV3CEM2U8UZXKE8CQ4R9/PCC_2026-28-Espace_L-Elsewhere_Begins_Here-Featured.webp",
-      "mediaFocalPoint": {
-        "x": 0.5044731400458616,
-        "y": 0.6234702480793682,
-        "source": 3
-      },
-      "categories": [
-        "Exposition"
-      ],
-      "tags": [
-        "Type: Exposition",
-        "Sélection: Parcours Céramique Carouge",
-        "Membre: Espace_L",
-        "Artiste: Fernando de la Rocque",
-        "Artiste: Vasilis Zografos",
-        "Artiste: Vivianne van Singer",
-        "Quartier:  Quartier des Bains",
-        "Date: 2026-02-17/2026-10-26"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.198065,
-        "mapLng": 6.136406,
-        "markerLat": 46.198065,
-        "markerLng": 6.136406,
-        "addressTitle": "Espace_L",
-        "addressLine1": "Rue des Bains 23",
-        "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 155,
-      "workflowState": 1,
-      "publishOn": 1787553676954,
-      "addedOn": 1787553676954,
-      "updatedOn": 1787564152473
     },
     {
       "id": "6a886dbb5c9df0478d791c5b",
