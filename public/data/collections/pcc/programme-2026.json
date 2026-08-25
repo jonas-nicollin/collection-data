@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-08-25T14:24:53.135Z",
-  "sourceHash": "3ef3e95d4d7618e2b788cf4fc66910f086a1ecb9d0a67a54aa1c1897523f6724",
+  "updatedAt": "2026-08-25T14:27:58.796Z",
+  "sourceHash": "5ae45cc8b540d249290070ccd31edca2a2d8043025c49620497e37a2ff20e9af",
   "count": 52,
   "pages": 3,
   "items": [
@@ -1914,7 +1914,7 @@
     },
     {
       "id": "69f88f4be61f4720c2e6edea",
-      "title": "Elsewhere Begins Here",
+      "title": "Flora incognita",
       "fullUrl": "/programme-2026/expositions/28/elsewhere-begins-here-the-poetics-of-the-in-between",
       "urlId": "expositions/28/elsewhere-begins-here-the-poetics-of-the-in-between",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/4e100eb3-13b1-4b70-b470-9e20ee9d710b/PCC_2026-28-Espace_L-Elsewhere_Begins_Here-002.webp",
@@ -1955,7 +1955,7 @@
       "workflowState": 1,
       "publishOn": 1787385622450,
       "addedOn": 1787385622450,
-      "updatedOn": 1787667835528
+      "updatedOn": 1787668051325
     },
     {
       "id": "69f88f8f5a3a3b38b7c32bab",
