@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-08-25T14:27:58.796Z",
-  "sourceHash": "5ae45cc8b540d249290070ccd31edca2a2d8043025c49620497e37a2ff20e9af",
+  "updatedAt": "2026-08-25T14:38:00.610Z",
+  "sourceHash": "5dae358100d9aa3c3c4a49b7823934b5190154433b2f5e31fa7c7ee39a2b0a6f",
   "count": 52,
   "pages": 3,
   "items": [
@@ -1852,7 +1852,8 @@
         "Artiste: Claire Mayet",
         "Lieu: Espace Labo",
         "Date: 2026-09-17/2026-10-30",
-        "Numéro: 26"
+        "Numéro: 26",
+        "Vernissage: 2026-09-17"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Invitée par Karen Alphonso au Labo, Claire Mayet présente «Rococozeit», une installation céramique qui transforme l’espace du lieu. À partir du vase, elle développe formes, motifs et surfaces qui se déploient à l’échelle de l’exposition. Sculptures, scénographie et papier peint dialoguent dans un décloisonnement des savoir-faire. Une œuvre collective réalisée avec plusieurs artistes invités prolonge cette recherche à travers un processus de co-création et de transmission.</p>",
       "location": {
@@ -1870,7 +1871,7 @@
       "workflowState": 1,
       "publishOn": 1787558403936,
       "addedOn": 1787558403936,
-      "updatedOn": 1785165976417
+      "updatedOn": 1787668605166
     },
     {
       "id": "69f88e4374e1ce4c39e2a986",
@@ -1892,7 +1893,8 @@
         "Lieu: Galerie Ligne Treize",
         "Date: 2026-09-17/2026-09-26",
         "Numéro: 27",
-        "Artiste: Margareta Daepp"
+        "Artiste: Margareta Daepp",
+        "Vernissage: 2026-09-17"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>&nbsp;Urbain</em>, Margareta Daepp s'inspire des gratte-ciels des métropoles, paysages de béton et de verre aux lignes pures et radicales. Elle moule ses œuvres en porcelaine à partir de matériaux industriels, tôle ondulée, tuyaux en plastique, carreaux, et n'hésite pas à les recouvrir de laque pour carrosserie. Le titre prend ici son double sens étymologique : ses pièces évoquent l'architecture de la ville contemporaine tout en faisant preuve d'urbanité, appelant la contemplation et le plaisir.</p>",
       "location": {
@@ -1910,7 +1912,7 @@
       "workflowState": 1,
       "publishOn": 1787472008168,
       "addedOn": 1787472008168,
-      "updatedOn": 1785166000511
+      "updatedOn": 1787668295729
     },
     {
       "id": "69f88f4be61f4720c2e6edea",
