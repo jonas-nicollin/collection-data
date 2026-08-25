@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-25T15:25:22.414Z",
-  "sourceHash": "5cd0e5433e1ff28d9cfe6cae4e711c87e212b2cdab8c8c863c2dd0795a496491",
+  "updatedAt": "2026-08-25T17:48:04.393Z",
+  "sourceHash": "42450cd9d3595baca0071002648955c444417046ccf8d5625f0837ab74795dd0",
   "count": 150,
   "pages": 8,
   "items": [
@@ -4384,10 +4384,10 @@
       "title": "Visite musicale de l’exposition Sylvia Sleigh – Balade musicale au musée",
       "fullUrl": "/programme-2026/visite-musicale-de-l-exposition-sylvia-sleigh-balade-musicale-au-musee",
       "urlId": "visite-musicale-de-l-exposition-sylvia-sleigh-balade-musicale-au-musee",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/b2c92e20-4021-4d26-b5c8-ff4329d6f200/Geneva_Art_Week-Event_2026-MAMCO-Sylvia+Sleigh-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/07c0d7a5-0fb4-41fc-ae2d-8800b96784a9/Geneva_Art_Week-Event_2026-Visite-musicale-exposition-Sylvia-Sleigh%E2%80%93Balade-musicale-au-muse%CC%81e.webp",
       "mediaFocalPoint": {
-        "x": 0.48214285714285715,
-        "y": 0.33630952380952384,
+        "x": 0.5124068678815938,
+        "y": 0.3555725869907347,
         "source": 3
       },
       "categories": [
@@ -4420,7 +4420,7 @@
       "workflowState": 1,
       "publishOn": 1783967670385,
       "addedOn": 1783967670385,
-      "updatedOn": 1785680285453
+      "updatedOn": 1787679952033
     },
     {
       "id": "6a552bae78b1d715536a69ab",
