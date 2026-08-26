@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-26T05:08:05.959Z",
-  "sourceHash": "5e34b2581a43e97d4d2eac393b1ec90e5cb813fddfafff747397d3ebfdb432aa",
+  "updatedAt": "2026-08-26T10:18:01.234Z",
+  "sourceHash": "7970e0bf49d2f60e7e8a7f7189ff943ab1b78f17ac534f40eea4d2805517bb8b",
   "count": 150,
   "pages": 8,
   "items": [
@@ -113,7 +113,8 @@
         "Sélection: Art en Vieille-Ville",
         "Quartier: Vieille-Ville",
         "Date: 2026-09-16/2026-10-31",
-        "Vernissage: 2026-09-16T17:00"
+        "Vernissage: 2026-09-16T17:00",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -131,7 +132,7 @@
       "workflowState": 1,
       "publishOn": 1787569516926,
       "addedOn": 1787569516926,
-      "updatedOn": 1787720268563
+      "updatedOn": 1787739393380
     },
     {
       "id": "6a8bf9aea831ed1ec9465d68",
@@ -2256,8 +2257,7 @@
         "Quartier:  Quartier des Bains",
         "Date: 2026-09-17/2026-12-19",
         "Vernissage: 2026-09-17T18:00",
-        "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -2275,7 +2275,7 @@
       "workflowState": 1,
       "publishOn": 1785277285132,
       "addedOn": 1785277285132,
-      "updatedOn": 1786455518018
+      "updatedOn": 1787739408860
     },
     {
       "id": "6a6926ab150c545027ca5d5d",
@@ -3373,7 +3373,7 @@
     },
     {
       "id": "6a5fea9aea5133409618fe61",
-      "title": "Yann-Stéphane Bisso – Art Tables",
+      "title": "Yann Stéphane Bisso – Art Tables",
       "fullUrl": "/programme-2026/yann-stphane-bisso-art-table",
       "urlId": "yann-stphane-bisso-art-table",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784671639204-XPMJP0BVEVTF8DU672CS/Geneva_Art_Week-Event_2026-Art-Tables-01.webp",
@@ -3410,7 +3410,7 @@
       "workflowState": 1,
       "publishOn": 1784670874526,
       "addedOn": 1784670874526,
-      "updatedOn": 1785683782734
+      "updatedOn": 1787739429883
     },
     {
       "id": "6a5fe478799b9d502f654e5f",
@@ -3650,7 +3650,8 @@
         "Thématique: Céramique",
         "Date: 2026-09-19/2026-09-27",
         "Sélection: Parcours Céramique Carouge",
-        "Vernissage: 2026-09-19T11:30"
+        "Vernissage: 2026-09-19T11:30",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -3668,7 +3669,7 @@
       "workflowState": 1,
       "publishOn": 1784307475042,
       "addedOn": 1784307475042,
-      "updatedOn": 1786094545377
+      "updatedOn": 1787739454475
     },
     {
       "id": "6a5a5d6bfb1aa80e0e9988db",
@@ -5686,7 +5687,8 @@
         "Thématique: Art contemporain",
         "Thématique: Scène artistique suisse",
         "Quartier: Quartier des Bains",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -5704,7 +5706,7 @@
       "workflowState": 1,
       "publishOn": 1783631797633,
       "addedOn": 1783631797633,
-      "updatedOn": 1786547251359
+      "updatedOn": 1787739376891
     },
     {
       "id": "6a500ca103eca961603dd6f9",
