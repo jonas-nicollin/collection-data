@@ -5,11 +5,113 @@
   "id": "artistes",
   "path": "/artistes",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/artistes?format=json",
-  "updatedAt": "2026-08-25T13:48:05.093Z",
-  "sourceHash": "4aca5b48e52b6ae26c058b9934836c9dfddf27257c903c3d3a607f8093d0c491",
-  "count": 37,
+  "updatedAt": "2026-08-26T15:48:29.448Z",
+  "sourceHash": "242d804c1d1239c6677f4ca9dd50352973151115bfc855ac17f68c965bc39f92",
+  "count": 40,
   "pages": 2,
   "items": [
+    {
+      "id": "6a8f01facef2d36e3b1e151a",
+      "title": "Marius Margot",
+      "fullUrl": "/artistes/marius-margot",
+      "urlId": "marius-margot",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1787756644755-42NSHUIRGQEH0A06RP04/PCC_2026-28-Espace_L-Flora_Incognita-Marius_Margot-003.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: Marius Margot",
+        "Naissance: 1989",
+        "Origine: Suisse"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Genève</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Marius Margot explore les croisements de la nature, de la fiction et de la culture numérique par la peinture. Il façonne des formes végétales imaginaires, empruntées au vocabulaire visuel du jeu vidéo, qui peuplent des écosystèmes spéculatifs où l'organique et le numérique se confondent. En élargissant l'espace narratif du tableau, ces organismes fictifs invitent à entrevoir des formes de vie inconnues, un monde végétal ouvert et sans cesse réinventé par la fiction.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diplômé (Bachelor et Master) de la Haute école d'art et de design (HEAD) de Genève. Bourses de recherche de la Ville de Genève et du Fonds cantonal d'art contemporain (FCAC). Résidence de recherche au Japon (2026). Travaux parus dans la revue Cahier (2025).</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1787757050407,
+      "addedOn": 1787757050407,
+      "updatedOn": 1787757165354
+    },
+    {
+      "id": "6a8f0161fa6f27625cf082ff",
+      "title": "David Elia",
+      "fullUrl": "/artistes/david-elia",
+      "urlId": "david-elia",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1787756644722-NXLBDTRR5V4UXB9JDQXU/PCC_2026-David_Elia-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.4583333333333333,
+        "y": 0.22619047619047616,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Artiste: David Elia",
+        "Naissance: 1982",
+        "Origine: Brésil"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille entre Rio de Janeiro et le sud de la France</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">David Elia explore les croisements de l'art, de la science et de l'histoire culturelle à travers des œuvres qui interrogent les plantes, les paysages et le matériau d'archive. Il fait de Werner's Nomenclature of Colour (1814), manuel de référence de Charles Darwin, un outil conceptuel reliant les premières taxinomies scientifiques aux héritages du commerce colonial. Échanges botaniques, industrialisation et hybridation culturelle y nourrissent des récits où l'écologie rejoint la mémoire collective.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formé à la Rhode Island School of Design (RISD) et à la Domus Academy de Milan. Résidence TAL, Rio de Janeiro (2026). Œuvres dans les collections du Nouveau Musée National de Monaco, du Musée des Arts Décoratifs de Paris, du Museum of Arts &amp; Design de New York, de la Collection François Pinault et de la Elton John Art Collection.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1787757031012,
+      "addedOn": 1787757031012,
+      "updatedOn": 1787757050417
+    },
+    {
+      "id": "6a8f00a9646e8b4b6fcab592",
+      "title": "Heberth Sobral",
+      "fullUrl": "/artistes/heberth-sobral",
+      "urlId": "heberth-sobral",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1787756643389-XU5E16KTZXDL3EWHGJP9/PCC_2026-Heberth_Sobral-001.webp",
+      "mediaFocalPoint": {
+        "x": 0.7047619047619048,
+        "y": 0.17261904761904767,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Naissance: 1984",
+        "Origine: Brésil",
+        "Artiste: Heberth Sobral"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Rio de Janeiro</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Formé à la photographie, Heberth Sobral devient l'assistant de Vik Muniz avant de développer une pratique attentive aux gestes et aux comportements du quotidien, portée par une culture de la mémoire. À partir d'objets et de matériaux familiers, il convoque les souvenirs personnels et collectifs et invite le regard à s'y reconnaître. Céramique, peinture, dessin, billets de banque, gravure sur bois ou poupées : dans cette diversité de médiums, il transforme l'objet ordinaire en langage, prolongeant l'esprit expérimental et participatif du mouvement néo-concret.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1787756713145,
+      "addedOn": 1787756713145,
+      "updatedOn": 1787759104742
+    },
     {
       "id": "6a1fc5a0259be70f07b0e5c3",
       "title": "Vasilis Zografos",
@@ -42,7 +144,7 @@
       "workflowState": 1,
       "publishOn": 1780467118247,
       "addedOn": 1780467118247,
-      "updatedOn": 1783513959666
+      "updatedOn": 1787756713154
     },
     {
       "id": "6a1fc553f8f3ce46ee330641",
@@ -606,7 +708,7 @@
     },
     {
       "id": "6a106e69158af01a826e32c7",
-      "title": "Xinyi Hu",
+      "title": "Xinyi fox Hu",
       "fullUrl": "/artistes/xinyi-hu",
       "urlId": "xinyi-hu",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1780845154349-G0AGB2LNPI88S1322EDP/PCC-Xinyi_Hu.webp",
@@ -617,11 +719,11 @@
       },
       "categories": [],
       "tags": [
-        "Artiste: Xinyi Hu",
         "Origine: Chine",
-        "Naissance: 1996"
+        "Naissance: 1996",
+        "Artiste: Xinyi Fox Hu"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Saint-Denis, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste visuelle diplômée de la HEAD – Genève (2022), Xinyi Hu développe une pratique mêlant céramique, installation et performance. Son travail explore les relations entre corps et matière à travers des formes évolutives où vulnérabilité et soin sont en jeu. Elle conçoit ses œuvres comme des situations sensibles, où gestes et matières se soutiennent et se transforment.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Lauréate d’une résidence de la Fondation Bruckner en 2023</em></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Vit et travaille à Saint-Denis, France.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste visuelle diplômée de la HEAD – Genève (2022), Xinyi Fox Hu développe une pratique mêlant céramique, installation et performance. Son travail explore les relations entre corps et matière à travers des formes évolutives où vulnérabilité et soin sont en jeu. Elle conçoit ses œuvres comme des situations sensibles, où gestes et matières se soutiennent et se transforment.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Lauréate d’une résidence de la Fondation Bruckner en 2023</em></p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -637,7 +739,7 @@
       "workflowState": 1,
       "publishOn": 1779461807895,
       "addedOn": 1779461807895,
-      "updatedOn": 1783513911008
+      "updatedOn": 1787756793077
     },
     {
       "id": "6a106e1e9ddeab5508da40bd",

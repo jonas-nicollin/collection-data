@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-08-25T14:38:00.610Z",
-  "sourceHash": "5dae358100d9aa3c3c4a49b7823934b5190154433b2f5e31fa7c7ee39a2b0a6f",
-  "count": 52,
+  "updatedAt": "2026-08-26T15:48:28.769Z",
+  "sourceHash": "732fe754e6eea1a2c8bb989e83238866c710caf8bba028531fbe174517b832ad",
+  "count": 53,
   "pages": 3,
   "items": [
     {
@@ -481,7 +481,7 @@
     },
     {
       "id": "6a241e75ec68211b7f8b643f",
-      "title": "Croissants &amp; Meet the Artist: Xinyi Hu",
+      "title": "Croissants &amp; Meet the Artist: Xinyi fox Hu",
       "fullUrl": "/programme-2026/croissants-meet-the-artist-xinyi-hu",
       "urlId": "croissants-meet-the-artist-xinyi-hu",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777650546580-DUW1O9N9P1L1930HPZS7/PCC_2026-24-Art_Resonance-Xin_Yi_Hu-003.webp",
@@ -496,9 +496,9 @@
       "tags": [
         "Zone: Carouge",
         "Année: 2026",
-        "Artiste: Xinyi Hu",
         "Date: 2026-09-20T11:00",
-        "Lieu: Art Resonance Gallery"
+        "Lieu: Art Resonance Gallery",
+        "Artiste: Xinyi Fox Hu"
       ],
       "excerpt": "",
       "location": {
@@ -515,7 +515,7 @@
       "workflowState": 1,
       "publishOn": 1789894849874,
       "addedOn": 1789894849874,
-      "updatedOn": 1784110984805
+      "updatedOn": 1787756718823
     },
     {
       "id": "6a24185eada08a3c9fcc54c5",
@@ -529,7 +529,7 @@
         "source": 3
       },
       "categories": [
-        "Performance"
+        "Visite commentée"
       ],
       "tags": [
         "Zone: Carouge",
@@ -554,7 +554,7 @@
       "workflowState": 1,
       "publishOn": 1789894842278,
       "addedOn": 1789894842278,
-      "updatedOn": 1783526028309
+      "updatedOn": 1787757610489
     },
     {
       "id": "6a2124434d7a6d31914f8843",
@@ -1674,7 +1674,7 @@
     },
     {
       "id": "69f4ca3727a19d79e3993abc",
-      "title": "Xinyi Hu",
+      "title": "Xinyi Fox Hu",
       "fullUrl": "/programme-2026/expositions/25/xinyi-hu",
       "urlId": "expositions/25/xinyi-hu",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1777650545175-XKEY0IP2BU1UM4X08T18/PCC_2026-24-Art_Resonance-Xin_Yi_Hu-004.webp",
@@ -1689,12 +1689,12 @@
       "tags": [
         "Année: 2026",
         "Sélection: Homepage",
-        "Date: 2026-09-19/2026-09-27",
         "Numéro: 24",
-        "Artiste: Xinyi Hu",
         "Zone: Genève",
         "Vernissage: 2026-09-16T16:00",
-        "Lieu: Art Resonance Gallery"
+        "Lieu: Art Resonance Gallery",
+        "Date:2026-09-16/2026-10-15",
+        "Artiste: Xinyi Fox Hu"
       ],
       "excerpt": "",
       "location": {
@@ -1712,7 +1712,7 @@
       "workflowState": 1,
       "publishOn": 1787904008551,
       "addedOn": 1787904008551,
-      "updatedOn": 1785165164039
+      "updatedOn": 1787756736886
     },
     {
       "id": "69f88c69a44f9a2979822283",
@@ -1752,6 +1752,44 @@
       "publishOn": 1787817642672,
       "addedOn": 1787817642672,
       "updatedOn": 1785237344367
+    },
+    {
+      "id": "6a8f0109ae464666b5bef7d6",
+      "title": "Visite commentée de l’exposition Rockeries",
+      "fullUrl": "/programme-2026/visite-commentee-de-l-exposition-la-matiere-de-l-absence-fzb7d",
+      "urlId": "visite-commentee-de-l-exposition-la-matiere-de-l-absence-fzb7d",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779375720638-8VYULMUON10PHJKG0MU1/PCC_2026-27-Espace_Labo-Claire_Mayet-014.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Visite commentée"
+      ],
+      "tags": [
+        "Année: 2026",
+        "Zone: Genève",
+        "Lieu: Espace Labo",
+        "Artiste: Claire Mayet",
+        "Date: 2026-09-22T18:30"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1787756809773,
+      "addedOn": 1787756809773,
+      "updatedOn": 1787757846404
     },
     {
       "id": "69f88d8e4be1e46e39170169",
@@ -1937,9 +1975,9 @@
         "Numéro: 28",
         "Lieu: Espace L",
         "Dates: 2026-09-18/2026-10-24",
-        "Artiste. Marius Margot",
         "Artiste: David Elia",
-        "Artiste: Heberth Sobral"
+        "Artiste: Heberth Sobral",
+        "Artiste: Marius Margot"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Pour célébrer les quinze ans d’Espace L, Leticia Maciel réunit Fernando de la Rocque, Vivianne van Singer et Vasilis Zografos dans <em>Elsewhere Begins Here, the Poetics of the In-Between</em>. À travers quinze œuvres, l’exposition explore l’entre-deux comme espace fertile de rencontre et de transformation. La céramique y occupe une place singulière, incarnant à travers le geste, la matière et le feu une métaphore de l’échange culturel et de ses métamorphoses.</p>",
       "location": {
@@ -1957,7 +1995,7 @@
       "workflowState": 1,
       "publishOn": 1787385622450,
       "addedOn": 1787385622450,
-      "updatedOn": 1787668051325
+      "updatedOn": 1787758259456
     },
     {
       "id": "69f88f8f5a3a3b38b7c32bab",
