@@ -5,11 +5,62 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-26T10:18:01.234Z",
-  "sourceHash": "7970e0bf49d2f60e7e8a7f7189ff943ab1b78f17ac534f40eea4d2805517bb8b",
-  "count": 150,
+  "updatedAt": "2026-08-26T10:28:01.304Z",
+  "sourceHash": "44f91df5370f302ae6157267366c8945ad1008ec97bc01e5a53a4bf77ed9ad69",
+  "count": 151,
   "pages": 8,
   "items": [
+    {
+      "id": "6a8e724c9e2374534ff9af22",
+      "title": "Collaboration Fabienne Levy et Maison LASSER",
+      "fullUrl": "/programme-2026/collaboration-fabienne-levy-et-maison-lasser",
+      "urlId": "collaboration-fabienne-levy-et-maison-lasser",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787720436948-562G5R7LOIOMAXYH0TA7/Geneva_Art_Week-Exhibition_2026-Fabienne_Levy-Collaboration_Fabienne_Levy_Et_Maison_Lasser-Featured-01.png",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Sélection: Art en Vieille-Ville",
+        "Quartier: Vieille-Ville",
+        "Membre: Galerie Fabienne Levy",
+        "Artiste: Ben Arpea",
+        "Artiste: Norbert Bisky",
+        "Artiste: Rebecca Brodskis",
+        "Artiste: Mattania Bössiger",
+        "Artiste: Alina Frieske",
+        "Artiste: Maryam Khosrovani",
+        "Artiste: Lasser",
+        "Lieu: Lasser",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Arts Décoratifs du XXe siècle",
+        "Date: 2026-09-16/2026-09-30",
+        "Vernissage: 2026-09-16T16:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2016042,
+        "mapLng": 6.1460867,
+        "markerLat": 46.2016042,
+        "markerLng": 6.1460867,
+        "addressTitle": "Lasser",
+        "addressLine1": "Grand-Rue 28",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 160,
+      "workflowState": 1,
+      "publishOn": 1787720268537,
+      "addedOn": 1787720268537,
+      "updatedOn": 1787739713510
+    },
     {
       "id": "6a8e063111b8a57ec03b0405",
       "title": "Jérémy Bajulaz – Pensées sous les nuages",
@@ -4571,7 +4622,6 @@
         "Artiste: Annemarie Vogel",
         "Artiste: Dawid Zynda",
         "Sélection: Parcours Céramique Carouge",
-        "Sélection: Expositions principales",
         "Vernissage: 2026-09-19T09:30"
       ],
       "excerpt": "",
@@ -4590,7 +4640,7 @@
       "workflowState": 1,
       "publishOn": 1783959117424,
       "addedOn": 1783959117424,
-      "updatedOn": 1787224365490
+      "updatedOn": 1787739495943
     },
     {
       "id": "6a550814d2b952267ff74d31",
