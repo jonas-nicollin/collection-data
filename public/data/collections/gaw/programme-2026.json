@@ -5,62 +5,11 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-26T10:28:01.304Z",
-  "sourceHash": "44f91df5370f302ae6157267366c8945ad1008ec97bc01e5a53a4bf77ed9ad69",
+  "updatedAt": "2026-08-26T10:48:02.115Z",
+  "sourceHash": "0961f10c76e01cd4fef87cd61334710f66fa6687e4f03431095aa69eb7080276",
   "count": 151,
   "pages": 8,
   "items": [
-    {
-      "id": "6a8e724c9e2374534ff9af22",
-      "title": "Collaboration Fabienne Levy et Maison LASSER",
-      "fullUrl": "/programme-2026/collaboration-fabienne-levy-et-maison-lasser",
-      "urlId": "collaboration-fabienne-levy-et-maison-lasser",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787720436948-562G5R7LOIOMAXYH0TA7/Geneva_Art_Week-Exhibition_2026-Fabienne_Levy-Collaboration_Fabienne_Levy_Et_Maison_Lasser-Featured-01.png",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Exposition"
-      ],
-      "tags": [
-        "Type: Exposition",
-        "Sélection: Art en Vieille-Ville",
-        "Quartier: Vieille-Ville",
-        "Membre: Galerie Fabienne Levy",
-        "Artiste: Ben Arpea",
-        "Artiste: Norbert Bisky",
-        "Artiste: Rebecca Brodskis",
-        "Artiste: Mattania Bössiger",
-        "Artiste: Alina Frieske",
-        "Artiste: Maryam Khosrovani",
-        "Artiste: Lasser",
-        "Lieu: Lasser",
-        "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
-        "Thématique: Arts Décoratifs du XXe siècle",
-        "Date: 2026-09-16/2026-09-30",
-        "Vernissage: 2026-09-16T16:00"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.2016042,
-        "mapLng": 6.1460867,
-        "markerLat": 46.2016042,
-        "markerLng": 6.1460867,
-        "addressTitle": "Lasser",
-        "addressLine1": "Grand-Rue 28",
-        "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 160,
-      "workflowState": 1,
-      "publishOn": 1787720268537,
-      "addedOn": 1787720268537,
-      "updatedOn": 1787739713510
-    },
     {
       "id": "6a8e063111b8a57ec03b0405",
       "title": "Jérémy Bajulaz – Pensées sous les nuages",
@@ -3402,7 +3351,8 @@
         "Lieu: Bleu Nuit",
         "Quartier: Plainpalais",
         "Artiste: Salomé Engel",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -3420,7 +3370,7 @@
       "workflowState": 1,
       "publishOn": 1784672016182,
       "addedOn": 1784672016182,
-      "updatedOn": 1785683759558
+      "updatedOn": 1787740776741
     },
     {
       "id": "6a5fea9aea5133409618fe61",
@@ -3443,7 +3393,8 @@
         "Date: 2026-09-16/2026-09-20",
         "Artiste: Yann-Stéphane Bisso",
         "Thématique: Scène artistique suisse",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -3461,7 +3412,7 @@
       "workflowState": 1,
       "publishOn": 1784670874526,
       "addedOn": 1784670874526,
-      "updatedOn": 1787739429883
+      "updatedOn": 1787740756979
     },
     {
       "id": "6a5fe478799b9d502f654e5f",
@@ -6723,6 +6674,57 @@
       "publishOn": 1782142425493,
       "addedOn": 1782142425493,
       "updatedOn": 1786096838452
+    },
+    {
+      "id": "6a8e724c9e2374534ff9af22",
+      "title": "Collaboration Fabienne Levy et Maison LASSER",
+      "fullUrl": "/programme-2026/collaboration-fabienne-levy-et-maison-lasser",
+      "urlId": "collaboration-fabienne-levy-et-maison-lasser",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787720436948-562G5R7LOIOMAXYH0TA7/Geneva_Art_Week-Exhibition_2026-Fabienne_Levy-Collaboration_Fabienne_Levy_Et_Maison_Lasser-Featured-01.png",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Sélection: Art en Vieille-Ville",
+        "Quartier: Vieille-Ville",
+        "Membre: Galerie Fabienne Levy",
+        "Artiste: Ben Arpea",
+        "Artiste: Norbert Bisky",
+        "Artiste: Rebecca Brodskis",
+        "Artiste: Mattania Bössiger",
+        "Artiste: Alina Frieske",
+        "Artiste: Maryam Khosrovani",
+        "Artiste: Lasser",
+        "Lieu: Lasser",
+        "Thématique: Art contemporain",
+        "Thématique: Scène artistique suisse",
+        "Thématique: Arts Décoratifs du XXe siècle",
+        "Date: 2026-09-16/2026-09-30",
+        "Vernissage: 2026-09-16T16:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2016042,
+        "mapLng": 6.1460867,
+        "markerLat": 46.2016042,
+        "markerLng": 6.1460867,
+        "addressTitle": "Lasser",
+        "addressLine1": "Grand-Rue 28",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 160,
+      "workflowState": 1,
+      "publishOn": 1770443868537,
+      "addedOn": 1770443868537,
+      "updatedOn": 1787740875328
     }
   ]
 }
