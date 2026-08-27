@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-27T07:28:02.278Z",
-  "sourceHash": "e267aa830031fb78099d65c8f71889b73cefc5abc5e2846d36cb7c1b7eeccca3",
+  "updatedAt": "2026-08-27T07:38:03.718Z",
+  "sourceHash": "ff9e5d7c58d73e7f199e3bde1b35e0d7408132a90360ed420373fa3056f14e27",
   "count": 151,
   "pages": 8,
   "items": [
@@ -6595,7 +6595,7 @@
       "title": "Yuyan Wang",
       "fullUrl": "/programme-2026/yuyan-wang",
       "urlId": "yuyan-wang",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783332730385-JA6HIH378KHAQ8AP2KZ0/Geneva_Art_Week-Exhibition_2026-Forde-Yuyan_Wang-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787815693041-MV0ZPR4BZU6SLHFY6125/Geneva_Art_Week-Exhibition_2026-FORDE_yuyan-wang-1.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -6631,7 +6631,7 @@
       "workflowState": 1,
       "publishOn": 1783330521895,
       "addedOn": 1783330521895,
-      "updatedOn": 1787815634811
+      "updatedOn": 1787815844461
     },
     {
       "id": "6a3955d9adf86433f900c349",
