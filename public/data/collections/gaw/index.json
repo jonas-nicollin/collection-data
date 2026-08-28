@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-08-03T11:48:30.926Z",
-  "sourceHash": "ae8b7f72d4923afd7830b14f5d62800c81ddcd0bfb8d3fa8aa9d402baef66367",
+  "updatedAt": "2026-08-28T14:48:01.954Z",
+  "sourceHash": "2be9ea54dd610455bfdf1b5c5ae9fff6a92fec399deea22d842d6c6c4367a2b0",
   "count": 6,
   "pages": 1,
   "items": [
@@ -135,7 +135,7 @@
       ],
       "tags": [
         "Descripteur: Vernissages",
-        "Date: 2026-09-17T18:00/2026-09-17T21:00"
+        "Date: 2026-09-16T16:00/2026-09-16T21:00"
       ],
       "excerpt": "",
       "location": {
@@ -152,7 +152,7 @@
       "workflowState": 1,
       "publishOn": 1785496280967,
       "addedOn": 1785496280967,
-      "updatedOn": 1785496285526
+      "updatedOn": 1787928084491
     },
     {
       "id": "6a6c821d724a8154193f3660",
