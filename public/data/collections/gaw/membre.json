@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-08-28T16:08:06.217Z",
-  "sourceHash": "951c802603cef0ebf15aaaa151c8d359a486e9daa197b9d70a4bdfd6a62e8f95",
+  "updatedAt": "2026-08-28T16:18:02.658Z",
+  "sourceHash": "3e40a152f637cff524cfed045b5116e9227d1f2a0bc08bfa7eefdca217217a71",
   "count": 93,
   "pages": 1,
   "items": [
@@ -3156,7 +3156,7 @@
       "title": "Société des Arts de Genève",
       "fullUrl": "/membre/societe-des-arts-palais-de-geneve",
       "urlId": "societe-des-arts-palais-de-geneve",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1781649464170-I056SB0NGAH3WIPJNYPC/Geneva_Art_Week-Members-SDA.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/626eea41-37e7-44d3-abb5-37a3991dd311/Geneva_Art_Week-Members_2026-Socie%CC%81te%CC%81-des-Arts-de-Gene%CC%80ve.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -3192,7 +3192,7 @@
       "workflowState": 1,
       "publishOn": 1743984000888,
       "addedOn": 1743984000888,
-      "updatedOn": 1787933112075
+      "updatedOn": 1787933641127
     },
     {
       "id": "687cf7b5d1ea102c304ccc1d",
