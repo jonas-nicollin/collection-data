@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-08-26T15:48:28.769Z",
-  "sourceHash": "732fe754e6eea1a2c8bb989e83238866c710caf8bba028531fbe174517b832ad",
+  "updatedAt": "2026-08-28T09:07:58.691Z",
+  "sourceHash": "8aeeed80766c7a4f2617baf3bedf613fc10cfb7c17633a7dba1b6de8205f48f2",
   "count": 53,
   "pages": 3,
   "items": [
@@ -257,12 +257,12 @@
       "tags": [
         "Zone: Carouge",
         "Année: 2026",
-        "Date: 2026-09-24T14:00",
         "Lieu: Espace Dukat",
         "Lieu: Halles de la Fonderie",
         "Lieu: Galerie Kaolin",
         "Lieu: Galerie Séries Rares",
-        "Lieu: Galerie FADA"
+        "Lieu: Galerie FADA",
+        "Date: 2026-09-24T12:00"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Afin d'appréhender au mieux la richesse du medium céramique au regard du thème de la biennale, Corps, la Fondation Bruckner, organisatrice de l'événement, propose une série de quatre visites commentées qui parcourent, par tranches, les différents lieux du parcours.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Chacune réunit un petit groupe autour d'une partie des propositions : l'occasion d'en apprendre davantage sur les techniques céramiques, de se doter d'une grille de lecture et de rendre accessible ce qui, parfois, pourrait ne pas l'être. Une invitation à entrer plus avant dans la compréhension du medium.</p>",
       "location": {
@@ -279,7 +279,7 @@
       "workflowState": 1,
       "publishOn": 1790251204353,
       "addedOn": 1790251204353,
-      "updatedOn": 1783609660558
+      "updatedOn": 1787907611687
     },
     {
       "id": "6a24230d68d55c321acb7ed4",
