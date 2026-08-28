@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-28T16:18:01.586Z",
-  "sourceHash": "3369a574c7c07af5114e3e6b04bc0300368a29004e3f9359f4b143560274342c",
+  "updatedAt": "2026-08-28T16:28:00.692Z",
+  "sourceHash": "b06ecfe9ca2b67905f64cfdc54445dffc951dadec3c832da306bc8e76195f69b",
   "count": 151,
   "pages": 8,
   "items": [
@@ -6397,10 +6397,10 @@
       "title": "Pauline Coquart – Short Ass Attention Span #3",
       "fullUrl": "/programme-2026/short-life-attention-span-3",
       "urlId": "short-life-attention-span-3",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783347004648-S7NJC4Z696MROLN8KCOG/Geneva_Art_Week-Exhibition_2026-Centre_Art_Comtemporain-Short_Life_Attention_Span-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/ffcf8d91-fb52-45be-9033-ad002d0c0a8b/Geneva_Art_Week-Exhibition_2026-Pauline-Coquart.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5215741713176819,
+        "y": 0.27223667260173223,
         "source": 3
       },
       "categories": [
@@ -6434,7 +6434,7 @@
       "workflowState": 1,
       "publishOn": 1783346622744,
       "addedOn": 1783346622744,
-      "updatedOn": 1787053071616
+      "updatedOn": 1787934478631
     },
     {
       "id": "6a4b8cd461bf980f6c6e9e2d",
