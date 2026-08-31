@@ -5,8 +5,8 @@
   "id": "artistes",
   "path": "/artistes",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/artistes?format=json",
-  "updatedAt": "2026-08-26T15:48:29.448Z",
-  "sourceHash": "242d804c1d1239c6677f4ca9dd50352973151115bfc855ac17f68c965bc39f92",
+  "updatedAt": "2026-08-31T13:08:13.323Z",
+  "sourceHash": "163e00e409871cc64560b484121352ad7dc6344c37260b41e3c96271e27ff00d",
   "count": 40,
   "pages": 2,
   "items": [
@@ -755,7 +755,8 @@
       "categories": [],
       "tags": [
         "Artiste: Dita Cossio",
-        "Origine: Chili"
+        "Origine: Chili",
+        "Naissance: 1979"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Artiste multidisciplinaire chilienne, Dita (Bernardita) Cossio fonde sa pratique sur l’interrelation entre céramique et couture. Après un diplôme en design (Universidad Católica de Chile) et plus d’une décennie en direction artistique, elle se tourne en 2015 vers l’investigation des objets. Elle développe un procédé autodidacte mêlant quilting et coulage de porcelaine dans des moules textiles, explorant comment la souplesse peut façonner la structure. Ses formes hybrides font de la céramique une peau, une archive, un réceptacle.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><em>Prix spécial, Gyeonggi Ceramics Biennale (Corée). Homo Faber (Venise). Révélations (Paris).</em></p>",
       "location": {
@@ -773,7 +774,7 @@
       "workflowState": 1,
       "publishOn": 1779461733343,
       "addedOn": 1779461733343,
-      "updatedOn": 1783434950649
+      "updatedOn": 1788181384006
     },
     {
       "id": "6a106dc6550f886bc74b1365",
