@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-08-28T09:07:58.691Z",
-  "sourceHash": "8aeeed80766c7a4f2617baf3bedf613fc10cfb7c17633a7dba1b6de8205f48f2",
+  "updatedAt": "2026-08-31T12:08:12.988Z",
+  "sourceHash": "57b526fe568471d448c79364917b508799cb53ee092637cf8bdde877e0bc5ab3",
   "count": 53,
   "pages": 3,
   "items": [
@@ -1084,7 +1084,7 @@
       "workflowState": 1,
       "publishOn": 1789027200135,
       "addedOn": 1789027200135,
-      "updatedOn": 1783347346004
+      "updatedOn": 1788177666019
     },
     {
       "id": "696a423a054fc71a7afeec5d",
@@ -1670,7 +1670,7 @@
       "workflowState": 1,
       "publishOn": 1787990421453,
       "addedOn": 1787990421453,
-      "updatedOn": 1785165144941
+      "updatedOn": 1788177952460
     },
     {
       "id": "69f4ca3727a19d79e3993abc",
