@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-08-31T21:48:18.404Z",
-  "sourceHash": "de9999f87e519448556d8604e71fd7774f93214cc16cb8b58cbb1aeaaa4a7f55",
-  "count": 151,
+  "updatedAt": "2026-09-01T10:37:23.530Z",
+  "sourceHash": "c7bce0d702bfe4906f70a96ee77490862935e0030d21769b4072e26be67132da",
+  "count": 152,
   "pages": 8,
   "items": [
+    {
+      "id": "6a969b3a6578d677be00d32b",
+      "title": "Une expérience complètement art-gentée !",
+      "fullUrl": "/programme-2026/une-experience-completement-art-gentee",
+      "urlId": "une-experience-completement-art-gentee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1788255262907-ECIKS0DM6IGF77ZB2AYT/Geneva_Art_Week-Exhibition_2026-Confederation_Centre-Une_experience_completement_art_gentee-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Exposition",
+        "Artiste: John M Armlder",
+        "Date: 2026-09-14/2026-10-19",
+        "Thématique: Art contemporain",
+        "Lieu: Confédération Centre",
+        "Membre: MAH – Musée d’Art et d’Histoire de Genève",
+        "Quartier: Centre"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2035186,
+        "mapLng": 6.1444769,
+        "markerLat": 46.2035186,
+        "markerLng": 6.1444769,
+        "addressTitle": "Confédération Centre",
+        "addressLine1": "Rue de la Confédération 6, 8, 10",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 161,
+      "workflowState": 1,
+      "publishOn": 1788255034582,
+      "addedOn": 1788255034582,
+      "updatedOn": 1788258909988
+    },
     {
       "id": "6a8e063111b8a57ec03b0405",
       "title": "Jérémy Bajulaz – Pensées sous les nuages",
