@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-02T20:17:23.640Z",
-  "sourceHash": "e4f78196d9042eeb9e8483fb10ebfc7714d60d8cb4e959f18769a547b063f4ad",
+  "updatedAt": "2026-09-02T21:47:28.942Z",
+  "sourceHash": "7ad7c8f304b3395d9b6bb22d8babb9f5067554119c006efec5f5b4b25d0899a5",
   "count": 152,
   "pages": 8,
   "items": [
@@ -305,7 +305,7 @@
     },
     {
       "id": "6a886897a4c25b6c7119a343",
-      "title": "Balade au gré des œuvres d’art dans la ville, du Parc Trembley au Bains des Pâquis",
+      "title": "Balade au gré des œuvres d’art dans la ville, du Parc Trembley aux Bains des Pâquis",
       "fullUrl": "/programme-2026/balade-au-gre-des-uvres-dart-dans-la-ville-du-parc-trembley-au-bains-des-paquis",
       "urlId": "balade-au-gre-des-uvres-dart-dans-la-ville-du-parc-trembley-au-bains-des-paquis",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787324785450-M9OVOWDIPOF4GIWBJ6SE/Geneva_Art_Week-Event_2026-FMAC-Art-Public.webp",
@@ -342,11 +342,11 @@
       "workflowState": 1,
       "publishOn": 1787324567853,
       "addedOn": 1787324567853,
-      "updatedOn": 1787325174142
+      "updatedOn": 1788385263243
     },
     {
       "id": "6a88648e5745341a4b26975b",
-      "title": "Between Homes, Les Asperges",
+      "title": "Sabrina Smaili – Between Homes, Les Asperges",
       "fullUrl": "/programme-2026/between-homes-les-asperges",
       "urlId": "between-homes-les-asperges",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787324092884-97QE372UJZP2UNN7YNU3/Geneva_Art_Week-Exhibition_2026-Between-Homes-Les-Asperges-1.webp",
@@ -385,7 +385,7 @@
       "workflowState": 1,
       "publishOn": 1787323534282,
       "addedOn": 1787323534282,
-      "updatedOn": 1787326910815
+      "updatedOn": 1788385192840
     },
     {
       "id": "6a88566c9cf9f5355782067c",
@@ -4332,7 +4332,7 @@
     },
     {
       "id": "6a555b8edfb5864a8194fc67",
-      "title": "Dix ans de Transbordeur",
+      "title": "Dix ans de la revue Transbordeur",
       "fullUrl": "/programme-2026/dix-ans-de-transbordeur",
       "urlId": "dix-ans-de-transbordeur",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/3158a798-e77e-4ef3-9f92-4f4bc16d1c0f/Geneva_Art_Week-Event_2026-Dix-ans-de-Transbordeur.webp",
@@ -4379,7 +4379,7 @@
       "workflowState": 1,
       "publishOn": 1783978894150,
       "addedOn": 1783978894150,
-      "updatedOn": 1785680508358
+      "updatedOn": 1788385160909
     },
     {
       "id": "6a5558dc4bcec764eb51603c",
