@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-09-02T20:17:23.640Z",
+  "updatedAt": "2026-09-02T20:27:21.167Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "4b008aec9a199c3bcdcafb0bc6d4d71acc0605cdd0fb79a561d45343f207487b",
@@ -22,8 +22,8 @@
       "pages": 1
     },
     "gaw/membre.json": {
-      "sourceHash": "b26eadc47424613cd540d4e5e55e2d81f03337b9d317deb80d3faeed1f7f7e57",
-      "updatedAt": "2026-08-28T16:28:02.218Z",
+      "sourceHash": "44a0c8b63ed4d53169333cd44e14ea8cc758d8ba7d20c2e7e3050354e489f879",
+      "updatedAt": "2026-09-02T20:27:21.167Z",
       "count": 93,
       "pages": 1
     },
