@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-02T21:47:28.942Z",
-  "sourceHash": "7ad7c8f304b3395d9b6bb22d8babb9f5067554119c006efec5f5b4b25d0899a5",
+  "updatedAt": "2026-09-03T09:48:05.796Z",
+  "sourceHash": "2a390b5b77c188ee8ca88fc1688c95d605eef44035b911979665ced71a6dd617",
   "count": 152,
   "pages": 8,
   "items": [
@@ -3495,7 +3495,7 @@
       "workflowState": 1,
       "publishOn": 1784669304400,
       "addedOn": 1784669304400,
-      "updatedOn": 1787665607566
+      "updatedOn": 1788428564219
     },
     {
       "id": "6a5fe01ff968e2685ee7ae17",
@@ -6679,7 +6679,7 @@
       "title": "SOUFFLE #3 – Performance sonore",
       "fullUrl": "/programme-2026/souffle-3-performance-sonore",
       "urlId": "souffle-3-performance-sonore",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/bb805cc9-9eb6-4c83-bc6b-8aca23b193b8/Geneva_Art_Week-Event_2026-Souffle.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1788428718675-8JMPAFBUJTG295RLRLDO/GAW-provisoire-hiflow-6.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -6714,7 +6714,7 @@
       "workflowState": 1,
       "publishOn": 1782142425493,
       "addedOn": 1782142425493,
-      "updatedOn": 1786096838452
+      "updatedOn": 1788428882011
     },
     {
       "id": "6a8e724c9e2374534ff9af22",
