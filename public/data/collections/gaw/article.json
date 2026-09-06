@@ -5,9 +5,9 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-09-06T19:18:16.281Z",
-  "sourceHash": "cb07f3441c6a58b6c77f6d32583137fd7d510427be8a8b1a490d7cadfaa29a68",
-  "count": 35,
+  "updatedAt": "2026-09-06T19:28:11.078Z",
+  "sourceHash": "54bbde9df4155ded661bb98904bd2beb97a712d3f0c5bfd99b82a3458526ef78",
+  "count": 36,
   "pages": 2,
   "items": [
     {
@@ -46,6 +46,44 @@
       "publishOn": 1786487956444,
       "addedOn": 1786487956444,
       "updatedOn": 1788721441237
+    },
+    {
+      "id": "6a7a5a065c38821968b5a3cd",
+      "title": "Au&nbsp;centre de la pratique de Théa Giglio, il y&nbsp;a&nbsp;l’idée que leur identité n’est pas une forme stable, mais la somme des transformations qu’elles traversent",
+      "fullUrl": "/article/perspective-thea-giglio",
+      "urlId": "perspective-thea-giglio",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/d0b1da59-a480-493c-8df8-3b06931f067c/Geneva_Art_Week-Journal-Perspectives-The%CC%81a-Giglio-2.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Perspectives"
+      ],
+      "tags": [
+        "Catégorie: Perspectives",
+        "Artiste: Théa Giglio",
+        "Sujet: Clara Chavan",
+        "Sujet: Camille Zaerpour",
+        "Membre: Forde"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1786403334110,
+      "addedOn": 1786403334110,
+      "updatedOn": 1788722477710
     },
     {
       "id": "6a7a538239174e593eac4c41",
