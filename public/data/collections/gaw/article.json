@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-09-06T19:08:20.022Z",
-  "sourceHash": "89bc9b0960fac29230bfb956b1cecabe7600220c98bc37e7bdc0e7cc5ebf14f2",
+  "updatedAt": "2026-09-06T19:18:16.281Z",
+  "sourceHash": "cb07f3441c6a58b6c77f6d32583137fd7d510427be8a8b1a490d7cadfaa29a68",
   "count": 35,
   "pages": 2,
   "items": [
@@ -356,7 +356,6 @@
         "Tour by"
       ],
       "tags": [
-        "Sélection: Homepage",
         "Catégorie: Tour by",
         "Sujet: Youri Kravtchenko",
         "Sujet: Natacha De Oliveira",
@@ -380,7 +379,7 @@
       "workflowState": 1,
       "publishOn": 1779482904105,
       "addedOn": 1779482904105,
-      "updatedOn": 1786371981923
+      "updatedOn": 1788722281412
     },
     {
       "id": "6a1059d04e55bb13041e2dcb",
