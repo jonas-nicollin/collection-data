@@ -5,11 +5,123 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-08-12T21:37:36.586Z",
-  "sourceHash": "f419fab4c43973d7d1fbab2d59bf02af22b9b732b1ba7e2a97d8f30f101ba21d",
-  "count": 29,
+  "updatedAt": "2026-09-06T17:58:21.343Z",
+  "sourceHash": "19bec0f7a19f0ffa880303f18f8ab7265079aada37a232befe95f4488cff9e8d",
+  "count": 32,
   "pages": 2,
   "items": [
+    {
+      "id": "6a79e999e66bd6264fa31826",
+      "title": "Poivrier — Lou Masduraud",
+      "fullUrl": "/article/l-objet-de-lou-masduraud",
+      "urlId": "l-objet-de-lou-masduraud",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/55b8abf4-9a39-4fe0-9e0e-323597cf0411/Geneva_Art_Week-L-Objet-de-Lou-Masduraud.webp",
+      "mediaFocalPoint": {
+        "x": 0.4233990463675881,
+        "y": 0.48057645857423814,
+        "source": 3
+      },
+      "categories": [
+        "L’Objet de"
+      ],
+      "tags": [
+        "Catégorie: L'Objet de",
+        "Sujet: Lou Masduraud",
+        "Membre: Galerie Mezzanin"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Un.e artiste nous parle d’un objet qui lui est cher, l’accompagne au&nbsp;quotidien, et&nbsp;a&nbsp;bien souvent un&nbsp;lien avec son processus créatif.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1786374553062,
+      "addedOn": 1786374553062,
+      "updatedOn": 1788717434807
+    },
+    {
+      "id": "6a79df8db255b621a7362b4b",
+      "title": "À Genève, certaines personnalités contribuent discrètement mais durablement à&nbsp;façonner le paysage créatif de la ville. Rexhep Rexhepi en fait partie",
+      "fullUrl": "/article/tour-by-rexhep-rexhepi",
+      "urlId": "tour-by-rexhep-rexhepi",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/8592a053-c669-4115-a799-0314393d0f0d/Geneva_Art_Week-Journal-Tour-By-Rexhep_Rexhepi_4.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Tour by"
+      ],
+      "tags": [
+        "Sélection: Homepage",
+        "Catégorie: Tour by",
+        "Sélection: Hero",
+        "Sujet: Rexhep Rexhepi",
+        "Quartier: Vieille-Ville"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1786371981789,
+      "addedOn": 1786371981789,
+      "updatedOn": 1788717382400
+    },
+    {
+      "id": "6a79dace0b67bc549947ee5f",
+      "title": "Denis Savary s’affranchissait de l’atelier, pour lui, l’espace de création est celui où il se trouve",
+      "fullUrl": "/article/studio-visit-denis-savary",
+      "urlId": "studio-visit-denis-savary",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/3c87f532-52ee-4ed1-9131-c9df19410891/Geneva_Art_Week-Journal-Studio_Visit-Denis-Savary-6.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Studio Visit"
+      ],
+      "tags": [
+        "Catégorie: Studio Visit",
+        "Sélection: Homepage",
+        "Sélection: Hero",
+        "Sujet: Denis Savary",
+        "Artiste: Denis Savary"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1786370766249,
+      "addedOn": 1786370766249,
+      "updatedOn": 1788717346693
+    },
     {
       "id": "6a0f90f989e5f9546d563d96",
       "title": "Barbara Polla · Analix Forever",
