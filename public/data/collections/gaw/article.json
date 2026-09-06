@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-09-06T19:38:15.996Z",
-  "sourceHash": "808c47cef5f63d2fbc5066a0418d6dfa1f9dd74a1063ff47712acdc7da24761a",
+  "updatedAt": "2026-09-06T19:48:15.395Z",
+  "sourceHash": "b0a4283b7f9795771f71fffea57d818883e89368bdbcd333b025ec9ecdfecbe5",
   "count": 39,
   "pages": 2,
   "items": [
@@ -129,7 +129,7 @@
       "title": "L’Œuvre de Anne Lamunière",
       "fullUrl": "/article/l-oeuvre-de-anne-lamuniere",
       "urlId": "l-oeuvre-de-anne-lamuniere",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/06f56978-2780-4197-ab03-623f1dac854a/Geneva_Art_Week-Journal-L_OEuvre_de_Anne_Lamuniere.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1788724010849-4I38D6BBME5PETI7G5R3/Geneva_Art_Week-Journal-L_OEuvre_de_Anne_Lamuniere.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -140,7 +140,8 @@
       ],
       "tags": [
         "Catégorie: L’Œuvre de",
-        "Sujet: Anne Lamunière"
+        "Sujet: Anne Lamunière",
+        "Sélection: Homepage"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Une oeuvre ou un artiste qui a marqué la carrière d’un marchand. Anne Lamunière est une spécialiste du marché de l’art basée à&nbsp;Genève, avec une longue expérience dans l’art d’après-guerre et contemporain. En&nbsp;2020, elle a&nbsp;fondé Rat Art, une société de conseil qui accompagne collectionneurs, fondations et musées.</p>",
       "location": {
@@ -158,7 +159,7 @@
       "workflowState": 1,
       "publishOn": 1786401666309,
       "addedOn": 1786401666309,
-      "updatedOn": 1788721410597
+      "updatedOn": 1788724081096
     },
     {
       "id": "6a7a49fcb218102c6e6fd4d9",
@@ -178,7 +179,8 @@
         "Sélection: Homepage",
         "Catégorie: Entretien",
         "Sujet: Louise Bonnet",
-        "Artiste: Louise Bonnet"
+        "Artiste: Louise Bonnet",
+        "Sélection: Hero"
       ],
       "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Comment Louise Bonnet vit-elle son succès américain et son attachement à la Suisse à travers son parcours artistique?</p>",
       "location": {
@@ -195,7 +197,7 @@
       "workflowState": 1,
       "publishOn": 1786399228551,
       "addedOn": 1786399228551,
-      "updatedOn": 1788721176535
+      "updatedOn": 1788723748859
     },
     {
       "id": "6a79e999e66bd6264fa31826",
@@ -551,9 +553,7 @@
         "Membre: FMAC – Fonds d’art contemporain de la Ville de Genève",
         "Sujet: Sculpture",
         "Sujet: Genève",
-        "Sélection: Homepage",
-        "Catégorie: Art Public",
-        "Sélection: Hero"
+        "Catégorie: Art Public"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Art Public,  une séléction d’oeuvres à travers l’espace public genevois. </p>",
       "location": {
@@ -570,7 +570,7 @@
       "workflowState": 1,
       "publishOn": 1779458328900,
       "addedOn": 1779458328900,
-      "updatedOn": 1786570399263
+      "updatedOn": 1788723727326
     },
     {
       "id": "6a0f880682b392465d441a93",
