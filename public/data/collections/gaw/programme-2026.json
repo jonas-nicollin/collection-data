@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-04T09:27:43.942Z",
-  "sourceHash": "d034c6c4cb638bfc876dace7376e00c1ad01bbe3945a7b473c256efc64f2902b",
+  "updatedAt": "2026-09-06T20:08:14.298Z",
+  "sourceHash": "085abe64331822bc047b1072bc17d0908d8675edc5ff83f3792516cc21fd420a",
   "count": 152,
   "pages": 8,
   "items": [
@@ -308,10 +308,10 @@
       "title": "Balade au gré des œuvres d’art dans la ville, du Parc Trembley aux Bains des Pâquis",
       "fullUrl": "/programme-2026/balade-au-gre-des-uvres-dart-dans-la-ville-du-parc-trembley-au-bains-des-paquis",
       "urlId": "balade-au-gre-des-uvres-dart-dans-la-ville-du-parc-trembley-au-bains-des-paquis",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1787324785450-M9OVOWDIPOF4GIWBJ6SE/Geneva_Art_Week-Event_2026-FMAC-Art-Public.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1afe8a9f-5b1e-46c4-b5a1-0f8e26c2ea58/Geneva_Art_Week-Journal-Art-Public-Numero-3-02.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5230103506563853,
+        "y": 0.6175173751114755,
         "source": 3
       },
       "categories": [
@@ -342,7 +342,7 @@
       "workflowState": 1,
       "publishOn": 1787324567853,
       "addedOn": 1787324567853,
-      "updatedOn": 1788385263243
+      "updatedOn": 1788725159389
     },
     {
       "id": "6a88648e5745341a4b26975b",
