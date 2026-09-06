@@ -5,11 +5,121 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-09-06T17:58:21.343Z",
-  "sourceHash": "19bec0f7a19f0ffa880303f18f8ab7265079aada37a232befe95f4488cff9e8d",
-  "count": 32,
+  "updatedAt": "2026-09-06T19:08:20.022Z",
+  "sourceHash": "89bc9b0960fac29230bfb956b1cecabe7600220c98bc37e7bdc0e7cc5ebf14f2",
+  "count": 35,
   "pages": 2,
   "items": [
+    {
+      "id": "6a7ba494f55ca112634858fa",
+      "title": "Arrivée à Genève en&nbsp;2017 pour étudier les relations internationales, Leonie Herweg ne rejoint pas la ville par le biais de l’art",
+      "fullUrl": "/article/leonie-herweg",
+      "urlId": "leonie-herweg",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/9ddd03ff-c253-453e-aa8b-0c14817dc6cc/PORTRAIT-choix-1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Trajectoires"
+      ],
+      "tags": [
+        "Sélection: Homepage",
+        "Catégorie: Entretien",
+        "Sujet: Leonie Herweg",
+        "Catégorie: Trajectoires"
+      ],
+      "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Arrivée à Genève en&nbsp;2017 pour étudier les relations internationales, Leonie Herweg ne rejoint pas la ville par le biais de l’art</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1786487956444,
+      "addedOn": 1786487956444,
+      "updatedOn": 1788721441237
+    },
+    {
+      "id": "6a7a538239174e593eac4c41",
+      "title": "L’Œuvre de Anne Lamunière",
+      "fullUrl": "/article/l-oeuvre-de-anne-lamuniere",
+      "urlId": "l-oeuvre-de-anne-lamuniere",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/06f56978-2780-4197-ab03-623f1dac854a/Geneva_Art_Week-Journal-L_OEuvre_de_Anne_Lamuniere.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "L’Œuvre de"
+      ],
+      "tags": [
+        "Catégorie: L’Œuvre de",
+        "Sujet: Anne Lamunière"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Une oeuvre ou un artiste qui a marqué la carrière d’un marchand. Anne Lamunière est une spécialiste du marché de l’art basée à&nbsp;Genève, avec une longue expérience dans l’art d’après-guerre et contemporain. En&nbsp;2020, elle a&nbsp;fondé Rat Art, une société de conseil qui accompagne collectionneurs, fondations et musées.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 37,
+      "workflowState": 1,
+      "publishOn": 1786401666309,
+      "addedOn": 1786401666309,
+      "updatedOn": 1788721410597
+    },
+    {
+      "id": "6a7a49fcb218102c6e6fd4d9",
+      "title": "Comment Louise Bonnet vit-elle son succès américain et son attachement à la Suisse à travers son parcours artistique?",
+      "fullUrl": "/article/comment-louise-bonnet-vit-elle-son-succes-americain-et-son-attachement-a-la-suisse-a-travers-son-parcours-artistique",
+      "urlId": "comment-louise-bonnet-vit-elle-son-succes-americain-et-son-attachement-a-la-suisse-a-travers-son-parcours-artistique",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/5bfed926-91d0-4fab-84be-b1f9ed8b759d/Geneva_Art_Week-Journal-L-ENTRETIEN-LOUISE-BONNET-3.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "L’Entretien"
+      ],
+      "tags": [
+        "Sélection: Homepage",
+        "Catégorie: Entretien",
+        "Sujet: Louise Bonnet",
+        "Artiste: Louise Bonnet"
+      ],
+      "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Comment Louise Bonnet vit-elle son succès américain et son attachement à la Suisse à travers son parcours artistique?</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "publishOn": 1786399228551,
+      "addedOn": 1786399228551,
+      "updatedOn": 1788721176535
+    },
     {
       "id": "6a79e999e66bd6264fa31826",
       "title": "Poivrier — Lou Masduraud",
