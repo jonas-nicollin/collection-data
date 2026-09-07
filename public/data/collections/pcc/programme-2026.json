@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-09-03T06:57:20.595Z",
-  "sourceHash": "c6a0ce2e5b2f597bbe55b316ac6feb54c4e79870a0a6f7ecefc0f3394f784f1f",
+  "updatedAt": "2026-09-07T09:38:00.803Z",
+  "sourceHash": "95e0f197b495f8a8ab3d1ee2437a5a0f7510cced5121e74102c64a350533a782",
   "count": 53,
   "pages": 3,
   "items": [
@@ -2002,7 +2002,7 @@
       "title": "Dark Room, Dye Lab &amp; The Kiln",
       "fullUrl": "/programme-2026/expositions/29/dark-room-dye-lab-and-the-kiln",
       "urlId": "expositions/29/dark-room-dye-lab-and-the-kiln",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779093645330-AR5PHLSEACDZRNEMAUIF/PCC_2026-29-Taste_Contemporary-Marit_Tingleff-002.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1788773421078-9QNYXLM3N56UG8LI8LT9/PCC_2026-29-Taste_Contemporary-Marit_Tingleff-004.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -2037,7 +2037,7 @@
       "workflowState": 1,
       "publishOn": 1787299238383,
       "addedOn": 1787299238383,
-      "updatedOn": 1787667430035
+      "updatedOn": 1788773566863
     },
     {
       "id": "69f890182a65a5690a23ce4e",
