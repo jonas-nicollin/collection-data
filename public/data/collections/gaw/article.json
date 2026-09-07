@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-09-06T19:48:15.395Z",
-  "sourceHash": "b0a4283b7f9795771f71fffea57d818883e89368bdbcd333b025ec9ecdfecbe5",
+  "updatedAt": "2026-09-07T21:28:04.010Z",
+  "sourceHash": "82ff2572a6add205bedefe9801010a0a738dd22ae8864065df21c7717c0558e0",
   "count": 39,
   "pages": 2,
   "items": [
@@ -275,7 +275,7 @@
     },
     {
       "id": "6a79dace0b67bc549947ee5f",
-      "title": "Denis Savary s’affranchissait de l’atelier, pour lui, l’espace de création est celui où il se trouve",
+      "title": "Rencontre avec un artiste en plein montage de son prochain film et chez qui lieu de vie et lieu de travail se confondent",
       "fullUrl": "/article/studio-visit-denis-savary",
       "urlId": "studio-visit-denis-savary",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/3c87f532-52ee-4ed1-9131-c9df19410891/Geneva_Art_Week-Journal-Studio_Visit-Denis-Savary-6.webp",
@@ -309,7 +309,7 @@
       "workflowState": 1,
       "publishOn": 1786370766249,
       "addedOn": 1786370766249,
-      "updatedOn": 1788717346693
+      "updatedOn": 1788816453616
     },
     {
       "id": "6a0f90f989e5f9546d563d96",
