@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-08-28T14:48:01.954Z",
-  "sourceHash": "2be9ea54dd610455bfdf1b5c5ae9fff6a92fec399deea22d842d6c6c4367a2b0",
+  "updatedAt": "2026-09-07T06:36:38.098Z",
+  "sourceHash": "f28f2a5742a735b1b65a2ce7876eda81c12e30fa25d64a1fa608c5946cc5dbf2",
   "count": 6,
   "pages": 1,
   "items": [
@@ -85,9 +85,9 @@
     {
       "id": "6a6c82dd70ad2f758ea60040",
       "title": "Art Tables",
-      "fullUrl": "/index/art-en-vieille-ville-chr4n",
-      "sourceUrl": "/programme/art-en-vieille-ville",
-      "urlId": "art-en-vieille-ville-chr4n",
+      "fullUrl": "/index/art-tables",
+      "sourceUrl": "/programme/art-tables",
+      "urlId": "art-tables",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0ca17887-b111-421c-9c2c-654d3eca24ff/GAW-Rendez-vous-Art-Tables-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -116,7 +116,7 @@
       "workflowState": 1,
       "publishOn": 1785496321785,
       "addedOn": 1785496321785,
-      "updatedOn": 1785496378277
+      "updatedOn": 1788762525109
     },
     {
       "id": "6a6c82a770ad2f758ea5f1f1",
