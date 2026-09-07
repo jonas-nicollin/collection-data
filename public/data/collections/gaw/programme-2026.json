@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-06T20:08:14.298Z",
-  "sourceHash": "085abe64331822bc047b1072bc17d0908d8675edc5ff83f3792516cc21fd420a",
+  "updatedAt": "2026-09-07T09:48:05.551Z",
+  "sourceHash": "80d21bb1d4faef8b4e432b8547763ce92206464b7c8dce2b79f63f53a4bc9ab0",
   "count": 152,
   "pages": 8,
   "items": [
@@ -3993,7 +3993,7 @@
       "title": "Art Talks – Les scènes de l’art contemporain à Genève",
       "fullUrl": "/programme-2026/art-talks",
       "urlId": "art-talks",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1d2c9bd3-fec1-4725-a169-938ff444906e/Geneva_Art_Week-Event_2026-Art-Talk.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0a6d3370-8024-43c6-a15e-5cd65fd5e367/Geneva_Art_Week-Event-Art-Talk.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -4023,7 +4023,7 @@
       "workflowState": 1,
       "publishOn": 1784153440453,
       "addedOn": 1784153440453,
-      "updatedOn": 1788513486327
+      "updatedOn": 1788774440672
     },
     {
       "id": "6a57fdb38090722e11b78006",
