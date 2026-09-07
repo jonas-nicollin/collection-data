@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-09-07T21:28:04.010Z",
-  "sourceHash": "82ff2572a6add205bedefe9801010a0a738dd22ae8864065df21c7717c0558e0",
+  "updatedAt": "2026-09-07T21:38:03.181Z",
+  "sourceHash": "48dad7c4fac7f7f81a8c0edda1e5be22729ea03f2e489451911b9cf74867a7e8",
   "count": 39,
   "pages": 2,
   "items": [
@@ -51,7 +51,7 @@
     },
     {
       "id": "6a7ba494f55ca112634858fa",
-      "title": "Arrivée à Genève en&nbsp;2017 pour étudier les relations internationales, Leonie Herweg ne rejoint pas la ville par le biais de l’art",
+      "title": "Leonie Herweg, Genève comme point de départ",
       "fullUrl": "/article/leonie-herweg",
       "urlId": "leonie-herweg",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/9ddd03ff-c253-453e-aa8b-0c14817dc6cc/PORTRAIT-choix-1.jpg",
@@ -84,11 +84,11 @@
       "workflowState": 1,
       "publishOn": 1786487956444,
       "addedOn": 1786487956444,
-      "updatedOn": 1788721441237
+      "updatedOn": 1788816499943
     },
     {
       "id": "6a7a5a065c38821968b5a3cd",
-      "title": "Au&nbsp;centre de la pratique de Théa Giglio, il y&nbsp;a&nbsp;l’idée que leur identité n’est pas une forme stable, mais la somme des transformations qu’elles traversent",
+      "title": "Entre appropriation, performance et documentation, Théa Giglio s’intéresse aux formes résiduelles et aux matériaux qui témoignent de ce qui a précédé",
       "fullUrl": "/article/perspective-thea-giglio",
       "urlId": "perspective-thea-giglio",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/d0b1da59-a480-493c-8df8-3b06931f067c/Geneva_Art_Week-Journal-Perspectives-The%CC%81a-Giglio-2.webp",
@@ -122,7 +122,7 @@
       "workflowState": 1,
       "publishOn": 1786403334110,
       "addedOn": 1786403334110,
-      "updatedOn": 1788722477710
+      "updatedOn": 1788816526101
     },
     {
       "id": "6a7a538239174e593eac4c41",
@@ -237,7 +237,7 @@
     },
     {
       "id": "6a79df8db255b621a7362b4b",
-      "title": "À Genève, certaines personnalités contribuent discrètement mais durablement à&nbsp;façonner le paysage créatif de la ville. Rexhep Rexhepi en fait partie",
+      "title": "Dans le Genève de Rexhep Rexhepi,&nbsp;l’art du geste et de la création",
       "fullUrl": "/article/tour-by-rexhep-rexhepi",
       "urlId": "tour-by-rexhep-rexhepi",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/8592a053-c669-4115-a799-0314393d0f0d/Geneva_Art_Week-Journal-Tour-By-Rexhep_Rexhepi_4.webp",
@@ -271,7 +271,7 @@
       "workflowState": 1,
       "publishOn": 1786371981789,
       "addedOn": 1786371981789,
-      "updatedOn": 1788717382400
+      "updatedOn": 1788816485269
     },
     {
       "id": "6a79dace0b67bc549947ee5f",
