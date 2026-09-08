@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-07T22:17:57.208Z",
-  "sourceHash": "1cfe00ab40cd6ae22e4c42e8a5cc6c5e94be20b99dc55273ba0173a7976c30cc",
-  "count": 153,
+  "updatedAt": "2026-09-08T11:18:06.806Z",
+  "sourceHash": "a7e7f8a36d98c23844e6d72538388c62cdaa85f16850b1b11b86bb34e75cce5f",
+  "count": 154,
   "pages": 8,
   "items": [
     {
@@ -3621,6 +3621,50 @@
       "publishOn": 1784309145907,
       "addedOn": 1784309145907,
       "updatedOn": 1786454869312
+    },
+    {
+      "id": "6a5a63c6b077cd0028d8aa8c",
+      "title": "À peines passées",
+      "fullUrl": "/programme-2026/a-peines-passes",
+      "urlId": "a-peines-passes",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784308692162-QTL2D1B9SHGLX7S74AQ6/Geneva_Art_Week-Exhibition_2026-Zabriskie_Point-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Scène artistique suisse",
+        "Membre: Zabriskie",
+        "Quartier: Plainpalais",
+        "Type: Exposition",
+        "Thématique: Art contemporain",
+        "Artiste: Paul Hutzli",
+        "Artiste: Virginie Jemmely",
+        "Artiste: Léonore Brunner",
+        "Vernissage: 2026-09-17T18:00",
+        "Date: 2026-09-17/2026-11-20"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1978601,
+        "mapLng": 6.1425482,
+        "markerLat": 46.1978601,
+        "markerLng": 6.1425482,
+        "addressTitle": "Zabriskie",
+        "addressLine1": "Rond-Point de Plainpalais",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 78,
+      "workflowState": 1,
+      "publishOn": 1784308678037,
+      "addedOn": 1784308678037,
+      "updatedOn": 1788866263598
     },
     {
       "id": "6a5a62cd5689f86b33cd3cd0",
