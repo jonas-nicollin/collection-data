@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-08T11:28:00.010Z",
-  "sourceHash": "987414c6953989b82bd852bf1ae55df45799d29062c7ec4051ae5c03ae8bf434",
-  "count": 154,
+  "updatedAt": "2026-09-08T14:17:47.843Z",
+  "sourceHash": "5656d41d6f26741fae3eae999ec4940cb9053f08b310bdba083a35f70b1678dd",
+  "count": 153,
   "pages": 8,
   "items": [
     {
@@ -5190,51 +5190,6 @@
       "publishOn": 1783867046945,
       "addedOn": 1783867046945,
       "updatedOn": 1785700633621
-    },
-    {
-      "id": "6a52db49fc240d5144da0d69",
-      "title": "Small Dance – Dîner expérientiel",
-      "fullUrl": "/programme-2026/small-dance-diner-experientiel",
-      "urlId": "small-dance-diner-experientiel",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783815352831-0N8WGS94XJAFID8VYEA8/Geneva_Art_Week-Event_2026-Small_Dance.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Performance"
-      ],
-      "tags": [
-        "Type: Événement",
-        "Membre: Galerie Polomarco",
-        "Thématique: Art contemporain",
-        "Thématique: Art textile",
-        "Thématique: Vidéo",
-        "Artiste: Vanessa Riera",
-        "Artiste: Mylène Lachance-Paquis",
-        "Artiste: Bianca Guala",
-        "Artiste: Marc Pizzamiglio",
-        "Quartier: Vieille-Ville",
-        "Date: 2026-09-19T19:00"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.2024371,
-        "mapLng": 6.144837,
-        "markerLat": 46.2024371,
-        "markerLng": 6.144837,
-        "addressTitle": "Galerie Polomarco",
-        "addressLine1": "Grand-Rue 5",
-        "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 37,
-      "workflowState": 1,
-      "publishOn": 1783814985544,
-      "addedOn": 1783814985544,
-      "updatedOn": 1785670436948
     },
     {
       "id": "6a52d23bb344bf6935b610a9",
