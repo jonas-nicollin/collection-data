@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-09-07T14:47:56.112Z",
-  "sourceHash": "5fa749b54c05ab56bb37ab70606c9b3c0da6980c69f3c8edd7ad99fc9c7a1f4a",
+  "updatedAt": "2026-09-08T06:37:59.292Z",
+  "sourceHash": "2e5b1cac06b337ad8ef20a2eb4a51f3758c23ed959d0651386b974a6772e8d30",
   "count": 53,
   "pages": 3,
   "items": [
@@ -1228,7 +1228,6 @@
         "Année: 2026",
         "Zone: Carouge",
         "Date: 2026-09-19/2026-09-27",
-        "Artiste: Raphaël Oboe",
         "Artiste: Anja Ripoll",
         "Artiste: Louis Danjou",
         "Artiste: Marie Pic",
@@ -1238,7 +1237,8 @@
         "Artiste: Guillaume Martin-Taton",
         "Lieu: Espace Dukat",
         "Numéro: 13",
-        "Vernissage:2026-09-19T11:30/2026-09-19T17:00"
+        "Vernissage:2026-09-19T11:30/2026-09-19T17:00",
+        "Artiste: Raphael Oboé"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Pour sa première participation au Parcours Céramique Carouge, l’Espace Dukat accueille La Petite Fumée, une exposition réunissant huit artistes internationaux sous la direction du curateur Guillaume Martin-Taton. Née dans les années 1990, cette génération développe des pratiques céramiques façonnées par une culture visuelle globalisée, marquée par l’essor d’internet et la circulation des images. Leurs travaux explorent des constructions hybrides et chimériques, mêlant narration fantasmée et art conceptuel.</p>",
       "location": {
@@ -1256,7 +1256,7 @@
       "workflowState": 1,
       "publishOn": 1788781095887,
       "addedOn": 1788781095887,
-      "updatedOn": 1783418540386
+      "updatedOn": 1788849127239
     },
     {
       "id": "69f88604000be15056d41d0b",

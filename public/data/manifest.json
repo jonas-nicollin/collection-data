@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-09-07T22:17:57.208Z",
+  "updatedAt": "2026-09-08T06:37:59.292Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "4b008aec9a199c3bcdcafb0bc6d4d71acc0605cdd0fb79a561d45343f207487b",
@@ -46,8 +46,8 @@
       "pages": 2
     },
     "pcc/programme-2026.json": {
-      "sourceHash": "5fa749b54c05ab56bb37ab70606c9b3c0da6980c69f3c8edd7ad99fc9c7a1f4a",
-      "updatedAt": "2026-09-07T14:47:56.112Z",
+      "sourceHash": "2e5b1cac06b337ad8ef20a2eb4a51f3758c23ed959d0651386b974a6772e8d30",
+      "updatedAt": "2026-09-08T06:37:59.292Z",
       "count": 53,
       "pages": 3
     }
