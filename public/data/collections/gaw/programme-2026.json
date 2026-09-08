@@ -5,11 +5,53 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-08T14:17:47.843Z",
-  "sourceHash": "5656d41d6f26741fae3eae999ec4940cb9053f08b310bdba083a35f70b1678dd",
-  "count": 153,
+  "updatedAt": "2026-09-08T14:47:47.526Z",
+  "sourceHash": "3a2f5dd975d47be73b4d6ef31a7e141b556345e4306b67332519c9cfb06d155d",
+  "count": 154,
   "pages": 8,
   "items": [
+    {
+      "id": "6aa019af32b37753162d80f2",
+      "title": "Small Dance – Visite guidée avec l’artiste Vanessa Riera",
+      "fullUrl": "/programme-2026/small-dance-visite-guidee",
+      "urlId": "small-dance-visite-guidee",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784148703242-VCKYLDY27WG4Y1T3R32A/Geneva_Art_Week-Exhibition_2026-Galerie_Polomarco-Small_Dance-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Membre: Galerie Polomarco",
+        "Quartier: Vieille-Ville",
+        "Artiste: Vanessa Riera",
+        "Thématique: Art textile",
+        "Thématique: Vidéo",
+        "Type: Événement",
+        "Date: 2026-09-18T18:00"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2024371,
+        "mapLng": 6.144837,
+        "markerLat": 46.2024371,
+        "markerLng": 6.144837,
+        "addressTitle": "Galerie Polomarco",
+        "addressLine1": "Grand-Rue 5",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 163,
+      "workflowState": 1,
+      "publishOn": 1788877231998,
+      "addedOn": 1788877231998,
+      "updatedOn": 1788878781498
+    },
     {
       "id": "6a9f3467c68d443834b226ee",
       "title": "Short Ass Attention Span #3 – Visite guidée avec l’artiste Pauline Coquart",
