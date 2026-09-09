@@ -5,11 +5,52 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-09T05:11:10.797Z",
-  "sourceHash": "f404c30db4ef42ded2c5d040ee92c5c03413744382093c202714ff3ff201928a",
-  "count": 154,
+  "updatedAt": "2026-09-09T11:47:23.893Z",
+  "sourceHash": "dd1e8836cf81b2573b68bac0652dd25f18645e781e3d33faac5d7dc7545ba632",
+  "count": 155,
   "pages": 8,
   "items": [
+    {
+      "id": "6aa0ea334621b91df8e0b201",
+      "title": "A Horse collection from or for Vanessa Rossetto/a sound recollection",
+      "fullUrl": "/programme-2026/a-horse-collection-from-or-for-vanessa-rossetto-a-sound-recollection",
+      "urlId": "a-horse-collection-from-or-for-vanessa-rossetto-a-sound-recollection",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1788930664204-H93GUTVAOBKC6X65SOGG/Geneva_Art_Week-Exhibition_2026-Kiss_Then_Burned-A_Horse_collection_from_or_for_Vanessa_Rossetto_a_sound_recollection-Featured-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Type: Solo show",
+        "Artiste: Livia de Goumoëns",
+        "Membre: Kissed Then Burned",
+        "Thématique: Scène émergente",
+        "Date: 2026-09-10/2026-11-15",
+        "Quartier: Grottes Saint-Gervais"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2101883,
+        "mapLng": 6.1406021,
+        "markerLat": 46.2101883,
+        "markerLng": 6.1406021,
+        "addressTitle": "Kissed Then Burned",
+        "addressLine1": "Rue des Amis",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 164,
+      "workflowState": 1,
+      "publishOn": 1788930611291,
+      "addedOn": 1788930611291,
+      "updatedOn": 1788954095896
+    },
     {
       "id": "6aa019af32b37753162d80f2",
       "title": "Small Dance – Visite guidée avec l’artiste Vanessa Riera",
