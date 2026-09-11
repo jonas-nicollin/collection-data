@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-09-08T14:37:45.091Z",
-  "sourceHash": "30326888d0a9b17a2b3b17d5fc5ba65643291a18949736670a76f765db7e31a1",
+  "updatedAt": "2026-09-11T08:28:07.822Z",
+  "sourceHash": "159b41708b0983ebf788bd0e5852722b9788196dd4ef523dc5d0b111078f89bd",
   "count": 53,
   "pages": 3,
   "items": [
@@ -1974,10 +1974,10 @@
         "Artiste: Vasilis Zografos",
         "Numéro: 28",
         "Lieu: Espace L",
-        "Dates: 2026-09-18/2026-10-24",
         "Artiste: David Elia",
         "Artiste: Heberth Sobral",
-        "Artiste: Marius Margot"
+        "Artiste: Marius Margot",
+        "Date: 2026-09-18/2026-10-24"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Pour célébrer les quinze ans d’Espace L, Leticia Maciel réunit Fernando de la Rocque, Vivianne van Singer et Vasilis Zografos dans <em>Elsewhere Begins Here, the Poetics of the In-Between</em>. À travers quinze œuvres, l’exposition explore l’entre-deux comme espace fertile de rencontre et de transformation. La céramique y occupe une place singulière, incarnant à travers le geste, la matière et le feu une métaphore de l’échange culturel et de ses métamorphoses.</p>",
       "location": {
@@ -1995,7 +1995,7 @@
       "workflowState": 1,
       "publishOn": 1787385622450,
       "addedOn": 1787385622450,
-      "updatedOn": 1787758259456
+      "updatedOn": 1789114958481
     },
     {
       "id": "69f88f8f5a3a3b38b7c32bab",
