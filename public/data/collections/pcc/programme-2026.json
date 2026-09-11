@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-09-11T08:28:07.822Z",
-  "sourceHash": "159b41708b0983ebf788bd0e5852722b9788196dd4ef523dc5d0b111078f89bd",
+  "updatedAt": "2026-09-11T08:38:07.631Z",
+  "sourceHash": "3ee533fa615a76c22cf396418582958992efbac961ff385b757cd2703eb4cf3a",
   "count": 53,
   "pages": 3,
   "items": [
@@ -2056,10 +2056,10 @@
       "tags": [
         "Année: 2026",
         "Zone: Genève",
-        "Artiste: Jan Steemann",
         "Numéro: 30",
         "Lieu: Olizane – Espace d’art contemporain",
-        "Dates:2026-09-16/2026-09-30"
+        "Date: 2026-09-16/2026-09-30",
+        "Artiste: Jan Steenman"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Avec <em>Mutualisme</em>, Jan Steenman s’inspire des mycorhizes, ces réseaux souterrains de filaments reliant plantes et champignons dans une relation d’échange réciproque. Ses sculptures en céramique se déploient par extensions, ramifications et tensions, comme les manifestations visibles d’un système plus vaste dont l’essentiel demeure invisible. Leurs surfaces organiques suggèrent des réseaux vivants. Chaque pièce est un état transitoire, cristallisation provisoire d’un processus en cours.</p>",
       "location": {
@@ -2077,7 +2077,7 @@
       "workflowState": 1,
       "publishOn": 1787212847118,
       "addedOn": 1787212847118,
-      "updatedOn": 1788361052833
+      "updatedOn": 1789115715563
     },
     {
       "id": "6a5771aca8e15061f7f2333a",
