@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-09T13:37:28.896Z",
-  "sourceHash": "b3f5202485ff8760e8edd8287139b3e69e20f1509f19f0aa875aac9863c2a6b0",
+  "updatedAt": "2026-09-11T08:58:08.313Z",
+  "sourceHash": "c07f046efb126ec71ccb23b6b34f31c7588e24c85a33008bcdb24a8052bcf43e",
   "count": 155,
   "pages": 8,
   "items": [
@@ -5484,7 +5484,7 @@
     },
     {
       "id": "6a5155b26890e8667f523183",
-      "title": "Écho – Visite guidée par l’artiste Gregory Bourilly",
+      "title": "Écho – Visite guidée par l’artiste Gregory Bourrilly",
       "fullUrl": "/programme-2026/echo-visite-guidee",
       "urlId": "echo-visite-guidee",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785799981258-7PAW3M30NS61SZCR1OIH/Geneva_Art_Week-Event_Echo.webp",
@@ -5522,7 +5522,7 @@
       "workflowState": 1,
       "publishOn": 1783715250536,
       "addedOn": 1783715250536,
-      "updatedOn": 1785799990133
+      "updatedOn": 1789116548763
     },
     {
       "id": "6a513c0b6dc68a14ad91f2b9",
