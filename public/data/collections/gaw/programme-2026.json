@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-11T08:58:08.313Z",
-  "sourceHash": "c07f046efb126ec71ccb23b6b34f31c7588e24c85a33008bcdb24a8052bcf43e",
+  "updatedAt": "2026-09-11T14:28:10.777Z",
+  "sourceHash": "80beb709079c7346574671874868aa15b96cc4281514312fbfdc664102b973fc",
   "count": 155,
   "pages": 8,
   "items": [
@@ -239,7 +239,8 @@
         "Artiste: John Armleder",
         "Artiste: Stephan Eicher",
         "Artiste: Christian Marclay",
-        "Date: 2026-09-19T18:30"
+        "Date: 2026-09-19T18:30",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -257,7 +258,7 @@
       "workflowState": 1,
       "publishOn": 1787610664245,
       "addedOn": 1787610664245,
-      "updatedOn": 1787611098595
+      "updatedOn": 1789136722550
     },
     {
       "id": "6a8c256c21c16709074f0902",
@@ -368,7 +369,8 @@
         "Thématique: Sculpture",
         "Quartier: Jonction",
         "Lieu: Atelier 405, Usine",
-        "Date: 2026-09-18T17:30"
+        "Date: 2026-09-18T17:30",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -386,7 +388,7 @@
       "workflowState": 1,
       "publishOn": 1787325883748,
       "addedOn": 1787325883748,
-      "updatedOn": 1787327381623
+      "updatedOn": 1789136778153
     },
     {
       "id": "6a886b4e1d644e3868b8f48d",
@@ -450,7 +452,8 @@
         "Type: Événement",
         "Intervenante: Saskia Gesinus",
         "Date: 2026-09-20T10:30",
-        "Thématique: Sculpture"
+        "Thématique: Sculpture",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -468,7 +471,7 @@
       "workflowState": 1,
       "publishOn": 1787324567853,
       "addedOn": 1787324567853,
-      "updatedOn": 1788725159389
+      "updatedOn": 1789136703012
     },
     {
       "id": "6a88648e5745341a4b26975b",
@@ -493,7 +496,8 @@
         "Membre: Le Commun",
         "Membre: Centre d’Art Contemporain Genève",
         "Date: 2026-09-19T17:00",
-        "Type: Événement"
+        "Type: Événement",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -511,7 +515,7 @@
       "workflowState": 1,
       "publishOn": 1787323534282,
       "addedOn": 1787323534282,
-      "updatedOn": 1788385192840
+      "updatedOn": 1789136835517
     },
     {
       "id": "6a88566c9cf9f5355782067c",
@@ -1476,7 +1480,8 @@
         "Thématique: Savoir-faire artisanaux",
         "Intervenante: Marion Festal",
         "Date: 2026-09-18T10:00",
-        "Lieu: Jardin Botanique de Genève"
+        "Lieu: Jardin Botanique de Genève",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -1494,7 +1499,7 @@
       "workflowState": 1,
       "publishOn": 1786228876712,
       "addedOn": 1786228876712,
-      "updatedOn": 1787140237906
+      "updatedOn": 1789136756880
     },
     {
       "id": "6a77ad97eb7a4f7fe15aa137",
@@ -3603,7 +3608,8 @@
         "Type: Événement",
         "Artiste: Séverin Guelpa",
         "Thématique: Mixed Media",
-        "Date: 2026-09-18T20:30"
+        "Date: 2026-09-18T20:30",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -3621,7 +3627,7 @@
       "workflowState": 1,
       "publishOn": 1784669304400,
       "addedOn": 1784669304400,
-      "updatedOn": 1788429168281
+      "updatedOn": 1789136739398
     },
     {
       "id": "6a5fe01ff968e2685ee7ae17",
@@ -4175,7 +4181,8 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Lieu: Salle du catalogue",
-        "Date: 2026-09-19T14:30"
+        "Date: 2026-09-19T14:30",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -4193,7 +4200,7 @@
       "workflowState": 1,
       "publishOn": 1784153440453,
       "addedOn": 1784153440453,
-      "updatedOn": 1788774561910
+      "updatedOn": 1789136647141
     },
     {
       "id": "6a57fdb38090722e11b78006",
@@ -4615,7 +4622,8 @@
         "Thématique: Scène artistique suisse",
         "Date: 2026-09-17T18:30",
         "Quartier: Centre",
-        "Type: Événement"
+        "Type: Événement",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -4633,7 +4641,7 @@
       "workflowState": 1,
       "publishOn": 1783967670385,
       "addedOn": 1783967670385,
-      "updatedOn": 1787679952033
+      "updatedOn": 1789136814779
     },
     {
       "id": "6a552bae78b1d715536a69ab",
