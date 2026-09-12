@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-09-12T21:27:21.160Z",
-  "sourceHash": "fee76f17808822d6950eb46421700e6f35a4c79870e0db6bb62ed5689ecbfda5",
+  "updatedAt": "2026-09-12T21:36:23.806Z",
+  "sourceHash": "fd425cd63acf13dac643db4a27adf5561ed3e6167004cc39b3788af3bc885fe8",
   "count": 53,
   "pages": 3,
   "items": [
@@ -1893,7 +1893,7 @@
         "Numéro: 26",
         "Vernissage: 2026-09-17"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Invitée par Karen Alphonso au Labo, Claire Mayet présente «Rococozeit», une installation céramique qui transforme l’espace du lieu. À partir du vase, elle développe formes, motifs et surfaces qui se déploient à l’échelle de l’exposition. Sculptures, scénographie et papier peint dialoguent dans un décloisonnement des savoir-faire. Une œuvre collective réalisée avec plusieurs artistes invités prolonge cette recherche à travers un processus de co-création et de transmission.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Invitée par Karen Alphonso au Labo, Claire Mayet présente « Rockeries », une installation céramique qui transforme tout l'espace. À partir du vase, elle déploie formes, motifs et surfaces à l'échelle de l'exposition : sculptures, scénographie et papier peint dialoguent dans un décloisonnement des savoir-faire. Nourri par ses recherches sur les émaux, le revêtement et la protection, le projet explore les dimensions utilitaires, décoratives et ornementales de la céramique. Une œuvre collective, réalisée avec plusieurs artistes invités, prolonge cette recherche dans une démarche de co-création et de transmission.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.2014076,
@@ -1909,7 +1909,7 @@
       "workflowState": 1,
       "publishOn": 1787558403936,
       "addedOn": 1787558403936,
-      "updatedOn": 1789248231342
+      "updatedOn": 1789248623044
     },
     {
       "id": "69f88e4374e1ce4c39e2a986",
@@ -1955,8 +1955,8 @@
     {
       "id": "69f88f4be61f4720c2e6edea",
       "title": "Flora incognita",
-      "fullUrl": "/programme-2026/expositions/28/elsewhere-begins-here-the-poetics-of-the-in-between",
-      "urlId": "expositions/28/elsewhere-begins-here-the-poetics-of-the-in-between",
+      "fullUrl": "/programme-2026/expositions/28/flora-incognita",
+      "urlId": "expositions/28/flora-incognita",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/4e100eb3-13b1-4b70-b470-9e20ee9d710b/PCC_2026-28-Espace_L-Elsewhere_Begins_Here-002.webp",
       "mediaFocalPoint": {
         "x": 0.5159128978224455,
@@ -1979,7 +1979,7 @@
         "Artiste: Marius Margot",
         "Date: 2026-09-18/2026-10-24"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Pour célébrer les quinze ans d’Espace L, Leticia Maciel réunit Fernando de la Rocque, Vivianne van Singer et Vasilis Zografos dans <em>Elsewhere Begins Here, the Poetics of the In-Between</em>. À travers quinze œuvres, l’exposition explore l’entre-deux comme espace fertile de rencontre et de transformation. La céramique y occupe une place singulière, incarnant à travers le geste, la matière et le feu une métaphore de l’échange culturel et de ses métamorphoses.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Pour ses quinze ans, Espace_L présente « Flora incognita », une exposition collective sous le commissariat de Leticia Maciel. Le titre évoque un monde végétal encore inconnu, rétif à toute classification : il devient la métaphore de pratiques qui résistent aux catégories fixes. Comme un jardin sauvage où la diversité croît sans hiérarchie, l'exposition se déploie par proximité plutôt que par taxinomie. La céramique en traverse tout le parcours : chez Heberth Sobral, Vasilis Zografos et David Elia, l'argile devient matière de mémoire et de transformation, écho à la rencontre et à la migration, tandis que cyanotypes, couleur et écologies fictionnelles élargissent le champ.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 46.1986311,
@@ -1995,7 +1995,7 @@
       "workflowState": 1,
       "publishOn": 1787385622450,
       "addedOn": 1787385622450,
-      "updatedOn": 1789114958481
+      "updatedOn": 1789248590352
     },
     {
       "id": "69f88f8f5a3a3b38b7c32bab",
