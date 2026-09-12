@@ -5,9 +5,9 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-11T14:28:10.777Z",
-  "sourceHash": "80beb709079c7346574671874868aa15b96cc4281514312fbfdc664102b973fc",
-  "count": 155,
+  "updatedAt": "2026-09-12T20:07:20.460Z",
+  "sourceHash": "7d1af486ca613a3551af56607e746f246a6edc9d4656090c74671a73f738ab97",
+  "count": 154,
   "pages": 8,
   "items": [
     {
@@ -2599,7 +2599,8 @@
         "Artiste: Jérémy Bajulaz",
         "Thématique: Peinture",
         "Type: Événement",
-        "Date: 2026-09-19T15:00"
+        "Date: 2026-09-19T15:00",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -2617,7 +2618,7 @@
       "workflowState": 1,
       "publishOn": 1785273385742,
       "addedOn": 1785273385742,
-      "updatedOn": 1788380053087
+      "updatedOn": 1789243605144
     },
     {
       "id": "6a6918a0bda8447fddd9fc56",
@@ -5323,47 +5324,6 @@
       "publishOn": 1783812667351,
       "addedOn": 1783812667351,
       "updatedOn": 1787052945437
-    },
-    {
-      "id": "6a516f01cfa15f7f6b4c1d69",
-      "title": "Marta Blanc – Visite d’atelier",
-      "fullUrl": "/programme-2026/visite-d-atelier-de-marta-blanc",
-      "urlId": "visite-d-atelier-de-marta-blanc",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1783722145483-EPZ3PY1IEH7RN92ZP7IX/Geneva_Art_Week-Event_2026-Visite-atelier-Marta-Blanc-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Studio Visit"
-      ],
-      "tags": [
-        "Type: Événement",
-        "Membre: Art Resonance Gallery",
-        "Quartier: Vieille-Ville",
-        "Thématique: Sculpture en fil de métal crocheté",
-        "Lieu: Atelier Marta Blanc",
-        "Date: 2026-09-18T10:30",
-        "Artiste: Marta Blanc"
-      ],
-      "excerpt": "",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.1901315,
-        "mapLng": 6.130730799999999,
-        "markerLat": 46.1901315,
-        "markerLng": 6.130730799999999,
-        "addressTitle": "Atelier Marta Blanc",
-        "addressLine1": "Route des Acacias 43",
-        "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse"
-      },
-      "displayIndex": 35,
-      "workflowState": 1,
-      "publishOn": 1783721729245,
-      "addedOn": 1783721729245,
-      "updatedOn": 1785699385439
     },
     {
       "id": "6a51654b8f69b4706246a09b",
