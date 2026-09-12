@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-09-12T21:36:23.806Z",
-  "sourceHash": "fd425cd63acf13dac643db4a27adf5561ed3e6167004cc39b3788af3bc885fe8",
+  "updatedAt": "2026-09-12T21:47:53.816Z",
+  "sourceHash": "d6d2af4d183f6cfa2af13a02bdce5539089b4c7af73d6c3f24f6c10d5bfb384d",
   "count": 53,
   "pages": 3,
   "items": [
@@ -2042,8 +2042,8 @@
     {
       "id": "69f890182a65a5690a23ce4e",
       "title": "Jan Steenman",
-      "fullUrl": "/programme-2026/expositions/30/jan-steemann",
-      "urlId": "expositions/30/jan-steemann",
+      "fullUrl": "/programme-2026/expositions/30/jan-steenman",
+      "urlId": "expositions/30/jan-steenman",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/dcea5165-241c-4fd2-8831-a0977c93e354/PCC_2026-030-Olizane-Jan_Steemann-013.webp",
       "mediaFocalPoint": {
         "x": 0.6665014866204163,
@@ -2077,7 +2077,7 @@
       "workflowState": 1,
       "publishOn": 1787212847118,
       "addedOn": 1787212847118,
-      "updatedOn": 1789115715563
+      "updatedOn": 1789249593658
     },
     {
       "id": "6a5771aca8e15061f7f2333a",
