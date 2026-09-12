@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-09-11T13:38:19.886Z",
-  "sourceHash": "fb987849353cbea702a4fa90682ae5fdd95a6a00e23279b44d9ce599c3559df6",
+  "updatedAt": "2026-09-12T21:27:21.160Z",
+  "sourceHash": "fee76f17808822d6950eb46421700e6f35a4c79870e0db6bb62ed5689ecbfda5",
   "count": 53,
   "pages": 3,
   "items": [
@@ -1873,8 +1873,8 @@
     {
       "id": "69f88df874e1ce4c39e29010",
       "title": "Claire Mayet",
-      "fullUrl": "/programme-2026/expositions/27/claire-mayet",
-      "urlId": "expositions/27/claire-mayet",
+      "fullUrl": "/programme-2026/expositions/26/claire-mayet",
+      "urlId": "expositions/26/claire-mayet",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/696a2a1f2271cc548a020832/1779375726818-1656WVRU9NI6I6FNQA4S/PCC_2026-27-Espace_Labo-Claire_Mayet-008.webp",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1909,7 +1909,7 @@
       "workflowState": 1,
       "publishOn": 1787558403936,
       "addedOn": 1787558403936,
-      "updatedOn": 1789125232628
+      "updatedOn": 1789248231342
     },
     {
       "id": "69f88e4374e1ce4c39e2a986",
