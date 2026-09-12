@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-12T20:07:20.460Z",
-  "sourceHash": "7d1af486ca613a3551af56607e746f246a6edc9d4656090c74671a73f738ab97",
+  "updatedAt": "2026-09-12T20:17:20.123Z",
+  "sourceHash": "c7d741dfd1118ed7161d65c095274c244be4bc7eb473ad7b65c68731d4fd8f42",
   "count": 154,
   "pages": 8,
   "items": [
@@ -1713,7 +1713,7 @@
       "workflowState": 1,
       "publishOn": 1785800078466,
       "addedOn": 1785800078466,
-      "updatedOn": 1786373721823
+      "updatedOn": 1789244008721
     },
     {
       "id": "6a6fcc9432067566f7922286",
@@ -2558,7 +2558,8 @@
         "Thématique: Poetry",
         "Thématique: Nature",
         "Artiste: Rachel Marks",
-        "Date: 2026-09-16/2027-07-19"
+        "Date: 2026-09-16/2027-07-19",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -2576,7 +2577,7 @@
       "workflowState": 1,
       "publishOn": 1785274127210,
       "addedOn": 1785274127210,
-      "updatedOn": 1786454889625
+      "updatedOn": 1789243814033
     },
     {
       "id": "6a691c295b96c10d5ba7b8e7",
@@ -4539,7 +4540,8 @@
         "Artiste: Davide Nerini",
         "Artiste: Marie Sandoz",
         "Artiste: Estelle Sohier",
-        "Artiste: Anne-Katrin Weber"
+        "Artiste: Anne-Katrin Weber",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -4557,7 +4559,7 @@
       "workflowState": 1,
       "publishOn": 1783978894150,
       "addedOn": 1783978894150,
-      "updatedOn": 1788385160909
+      "updatedOn": 1789243703734
     },
     {
       "id": "6a5558dc4bcec764eb51603c",
