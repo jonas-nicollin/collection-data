@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-09-02T20:27:21.167Z",
-  "sourceHash": "44a0c8b63ed4d53169333cd44e14ea8cc758d8ba7d20c2e7e3050354e489f879",
+  "updatedAt": "2026-09-15T12:37:52.139Z",
+  "sourceHash": "820270d086998584578071202c42f58d1f1891a4b666ef1e6453bbaa9014b318",
   "count": 93,
   "pages": 1,
   "items": [
@@ -1757,8 +1757,8 @@
         "mapLng": 6.1410144,
         "markerLat": 40.7207559,
         "markerLng": -74.0007613,
-        "addressTitle": "Halle Nord/Capsules",
-        "addressLine1": "1 Place de l&#39;Ile",
+        "addressTitle": "Halle Nord",
+        "addressLine1": "Place de l&#39;Ile 1",
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
@@ -1766,7 +1766,7 @@
       "workflowState": 1,
       "publishOn": 1745971200745,
       "addedOn": 1745971200745,
-      "updatedOn": 1782200350918
+      "updatedOn": 1789475667336
     },
     {
       "id": "68248794cdfab25869f2b375",

@@ -5,11 +5,53 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-15T12:27:54.056Z",
-  "sourceHash": "a0eb251ff5bc4d3089a03bdf12ecd13017313e4b899d3af73bc8b6f739cf20cc",
-  "count": 154,
+  "updatedAt": "2026-09-15T12:37:50.705Z",
+  "sourceHash": "4fb67b4514ffb5edf18d652dd5bc4c3159abab8b91792675e1d8c938ce4248df",
+  "count": 155,
   "pages": 8,
   "items": [
+    {
+      "id": "6aa9394b14a5ed164ccfd581",
+      "title": "Marisa Cornejo – El Taller de la Fragilidad",
+      "fullUrl": "/programme-2026/el-taller-de-la-fragilidad",
+      "urlId": "el-taller-de-la-fragilidad",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/bf1d4a60-d5b9-4ebb-ae91-b0155c37f954/Geneva_Art_Week-Exhibitiont_2026-mi-verdera-madre_Halle-Nord-01.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Type: Solo show",
+        "Thématique: Dessin",
+        "Thématique: Peinture",
+        "Thématique: Sculpture",
+        "Membre: Halle Nord",
+        "Artiste: Marisa Cornejo",
+        "Quartier: L'Ile",
+        "Date: 2026-09-04/2026-10-10"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2047293,
+        "mapLng": 6.1418877,
+        "markerLat": 46.2047293,
+        "markerLng": 6.1418877,
+        "addressTitle": "Halle Nord",
+        "addressLine1": "Place de l&#39;Ile 1 ",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 165,
+      "workflowState": 1,
+      "publishOn": 1789475147918,
+      "addedOn": 1789475147918,
+      "updatedOn": 1789475655856
+    },
     {
       "id": "6aa0ea334621b91df8e0b201",
       "title": "A Horse collection from or for Vanessa Rossetto/a sound recollection",
