@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-15T12:17:56.064Z",
-  "sourceHash": "051818e03ad3475471831c05e8821b6b1167befffd7e936c49ee17a4ac8ac453",
+  "updatedAt": "2026-09-15T12:27:54.056Z",
+  "sourceHash": "a0eb251ff5bc4d3089a03bdf12ecd13017313e4b899d3af73bc8b6f739cf20cc",
   "count": 154,
   "pages": 8,
   "items": [
@@ -49,7 +49,7 @@
       "workflowState": 1,
       "publishOn": 1788930611291,
       "addedOn": 1788930611291,
-      "updatedOn": 1788954095896
+      "updatedOn": 1789475147951
     },
     {
       "id": "6aa019af32b37753162d80f2",
@@ -141,7 +141,7 @@
       "title": "Une expérience complètement art-gentée !",
       "fullUrl": "/programme-2026/une-experience-completement-art-gentee",
       "urlId": "une-experience-completement-art-gentee",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1788255262907-ECIKS0DM6IGF77ZB2AYT/Geneva_Art_Week-Exhibition_2026-Confederation_Centre-Une_experience_completement_art_gentee-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/d170c342-85bd-408b-9007-811a7c2ca73a/Geneva_Art_Week-Event_2026-MAH-Confederation-Centre-01.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -175,7 +175,7 @@
       "workflowState": 1,
       "publishOn": 1788255034582,
       "addedOn": 1788255034582,
-      "updatedOn": 1788930611317
+      "updatedOn": 1789474962965
     },
     {
       "id": "6a8e063111b8a57ec03b0405",
