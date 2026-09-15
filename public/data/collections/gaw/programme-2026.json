@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-14T10:07:55.086Z",
-  "sourceHash": "792b862dc06f7dd784fa969c94fec854484d9fbf3b0d7484ce8a7024c001d908",
+  "updatedAt": "2026-09-15T12:17:56.064Z",
+  "sourceHash": "051818e03ad3475471831c05e8821b6b1167befffd7e936c49ee17a4ac8ac453",
   "count": 154,
   "pages": 8,
   "items": [
@@ -1686,7 +1686,6 @@
         "Thématique: Vidéo",
         "Membre: Le Trou",
         "Quartier: Grand-Lancy",
-        "Date: 2026-09-18T19:30",
         "Artiste: Carmen-Sibha Keiso",
         "Artiste: Nicolas Ponce",
         "Artiste: Marina Olivares",
@@ -1695,7 +1694,8 @@
         "Artiste: Paul Fritz",
         "Artiste: Kairaan Kika",
         "Artiste: Hugo Langlade",
-        "Type: Événement"
+        "Type: Événement",
+        "Date:2026-09-18T18:30"
       ],
       "excerpt": "",
       "location": {
@@ -1713,7 +1713,7 @@
       "workflowState": 1,
       "publishOn": 1785800078466,
       "addedOn": 1785800078466,
-      "updatedOn": 1789244008721
+      "updatedOn": 1789474322034
     },
     {
       "id": "6a6fcc9432067566f7922286",
@@ -2036,7 +2036,8 @@
         "Artiste: Rachel Labastie",
         "Artiste: Robert Montgomery",
         "Date: 2026-09-03/2026-11-21",
-        "Membre: Analix Forever"
+        "Membre: Analix Forever",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -2054,7 +2055,7 @@
       "workflowState": 1,
       "publishOn": 1785417641800,
       "addedOn": 1785417641800,
-      "updatedOn": 1786458479952
+      "updatedOn": 1789474251585
     },
     {
       "id": "6a6b4e7a930bfd5acb209ee7",
