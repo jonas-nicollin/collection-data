@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://www.parcoursceramiquecarouge.com/programme-2026?format=json",
-  "updatedAt": "2026-09-12T21:47:53.816Z",
-  "sourceHash": "d6d2af4d183f6cfa2af13a02bdce5539089b4c7af73d6c3f24f6c10d5bfb384d",
+  "updatedAt": "2026-09-16T10:57:52.374Z",
+  "sourceHash": "fe786c9dda1039947fa0f8287b4627c8e2b40077aa45ae871e8b99004575158a",
   "count": 53,
   "pages": 3,
   "items": [
@@ -632,7 +632,7 @@
       "workflowState": 1,
       "publishOn": 1789819248276,
       "addedOn": 1789819248276,
-      "updatedOn": 1784110404115
+      "updatedOn": 1789556070218
     },
     {
       "id": "6a241ac68f66a64eb6af5734",
@@ -1891,7 +1891,7 @@
         "Lieu: Espace Labo",
         "Date: 2026-09-17/2026-10-30",
         "Numéro: 26",
-        "Vernissage: 2026-09-17"
+        "Vernissage: 2026-09-16T18:00"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Invitée par Karen Alphonso au Labo, Claire Mayet présente « Rockeries », une installation céramique qui transforme tout l'espace. À partir du vase, elle déploie formes, motifs et surfaces à l'échelle de l'exposition : sculptures, scénographie et papier peint dialoguent dans un décloisonnement des savoir-faire. Nourri par ses recherches sur les émaux, le revêtement et la protection, le projet explore les dimensions utilitaires, décoratives et ornementales de la céramique. Une œuvre collective, réalisée avec plusieurs artistes invités, prolonge cette recherche dans une démarche de co-création et de transmission.</p>",
       "location": {
@@ -1909,7 +1909,7 @@
       "workflowState": 1,
       "publishOn": 1787558403936,
       "addedOn": 1787558403936,
-      "updatedOn": 1789248623044
+      "updatedOn": 1789555849483
     },
     {
       "id": "69f88e4374e1ce4c39e2a986",
