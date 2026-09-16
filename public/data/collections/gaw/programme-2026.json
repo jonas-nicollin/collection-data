@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-15T14:07:56.285Z",
-  "sourceHash": "af4258ae5205c8fdd9c049665a8db188734a4d3ff5d56e0551fbf3adf0e64f4c",
+  "updatedAt": "2026-09-16T13:57:55.805Z",
+  "sourceHash": "639f22bfb5caf63a7a00ce90f7f92261299b62abb587d849725f1fd9006322de",
   "count": 155,
   "pages": 8,
   "items": [
@@ -3486,7 +3486,8 @@
         "Artiste: Clara Roumégoux",
         "Lieu: Tablard",
         "Quartier: Carouge",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -3504,7 +3505,7 @@
       "workflowState": 1,
       "publishOn": 1784673752778,
       "addedOn": 1784673752778,
-      "updatedOn": 1785683888319
+      "updatedOn": 1789567032200
     },
     {
       "id": "6a5ff22aa366315b33ff46e3",
@@ -3527,7 +3528,8 @@
         "Lieu: Anouch",
         "Artiste: Julie Richard",
         "Quartier: Quartier des banques",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -3545,7 +3547,7 @@
       "workflowState": 1,
       "publishOn": 1784672810891,
       "addedOn": 1784672810891,
-      "updatedOn": 1785495883463
+      "updatedOn": 1789567015685
     },
     {
       "id": "6a5fef10d708b826713a02fa",
@@ -5563,7 +5565,8 @@
         "Intervenant: Jacob Lachat",
         "Intervenant: Mickaëlle Provost",
         "Date: 2026-09-20T14:00",
-        "Quartier: Lancy"
+        "Quartier: Lancy",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -5581,7 +5584,7 @@
       "workflowState": 1,
       "publishOn": 1783708683795,
       "addedOn": 1783708683795,
-      "updatedOn": 1787933846161
+      "updatedOn": 1789567064780
     },
     {
       "id": "6a513517f9efae5edfb0fc5a",
@@ -6792,7 +6795,8 @@
         "Artiste: Claus Gunti",
         "Artiste: Giselle’s Books",
         "Date: 2026-09-13/2026-11-08",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -6810,7 +6814,7 @@
       "workflowState": 1,
       "publishOn": 1783330521895,
       "addedOn": 1783330521895,
-      "updatedOn": 1787815844461
+      "updatedOn": 1789567050231
     },
     {
       "id": "6a3955d9adf86433f900c349",
