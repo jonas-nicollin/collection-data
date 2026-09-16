@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-09-16T13:57:58.658Z",
-  "sourceHash": "0c28d9d1e81a567b7045a79b73e7d538a541a23ef92c38b3dded9376be0828c4",
+  "updatedAt": "2026-09-16T14:07:54.408Z",
+  "sourceHash": "fd9823441926e60881670fcc390a4c4d72e839ee15d201fb7f9af5ef6d640564",
   "count": 39,
   "pages": 2,
   "items": [
@@ -476,8 +476,7 @@
         "Catégorie: Rencontre Avec",
         "Sujet: Séverine Redon",
         "Membre: HiFlow",
-        "Quartier: Plan-les-Ouates",
-        "Sélection: Hero"
+        "Quartier: Plan-les-Ouates"
       ],
       "excerpt": "",
       "location": {
@@ -494,7 +493,7 @@
       "workflowState": 1,
       "publishOn": 1779549974378,
       "addedOn": 1779549974378,
-      "updatedOn": 1789566973158
+      "updatedOn": 1789567236293
     },
     {
       "id": "6a10a3124b5d4a2fb8c8c377",
