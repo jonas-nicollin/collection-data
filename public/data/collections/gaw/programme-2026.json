@@ -5,11 +5,54 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-17T12:57:23.595Z",
-  "sourceHash": "a2873a47ad3142efd709911c4f54f7c95f7c8b4fec1f7a8bbb423c1cee9c8dce",
-  "count": 155,
+  "updatedAt": "2026-09-17T13:37:28.563Z",
+  "sourceHash": "d07fd12edab53a2d0f3296250005306b9f7063c8098ead3596c817cc7ab6aa13",
+  "count": 156,
   "pages": 8,
   "items": [
+    {
+      "id": "6aabe6fb0f8fbd156d13a581",
+      "title": "Honey I Rearranged The Collection",
+      "fullUrl": "/programme-2026/honey-rearranged-the-collection",
+      "urlId": "honey-rearranged-the-collection",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7e43622a-7253-43fa-8e31-a1edf2f5c006/Geneva_Art_Week-Exhibition-Le-Trou.webp",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Exposition"
+      ],
+      "tags": [
+        "Thématique: Art contemporain",
+        "Membre: Le Trou",
+        "Quartier: Grand-Lancy",
+        "Thématique: Sculpture",
+        "Thématique: Scène artistique suisse",
+        "Artiste: Clara Locherer",
+        "Artiste: Divine K.",
+        "Type: Exposition",
+        "Date: 2026-08-24/2026-09-20"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1780922,
+        "mapLng": 6.119927,
+        "markerLat": 46.1780922,
+        "markerLng": 6.119927,
+        "addressTitle": "Le Trou",
+        "addressLine1": "Chemin des Semailles 15",
+        "addressLine2": "1212 Lancy",
+        "addressCountry": "Suisse"
+      },
+      "displayIndex": 166,
+      "workflowState": 1,
+      "publishOn": 1789650683950,
+      "addedOn": 1789650683950,
+      "updatedOn": 1789652043856
+    },
     {
       "id": "6aa9394b14a5ed164ccfd581",
       "title": "Marisa Cornejo – El Taller de la Fragilidad",
