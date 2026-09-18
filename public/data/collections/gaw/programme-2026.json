@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-18T08:27:18.355Z",
-  "sourceHash": "cd93aeba4b4edf939576de900e1f8a69162efdea60fbc660d02c188f05206f20",
+  "updatedAt": "2026-09-18T08:37:18.596Z",
+  "sourceHash": "53833e619d76f6c9bbabaa1aad1beebf8fc921ede131b8a54041fa6fe8b435cf",
   "count": 156,
   "pages": 8,
   "items": [
@@ -1520,8 +1520,7 @@
         "Thématique: Peinture",
         "Lieu: Atelier Gustave Didelot",
         "Artiste: Gustave Didelot",
-        "Date: 2026-09-17T12:30",
-        "Sélection: Expositions principales"
+        "Date: 2026-09-17T12:30"
       ],
       "excerpt": "",
       "location": {
@@ -1539,7 +1538,7 @@
       "workflowState": 1,
       "publishOn": 1786229967222,
       "addedOn": 1786229967222,
-      "updatedOn": 1787325883846
+      "updatedOn": 1789720210369
     },
     {
       "id": "6a77b08c469d6b5c61baa176",
@@ -4628,8 +4627,7 @@
         "Artiste: Davide Nerini",
         "Artiste: Marie Sandoz",
         "Artiste: Estelle Sohier",
-        "Artiste: Anne-Katrin Weber",
-        "Sélection: Expositions principales"
+        "Artiste: Anne-Katrin Weber"
       ],
       "excerpt": "",
       "location": {
@@ -4647,7 +4645,7 @@
       "workflowState": 1,
       "publishOn": 1783978894150,
       "addedOn": 1783978894150,
-      "updatedOn": 1789243703734
+      "updatedOn": 1789720184280
     },
     {
       "id": "6a5558dc4bcec764eb51603c",
@@ -4713,8 +4711,7 @@
         "Thématique: Scène artistique suisse",
         "Date: 2026-09-17T18:30",
         "Quartier: Centre",
-        "Type: Événement",
-        "Sélection: Expositions principales"
+        "Type: Événement"
       ],
       "excerpt": "",
       "location": {
@@ -4732,7 +4729,7 @@
       "workflowState": 1,
       "publishOn": 1783967670385,
       "addedOn": 1783967670385,
-      "updatedOn": 1789136814779
+      "updatedOn": 1789720241861
     },
     {
       "id": "6a552bae78b1d715536a69ab",
