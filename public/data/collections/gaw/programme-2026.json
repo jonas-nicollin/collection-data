@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-17T13:47:34.360Z",
-  "sourceHash": "3993fca022f1a2f44e0a4bfc329fb3cb99e71ed74cfb6d2b10639f1ccdaaa335",
+  "updatedAt": "2026-09-18T08:27:18.355Z",
+  "sourceHash": "cd93aeba4b4edf939576de900e1f8a69162efdea60fbc660d02c188f05206f20",
   "count": 156,
   "pages": 8,
   "items": [
@@ -5326,7 +5326,7 @@
       "workflowState": 1,
       "publishOn": 1783869743129,
       "addedOn": 1783869743129,
-      "updatedOn": 1785670625974
+      "updatedOn": 1789719975206
     },
     {
       "id": "6a53a6a65442af5901123eb8",
@@ -5849,10 +5849,10 @@
       "title": "The Darkroom, The Dye Lab &amp; The Kiln",
       "fullUrl": "/programme-2026/the-darkroom-the-dye-lab-the-kiln",
       "urlId": "the-darkroom-the-dye-lab-the-kiln",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0cfe3f8f-c5aa-4eb6-b5b7-596ce7eab5fc/Geneva_Art_Week-Exhibition_2026-Taste_+Contemporary-The_Darkroom_The_Dye_Lab_The_Kiln-Featured-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/76bb9f37-023b-4e76-ac3f-1630e06dc7a5/Geneva_Art_Week-Exhibition-Taste.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.49430418327174025,
+        "y": 0.3621865686343878,
         "source": 3
       },
       "categories": [
@@ -5887,7 +5887,7 @@
       "workflowState": 1,
       "publishOn": 1783632794874,
       "addedOn": 1783632794874,
-      "updatedOn": 1787011973926
+      "updatedOn": 1789719766529
     },
     {
       "id": "6a500fb5218dbf10dedeb5f1",
