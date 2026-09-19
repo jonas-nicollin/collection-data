@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-19T10:47:26.358Z",
-  "sourceHash": "25cc6ac42739d3c45904cb9fb6644ddd16cdd6fc84cb770a11eee9b967251ac0",
+  "updatedAt": "2026-09-19T21:37:26.416Z",
+  "sourceHash": "9aa9f4b0b1162657cdc1723f429336584c380c11717309ee69ff1984ac9f4a9a",
   "count": 156,
   "pages": 8,
   "items": [
@@ -324,8 +324,7 @@
         "Artiste: John Armleder",
         "Artiste: Stephan Eicher",
         "Artiste: Christian Marclay",
-        "Date: 2026-09-19T18:30",
-        "Sélection: Expositions principales"
+        "Date: 2026-09-19T18:30"
       ],
       "excerpt": "",
       "location": {
@@ -343,7 +342,7 @@
       "workflowState": 1,
       "publishOn": 1787610664245,
       "addedOn": 1787610664245,
-      "updatedOn": 1789136722550
+      "updatedOn": 1789853308333
     },
     {
       "id": "6a8c256c21c16709074f0902",
@@ -580,8 +579,7 @@
         "Membre: Le Commun",
         "Membre: Centre d’Art Contemporain Genève",
         "Date: 2026-09-19T17:00",
-        "Type: Événement",
-        "Sélection: Expositions principales"
+        "Type: Événement"
       ],
       "excerpt": "",
       "location": {
@@ -599,7 +597,7 @@
       "workflowState": 1,
       "publishOn": 1787323534282,
       "addedOn": 1787323534282,
-      "updatedOn": 1789136835517
+      "updatedOn": 1789853283183
     },
     {
       "id": "6a88566c9cf9f5355782067c",
@@ -2686,8 +2684,7 @@
         "Artiste: Jérémy Bajulaz",
         "Thématique: Peinture",
         "Type: Événement",
-        "Date: 2026-09-19T15:00",
-        "Sélection: Expositions principales"
+        "Date: 2026-09-19T15:00"
       ],
       "excerpt": "",
       "location": {
@@ -2705,7 +2702,7 @@
       "workflowState": 1,
       "publishOn": 1785273385742,
       "addedOn": 1785273385742,
-      "updatedOn": 1789243605144
+      "updatedOn": 1789853378606
     },
     {
       "id": "6a6918a0bda8447fddd9fc56",
@@ -4271,7 +4268,6 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Date: 2026-09-19T14:30",
-        "Sélection: Expositions principales",
         "Lieu: Accès: Suivre Centre de la Photographie Genève et monter au 1er étage"
       ],
       "excerpt": "",
@@ -4290,7 +4286,7 @@
       "workflowState": 1,
       "publishOn": 1784153440453,
       "addedOn": 1784153440453,
-      "updatedOn": 1789813154374
+      "updatedOn": 1789853340077
     },
     {
       "id": "6a57fdb38090722e11b78006",
