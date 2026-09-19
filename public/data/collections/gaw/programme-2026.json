@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-19T10:37:20.369Z",
-  "sourceHash": "6106e57907efdd517347a1267070ca9f8059b88411732ac296983fc77a75e5d7",
+  "updatedAt": "2026-09-19T10:47:26.358Z",
+  "sourceHash": "25cc6ac42739d3c45904cb9fb6644ddd16cdd6fc84cb770a11eee9b967251ac0",
   "count": 156,
   "pages": 8,
   "items": [
@@ -886,7 +886,8 @@
         "Artiste: Olivier Mosset",
         "Sélection: Nuit des Bains",
         "Membre: Centre d’édition contemporaine",
-        "Date: 2026-09-18/2026-10-09"
+        "Date: 2026-09-18/2026-10-09",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -904,7 +905,7 @@
       "workflowState": 1,
       "publishOn": 1786990258414,
       "addedOn": 1786990258414,
-      "updatedOn": 1789649424691
+      "updatedOn": 1789814251926
     },
     {
       "id": "6a834b534d93f9381d399b20",
@@ -940,7 +941,8 @@
         "Date: 2026-09-17/2026-11-11",
         "Thématique: Sculpture",
         "Sélection: Nuit des Bains",
-        "Artiste: Tobia Scarpa"
+        "Artiste: Tobia Scarpa",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -958,7 +960,7 @@
       "workflowState": 1,
       "publishOn": 1786989395113,
       "addedOn": 1786989395113,
-      "updatedOn": 1787001052896
+      "updatedOn": 1789814239793
     },
     {
       "id": "6a80ce0ee878c4281eb3f6c0",
