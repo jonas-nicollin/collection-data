@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-19T10:27:23.764Z",
-  "sourceHash": "7278794fa4699b3f8291ef1c167afd8ce2b8dc0ac8db04db8226c03ff2c80bc7",
+  "updatedAt": "2026-09-19T10:37:20.369Z",
+  "sourceHash": "6106e57907efdd517347a1267070ca9f8059b88411732ac296983fc77a75e5d7",
   "count": 156,
   "pages": 8,
   "items": [
@@ -1393,7 +1393,8 @@
         "Thématique: Art contemporain",
         "Thématique: Mixed Media",
         "Date: 2026-09-18/2026-10-31",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -1411,7 +1412,7 @@
       "workflowState": 1,
       "publishOn": 1786350052871,
       "addedOn": 1786350052871,
-      "updatedOn": 1786453080428
+      "updatedOn": 1789814066420
     },
     {
       "id": "6a7985ae9efa502bbd06356c",
@@ -3188,7 +3189,8 @@
         "Vernissage: 2026-09-19T11:30",
         "Lieu: Maison Pertin",
         "Sélection: Parcours Céramique Carouge",
-        "Membre: Swissceramics"
+        "Membre: Swissceramics",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -3206,7 +3208,7 @@
       "workflowState": 1,
       "publishOn": 1785251753825,
       "addedOn": 1785251753825,
-      "updatedOn": 1786458713541
+      "updatedOn": 1789814144681
     },
     {
       "id": "6a68c6283121e01c6bbacb2c",
@@ -4447,7 +4449,8 @@
         "Thématique: Vidéo",
         "Date: 2026-09-14/2026-10-18",
         "Vernissage: 2026-09-16T18:00",
-        "Sélection: Art en Vieille-Ville"
+        "Sélection: Art en Vieille-Ville",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -4465,7 +4468,7 @@
       "workflowState": 1,
       "publishOn": 1784148642310,
       "addedOn": 1784148642310,
-      "updatedOn": 1786455148610
+      "updatedOn": 1789814179818
     },
     {
       "id": "6a57ecf04ba7754fcced3aaa",
@@ -5863,7 +5866,8 @@
         "Artiste: Ptolemy Mann",
         "Artiste: Marit Tingleff",
         "Sélection: Parcours Céramique Carouge",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -5881,7 +5885,7 @@
       "workflowState": 1,
       "publishOn": 1783632794874,
       "addedOn": 1783632794874,
-      "updatedOn": 1789719766529
+      "updatedOn": 1789814199239
     },
     {
       "id": "6a500fb5218dbf10dedeb5f1",
@@ -5996,7 +6000,8 @@
         "Vernissage: 2026-09-17T18:00",
         "Artiste: Seline Burn",
         "Quartier: Quartier des Bains",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -6014,7 +6019,7 @@
       "workflowState": 1,
       "publishOn": 1783630677538,
       "addedOn": 1783630677538,
-      "updatedOn": 1786453136702
+      "updatedOn": 1789814213634
     },
     {
       "id": "6a4eda91af61824f6997e5fc",
