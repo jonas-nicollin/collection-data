@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-18T08:37:18.596Z",
-  "sourceHash": "53833e619d76f6c9bbabaa1aad1beebf8fc921ede131b8a54041fa6fe8b435cf",
+  "updatedAt": "2026-09-19T10:27:23.764Z",
+  "sourceHash": "7278794fa4699b3f8291ef1c167afd8ce2b8dc0ac8db04db8226c03ff2c80bc7",
   "count": 156,
   "pages": 8,
   "items": [
@@ -454,8 +454,7 @@
         "Thématique: Sculpture",
         "Quartier: Jonction",
         "Lieu: Atelier 405, Usine",
-        "Date: 2026-09-18T17:30",
-        "Sélection: Expositions principales"
+        "Date: 2026-09-18T17:30"
       ],
       "excerpt": "",
       "location": {
@@ -473,7 +472,7 @@
       "workflowState": 1,
       "publishOn": 1787325883748,
       "addedOn": 1787325883748,
-      "updatedOn": 1789136778153
+      "updatedOn": 1789813264177
     },
     {
       "id": "6a886b4e1d644e3868b8f48d",
@@ -1564,8 +1563,7 @@
         "Thématique: Savoir-faire artisanaux",
         "Intervenante: Marion Festal",
         "Date: 2026-09-18T10:00",
-        "Lieu: Jardin Botanique de Genève",
-        "Sélection: Expositions principales"
+        "Lieu: Jardin Botanique de Genève"
       ],
       "excerpt": "",
       "location": {
@@ -1583,7 +1581,7 @@
       "workflowState": 1,
       "publishOn": 1786228876712,
       "addedOn": 1786228876712,
-      "updatedOn": 1789136756880
+      "updatedOn": 1789813394117
     },
     {
       "id": "6a77ad97eb7a4f7fe15aa137",
@@ -3697,8 +3695,7 @@
         "Type: Événement",
         "Artiste: Séverin Guelpa",
         "Thématique: Mixed Media",
-        "Date: 2026-09-18T20:30",
-        "Sélection: Expositions principales"
+        "Date: 2026-09-18T20:30"
       ],
       "excerpt": "",
       "location": {
@@ -3716,7 +3713,7 @@
       "workflowState": 1,
       "publishOn": 1784669304400,
       "addedOn": 1784669304400,
-      "updatedOn": 1789136739398
+      "updatedOn": 1789813251916
     },
     {
       "id": "6a5fe01ff968e2685ee7ae17",
@@ -4269,9 +4266,9 @@
       ],
       "tags": [
         "Membre: Geneva Art Week",
-        "Lieu: Salle du catalogue",
         "Date: 2026-09-19T14:30",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Lieu: Accès: Suivre Centre de la Photographie Genève et monter au 1er étage"
       ],
       "excerpt": "",
       "location": {
@@ -4289,7 +4286,7 @@
       "workflowState": 1,
       "publishOn": 1784153440453,
       "addedOn": 1784153440453,
-      "updatedOn": 1789136647141
+      "updatedOn": 1789813154374
     },
     {
       "id": "6a57fdb38090722e11b78006",
