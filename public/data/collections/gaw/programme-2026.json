@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-09-19T21:37:26.416Z",
-  "sourceHash": "9aa9f4b0b1162657cdc1723f429336584c380c11717309ee69ff1984ac9f4a9a",
+  "updatedAt": "2026-09-21T14:27:25.563Z",
+  "sourceHash": "7a32987f4cdd5eab4726b4dd9705ee05b87cf632f1dcec1a265fc1e92e5a8f0d",
   "count": 156,
   "pages": 8,
   "items": [
@@ -535,8 +535,7 @@
         "Type: Événement",
         "Intervenante: Saskia Gesinus",
         "Date: 2026-09-20T10:30",
-        "Thématique: Sculpture",
-        "Sélection: Expositions principales"
+        "Thématique: Sculpture"
       ],
       "excerpt": "",
       "location": {
@@ -554,7 +553,7 @@
       "workflowState": 1,
       "publishOn": 1787324567853,
       "addedOn": 1787324567853,
-      "updatedOn": 1789136703012
+      "updatedOn": 1790000442630
     },
     {
       "id": "6a88648e5745341a4b26975b",
@@ -3527,8 +3526,7 @@
         "Artiste: Clara Roumégoux",
         "Lieu: Tablard",
         "Quartier: Carouge",
-        "Sélection: Art Tables",
-        "Sélection: Expositions principales"
+        "Sélection: Art Tables"
       ],
       "excerpt": "",
       "location": {
@@ -3546,7 +3544,7 @@
       "workflowState": 1,
       "publishOn": 1784673752778,
       "addedOn": 1784673752778,
-      "updatedOn": 1789567032200
+      "updatedOn": 1790000551661
     },
     {
       "id": "6a5ff22aa366315b33ff46e3",
@@ -3569,8 +3567,7 @@
         "Lieu: Anouch",
         "Artiste: Julie Richard",
         "Quartier: Quartier des banques",
-        "Sélection: Art Tables",
-        "Sélection: Expositions principales"
+        "Sélection: Art Tables"
       ],
       "excerpt": "",
       "location": {
@@ -3588,7 +3585,7 @@
       "workflowState": 1,
       "publishOn": 1784672810891,
       "addedOn": 1784672810891,
-      "updatedOn": 1789567015685
+      "updatedOn": 1790000535498
     },
     {
       "id": "6a5fef10d708b826713a02fa",
@@ -3611,8 +3608,7 @@
         "Lieu: Bleu Nuit",
         "Quartier: Plainpalais",
         "Artiste: Salomé Engel",
-        "Sélection: Art Tables",
-        "Sélection: Expositions principales"
+        "Sélection: Art Tables"
       ],
       "excerpt": "",
       "location": {
@@ -3630,7 +3626,7 @@
       "workflowState": 1,
       "publishOn": 1784672016182,
       "addedOn": 1784672016182,
-      "updatedOn": 1787740776741
+      "updatedOn": 1790000529590
     },
     {
       "id": "6a5fea9aea5133409618fe61",
@@ -3653,8 +3649,7 @@
         "Date: 2026-09-16/2026-09-20",
         "Artiste: Yann-Stéphane Bisso",
         "Thématique: Scène artistique suisse",
-        "Sélection: Art Tables",
-        "Sélection: Expositions principales"
+        "Sélection: Art Tables"
       ],
       "excerpt": "",
       "location": {
@@ -3672,7 +3667,7 @@
       "workflowState": 1,
       "publishOn": 1784670874526,
       "addedOn": 1784670874526,
-      "updatedOn": 1787740756979
+      "updatedOn": 1790000523430
     },
     {
       "id": "6a5fe478799b9d502f654e5f",
@@ -5603,8 +5598,7 @@
         "Intervenant: Jacob Lachat",
         "Intervenant: Mickaëlle Provost",
         "Date: 2026-09-20T14:00",
-        "Quartier: Lancy",
-        "Sélection: Expositions principales"
+        "Quartier: Lancy"
       ],
       "excerpt": "",
       "location": {
@@ -5622,7 +5616,7 @@
       "workflowState": 1,
       "publishOn": 1783708683795,
       "addedOn": 1783708683795,
-      "updatedOn": 1789567064780
+      "updatedOn": 1790000472636
     },
     {
       "id": "6a513517f9efae5edfb0fc5a",
