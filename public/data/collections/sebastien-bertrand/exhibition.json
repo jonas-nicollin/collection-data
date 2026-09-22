@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-22T06:37:33.582Z",
-  "sourceHash": "0f41c3fead5ba3f2b57eda3fda2637b301e540075b83470199b2e97f7199549e",
+  "updatedAt": "2026-09-22T12:17:35.735Z",
+  "sourceHash": "83558ca3b94715783f4c2ac2259de9b0ec1e95ef12b22ef84149bb0ee9a8057c",
   "count": 105,
   "pages": 1,
   "items": [
@@ -147,7 +147,9 @@
         "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Year: 2026",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition"
+        "Status: Past Exhibition",
+        "Extended until: 2026-05-16",
+        "Date: 2026-03-26/2026-05-08"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Extended until 16 May 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26.03.2026–08.05.2026 </p>",
       "location": {
@@ -165,7 +167,7 @@
       "workflowState": 1,
       "publishOn": 1777557897876,
       "addedOn": 1777557897876,
-      "updatedOn": 1782222763363
+      "updatedOn": 1790079156739
     },
     {
       "id": "69d7a1aef7f4ab5809a61615",
