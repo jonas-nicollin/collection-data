@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "site": "sebastien-bertrand",
+  "collections": [
+    {
+      "id": "exhibition",
+      "path": "/exhibition",
+      "url": "https://sebastienbertrand.com/exhibition?format=json"
+    },
+    {
+      "id": "all-artists",
+      "path": "/all-artists",
+      "url": "https://sebastienbertrand.com/all-artists?format=json"
+    }
+  ],
+  "pendingCollections": [
+    {
+      "id": "all-news",
+      "path": "/all-news",
+      "url": "https://sebastienbertrand.com/all-news?format=json",
+      "reason": "Password-protected Squarespace collection (HTTP 401)."
+    }
+  ]
+}
