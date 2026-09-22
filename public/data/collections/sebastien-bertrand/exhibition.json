@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-22T12:17:35.735Z",
-  "sourceHash": "83558ca3b94715783f4c2ac2259de9b0ec1e95ef12b22ef84149bb0ee9a8057c",
+  "updatedAt": "2026-09-22T13:17:36.867Z",
+  "sourceHash": "1a7d997bf245ffef1fa2ec8bc2038f8316abb86c65a547951eadaf8a86ace777",
   "count": 105,
   "pages": 1,
   "items": [
@@ -69,7 +69,9 @@
         "Exhibition: Fair",
         "Year: 2026",
         "Location: Messe Basel, Hall 1.1",
-        "Status: Past Exhibition"
+        "Status: Past Exhibition",
+        "Opening Reception: 2026-06-15T11:00/2026-06-15T20:00",
+        "Date: 2026-05-15/2026-05-21"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15 – 21 June 2026</p><pre><code>Opening Reception: Monday, June 15, 11:00 – 20:00 </code></pre>",
       "location": {
@@ -87,7 +89,7 @@
       "workflowState": 1,
       "publishOn": 1781013857312,
       "addedOn": 1781013857312,
-      "updatedOn": 1787065411723
+      "updatedOn": 1790082581317
     },
     {
       "id": "6a1801b0bc711572d93ba3fa",
