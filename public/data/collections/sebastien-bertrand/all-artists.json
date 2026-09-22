@@ -1,0 +1,872 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "sebastien-bertrand",
+  "id": "all-artists",
+  "path": "/all-artists",
+  "sourceUrl": "https://sebastienbertrand.com/all-artists?format=json",
+  "updatedAt": "2026-09-22T06:37:33.829Z",
+  "sourceHash": "33c17f0f23338fd3c9b398bfcc69875af5aa6f72c87c405b1053c9055c154f9f",
+  "count": 24,
+  "pages": 1,
+  "items": [
+    {
+      "id": "61f26ae657ed9b1b8b92fbf8",
+      "title": "Joe Andoe",
+      "fullUrl": "/all-artists/joe-andoe",
+      "sourceUrl": "/artist/joe-andoe",
+      "urlId": "joe-andoe",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1758014607195-KHKCEHAH2T7IRXVMDB0Q/Joe+Andoe_Landscapes4.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Joe Andoe"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1955, Tulsa, Oklahoma.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 3,
+      "workflowState": 1,
+      "publishOn": 1704057960977,
+      "addedOn": 1704057960977,
+      "updatedOn": 1758014616697
+    },
+    {
+      "id": "61f26b9777b790472ed0bc86",
+      "title": "Todd Bienvenu",
+      "fullUrl": "/all-artists/todd-bienvenu",
+      "sourceUrl": "/artist/todd-bienvenu",
+      "urlId": "todd-bienvenu",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729760740108-UM14OWQB36149JNVBXAM/2_HD_Stage+Dive%2C+Todd+Bienvenu%2C+2023.+Acrylic+on+linen%2C+200%2C7+x+177%2C8+cm+%2879+x+70+in.%29+copie+2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Todd Bienvenu"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-small\" data-rte-preserve-empty=\"true\">Born in 1980 in Little Rock, Arkansas.</p><p style=\"white-space:pre-wrap;\" class=\"sqsrte-small\" data-rte-preserve-empty=\"true\">Lives and works in New York, USA.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Todd Bienvenu’s thick oil and acrylic paintings are expressive, resplendent and uninhibited, driven by&nbsp;strong color and spontaneous movement. He&nbsp;applies paint directly as&nbsp;forms and subjects emerge through addition and subtraction. Burlesque scenes – parties, beaches, sex, alcohol – carry an&nbsp;underlying melancholy, touching on&nbsp;time, solitude, and the body’s vulnerability.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 10,
+      "workflowState": 1,
+      "publishOn": 1698836400661,
+      "addedOn": 1698836400661,
+      "updatedOn": 1767004779560
+    },
+    {
+      "id": "649db3be412ef771c101fcbd",
+      "title": "Han-Chiao",
+      "fullUrl": "/all-artists/han-chiao",
+      "sourceUrl": "/artist/han-chiao",
+      "urlId": "han-chiao",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729784992510-Y2ZNH8TZ8NPPXB8MDSJ1/HD4_Untitled%2C+Han+Chiao%2C+2023.+Black+Stoneware%2C+43+x+20+x+39+cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.52626953125,
+        "y": 0.6114916591331632,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 25,
+      "workflowState": 1,
+      "publishOn": 1696178340361,
+      "addedOn": 1696178340361,
+      "updatedOn": 1733911232403
+    },
+    {
+      "id": "61f2c9586ea4c618300c07c3",
+      "title": "Jonathan Edelhuber",
+      "fullUrl": "/all-artists/jonathan-edelhuber",
+      "sourceUrl": "/artist/jonathan-edelhuber",
+      "urlId": "jonathan-edelhuber",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656000282327-6B650OHG1TF4ISU6606V/WEB_Still-life-with-Picasso-sculpture-on-art-books%2C-Jonathan-Edelhuber%2C-2020.-Acrylic-on-canvas.-183%2C8-x-146%2C2-cm-%2872-x-58-in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.4257109692396982,
+        "y": 0.3065618750871971,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Jonathan Edelhuber"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 16,
+      "workflowState": 1,
+      "publishOn": 1693665000252,
+      "addedOn": 1693665000252,
+      "updatedOn": 1728743882218
+    },
+    {
+      "id": "68c939dd25f21441308c2533",
+      "title": "Mathis Gasser",
+      "fullUrl": "/all-artists/mathis-gasser",
+      "sourceUrl": "/artist/mathis-gasser",
+      "urlId": "mathis-gasser",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1758018316095-8VTP8J85LTMOAYCHSCCA/HD_Sebastien_Bertrand-078-Edit+copy.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Mathis Gasser"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Born in 1984 in Zurich, Switzerland.</p><p class=\"p3\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lives and works in London, UK&nbsp;</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 28,
+      "workflowState": 1,
+      "publishOn": 1693650000184,
+      "addedOn": 1693650000184,
+      "updatedOn": 1758035656759
+    },
+    {
+      "id": "61f26b826f12bb377bddfb45",
+      "title": "Natalia González Martín",
+      "fullUrl": "/all-artists/natalia-gonzalez-martin",
+      "sourceUrl": "/artist/natalia-gonzalez-martin",
+      "urlId": "natalia-gonzalez-martin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729761122743-KPYIWLMEND1FVB7NVWAK/4_HD_Agatha%27s%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+21+x+14+cm+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Natalia Gonzalez Martin"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1995, Madrid, Spain.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in London, UK.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 7,
+      "workflowState": 1,
+      "publishOn": 1690970400856,
+      "addedOn": 1690970400856,
+      "updatedOn": 1733911243569
+    },
+    {
+      "id": "61f26b698069395c6a75147e",
+      "title": "Michael Hilsman",
+      "fullUrl": "/all-artists/michael-hilsman",
+      "sourceUrl": "/artist/michael-hilsman",
+      "urlId": "michael-hilsman",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729762041182-67UY33MV36ZK6ZWBISGJ/5.5_HD_M.+With+Iris+And+Other+Flowers%2C+Michael+Hilsman%2C+2020.+Oil+on+linen.+28+x+35%2C5+%2811+x+14+in%29+Cropped+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.6699183332961158,
+        "y": 0.5572571549815086,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Michael Hilsman"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1984, Los Angeles, California.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in Pasadena, CA, USA.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 5,
+      "workflowState": 1,
+      "publishOn": 1688205600876,
+      "addedOn": 1688205600876,
+      "updatedOn": 1733911263152
+    },
+    {
+      "id": "68c92cb7aa70842637278dc4",
+      "title": "Isaac Soh Fujita Howell",
+      "fullUrl": "/all-artists/isaac-soh-fujita-howell",
+      "sourceUrl": "/artist/isaac-soh-fujita-howell",
+      "urlId": "isaac-soh-fujita-howell",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1758014794266-KM01UX5H4U4RLF5XR6IV/HD4_IFH-2505.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Isaac Soh Fujita Howell"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&nbsp;Born in 1993 in Princeton, NJ.&nbsp;</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lives and works in Brooklyn, NY.&nbsp;</p><p class=\"p1\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 27,
+      "workflowState": 1,
+      "publishOn": 1688203440775,
+      "addedOn": 1688203440775,
+      "updatedOn": 1758015700097
+    },
+    {
+      "id": "61f26b59962a8f0bd2f990c1",
+      "title": "Alexander Kosolapov",
+      "fullUrl": "/all-artists/alexander-kosolapov",
+      "sourceUrl": "/artist/alexander-kosolapov",
+      "urlId": "alexander-kosolapov",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729761214615-UT5SED6QEGRO67ID1RF6/6_Malevich-Marlboro%2C+Alexander+Kosolapov%2C+1995.+Acrylic+on+canvas.+121%2C9+x+182%2C8+cm+%2848+x+72+in%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5192371547879068,
+        "y": 0.35554972605484647,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Alexander Kosolapov"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1943, Moscow, Russia.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 1,
+      "workflowState": 1,
+      "publishOn": 1687946400959,
+      "addedOn": 1687946400959,
+      "updatedOn": 1733911284051
+    },
+    {
+      "id": "61f26b1893406d0903acfdaf",
+      "title": "Richard Kern",
+      "fullUrl": "/all-artists/richard-kern",
+      "sourceUrl": "/artist/richard-kern",
+      "urlId": "richard-kern",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729761366198-WCKG8LZ5GC0QSG7P667A/7_HD_Richard+Kern%2C+Kim+With+Shotgun%2C+1985%2C+B%26W+photograph+mounted+on+dibond%2C+152.4+x+104.1+cm.+%3A+60+x+41+in.%2C+Unique+%28RK-2403%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.33038351696310303,
+        "y": 0.4150784557337731,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Richard Kern"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1954, Roanoke Rapids, North Carolina.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives in New York, USA.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 8,
+      "workflowState": 1,
+      "publishOn": 1686823200857,
+      "addedOn": 1686823200857,
+      "updatedOn": 1733911297488
+    },
+    {
+      "id": "652e5764a410004b14b74e32",
+      "title": "Sang Woo Kim",
+      "fullUrl": "/all-artists/sang-woo-kim",
+      "sourceUrl": "/artist/sang-woo-kim",
+      "urlId": "sang-woo-kim",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729785172536-8YT4JQ0D6BBCFSDR11JT/HD2_Sang%252BWoo%252BKim%25252C%252BThe%252BCorner%252B002%25252C%252B2023%25252C%252BOil%252Bon%252Bcanvas%25252C%252B31%252Bx%252B21%252Bx%252B3%252Bcm.%25252C%252B12%252B%2525C2%2525BC%252Bx%252B8%252B%2525C2%2525BC%252Bx%252B1%252B%2525C2%2525BC%252Bin.%252528SWK-2305%252529%252Bcopie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Sang Woo Kim"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 26,
+      "workflowState": 1,
+      "publishOn": 1686735840928,
+      "addedOn": 1686735840928,
+      "updatedOn": 1767800234216
+    },
+    {
+      "id": "6255872d0ad2c73bdae5b1bd",
+      "title": "Tali Lennox",
+      "fullUrl": "/all-artists/tali-lennox",
+      "sourceUrl": "/artist/tali-lennox",
+      "urlId": "tali-lennox",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1750861498102-6BJ3L4SZ42SKJE22E9EF/Sebastien_Bertrand_Lennox-019-Edit+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5501261818161641,
+        "y": 0.3674554719906318,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Tali Lennox"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1993, London, UK.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 9,
+      "workflowState": 1,
+      "publishOn": 1685613600086,
+      "addedOn": 1685613600086,
+      "updatedOn": 1750861512332
+    },
+    {
+      "id": "61f26b2bed297a0323b7c516",
+      "title": "Mustafa Maluka",
+      "fullUrl": "/all-artists/mustafa-maluka",
+      "sourceUrl": "/artist/mustafa-maluka",
+      "urlId": "mustafa-maluka",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655721397879-O4HW921UT8XDQ5SUBRDL/image1+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.500034850491392,
+        "y": 0.37204111054271494,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Mustafa Maluka"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1976, Cape Town, South Africa.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in Turku, Finland.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 6,
+      "workflowState": 1,
+      "publishOn": 1683034500352,
+      "addedOn": 1683034500352,
+      "updatedOn": 1728744308870
+    },
+    {
+      "id": "6290dd173521d321dfacd303",
+      "title": "Max Maslansky",
+      "fullUrl": "/all-artists/max-maslansky",
+      "sourceUrl": "/artist/max-maslansky",
+      "urlId": "max-maslansky",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655999844083-BY4SDVS6TEQNE4VP8RS1/WEB_Undress-%28Double-bed%29-MaxM-2013-Acrylic-on-bed-sheet-190-x-135-cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 18,
+      "workflowState": 1,
+      "publishOn": 1682948700779,
+      "addedOn": 1682948700779,
+      "updatedOn": 1728744269102
+    },
+    {
+      "id": "61f26a0293bd8b2283490f7b",
+      "title": "Aks Misyuta",
+      "fullUrl": "/all-artists/aks-misyuta",
+      "sourceUrl": "/artist/aks-misyuta",
+      "urlId": "aks-misyuta",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1686132765035-DF6JSXIVKU38JKORR8A5/web_two-of-you-aks-misyuta-screenprint-portrait.jpg",
+      "mediaFocalPoint": {
+        "x": 0.514910190083125,
+        "y": 0.36311212388968983,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Aks Misyuta"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1984, Bryansk, Russia.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in Istanbul, Turkey.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 0,
+      "workflowState": 1,
+      "publishOn": 1682935200835,
+      "addedOn": 1682935200835,
+      "updatedOn": 1728744460072
+    },
+    {
+      "id": "61f26b057ed7336e3d7e2cf0",
+      "title": "Lydia Pettit",
+      "fullUrl": "/all-artists/lydia-pettit",
+      "sourceUrl": "/artist/lydia-pettit",
+      "urlId": "lydia-pettit",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1643287735129-WQ3NG9OQSD5BCVTEAVUR/Lydia-Pettit.jpg",
+      "mediaFocalPoint": {
+        "x": 0.47977120535714285,
+        "y": 0.2631138392857143,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Lydia Pettit"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1991, Towson, Maryland.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in London, UK.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 4,
+      "workflowState": 1,
+      "publishOn": 1682762400521,
+      "addedOn": 1682762400521,
+      "updatedOn": 1728744399014
+    },
+    {
+      "id": "61f2c9a3625bb879d7a194c2",
+      "title": "Storm Tharp",
+      "fullUrl": "/all-artists/storm-tharp",
+      "sourceUrl": "/artist/storm-tharp",
+      "urlId": "storm-tharp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655999917211-6GPQPG1I8QVNUUJWRQVD/007_O7A5302.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 22,
+      "workflowState": 1,
+      "publishOn": 1677675600048,
+      "addedOn": 1677675600048,
+      "updatedOn": 1728744829525
+    },
+    {
+      "id": "61f26b418e8c5e12cd95c8ae",
+      "title": "Walter Robinson",
+      "fullUrl": "/all-artists/walter-robinson",
+      "sourceUrl": "/artist/walter-robinson",
+      "urlId": "walter-robinson",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729761450901-R7KQ7B30OD641FNZ1YI1/9_HD2_Walter+Robinson%2C+Weeping+Woman%2C+2024%2C+Acrylic+on+canvas%2C+91.4+x+91.4+cm.%2C+36+x+36+in.+%28WR-2406%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5632287536371723,
+        "y": 0.3852941772201567,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Walter Robinson"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1950, Wilmington, Delaware.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 11,
+      "workflowState": 1,
+      "publishOn": 1677668400512,
+      "addedOn": 1677668400512,
+      "updatedOn": 1733911340696
+    },
+    {
+      "id": "61f2c933a33caf6d241d7412",
+      "title": "Hannah Rowan",
+      "fullUrl": "/all-artists/hannah-rowan",
+      "sourceUrl": "/artist/hannah-rowan",
+      "urlId": "hannah-rowan",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655999552194-CCFX65J3FO6BEICACFOP/05.jpeg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Hannah Rowan"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 14,
+      "workflowState": 1,
+      "publishOn": 1675269000314,
+      "addedOn": 1675269000314,
+      "updatedOn": 1728745005459
+    },
+    {
+      "id": "61f1389f4d7bc663be383030",
+      "title": "Chloe Wise",
+      "fullUrl": "/all-artists/chloe-wise",
+      "sourceUrl": "/artist/chloe-wise",
+      "urlId": "chloe-wise",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729762160575-LJ54OJM7T9SCBDRHKSYG/10_HD_Enjoy+as+little+as+possible%2C+Chloe+Wise%2C+2022.+Oil+on+linen%2C+91.5+x+122+cm%2C+%2836+x+48+in.%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Chloe Wise"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1990, Montreal, Canada.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 2,
+      "workflowState": 1,
+      "publishOn": 1669892400561,
+      "addedOn": 1669892400561,
+      "updatedOn": 1733911360872
+    },
+    {
+      "id": "61f26ba7db6f2b3d506eb027",
+      "title": "Yarisal &amp; Kublitz",
+      "fullUrl": "/all-artists/yarisal-and-kublitz",
+      "sourceUrl": "/artist/yarisal-and-kublitz",
+      "urlId": "yarisal-and-kublitz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729761750344-JUAZUOXMTOCJ4EHP8MKO/HD_Bling+Blang%2C+Ching+Chang%2C+Give+Me+Some+Of+That+Yin+Yang%2C+Yarisal+%26+Kublitz%2C+2014.+Ceramic%2C+jawbreaker+candy%2C+rope%2C+acrylic%2C+brass.+46+x+33+x+52+cm+%2818+x+13+x+20.5+in%29.+Ed.3+%2B+1+ap.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Yarisal & Kublitz"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Ronnie Yarisal, born in 1981, Geneva, Switzerland.</p><p class=\"\" style=\"white-space:pre-wrap;\">Katja Kublitz, born in 1978, Copenhagen, Denmark.</p><p class=\"\" style=\"white-space:pre-wrap;\">Live and work in Berlin, Germany.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 12,
+      "workflowState": 1,
+      "publishOn": 1665828000021,
+      "addedOn": 1665828000021,
+      "updatedOn": 1733911401993
+    },
+    {
+      "id": "62b48f453e6e327ea48c42f9",
+      "title": "Purvis Young",
+      "fullUrl": "/all-artists/purvis-young",
+      "sourceUrl": "/artist/purvis-young",
+      "urlId": "purvis-young",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656000470605-E6HWBFK1TSPFHV9QGNT2/WEB_Ancestors%2C-Purvis-Young%2C-1995.-Oil-on-wood.-71-x-117%2C5-cm-%2828-x-47-in%29.-%C2%AEAnnik-Wetter-copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Jeff Perkins"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 23,
+      "workflowState": 1,
+      "publishOn": 1664640300474,
+      "addedOn": 1664640300474,
+      "updatedOn": 1728745120515
+    },
+    {
+      "id": "63ebc811cb4d98641b338da6",
+      "title": "Lian Zhang",
+      "fullUrl": "/all-artists/lian-zhang",
+      "sourceUrl": "/artist/lian-zhang",
+      "urlId": "lian-zhang",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729761813975-VH70S17AWDZD5LXMSAS9/HD2_Wavelength%2C+Lian+Zhang%2C+2021.+Oil+on+canvas%2C+175+x+130+cm+%2869+x+51+in.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5690858654796834,
+        "y": 0.6650991203852654,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Lian Zhang"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born 1984, Hangzhou, China.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in London.</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 24,
+      "workflowState": 1,
+      "publishOn": 1643282580042,
+      "addedOn": 1643282580042,
+      "updatedOn": 1758014647547
+    },
+    {
+      "id": "61f2c914f4b0dc4454d7f0fa",
+      "title": "Caspar Giorgio Williams",
+      "fullUrl": "/all-artists/caspar-giorgio-williams",
+      "sourceUrl": "/artist/caspar-giorgio-williams",
+      "urlId": "caspar-giorgio-williams",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1734521580849-286HALR1YVPXWEGXU8XT/HD-CGW-2205_unframed.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Caspar Giorgio Williams"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 13,
+      "workflowState": 1,
+      "publishOn": 1641056400052,
+      "addedOn": 1641056400052,
+      "updatedOn": 1734521588887
+    }
+  ]
+}

@@ -1,0 +1,4340 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "sebastien-bertrand",
+  "id": "exhibition",
+  "path": "/exhibition",
+  "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
+  "updatedAt": "2026-09-22T06:37:33.582Z",
+  "sourceHash": "0f41c3fead5ba3f2b57eda3fda2637b301e540075b83470199b2e97f7199549e",
+  "count": 105,
+  "pages": 1,
+  "items": [
+    {
+      "id": "6aa0388f8f42385764242634",
+      "title": "Façades",
+      "fullUrl": "/exhibition/solo-show/facades-sang-woo-kim",
+      "sourceUrl": "",
+      "urlId": "solo-show/facades-sang-woo-kim",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1789471495240-D16EOEWENXIAJM6WPNIY/26GRAYSC_Se%CC%81bastienBertrand_SangWooKim_10_A4.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Sang Woo Kim"
+      ],
+      "tags": [
+        "Year : 2026",
+        "Exhibition : Solo Show",
+        "Status: On View",
+        "Location:  158 rue du General Leclerc,77780 Bourron-Marlotte, France"
+      ],
+      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening Saturday 12, September 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 104,
+      "workflowState": 1,
+      "publishOn": 1788886249921,
+      "addedOn": 1788886249921,
+      "updatedOn": 1789654968514
+    },
+    {
+      "id": "6a18069ca7b1a53def6c320c",
+      "title": "LISTE 2026",
+      "fullUrl": "/exhibition/fair/liste-2026-isaac-soh-fujita-howell",
+      "sourceUrl": "",
+      "urlId": "fair/liste-2026-isaac-soh-fujita-howell",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1782221277785-P4UX0GY3R9SSEJS1X9T2/1E9A8683-1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Isaac Soh Fujita Howell",
+        "Isaac Soh Fujita Howell"
+      ],
+      "tags": [
+        "Exhibition: Fair",
+        "Year: 2026",
+        "Location: Messe Basel, Hall 1.1",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15 – 21 June 2026</p><pre><code>Opening Reception: Monday, June 15, 11:00 – 20:00 </code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 103,
+      "workflowState": 1,
+      "publishOn": 1781013857312,
+      "addedOn": 1781013857312,
+      "updatedOn": 1787065411723
+    },
+    {
+      "id": "6a1801b0bc711572d93ba3fa",
+      "title": "Selected Works : 1983 — 1991",
+      "fullUrl": "/exhibition/solo-show/rammellzee-selected-works-1983-1991",
+      "sourceUrl": "",
+      "urlId": "solo-show/rammellzee-selected-works-1983-1991",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1779958607008-LKIQHYELV2OAI9B7T0Q8/HD2-RLZ-9102.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "RAMMELLZEE"
+      ],
+      "tags": [
+        "Status: On View",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Year: 2026",
+        "Exhibition: Solo Show"
+      ],
+      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">05.06.2026–17.07.2026<br>Opening: Thursday 04 June, 6:30 - 8:00 pm  </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 102,
+      "workflowState": 1,
+      "publishOn": 1779958978293,
+      "addedOn": 1779958978293,
+      "updatedOn": 1781012057673
+    },
+    {
+      "id": "69b18499a1e22f0aa87ac270",
+      "title": "Fruta y Media Tarde ",
+      "fullUrl": "/exhibition/solo-show/natalia-gonzalez-martin-fruta-y-media-tarde",
+      "sourceUrl": "",
+      "urlId": "solo-show/natalia-gonzalez-martin-fruta-y-media-tarde",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1774370460109-RXJMEYTV740GDVAWCRXE/HD_Bertrand_2747-1+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Natalia González Martín"
+      ],
+      "tags": [
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Year: 2026",
+        "Exhibition: Solo Show",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Extended until 16 May 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26.03.2026–08.05.2026 </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 100,
+      "workflowState": 1,
+      "publishOn": 1777557897876,
+      "addedOn": 1777557897876,
+      "updatedOn": 1782222763363
+    },
+    {
+      "id": "69d7a1aef7f4ab5809a61615",
+      "title": "Miart 2026",
+      "fullUrl": "/exhibition/fair/miart-2026",
+      "sourceUrl": "",
+      "urlId": "fair/miart-2026",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1776690085137-MRJKJLGR98ZQS7T0EAC7/HD_1E9A6387-1+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Han-Chiao",
+        "Michael Hilsman",
+        "Sang Woo Kim",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Exhibition: Fair",
+        "Year: 2026",
+        "Location: Miart Booth B07 Allianz MiCo, Milan",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">17 – 19 April 2026</p><pre><code>Opening Reception: Thursday, April 16, 11–9pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 101,
+      "workflowState": 1,
+      "publishOn": 1775739310433,
+      "addedOn": 1775739310433,
+      "updatedOn": 1779959452471
+    },
+    {
+      "id": "698f3167afad080000de8eee",
+      "title": "Maze Art Gstaad 2026",
+      "fullUrl": "/exhibition/fair/maze-gstaad-art-2026",
+      "sourceUrl": "",
+      "urlId": "fair/maze-gstaad-art-2026",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1772724895969-9UVFFXFKNBSHNGMQ6TBO/20262002_MAZE_Gstaad_SebastienBertrand_Documentation_TheaGiglio_01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Todd Bienvenu",
+        "Isaac Soh Fujita Howell",
+        "Natalia Gonzalez Martin",
+        "Han-Chiao",
+        "Sang Woo Kim",
+        "Walter Robinson",
+        "Eloïse Van der Heyden"
+      ],
+      "tags": [
+        "Exhibition: Fair",
+        "Location: Festival‑Zelt (Sportzentrumstrasse), Gstaad",
+        "Year: 2026",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">19–​22 February 2026</p><pre><code>Opening: 19 February 2026</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 100,
+      "workflowState": 1,
+      "publishOn": 1771498855376,
+      "addedOn": 1771498855376,
+      "updatedOn": 1772724930556
+    },
+    {
+      "id": "69722aa2a433a8238de8883b",
+      "title": "Artgenève 2026",
+      "fullUrl": "/exhibition/fair/artgeneve-2026",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2026",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1770042844621-KQF2DAFRI3OM2TR0TVHI/1E9A3129-1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Isaac Soh Fujita Howell"
+      ],
+      "tags": [
+        "Exhibition: Fair",
+        "Location: Booth C32, Solo Show C34, Palexpo, Geneva",
+        "Status: Past Exhibition",
+        "Year: 2026"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29 January–1 February 2026</p><pre><code>Opening: 28 January 2026</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 99,
+      "workflowState": 1,
+      "publishOn": 1769694480435,
+      "addedOn": 1769694480435,
+      "updatedOn": 1771583282123
+    },
+    {
+      "id": "6968c29ccced0c33aa354566",
+      "title": "Paintings &amp; Works on paper",
+      "fullUrl": "/exhibition/duo-show/walter-robinson-francis-picabia",
+      "sourceUrl": "",
+      "urlId": "duo-show/walter-robinson-francis-picabia",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1769182727482-VUUNC2A697VULKWPYJLK/HD_WR-2514-Untitled%2Bcopie%2B2.webp",
+      "mediaFocalPoint": {
+        "x": 0.5059523809523809,
+        "y": 0.27380952380952384,
+        "source": 3
+      },
+      "categories": [
+        "Walter Robinson",
+        "Francis Picabia"
+      ],
+      "tags": [
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Year: 2026",
+        "Exhibition: Solo Show",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition extended until March 20, 2026 </p><pre><code>Opening Reception: Thursday, January 15, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 100,
+      "workflowState": 1,
+      "publishOn": 1768518016529,
+      "addedOn": 1768518016529,
+      "updatedOn": 1774370305732
+    },
+    {
+      "id": "68e3e0529c99621a2a91026f",
+      "title": "Cosmic Flush: Images of Scuffle",
+      "fullUrl": "/exhibition/group-show/cosmic-flush-images-of-scuffle",
+      "sourceUrl": "",
+      "urlId": "group-show/cosmic-flush-images-of-scuffle",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1759764774091-WEUPGKHQYV8Z90R68KAQ/IMG_7207+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alan Vega",
+        "Andrew Durgin-Barnes",
+        "Eloïse Van der Heyden",
+        "Erró",
+        "Germaine Richier",
+        "Henry Moore",
+        "Isaac Soh Fujita Howell",
+        "Madelyn Kellum",
+        "Mathis Gasser",
+        "Michael Hilsman",
+        "Natalia Gonzalez Martin",
+        "Peter Saul",
+        "Purvis Young",
+        "Rammellzee",
+        "Tali Lennox",
+        "Todd Bienvenu",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Exhibition: Group Show",
+        "Year: 2025",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">16 October–29 November 2025</p><pre><code>Opening Reception: Wednesday, October 15, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 95,
+      "workflowState": 1,
+      "publishOn": 1759765212050,
+      "addedOn": 1759765212050,
+      "updatedOn": 1771583282396
+    },
+    {
+      "id": "68ff463fb1d8eb201758a5c4",
+      "title": "Artissima ",
+      "fullUrl": "/exhibition/fair/artissima-2025",
+      "sourceUrl": "",
+      "urlId": "fair/artissima-2025",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1761565165964-8LT5HYLC69G22BYKU472/HD4_Undressed+to+Kill%2C+2018%2C+Walter+Robinson%2C+Acrylic+on+twin+bed+sheet%2C+243.8+x+167.6+cm%2C+96+x+66+in.+%28WR-1827%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.46629903655478583,
+        "y": 0.3158474607907368,
+        "source": 3
+      },
+      "categories": [
+        "Joe Andoe",
+        "Isaac Soh Fujita Howell",
+        "Natalia González Martín",
+        "Tali Lennox",
+        "Walter Robinson",
+        "Eloïse Van der Heyden"
+      ],
+      "tags": [
+        "Exhibition: Fair",
+        "Year: 2025",
+        "Status: Past Exhibition",
+        "Location: Artissima, Booth Yellow 16, Oval Lingotto, Torino"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 October–2 November 2025</p><pre><code>Opening Reception: Wednesday, October 20, 2–8 pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 96,
+      "workflowState": 1,
+      "publishOn": 1759396500973,
+      "addedOn": 1759396500973,
+      "updatedOn": 1771583282883
+    },
+    {
+      "id": "68494498b461df4b15a5f7d8",
+      "title": "Basel Social Club – Walter Robinson",
+      "fullUrl": "/exhibition/fair/basel-social-club-2025",
+      "sourceUrl": "",
+      "urlId": "fair/basel-social-club-2025",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1761572760884-83G69WES7EPY2YS1HQQY/Annik-Wetter_2025-06-16_32158.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Year: 2025",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Location: Basel Social Club, Rittergasse 21–25, 4051 Basel, Switzerland"
+      ],
+      "excerpt": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">16–21 June 2025</p><pre><code>Opening Day: Sunday, June 15, 2025, 2 pm–Midnight</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 93,
+      "workflowState": 1,
+      "publishOn": 1749634298477,
+      "addedOn": 1749634298477,
+      "updatedOn": 1765461683940
+    },
+    {
+      "id": "6838163d7010955e22af9f9a",
+      "title": "Sulis &amp; The Wreck",
+      "fullUrl": "/exhibition/solo-show/sulis-and-the-wreck-tali-lennox",
+      "sourceUrl": "",
+      "urlId": "solo-show/sulis-and-the-wreck-tali-lennox",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1749136999281-G9MJXJ2H9L0HTBNBVM8E/HD2_Sebastien_Bertrand_Lennox-009-Edit-2+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Tali Lennox"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2025",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">6 June–9 August 2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Extended until 11 September 2025</p><pre><code>Opening: Thursday 05 June, 6–8:30 pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 92,
+      "workflowState": 1,
+      "publishOn": 1748592540333,
+      "addedOn": 1748592540333,
+      "updatedOn": 1771583281954
+    },
+    {
+      "id": "6863d2ac2e039636280d3e95",
+      "title": "Art Monte-Carlo",
+      "fullUrl": "/exhibition/fair/art-monte-carlo-2025",
+      "sourceUrl": "",
+      "urlId": "fair/art-monte-carlo-2025",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1751373119505-VO5FBXTWFJEBNNALUYUM/HD_MG-2503-sperm+Whales.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Natalia Gonzalez Martin",
+        "Han‑Chiao",
+        "Mathis Gasser",
+        "Tali Lennox",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2025",
+        "Location: Art Monte‑Carlo, Booth D2, Grimaldi Forum, 10 Av. Princesse Grâce, Monaco"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">7–9 July 2025</p><pre><code>Opening reception: Monday, July 07, 2–8 pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 94,
+      "workflowState": 1,
+      "publishOn": 1748089860666,
+      "addedOn": 1748089860666,
+      "updatedOn": 1771583281719
+    },
+    {
+      "id": "67da9ebd06177a40d785a54e",
+      "title": "Date with the night",
+      "fullUrl": "/exhibition/solo-show/todd-bienvenu-date-with-the-night",
+      "sourceUrl": "",
+      "urlId": "solo-show/todd-bienvenu-date-with-the-night",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1746537080555-MDQ4LEF7MNC3617OZP3C/HD_Annik-Wetter_2025-03-24_24818+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Todd Bienvenu"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2025",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28 March–17 May 2025</p><pre><code>Opening Reception: Thursday 27 March, 6–8:30&nbsp;pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 88,
+      "workflowState": 1,
+      "publishOn": 1742402633109,
+      "addedOn": 1742402633109,
+      "updatedOn": 1771583282959
+    },
+    {
+      "id": "680655e9c6c97648cf64d0cb",
+      "title": "Art Brussels 2025",
+      "fullUrl": "/exhibition/fair/artbrussels-2025",
+      "sourceUrl": "",
+      "urlId": "fair/artbrussels-2025",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1761564793646-UDMICMEIBBKMU13J4DXR/HD_2025_04_SebastienBertrand_ArtBrussels_4_HD.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Thomas Fougeirol",
+        "Isaac Soh Fujita Howell",
+        "Mathis Gasser",
+        "Michael Hilsman",
+        "Hankang Huang",
+        "Eloïse Van der Heyden"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2025",
+        "Location: Art Brussels, Booth 5C–12, Brussels Expo, Belgium"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25–27 April 2025</p><pre><code>Opening Reception: Thursday, April 24, 11–9pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 91,
+      "workflowState": 1,
+      "publishOn": 1742311860406,
+      "addedOn": 1742311860406,
+      "updatedOn": 1771583282806
+    },
+    {
+      "id": "681a01325c16ca68f7b89aa6",
+      "title": "Audiovisual",
+      "fullUrl": "/exhibition/solo-show/audiovisual-isaac-soh-fujita-howell",
+      "sourceUrl": "",
+      "urlId": "solo-show/audiovisual-isaac-soh-fujita-howell",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1746536633466-ELBV1VJLOESYKNQ49GG9/HD2_IFH-2505.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5233512757461991,
+        "y": 0.3919081588638099,
+        "source": 3
+      },
+      "categories": [
+        "Isaac Soh Fujita Howell"
+      ],
+      "tags": [
+        "Exhibition: Solo Show",
+        "Status: Past Exhibition",
+        "Year: 2025",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">9 May–31 May 2025</p><pre><code>Opening Reception: Thursday, May 08, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 91,
+      "workflowState": 1,
+      "publishOn": 1742306880415,
+      "addedOn": 1742306880415,
+      "updatedOn": 1771583281898
+    },
+    {
+      "id": "67ebc5fc50cf554ed0bbb30c",
+      "title": "Miart 2025",
+      "fullUrl": "/exhibition/fair/miart-2025",
+      "sourceUrl": "",
+      "urlId": "fair/miart-2025",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1743515664589-PX5PFL13C75RKLQMUFT9/HD3_Sebastien%2BBertrand-053-1%2Bcopie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.3051140950691824,
+        "y": 0.26501051974413203,
+        "source": 3
+      },
+      "categories": [
+        "Sang Woo Kim",
+        "Han-Chiao",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2025",
+        "Location: MIART, Booth A88, Fieramilano city, Milan"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4–6 April 2025</p><pre><code>Opening Reception: Thursday, April 03, 11–9pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 89,
+      "workflowState": 1,
+      "publishOn": 1742298840210,
+      "addedOn": 1742298840210,
+      "updatedOn": 1771583282946
+    },
+    {
+      "id": "67a5f6698442874d7b499f71",
+      "title": "Maze Art Gstaad ",
+      "fullUrl": "/exhibition/fair/maze-gstaad-art-2025",
+      "sourceUrl": "",
+      "urlId": "fair/maze-gstaad-art-2025",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1744103264537-2CJJS7HW1X1ILJZVP9VV/WR-2509%2Bcopie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Joe Andoe",
+        "Todd Bienvenu",
+        "Tali Lennox",
+        "Walter Robinson",
+        "Eloïse Van der Eyden",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2025",
+        "Location: Festival‑Zelt (Sportzentrumstrasse), Gstaad"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14–​16 February 2025</p><pre><code>Opening: 13 February 2025</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 87,
+      "workflowState": 1,
+      "publishOn": 1738844400937,
+      "addedOn": 1738844400937,
+      "updatedOn": 1771583282867
+    },
+    {
+      "id": "678e2597e78330403dda06a9",
+      "title": "Per Monstra Ad Sphaeram",
+      "fullUrl": "/exhibition/solo-show/mathis-gasser-per-monstra-ad-sphaeram",
+      "sourceUrl": "",
+      "urlId": "solo-show/mathis-gasser-per-monstra-ad-sphaeram",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1737711098793-M6K8F15C3MUY8WV5K4D5/HD_Sebastien_Bertrand-078-Edit%2Bcopy.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Mathis Gasser"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2025",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29 January–15 March 2025</p><pre><code>Opening Reception: Tuesday, January 28, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 85,
+      "workflowState": 1,
+      "publishOn": 1737903540226,
+      "addedOn": 1737903540226,
+      "updatedOn": 1771583282167
+    },
+    {
+      "id": "67935f5923a12272e9d54e9f",
+      "title": "Artgenève 2025",
+      "fullUrl": "/exhibition/fair/artgeneve-2025",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2025",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1738931246674-0BBA68NZUCJUQJWNU2L7/HD_Annik-Wetter_2025-01-28_19206+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Mathis Gasser",
+        "Joe Andoe",
+        "Todd Bienvenu",
+        "Natalia Gonzalez Martin",
+        "Richard Kern",
+        "Tali Lennox",
+        "Walter Robinson",
+        "Sang Woo Kim",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2025",
+        "Location: Booth C32, Palexpo, Geneva"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 January–2 February 2025</p><pre><code>Opening: 29 January 2025</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 86,
+      "workflowState": 1,
+      "publishOn": 1737713316850,
+      "addedOn": 1737713316850,
+      "updatedOn": 1771583281940
+    },
+    {
+      "id": "674747a9947fdc1788449f12",
+      "title": "Burning Daylight ",
+      "fullUrl": "/exhibition/solo-show/justin-cole-burning-daylight-",
+      "sourceUrl": "",
+      "urlId": "solo-show/justin-cole-burning-daylight-",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1734515957013-TG0ZYV2HHP6C6R128FBX/HD_Annik-Wetter_2024-12-03_16635+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.3288790369771404,
+        "y": 0.502361234499701,
+        "source": 3
+      },
+      "categories": [
+        "Justin Cole"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Year: 2025",
+        "Year: 2024",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Exhibition: Solo Show"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5 December–17 January 2024</p><pre><code>Opening Reception: Wednesday, December 04, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 84,
+      "workflowState": 1,
+      "publishOn": 1732801753001,
+      "addedOn": 1732801753001,
+      "updatedOn": 1771583282026
+    },
+    {
+      "id": "6745e77734d68f01c935533b",
+      "title": "Ode to Sad Disco",
+      "fullUrl": "/exhibition/group-show/ode-to-sad-disco",
+      "sourceUrl": "",
+      "urlId": "group-show/ode-to-sad-disco",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1733418412862-EFAPPNXGXGW8B2T82ZTF/HD_LRAG2010008_low+copie2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Joe Andoe",
+        "Pierrette Bloch",
+        "Sylvie Fleury",
+        "Lucio Fontana",
+        "Thomas Fougeirol",
+        "Vera Molnar",
+        "Loïc Raguénès",
+        "Robert Ryman",
+        "Thomas Schütte",
+        "Sean Scully",
+        "Niele Toroni"
+      ],
+      "tags": [
+        "Year: 2025",
+        "Year: 2024",
+        "Status: Past Exhibition",
+        "Exhibition: Group Show",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5 December–15 February 2025</p><pre><code>Opening: Wednesday 04 December, 6–8:30&nbsp;pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 83,
+      "workflowState": 1,
+      "publishOn": 1732801380909,
+      "addedOn": 1732801380909,
+      "updatedOn": 1771583281998
+    },
+    {
+      "id": "66c8a2f49481b661e241f60e",
+      "title": "Il faut cultiver notre jardin. ",
+      "fullUrl": "/exhibition/solo-show/caspar-giorgio-williams-il-faut-cultiver-notre-jardin",
+      "sourceUrl": "",
+      "urlId": "solo-show/caspar-giorgio-williams-il-faut-cultiver-notre-jardin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1727702503119-799X0VZL0TR73QC0X06G/HD_Annik-Wetter_2024-09-24_13116.jpg",
+      "mediaFocalPoint": {
+        "x": 0.33482142857142855,
+        "y": 0.5029761904761905,
+        "source": 3
+      },
+      "categories": [
+        "Caspar Giorgio Williams"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2024",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">20 September–9 November 2024</p><pre><code>Opening Reception: Wednesday, September 19, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 80,
+      "workflowState": 1,
+      "publishOn": 1724338500937,
+      "addedOn": 1724338500937,
+      "updatedOn": 1771583281765
+    },
+    {
+      "id": "6717a57f0e00c021fd01b7b7",
+      "title": "Artissima 2024",
+      "fullUrl": "/exhibition/fair/artissima-2024",
+      "sourceUrl": "",
+      "urlId": "fair/artissima-2024",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1729603454568-284C8J4AM2QUDMI96U3Z/HD_Todd+Bienvenu%2C+Odysseus+and+the+Sirens%2C+2023%2C+Acrylic+on+linen%2C+203.2+x+228.6+cm.%2C+80+x+90+in.%2C+TB-2303+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Todd Bienvenu",
+        "Justin Cole",
+        "Caspar Giorgio Williams",
+        "Natalia Gonzalez Martin",
+        "Han‑Chiao",
+        "Richard Kern",
+        "Tali Lennox",
+        "Storm Tharp"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2024",
+        "Location: Booth Yellow 16, Lingotto Fiere, Torino"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1 November–3 November 2024</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 82,
+      "workflowState": 1,
+      "publishOn": 1724159700367,
+      "addedOn": 1724159700367,
+      "updatedOn": 1771583282918
+    },
+    {
+      "id": "66c8a771173d5100b7fb0403",
+      "title": "Classic Prints",
+      "fullUrl": "/exhibition/solo-show/richard-kern-classic-prints",
+      "sourceUrl": "",
+      "urlId": "solo-show/richard-kern-classic-prints",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1726047594894-G7HYKF5IZQMYWYQW4HFG/RK_Lung_with_Lizard_V2_File+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5128979877919376,
+        "y": 0.3205455322660139,
+        "source": 3
+      },
+      "categories": [
+        "Richard Kern"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2024",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">20 September–9 November 2024</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition extended until 22 November</p><pre><code>Opening Reception: Wednesday, September 19, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 81,
+      "workflowState": 1,
+      "publishOn": 1723994040370,
+      "addedOn": 1723994040370,
+      "updatedOn": 1771583282053
+    },
+    {
+      "id": "667abce1d8d9e42213175150",
+      "title": "Artmonte-carlo 2024",
+      "fullUrl": "/exhibition/fair/artmonte-carlo-2024",
+      "urlId": "fair/artmonte-carlo-2024",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1719321373750-LLYISVZIDUZJDA6RV01E/HD_Walter%2BRobinson%252C%2BWeeping%2BWoman%252C%2B2024%252C%2BAcrylic%2Bon%2Bcanvas%252C%2B91.4%2Bx%2B91.4%2Bcm.%252C%2B36%2Bx%2B36%2Bin.%2B%2528WR-2406%2529.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Natalia González Martín",
+        "Tali Lennox",
+        "Walter Robinson",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Location: Booth E2, Grimaldi forum, Monaco",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2024"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">6–7 July 2024</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 79,
+      "workflowState": 1,
+      "publishOn": 1719668820201,
+      "addedOn": 1719668820201,
+      "updatedOn": 1771583282791
+    },
+    {
+      "id": "666c2e6a8d728b0efc1e5a71",
+      "title": "Glance &amp; Ways of Seeing",
+      "fullUrl": "/exhibition/solo-show/sang-woo-kim-glance-ways-of-seeing",
+      "sourceUrl": "",
+      "urlId": "solo-show/sang-woo-kim-glance-ways-of-seeing",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1718369663230-KHNN764OHMRVM9GDC1G2/%25C2%25A0HD_SANG%2BWOO%2BKIM%252C%2BThe%2BSlit%2BYou%2BMade%2B004%252C%2B2024%252C%2BOil%2Bon%2Bcanvas%252C%2B26%2Bx%2B36%2Bx%2B3%2Bcm.%252C%2B10%2B%25C2%25BC%2Bx%2B14%2B%25C2%25BC%2Bx%2B1%2B%25C2%25BC%2Bin.%2B%2528SWK-2409%2529.jpg",
+      "mediaFocalPoint": {
+        "x": 0.8088359013096224,
+        "y": 0.864858074788003,
+        "source": 3
+      },
+      "categories": [
+        "Sang Woo Kim"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Exhibition: Solo Show",
+        "Year: 2024"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">6 June–20 July 2024</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition extended until September 12, 2024</p><pre><code>Opening Reception: Wednesday, June&nbsp;5, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 79,
+      "workflowState": 1,
+      "publishOn": 1718366071517,
+      "addedOn": 1718366071517,
+      "updatedOn": 1771583282504
+    },
+    {
+      "id": "65fac2efc8ac9652e90779da",
+      "title": "Last Decade ",
+      "fullUrl": "/exhibition/solo-show/yarisal-kublitz-last-decade",
+      "sourceUrl": "",
+      "urlId": "solo-show/yarisal-kublitz-last-decade",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1715683441927-OD8CT59PPUMRG04O5DSZ/2X_WEB.jpg",
+      "mediaFocalPoint": {
+        "x": 0.6205357142857143,
+        "y": 0.7172619047619048,
+        "source": 3
+      },
+      "categories": [
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2024",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28 March 2024–11 May 2024</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 75,
+      "workflowState": 1,
+      "publishOn": 1710950911277,
+      "addedOn": 1710950911277,
+      "updatedOn": 1771583282973
+    },
+    {
+      "id": "65eafb1668219373e1253403",
+      "title": "Assignment — Geneva",
+      "fullUrl": "/exhibition/solo-show/walter-robinson-geneva-assignment",
+      "sourceUrl": "",
+      "urlId": "solo-show/walter-robinson-geneva-assignment",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1713431587946-FIJBVX1QTIYMJD8I2TJB/low.jpg",
+      "mediaFocalPoint": {
+        "x": 0.4207135777998018,
+        "y": 0.5149048969911175,
+        "source": 3
+      },
+      "categories": [
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2024"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28 March–11 May 2024</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 74,
+      "workflowState": 1,
+      "publishOn": 1709899194747,
+      "addedOn": 1709899194747,
+      "updatedOn": 1765468759080
+    },
+    {
+      "id": "660eb52f9e0db70d6f6c6ea9",
+      "title": "Miart ",
+      "fullUrl": "/exhibition/fair/miart-2024",
+      "sourceUrl": "",
+      "urlId": "fair/miart-2024",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1713439231492-TASA359SV474JHZLG5DE/31%252Bx%252B15%252B%2525C2%2525BE%252Bx%252B1%252Bin.%252B%252528TL-2407%252529%252Bcopie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5633585156048777,
+        "y": 0.6294009459107313,
+        "source": 3
+      },
+      "categories": [
+        "Tali Lennox"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2024",
+        "Location: Booth E18, Fieramilano city, Milan"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">12 –14 April 2024</p><pre><code>Opening Reception: Thursday, April 11, 11–8pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 77,
+      "workflowState": 1,
+      "publishOn": 1709305860517,
+      "addedOn": 1709305860517,
+      "updatedOn": 1771583282564
+    },
+    {
+      "id": "65d61d61e303a63d75a00e21",
+      "title": "Gstaad Art 2024",
+      "fullUrl": "/exhibition/fair/gstaad-art-2024-1",
+      "sourceUrl": "",
+      "urlId": "fair/gstaad-art-2024-1",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1708531673715-MI4TU8V9IOTGAS85HRFM/WEB_GstaadArtFair-Se%CC%81bastienBertrand-JulienGremaud-002-HD.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Chloe Wise",
+        "Joe Andoe",
+        "Han‑Chiao",
+        "Lian Zhang",
+        "Natalia González Martín",
+        "Todd Bienvenu",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Location: Festival-Zelt, Gstaad",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2024"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">17 &amp; ​18 February 2024</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 74,
+      "workflowState": 1,
+      "publishOn": 1708531168850,
+      "addedOn": 1708531168850,
+      "updatedOn": 1771583281749
+    },
+    {
+      "id": "6621021c52fba754cfc5d2f2",
+      "title": "Art Brussels 2024",
+      "fullUrl": "/exhibition/fair/artbrussels-2024",
+      "urlId": "fair/artbrussels-2024",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1714485211246-PE2WW52YNVUT6G3WM3BH/2024_04_SebastienBertrand_ArtBrussels_1_web.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Location: Booth 5C-11, Halls 5 & 6, Brussels Expo",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2024"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26–28 April 2024</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "Brussels Expo",
+        "addressLine1": "Halls 5 &amp; 6 Place de la Belgique 1",
+        "addressLine2": "1020 Brussels",
+        "addressCountry": "Belgium "
+      },
+      "displayIndex": 77,
+      "workflowState": 1,
+      "publishOn": 1704457260734,
+      "addedOn": 1704457260734,
+      "updatedOn": 1778681197634
+    },
+    {
+      "id": "654cd05c9f79e02413a291a9",
+      "title": "Lady Into Fox",
+      "fullUrl": "/exhibition/solo-show/lady-into-fox-natalia-gonzalez-martin",
+      "sourceUrl": "",
+      "urlId": "solo-show/lady-into-fox-natalia-gonzalez-martin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1699532998110-ZA90DMF947B94EBFU0JT/IMG_2814+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5649494607898395,
+        "y": 0.6518160256708366,
+        "source": 3
+      },
+      "categories": [
+        "Natalia Gonzalez Martin"
+      ],
+      "tags": [
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2023",
+        "Year: 2024"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">24 November 2023–27 January 2024</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 71,
+      "workflowState": 1,
+      "publishOn": 1700152287171,
+      "addedOn": 1700152287171,
+      "updatedOn": 1771583281674
+    },
+    {
+      "id": "659d506fad35084ded78e89e",
+      "title": "Artgenève 2024",
+      "fullUrl": "/exhibition/fair/artgeneve-2024",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2024",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1705510792082-JUT2JEEEB03NRQYIDSGC/HD_Sang+Woo+Kim+Untitled%2C+2023+Pigment+dye+transfer+on+canvas+20.5+x+30.5+cm.+8+x+12+in.+%28SWK-2312%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Chloe Wise",
+        "Joe Andoe",
+        "Han-Chiao",
+        "Lian Zhang",
+        "Michael Hilsman",
+        "Natalia González Martín",
+        "Todd Bienvenu",
+        "Yarisal & Kublitz",
+        "Walter Robinson",
+        "Sang Woo Kim"
+      ],
+      "tags": [
+        "Location: Booth C32, Palexpo, Geneva",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2024"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25–28 January 2024</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 72,
+      "workflowState": 1,
+      "publishOn": 1698920820494,
+      "addedOn": 1698920820494,
+      "updatedOn": 1778681421212
+    },
+    {
+      "id": "64f5f88480b09834aec17a0d",
+      "title": "Echo",
+      "fullUrl": "/exhibition/solo-show/han-chiao-echo",
+      "sourceUrl": "",
+      "urlId": "solo-show/han-chiao-echo",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1695651338770-U2JFWYFOALEMQTRCTEG7/WEB_Annik-Wetter_2023-09-22_10133+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Han-Chiao"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2023",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">22 September–11 November 2023</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 69,
+      "workflowState": 1,
+      "publishOn": 1693841540103,
+      "addedOn": 1693841540103,
+      "updatedOn": 1771583282040
+    },
+    {
+      "id": "652e8b941215b30c484a92b2",
+      "title": "Artissima 2023",
+      "fullUrl": "/exhibition/fair/artissima-2023",
+      "sourceUrl": "",
+      "urlId": "fair/artissima-2023",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1698923860039-OENY21D3CEJ6YL08K71C/1_O4B5360-1+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Han-Chiao",
+        "Lian Zhang"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2023",
+        "Location: Booth Pink A9, Lingotto Fiere, Turin"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3–5 November 2023</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 70,
+      "workflowState": 1,
+      "publishOn": 1693575180290,
+      "addedOn": 1693575180290,
+      "updatedOn": 1778681229760
+    },
+    {
+      "id": "649d44745df0621342a08642",
+      "title": "Artmonte-carlo 2023",
+      "fullUrl": "/exhibition/fair/artmonte-carlo-2023",
+      "urlId": "fair/artmonte-carlo-2023",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1688028815259-LM1HXCDK3TXH7ENEDWU7/HD_Hawaii%2C+Walter+Robinson%2C+2023%2C+Acrylic+on+canvas%2C+152.4+x+152.4+cm.%2C+60+x+60+in.+%28WR-2302%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta",
+        "Chloe Wise",
+        "Lydia Pettit",
+        "Michael Hilsman",
+        "Todd Bienvenu",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2023",
+        "Location: Booth 09, Grimaldi forum, Monaco"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">7–9 July 2023</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 68,
+      "workflowState": 1,
+      "publishOn": 1688041800955,
+      "addedOn": 1688041800955,
+      "updatedOn": 1771583282834
+    },
+    {
+      "id": "6470b6c055fbca22d3ffc23d",
+      "title": "Landscapes With Flowers",
+      "fullUrl": "/exhibition/solo-show/michael-hilsman-landscaspes-with-flowers",
+      "sourceUrl": "",
+      "urlId": "solo-show/michael-hilsman-landscaspes-with-flowers",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1688129691091-Z1VMO0VUV6BPRBSD8V8I/WEB2_Annik-Wetter_2023-06-26_10032.jpg",
+      "mediaFocalPoint": {
+        "x": 0.7822265054611296,
+        "y": 0.5166720922661954,
+        "source": 3
+      },
+      "categories": [
+        "Michael Hilsman"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2023",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">23 June–19 August 2023</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 67,
+      "workflowState": 1,
+      "publishOn": 1687527600388,
+      "addedOn": 1687527600388,
+      "updatedOn": 1771583281779
+    },
+    {
+      "id": "646e3275fd93bf1fd7d6ae5c",
+      "title": "Basel Social Club",
+      "fullUrl": "/exhibition/fair/basel-social-club-walter-robinson",
+      "sourceUrl": "",
+      "urlId": "fair/basel-social-club-walter-robinson",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1684944540277-M9RGCPYUKO26MHF32BFS/WEB_Hungry+Hill%2C+2018%2C+Walter+Robinson%2C+Acrylic+on+twin+bedsheet%2C+243.8+x+167.6+cm.%2C+96+x+66+in.+%28WR-1828%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.4740334484392985,
+        "y": 0.33334883504627266,
+        "source": 3
+      },
+      "categories": [
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2023",
+        "Location: Franck Areal, Horburgstrasse 105, 4057 Basel, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">11–18 June 2023</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 66,
+      "workflowState": 1,
+      "publishOn": 1686412260639,
+      "addedOn": 1686412260639,
+      "updatedOn": 1771583282452
+    },
+    {
+      "id": "6426b05d3eed775ba2d9d8a8",
+      "title": "Miart ",
+      "fullUrl": "/exhibition/fair/miart-2023",
+      "sourceUrl": "",
+      "urlId": "fair/miart-2023",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1688117771216-JB2SNCHIG0W62HGZ9ZW6/HD_The%2BEmbalming%252C%2BNatalia%2BGonzalez%2BMartin%252C%2B2023.%2BOil%2Bon%2Bwood%252C%2B121%252C5%2Bx%2B91%252C5%2Bcm%2B%253A%2B47%2B%25C2%25BE%2Bx%2B35%2B%25C2%25BE%2Bx%2B2%2Bin..jpg",
+      "mediaFocalPoint": {
+        "x": 0.4647257125344775,
+        "y": 0.127982142026694,
+        "source": 3
+      },
+      "categories": [
+        "Natalia Gonzalez Martin"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2023",
+        "Location: Booth E20, Fieramilano_city, Milan"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14–16 April 2023</p><pre><code>Opening Reception: Thursday, April 13, 11–8pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 66,
+      "workflowState": 1,
+      "publishOn": 1680760800335,
+      "addedOn": 1680760800335,
+      "updatedOn": 1771583282271
+    },
+    {
+      "id": "63eceff3e508db0592760c7d",
+      "title": "The Rabbit Who Hunts Tigers",
+      "fullUrl": "/exhibition/solo-show/lian-zhang/the-rabbit-who-hunts-tigers",
+      "sourceUrl": "",
+      "urlId": "solo-show/lian-zhang/the-rabbit-who-hunts-tigers",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1695997591811-RXUGB56CT0SX1M5ZJ884/Tiger-s-Den_Lian-Zhang_2022_Oil-on-canvas-tiny.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Lian Zhang"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2023",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3 March–27 May 2023</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition extended</p><pre><code>Opening Reception: Thursday, March&nbsp;2, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 63,
+      "workflowState": 1,
+      "publishOn": 1677163003172,
+      "addedOn": 1677163003172,
+      "updatedOn": 1771583282301
+    },
+    {
+      "id": "63ee047bc0f28b79f30b4c83",
+      "title": "Art Brussels 2023 ",
+      "fullUrl": "/exhibition/fair/artbrussels",
+      "urlId": "fair/artbrussels",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1695997474905-V0HB8NVMC4SFEBRBTO0B/Tali-Lennox_Bewitching-the-Thorn_2023_Oil-on-canvas-02-tiny.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta",
+        "Joe Andoe",
+        "Tali Lennox",
+        "Michael Hilsman"
+      ],
+      "tags": [
+        "Location: Booth 5E-39, Halls 5 & 6, Brussels Expo",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2023"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">20–23 April 2023</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "Brussels Expo",
+        "addressLine1": "Halls 5 &amp; 6 Place de la Belgique 1",
+        "addressLine2": "1020 Brussels",
+        "addressCountry": "Belgium "
+      },
+      "displayIndex": 65,
+      "workflowState": 1,
+      "publishOn": 1675321200263,
+      "addedOn": 1675321200263,
+      "updatedOn": 1771583282777
+    },
+    {
+      "id": "63bd358cfc2f1c7eff9fbd66",
+      "title": "Artgenève 2023",
+      "fullUrl": "/exhibition/fair/artgeneve-2023",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2023",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1673957591873-S20Y7I814611LBDWJW0B/HD1_%2Bcopie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.4815708012382118,
+        "y": 0.37204111054271494,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov",
+        "Aks Misyuta",
+        "Chloe Wise",
+        "Joe Andoe",
+        "Lian Zhang",
+        "Lydia Pettit",
+        "Michael Hilsman",
+        "Natalia González Martín",
+        "Todd Bienvenu",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Location: Booth C32, Palexpo, Geneva",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2023"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 26–29 January 2023</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 62,
+      "workflowState": 1,
+      "publishOn": 1673956172007,
+      "addedOn": 1673956172007,
+      "updatedOn": 1771583281868
+    },
+    {
+      "id": "6388be0ab4c62330478bc5ba",
+      "title": "Art Antwerp 2022",
+      "fullUrl": "/exhibition/fair/artantwerp-2022",
+      "sourceUrl": "",
+      "urlId": "fair/artantwerp-2022",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1670518721995-Q70X40OY50SHR5Y6I780/WEB_Still-Life-on-Water%2C-Michael-Hilsman%2C-2022.-Oil-on-linen%2C-147%2C3-x-223%2C5-cm---58-x-88-in..jpg",
+      "mediaFocalPoint": {
+        "x": 0.5098666995043561,
+        "y": 0.3363251639306143,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta",
+        "Todd Bienvenu",
+        "Michael Hilsman",
+        "Walter Robinson",
+        "Lian Zhang"
+      ],
+      "tags": [
+        "Location: Booth B24, Antwerp Expo",
+        "Year: 2022",
+        "Status: Past Exhibition",
+        "Exhibition: Fair"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15–18 December 2022</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 61,
+      "workflowState": 1,
+      "publishOn": 1670517787546,
+      "addedOn": 1670517787546,
+      "updatedOn": 1771583282469
+    },
+    {
+      "id": "636bbe382fbf76096e2230dd",
+      "title": "Double Feature",
+      "fullUrl": "/exhibition/solo-show/walter-robinson-richard-kern",
+      "sourceUrl": "",
+      "urlId": "solo-show/walter-robinson-richard-kern",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1685107867356-RCQGVBG258P1P6MZUCWI/WEB_Doctor%252BJane%25252C%252BWalter%252BRobinson%25252C%252B2022%25252C%252BAcrylic%252Bon%252Bcanvas%25252C%252B122%252Bx%252B91%25252C5%252B%25252848%252Bx%252B36%252Bin.jpg",
+      "mediaFocalPoint": {
+        "x": 0.44149908592321757,
+        "y": 0.574431474677952,
+        "source": 3
+      },
+      "categories": [
+        "Walter Robinson",
+        "Richard Kern"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2022",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25 November 2022–4 February 2023</p><pre><code>Opening Reception: Thursday, November 24, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 60,
+      "workflowState": 1,
+      "publishOn": 1668598928020,
+      "addedOn": 1668598928020,
+      "updatedOn": 1771583282608
+    },
+    {
+      "id": "632da8947fcb12149e064e91",
+      "title": "Artissima 2022",
+      "fullUrl": "/exhibition/fair/artissima-2022",
+      "sourceUrl": "",
+      "urlId": "fair/artissima-2022",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1685107678788-9H65NF65SR1EYJNODUX9/WEB_Wolf-6-7-19%25252C-Joe-Andoe%25252C-2019.-Oil-on-aluminum%25252C-86%25252C5-x-61-cm-%25252834-x-24-in.%252529.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta",
+        "Joe Andoe"
+      ],
+      "tags": [
+        "Location: Booth Fuxia 9, Lingotto Fiere, Turin",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2022"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4–6 November 2022</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 59,
+      "workflowState": 1,
+      "publishOn": 1663936660147,
+      "addedOn": 1663936660147,
+      "updatedOn": 1771583281883
+    },
+    {
+      "id": "62fcc0fd6fd02c7c0c08de26",
+      "title": "Lotus of Nephthys",
+      "fullUrl": "/exhibition/solo-show/tali-lennox/lotus-of-nephthys",
+      "sourceUrl": "",
+      "urlId": "solo-show/tali-lennox/lotus-of-nephthys",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1662727884183-RR6P8IKF8EDTGIK4Z01R/Luna+Park%2C+Tali+Lennox%2C+2022.+Oil+on+linen%2C+121%2C9+x+66+cm+%2848+x+26+in.%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Tali Lennox"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2022",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15 September–5 November 2022</p><pre><code>Opening Reception: Thursday, September 15, 6–8:30pm</code></pre>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 57,
+      "workflowState": 1,
+      "publishOn": 1660731645900,
+      "addedOn": 1660731645900,
+      "updatedOn": 1771583281705
+    },
+    {
+      "id": "6290a2b4cb907b792cb8d7c6",
+      "title": "Artmonte-carlo 2022",
+      "fullUrl": "/exhibition/fair/artmonte-carlo-2022",
+      "urlId": "fair/artmonte-carlo-2022",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1658157547056-TA3MC693MTJ87HKZF1LB/WEB_4-Bertrand-MonacoBaptiste-Janin--13.07.2022-3742.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta",
+        "Chloe Wise",
+        "Lydia Pettit",
+        "Michael Hilsman",
+        "Todd Bienvenu",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Location: Booth 09, Grimaldi forum, Monaco",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2022"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14–16 July 2022</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 58,
+      "workflowState": 1,
+      "publishOn": 1657793160474,
+      "addedOn": 1657793160474,
+      "updatedOn": 1771583282698
+    },
+    {
+      "id": "6284fbf66820b862a4902ca0",
+      "title": "Portraiture: An Ongoing Story",
+      "fullUrl": "/exhibition/group-show/portraiture-an-ongoing-story",
+      "sourceUrl": "",
+      "urlId": "group-show/portraiture-an-ongoing-story",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655973482600-PBTZ4U2JTVN2JIXVY5H4/Orangenesser%2C+Georg+Baselitz%2C+2019.+Oil+on+canvas%2C+165+x+135+cm+%2865+x+53+in.%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.45617040717263435,
+        "y": 0.6041947635213691,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta",
+        "Chloe Wise",
+        "Cornelis Cornelisz Van Haarlem",
+        "Frans Floris",
+        "George Condo",
+        "Jan Van Ravesteyn",
+        "Jean-Michel Basquiat",
+        "Jim Shaw",
+        "Lydia Pettit",
+        "Michael Hilsman",
+        "Natalia Gonzalez Martin",
+        "Peter Saul",
+        "Tali Lennox",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Group Show",
+        "Year: 2022",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">9 June–23 July 2022</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 56,
+      "workflowState": 1,
+      "publishOn": 1654783200124,
+      "addedOn": 1654783200124,
+      "updatedOn": 1771583282577
+    },
+    {
+      "id": "624d6464b388db6532acec4b",
+      "title": "Miart 2022",
+      "fullUrl": "/exhibition/fair/miart-2022",
+      "sourceUrl": "",
+      "urlId": "fair/miart-2022",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1649239256039-HJAUPH1WV6B7UT1FAZJ7/_O4B7979-3-copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Todd Bienvenu"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2022",
+        "Location: Booth E30, Fieramilano_city, Milan"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">31 March–​3 April 2022</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 45.5402323,
+        "mapLng": 9.0278729,
+        "markerLat": 45.5402323,
+        "markerLng": 9.0278729,
+        "addressTitle": "",
+        "addressLine1": "28 SS33 del Sempione",
+        "addressLine2": "Rho, Lombardia, 20017",
+        "addressCountry": "Italy"
+      },
+      "displayIndex": 38,
+      "workflowState": 1,
+      "publishOn": 1648720800369,
+      "addedOn": 1648720800369,
+      "updatedOn": 1771583282535
+    },
+    {
+      "id": "620d380ebf31ce0a9a50941c",
+      "title": "Spite Unseen",
+      "fullUrl": "/exhibition/solo-show/chloe-wise/spite-unseen",
+      "sourceUrl": "",
+      "urlId": "solo-show/chloe-wise/spite-unseen",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653636839008-KV1EK5JKRC96GNFVU4P3/L%2BOr-Worse%2C-Chloe-Wise%2C-2022.-Oil-on-linen%2C-122-x-91.5-cm%2C-%2848-x-36-in.%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.3194992389177099,
+        "y": 0.33455796865553644,
+        "source": 3
+      },
+      "categories": [
+        "Chloe Wise"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2022",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">11 March–21 May 2022</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 58,
+      "workflowState": 1,
+      "publishOn": 1646996400401,
+      "addedOn": 1646996400401,
+      "updatedOn": 1771583282670
+    },
+    {
+      "id": "62387ebce9caad41ad5c0ade",
+      "title": "Artgenève 2022",
+      "fullUrl": "/exhibition/fair/artgeneve2022",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve2022",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1649933792177-IQ9GN7N9V2WES1JTYYTF/WEB_Annik-Wetter_2022-03-01_10455.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5149344978165938,
+        "y": 0.6161287322109571,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta",
+        "Alexander Kosolapov",
+        "Chloe Wise",
+        "Joe Andoe",
+        "Lydia Pettit",
+        "Lynnea Holland-Weiss",
+        "Michael Hilsman",
+        "Natalia Gonzalez Martin",
+        "Todd Bienvenu",
+        "Walter Robinson",
+        "Tali Lennox"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2022",
+        "Location: Booth C32, Palexpo, Geneva"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3–6 March 2022</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 37,
+      "workflowState": 1,
+      "publishOn": 1646305200671,
+      "addedOn": 1646305200671,
+      "updatedOn": 1771583282067
+    },
+    {
+      "id": "61f95c74a7c6f70616089a0d",
+      "title": "In the Eye of Beauty",
+      "fullUrl": "/exhibition/solo-show/aks-misyuta/in-the-eye-of-beauty",
+      "sourceUrl": "",
+      "urlId": "solo-show/aks-misyuta/in-the-eye-of-beauty",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1649856778015-L22MGD0VH7I5GVK126IY/HD_Untitled%2C-Aks-Misyuta%2C-2021.-Acrylic-on-canvas%2C-200-x-150-cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.3936348408710218,
+        "y": 0.19765603199702353,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Year: 2021",
+        "Year: 2022",
+        "Exhibition: Solo Show",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25 November 2021–12  February 2022</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 10,
+      "workflowState": 1,
+      "publishOn": 1637838000748,
+      "addedOn": 1637838000748,
+      "updatedOn": 1771583282109
+    },
+    {
+      "id": "61fabd2459d0c324d8319a2b",
+      "title": "Artissima 2021",
+      "fullUrl": "/exhibition/fair/artissima-2021",
+      "sourceUrl": "",
+      "urlId": "fair/artissima-2021",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1643822580438-PCCF2HSZRQ19G2C6NO0W/L_Artissima_2%C2%A9Nicola+Morittu.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Natalia Gonzalez Martin",
+        "Lydia Pettit"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2021",
+        "Location: Booth Yellow 15, Lingotto Fiere, Turin"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4–7 November 2021</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 35,
+      "workflowState": 1,
+      "publishOn": 1636023600032,
+      "addedOn": 1636023600032,
+      "updatedOn": 1771583282415
+    },
+    {
+      "id": "61fbdb1a9e4049265e86ab40",
+      "title": "FIAC 2021",
+      "fullUrl": "/exhibition/fair/fiac-2021",
+      "sourceUrl": "",
+      "urlId": "fair/fiac-2021",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1643895794136-I3WB5GZA84TVHCP859YW/Se%CC%81bastien_Bertrand_Retouches_FIAC+2021_01_%C2%A9_Studio_Shapiro.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta"
+      ],
+      "tags": [
+        "Location: Booth B20, Grand Palais, Paris",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2021"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">21 –24 October 2021</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 36,
+      "workflowState": 1,
+      "publishOn": 1634810400852,
+      "addedOn": 1634810400852,
+      "updatedOn": 1771583282988
+    },
+    {
+      "id": "61fa67f781835f02a11b5937",
+      "title": "I Saw Something Else Under The Sun",
+      "fullUrl": "/exhibition/solo-show/natalia-gonzalez-martin/i-saw-something-else-under-the-sun",
+      "sourceUrl": "",
+      "urlId": "solo-show/natalia-gonzalez-martin/i-saw-something-else-under-the-sun",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1643801957765-M8CYUVW63M2AT1RLDZ2J/L_Reclining+Nude+at+Night%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+60+x+42+cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Natalia Gonzalez Martin"
+      ],
+      "tags": [
+        "Year: 2021",
+        "Exhibition: Solo Show",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">11 September – 6 November 2021</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 17,
+      "workflowState": 1,
+      "publishOn": 1631181600790,
+      "addedOn": 1631181600790,
+      "updatedOn": 1771583282182
+    },
+    {
+      "id": "626021665ab424550ed4364f",
+      "title": "Artmonte-carlo 2021",
+      "fullUrl": "/exhibition/fair/artmonte-carlo-2021",
+      "sourceUrl": "",
+      "urlId": "fair/artmonte-carlo-2021",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650467886884-CHDCKBTL4CHTBRGA1CR7/WEB_Artmontecarlo-SebastienBertrand-JulienGremaud-001-HD.jpg",
+      "mediaFocalPoint": {
+        "x": 0.39285714285714285,
+        "y": 0.44345238095238093,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta",
+        "Chloe Wise",
+        "Lydia Pettit",
+        "Michael Hilsman",
+        "Todd Bienvenu"
+      ],
+      "tags": [
+        "Location: Booth 10, Grimaldi forum, Monaco",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2021"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15–17 July 2021</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 39,
+      "workflowState": 1,
+      "publishOn": 1626361560259,
+      "addedOn": 1626361560259,
+      "updatedOn": 1771583282359
+    },
+    {
+      "id": "61faba286a80e210bd1aca07",
+      "title": "Congregation",
+      "fullUrl": "/exhibition/solo-show/todd-bienvenu/congregation",
+      "sourceUrl": "",
+      "urlId": "solo-show/todd-bienvenu/congregation",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1643821924070-J952LWG6KMCVUBTGUXJK/L-Church%2C+Todd+Bienvenu%2C+2021.+Oil+and+oil+stick+on+canvas.+193+x+170+cm+%2876+x+67+in%29+Joshua+Simpson.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Todd Bienvenu"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2021",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">11 June–23 July 2021</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 9,
+      "workflowState": 1,
+      "publishOn": 1623405600911,
+      "addedOn": 1623405600911,
+      "updatedOn": 1771583282932
+    },
+    {
+      "id": "6308ebd91028df4b7c516c5f",
+      "title": "Chrysalis",
+      "fullUrl": "/exhibition/solo-show/hannah-rowan/chrysalis-2021",
+      "sourceUrl": "",
+      "urlId": "solo-show/hannah-rowan/chrysalis-2021",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661529426095-65QIB4H55J9A2EN5D5F8/WEB_Flowing-as-Frozen-III%2C-Hannah-Rowan%2C-2020.-Glass%2C-steel-hooks%2C-rubber-bungee%2C-copper-tray%2C-salt-water%2C-silicone.-47-x-22-x-26-cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Hannah Rowan"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2021",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">6 May–4 June 2021</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 58,
+      "workflowState": 1,
+      "publishOn": 1620316800582,
+      "addedOn": 1620316800582,
+      "updatedOn": 1771583282592
+    },
+    {
+      "id": "62602a405bcca87ec07cf9f6",
+      "title": "The Catskills",
+      "fullUrl": "/exhibition/solo-show/joe-andoe/catskills",
+      "sourceUrl": "",
+      "urlId": "solo-show/joe-andoe/catskills",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661530140963-1DL3IFPG421IYVE1ONE9/WEB_Catskills-Series-%234%2C-Joe-Andoe%2C-2005.-Oil-on-canvas.-28-x-35%2C5-cm-%2811-x-14-in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Joe Andoe"
+      ],
+      "tags": [
+        "Year: 2021",
+        "Exhibition: Solo Show",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">6 May — 4 June 2021</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 15,
+      "workflowState": 1,
+      "publishOn": 1620315840574,
+      "addedOn": 1620315840574,
+      "updatedOn": 1771583283022
+    },
+    {
+      "id": "62bf07c4055fc74cd48ed33c",
+      "title": "The Well",
+      "fullUrl": "/exhibition/solo-show/lydia-pettit/the-well",
+      "sourceUrl": "",
+      "urlId": "solo-show/lydia-pettit/the-well",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656686700474-TZYMKERX4TDCPCM56VO8/WEB_Envelop-me%2C-Lydia-Pettit%2C-2021.-Oil-on-canvas.-135-x-135-cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Lydia Pettit"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2021",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">31 March–30 April 2021</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 55,
+      "workflowState": 1,
+      "publishOn": 1617201720742,
+      "addedOn": 1617201720742,
+      "updatedOn": 1771583281840
+    },
+    {
+      "id": "62602c741d7b0651536ce8d7",
+      "title": "The Library",
+      "fullUrl": "/exhibition/solo-show/jonathan-edelhuber/the-library",
+      "sourceUrl": "",
+      "urlId": "solo-show/jonathan-edelhuber/the-library",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650470535049-FAK68WS4O7L9Y1A95GLA/WEB_Still-life-with-Shio-Kusaka-Pot-on-art-books%2C-Jonathan-Edelhuber%2C-2020.-Acrylic-on-wood.-33-x-45%2C7-cm-%2813-x-18-in%29_verso-copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Jonathan Edelhuber"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2021",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">23 February–26 March 2021</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 16,
+      "workflowState": 1,
+      "publishOn": 1614099180128,
+      "addedOn": 1614099180128,
+      "updatedOn": 1771583281983
+    },
+    {
+      "id": "6260327831dc3f17a50f5099",
+      "title": "Dangling Man",
+      "fullUrl": "/exhibition/solo-show/michael-hilsman/dangling-man",
+      "sourceUrl": "",
+      "urlId": "solo-show/michael-hilsman/dangling-man",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650471965794-JGDI6JMGVXGO8DPV2ZWV/WEB_Dangling-Man-%28With-Cactus%29%2C-Michael-Hilsman%2C-2020.-Oil-on-linen.-223%2C5-x-147%2C3-cm-%2888-x-58-in%29-Cropped.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Michael Hilsman"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2020",
+        "Year: 2021",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">18 December 2020–5 February 2021</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 19,
+      "workflowState": 1,
+      "publishOn": 1608311940136,
+      "addedOn": 1608311940136,
+      "updatedOn": 1771583281810
+    },
+    {
+      "id": "6260358b71861d4299cf2f23",
+      "title": "Mr President",
+      "fullUrl": "/exhibition/group-show/mr-president",
+      "sourceUrl": "",
+      "urlId": "group-show/mr-president",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650472650885-ALJQ4S81LHNEOCCY6H3Y/WEB_Carre%CC%81_Untitled-%28Distorted-Faces-Series-JFK%29%2C-Jim-Shaw%2C-1986.-Oil-on-canavs.-183-x-122-cm-%2872-x-48-in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Jim Shaw",
+        "Peter Saul",
+        "Raymond Pettibon"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Group Show",
+        "Year: 2020",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 October–12 November 2020</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 21,
+      "workflowState": 1,
+      "publishOn": 1604079120528,
+      "addedOn": 1604079120528,
+      "updatedOn": 1771583282713
+    },
+    {
+      "id": "626037e37f4b8048cc110aff",
+      "title": "Modern Times",
+      "fullUrl": "/exhibition/walter-robinson-modern-times",
+      "sourceUrl": "",
+      "urlId": "walter-robinson-modern-times",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650473170169-HGO11CY0GWGLT1336GE0/WEB_Tick-Tock-%28The-Three-Graces%29%2C-Walter-Robinson%2C-2020.-Acrylic-on-canvas.-183-x-122-cm-%2872-x-48-in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.40129041307244545,
+        "y": 0.28276439400985953,
+        "source": 3
+      },
+      "categories": [
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Year: 2020",
+        "Exhibition: Solo Show",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">1 – 24 October 2020</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 23,
+      "workflowState": 1,
+      "publishOn": 1601570520012,
+      "addedOn": 1601570520012,
+      "updatedOn": 1771583282727
+    },
+    {
+      "id": "62628f97fce0673731067bcf",
+      "title": "Portraits &amp; Some Standing Figures",
+      "fullUrl": "/exhibition/group-show/portraits-and-some-standing-figures",
+      "sourceUrl": "",
+      "urlId": "group-show/portraits-and-some-standing-figures",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650627127157-ZMJBKDL0RWJKPOO13T3G/WEB_Failure-to-appear%2C-Chloe-Wise%2C-2020.-Oil-on-canvas%2C91%2C4-x-121%2C9-cm-%2836-x-49-in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta",
+        "Alan Vega",
+        "Chloe Wise",
+        "Dana Schutz",
+        "Joe Andoe",
+        "Lydia Pettit",
+        "Maria Lassnig",
+        "Michael Hilsman",
+        "Nicole Eisenman",
+        "Peter Saul",
+        "Purvis Young",
+        "Raymond Pettibon",
+        "Storm Tharp",
+        "Sylvie Fleury",
+        "Todd Bienvenu",
+        "Walter Robinson",
+        "Richard Kern"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Group Show",
+        "Year: 2020",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">19 June–24 July 2020</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 34,
+      "workflowState": 1,
+      "publishOn": 1592565600759,
+      "addedOn": 1592565600759,
+      "updatedOn": 1771583282243
+    },
+    {
+      "id": "626292db5febb675352a4bf7",
+      "title": "Constant Instant",
+      "fullUrl": "/exhibition/aks-misyuta-constant-instant",
+      "sourceUrl": "",
+      "urlId": "aks-misyuta-constant-instant",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650627544756-XAMHPQ7V65VUNF0NY5VM/WEB_Annik-Wetter_2020-02-19_10010-copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Aks Misyuta"
+      ],
+      "tags": [
+        "Year: 2020",
+        "Exhibition: Solo Show",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">21 February — 6 June 2020</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 35,
+      "workflowState": 1,
+      "publishOn": 1582202040881,
+      "addedOn": 1582202040881,
+      "updatedOn": 1771583282229
+    },
+    {
+      "id": "6262c9897e147e644c935eb6",
+      "title": "Artgenève 2020",
+      "fullUrl": "/exhibition/fair/artgeneve-2020",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2020",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650641647918-JA3Q61HI3TZPGGFAZPC5/WEB_artgeneve-SebastienBertrand-JulienGremaud-01-HD.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Joe Andoe",
+        "Todd Bienvenu",
+        "Alexander Kosolapov",
+        "Aks Misyuta",
+        "Walter Robinson",
+        "Storm Tharp",
+        "Chloe Wise",
+        "Purvis Young",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2020",
+        "Location: Booth C36, Palexpo, Geneva"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 January–2 February 2020</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 40,
+      "workflowState": 1,
+      "publishOn": 1580401680188,
+      "addedOn": 1580401680188,
+      "updatedOn": 1771583281826
+    },
+    {
+      "id": "626295157bfd0f2f1b5c26db",
+      "title": "Riverside Drive",
+      "fullUrl": "/exhibition/joe-andoe-riverside-drive",
+      "sourceUrl": "",
+      "urlId": "joe-andoe-riverside-drive",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650628423904-M0081H8U25PXS92LLESU/L%2BEverywhere+%231+%2C+Joe+Andoe%2C+2018.+Oil+on+aluminium.+58%2C5+x+86%2C5+cm+%2823+x+34+in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Joe Andoe"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2019",
+        "Year: 2020",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29 November 2019–25 January 2020</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 36,
+      "workflowState": 1,
+      "publishOn": 1575031440837,
+      "addedOn": 1575031440837,
+      "updatedOn": 1771583282095
+    },
+    {
+      "id": "6262cc62c7cc704f063e105d",
+      "title": "Artissima 2019",
+      "fullUrl": "/exhibition/fair/artissima-2019",
+      "sourceUrl": "",
+      "urlId": "fair/artissima-2019",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650642220982-679NHJS9W81CND49RH8R/WEB_Installation-view_1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Michael Hilsman",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Location: Booth Black 4, Lingotto Fiere, Turin",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2019"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1–3 November 2019</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 41,
+      "workflowState": 1,
+      "publishOn": 1572626400101,
+      "addedOn": 1572626400101,
+      "updatedOn": 1771583281969
+    },
+    {
+      "id": "6262976988253841acd83d55",
+      "title": "Still Life: An Ongoing Story",
+      "fullUrl": "/exhibition/group-show/still-life-an-ongoing-story",
+      "sourceUrl": "",
+      "urlId": "group-show/still-life-an-ongoing-story",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650628654015-IUEWX1CD4OM6X8G2YTRN/mahu_web.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alfredo Aceto",
+        "Joe Andoe",
+        "John Armleder",
+        "Todd Bienvenu",
+        "Andries Daniels",
+        "Georg Dionysius Ehret",
+        "Sylvie Fleury",
+        "Michael Hilsman",
+        "Lynnea Holland-Weiss",
+        "Richard Kern",
+        "Elad Lassry",
+        "Che Lovelace",
+        "Cornelis Mahu",
+        "Walter Robinson",
+        "Hannah Rowan",
+        "Roman Signer",
+        "Storm Tharp",
+        "Jan Van Kessel",
+        "Jesse Wine",
+        "Paulo Wirz",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Year: 2019",
+        "Exhibition: Group Show",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">27 September – 23 November 2019</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 37,
+      "workflowState": 1,
+      "publishOn": 1569585240224,
+      "addedOn": 1569585240224,
+      "updatedOn": 1771583282549
+    },
+    {
+      "id": "6262997ea430a1080f8b3527",
+      "title": "Solo show",
+      "fullUrl": "/exhibition/purvis-young-solo-show",
+      "sourceUrl": "",
+      "urlId": "purvis-young-solo-show",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650629207612-UCAG7Q8PEHWRBO047KA0/LL_Ancestors%2C+Purvis+Young%2C+1995.+Oil+on+wood.+71+x+117%2C5+cm+%2828+x+47+in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Purvis Young"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2019",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">16 May–20 July 2019</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 38,
+      "workflowState": 1,
+      "publishOn": 1558008180247,
+      "addedOn": 1558008180247,
+      "updatedOn": 1771583282484
+    },
+    {
+      "id": "6262ce702152581d23bf680d",
+      "title": "Artmonte-carlo 2019",
+      "fullUrl": "/exhibition/fair/artmonte-carlo-2019",
+      "sourceUrl": "",
+      "urlId": "fair/artmonte-carlo-2019",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650642748152-URSITA0L3BZL8AGTADOM/WEB_Annik-Wetter_2019-04-25_10127.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Chloe Wise",
+        "Walter Robinson",
+        "Joe Andoe",
+        "Todd Bienvenu",
+        "Michael Hilsman",
+        "Purvis Young",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2019",
+        "Location: Booth C12, Grimaldi Forum, Monaco"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 26–28 April 2019</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 42,
+      "workflowState": 1,
+      "publishOn": 1556293740771,
+      "addedOn": 1556293740771,
+      "updatedOn": 1771583282140
+    },
+    {
+      "id": "62629bb3745a54311869e0a8",
+      "title": "Dad Bod",
+      "fullUrl": "/exhibition/solo-show/todd-bienvenu/dad-bod",
+      "sourceUrl": "",
+      "urlId": "solo-show/todd-bienvenu/dad-bod",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650630053810-7WYDJBERFI3HL6TPASM5/WEB_Bain-des-Pa%CC%82quis%2C-Todd-Bienvenu%2C-2019.-Acrylic-on-canvas.-223%2C5-x-193-cm-%2888-x-76-in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Todd Bienvenu"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2019",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1 March–27 April 2019</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 39,
+      "workflowState": 1,
+      "publishOn": 1551445920825,
+      "addedOn": 1551445920825,
+      "updatedOn": 1771583283109
+    },
+    {
+      "id": "6262d026244741334bd1b4e0",
+      "title": "Artgenève 2019",
+      "fullUrl": "/exhibition/fair/artgeneve-2019",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2019",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650643186666-DJSP5DFM7RH4AR7N1FEE/WEB_Annik-Wetter_2019-02-01_10039-copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov",
+        "Chloe Wise",
+        "Joe Andoe",
+        "Todd Bienvenu",
+        "Walter Robinson",
+        "Michael Hilsman",
+        "Lynnea Holland-Weiss",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2019",
+        "Location: Booth C28, Palexpo, Geneva"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">31 January–3 February 2019</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 43,
+      "workflowState": 1,
+      "publishOn": 1548953760520,
+      "addedOn": 1548953760520,
+      "updatedOn": 1771583282748
+    },
+    {
+      "id": "6262d42d59049c7d2c06b783",
+      "title": "Independent Brussels 2018",
+      "fullUrl": "/exhibition/fair/independent-brussels-2018",
+      "sourceUrl": "",
+      "urlId": "fair/independent-brussels-2018",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650644769820-85YXQOS5IWTSAVMNZ8BE/WEB_01_S.BERTRAND-%40-INDEPENDENT-BRX-2018%2C-Photo-by-Renato-Ghiazza-copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Michael Hilsman",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2018",
+        "Location: Vanderborght Building (1st floor), Brussels, Belgium"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">8–11 November 2018</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 44,
+      "workflowState": 1,
+      "publishOn": 1541697180854,
+      "addedOn": 1541697180854,
+      "updatedOn": 1771583282638
+    },
+    {
+      "id": "6262d87cab43c020a771a848",
+      "title": "Artissima 2018",
+      "fullUrl": "/exhibition/fair/artissima-2018",
+      "sourceUrl": "",
+      "urlId": "fair/artissima-2018",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650645721099-5FH1ANLFO8ZHIBGKOVQR/WEB_Artissima_1-%C2%A9-Nicola-Morittu.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Location: Booth DS16, Lingotto Fiere, Turin",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2018"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2–4 November 2018</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 45,
+      "workflowState": 1,
+      "publishOn": 1541179860507,
+      "addedOn": 1541179860507,
+      "updatedOn": 1771583283066
+    },
+    {
+      "id": "626138d2a04f9c0c5eb3531b",
+      "title": "Flood Love",
+      "fullUrl": "/exhibition/solo-show/lynnea-holland-weiss/flood-love",
+      "sourceUrl": "",
+      "urlId": "solo-show/lynnea-holland-weiss/flood-love",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661854605462-TX0B1S75QMFTLHQ97V41/WEB_annik-wetter_Installation-view_4-copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Lynnea Holland-Weiss"
+      ],
+      "tags": [
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2018"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">10 October–22 December 2018</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 33,
+      "workflowState": 1,
+      "publishOn": 1539169080971,
+      "addedOn": 1539169080971,
+      "updatedOn": 1771583282081
+    },
+    {
+      "id": "6261373b842ca061f2f9a60b",
+      "title": "Coast Unclear Seeks Rained Parade",
+      "fullUrl": "/exhibition/solo-show/chloe-wise/coast-unclear-seeks-rained-parade",
+      "sourceUrl": "",
+      "urlId": "solo-show/chloe-wise/coast-unclear-seeks-rained-parade",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650538664338-M0SE9MZ48163X815OQ5D/Exhibition+view+4_Coast+Unclear+Seeks+Rained+Parade%2C+Chloe+Wise%2C+2018+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Chloe Wise"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2018",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25 May–7 July 2018</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 32,
+      "workflowState": 1,
+      "publishOn": 1527242400501,
+      "addedOn": 1527242400501,
+      "updatedOn": 1771583283004
+    },
+    {
+      "id": "6262dc796dcc5f58f9a2b730",
+      "title": "Artmonte-carlo 2018",
+      "fullUrl": "/exhibition/fair/artmonte-carlo-2018",
+      "sourceUrl": "",
+      "urlId": "fair/artmonte-carlo-2018",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650646365907-OJB6QUCWYNTPTIPFQJS6/WEB_Installation-view_4.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov",
+        "Joe Andoe",
+        "Todd Bienvenu",
+        "Walter Robinson",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Location: Booth C12, Grimaldi Forum, Monaco",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2018"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 28 &amp; 29 April 2018</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 46,
+      "workflowState": 1,
+      "publishOn": 1524934080853,
+      "addedOn": 1524934080853,
+      "updatedOn": 1771583282214
+    },
+    {
+      "id": "6261356e9c87e52111a59951",
+      "title": "New pictures",
+      "fullUrl": "/exhibition/solo-show/michael-hilsman/new-pictures",
+      "sourceUrl": "",
+      "urlId": "solo-show/michael-hilsman/new-pictures",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650538249050-5EG4PQ1BLD72MHWCKD8Y/Exhibition+view+2_New+Pictures%2C+Michael+Hilsman%2C+2018+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Michael Hilsman"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2018",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">23 February–7 April 2018</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 31,
+      "workflowState": 1,
+      "publishOn": 1519383600084,
+      "addedOn": 1519383600084,
+      "updatedOn": 1771583282379
+    },
+    {
+      "id": "6266a6b70ea7ec40f70b3ae8",
+      "title": "Artgenève 2018",
+      "fullUrl": "/exhibition/fair/artgeneve-2018",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2018",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650894785868-FN373W8OAFQXPU0G08CA/WEB_Artgene%CC%80ve2018_booth_view_1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov",
+        "Joe Andoe",
+        "Michael Hilsman",
+        "Todd Bienvenu",
+        "Walter Robinson",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2018",
+        "Location: Booth C32, Solo Show C34, Palexpo, Geneva"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1 February–4 February 2018</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 47,
+      "workflowState": 1,
+      "publishOn": 1517496480837,
+      "addedOn": 1517496480837,
+      "updatedOn": 1771583281912
+    },
+    {
+      "id": "6266a953385110598dfd37af",
+      "title": "Artissima 2017",
+      "fullUrl": "/exhibition/fair/artissima-2017",
+      "sourceUrl": "",
+      "urlId": "fair/artissima-2017",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661770663794-2C13C37EO68O4SLCPECO/WEB_Artissma-2017--View-1-copyright-Annik-Wetter.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Todd Bienvenu"
+      ],
+      "tags": [
+        "Location: Booth PF 07, Lingotto Fiere, Turin",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2017"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2–5 November 2017</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 48,
+      "workflowState": 1,
+      "publishOn": 1509634740079,
+      "addedOn": 1509634740079,
+      "updatedOn": 1771583281659
+    },
+    {
+      "id": "626132837a157b5715a37934",
+      "title": "Rainbow Road",
+      "fullUrl": "/exhibition/solo-show/joe-andoe/rainbow-road",
+      "sourceUrl": "",
+      "urlId": "solo-show/joe-andoe/rainbow-road",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650537560369-9R7AL85JHDRV5A4GP0EC/L-Rainbow+Road%2C+Joe+Andoe%2C+2017.+View+4.+credit+Annik+Wetter.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Joe Andoe"
+      ],
+      "tags": [
+        "Year: 2017",
+        "Exhibition: Solo Show",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">22 September — 16 December 2017</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 31,
+      "workflowState": 1,
+      "publishOn": 1506076260062,
+      "addedOn": 1506076260062,
+      "updatedOn": 1771583282433
+    },
+    {
+      "id": "6261300d07cb9e27ae8b3213",
+      "title": "USED / solo Show + LIKE / Group Show",
+      "fullUrl": "/exhibition/solo-show/used-solo-show-like-group-show",
+      "sourceUrl": "",
+      "urlId": "solo-show/used-solo-show-like-group-show",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1662133990255-RFB5BIL7LUR311Q3REFJ/WEB_-USED-%2B-LIKE---%C2%A9-Annik-Wetter--view-5.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Richard Kern"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2017",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26 May–2 September 2017</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 30,
+      "workflowState": 1,
+      "publishOn": 1498472460940,
+      "addedOn": 1498472460940,
+      "updatedOn": 1771583283080
+    },
+    {
+      "id": "6266be8d259470641162bab9",
+      "title": "Artmonte-carlo 2017",
+      "fullUrl": "/exhibition/fair/artmonte-carlo-2017",
+      "sourceUrl": "",
+      "urlId": "fair/artmonte-carlo-2017",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650900778228-BMSNYHP9VK44MYO0O0LP/WEB_Artmonte-carlo-17-View-3-%C2%A9Annik-Wetter.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Michael Hilsman",
+        "Chloe Wise",
+        "Max Maslansky",
+        "Todd Bienvenu",
+        "Walter Robinson",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Location: Booth C10, Grimaldi Forum, Monaco",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2017"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29 &amp; 30 April 2017</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 53,
+      "workflowState": 1,
+      "publishOn": 1493479800431,
+      "addedOn": 1493479800431,
+      "updatedOn": 1771583281927
+    },
+    {
+      "id": "6266b3d56cdb7f674344b9a4",
+      "title": "Independent Brussels 2017",
+      "fullUrl": "/exhibition/fair/independent-brussels-2017",
+      "sourceUrl": "",
+      "urlId": "fair/independent-brussels-2017",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650898099776-8544HR2OG3CF1VZ682CX/WEB_Install-view1-independent-brussels-2017-Renato-Ghiazza-copie-copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov",
+        "Chloe Wise",
+        "Todd Bienvenu"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2017",
+        "Location: 5th Floor, Vanderborght Building, Brussels"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">19–23 April 2017</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 49,
+      "workflowState": 1,
+      "publishOn": 1492613040618,
+      "addedOn": 1492613040618,
+      "updatedOn": 1771583282196
+    },
+    {
+      "id": "6266b6327f81c47c8b318b0f",
+      "title": "Dallas Art Fair 2017",
+      "fullUrl": "/exhibition/fair/dallas-art-fair-2017",
+      "sourceUrl": "",
+      "urlId": "fair/dallas-art-fair-2017",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650898709554-IBVSDP3BOEGO9FHFEKQ2/WEB_Bertrand-Dallas2017.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov",
+        "Chloe Wise",
+        "Todd Bienvenu",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Location: Booth C5, Dallas Art Fair",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2017"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">7–9 April 2017</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 50,
+      "workflowState": 1,
+      "publishOn": 1491576840684,
+      "addedOn": 1491576840684,
+      "updatedOn": 1771583282519
+    },
+    {
+      "id": "62612e2f541a5847c24b4c4d",
+      "title": "From Here To There",
+      "fullUrl": "/exhibition/solo-show/jeff-perkins/from-here-to-there",
+      "sourceUrl": "",
+      "urlId": "solo-show/jeff-perkins/from-here-to-there",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650536435904-3ESCLIKRFR6H8Y21W9PO/L-TAXI+LICENSE-JP-1983-2002.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Jeff Perkins"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Year: 2017"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">17 March–20 May 2017</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 29,
+      "workflowState": 1,
+      "publishOn": 1489749180279,
+      "addedOn": 1489749180279,
+      "updatedOn": 1771583283095
+    },
+    {
+      "id": "6266ba461e34f11bd911bf17",
+      "title": "NADA NY 2017",
+      "fullUrl": "/exhibition/fair/nada-ny-2017",
+      "sourceUrl": "",
+      "urlId": "fair/nada-ny-2017",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650899740926-SXNZPPTTA4GOVCHZFC24/WEB_Nada-2017-view-2-Paula-Abreu-Pita.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alan Vega",
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Location: Booth 5.02, Skylight Clarkson North, New York",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2017"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2–5 March 2017</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 51,
+      "workflowState": 1,
+      "publishOn": 1488471120144,
+      "addedOn": 1488471120144,
+      "updatedOn": 1771583282854
+    },
+    {
+      "id": "6261293a9de5b53f5e7314fc",
+      "title": "Romance",
+      "fullUrl": "/exhibition/solo-show/walter-robinson/romance",
+      "sourceUrl": "",
+      "urlId": "solo-show/walter-robinson/romance",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1739200363763-LENT1E02EZ4WVA33VKCY/Romance-WR-2017-Annik+Wetter-view+2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Year: 2017",
+        "Exhibition: Solo Show",
+        "Status: Past Exhibition"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">31 January — 04 March 2017</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 28,
+      "workflowState": 1,
+      "publishOn": 1485859860412,
+      "addedOn": 1485859860412,
+      "updatedOn": 1771583282321
+    },
+    {
+      "id": "6266bc567e435069ce69e6e5",
+      "title": "Artgenève 2017",
+      "fullUrl": "/exhibition/fair/artgeneve-2017",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2017",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1739200191734-0AHUM2SW8MFPGJJ8DJUU/Installation+view+4-+Artgeneve2017-GSB-credit.ANNIK.WETTER.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Walter Robinson"
+      ],
+      "tags": [
+        "Location: Booth B21, B19, Palexpo, Geneva",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2017"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26–29 January 2017</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 52,
+      "workflowState": 1,
+      "publishOn": 1485447600084,
+      "addedOn": 1485447600084,
+      "updatedOn": 1771583282820
+    },
+    {
+      "id": "6261264870526c619aec469e",
+      "title": "Dive",
+      "fullUrl": "/exhibition/solo-show/todd-bienvenu/dive",
+      "sourceUrl": "",
+      "urlId": "solo-show/todd-bienvenu/dive",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650534567135-6P7CHWO6XFEHOCAXCAXY/WEB_Point-Break%2C-Todd-Bievenu%2C-2016.-Acrylic-on-canvas.-207-x-172-cm-%2881.5-x-67.7-in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Todd Bienvenu"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2016",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">19 November–14 January 2017</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 27,
+      "workflowState": 1,
+      "publishOn": 1479551940857,
+      "addedOn": 1479551940857,
+      "updatedOn": 1771583283037
+    },
+    {
+      "id": "62612450352dd9784d530314",
+      "title": "Icons: West &amp; East",
+      "fullUrl": "/exhibition/solo-show/alexander-kosolapov/icons-west-east",
+      "sourceUrl": "",
+      "urlId": "solo-show/alexander-kosolapov/icons-west-east",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650533815785-4YRS9EEERIU62XPNO3X2/L%2BLenin+Coca-Cola%2C+Alexander+Kosolapov%2C+1987.+Acrylic+on+canvas.+81+x+127+cm+%2832+x+50+in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2016"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 September–17 December 2016</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 26,
+      "workflowState": 1,
+      "publishOn": 1475227800716,
+      "addedOn": 1475227800716,
+      "updatedOn": 1771583281855
+    },
+    {
+      "id": "62611ec77448c115a4a319da",
+      "title": "SUMMER SHOW",
+      "fullUrl": "/exhibition/group-show/summer-show",
+      "sourceUrl": "",
+      "urlId": "group-show/summer-show",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650533435506-TCO71JT5O26LHRWV0BY5/flyer_summer_show_2016.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Group Show",
+        "Year: 2016",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">10 June–9 July 2016</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 25,
+      "workflowState": 1,
+      "publishOn": 1465549620834,
+      "addedOn": 1465549620834,
+      "updatedOn": 1771583282338
+    },
+    {
+      "id": "6266c05583150d693796535e",
+      "title": "NADA NY 2016",
+      "fullUrl": "/exhibition/fair/nada-ny-2016",
+      "sourceUrl": "",
+      "urlId": "fair/nada-ny-2016",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650901241136-AM6XSCN55ZS43XFEW8Y3/WEB_SebastienBertrand_NADAartFair__PAP6829-Edit.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov",
+        "Chloe Wise",
+        "Richard Kern",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2016",
+        "Location: Booth 4.02, Basketball City, New York"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5–8 May 2016</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 54,
+      "workflowState": 1,
+      "publishOn": 1462462620549,
+      "addedOn": 1462462620549,
+      "updatedOn": 1771583282651
+    },
+    {
+      "id": "6267cb9b255c0c739ce80b4f",
+      "title": "Artmonte-carlo 2016",
+      "fullUrl": "/exhibition/fair/artmonte-carlo-2016",
+      "sourceUrl": "",
+      "urlId": "fair/artmonte-carlo-2016",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650969750934-P1NMK11BAKT74KXEHS7M/WEB_artmonte-carlo-2016-view-1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov",
+        "Chloe Wise",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Location: Booth C9, Grimaldi Forum, Monaco",
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2016"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 April–1 May 2016</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 55,
+      "workflowState": 1,
+      "publishOn": 1462012680127,
+      "addedOn": 1462012680127,
+      "updatedOn": 1771583282684
+    },
+    {
+      "id": "62611b1ecb4ce2169125eabb",
+      "title": "The Remains of the Geldberg Collection",
+      "fullUrl": "/exhibition/solo-show/yarisal-and-kublitz/the-remains-of-the-geldberg-collection",
+      "sourceUrl": "",
+      "urlId": "solo-show/yarisal-and-kublitz/the-remains-of-the-geldberg-collection",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650532011381-TXFU1QTF9TJQ48OFHH16/L-Geldberg.collection-YK-2016-Annik.Wetter-view1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.4575892857142857,
+        "y": 0.6130952380952381,
+        "source": 3
+      },
+      "categories": [
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2016",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">22 April–2 July 2016</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 24,
+      "workflowState": 1,
+      "publishOn": 1461315060591,
+      "addedOn": 1461315060591,
+      "updatedOn": 1771583282012
+    },
+    {
+      "id": "6260339f6117d017a84eca6f",
+      "title": "The Softest Bullet",
+      "fullUrl": "/exhibition/solo-show/michael-hilsman/the-softest-bullet",
+      "sourceUrl": "",
+      "urlId": "solo-show/michael-hilsman/the-softest-bullet",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661183876903-OFG3KKGCVP9GO5394FQT/WEB_The-Softest-Bullet-MH-Annik-Wetter_view-2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Michael Hilsman"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2016",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">11 March–16 April 2016</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 20,
+      "workflowState": 1,
+      "publishOn": 1457716980582,
+      "addedOn": 1457716980582,
+      "updatedOn": 1771583283051
+    },
+    {
+      "id": "6267cdc0ef7e471b2b34d6c8",
+      "title": "Artgenève 2016",
+      "fullUrl": "/exhibition/fair/artgeneve-2016",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2016",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650970339160-KMSNWDT2EDDWDVEVBQRZ/WEB_Artgene%CC%80ve16-Annik-Wetter-View-2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Max Maslansky",
+        "Alexander Kosolapov",
+        "Chloe Wise",
+        "Storm Tharp",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2016"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28–31 January 2016</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 56,
+      "workflowState": 1,
+      "publishOn": 1453981620458,
+      "addedOn": 1453981620458,
+      "updatedOn": 1771583282623
+    },
+    {
+      "id": "6260376b92a7e72a05b8daad",
+      "title": "Pilgrims",
+      "fullUrl": "/exhibition/solo-show/storm-tharp/pilgrins",
+      "sourceUrl": "",
+      "urlId": "solo-show/storm-tharp/pilgrins",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650472845556-BUSUX74YTD7AK563URBG/L-Expensive+Dog%2C+Storm+Tharp%2C+2015.+Ink+and+gouache+on+paper.+76+x+57+cm+%2829.9+x+22.4+in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Storm Tharp"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2015"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">6 November–20 February 2016</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 22,
+      "workflowState": 1,
+      "publishOn": 1446831600325,
+      "addedOn": 1446831600325,
+      "updatedOn": 1771583282763
+    },
+    {
+      "id": "626030dde55bbd1d8ef9ba26",
+      "title": "The Art of Thought",
+      "fullUrl": "/exhibition/solo-show/sam-kaprielov/the-art-of-thought",
+      "sourceUrl": "",
+      "urlId": "solo-show/sam-kaprielov/the-art-of-thought",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650471674766-17KKREXQIS98BXJRWVKD/L-Niccolo+Machiavelli%2C+Sam+Kaprielov%2C+2015.+Oil+on+canvas.+56+x+46+cm+%2822+x+18+inches%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Sam Kaprielov"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2015",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26 September–28 October 2015</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 18,
+      "workflowState": 1,
+      "publishOn": 1443283920273,
+      "addedOn": 1443283920273,
+      "updatedOn": 1771583282257
+    },
+    {
+      "id": "620f83c67cfc0e3d7527b31b",
+      "title": "That’s something else my sweet",
+      "fullUrl": "/exhibition/solo-show/chloe-wise/thats-something-else-my-sweet",
+      "sourceUrl": "",
+      "urlId": "solo-show/chloe-wise/thats-something-else-my-sweet",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1645184704703-R8DK7ZZ4ZGOKOLEBPANC/That%27s-something-else%2C-my-sweet_2015_Installation-view_Chloe-Wise_photo-credit-Annik-Wetter_2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Chloe Wise"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2015",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5 June–4 July 2015</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 2,
+      "workflowState": 1,
+      "publishOn": 1433498400356,
+      "addedOn": 1433498400356,
+      "updatedOn": 1771583282287
+    },
+    {
+      "id": "62602d4410520b6cb428a084",
+      "title": "Midnight Blue",
+      "fullUrl": "/exhibition/solo-show/max-maslansky/midnight-blue",
+      "sourceUrl": "",
+      "urlId": "solo-show/max-maslansky/midnight-blue",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650470903443-A0OG6KNSE871133J6BWB/WEB_Talk-%28Twin-size-bed%29-MaxM-2013-Acrylic-on-bed-sheet-190-x-96-cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.4625816172777499,
+        "y": 0.38095238095238093,
+        "source": 3
+      },
+      "categories": [
+        "Max Maslansky"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Solo Show",
+        "Year: 2015",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">27 March–30 April 2015</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 17,
+      "workflowState": 1,
+      "publishOn": 1427475360789,
+      "addedOn": 1427475360789,
+      "updatedOn": 1771583281691
+    },
+    {
+      "id": "62680d3612f47618de17d94a",
+      "title": "Artgenève 2015",
+      "fullUrl": "/exhibition/fair/artgeneve-2015",
+      "sourceUrl": "",
+      "urlId": "fair/artgeneve-2015",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650986466412-DD3R7QSRRK9UYY1Z78SO/WEB_Annik_Wetter_jpg_01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Alexander Kosolapov",
+        "Sam Kaprielov",
+        "Jeff Perkins",
+        "Max Maslansky",
+        "Cynthia Westwood",
+        "Huang Hankang",
+        "Yarisal & Kublitz"
+      ],
+      "tags": [
+        "Status: Past Exhibition",
+        "Exhibition: Fair",
+        "Year: 2015",
+        "Location: Booth B28, Palexpo, Geneva"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29 January–1 February 2015</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 57,
+      "workflowState": 1,
+      "publishOn": 1422548280369,
+      "addedOn": 1422548280369,
+      "updatedOn": 1771583281734
+    }
+  ]
+}
