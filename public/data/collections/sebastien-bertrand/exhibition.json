@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-23T12:24:59.686Z",
-  "sourceHash": "a8b26439eb0117779fae99cb4b0fe2c9c18084e1e9f9de60590161e027734858",
+  "updatedAt": "2026-09-23T13:57:35.956Z",
+  "sourceHash": "aacb19776300a9def32aa31b2ab81cb6f4639b55ce3a630d1185b82f88e0519c",
   "count": 106,
   "pages": 1,
   "items": [
@@ -87,7 +87,7 @@
       "workflowState": 1,
       "publishOn": 1788886249921,
       "addedOn": 1788886249921,
-      "updatedOn": 1789654968514
+      "updatedOn": 1790171420883
     },
     {
       "id": "6a18069ca7b1a53def6c320c",
