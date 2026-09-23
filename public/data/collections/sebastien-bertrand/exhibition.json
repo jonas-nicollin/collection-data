@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-23T14:57:35.050Z",
-  "sourceHash": "22c63e7461df0ef7235561c9e437f0c630746672eea9400a05815dca281681fd",
+  "updatedAt": "2026-09-23T15:17:38.563Z",
+  "sourceHash": "1f6979f9dc08c189c34ea5dc35fa66fc56f711c666a1af1417a1447fcc648e08",
   "count": 106,
   "pages": 1,
   "items": [
@@ -3687,7 +3687,8 @@
         "Location: Booth C5, Dallas Art Fair",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2017"
+        "Year: 2017",
+        "Date: 2017-04-07/2017-04-09"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">7–9 April 2017</p>",
       "location": {
@@ -3705,7 +3706,7 @@
       "workflowState": 1,
       "publishOn": 1491576840684,
       "addedOn": 1491576840684,
-      "updatedOn": 1771583282519
+      "updatedOn": 1790176638161
     },
     {
       "id": "62612e2f541a5847c24b4c4d",
@@ -3726,7 +3727,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
-        "Year: 2017"
+        "Year: 2017",
+        "Date: 2017-03-17/2017-05-20"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">17 March–20 May 2017</p>",
       "location": {
@@ -3744,7 +3746,7 @@
       "workflowState": 1,
       "publishOn": 1489749180279,
       "addedOn": 1489749180279,
-      "updatedOn": 1771583283095
+      "updatedOn": 1790176621375
     },
     {
       "id": "6266ba461e34f11bd911bf17",
@@ -3766,7 +3768,8 @@
         "Location: Booth 5.02, Skylight Clarkson North, New York",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2017"
+        "Year: 2017",
+        "Date: 2017-03-02/2017-03-05"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2–5 March 2017</p>",
       "location": {
@@ -3784,7 +3787,7 @@
       "workflowState": 1,
       "publishOn": 1488471120144,
       "addedOn": 1488471120144,
-      "updatedOn": 1771583282854
+      "updatedOn": 1790176602296
     },
     {
       "id": "6261293a9de5b53f5e7314fc",
@@ -3804,7 +3807,9 @@
       "tags": [
         "Year: 2017",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition"
+        "Status: Past Exhibition",
+        "Date: 2017-01-31/2017-03-04",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">31 January — 04 March 2017</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
       "location": {
@@ -3822,7 +3827,7 @@
       "workflowState": 1,
       "publishOn": 1485859860412,
       "addedOn": 1485859860412,
-      "updatedOn": 1771583282321
+      "updatedOn": 1790176571212
     },
     {
       "id": "6266bc567e435069ce69e6e5",
@@ -3843,7 +3848,8 @@
         "Location: Booth B21, B19, Palexpo, Geneva",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2017"
+        "Year: 2017",
+        "Date: 2017-01-26/2017-01-29"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26–29 January 2017</p>",
       "location": {
@@ -3861,7 +3867,7 @@
       "workflowState": 1,
       "publishOn": 1485447600084,
       "addedOn": 1485447600084,
-      "updatedOn": 1771583282820
+      "updatedOn": 1790176558497
     },
     {
       "id": "6261264870526c619aec469e",
@@ -3882,7 +3888,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2016",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2016-11-19/2017-01-14"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">19 November–14 January 2017</p>",
       "location": {
@@ -3900,7 +3907,7 @@
       "workflowState": 1,
       "publishOn": 1479551940857,
       "addedOn": 1479551940857,
-      "updatedOn": 1771583283037
+      "updatedOn": 1790176291068
     },
     {
       "id": "62612450352dd9784d530314",
