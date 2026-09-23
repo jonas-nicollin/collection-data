@@ -5,11 +5,51 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-22T13:17:36.867Z",
-  "sourceHash": "1a7d997bf245ffef1fa2ec8bc2038f8316abb86c65a547951eadaf8a86ace777",
-  "count": 105,
+  "updatedAt": "2026-09-23T12:05:11.734Z",
+  "sourceHash": "a88b4b98adae447cc30af4e936c227a4c54b84d102c1b620c24457d53dcfda64",
+  "count": 106,
   "pages": 1,
   "items": [
+    {
+      "id": "6ab3bc5cd07af854f4ae2f6f",
+      "title": "Fruta y Media Tarde  (Copy)",
+      "fullUrl": "/exhibition/solo-show/natalia-gonzalez-martin-fruta-y-media-tarde-wepxp",
+      "sourceUrl": "",
+      "urlId": "solo-show/natalia-gonzalez-martin-fruta-y-media-tarde-wepxp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1774370460109-RXJMEYTV740GDVAWCRXE/HD_Bertrand_2747-1+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Natalia González Martín"
+      ],
+      "tags": [
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Year: 2026",
+        "Exhibition: Solo Show",
+        "Date: 2026-12-22/2027-03-25",
+        "Year: 2027"
+      ],
+      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Extended until 16 May 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26.03.2026–08.05.2026 </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 105,
+      "workflowState": 1,
+      "publishOn": 1790164060088,
+      "addedOn": 1790164060088,
+      "updatedOn": 1790164143037
+    },
     {
       "id": "6aa0388f8f42385764242634",
       "title": "Façades",
