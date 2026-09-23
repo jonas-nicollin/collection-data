@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-23T15:27:35.288Z",
-  "sourceHash": "9a1363dd0b28a158cecfc445713e1fb504ddc7a356bfa89d36cadd63ba26813d",
+  "updatedAt": "2026-09-23T15:37:42.530Z",
+  "sourceHash": "46ad0c567e8be5dea2884272df7c7eadfede1e696e8d1d3428f0a227dbdb13d7",
   "count": 106,
   "pages": 1,
   "items": [
@@ -440,7 +440,7 @@
     },
     {
       "id": "68ff463fb1d8eb201758a5c4",
-      "title": "Artissima ",
+      "title": "Artissima 2025",
       "fullUrl": "/exhibition/fair/artissima-2025",
       "sourceUrl": "",
       "urlId": "fair/artissima-2025",
@@ -481,7 +481,7 @@
       "workflowState": 1,
       "publishOn": 1759396500973,
       "addedOn": 1759396500973,
-      "updatedOn": 1790177150304
+      "updatedOn": 1790177237725
     },
     {
       "id": "68494498b461df4b15a5f7d8",
@@ -502,7 +502,9 @@
         "Year: 2025",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Location: Basel Social Club, Rittergasse 21–25, 4051 Basel, Switzerland"
+        "Location: Basel Social Club, Rittergasse 21–25, 4051 Basel, Switzerland",
+        "Date: 2025-06-16/2025-06-21",
+        "Opening reception: 2025-06-15T14:00/2025-06-16T00:00"
       ],
       "excerpt": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">16–21 June 2025</p><pre><code>Opening Day: Sunday, June 15, 2025, 2 pm–Midnight</code></pre>",
       "location": {
@@ -520,7 +522,7 @@
       "workflowState": 1,
       "publishOn": 1749634298477,
       "addedOn": 1749634298477,
-      "updatedOn": 1765461683940
+      "updatedOn": 1790177381243
     },
     {
       "id": "6838163d7010955e22af9f9a",
@@ -541,7 +543,10 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2025",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2025-06-06/2025-08-09",
+        "Extended until: 2025-09-11",
+        "Opening reception: 2025-06-05T18:00/2025-06-05T20:30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">6 June–9 August 2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Extended until 11 September 2025</p><pre><code>Opening: Thursday 05 June, 6–8:30 pm</code></pre>",
       "location": {
@@ -559,11 +564,11 @@
       "workflowState": 1,
       "publishOn": 1748592540333,
       "addedOn": 1748592540333,
-      "updatedOn": 1771583281954
+      "updatedOn": 1790177417894
     },
     {
       "id": "6863d2ac2e039636280d3e95",
-      "title": "Art Monte-Carlo",
+      "title": "Art Monte-Carlo 2025",
       "fullUrl": "/exhibition/fair/art-monte-carlo-2025",
       "sourceUrl": "",
       "urlId": "fair/art-monte-carlo-2025",
@@ -584,7 +589,9 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: Art Monte‑Carlo, Booth D2, Grimaldi Forum, 10 Av. Princesse Grâce, Monaco"
+        "Location: Art Monte‑Carlo, Booth D2, Grimaldi Forum, 10 Av. Princesse Grâce, Monaco",
+        "Date: 2025-07-07/2025-07-09",
+        "Opening reception: 2025-07-07T14:00/2025-07-07T20:00"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">7–9 July 2025</p><pre><code>Opening reception: Monday, July 07, 2–8 pm</code></pre>",
       "location": {
@@ -602,7 +609,7 @@
       "workflowState": 1,
       "publishOn": 1748089860666,
       "addedOn": 1748089860666,
-      "updatedOn": 1771583281719
+      "updatedOn": 1790177467092
     },
     {
       "id": "67da9ebd06177a40d785a54e",
@@ -623,7 +630,9 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2025",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2025-03-28/2025-05-17",
+        "Opening reception: 2025-03-27T18:00/2025-03-27T20:30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28 March–17 May 2025</p><pre><code>Opening Reception: Thursday 27 March, 6–8:30&nbsp;pm</code></pre>",
       "location": {
@@ -641,7 +650,7 @@
       "workflowState": 1,
       "publishOn": 1742402633109,
       "addedOn": 1742402633109,
-      "updatedOn": 1771583282959
+      "updatedOn": 1790177521709
     },
     {
       "id": "680655e9c6c97648cf64d0cb",
@@ -667,7 +676,9 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: Art Brussels, Booth 5C–12, Brussels Expo, Belgium"
+        "Location: Art Brussels, Booth 5C–12, Brussels Expo, Belgium",
+        "Date: 2025-04-25/2025-04-27",
+        "Opening reception: 2025-04-24T11:00/2025-04-24T21:00"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25–27 April 2025</p><pre><code>Opening Reception: Thursday, April 24, 11–9pm</code></pre>",
       "location": {
@@ -685,7 +696,7 @@
       "workflowState": 1,
       "publishOn": 1742311860406,
       "addedOn": 1742311860406,
-      "updatedOn": 1771583282806
+      "updatedOn": 1790177541314
     },
     {
       "id": "681a01325c16ca68f7b89aa6",
@@ -706,7 +717,9 @@
         "Exhibition: Solo Show",
         "Status: Past Exhibition",
         "Year: 2025",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2025-05-09/2025-05-31",
+        "Opening reception: 2025-05-08T18:00/2025-05-08T20:30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">9 May–31 May 2025</p><pre><code>Opening Reception: Thursday, May 08, 6–8:30pm</code></pre>",
       "location": {
@@ -724,7 +737,7 @@
       "workflowState": 1,
       "publishOn": 1742306880415,
       "addedOn": 1742306880415,
-      "updatedOn": 1771583281898
+      "updatedOn": 1790177561210
     },
     {
       "id": "67ebc5fc50cf554ed0bbb30c",
@@ -747,7 +760,9 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: MIART, Booth A88, Fieramilano city, Milan"
+        "Location: MIART, Booth A88, Fieramilano city, Milan",
+        "Date: 2025-04-04/2025-04-06",
+        "Opening reception: 2025-04-03T11:00/2025-04-03T21:00"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4–6 April 2025</p><pre><code>Opening Reception: Thursday, April 03, 11–9pm</code></pre>",
       "location": {
@@ -765,7 +780,7 @@
       "workflowState": 1,
       "publishOn": 1742298840210,
       "addedOn": 1742298840210,
-      "updatedOn": 1771583282946
+      "updatedOn": 1790177583334
     },
     {
       "id": "67a5f6698442874d7b499f71",
@@ -791,7 +806,9 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: Festival‑Zelt (Sportzentrumstrasse), Gstaad"
+        "Location: Festival‑Zelt (Sportzentrumstrasse), Gstaad",
+        "Date: 2025-02-14/2025-02-16",
+        "Opening reception: 2025-02-13"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14–​16 February 2025</p><pre><code>Opening: 13 February 2025</code></pre>",
       "location": {
@@ -809,7 +826,7 @@
       "workflowState": 1,
       "publishOn": 1738844400937,
       "addedOn": 1738844400937,
-      "updatedOn": 1771583282867
+      "updatedOn": 1790177611487
     },
     {
       "id": "678e2597e78330403dda06a9",
@@ -830,7 +847,9 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2025",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2025-01-29/2025-03-15",
+        "Opening reception: 2025-01-28T18:00/2025-01-28T20:30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29 January–15 March 2025</p><pre><code>Opening Reception: Tuesday, January 28, 6–8:30pm</code></pre>",
       "location": {
@@ -848,7 +867,7 @@
       "workflowState": 1,
       "publishOn": 1737903540226,
       "addedOn": 1737903540226,
-      "updatedOn": 1771583282167
+      "updatedOn": 1790177628164
     },
     {
       "id": "67935f5923a12272e9d54e9f",
@@ -877,7 +896,9 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: Booth C32, Palexpo, Geneva"
+        "Location: Booth C32, Palexpo, Geneva",
+        "Date: 2025-01-30/2025-02-02",
+        "Opening reception: 2025-01-29"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 January–2 February 2025</p><pre><code>Opening: 29 January 2025</code></pre>",
       "location": {
@@ -895,7 +916,7 @@
       "workflowState": 1,
       "publishOn": 1737713316850,
       "addedOn": 1737713316850,
-      "updatedOn": 1771583281940
+      "updatedOn": 1790177645949
     },
     {
       "id": "674747a9947fdc1788449f12",
@@ -967,7 +988,9 @@
         "Year: 2024",
         "Status: Past Exhibition",
         "Exhibition: Group Show",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2024-12-05/2025-02-15",
+        "Opening reception: 2024-12-04T18:00/2024-12-04T20:30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5 December–15 February 2025</p><pre><code>Opening: Wednesday 04 December, 6–8:30&nbsp;pm</code></pre>",
       "location": {
@@ -985,7 +1008,7 @@
       "workflowState": 1,
       "publishOn": 1732801380909,
       "addedOn": 1732801380909,
-      "updatedOn": 1771583281998
+      "updatedOn": 1790177675403
     },
     {
       "id": "66c8a2f49481b661e241f60e",
@@ -1006,7 +1029,9 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2024-09-20/2024-11-09",
+        "Opening reception: 2024-09-19T18:00/2024-09-19T20:30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">20 September–9 November 2024</p><pre><code>Opening Reception: Wednesday, September 19, 6–8:30pm</code></pre>",
       "location": {
@@ -1024,7 +1049,7 @@
       "workflowState": 1,
       "publishOn": 1724338500937,
       "addedOn": 1724338500937,
-      "updatedOn": 1771583281765
+      "updatedOn": 1790177736317
     },
     {
       "id": "6717a57f0e00c021fd01b7b7",
@@ -1052,7 +1077,8 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
-        "Location: Booth Yellow 16, Lingotto Fiere, Torino"
+        "Location: Booth Yellow 16, Lingotto Fiere, Torino",
+        "Date: 2024-11-01/2024-11-03"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1 November–3 November 2024</p>",
       "location": {
@@ -1070,7 +1096,7 @@
       "workflowState": 1,
       "publishOn": 1724159700367,
       "addedOn": 1724159700367,
-      "updatedOn": 1771583282918
+      "updatedOn": 1790177758446
     },
     {
       "id": "66c8a771173d5100b7fb0403",
@@ -1091,7 +1117,10 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2024-09-20/2024-11-09",
+        "Extended until: 2024-11-22",
+        "Opening reception: 2024-09-19T18:00/2024-09-19T20:30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">20 September–9 November 2024</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition extended until 22 November</p><pre><code>Opening Reception: Wednesday, September 19, 6–8:30pm</code></pre>",
       "location": {
@@ -1109,7 +1138,7 @@
       "workflowState": 1,
       "publishOn": 1723994040370,
       "addedOn": 1723994040370,
-      "updatedOn": 1771583282053
+      "updatedOn": 1790177780952
     },
     {
       "id": "667abce1d8d9e42213175150",
@@ -1132,7 +1161,8 @@
         "Location: Booth E2, Grimaldi forum, Monaco",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2024"
+        "Year: 2024",
+        "Date: 2024-07-06/2024-07-07"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">6–7 July 2024</p>",
       "location": {
@@ -1150,7 +1180,7 @@
       "workflowState": 1,
       "publishOn": 1719668820201,
       "addedOn": 1719668820201,
-      "updatedOn": 1771583282791
+      "updatedOn": 1790177808739
     },
     {
       "id": "666c2e6a8d728b0efc1e5a71",
@@ -1171,7 +1201,10 @@
         "Status: Past Exhibition",
         "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Exhibition: Solo Show",
-        "Year: 2024"
+        "Year: 2024",
+        "Date: 2024-06-06/2024-07-20",
+        "Extended until: 2024-09-12",
+        "Opening reception: 2024-06-05T18:00/2024-06-05T20:30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">6 June–20 July 2024</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition extended until September 12, 2024</p><pre><code>Opening Reception: Wednesday, June&nbsp;5, 6–8:30pm</code></pre>",
       "location": {
@@ -1189,7 +1222,7 @@
       "workflowState": 1,
       "publishOn": 1718366071517,
       "addedOn": 1718366071517,
-      "updatedOn": 1771583282504
+      "updatedOn": 1790177830002
     },
     {
       "id": "65fac2efc8ac9652e90779da",
