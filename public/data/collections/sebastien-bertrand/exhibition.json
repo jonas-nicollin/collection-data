@@ -5,14 +5,14 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-23T12:05:11.734Z",
-  "sourceHash": "a88b4b98adae447cc30af4e936c227a4c54b84d102c1b620c24457d53dcfda64",
+  "updatedAt": "2026-09-23T12:24:59.686Z",
+  "sourceHash": "a8b26439eb0117779fae99cb4b0fe2c9c18084e1e9f9de60590161e027734858",
   "count": 106,
   "pages": 1,
   "items": [
     {
       "id": "6ab3bc5cd07af854f4ae2f6f",
-      "title": "Fruta y Media Tarde  (Copy)",
+      "title": "Fruta y Media Tarde (Test Jonas en cours)",
       "fullUrl": "/exhibition/solo-show/natalia-gonzalez-martin-fruta-y-media-tarde-wepxp",
       "sourceUrl": "",
       "urlId": "solo-show/natalia-gonzalez-martin-fruta-y-media-tarde-wepxp",
@@ -48,7 +48,7 @@
       "workflowState": 1,
       "publishOn": 1790164060088,
       "addedOn": 1790164060088,
-      "updatedOn": 1790164143037
+      "updatedOn": 1790166220585
     },
     {
       "id": "6aa0388f8f42385764242634",
