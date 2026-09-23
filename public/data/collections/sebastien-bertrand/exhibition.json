@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-23T16:17:31.134Z",
-  "sourceHash": "c4015abeccff71bc4a971a2668775bc85039f7d9ae25ecdaac4c7d57af2035a7",
+  "updatedAt": "2026-09-23T17:08:12.984Z",
+  "sourceHash": "9ef14d8037b2d346d7631457ec0b6a162f3c651c9239cc6cbf7b16c2a1f8ce77",
   "count": 106,
   "pages": 1,
   "items": [
@@ -70,7 +70,8 @@
         "Exhibition : Solo Show",
         "Status: On View",
         "Location:  158 rue du General Leclerc,77780 Bourron-Marlotte, France",
-        "Opening reception: 2026-09-12"
+        "Opening reception: 2026-09-12",
+        "Date: 2026-09-12/2026-12-12"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening Saturday 12, September 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -88,7 +89,7 @@
       "workflowState": 1,
       "publishOn": 1788886249921,
       "addedOn": 1788886249921,
-      "updatedOn": 1790179623827
+      "updatedOn": 1790182990515
     },
     {
       "id": "6a18069ca7b1a53def6c320c",
