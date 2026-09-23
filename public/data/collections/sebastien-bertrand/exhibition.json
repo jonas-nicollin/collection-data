@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-23T13:57:35.956Z",
-  "sourceHash": "aacb19776300a9def32aa31b2ab81cb6f4639b55ce3a630d1185b82f88e0519c",
+  "updatedAt": "2026-09-23T14:57:35.050Z",
+  "sourceHash": "22c63e7461df0ef7235561c9e437f0c630746672eea9400a05815dca281681fd",
   "count": 106,
   "pages": 1,
   "items": [
@@ -3920,7 +3920,9 @@
       "tags": [
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
-        "Year: 2016"
+        "Year: 2016",
+        "Date: 2016-09-30/2016-12-17",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 September–17 December 2016</p>",
       "location": {
@@ -3938,7 +3940,7 @@
       "workflowState": 1,
       "publishOn": 1475227800716,
       "addedOn": 1475227800716,
-      "updatedOn": 1771583281855
+      "updatedOn": 1790175228395
     },
     {
       "id": "62611ec77448c115a4a319da",
@@ -3957,7 +3959,8 @@
         "Status: Past Exhibition",
         "Exhibition: Group Show",
         "Year: 2016",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2016-06-10/2016-07-09"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">10 June–9 July 2016</p>",
       "location": {
@@ -3975,7 +3978,7 @@
       "workflowState": 1,
       "publishOn": 1465549620834,
       "addedOn": 1465549620834,
-      "updatedOn": 1771583282338
+      "updatedOn": 1790175206802
     },
     {
       "id": "6266c05583150d693796535e",
@@ -3999,7 +4002,8 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2016",
-        "Location: Booth 4.02, Basketball City, New York"
+        "Location: Booth 4.02, Basketball City, New York",
+        "Date: 2016-05-05/2016-05-08"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5–8 May 2016</p>",
       "location": {
@@ -4017,7 +4021,7 @@
       "workflowState": 1,
       "publishOn": 1462462620549,
       "addedOn": 1462462620549,
-      "updatedOn": 1771583282651
+      "updatedOn": 1790175190061
     },
     {
       "id": "6267cb9b255c0c739ce80b4f",
@@ -4040,7 +4044,8 @@
         "Location: Booth C9, Grimaldi Forum, Monaco",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2016"
+        "Year: 2016",
+        "Date: 2016-04-30/2016-05-01"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 April–1 May 2016</p>",
       "location": {
@@ -4058,7 +4063,7 @@
       "workflowState": 1,
       "publishOn": 1462012680127,
       "addedOn": 1462012680127,
-      "updatedOn": 1771583282684
+      "updatedOn": 1790175096284
     },
     {
       "id": "62611b1ecb4ce2169125eabb",
@@ -4079,7 +4084,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2016",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2016-04-22/2016-07-02"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">22 April–2 July 2016</p>",
       "location": {
@@ -4097,7 +4103,7 @@
       "workflowState": 1,
       "publishOn": 1461315060591,
       "addedOn": 1461315060591,
-      "updatedOn": 1771583282012
+      "updatedOn": 1790175086434
     },
     {
       "id": "6260339f6117d017a84eca6f",
@@ -4118,7 +4124,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2016",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2016-03-11/2016-04-16"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">11 March–16 April 2016</p>",
       "location": {
@@ -4136,7 +4143,7 @@
       "workflowState": 1,
       "publishOn": 1457716980582,
       "addedOn": 1457716980582,
-      "updatedOn": 1771583283051
+      "updatedOn": 1790175062788
     },
     {
       "id": "6267cdc0ef7e471b2b34d6c8",
@@ -4160,7 +4167,8 @@
       "tags": [
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2016"
+        "Year: 2016",
+        "Date: 2016-01-28/2016-01-31"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28–31 January 2016</p>",
       "location": {
@@ -4178,7 +4186,7 @@
       "workflowState": 1,
       "publishOn": 1453981620458,
       "addedOn": 1453981620458,
-      "updatedOn": 1771583282623
+      "updatedOn": 1790175021306
     },
     {
       "id": "6260376b92a7e72a05b8daad",
@@ -4198,7 +4206,9 @@
       "tags": [
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
-        "Year: 2015"
+        "Year: 2015",
+        "Date: 2015-11-06/2016-02-20",
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">6 November–20 February 2016</p>",
       "location": {
@@ -4216,7 +4226,7 @@
       "workflowState": 1,
       "publishOn": 1446831600325,
       "addedOn": 1446831600325,
-      "updatedOn": 1771583282763
+      "updatedOn": 1790174987103
     },
     {
       "id": "626030dde55bbd1d8ef9ba26",
@@ -4237,7 +4247,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2015-09-26/2015-10-28"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26 September–28 October 2015</p>",
       "location": {
@@ -4255,7 +4266,7 @@
       "workflowState": 1,
       "publishOn": 1443283920273,
       "addedOn": 1443283920273,
-      "updatedOn": 1771583282257
+      "updatedOn": 1790174955511
     },
     {
       "id": "620f83c67cfc0e3d7527b31b",
@@ -4276,7 +4287,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2015-06-05/2015-07-04"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5 June–4 July 2015</p>",
       "location": {
@@ -4294,7 +4306,7 @@
       "workflowState": 1,
       "publishOn": 1433498400356,
       "addedOn": 1433498400356,
-      "updatedOn": 1771583282287
+      "updatedOn": 1790174940627
     },
     {
       "id": "62602d4410520b6cb428a084",
@@ -4315,7 +4327,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2015-03-27/2015-04-30"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">27 March–30 April 2015</p>",
       "location": {
@@ -4333,7 +4346,7 @@
       "workflowState": 1,
       "publishOn": 1427475360789,
       "addedOn": 1427475360789,
-      "updatedOn": 1771583281691
+      "updatedOn": 1790174917775
     },
     {
       "id": "62680d3612f47618de17d94a",
@@ -4360,7 +4373,8 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2015",
-        "Location: Booth B28, Palexpo, Geneva"
+        "Location: Booth B28, Palexpo, Geneva",
+        "Date: 2015-01-29/2015-02-01"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29 January–1 February 2015</p>",
       "location": {
@@ -4378,7 +4392,7 @@
       "workflowState": 1,
       "publishOn": 1422548280369,
       "addedOn": 1422548280369,
-      "updatedOn": 1771583281734
+      "updatedOn": 1790174899103
     }
   ]
 }
