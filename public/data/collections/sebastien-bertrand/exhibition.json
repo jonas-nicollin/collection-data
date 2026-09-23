@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-23T15:48:18.021Z",
-  "sourceHash": "272cefdfc112fe56c6be65393b342abaae52e47ca994a09fe481cca8cfd0fe14",
+  "updatedAt": "2026-09-23T15:57:32.492Z",
+  "sourceHash": "ccc8c42025b8a1361a261cef850ad012002039c5f9baf3e4f0301e7756492a93",
   "count": 106,
   "pages": 1,
   "items": [
@@ -1370,7 +1370,8 @@
         "Location: Festival-Zelt, Gstaad",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2024"
+        "Year: 2024",
+        "Date: 2024-02-17/2024-02-18"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">17 &amp; ​18 February 2024</p>",
       "location": {
@@ -1388,7 +1389,7 @@
       "workflowState": 1,
       "publishOn": 1708531168850,
       "addedOn": 1708531168850,
-      "updatedOn": 1771583281749
+      "updatedOn": 1790178594740
     },
     {
       "id": "6621021c52fba754cfc5d2f2",
@@ -1406,7 +1407,8 @@
         "Location: Booth 5C-11, Halls 5 & 6, Brussels Expo",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2024"
+        "Year: 2024",
+        "Date: 2024-04-26/2024-04-28"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26–28 April 2024</p>",
       "location": {
@@ -1424,7 +1426,7 @@
       "workflowState": 1,
       "publishOn": 1704457260734,
       "addedOn": 1704457260734,
-      "updatedOn": 1778681197634
+      "updatedOn": 1790178629520
     },
     {
       "id": "654cd05c9f79e02413a291a9",
@@ -1446,7 +1448,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2023",
-        "Year: 2024"
+        "Year: 2024",
+        "Date: 2023-11-24/2024-01-27"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">24 November 2023–27 January 2024</p>",
       "location": {
@@ -1464,7 +1467,7 @@
       "workflowState": 1,
       "publishOn": 1700152287171,
       "addedOn": 1700152287171,
-      "updatedOn": 1771583281674
+      "updatedOn": 1790178643116
     },
     {
       "id": "659d506fad35084ded78e89e",
@@ -1494,7 +1497,8 @@
         "Location: Booth C32, Palexpo, Geneva",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2024"
+        "Year: 2024",
+        "Date: 2024-01-25/2024-01-28"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25–28 January 2024</p>",
       "location": {
@@ -1512,7 +1516,7 @@
       "workflowState": 1,
       "publishOn": 1698920820494,
       "addedOn": 1698920820494,
-      "updatedOn": 1778681421212
+      "updatedOn": 1790178671420
     },
     {
       "id": "64f5f88480b09834aec17a0d",
@@ -1533,7 +1537,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2023",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2023-09-22/2023-11-11"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">22 September–11 November 2023</p>",
       "location": {
@@ -1551,7 +1556,7 @@
       "workflowState": 1,
       "publishOn": 1693841540103,
       "addedOn": 1693841540103,
-      "updatedOn": 1771583282040
+      "updatedOn": 1790178686646
     },
     {
       "id": "652e8b941215b30c484a92b2",
@@ -1573,7 +1578,8 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
-        "Location: Booth Pink A9, Lingotto Fiere, Turin"
+        "Location: Booth Pink A9, Lingotto Fiere, Turin",
+        "Date: 2023-11-03/2023-11-05"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3–5 November 2023</p>",
       "location": {
@@ -1591,7 +1597,7 @@
       "workflowState": 1,
       "publishOn": 1693575180290,
       "addedOn": 1693575180290,
-      "updatedOn": 1778681229760
+      "updatedOn": 1790178699286
     },
     {
       "id": "649d44745df0621342a08642",
@@ -1616,7 +1622,8 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
-        "Location: Booth 09, Grimaldi forum, Monaco"
+        "Location: Booth 09, Grimaldi forum, Monaco",
+        "Date: 2023-07-07/2023-07-09"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">7–9 July 2023</p>",
       "location": {
@@ -1634,7 +1641,7 @@
       "workflowState": 1,
       "publishOn": 1688041800955,
       "addedOn": 1688041800955,
-      "updatedOn": 1771583282834
+      "updatedOn": 1790178719983
     },
     {
       "id": "6470b6c055fbca22d3ffc23d",
@@ -1655,7 +1662,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2023",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2023-06-23/2023-08-19"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">23 June–19 August 2023</p>",
       "location": {
@@ -1673,7 +1681,7 @@
       "workflowState": 1,
       "publishOn": 1687527600388,
       "addedOn": 1687527600388,
-      "updatedOn": 1771583281779
+      "updatedOn": 1790178744790
     },
     {
       "id": "646e3275fd93bf1fd7d6ae5c",
@@ -1694,7 +1702,8 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
-        "Location: Franck Areal, Horburgstrasse 105, 4057 Basel, Switzerland"
+        "Location: Franck Areal, Horburgstrasse 105, 4057 Basel, Switzerland",
+        "Date: 2023-06-11/2023-06-18"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">11–18 June 2023</p>",
       "location": {
@@ -1712,11 +1721,11 @@
       "workflowState": 1,
       "publishOn": 1686412260639,
       "addedOn": 1686412260639,
-      "updatedOn": 1771583282452
+      "updatedOn": 1790178761986
     },
     {
       "id": "6426b05d3eed775ba2d9d8a8",
-      "title": "Miart ",
+      "title": "Miart 2023",
       "fullUrl": "/exhibition/fair/miart-2023",
       "sourceUrl": "",
       "urlId": "fair/miart-2023",
@@ -1733,7 +1742,9 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
-        "Location: Booth E20, Fieramilano_city, Milan"
+        "Location: Booth E20, Fieramilano_city, Milan",
+        "Date: 2023-04-14/2023-04-16",
+        "Opening reception: 2023-04-13T11:00/2023-04-13T20:00"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14–16 April 2023</p><pre><code>Opening Reception: Thursday, April 13, 11–8pm</code></pre>",
       "location": {
@@ -1751,7 +1762,7 @@
       "workflowState": 1,
       "publishOn": 1680760800335,
       "addedOn": 1680760800335,
-      "updatedOn": 1771583282271
+      "updatedOn": 1790178832451
     },
     {
       "id": "63eceff3e508db0592760c7d",
@@ -1772,7 +1783,9 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2023",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2023-03-03/2023-05-27",
+        "Opening reception: 2023-03-02T18:00/2023-03-02T20:30"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3 March–27 May 2023</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition extended</p><pre><code>Opening Reception: Thursday, March&nbsp;2, 6–8:30pm</code></pre>",
       "location": {
@@ -1790,7 +1803,7 @@
       "workflowState": 1,
       "publishOn": 1677163003172,
       "addedOn": 1677163003172,
-      "updatedOn": 1771583282301
+      "updatedOn": 1790178865649
     },
     {
       "id": "63ee047bc0f28b79f30b4c83",
@@ -1813,7 +1826,8 @@
         "Location: Booth 5E-39, Halls 5 & 6, Brussels Expo",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2023"
+        "Year: 2023",
+        "Date: 2023-04-20/2023-04-23"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">20–23 April 2023</p>",
       "location": {
@@ -1831,7 +1845,7 @@
       "workflowState": 1,
       "publishOn": 1675321200263,
       "addedOn": 1675321200263,
-      "updatedOn": 1771583282777
+      "updatedOn": 1790178951802
     },
     {
       "id": "63bd358cfc2f1c7eff9fbd66",
@@ -1861,7 +1875,8 @@
         "Location: Booth C32, Palexpo, Geneva",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2023"
+        "Year: 2023",
+        "Date: 2023-01-26/2023-01-29"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 26–29 January 2023</p>",
       "location": {
@@ -1879,7 +1894,7 @@
       "workflowState": 1,
       "publishOn": 1673956172007,
       "addedOn": 1673956172007,
-      "updatedOn": 1771583281868
+      "updatedOn": 1790178968202
     },
     {
       "id": "6388be0ab4c62330478bc5ba",
@@ -1904,7 +1919,8 @@
         "Location: Booth B24, Antwerp Expo",
         "Year: 2022",
         "Status: Past Exhibition",
-        "Exhibition: Fair"
+        "Exhibition: Fair",
+        "Date: 2022-12-15/2022-12-18"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15–18 December 2022</p>",
       "location": {
@@ -1922,7 +1938,7 @@
       "workflowState": 1,
       "publishOn": 1670517787546,
       "addedOn": 1670517787546,
-      "updatedOn": 1771583282469
+      "updatedOn": 1790178986169
     },
     {
       "id": "636bbe382fbf76096e2230dd",
@@ -1944,7 +1960,9 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2022",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2022-11-25/2023-02-04",
+        "Opening reception: 2022-11-24T18:00/2022-11-24T20:30"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25 November 2022–4 February 2023</p><pre><code>Opening Reception: Thursday, November 24, 6–8:30pm</code></pre>",
       "location": {
@@ -1962,7 +1980,7 @@
       "workflowState": 1,
       "publishOn": 1668598928020,
       "addedOn": 1668598928020,
-      "updatedOn": 1771583282608
+      "updatedOn": 1790179002976
     },
     {
       "id": "632da8947fcb12149e064e91",
@@ -1984,7 +2002,8 @@
         "Location: Booth Fuxia 9, Lingotto Fiere, Turin",
         "Status: Past Exhibition",
         "Exhibition: Fair",
-        "Year: 2022"
+        "Year: 2022",
+        "Date: 2022-11-04/2022-11-06"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4–6 November 2022</p>",
       "location": {
@@ -2002,7 +2021,7 @@
       "workflowState": 1,
       "publishOn": 1663936660147,
       "addedOn": 1663936660147,
-      "updatedOn": 1771583281883
+      "updatedOn": 1790179020820
     },
     {
       "id": "62fcc0fd6fd02c7c0c08de26",
@@ -2023,7 +2042,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2022",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland"
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Date: 2022-09-15/2022-11-05"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15 September–5 November 2022</p><pre><code>Opening Reception: Thursday, September 15, 6–8:30pm</code></pre>",
       "location": {
@@ -2041,7 +2061,7 @@
       "workflowState": 1,
       "publishOn": 1660731645900,
       "addedOn": 1660731645900,
-      "updatedOn": 1771583281705
+      "updatedOn": 1790179033414
     },
     {
       "id": "6290a2b4cb907b792cb8d7c6",
