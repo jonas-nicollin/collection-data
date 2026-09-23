@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-23T16:07:45.880Z",
-  "sourceHash": "6e14e2095f596dec6679a2d8f3faaa0437c87457a58b9db16874cd492f37c265",
+  "updatedAt": "2026-09-23T16:17:31.134Z",
+  "sourceHash": "c4015abeccff71bc4a971a2668775bc85039f7d9ae25ecdaac4c7d57af2035a7",
   "count": 106,
   "pages": 1,
   "items": [
@@ -236,7 +236,9 @@
         "Exhibition: Fair",
         "Year: 2026",
         "Location: Miart Booth B07 Allianz MiCo, Milan",
-        "Status: Past Exhibition"
+        "Status: Past Exhibition",
+        "Date: 2026-04-17/2026-04-19",
+        "Opening reception: 2026-04-16T11:00/2026-04-16T21:00"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">17 – 19 April 2026</p><pre><code>Opening Reception: Thursday, April 16, 11–9pm</code></pre>",
       "location": {
@@ -254,7 +256,7 @@
       "workflowState": 1,
       "publishOn": 1775739310433,
       "addedOn": 1775739310433,
-      "updatedOn": 1779959452471
+      "updatedOn": 1790179647516
     },
     {
       "id": "698f3167afad080000de8eee",
@@ -281,7 +283,9 @@
         "Exhibition: Fair",
         "Location: Festival‑Zelt (Sportzentrumstrasse), Gstaad",
         "Year: 2026",
-        "Status: Past Exhibition"
+        "Status: Past Exhibition",
+        "Date: 2026-02-19/2026-02-22",
+        "Opening reception: 2026-02-19"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">19–​22 February 2026</p><pre><code>Opening: 19 February 2026</code></pre>",
       "location": {
@@ -299,7 +303,7 @@
       "workflowState": 1,
       "publishOn": 1771498855376,
       "addedOn": 1771498855376,
-      "updatedOn": 1772724930556
+      "updatedOn": 1790179668785
     },
     {
       "id": "69722aa2a433a8238de8883b",
