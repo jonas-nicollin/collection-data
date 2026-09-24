@@ -5,8 +5,8 @@
   "id": "all-artists",
   "path": "/all-artists",
   "sourceUrl": "https://sebastienbertrand.com/all-artists?format=json",
-  "updatedAt": "2026-09-24T11:47:39.215Z",
-  "sourceHash": "d90f8acedcba044f5e8e75dc204b0c986f823e823662ef7fd0f6b93aa7064c17",
+  "updatedAt": "2026-09-24T11:57:39.861Z",
+  "sourceHash": "587441ffba64c6296779c52090795d291c41833643a334781ecec2c6aefb1e14",
   "count": 24,
   "pages": 1,
   "items": [
@@ -63,7 +63,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Todd Bienvenu"
+        "Todd Bienvenu",
+        "Last name: Bienvenu"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-small\" data-rte-preserve-empty=\"true\">Born in 1980 in Little Rock, Arkansas.</p><p style=\"white-space:pre-wrap;\" class=\"sqsrte-small\" data-rte-preserve-empty=\"true\">Lives and works in New York, USA.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Todd Bienvenu’s thick oil and acrylic paintings are expressive, resplendent and uninhibited, driven by&nbsp;strong color and spontaneous movement. He&nbsp;applies paint directly as&nbsp;forms and subjects emerge through addition and subtraction. Burlesque scenes – parties, beaches, sex, alcohol – carry an&nbsp;underlying melancholy, touching on&nbsp;time, solitude, and the body’s vulnerability.</p>",
       "location": {
@@ -81,7 +82,7 @@
       "workflowState": 1,
       "publishOn": 1698836400661,
       "addedOn": 1698836400661,
-      "updatedOn": 1767004779560
+      "updatedOn": 1790250565547
     },
     {
       "id": "649db3be412ef771c101fcbd",
@@ -358,7 +359,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Richard Kern"
+        "Richard Kern",
+        "Last name: Kern"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1954, Roanoke Rapids, North Carolina.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives in New York, USA.</p>",
       "location": {
@@ -376,7 +378,7 @@
       "workflowState": 1,
       "publishOn": 1686823200857,
       "addedOn": 1686823200857,
-      "updatedOn": 1733911297488
+      "updatedOn": 1790250479794
     },
     {
       "id": "652e5764a410004b14b74e32",
@@ -394,7 +396,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Sang Woo Kim"
+        "Sang Woo Kim",
+        "Last name: Kim"
       ],
       "excerpt": "",
       "location": {
@@ -412,7 +415,7 @@
       "workflowState": 1,
       "publishOn": 1686735840928,
       "addedOn": 1686735840928,
-      "updatedOn": 1767800234216
+      "updatedOn": 1790250506747
     },
     {
       "id": "6255872d0ad2c73bdae5b1bd",
@@ -430,7 +433,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Tali Lennox"
+        "Tali Lennox",
+        "Last name: Lennox"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1993, London, UK.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
       "location": {
@@ -448,7 +452,7 @@
       "workflowState": 1,
       "publishOn": 1685613600086,
       "addedOn": 1685613600086,
-      "updatedOn": 1750861512332
+      "updatedOn": 1790250547713
     },
     {
       "id": "61f26b2bed297a0323b7c516",
@@ -613,7 +617,10 @@
       "categories": [
         "Collaboration"
       ],
-      "tags": [],
+      "tags": [
+        "Last name: Tharp",
+        "Storm Tharp"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -630,7 +637,7 @@
       "workflowState": 1,
       "publishOn": 1677675600048,
       "addedOn": 1677675600048,
-      "updatedOn": 1728744829525
+      "updatedOn": 1790250527532
     },
     {
       "id": "61f26b418e8c5e12cd95c8ae",
@@ -648,7 +655,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Walter Robinson"
+        "Walter Robinson",
+        "Last name: Robinson"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1950, Wilmington, Delaware.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
       "location": {
@@ -666,7 +674,7 @@
       "workflowState": 1,
       "publishOn": 1677668400512,
       "addedOn": 1677668400512,
-      "updatedOn": 1733911340696
+      "updatedOn": 1790250582829
     },
     {
       "id": "61f2c933a33caf6d241d7412",
@@ -758,7 +766,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Yarisal & Kublitz"
+        "Yarisal & Kublitz",
+        "Last name: Yarisal & Kublitz"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Ronnie Yarisal, born in 1981, Geneva, Switzerland.</p><p class=\"\" style=\"white-space:pre-wrap;\">Katja Kublitz, born in 1978, Copenhagen, Denmark.</p><p class=\"\" style=\"white-space:pre-wrap;\">Live and work in Berlin, Germany.</p>",
       "location": {
@@ -776,7 +785,7 @@
       "workflowState": 1,
       "publishOn": 1665828000021,
       "addedOn": 1665828000021,
-      "updatedOn": 1733911401993
+      "updatedOn": 1790250591090
     },
     {
       "id": "62b48f453e6e327ea48c42f9",
@@ -794,7 +803,8 @@
         "Collaboration"
       ],
       "tags": [
-        "Jeff Perkins"
+        "Jeff Perkins",
+        "Last name: Young"
       ],
       "excerpt": "",
       "location": {
@@ -812,7 +822,7 @@
       "workflowState": 1,
       "publishOn": 1664640300474,
       "addedOn": 1664640300474,
-      "updatedOn": 1728745120515
+      "updatedOn": 1790250464604
     },
     {
       "id": "63ebc811cb4d98641b338da6",
