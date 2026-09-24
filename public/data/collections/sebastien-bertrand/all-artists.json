@@ -5,8 +5,8 @@
   "id": "all-artists",
   "path": "/all-artists",
   "sourceUrl": "https://sebastienbertrand.com/all-artists?format=json",
-  "updatedAt": "2026-09-22T06:37:33.829Z",
-  "sourceHash": "33c17f0f23338fd3c9b398bfcc69875af5aa6f72c87c405b1053c9055c154f9f",
+  "updatedAt": "2026-09-24T11:47:39.215Z",
+  "sourceHash": "d90f8acedcba044f5e8e75dc204b0c986f823e823662ef7fd0f6b93aa7064c17",
   "count": 24,
   "pages": 1,
   "items": [
@@ -26,7 +26,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Joe Andoe"
+        "Joe Andoe",
+        "Last name: Andoe"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1955, Tulsa, Oklahoma.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
       "location": {
@@ -44,7 +45,7 @@
       "workflowState": 1,
       "publishOn": 1704057960977,
       "addedOn": 1704057960977,
-      "updatedOn": 1758014616697
+      "updatedOn": 1790250284189
     },
     {
       "id": "61f26b9777b790472ed0bc86",
@@ -97,7 +98,10 @@
       "categories": [
         "Represented Artist"
       ],
-      "tags": [],
+      "tags": [
+        "Last name: Han-Chiao",
+        "Han-Chiao"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -114,7 +118,7 @@
       "workflowState": 1,
       "publishOn": 1696178340361,
       "addedOn": 1696178340361,
-      "updatedOn": 1733911232403
+      "updatedOn": 1790250237346
     },
     {
       "id": "61f2c9586ea4c618300c07c3",
@@ -132,7 +136,8 @@
         "Collaboration"
       ],
       "tags": [
-        "Jonathan Edelhuber"
+        "Jonathan Edelhuber",
+        "Last name: Edelhuber"
       ],
       "excerpt": "",
       "location": {
@@ -150,7 +155,7 @@
       "workflowState": 1,
       "publishOn": 1693665000252,
       "addedOn": 1693665000252,
-      "updatedOn": 1728743882218
+      "updatedOn": 1790250295925
     },
     {
       "id": "68c939dd25f21441308c2533",
@@ -168,7 +173,8 @@
         "Collaboration"
       ],
       "tags": [
-        "Mathis Gasser"
+        "Mathis Gasser",
+        "Last name: Gasser"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Born in 1984 in Zurich, Switzerland.</p><p class=\"p3\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lives and works in London, UK&nbsp;</p>",
       "location": {
@@ -186,7 +192,7 @@
       "workflowState": 1,
       "publishOn": 1693650000184,
       "addedOn": 1693650000184,
-      "updatedOn": 1758035656759
+      "updatedOn": 1790250361857
     },
     {
       "id": "61f26b826f12bb377bddfb45",
@@ -204,7 +210,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Natalia Gonzalez Martin"
+        "Last name: González Martín",
+        "Natalia González Martín"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1995, Madrid, Spain.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in London, UK.</p>",
       "location": {
@@ -222,7 +229,7 @@
       "workflowState": 1,
       "publishOn": 1690970400856,
       "addedOn": 1690970400856,
-      "updatedOn": 1733911243569
+      "updatedOn": 1790250444901
     },
     {
       "id": "61f26b698069395c6a75147e",
@@ -240,7 +247,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Michael Hilsman"
+        "Michael Hilsman",
+        "Last name: Hilsman"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1984, Los Angeles, California.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in Pasadena, CA, USA.</p>",
       "location": {
@@ -258,7 +266,7 @@
       "workflowState": 1,
       "publishOn": 1688205600876,
       "addedOn": 1688205600876,
-      "updatedOn": 1733911263152
+      "updatedOn": 1790250403134
     },
     {
       "id": "68c92cb7aa70842637278dc4",
@@ -276,7 +284,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Isaac Soh Fujita Howell"
+        "Isaac Soh Fujita Howell",
+        "Last name: Howell"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&nbsp;Born in 1993 in Princeton, NJ.&nbsp;</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lives and works in Brooklyn, NY.&nbsp;</p><p class=\"p1\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -294,7 +303,7 @@
       "workflowState": 1,
       "publishOn": 1688203440775,
       "addedOn": 1688203440775,
-      "updatedOn": 1758015700097
+      "updatedOn": 1790250271694
     },
     {
       "id": "61f26b59962a8f0bd2f990c1",
@@ -312,7 +321,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Alexander Kosolapov"
+        "Alexander Kosolapov",
+        "Last name: Kosolapov"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1943, Moscow, Russia.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
       "location": {
@@ -330,7 +340,7 @@
       "workflowState": 1,
       "publishOn": 1687946400959,
       "addedOn": 1687946400959,
-      "updatedOn": 1733911284051
+      "updatedOn": 1790250169839
     },
     {
       "id": "61f26b1893406d0903acfdaf",
@@ -456,7 +466,8 @@
         "Collaboration"
       ],
       "tags": [
-        "Mustafa Maluka"
+        "Mustafa Maluka",
+        "Last name: Maluka"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1976, Cape Town, South Africa.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in Turku, Finland.</p>",
       "location": {
@@ -474,7 +485,7 @@
       "workflowState": 1,
       "publishOn": 1683034500352,
       "addedOn": 1683034500352,
-      "updatedOn": 1728744308870
+      "updatedOn": 1790250421992
     },
     {
       "id": "6290dd173521d321dfacd303",
@@ -491,7 +502,10 @@
       "categories": [
         "Collaboration"
       ],
-      "tags": [],
+      "tags": [
+        "Last name: Maslansky",
+        "Max Maslansky"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -508,7 +522,7 @@
       "workflowState": 1,
       "publishOn": 1682948700779,
       "addedOn": 1682948700779,
-      "updatedOn": 1728744269102
+      "updatedOn": 1790250379874
     },
     {
       "id": "61f26a0293bd8b2283490f7b",
@@ -526,7 +540,8 @@
         "Collaboration"
       ],
       "tags": [
-        "Aks Misyuta"
+        "Aks Misyuta",
+        "Last name: Misyuta"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1984, Bryansk, Russia.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in Istanbul, Turkey.</p>",
       "location": {
@@ -544,7 +559,7 @@
       "workflowState": 1,
       "publishOn": 1682935200835,
       "addedOn": 1682935200835,
-      "updatedOn": 1728744460072
+      "updatedOn": 1790250153947
     },
     {
       "id": "61f26b057ed7336e3d7e2cf0",
@@ -562,7 +577,8 @@
         "Collaboration"
       ],
       "tags": [
-        "Lydia Pettit"
+        "Lydia Pettit",
+        "Last name: Pettit"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1991, Towson, Maryland.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in London, UK.</p>",
       "location": {
@@ -580,7 +596,7 @@
       "workflowState": 1,
       "publishOn": 1682762400521,
       "addedOn": 1682762400521,
-      "updatedOn": 1728744399014
+      "updatedOn": 1790250349041
     },
     {
       "id": "61f2c9a3625bb879d7a194c2",
@@ -668,7 +684,8 @@
         "Collaboration"
       ],
       "tags": [
-        "Hannah Rowan"
+        "Hannah Rowan",
+        "Last name: Rowan"
       ],
       "excerpt": "",
       "location": {
@@ -686,7 +703,7 @@
       "workflowState": 1,
       "publishOn": 1675269000314,
       "addedOn": 1675269000314,
-      "updatedOn": 1728745005459
+      "updatedOn": 1790250253475
     },
     {
       "id": "61f1389f4d7bc663be383030",
@@ -704,7 +721,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Chloe Wise"
+        "Chloe Wise",
+        "Last name: Wise"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1990, Montreal, Canada.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
       "location": {
@@ -722,7 +740,7 @@
       "workflowState": 1,
       "publishOn": 1669892400561,
       "addedOn": 1669892400561,
-      "updatedOn": 1733911360872
+      "updatedOn": 1790250207069
     },
     {
       "id": "61f26ba7db6f2b3d506eb027",
@@ -812,7 +830,8 @@
         "Represented Artist"
       ],
       "tags": [
-        "Lian Zhang"
+        "Lian Zhang",
+        "Last name: Zhang"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born 1984, Hangzhou, China.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in London.</p>",
       "location": {
@@ -830,7 +849,7 @@
       "workflowState": 1,
       "publishOn": 1643282580042,
       "addedOn": 1643282580042,
-      "updatedOn": 1758014647547
+      "updatedOn": 1790250327299
     },
     {
       "id": "61f2c914f4b0dc4454d7f0fa",
@@ -848,7 +867,8 @@
         "Collaboration"
       ],
       "tags": [
-        "Caspar Giorgio Williams"
+        "Caspar Giorgio Williams",
+        "Last name: Williams"
       ],
       "excerpt": "",
       "location": {
@@ -866,7 +886,7 @@
       "workflowState": 1,
       "publishOn": 1641056400052,
       "addedOn": 1641056400052,
-      "updatedOn": 1734521588887
+      "updatedOn": 1790250185541
     }
   ]
 }
