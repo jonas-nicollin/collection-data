@@ -5,11 +5,52 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-23T17:08:12.984Z",
-  "sourceHash": "9ef14d8037b2d346d7631457ec0b6a162f3c651c9239cc6cbf7b16c2a1f8ce77",
-  "count": 106,
+  "updatedAt": "2026-09-25T06:17:35.303Z",
+  "sourceHash": "da4e26c25678e2828a70fa2f6d746faadfb289d1453b3a171a40d1bd98401606",
+  "count": 107,
   "pages": 1,
   "items": [
+    {
+      "id": "6ab610dccd6792391538a93d",
+      "title": "Selected Works: 1983–1991 (Test)",
+      "fullUrl": "/exhibition/solo-show/rammellzee-selected-works-1983-1991-dkdl3",
+      "sourceUrl": "",
+      "urlId": "solo-show/rammellzee-selected-works-1983-1991-dkdl3",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1779958607008-LKIQHYELV2OAI9B7T0Q8/HD2-RLZ-9102.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "RAMMELLZEE"
+      ],
+      "tags": [
+        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
+        "Year: 2026",
+        "Exhibition: Solo Show",
+        "Date: 2026-11-12/2027-01-27",
+        "Year: 2027",
+        "Opening reception: 2026-11-12"
+      ],
+      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">05.06.2026–17.07.2026<br>Opening: Thursday 04 June, 6:30 - 8:00 pm  </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 108,
+      "workflowState": 1,
+      "publishOn": 1790316764767,
+      "addedOn": 1790316764767,
+      "updatedOn": 1790317038781
+    },
     {
       "id": "6ab3bc5cd07af854f4ae2f6f",
       "title": "Fruta y Media Tarde (Test Jonas en cours)",
@@ -172,7 +213,7 @@
       "workflowState": 1,
       "publishOn": 1779958978293,
       "addedOn": 1779958978293,
-      "updatedOn": 1790179609462
+      "updatedOn": 1790316764812
     },
     {
       "id": "69b18499a1e22f0aa87ac270",
