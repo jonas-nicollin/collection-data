@@ -5,14 +5,14 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-25T06:17:35.303Z",
-  "sourceHash": "da4e26c25678e2828a70fa2f6d746faadfb289d1453b3a171a40d1bd98401606",
+  "updatedAt": "2026-09-25T06:27:36.084Z",
+  "sourceHash": "29b8ee455b9015738ff4df7b5f700f3f9e269eb9c8821d6d390ee006ffda7a10",
   "count": 107,
   "pages": 1,
   "items": [
     {
       "id": "6ab610dccd6792391538a93d",
-      "title": "Selected Works: 1983–1991 (Test)",
+      "title": "Selected Works: 1983–1991 (test&nbsp;2)",
       "fullUrl": "/exhibition/solo-show/rammellzee-selected-works-1983-1991-dkdl3",
       "sourceUrl": "",
       "urlId": "solo-show/rammellzee-selected-works-1983-1991-dkdl3",
@@ -49,7 +49,7 @@
       "workflowState": 1,
       "publishOn": 1790316764767,
       "addedOn": 1790316764767,
-      "updatedOn": 1790317038781
+      "updatedOn": 1790317233700
     },
     {
       "id": "6ab3bc5cd07af854f4ae2f6f",
