@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-09-07T06:36:38.098Z",
-  "sourceHash": "f28f2a5742a735b1b65a2ce7876eda81c12e30fa25d64a1fa608c5946cc5dbf2",
+  "updatedAt": "2026-09-25T15:27:17.668Z",
+  "sourceHash": "fdc658e430625b3078b12f169fe1b26beabb928f4ea0b0ee11e738c13106dd63",
   "count": 6,
   "pages": 1,
   "items": [
@@ -42,6 +42,7 @@
         "addressCountry": ""
       },
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1785496689191,
       "addedOn": 1785496689191,
       "updatedOn": 1785503789828
@@ -78,6 +79,7 @@
         "addressCountry": ""
       },
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1785496603227,
       "addedOn": 1785496603227,
       "updatedOn": 1785496607535
@@ -114,6 +116,7 @@
         "addressCountry": ""
       },
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1785496321785,
       "addedOn": 1785496321785,
       "updatedOn": 1788762525109
@@ -150,6 +153,7 @@
         "addressCountry": ""
       },
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1785496280967,
       "addedOn": 1785496280967,
       "updatedOn": 1787928084491
@@ -186,6 +190,7 @@
         "addressCountry": ""
       },
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1785496228297,
       "addedOn": 1785496228297,
       "updatedOn": 1785496231975
@@ -222,6 +227,7 @@
         "addressCountry": ""
       },
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1785495214813,
       "addedOn": 1785495214813,
       "updatedOn": 1785496093199

@@ -5,8 +5,8 @@
   "id": "programme-2025",
   "path": "/programme-2025",
   "sourceUrl": "https://genevaartweek.com/programme-2025?format=json",
-  "updatedAt": "2026-07-31T16:18:00.030Z",
-  "sourceHash": "565abb52cddcbf57a5d5f9378bbeda8b52f85bb3bc3eb41944c72cca36c91e50",
+  "updatedAt": "2026-09-25T15:27:16.857Z",
+  "sourceHash": "d6c164a4a4603e4b90033a76bced523bac61a89382a5951a5a196c5daca81e8f",
   "count": 169,
   "pages": 1,
   "items": [
@@ -46,6 +46,7 @@
       },
       "displayIndex": 131,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758447660600,
       "addedOn": 1758447660600,
       "updatedOn": 1777542391644
@@ -89,6 +90,7 @@
       },
       "displayIndex": 132,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758446460949,
       "addedOn": 1758446460949,
       "updatedOn": 1777542391034
@@ -129,6 +131,7 @@
       },
       "displayIndex": 4,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758445320365,
       "addedOn": 1758445320365,
       "updatedOn": 1777542390987
@@ -173,6 +176,7 @@
       },
       "displayIndex": 5,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758426780049,
       "addedOn": 1758426780049,
       "updatedOn": 1777542391065
@@ -216,6 +220,7 @@
       },
       "displayIndex": 122,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758411060967,
       "addedOn": 1758411060967,
       "updatedOn": 1777542391880
@@ -265,6 +270,7 @@
       },
       "displayIndex": 7,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758409200574,
       "addedOn": 1758409200574,
       "updatedOn": 1777542391832
@@ -319,6 +325,7 @@
       },
       "displayIndex": 8,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758367800855,
       "addedOn": 1758367800855,
       "updatedOn": 1777542488383
@@ -366,6 +373,7 @@
       },
       "displayIndex": 160,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758364800749,
       "addedOn": 1758364800749,
       "updatedOn": 1777542488849
@@ -406,6 +414,7 @@
       },
       "displayIndex": 118,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758363540282,
       "addedOn": 1758363540282,
       "updatedOn": 1777542488919
@@ -450,6 +459,7 @@
       },
       "displayIndex": 9,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758362400730,
       "addedOn": 1758362400730,
       "updatedOn": 1777542488489
@@ -490,6 +500,7 @@
       },
       "displayIndex": 10,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758362160726,
       "addedOn": 1758362160726,
       "updatedOn": 1777542489079
@@ -530,6 +541,7 @@
       },
       "displayIndex": 11,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758362040266,
       "addedOn": 1758362040266,
       "updatedOn": 1777542488973
@@ -572,6 +584,7 @@
       },
       "displayIndex": 12,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758361200482,
       "addedOn": 1758361200482,
       "updatedOn": 1777542488204
@@ -617,6 +630,7 @@
       },
       "displayIndex": 140,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758360540830,
       "addedOn": 1758360540830,
       "updatedOn": 1777542487978
@@ -660,6 +674,7 @@
       },
       "displayIndex": 13,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758360300099,
       "addedOn": 1758360300099,
       "updatedOn": 1777542487956
@@ -705,6 +720,7 @@
       },
       "displayIndex": 14,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758359580303,
       "addedOn": 1758359580303,
       "updatedOn": 1777542488347
@@ -747,6 +763,7 @@
       },
       "displayIndex": 15,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758359400924,
       "addedOn": 1758359400924,
       "updatedOn": 1777542488050
@@ -790,6 +807,7 @@
       },
       "displayIndex": 133,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758359340407,
       "addedOn": 1758359340407,
       "updatedOn": 1777542489323
@@ -834,6 +852,7 @@
       },
       "displayIndex": 16,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758359220543,
       "addedOn": 1758359220543,
       "updatedOn": 1777542488456
@@ -875,6 +894,7 @@
       },
       "displayIndex": 17,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758359040998,
       "addedOn": 1758359040998,
       "updatedOn": 1777542488422
@@ -914,6 +934,7 @@
       },
       "displayIndex": 18,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758358740237,
       "addedOn": 1758358740237,
       "updatedOn": 1777542488364
@@ -958,6 +979,7 @@
       },
       "displayIndex": 19,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758358500307,
       "addedOn": 1758358500307,
       "updatedOn": 1777542489006
@@ -1000,6 +1022,7 @@
       },
       "displayIndex": 20,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758357600249,
       "addedOn": 1758357600249,
       "updatedOn": 1777542489177
@@ -1040,6 +1063,7 @@
       },
       "displayIndex": 149,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758337920359,
       "addedOn": 1758337920359,
       "updatedOn": 1777542488404
@@ -1085,6 +1109,7 @@
       },
       "displayIndex": 22,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758337800231,
       "addedOn": 1758337800231,
       "updatedOn": 1777542488629
@@ -1127,6 +1152,7 @@
       },
       "displayIndex": 89,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758326820264,
       "addedOn": 1758326820264,
       "updatedOn": 1777542488327
@@ -1192,6 +1218,7 @@
       },
       "displayIndex": 90,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758326400406,
       "addedOn": 1758326400406,
       "updatedOn": 1777542488791
@@ -1235,6 +1262,7 @@
       },
       "displayIndex": 123,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758324180931,
       "addedOn": 1758324180931,
       "updatedOn": 1777542488097
@@ -1280,6 +1308,7 @@
       },
       "displayIndex": 23,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758299400453,
       "addedOn": 1758299400453,
       "updatedOn": 1777542471718
@@ -1321,6 +1350,7 @@
       },
       "displayIndex": 117,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758277980230,
       "addedOn": 1758277980230,
       "updatedOn": 1777542470919
@@ -1370,6 +1400,7 @@
       },
       "displayIndex": 148,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758276300315,
       "addedOn": 1758276300315,
       "updatedOn": 1777542471620
@@ -1413,6 +1444,7 @@
       },
       "displayIndex": 24,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758275340744,
       "addedOn": 1758275340744,
       "updatedOn": 1777542471681
@@ -1457,6 +1489,7 @@
       },
       "displayIndex": 139,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758274620484,
       "addedOn": 1758274620484,
       "updatedOn": 1777542471513
@@ -1499,6 +1532,7 @@
       },
       "displayIndex": 25,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758273660656,
       "addedOn": 1758273660656,
       "updatedOn": 1777542471424
@@ -1540,6 +1574,7 @@
       },
       "displayIndex": 144,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758272400391,
       "addedOn": 1758272400391,
       "updatedOn": 1777542471069
@@ -1583,6 +1618,7 @@
       },
       "displayIndex": 88,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758272160903,
       "addedOn": 1758272160903,
       "updatedOn": 1777542471641
@@ -1624,6 +1660,7 @@
       },
       "displayIndex": 168,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758270000828,
       "addedOn": 1758270000828,
       "updatedOn": 1777542471802
@@ -1666,6 +1703,7 @@
       },
       "displayIndex": 152,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758266580193,
       "addedOn": 1758266580193,
       "updatedOn": 1777542471536
@@ -1707,6 +1745,7 @@
       },
       "displayIndex": 21,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758260220958,
       "addedOn": 1758260220958,
       "updatedOn": 1777542470802
@@ -1752,6 +1791,7 @@
       },
       "displayIndex": 26,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758258000439,
       "addedOn": 1758258000439,
       "updatedOn": 1779377640200
@@ -1799,6 +1839,7 @@
       },
       "displayIndex": 27,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758253260349,
       "addedOn": 1758253260349,
       "updatedOn": 1777542471193
@@ -1842,6 +1883,7 @@
       },
       "displayIndex": 146,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758252240013,
       "addedOn": 1758252240013,
       "updatedOn": 1777542471787
@@ -1882,6 +1924,7 @@
       },
       "displayIndex": 92,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758251820819,
       "addedOn": 1758251820819,
       "updatedOn": 1777542471292
@@ -1942,6 +1985,7 @@
       },
       "displayIndex": 28,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758250800667,
       "addedOn": 1758250800667,
       "updatedOn": 1779377144214
@@ -1985,6 +2029,7 @@
       },
       "displayIndex": 29,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758250800658,
       "addedOn": 1758250800658,
       "updatedOn": 1779377580241
@@ -2027,6 +2072,7 @@
       },
       "displayIndex": 96,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758250620389,
       "addedOn": 1758250620389,
       "updatedOn": 1777542470816
@@ -2068,6 +2114,7 @@
       },
       "displayIndex": 98,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758249120219,
       "addedOn": 1758249120219,
       "updatedOn": 1777542471121
@@ -2109,6 +2156,7 @@
       },
       "displayIndex": 99,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758248820329,
       "addedOn": 1758248820329,
       "updatedOn": 1777542471551
@@ -2158,6 +2206,7 @@
       },
       "displayIndex": 100,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758248460022,
       "addedOn": 1758248460022,
       "updatedOn": 1777542470971
@@ -2204,6 +2253,7 @@
       },
       "displayIndex": 102,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758245280506,
       "addedOn": 1758245280506,
       "updatedOn": 1779377410663
@@ -2246,6 +2296,7 @@
       },
       "displayIndex": 30,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758238200813,
       "addedOn": 1758238200813,
       "updatedOn": 1777542471884
@@ -2288,6 +2339,7 @@
       },
       "displayIndex": 114,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758193020018,
       "addedOn": 1758193020018,
       "updatedOn": 1777542438086
@@ -2328,6 +2380,7 @@
       },
       "displayIndex": 116,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758192180569,
       "addedOn": 1758192180569,
       "updatedOn": 1777542437881
@@ -2377,6 +2430,7 @@
       },
       "displayIndex": 159,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758190800638,
       "addedOn": 1758190800638,
       "updatedOn": 1779377351663
@@ -2422,6 +2476,7 @@
       },
       "displayIndex": 158,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758190200515,
       "addedOn": 1758190200515,
       "updatedOn": 1777542437591
@@ -2461,6 +2516,7 @@
       },
       "displayIndex": 147,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758189480568,
       "addedOn": 1758189480568,
       "updatedOn": 1777542437644
@@ -2503,6 +2559,7 @@
       },
       "displayIndex": 31,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758188760598,
       "addedOn": 1758188760598,
       "updatedOn": 1777542437898
@@ -2543,6 +2600,7 @@
       },
       "displayIndex": 32,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758188040378,
       "addedOn": 1758188040378,
       "updatedOn": 1777542438306
@@ -2592,6 +2650,7 @@
       },
       "displayIndex": 124,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758187320191,
       "addedOn": 1758187320191,
       "updatedOn": 1779377120118
@@ -2638,6 +2697,7 @@
       },
       "displayIndex": 143,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758185940037,
       "addedOn": 1758185940037,
       "updatedOn": 1779377063185
@@ -2682,6 +2742,7 @@
       },
       "displayIndex": 170,
       "workflowState": 1,
+      "starred": true,
       "publishOn": 1758185580616,
       "addedOn": 1758185580616,
       "updatedOn": 1777542437726
@@ -2722,6 +2783,7 @@
       },
       "displayIndex": 147,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758184920484,
       "addedOn": 1758184920484,
       "updatedOn": 1777542437399
@@ -2762,6 +2824,7 @@
       },
       "displayIndex": 129,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758184260397,
       "addedOn": 1758184260397,
       "updatedOn": 1777542438235
@@ -2808,6 +2871,7 @@
       },
       "displayIndex": 145,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758182760337,
       "addedOn": 1758182760337,
       "updatedOn": 1779377369540
@@ -2853,6 +2917,7 @@
       },
       "displayIndex": 127,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758182460442,
       "addedOn": 1758182460442,
       "updatedOn": 1779377388483
@@ -2898,6 +2963,7 @@
       },
       "displayIndex": 168,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758181980681,
       "addedOn": 1758181980681,
       "updatedOn": 1779377266102
@@ -2944,6 +3010,7 @@
       },
       "displayIndex": 164,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758181860165,
       "addedOn": 1758181860165,
       "updatedOn": 1779377294550
@@ -2985,6 +3052,7 @@
       },
       "displayIndex": 166,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758181860064,
       "addedOn": 1758181860064,
       "updatedOn": 1777542438054
@@ -3025,6 +3093,7 @@
       },
       "displayIndex": 154,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758181200530,
       "addedOn": 1758181200530,
       "updatedOn": 1777542437348
@@ -3065,6 +3134,7 @@
       },
       "displayIndex": 153,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758180960275,
       "addedOn": 1758180960275,
       "updatedOn": 1777542437174
@@ -3110,6 +3180,7 @@
       },
       "displayIndex": 33,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758178800892,
       "addedOn": 1758178800892,
       "updatedOn": 1779376955495
@@ -3150,6 +3221,7 @@
       },
       "displayIndex": 34,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758175920099,
       "addedOn": 1758175920099,
       "updatedOn": 1777542437822
@@ -3189,6 +3261,7 @@
       },
       "displayIndex": 35,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758175680527,
       "addedOn": 1758175680527,
       "updatedOn": 1777542438395
@@ -3233,6 +3306,7 @@
       },
       "displayIndex": 36,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758175200437,
       "addedOn": 1758175200437,
       "updatedOn": 1779377218331
@@ -3274,6 +3348,7 @@
       },
       "displayIndex": 38,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758174300195,
       "addedOn": 1758174300195,
       "updatedOn": 1777542457079
@@ -3316,6 +3391,7 @@
       },
       "displayIndex": 40,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758174000969,
       "addedOn": 1758174000969,
       "updatedOn": 1777542458399
@@ -3364,6 +3440,7 @@
       },
       "displayIndex": 42,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758168000678,
       "addedOn": 1758168000678,
       "updatedOn": 1779377192446
@@ -3405,6 +3482,7 @@
       },
       "displayIndex": 165,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758166560708,
       "addedOn": 1758166560708,
       "updatedOn": 1777542437207
@@ -3451,6 +3529,7 @@
       },
       "displayIndex": 43,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758164400695,
       "addedOn": 1758164400695,
       "updatedOn": 1783590643132
@@ -3498,6 +3577,7 @@
       },
       "displayIndex": 44,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758164400367,
       "addedOn": 1758164400367,
       "updatedOn": 1779376438524
@@ -3539,6 +3619,7 @@
       },
       "displayIndex": 101,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758161640542,
       "addedOn": 1758161640542,
       "updatedOn": 1777542437606
@@ -3584,6 +3665,7 @@
       },
       "displayIndex": 45,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758160800009,
       "addedOn": 1758160800009,
       "updatedOn": 1779376460419
@@ -3631,6 +3713,7 @@
       },
       "displayIndex": 46,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758159000140,
       "addedOn": 1758159000140,
       "updatedOn": 1779385971390
@@ -3673,6 +3756,7 @@
       },
       "displayIndex": 103,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758158580464,
       "addedOn": 1758158580464,
       "updatedOn": 1777542437928
@@ -3713,6 +3797,7 @@
       },
       "displayIndex": 47,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758155400131,
       "addedOn": 1758155400131,
       "updatedOn": 1777542438071
@@ -3756,6 +3841,7 @@
       },
       "displayIndex": 108,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758153900209,
       "addedOn": 1758153900209,
       "updatedOn": 1777542438250
@@ -3813,6 +3899,7 @@
       },
       "displayIndex": 109,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758152760829,
       "addedOn": 1758152760829,
       "updatedOn": 1777542437328
@@ -3869,6 +3956,7 @@
       },
       "displayIndex": 120,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758152460785,
       "addedOn": 1758152460785,
       "updatedOn": 1777542437380
@@ -3914,6 +4002,7 @@
       },
       "displayIndex": 121,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758152100934,
       "addedOn": 1758152100934,
       "updatedOn": 1777542438425
@@ -3956,6 +4045,7 @@
       },
       "displayIndex": 110,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758151920112,
       "addedOn": 1758151920112,
       "updatedOn": 1777542437850
@@ -3998,6 +4088,7 @@
       },
       "displayIndex": 113,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758150060885,
       "addedOn": 1758150060885,
       "updatedOn": 1777542437136
@@ -4039,6 +4130,7 @@
       },
       "displayIndex": 48,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758150000826,
       "addedOn": 1758150000826,
       "updatedOn": 1777542437759
@@ -4098,6 +4190,7 @@
       },
       "displayIndex": 49,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758139200891,
       "addedOn": 1758139200891,
       "updatedOn": 1779377022383
@@ -4139,6 +4232,7 @@
       },
       "displayIndex": 50,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758123000867,
       "addedOn": 1758123000867,
       "updatedOn": 1777542457499
@@ -4192,6 +4286,7 @@
       },
       "displayIndex": 51,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758121200821,
       "addedOn": 1758121200821,
       "updatedOn": 1777542457234
@@ -4234,6 +4329,7 @@
       },
       "displayIndex": 115,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758106080564,
       "addedOn": 1758106080564,
       "updatedOn": 1777542457519
@@ -4276,6 +4372,7 @@
       },
       "displayIndex": 52,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758104580093,
       "addedOn": 1758104580093,
       "updatedOn": 1779376905640
@@ -4327,6 +4424,7 @@
       },
       "displayIndex": 53,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758103920607,
       "addedOn": 1758103920607,
       "updatedOn": 1777555240596
@@ -4381,6 +4479,7 @@
       },
       "displayIndex": 157,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758103680964,
       "addedOn": 1758103680964,
       "updatedOn": 1777542457687
@@ -4429,6 +4528,7 @@
       },
       "displayIndex": 54,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758103440878,
       "addedOn": 1758103440878,
       "updatedOn": 1779377099694
@@ -4483,6 +4583,7 @@
       },
       "displayIndex": 55,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758103200984,
       "addedOn": 1758103200984,
       "updatedOn": 1779377433577
@@ -4529,6 +4630,7 @@
       },
       "displayIndex": 56,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758103200219,
       "addedOn": 1758103200219,
       "updatedOn": 1779377501846
@@ -4566,6 +4668,7 @@
       },
       "displayIndex": 146,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758102900602,
       "addedOn": 1758102900602,
       "updatedOn": 1777542457917
@@ -4610,6 +4713,7 @@
       },
       "displayIndex": 138,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758102900477,
       "addedOn": 1758102900477,
       "updatedOn": 1777542457156
@@ -4670,6 +4774,7 @@
       },
       "displayIndex": 156,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758102660563,
       "addedOn": 1758102660563,
       "updatedOn": 1779376982986
@@ -4710,6 +4815,7 @@
       },
       "displayIndex": 57,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758101940329,
       "addedOn": 1758101940329,
       "updatedOn": 1777542458195
@@ -4753,6 +4859,7 @@
       },
       "displayIndex": 58,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758101460855,
       "addedOn": 1758101460855,
       "updatedOn": 1777542456906
@@ -4796,6 +4903,7 @@
       },
       "displayIndex": 59,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758101280549,
       "addedOn": 1758101280549,
       "updatedOn": 1777542457741
@@ -4844,6 +4952,7 @@
       },
       "displayIndex": 142,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758100500667,
       "addedOn": 1758100500667,
       "updatedOn": 1779377609319
@@ -4887,6 +4996,7 @@
       },
       "displayIndex": 171,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758099900121,
       "addedOn": 1758099900121,
       "updatedOn": 1777542457136
@@ -4931,6 +5041,7 @@
       },
       "displayIndex": 134,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758099720869,
       "addedOn": 1758099720869,
       "updatedOn": 1777542489111
@@ -4971,6 +5082,7 @@
       },
       "displayIndex": 141,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758099600574,
       "addedOn": 1758099600574,
       "updatedOn": 1777542457480
@@ -5033,6 +5145,7 @@
       },
       "displayIndex": 60,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758099600194,
       "addedOn": 1758099600194,
       "updatedOn": 1779376515452
@@ -5074,6 +5187,7 @@
       },
       "displayIndex": 61,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758099060938,
       "addedOn": 1758099060938,
       "updatedOn": 1777542458303
@@ -5116,6 +5230,7 @@
       },
       "displayIndex": 62,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758098760129,
       "addedOn": 1758098760129,
       "updatedOn": 1777542457540
@@ -5158,6 +5273,7 @@
       },
       "displayIndex": 169,
       "workflowState": 1,
+      "starred": true,
       "publishOn": 1758098520540,
       "addedOn": 1758098520540,
       "updatedOn": 1777542457826
@@ -5198,6 +5314,7 @@
       },
       "displayIndex": 128,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758098460747,
       "addedOn": 1758098460747,
       "updatedOn": 1777542457177
@@ -5243,6 +5360,7 @@
       },
       "displayIndex": 144,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758098400202,
       "addedOn": 1758098400202,
       "updatedOn": 1779377464160
@@ -5285,6 +5403,7 @@
       },
       "displayIndex": 136,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758097740879,
       "addedOn": 1758097740879,
       "updatedOn": 1777542458177
@@ -5329,6 +5448,7 @@
       },
       "displayIndex": 130,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758096720484,
       "addedOn": 1758096720484,
       "updatedOn": 1777542457436
@@ -5380,6 +5500,7 @@
       },
       "displayIndex": 143,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758096360598,
       "addedOn": 1758096360598,
       "updatedOn": 1777542458559
@@ -5420,6 +5541,7 @@
       },
       "displayIndex": 137,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758096120271,
       "addedOn": 1758096120271,
       "updatedOn": 1777542457669
@@ -5467,6 +5589,7 @@
       },
       "displayIndex": 79,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758096000072,
       "addedOn": 1758096000072,
       "updatedOn": 1779377545210
@@ -5509,6 +5632,7 @@
       },
       "displayIndex": 162,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758095220168,
       "addedOn": 1758095220168,
       "updatedOn": 1777542456863
@@ -5553,6 +5677,7 @@
       },
       "displayIndex": 155,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758094980557,
       "addedOn": 1758094980557,
       "updatedOn": 1777542471307
@@ -5598,6 +5723,7 @@
       },
       "displayIndex": 151,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758093180429,
       "addedOn": 1758093180429,
       "updatedOn": 1779377316986
@@ -5645,6 +5771,7 @@
       },
       "displayIndex": 63,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758092400409,
       "addedOn": 1758092400409,
       "updatedOn": 1779376543676
@@ -5692,6 +5819,7 @@
       },
       "displayIndex": 64,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758092400153,
       "addedOn": 1758092400153,
       "updatedOn": 1779376571701
@@ -5735,6 +5863,7 @@
       },
       "displayIndex": 65,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758089760843,
       "addedOn": 1758089760843,
       "updatedOn": 1777542458267
@@ -5776,6 +5905,7 @@
       },
       "displayIndex": 66,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758089040250,
       "addedOn": 1758089040250,
       "updatedOn": 1777542457764
@@ -5821,6 +5951,7 @@
       },
       "displayIndex": 68,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758088800792,
       "addedOn": 1758088800792,
       "updatedOn": 1777542489454
@@ -5868,6 +5999,7 @@
       },
       "displayIndex": 69,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758088800662,
       "addedOn": 1758088800662,
       "updatedOn": 1779377001320
@@ -5916,6 +6048,7 @@
       },
       "displayIndex": 70,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758088800097,
       "addedOn": 1758088800097,
       "updatedOn": 1782972961865
@@ -5963,6 +6096,7 @@
       },
       "displayIndex": 71,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758083400650,
       "addedOn": 1758083400650,
       "updatedOn": 1779376215202
@@ -6006,6 +6140,7 @@
       },
       "displayIndex": 72,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758081600549,
       "addedOn": 1758081600549,
       "updatedOn": 1783071884784
@@ -6049,6 +6184,7 @@
       },
       "displayIndex": 93,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758078720219,
       "addedOn": 1758078720219,
       "updatedOn": 1777542458416
@@ -6090,6 +6226,7 @@
       },
       "displayIndex": 94,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758078360410,
       "addedOn": 1758078360410,
       "updatedOn": 1777542457108
@@ -6131,6 +6268,7 @@
       },
       "displayIndex": 95,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758078180525,
       "addedOn": 1758078180525,
       "updatedOn": 1777542457373
@@ -6188,6 +6326,7 @@
       },
       "displayIndex": 97,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758076560757,
       "addedOn": 1758076560757,
       "updatedOn": 1777542457454
@@ -6238,6 +6377,7 @@
       },
       "displayIndex": 73,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758074400375,
       "addedOn": 1758074400375,
       "updatedOn": 1779376477615
@@ -6286,6 +6426,7 @@
       },
       "displayIndex": 74,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758072600254,
       "addedOn": 1758072600254,
       "updatedOn": 1779377242125
@@ -6331,6 +6472,7 @@
       },
       "displayIndex": 104,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758070320818,
       "addedOn": 1758070320818,
       "updatedOn": 1777542457960
@@ -6371,6 +6513,7 @@
       },
       "displayIndex": 105,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758069780609,
       "addedOn": 1758069780609,
       "updatedOn": 1777542458374
@@ -6413,6 +6556,7 @@
       },
       "displayIndex": 106,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758069360203,
       "addedOn": 1758069360203,
       "updatedOn": 1777542457935
@@ -6453,6 +6597,7 @@
       },
       "displayIndex": 107,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758067920885,
       "addedOn": 1758067920885,
       "updatedOn": 1777542457195
@@ -6499,6 +6644,7 @@
       },
       "displayIndex": 119,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758066720147,
       "addedOn": 1758066720147,
       "updatedOn": 1777542470893
@@ -6571,6 +6717,7 @@
       },
       "displayIndex": 91,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758066240562,
       "addedOn": 1758066240562,
       "updatedOn": 1779377665877
@@ -6619,6 +6766,7 @@
       },
       "displayIndex": 161,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758065700536,
       "addedOn": 1758065700536,
       "updatedOn": 1779376733937
@@ -6664,6 +6812,7 @@
       },
       "displayIndex": 111,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758064740573,
       "addedOn": 1758064740573,
       "updatedOn": 1777542458158
@@ -6705,6 +6854,7 @@
       },
       "displayIndex": 112,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758064380209,
       "addedOn": 1758064380209,
       "updatedOn": 1777542457893
@@ -6768,6 +6918,7 @@
       },
       "displayIndex": 77,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758063600057,
       "addedOn": 1758063600057,
       "updatedOn": 1779377164657
@@ -6813,6 +6964,7 @@
       },
       "displayIndex": 78,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758060000827,
       "addedOn": 1758060000827,
       "updatedOn": 1779376760687
@@ -6859,6 +7011,7 @@
       },
       "displayIndex": 163,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1758010260104,
       "addedOn": 1758010260104,
       "updatedOn": 1777542488811
@@ -6907,6 +7060,7 @@
       },
       "displayIndex": 76,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1757984400656,
       "addedOn": 1757984400656,
       "updatedOn": 1779376859255
@@ -6952,6 +7106,7 @@
       },
       "displayIndex": 126,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1757491860574,
       "addedOn": 1757491860574,
       "updatedOn": 1777542488701
@@ -7005,6 +7160,7 @@
       },
       "displayIndex": 80,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1757476800966,
       "addedOn": 1757476800966,
       "updatedOn": 1777542489264
@@ -7059,6 +7215,7 @@
       },
       "displayIndex": 81,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1757408400486,
       "addedOn": 1757408400486,
       "updatedOn": 1777542488181
@@ -7113,6 +7270,7 @@
       },
       "displayIndex": 87,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1757392200172,
       "addedOn": 1757392200172,
       "updatedOn": 1777542488678
@@ -7158,6 +7316,7 @@
       },
       "displayIndex": 144,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1757061120119,
       "addedOn": 1757061120119,
       "updatedOn": 1777542488869
@@ -7205,6 +7364,7 @@
       },
       "displayIndex": 82,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1756980000078,
       "addedOn": 1756980000078,
       "updatedOn": 1779377522046
@@ -7250,6 +7410,7 @@
       },
       "displayIndex": 83,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1756972800154,
       "addedOn": 1756972800154,
       "updatedOn": 1779377690295
@@ -7295,6 +7456,7 @@
       },
       "displayIndex": 84,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1756967400312,
       "addedOn": 1756967400312,
       "updatedOn": 1777542488751
@@ -7340,6 +7502,7 @@
       },
       "displayIndex": 150,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1756965060077,
       "addedOn": 1756965060077,
       "updatedOn": 1777542488021
@@ -7385,6 +7548,7 @@
       },
       "displayIndex": 85,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1756956600784,
       "addedOn": 1756956600784,
       "updatedOn": 1777542489473
@@ -7431,6 +7595,7 @@
       },
       "displayIndex": 86,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1756954800736,
       "addedOn": 1756954800736,
       "updatedOn": 1777542488240
@@ -7486,6 +7651,7 @@
       },
       "displayIndex": 145,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1756892820597,
       "addedOn": 1756892820597,
       "updatedOn": 1783072018578
@@ -7532,6 +7698,7 @@
       },
       "displayIndex": 148,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1751936400039,
       "addedOn": 1751936400039,
       "updatedOn": 1783072083745
@@ -7576,6 +7743,7 @@
       },
       "displayIndex": 149,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1751000400933,
       "addedOn": 1751000400933,
       "updatedOn": 1777542488722
@@ -7630,6 +7798,7 @@
       },
       "displayIndex": 150,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1747378800615,
       "addedOn": 1747378800615,
       "updatedOn": 1783072137397

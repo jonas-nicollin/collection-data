@@ -5,8 +5,8 @@
   "id": "projet",
   "path": "/projet",
   "sourceUrl": "https://www.carneiro.ch/projet?format=json",
-  "updatedAt": "2026-07-31T16:17:59.332Z",
-  "sourceHash": "4b008aec9a199c3bcdcafb0bc6d4d71acc0605cdd0fb79a561d45343f207487b",
+  "updatedAt": "2026-09-25T15:27:16.119Z",
+  "sourceHash": "5b11f869b2bd8147bc5ceceb61194c050e081d92105258eb0c7f1104f20fcbb6",
   "count": 46,
   "pages": 3,
   "items": [
@@ -55,6 +55,7 @@
       },
       "displayIndex": 45,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1783326430249,
       "addedOn": 1783326430249,
       "updatedOn": 1783326430486
@@ -105,6 +106,7 @@
       },
       "displayIndex": 6,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1777626031995,
       "addedOn": 1777626031995,
       "updatedOn": 1783324616772
@@ -157,6 +159,7 @@
       },
       "displayIndex": 4,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1777622431133,
       "addedOn": 1777622431133,
       "updatedOn": 1779190594350
@@ -211,6 +214,7 @@
       },
       "displayIndex": 14,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1775034031082,
       "addedOn": 1775034031082,
       "updatedOn": 1779271127338
@@ -260,6 +264,7 @@
       },
       "displayIndex": 3,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1772352031777,
       "addedOn": 1772352031777,
       "updatedOn": 1783321822727
@@ -306,6 +311,7 @@
       },
       "displayIndex": 2,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1768035631983,
       "addedOn": 1768035631983,
       "updatedOn": 1783322627081
@@ -357,6 +363,7 @@
       },
       "displayIndex": 9,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1767949231992,
       "addedOn": 1767949231992,
       "updatedOn": 1783320380441
@@ -414,6 +421,7 @@
       },
       "displayIndex": 17,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1767780031148,
       "addedOn": 1767780031148,
       "updatedOn": 1783323392223
@@ -465,6 +473,7 @@
       },
       "displayIndex": 13,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1767607231599,
       "addedOn": 1767607231599,
       "updatedOn": 1783320635118
@@ -516,6 +525,7 @@
       },
       "displayIndex": 10,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1767434431302,
       "addedOn": 1767434431302,
       "updatedOn": 1779172742628
@@ -565,6 +575,7 @@
       },
       "displayIndex": 5,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1766998831019,
       "addedOn": 1766998831019,
       "updatedOn": 1779188671189
@@ -613,6 +624,7 @@
       },
       "displayIndex": 8,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1766826031622,
       "addedOn": 1766826031622,
       "updatedOn": 1779188680154
@@ -661,6 +673,7 @@
       },
       "displayIndex": 12,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1766656831918,
       "addedOn": 1766656831918,
       "updatedOn": 1779188689072
@@ -709,6 +722,7 @@
       },
       "displayIndex": 11,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1766484031504,
       "addedOn": 1766484031504,
       "updatedOn": 1779180747504
@@ -757,6 +771,7 @@
       },
       "displayIndex": 1,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1766307631691,
       "addedOn": 1766307631691,
       "updatedOn": 1779187275635
@@ -810,6 +825,7 @@
       },
       "displayIndex": 15,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1766138431359,
       "addedOn": 1766138431359,
       "updatedOn": 1779180747454
@@ -859,6 +875,7 @@
       },
       "displayIndex": 16,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1765965631706,
       "addedOn": 1765965631706,
       "updatedOn": 1782824086793
@@ -905,6 +922,7 @@
       },
       "displayIndex": 0,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1765789231494,
       "addedOn": 1765789231494,
       "updatedOn": 1779186618729
@@ -952,6 +970,7 @@
       },
       "displayIndex": 30,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1765620031557,
       "addedOn": 1765620031557,
       "updatedOn": 1779186393305
@@ -1002,6 +1021,7 @@
       },
       "displayIndex": 18,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1765447231316,
       "addedOn": 1765447231316,
       "updatedOn": 1779186243015
@@ -1051,6 +1071,7 @@
       },
       "displayIndex": 28,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1765274431406,
       "addedOn": 1765274431406,
       "updatedOn": 1779194978119
@@ -1101,6 +1122,7 @@
       },
       "displayIndex": 20,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1765101631714,
       "addedOn": 1765101631714,
       "updatedOn": 1779272511423
@@ -1151,6 +1173,7 @@
       },
       "displayIndex": 22,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1764928831959,
       "addedOn": 1764928831959,
       "updatedOn": 1779272549212
@@ -1199,6 +1222,7 @@
       },
       "displayIndex": 26,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1764756031047,
       "addedOn": 1764756031047,
       "updatedOn": 1779272653945
@@ -1248,6 +1272,7 @@
       },
       "displayIndex": 27,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1764583231548,
       "addedOn": 1764583231548,
       "updatedOn": 1779272677764
@@ -1297,6 +1322,7 @@
       },
       "displayIndex": 21,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1764410431850,
       "addedOn": 1764410431850,
       "updatedOn": 1779272528614
@@ -1345,6 +1371,7 @@
       },
       "displayIndex": 7,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1764234031637,
       "addedOn": 1764234031637,
       "updatedOn": 1779185569442
@@ -1395,6 +1422,7 @@
       },
       "displayIndex": 19,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1764064831709,
       "addedOn": 1764064831709,
       "updatedOn": 1779272482998
@@ -1444,6 +1472,7 @@
       },
       "displayIndex": 24,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1763892031372,
       "addedOn": 1763892031372,
       "updatedOn": 1779272624689
@@ -1491,6 +1520,7 @@
       },
       "displayIndex": 35,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1763715631385,
       "addedOn": 1763715631385,
       "updatedOn": 1779185267569
@@ -1542,6 +1572,7 @@
       },
       "displayIndex": 23,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1763546431745,
       "addedOn": 1763546431745,
       "updatedOn": 1779272570583
@@ -1592,6 +1623,7 @@
       },
       "displayIndex": 29,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1763373631228,
       "addedOn": 1763373631228,
       "updatedOn": 1779272748193
@@ -1640,6 +1672,7 @@
       },
       "displayIndex": 39,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1763197231170,
       "addedOn": 1763197231170,
       "updatedOn": 1779184797338
@@ -1688,6 +1721,7 @@
       },
       "displayIndex": 42,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1763024431289,
       "addedOn": 1763024431289,
       "updatedOn": 1779184690425
@@ -1739,6 +1773,7 @@
       },
       "displayIndex": 48,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1762682431170,
       "addedOn": 1762682431170,
       "updatedOn": 1779184588298
@@ -1787,6 +1822,7 @@
       },
       "displayIndex": 25,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1762682431040,
       "addedOn": 1762682431040,
       "updatedOn": 1779184483638
@@ -1835,6 +1871,7 @@
       },
       "displayIndex": 31,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1762506031452,
       "addedOn": 1762506031452,
       "updatedOn": 1779184388361
@@ -1882,6 +1919,7 @@
       },
       "displayIndex": 32,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1762160431778,
       "addedOn": 1762160431778,
       "updatedOn": 1779184224117
@@ -1928,6 +1966,7 @@
       },
       "displayIndex": 33,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1761987631889,
       "addedOn": 1761987631889,
       "updatedOn": 1779184131940
@@ -1974,6 +2013,7 @@
       },
       "displayIndex": 36,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1761814831607,
       "addedOn": 1761814831607,
       "updatedOn": 1779184034314
@@ -2020,6 +2060,7 @@
       },
       "displayIndex": 37,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1761642031728,
       "addedOn": 1761642031728,
       "updatedOn": 1779183879768
@@ -2067,6 +2108,7 @@
       },
       "displayIndex": 38,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1761469231743,
       "addedOn": 1761469231743,
       "updatedOn": 1779183800115
@@ -2114,6 +2156,7 @@
       },
       "displayIndex": 44,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1761292831658,
       "addedOn": 1761292831658,
       "updatedOn": 1779183592110
@@ -2164,6 +2207,7 @@
       },
       "displayIndex": 45,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1761120031927,
       "addedOn": 1761120031927,
       "updatedOn": 1779183468352
@@ -2212,6 +2256,7 @@
       },
       "displayIndex": 49,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1760778031647,
       "addedOn": 1760778031647,
       "updatedOn": 1779183361775
@@ -2258,6 +2303,7 @@
       },
       "displayIndex": 50,
       "workflowState": 1,
+      "starred": false,
       "publishOn": 1760605231945,
       "addedOn": 1760605231945,
       "updatedOn": 1779183212541
