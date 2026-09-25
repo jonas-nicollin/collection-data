@@ -13,6 +13,11 @@
       "url": "https://sebastienbertrand.com/all-artists?format=json"
     },
     {
+      "id": "artist",
+      "path": "/artist",
+      "url": "https://sebastienbertrand.com/artist?format=json"
+    },
+    {
       "id": "all-news",
       "path": "/all-news",
       "url": "https://sebastienbertrand.com/all-news?format=json"
