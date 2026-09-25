@@ -1,0 +1,574 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "sebastien-bertrand",
+  "id": "artist",
+  "path": "/artist",
+  "sourceUrl": "https://sebastienbertrand.com/artist?format=json",
+  "updatedAt": "2026-09-25T19:34:36.045Z",
+  "sourceHash": "9ec1f0499749ef4121f6723aec3ad7b81e8442617e2204bad66ae2927c02432c",
+  "count": 28,
+  "pages": 1,
+  "items": [
+    {
+      "id": "62471b1fd7bc57549db5f246",
+      "title": "Joe Andoe",
+      "fullUrl": "/artist/joe-andoe",
+      "sourceUrl": "",
+      "urlId": "joe-andoe",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/7ddd8e72-8ba6-4df8-a220-d897124b6287/HD_Double+Horse%2C+Joe+Andoe%2C+2006.+Oil+on+canvas.+101%2C5+x+76%2C5+cm+%2840+x+30+in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080470194,
+      "addedOn": 1562080470194,
+      "updatedOn": 1788427917380
+    },
+    {
+      "id": "6247287605eedd782a5a2ddb",
+      "title": "Todd Bienvenu",
+      "fullUrl": "/artist/todd-bienvenu",
+      "sourceUrl": "",
+      "urlId": "todd-bienvenu",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/4b93f43d-1bb9-48ae-9512-2bd43395f477/HD_Stage+Dive%2C+Todd+Bienvenu%2C+2023.+Acrylic+on+linen%2C+200%2C7+x+177%2C8+cm+%2879+x+70+in.%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 1,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1648830581791,
+      "addedOn": 1648830581791,
+      "updatedOn": 1788428486715
+    },
+    {
+      "id": "649f021ac5ec2b67bdabbaae",
+      "title": "Han-Chiao",
+      "fullUrl": "/artist/han-chiao",
+      "sourceUrl": "",
+      "urlId": "han-chiao",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/2fc0125e-05d1-4c86-a341-92c192299dbf/HD-Untitled+Monster%2C+Han+Chiao%2C+2023.+Black+stoneware%2C+50+x+33+x+20+cm_3.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 2,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562077630437,
+      "addedOn": 1562077630437,
+      "updatedOn": 1788427959956
+    },
+    {
+      "id": "628e3d2aefc5ef1a71ac399e",
+      "title": "Jonathan Edelhuber",
+      "fullUrl": "/artist/jonathan-edelhuber",
+      "sourceUrl": "",
+      "urlId": "jonathan-edelhuber",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655997838489-HP53CCINJ4RS2FWI28MO/WEB_Still-life-with-Picasso-sculpture-on-art-books%2C-Jonathan-Edelhuber%2C-2020.-Acrylic-on-canvas.-183%2C8-x-146%2C2-cm-%2872-x-58-in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 3,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766077833680
+    },
+    {
+      "id": "62601723dd9d82658cbd09e3",
+      "title": "Natalia González Martín",
+      "fullUrl": "/artist/natalia-gonzalez-martin",
+      "sourceUrl": "",
+      "urlId": "natalia-gonzalez-martin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/b9789fa1-d402-4bae-abbe-8bd0205eb19d/HD_Agatha%27s%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+21+x+14+cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 4,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1788428514726
+    },
+    {
+      "id": "6290e694f3a1532994b3c685",
+      "title": "Huang Hankang",
+      "fullUrl": "/artist/huang-hankang",
+      "sourceUrl": "",
+      "urlId": "huang-hankang",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655998624494-VJCLLF8JVBPY2GSMWM2P/WEB-Virus%2C-the-tricks-of-acrobatics-HH-Mi2008-mixed-media-on-paper-145x114.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 5,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766077696809
+    },
+    {
+      "id": "6290e71cb15204697d72ca4e",
+      "title": "Jonathan Hartshorn",
+      "fullUrl": "/artist/jonathan-hartshorn",
+      "sourceUrl": "",
+      "urlId": "jonathan-hartshorn",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656425870904-3JDPS53UL8738YT99GJ5/WEB_dolphin-dolphin-dolphin%2C-Jonathan-Hartshorn%2C-2014.-Acrylic-on-canvas%2C-181-x-121-cm-%2871.2-x-47.6-in%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 6,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766077544600
+    },
+    {
+      "id": "62584f9f75c9f431b979c20c",
+      "title": "Michael Hilsman",
+      "fullUrl": "/artist/michael-hilsman",
+      "sourceUrl": "",
+      "urlId": "michael-hilsman",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/55107944-55ea-4bee-9ccf-2b88186a5b88/HD_HilsmanCactusMagnoliaBlossom.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 7,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1649954719209,
+      "addedOn": 1649954719209,
+      "updatedOn": 1788428026808
+    },
+    {
+      "id": "628b8e8555b87d1bcbd2fddf",
+      "title": "Isaac Soh Fujita Howell",
+      "fullUrl": "/artist/isaac-soh-fujita-howell",
+      "sourceUrl": "",
+      "urlId": "isaac-soh-fujita-howell",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/b88d9b24-309b-4b97-bd4d-503eff896a08/HD4_IFH-2505.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 8,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1788428537958
+    },
+    {
+      "id": "62601a91b4962e063ed4c48b",
+      "title": "Yarisal & Kublitz",
+      "fullUrl": "/artist/yarisal-and-kublitz",
+      "sourceUrl": "",
+      "urlId": "yarisal-and-kublitz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651506215403-OQFXSWEKU8L3A6WLXXLP/Iran+For+marius012.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 9,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1788428454366
+    },
+    {
+      "id": "62600d33641c5f19589784d7",
+      "title": "Alexander Kosolapov",
+      "fullUrl": "/artist/alexander-kosolapov",
+      "sourceUrl": "",
+      "urlId": "alexander-kosolapov",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650465091194-J2YHUCV7H7YUIJALJ1DY/external-content.duckduckgo-2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.3810703754425049,
+        "y": 0.48516416549682617,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 10,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1788428082111
+    },
+    {
+      "id": "6256df924df3e1369056a753",
+      "title": "Tali Lennox",
+      "fullUrl": "/artist/tali-lennox",
+      "sourceUrl": "",
+      "urlId": "tali-lennox",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/968c623e-3941-4a12-ba9e-0199ec93668c/HD2_Sebastien_Bertrand_Lennox-027-Edit+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 11,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1649860497951,
+      "addedOn": 1649860497951,
+      "updatedOn": 1788428771599
+    },
+    {
+      "id": "62601c9bfb6cd977cc3057a1",
+      "title": "Mustafa Maluka",
+      "fullUrl": "/artist/mustafa-maluka",
+      "sourceUrl": "",
+      "urlId": "mustafa-maluka",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655998103899-D1BJX1SB9NZ1GJ30UUZP/image1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 12,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1766077241165
+    },
+    {
+      "id": "6290e839a58b2e4dee7d8ac3",
+      "title": "Max Maslansky",
+      "fullUrl": "/artist/max-maslansky",
+      "sourceUrl": "",
+      "urlId": "max-maslansky",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656426043508-2N6M3NGXCRVUANLM04XI/WEB_Undress-%28Double-bed%29-MaxM-2013-Acrylic-on-bed-sheet-190-x-135-cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 13,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766077094191
+    },
+    {
+      "id": "62cc0e8526a9ce029da5ab75",
+      "title": "Aks Misyuta",
+      "fullUrl": "/artist/aks-misyuta",
+      "sourceUrl": "",
+      "urlId": "aks-misyuta",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650464983192-EAKLZ24KZBEI46OA03BM/external-content.duckduckgo-1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 14,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562077630437,
+      "addedOn": 1562077630437,
+      "updatedOn": 1768831644637
+    },
+    {
+      "id": "626015f8348a253ac162b511",
+      "title": "Lydia Pettit",
+      "fullUrl": "/artist/lydia-pettit",
+      "sourceUrl": "",
+      "urlId": "lydia-pettit",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650465577621-FJED1WWKUFOUDQZ5MBJW/Lydia-Pettit.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 15,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1768831697140
+    },
+    {
+      "id": "628e3c737e41d5592d632a69",
+      "title": "Mathis Gasser",
+      "fullUrl": "/artist/mathis-gasser",
+      "sourceUrl": "",
+      "urlId": "mathis-gasser",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/d00232f7-fbc8-4aa8-a490-c70c0ff0ed13/HD_Sebastien_Bertrand-078-Edit+copy.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 16,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766076528245
+    },
+    {
+      "id": "62471b1fd7bc57549db5f439",
+      "title": "Richard Kern",
+      "fullUrl": "/artist/richard-kern",
+      "sourceUrl": "",
+      "urlId": "richard-kern",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650465679276-ZW1JW2D92SINVOWVCGPW/011821_RICHARDKERN_0335.jpg",
+      "mediaFocalPoint": {
+        "x": 0.47059738636016846,
+        "y": 0.30535274744033813,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 17,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562077927498,
+      "addedOn": 1562077927498,
+      "updatedOn": 1788428576821
+    },
+    {
+      "id": "626018c4fb1aa8627a3b63a5",
+      "title": "Walter Robinson",
+      "fullUrl": "/artist/walter-robinson",
+      "sourceUrl": "",
+      "urlId": "walter-robinson",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656694880883-QFY7OJXMWKY1W3NR63MT/Screenshot-2022-05-18-at-14.17.39.jpg",
+      "mediaFocalPoint": {
+        "x": 0.3547711968421936,
+        "y": 0.3821614682674408,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 18,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1788428415346
+    },
+    {
+      "id": "628e3da3a80ee215c677b564",
+      "title": "Hannah Rowan",
+      "fullUrl": "/artist/hannah-rowan",
+      "sourceUrl": "",
+      "urlId": "hannah-rowan",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655998903143-1VVWAZHCZXZH8BAOFUHN/05.jpeg",
+      "mediaFocalPoint": {
+        "x": 0.4508928656578064,
+        "y": 0.6041666865348816,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 19,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766075987361
+    },
+    {
+      "id": "628e3cf591bec74e9b6338af",
+      "title": "Storm Tharp",
+      "fullUrl": "/artist/storm-tharp",
+      "sourceUrl": "",
+      "urlId": "storm-tharp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655997504725-5M5WPHEATEBWYUJPVNV8/007_O7A5302.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 20,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766076120619
+    },
+    {
+      "id": "6290e6323022ca190925dccd",
+      "title": "Sam Kaprielov",
+      "fullUrl": "/artist/sam-kaprielov",
+      "sourceUrl": "",
+      "urlId": "sam-kaprielov",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655996798231-HB71V4OZL7XO850YONP2/WEB_Sigmund-Freud%2C-Sam-Kaprielov%2C-2015.-Oil-on-canvas.-66.5-x-56.5-cm-%2826.2-x-22.2-inches%29.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 21,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766076099426
+    },
+    {
+      "id": "62b474c202386b3d1cf006bb",
+      "title": "Purvis Young",
+      "fullUrl": "/artist/purvis-young",
+      "sourceUrl": "",
+      "urlId": "purvis-young",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656426127931-CHTC6UC6RTTAOGQUGKPC/WEB_Ancestors%2C-Purvis-Young%2C-1995.-Oil-on-wood.-71-x-117%2C5-cm-%2828-x-47-in%29.-%C2%AEAnnik-Wetter-copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 22,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766076074143
+    },
+    {
+      "id": "628b9616c81da12b1c79c278",
+      "title": "Cynthia Westwood",
+      "fullUrl": "/artist/cynthia-westwood",
+      "sourceUrl": "",
+      "urlId": "cynthia-westwood",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653316798965-5P1N0FJG6Z16YU3UNM0Z/Screenshot-2022-05-23-at-16.27.07.jpg",
+      "mediaFocalPoint": {
+        "x": 0.4086333215236664,
+        "y": 0.3583686053752899,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 23,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766076034683
+    },
+    {
+      "id": "62471b1fd7bc57549db5f41e",
+      "title": "Chloe Wise",
+      "fullUrl": "/artist/chloe-wise",
+      "sourceUrl": "",
+      "urlId": "chloe-wise",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/7dcf6c8e-013d-4f67-8daa-0e0406f40506/H2D_Be+able+not+to+be+able%2C+Chloe+Wise%2C+2022.+Oil+on+linen%2C+122+x+91.5+cm%2C+%2848+x+36+in+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 24,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1788428799610
+    },
+    {
+      "id": "652e5df51cd5510851ab9fab",
+      "title": "Sang Woo Kim",
+      "fullUrl": "/artist/sang-woo-kim",
+      "sourceUrl": "",
+      "urlId": "sang-woo-kim",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/5748517b-916a-4da4-be20-c80d45ef2e4c/HD5_Sang+Woo+Kim%2C+The+Corner+001%2C+2023%2C+Oil+on+canvas%2C+45.5+x+31.5+x+3+cm.%2C+18+x+12+%C2%BD+x+1+%C2%BC+in.+%28SWK-2304%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 25,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562077630437,
+      "addedOn": 1562077630437,
+      "updatedOn": 1790364668875
+    },
+    {
+      "id": "6762ac6a7ba64b5cb9342003",
+      "title": "Caspar Giorgio Williams",
+      "fullUrl": "/artist/caspar-giorgio-williams",
+      "sourceUrl": "",
+      "urlId": "caspar-giorgio-williams",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1734520699441-QHYT362CC3KT8KVL90LT/HD-CGW-2205_unframed.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 26,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1766076019802
+    },
+    {
+      "id": "63ecdbb98bcf081c6dc9aa3e",
+      "title": "Lian Zhang",
+      "fullUrl": "/artist/lian-zhang",
+      "sourceUrl": "",
+      "urlId": "lian-zhang",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1676468337395-O59UIFS4RTJQ688ZVBDP/WEB_PastedGraphic-2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 27,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562077630437,
+      "addedOn": 1562077630437,
+      "updatedOn": 1788428831476
+    }
+  ]
+}
