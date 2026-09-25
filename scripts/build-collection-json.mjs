@@ -21,6 +21,7 @@ const KEEP_FIELDS = [
   'location',
   'displayIndex',
   'workflowState',
+  'starred',
   'startDate',
   'publishOn',
   'addedOn',
