@@ -5,9 +5,9 @@
   "id": "artist",
   "path": "/artist",
   "sourceUrl": "https://sebastienbertrand.com/artist?format=json",
-  "updatedAt": "2026-09-29T08:28:23.076Z",
-  "sourceHash": "eb09729b71a4ec885d81081a2d0450658b1fea5434f518c4a38ce4b83f77bc76",
-  "count": 28,
+  "updatedAt": "2026-09-29T13:48:05.953Z",
+  "sourceHash": "1781d252b67db2fd0fc99119c5ca1ab3d3cc1f9773e06341c7399f239df62d9d",
+  "count": 29,
   "pages": 1,
   "items": [
     {
@@ -528,7 +528,7 @@
       "starred": false,
       "publishOn": 1562077630437,
       "addedOn": 1562077630437,
-      "updatedOn": 1790670238605
+      "updatedOn": 1790689135027
     },
     {
       "id": "6762ac6a7ba64b5cb9342003",
@@ -569,6 +569,26 @@
       "publishOn": 1562077630437,
       "addedOn": 1562077630437,
       "updatedOn": 1788428831476
+    },
+    {
+      "id": "6abbbf6ff291840e2afd7aac",
+      "title": "Sang Woo Kim (Jonas)",
+      "fullUrl": "/artist/sang-woo-kim-test",
+      "sourceUrl": "",
+      "urlId": "sang-woo-kim-test",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/5748517b-916a-4da4-be20-c80d45ef2e4c/HD5_Sang+Woo+Kim%2C+The+Corner+001%2C+2023%2C+Oil+on+canvas%2C+45.5+x+31.5+x+3+cm.%2C+18+x+12+%C2%BD+x+1+%C2%BC+in.+%28SWK-2304%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 28,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1790689134996,
+      "addedOn": 1562077630437,
+      "updatedOn": 1790689175670
     }
   ]
 }
