@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-09-30T06:48:23.519Z",
+  "updatedAt": "2026-09-30T07:08:24.261Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "5b11f869b2bd8147bc5ceceb61194c050e081d92105258eb0c7f1104f20fcbb6",
@@ -64,8 +64,8 @@
       "pages": 3
     },
     "sebastien-bertrand/artist.json": {
-      "sourceHash": "1781d252b67db2fd0fc99119c5ca1ab3d3cc1f9773e06341c7399f239df62d9d",
-      "updatedAt": "2026-09-29T13:48:05.953Z",
+      "sourceHash": "c40ed14ba24af1fa9aca19631889f0e82695a1ed29ac9301714d1a48eeb6690e",
+      "updatedAt": "2026-09-30T07:08:24.261Z",
       "count": 29,
       "pages": 1
     },
