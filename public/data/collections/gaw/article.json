@@ -5,9 +5,9 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-09-25T15:27:17.611Z",
-  "sourceHash": "8fad1d6d344551d7f64a7d33a63d057d24fb76b0acedd4b933156b8b3f8047cf",
-  "count": 39,
+  "updatedAt": "2026-09-30T13:38:19.786Z",
+  "sourceHash": "0d8c77d28a62dae98b976a218e88ff8f5d1c42a22e8c898249e5a1580f1e4fe7",
+  "count": 37,
   "pages": 2,
   "items": [
     {
@@ -432,7 +432,7 @@
     },
     {
       "id": "6a120ace2063d776bd1f3675",
-      "title": "Elise Lammer, directrice de Halle Nord, nous présente le travail de Yann Stéphane Bisso",
+      "title": "Elise Lammer nous présente le travail de Yann Stéphane Bisso",
       "fullUrl": "/article/perspective-yann-stephane-bisso-elise-lammer",
       "urlId": "perspective-yann-stephane-bisso-elise-lammer",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1779569036351-9OCYYKRZS50DEIDN6I3G/GAW_Perspectives_Yann_Bisso.webp",
@@ -447,8 +447,6 @@
       "tags": [
         "Artiste: Yann Stephane Bisso",
         "Sujet: Elise Lammer",
-        "Membre: Halle Nord",
-        "Quartier: L'Ile",
         "Quartier: Autre",
         "Catégorie: Perspectives"
       ],
@@ -468,7 +466,7 @@
       "starred": false,
       "publishOn": 1779567310283,
       "addedOn": 1779567310283,
-      "updatedOn": 1788723476152
+      "updatedOn": 1790775140722
     },
     {
       "id": "6a0f8e5009913b746bf12480",
@@ -973,45 +971,6 @@
       "updatedOn": 1779407861371
     },
     {
-      "id": "6899fc052f3ca22e34f831f8",
-      "title": "Séverine Fromaigeat · Musée Barbier-Mueller",
-      "fullUrl": "/article/rencontre-avec-severine-fromaigeat-musee-barbier-mueller",
-      "urlId": "rencontre-avec-severine-fromaigeat-musee-barbier-mueller",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/c914718b-bcd6-4df5-9b3e-ca1a24f6c24d/Geneva_Art_Week-Journal-Rencontre_avec-Severine_Fromaigeat-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.6265186304714294,
-        "y": 0.38989908384876526,
-        "source": 3
-      },
-      "categories": [
-        "Rencontre Avec"
-      ],
-      "tags": [
-        "Sujet: Séverine Fromaigeat",
-        "Membre: Musée Barbier-Mueller",
-        "Quartier: Vieille-Ville",
-        "Catégorie: Rencontre Avec"
-      ],
-      "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "displayIndex": 13,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1754922672050,
-      "addedOn": 1754922672050,
-      "updatedOn": 1779407837781
-    },
-    {
       "id": "6899f81be7255e29ec77da61",
       "title": "Pierre-Henri Jaccaud · Galerie Skopia",
       "fullUrl": "/article/rencontre-avec-pierre-henri-jaccaud-skopia",
@@ -1049,46 +1008,6 @@
       "publishOn": 1754921867065,
       "addedOn": 1754921867065,
       "updatedOn": 1779573405840
-    },
-    {
-      "id": "6899ea40ede86373980d7ce2",
-      "title": "Élise Lammer · Espace Halle Nord",
-      "fullUrl": "/article/rencontre-avec-elise-lammer-halle-nord",
-      "urlId": "rencontre-avec-elise-lammer-halle-nord",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755086725982-CUHZD099CVW8AWFH0HXN/Geneva_Art_Week-Journal-Rencontre_avec-Elise_Lammer-01.webp",
-      "mediaFocalPoint": {
-        "x": 0.7541410757491159,
-        "y": 0.4553994977211422,
-        "source": 3
-      },
-      "categories": [
-        "Rencontre Avec"
-      ],
-      "tags": [
-        "Sujet: Élise Lammer",
-        "Membre: Halle Nord",
-        "Quartier: L'Ile",
-        "Quartier: Autre",
-        "Catégorie: Rencontre Avec"
-      ],
-      "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
-      },
-      "displayIndex": 11,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1754918692571,
-      "addedOn": 1754918692571,
-      "updatedOn": 1779407917026
     },
     {
       "id": "6899e3a165abbf55060795f7",
@@ -1212,7 +1131,7 @@
     },
     {
       "id": "6899c51bdda9355c39dc30d3",
-      "title": "Asma Barchiche &amp; Mina Squalli-Houssaïni · Forde ",
+      "title": "Asma Barchiche &amp; Mina Squalli-Houssaïni · Forde (2023–2025)",
       "fullUrl": "/article/rencontre-avec-espace-forde",
       "urlId": "rencontre-avec-espace-forde",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1754908183393-7HFDULCIX8BSZJ4N555Z/PHOTO-2025-01-08-16-08-50.jpg",
@@ -1248,7 +1167,7 @@
       "starred": false,
       "publishOn": 1754908913272,
       "addedOn": 1754908913272,
-      "updatedOn": 1779407692343
+      "updatedOn": 1790775189647
     },
     {
       "id": "6899c107aebcf263997354ef",
