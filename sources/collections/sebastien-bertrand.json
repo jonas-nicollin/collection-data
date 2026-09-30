@@ -21,6 +21,16 @@
       "id": "all-news",
       "path": "/all-news",
       "url": "https://sebastienbertrand.com/all-news?format=json"
+    },
+    {
+      "id": "works",
+      "path": "/works",
+      "url": "https://sebastienbertrand.com/works?format=json",
+      "adapter": "squarespace-products",
+      "categoryOrder": {
+        "strategy": "category-pages",
+        "concurrency": 4
+      }
     }
   ]
 }
