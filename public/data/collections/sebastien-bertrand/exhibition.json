@@ -5,11 +5,51 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-25T15:27:37.487Z",
-  "sourceHash": "e95063df7f59e3ea48157751278fffd21f1b57c08634a17d6e1f738e1c579fa4",
-  "count": 107,
+  "updatedAt": "2026-09-30T14:08:43.437Z",
+  "sourceHash": "f076b793eada3a0648e6400cfea23ae7b55b2a6ba19db6549fb990c9a797ff47",
+  "count": 108,
   "pages": 1,
   "items": [
+    {
+      "id": "6ab3d91cfad2155b5ea13dfe",
+      "title": "Good Mourning ",
+      "fullUrl": "/exhibition/solo-show/mirella-jaworska-good-mourning",
+      "sourceUrl": "",
+      "urlId": "solo-show/mirella-jaworska-good-mourning",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1790171748245-0AHBJQ5XP7BJ013W43B2/IMG_9719+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Mirella Jaworska"
+      ],
+      "tags": [
+        "Year : 2026",
+        "Exhibition : Solo Show",
+        "Status: On View",
+        "Location:  158 rue du General Leclerc,77780 Bourron-Marlotte, France"
+      ],
+      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening, Wednesday 07 October 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050682,
+        "mapLng": 6.1591211,
+        "markerLat": 46.2050682,
+        "markerLng": 6.1591211,
+        "addressTitle": "Galerie Sébastien Bertrand",
+        "addressLine1": "16 Rue du Simplon",
+        "addressLine2": "Genève, GE, 1207",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 106,
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1790777228100,
+      "addedOn": 1790777228100,
+      "updatedOn": 1790777270313
+    },
     {
       "id": "6ab610dccd6792391538a93d",
       "title": "Selected Works: 1983–1991 (test&nbsp;2)",
