@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-09-30T14:08:43.437Z",
+  "updatedAt": "2026-09-30T15:08:25.152Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "5b11f869b2bd8147bc5ceceb61194c050e081d92105258eb0c7f1104f20fcbb6",
@@ -70,8 +70,8 @@
       "pages": 1
     },
     "sebastien-bertrand/exhibition.json": {
-      "sourceHash": "f076b793eada3a0648e6400cfea23ae7b55b2a6ba19db6549fb990c9a797ff47",
-      "updatedAt": "2026-09-30T14:08:43.437Z",
+      "sourceHash": "95c0a13d1335ccd5fd6d4574dd5727c75271199bbafd9903d7d999b6031e2f12",
+      "updatedAt": "2026-09-30T15:08:25.152Z",
       "count": 108,
       "pages": 1
     },

@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-30T14:08:43.437Z",
-  "sourceHash": "f076b793eada3a0648e6400cfea23ae7b55b2a6ba19db6549fb990c9a797ff47",
+  "updatedAt": "2026-09-30T15:08:25.152Z",
+  "sourceHash": "95c0a13d1335ccd5fd6d4574dd5727c75271199bbafd9903d7d999b6031e2f12",
   "count": 108,
   "pages": 1,
   "items": [
@@ -692,28 +692,28 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: Art Monte‑Carlo, Booth D2, Grimaldi Forum, 10 Av. Princesse Grâce, Monaco",
         "Date: 2025-07-07/2025-07-09",
-        "Opening reception: 2025-07-07T14:00/2025-07-07T20:00"
+        "Opening reception: 2025-07-07T14:00/2025-07-07T20:00",
+        "Location: Booth D2, Grimaldi Forum"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">7–9 July 2025</p><pre><code>Opening reception: Monday, July 07, 2–8 pm</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 43.744008,
+        "mapLng": 7.431414999999999,
+        "markerLat": 43.744008,
+        "markerLng": 7.431414999999999,
+        "addressTitle": "Grimaldi Forum",
+        "addressLine1": "Avenue Princesse Grace 10",
+        "addressLine2": "98000 Monaco",
+        "addressCountry": "Monaco"
       },
       "displayIndex": 94,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748089860666,
       "addedOn": 1748089860666,
-      "updatedOn": 1790177467092
+      "updatedOn": 1790780702309
     },
     {
       "id": "67da9ebd06177a40d785a54e",
