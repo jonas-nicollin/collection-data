@@ -15,7 +15,9 @@ const KEEP_FIELDS = [
   'urlId',
   'assetUrl',
   'mediaFocalPoint',
+  'media',
   'categories',
+  'categoryOrder',
   'tags',
   'excerpt',
   'location',
@@ -70,7 +72,55 @@ function extractNextUrl(data, currentUrl) {
   return null;
 }
 
-function cloneEssentialItem(item) {
+function collectNestedCategories(value, output = new Map()) {
+  if (!value || typeof value !== 'object') return output;
+
+  if (Array.isArray(value)) {
+    value.forEach((entry) => collectNestedCategories(entry, output));
+    return output;
+  }
+
+  if (value.id && value.displayName) {
+    output.set(String(value.id), {
+      id: String(value.id),
+      displayName: String(value.displayName).trim(),
+      fullUrl: value.fullUrl || null
+    });
+  }
+
+  if (Array.isArray(value.categories)) {
+    collectNestedCategories(value.categories, output);
+  }
+
+  if (Array.isArray(value.children)) {
+    collectNestedCategories(value.children, output);
+  }
+
+  return output;
+}
+
+function normalizeProductMedia(item) {
+  const media = Array.isArray(item?.items) ? item.items : [];
+  const seen = new Set();
+
+  return media
+    .slice()
+    .sort((a, b) => Number(a?.displayIndex || 0) - Number(b?.displayIndex || 0))
+    .map((entry) => {
+      const assetUrl = entry?.assetUrl || entry?.asset?.url || null;
+      if (!assetUrl || seen.has(assetUrl)) return null;
+      seen.add(assetUrl);
+
+      return {
+        assetUrl,
+        mediaFocalPoint: entry.mediaFocalPoint || entry?.asset?.mediaFocalPoint || null,
+        title: entry.title || entry.filename || ''
+      };
+    })
+    .filter(Boolean);
+}
+
+function cloneEssentialItem(item, options = {}) {
   const output = {};
 
   KEEP_FIELDS.forEach((field) => {
@@ -85,6 +135,24 @@ function cloneEssentialItem(item) {
 
   if (!output.mediaFocalPoint && item?.asset?.mediaFocalPoint) {
     output.mediaFocalPoint = item.asset.mediaFocalPoint;
+  }
+
+  if (options.adapter === 'squarespace-products') {
+    const categoryMap = options.categoryMap || new Map();
+    const categoryIds = Array.isArray(item?.categoryIds) ? item.categoryIds : [];
+    const categories = categoryIds
+      .map((id) => categoryMap.get(String(id))?.displayName)
+      .filter(Boolean);
+    const media = normalizeProductMedia(item);
+
+    output.categories = categories;
+    output.media = media;
+    output.sourceType = 'product';
+
+    if (media.length) {
+      output.assetUrl = media[0].assetUrl;
+      output.mediaFocalPoint = media[0].mediaFocalPoint || output.mediaFocalPoint || null;
+    }
   }
 
   return output;
@@ -205,21 +273,87 @@ async function fetchJson(url, cookies) {
   throw new Error(`Unable to fetch ${url}`);
 }
 
+async function mapWithConcurrency(values, concurrency, worker) {
+  const queue = values.slice();
+  const results = [];
+  const workerCount = Math.max(1, Math.min(Number(concurrency || 4), queue.length || 1));
+
+  await Promise.all(Array.from({ length: workerCount }, async () => {
+    while (queue.length) {
+      const value = queue.shift();
+      results.push(await worker(value));
+    }
+  }));
+
+  return results;
+}
+
+async function fetchOrderedCategoryItems(category, collection, cookies) {
+  if (!category?.fullUrl) return { category, ids: [] };
+
+  let url = ensureJson(new URL(category.fullUrl, collection.url).toString());
+  const ids = [];
+  const visited = new Set();
+
+  while (url && !visited.has(url)) {
+    visited.add(url);
+    const data = await fetchJson(url, cookies);
+    extractItems(data).forEach((item) => {
+      if (item?.id) ids.push(String(item.id));
+    });
+    url = extractNextUrl(data, url);
+  }
+
+  return { category, ids };
+}
+
+async function addCategoryOrder(items, categoryMap, collection, cookies) {
+  const categoryOptions = collection.categoryOrder || {};
+  if (categoryOptions.strategy !== 'category-pages') return items;
+
+  const categories = Array.from(categoryMap.values()).filter((category) => category.fullUrl);
+  const orderedCategories = await mapWithConcurrency(
+    categories,
+    categoryOptions.concurrency || 4,
+    (category) => fetchOrderedCategoryItems(category, collection, cookies)
+  );
+  const itemById = new Map(items.map((item) => [String(item.id || ''), item]));
+
+  orderedCategories.forEach(({ category, ids }) => {
+    ids.forEach((id, index) => {
+      const item = itemById.get(id);
+      if (!item) return;
+      if (!item.categoryOrder) item.categoryOrder = {};
+      item.categoryOrder[category.displayName] = index;
+    });
+  });
+
+  return items;
+}
+
 async function fetchAllCollectionItems(collection) {
   let url = ensureJson(collection.url);
-  const items = [];
+  const rawItems = [];
   const visited = new Set();
   const cookies = new Map();
+  const categoryMap = new Map();
   let pages = 0;
 
   while (url && !visited.has(url)) {
     visited.add(url);
     const data = await fetchJson(url, cookies);
-    const batch = extractItems(data).map(cloneEssentialItem);
-    items.push(...batch);
+    collectNestedCategories(data?.nestedCategories, categoryMap);
+    rawItems.push(...extractItems(data));
     pages += 1;
     url = extractNextUrl(data, url);
   }
+
+  const items = rawItems.map((item) => cloneEssentialItem(item, {
+    adapter: collection.adapter,
+    categoryMap
+  }));
+
+  await addCategoryOrder(items, categoryMap, collection, cookies);
 
   return { items, pages };
 }
