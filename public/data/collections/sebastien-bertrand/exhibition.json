@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T07:38:15.917Z",
-  "sourceHash": "38a8d5a02c976870d7fe1a65c15eae3857731c0424a220493e85fdb1471fdf0e",
+  "updatedAt": "2026-10-01T07:45:22.350Z",
+  "sourceHash": "4ff33c891c21768dfb551b745e18e162ddf208f83399b93dd0fac1423b98fbda",
   "count": 108,
   "pages": 1,
   "items": [
@@ -1177,27 +1177,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
-        "Location: Booth Yellow 16, Lingotto Fiere, Torino",
-        "Date: 2024-11-01/2024-11-03"
+        "Date: 2024-11-01/2024-11-03",
+        "Location: Booth Yellow 16, Lingotto Fiere"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1 November–3 November 2024</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 45.0326573,
+        "mapLng": 7.6634667,
+        "markerLat": 45.0326573,
+        "markerLng": 7.6634667,
+        "addressTitle": "Oval Lingotto Fiere Torino",
+        "addressLine1": "Via Giacomo Mattè Trucco 70",
+        "addressLine2": "10126 Torino",
+        "addressCountry": "Italy"
       },
       "displayIndex": 82,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1724159700367,
       "addedOn": 1724159700367,
-      "updatedOn": 1790177758446
+      "updatedOn": 1790840666227
     },
     {
       "id": "66c8a771173d5100b7fb0403",
@@ -1684,27 +1684,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
-        "Location: Booth Pink A9, Lingotto Fiere, Turin",
-        "Date: 2023-11-03/2023-11-05"
+        "Date: 2023-11-03/2023-11-05",
+        "Location: Booth Pink A9, Lingotto Fiere"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3–5 November 2023</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 45.0326573,
+        "mapLng": 7.6634667,
+        "markerLat": 45.0326573,
+        "markerLng": 7.6634667,
+        "addressTitle": "Oval Lingotto Fiere Torino",
+        "addressLine1": "Via Giacomo Mattè Trucco 70",
+        "addressLine2": "10126 Torino",
+        "addressCountry": "Italy"
       },
       "displayIndex": 70,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1693575180290,
       "addedOn": 1693575180290,
-      "updatedOn": 1790178699286
+      "updatedOn": 1790840624576
     },
     {
       "id": "649d44745df0621342a08642",
@@ -2112,30 +2112,30 @@
         "Joe Andoe"
       ],
       "tags": [
-        "Location: Booth Fuxia 9, Lingotto Fiere, Turin",
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2022",
-        "Date: 2022-11-04/2022-11-06"
+        "Date: 2022-11-04/2022-11-06",
+        "Location: Booth Fuxia 9, Lingotto Fiere"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4–6 November 2022</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 45.0326573,
+        "mapLng": 7.6634667,
+        "markerLat": 45.0326573,
+        "markerLng": 7.6634667,
+        "addressTitle": "Oval Lingotto Fiere Torino",
+        "addressLine1": "Via Giacomo Mattè Trucco 70",
+        "addressLine2": "10126 Torino",
+        "addressCountry": "Italy"
       },
       "displayIndex": 59,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1663936660147,
       "addedOn": 1663936660147,
-      "updatedOn": 1790179020820
+      "updatedOn": 1790840582465
     },
     {
       "id": "62fcc0fd6fd02c7c0c08de26",
@@ -2468,27 +2468,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2021",
-        "Location: Booth Yellow 15, Lingotto Fiere, Turin",
-        "Date: 2021-11-04/2021-11-07"
+        "Date: 2021-11-04/2021-11-07",
+        "Location: Booth Yellow 15, Lingotto Fiere"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4–7 November 2021</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 45.0326573,
+        "mapLng": 7.6634667,
+        "markerLat": 45.0326573,
+        "markerLng": 7.6634667,
+        "addressTitle": "Oval Lingotto Fiere Torino",
+        "addressLine1": "Via Giacomo Mattè Trucco 70",
+        "addressLine2": "10126 Torino",
+        "addressCountry": "Italy"
       },
       "displayIndex": 35,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1636023600032,
       "addedOn": 1636023600032,
-      "updatedOn": 1790179152163
+      "updatedOn": 1790840540011
     },
     {
       "id": "61fbdb1a9e4049265e86ab40",
@@ -3142,30 +3142,30 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Location: Booth Black 4, Lingotto Fiere, Turin",
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2019",
-        "Date: 2019-11-29/2020-01-25"
+        "Date: 2019-11-29/2020-01-25",
+        "Location: Booth Black 4, Lingotto Fiere"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1–3 November 2019</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 45.0326573,
+        "mapLng": 7.6634667,
+        "markerLat": 45.0326573,
+        "markerLng": 7.6634667,
+        "addressTitle": "Oval Lingotto Fiere Torino",
+        "addressLine1": "Via Giacomo Mattè Trucco 70",
+        "addressLine2": "10126 Torino",
+        "addressCountry": "Italy"
       },
       "displayIndex": 41,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1572626400101,
       "addedOn": 1572626400101,
-      "updatedOn": 1790179438243
+      "updatedOn": 1790840498558
     },
     {
       "id": "6262976988253841acd83d55",
@@ -3460,30 +3460,30 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Location: Booth DS16, Lingotto Fiere, Turin",
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2018",
-        "Date: 2018-11-02/2018-11-04"
+        "Date: 2018-11-02/2018-11-04",
+        "Location: Booth DS16, Lingotto Fiere"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2–4 November 2018</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 45.0326573,
+        "mapLng": 7.6634667,
+        "markerLat": 45.0326573,
+        "markerLng": 7.6634667,
+        "addressTitle": "Oval Lingotto Fiere Torino",
+        "addressLine1": "Via Giacomo Mattè Trucco 70",
+        "addressLine2": "10126 Torino",
+        "addressCountry": "Italy"
       },
       "displayIndex": 45,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1541179860507,
       "addedOn": 1541179860507,
-      "updatedOn": 1790179547717
+      "updatedOn": 1790840451246
     },
     {
       "id": "626138d2a04f9c0c5eb3531b",
@@ -3712,30 +3712,30 @@
         "Todd Bienvenu"
       ],
       "tags": [
-        "Location: Booth PF 07, Lingotto Fiere, Turin",
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
-        "Date: 2017-11-02/2017-11-05"
+        "Date: 2017-11-02/2017-11-05",
+        "Location: Booth PF 07, Lingotto Fiere"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2–5 November 2017</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 45.0326573,
+        "mapLng": 7.6634667,
+        "markerLat": 45.0326573,
+        "markerLng": 7.6634667,
+        "addressTitle": "Oval Lingotto Fiere Torino",
+        "addressLine1": "Via Giacomo Mattè Trucco 70",
+        "addressLine2": "10126 Torino",
+        "addressCountry": "Italy"
       },
       "displayIndex": 48,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1509634740079,
       "addedOn": 1509634740079,
-      "updatedOn": 1790176887225
+      "updatedOn": 1790840407790
     },
     {
       "id": "626132837a157b5715a37934",
