@@ -5,8 +5,8 @@
   "id": "artist",
   "path": "/artist",
   "sourceUrl": "https://sebastienbertrand.com/artist?format=json",
-  "updatedAt": "2026-10-01T15:18:15.022Z",
-  "sourceHash": "465dd29ad1612c59a1371b4c7653cad5721fd518fdc7dc40ee3f7e5c7ef00ade",
+  "updatedAt": "2026-10-01T15:28:07.555Z",
+  "sourceHash": "f041ecac5e0c83308760c4dfd94744206c202944f9dbd0e82f75b57955223840",
   "count": 29,
   "pages": 1,
   "items": [
@@ -91,6 +91,66 @@
       "updatedOn": 1790867844639
     },
     {
+      "id": "62584f9f75c9f431b979c20c",
+      "title": "Michael Hilsman",
+      "fullUrl": "/artist/michael-hilsman",
+      "sourceUrl": "",
+      "urlId": "michael-hilsman",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/55107944-55ea-4bee-9ccf-2b88186a5b88/HD_HilsmanCactusMagnoliaBlossom.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 4,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1649954719209,
+      "addedOn": 1649954719209,
+      "updatedOn": 1790868178708
+    },
+    {
+      "id": "628b8e8555b87d1bcbd2fddf",
+      "title": "Isaac Soh Fujita Howell",
+      "fullUrl": "/artist/isaac-soh-fujita-howell",
+      "sourceUrl": "",
+      "urlId": "isaac-soh-fujita-howell",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/b88d9b24-309b-4b97-bd4d-503eff896a08/HD4_IFH-2505.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 5,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1653311216933,
+      "addedOn": 1653311216933,
+      "updatedOn": 1790868304737
+    },
+    {
+      "id": "62471b1fd7bc57549db5f439",
+      "title": "Richard Kern",
+      "fullUrl": "/artist/richard-kern",
+      "sourceUrl": "",
+      "urlId": "richard-kern",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650465679276-ZW1JW2D92SINVOWVCGPW/011821_RICHARDKERN_0335.jpg",
+      "mediaFocalPoint": {
+        "x": 0.47059738636016846,
+        "y": 0.30535274744033813,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 6,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562077927498,
+      "addedOn": 1562077927498,
+      "updatedOn": 1790868345682
+    },
+    {
       "id": "628e3d2aefc5ef1a71ac399e",
       "title": "Jonathan Edelhuber",
       "fullUrl": "/artist/jonathan-edelhuber",
@@ -103,7 +163,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 4,
+      "displayIndex": 7,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -123,7 +183,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 5,
+      "displayIndex": 8,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -143,52 +203,12 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 6,
+      "displayIndex": 9,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
       "updatedOn": 1766077544600
-    },
-    {
-      "id": "62584f9f75c9f431b979c20c",
-      "title": "Michael Hilsman",
-      "fullUrl": "/artist/michael-hilsman",
-      "sourceUrl": "",
-      "urlId": "michael-hilsman",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/55107944-55ea-4bee-9ccf-2b88186a5b88/HD_HilsmanCactusMagnoliaBlossom.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 7,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1649954719209,
-      "addedOn": 1649954719209,
-      "updatedOn": 1788428026808
-    },
-    {
-      "id": "628b8e8555b87d1bcbd2fddf",
-      "title": "Isaac Soh Fujita Howell",
-      "fullUrl": "/artist/isaac-soh-fujita-howell",
-      "sourceUrl": "",
-      "urlId": "isaac-soh-fujita-howell",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/b88d9b24-309b-4b97-bd4d-503eff896a08/HD4_IFH-2505.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 8,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1653311216933,
-      "addedOn": 1653311216933,
-      "updatedOn": 1790751674331
     },
     {
       "id": "62601a91b4962e063ed4c48b",
@@ -203,7 +223,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 9,
+      "displayIndex": 10,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -223,7 +243,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 10,
+      "displayIndex": 11,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -243,7 +263,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 11,
+      "displayIndex": 12,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1649860497951,
@@ -263,7 +283,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 12,
+      "displayIndex": 13,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -283,7 +303,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 13,
+      "displayIndex": 14,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -303,7 +323,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 14,
+      "displayIndex": 15,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562077630437,
@@ -323,7 +343,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 15,
+      "displayIndex": 16,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -343,32 +363,12 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 16,
+      "displayIndex": 17,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
       "updatedOn": 1766076528245
-    },
-    {
-      "id": "62471b1fd7bc57549db5f439",
-      "title": "Richard Kern",
-      "fullUrl": "/artist/richard-kern",
-      "sourceUrl": "",
-      "urlId": "richard-kern",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650465679276-ZW1JW2D92SINVOWVCGPW/011821_RICHARDKERN_0335.jpg",
-      "mediaFocalPoint": {
-        "x": 0.47059738636016846,
-        "y": 0.30535274744033813,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 17,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1562077927498,
-      "addedOn": 1562077927498,
-      "updatedOn": 1788428576821
     },
     {
       "id": "626018c4fb1aa8627a3b63a5",
