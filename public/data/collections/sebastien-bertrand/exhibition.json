@@ -5,9 +5,9 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T12:28:22.942Z",
-  "sourceHash": "3bcbd215b279a9c0a1602db886eaa4564a6bd24ff15d058a51f1623847a33cd7",
-  "count": 108,
+  "updatedAt": "2026-10-01T12:48:28.828Z",
+  "sourceHash": "92ce3d208a56e61e0e12e56d425219695238cc84dec20fc45ddabf86f878226c",
+  "count": 106,
   "pages": 1,
   "items": [
     {
@@ -29,8 +29,8 @@
         "Year : 2026",
         "Exhibition : Solo Show",
         "Status: On View",
-        "Date: 2026-10-07/?",
-        "Opening: 2026-10-07"
+        "Opening: 2026-10-07",
+        "Date: 2026-10-07"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening, Wednesday 07 October 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -49,87 +49,7 @@
       "starred": true,
       "publishOn": 1790777228100,
       "addedOn": 1790777228100,
-      "updatedOn": 1790851312595
-    },
-    {
-      "id": "6ab610dccd6792391538a93d",
-      "title": "Selected Works: 1983–1991 (test&nbsp;2)",
-      "fullUrl": "/exhibition/solo-show/rammellzee-selected-works-1983-1991-dkdl3",
-      "sourceUrl": "",
-      "urlId": "solo-show/rammellzee-selected-works-1983-1991-dkdl3",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1779958607008-LKIQHYELV2OAI9B7T0Q8/HD2-RLZ-9102.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "RAMMELLZEE"
-      ],
-      "tags": [
-        "Year: 2026",
-        "Exhibition: Solo Show",
-        "Date: 2026-06-04/2026-09-17",
-        "Opening: 2026-11-12"
-      ],
-      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">05.06.2026–17.07.2026<br>Opening: Thursday 04 June, 6:30 - 8:00 pm  </p>",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Sébastien Bertrand",
-        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
-        "addressLine2": "1207 Geneva",
-        "addressCountry": "Switzerland"
-      },
-      "displayIndex": 108,
-      "workflowState": 1,
-      "starred": true,
-      "publishOn": 1790316764767,
-      "addedOn": 1790316764767,
-      "updatedOn": 1790854851591
-    },
-    {
-      "id": "6ab3bc5cd07af854f4ae2f6f",
-      "title": "Fruta y Media Tarde (Test Jonas en cours)",
-      "fullUrl": "/exhibition/solo-show/natalia-gonzalez-martin-fruta-y-media-tarde-wepxp",
-      "sourceUrl": "",
-      "urlId": "solo-show/natalia-gonzalez-martin-fruta-y-media-tarde-wepxp",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1774370460109-RXJMEYTV740GDVAWCRXE/HD_Bertrand_2747-1+copie.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "categories": [
-        "Natalia González Martín"
-      ],
-      "tags": [
-        "Year: 2026",
-        "Exhibition: Solo Show",
-        "Date: 2026-12-22/2027-03-25",
-        "Year: 2027"
-      ],
-      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Extended until 16 May 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26.03.2026–08.05.2026 </p>",
-      "location": {
-        "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Sébastien Bertrand",
-        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
-        "addressLine2": "1207 Geneva",
-        "addressCountry": "Switzerland"
-      },
-      "displayIndex": 105,
-      "workflowState": 1,
-      "starred": true,
-      "publishOn": 1790164060088,
-      "addedOn": 1790164060088,
-      "updatedOn": 1790836644329
+      "updatedOn": 1790858805971
     },
     {
       "id": "6aa0388f8f42385764242634",
