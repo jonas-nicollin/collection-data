@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T08:28:20.838Z",
-  "sourceHash": "db99b87d553ae96c231758c61fc6cfe5acc8b181256293618eee63f8d72ea7f9",
+  "updatedAt": "2026-10-01T08:38:21.631Z",
+  "sourceHash": "81e907ecbf02622a54b63389f3a21e5fe062ca35dbc14d220bc0c0db908ef08f",
   "count": 108,
   "pages": 1,
   "items": [
@@ -174,7 +174,7 @@
     },
     {
       "id": "6a18069ca7b1a53def6c320c",
-      "title": "LISTE 2026",
+      "title": "Liste 2026",
       "fullUrl": "/exhibition/fair/liste-2026-isaac-soh-fujita-howell",
       "sourceUrl": "",
       "urlId": "fair/liste-2026-isaac-soh-fujita-howell",
@@ -199,13 +199,13 @@
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15 – 21 June 2026</p><pre><code>Opening Reception: Monday, June 15, 11:00 – 20:00 </code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "mapLat": 47.5648056,
+        "mapLng": 7.6009673,
+        "markerLat": 47.5648056,
+        "markerLng": 7.6009673,
+        "addressTitle": "Messe Basel, Hall 1.1",
+        "addressLine1": "Messeplatz 10",
+        "addressLine2": "4005 Basel",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 103,
@@ -213,7 +213,7 @@
       "starred": true,
       "publishOn": 1781013857312,
       "addedOn": 1781013857312,
-      "updatedOn": 1790082581317
+      "updatedOn": 1790843390896
     },
     {
       "id": "6a1801b0bc711572d93ba3fa",
@@ -2515,21 +2515,21 @@
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">21 –24 October 2021</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
+        "mapLat": 48.8661091,
+        "mapLng": 2.3124544,
+        "markerLat": 48.8661091,
+        "markerLng": 2.3124544,
+        "addressTitle": "Grand Palais",
         "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "addressLine2": "75008 Paris",
+        "addressCountry": "France"
       },
       "displayIndex": 36,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1634810400852,
       "addedOn": 1634810400852,
-      "updatedOn": 1790179164823
+      "updatedOn": 1790843452351
     },
     {
       "id": "61fa67f781835f02a11b5937",
@@ -3422,27 +3422,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2018",
-        "Location: Vanderborght Building (1st floor), Brussels, Belgium",
-        "Date: 2018-11-08/2018-11-11"
+        "Date: 2018-11-08/2018-11-11",
+        "Location: 1st floor, Vanderborght Building"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">8–11 November 2018</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 50.8488587,
+        "mapLng": 4.3556319,
+        "markerLat": 50.8488587,
+        "markerLng": 4.3556319,
+        "addressTitle": "Vanderborght Building",
+        "addressLine1": "Rue de l’Ecuyer 50",
+        "addressLine2": "1000 Brussels",
+        "addressCountry": "Belgium"
       },
       "displayIndex": 44,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1541697180854,
       "addedOn": 1541697180854,
-      "updatedOn": 1790179528247
+      "updatedOn": 1790843548824
     },
     {
       "id": "6262d87cab43c020a771a848",
@@ -3884,27 +3884,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
-        "Location: 5th Floor, Vanderborght Building, Brussels",
-        "Date: 2017-04-19/2017-04-23"
+        "Date: 2017-04-19/2017-04-23",
+        "Location: 5th floor, Vanderborght Building"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">19–23 April 2017</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 50.8488587,
+        "mapLng": 4.3556319,
+        "markerLat": 50.8488587,
+        "markerLng": 4.3556319,
+        "addressTitle": "Vanderborght Building",
+        "addressLine1": "Rue de l’Ecuyer 50",
+        "addressLine2": "1000 Brussels",
+        "addressCountry": "Belgium"
       },
       "displayIndex": 49,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1492613040618,
       "addedOn": 1492613040618,
-      "updatedOn": 1790176648015
+      "updatedOn": 1790843601773
     },
     {
       "id": "6266b6327f81c47c8b318b0f",
@@ -4007,30 +4007,30 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Location: Booth 5.02, Skylight Clarkson North, New York",
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
-        "Date: 2017-03-02/2017-03-05"
+        "Date: 2017-03-02/2017-03-05",
+        "Location: Booth 5.02, Skylight Clarkson North"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2–5 March 2017</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 40.729217,
+        "mapLng": -74.0094226,
+        "markerLat": 40.729217,
+        "markerLng": -74.0094226,
+        "addressTitle": "Skylight Clarkson North",
+        "addressLine1": "572 Washington Street",
+        "addressLine2": "10014 New York",
+        "addressCountry": "United States"
       },
       "displayIndex": 51,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1488471120144,
       "addedOn": 1488471120144,
-      "updatedOn": 1790176602296
+      "updatedOn": 1790843748069
     },
     {
       "id": "6261293a9de5b53f5e7314fc",
@@ -4253,27 +4253,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2016",
-        "Location: Booth 4.02, Basketball City, New York",
-        "Date: 2016-05-05/2016-05-08"
+        "Date: 2016-05-05/2016-05-08",
+        "Location: Booth 4.02, Basketball City"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5–8 May 2016</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 40.7097802,
+        "mapLng": -73.9847377,
+        "markerLat": 40.7097802,
+        "markerLng": -73.9847377,
+        "addressTitle": "Basketball City",
+        "addressLine1": "299 South Street",
+        "addressLine2": "10002 New York",
+        "addressCountry": "United States"
       },
       "displayIndex": 54,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1462462620549,
       "addedOn": 1462462620549,
-      "updatedOn": 1790175190061
+      "updatedOn": 1790843672160
     },
     {
       "id": "6267cb9b255c0c739ce80b4f",
