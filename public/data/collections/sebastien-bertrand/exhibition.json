@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T14:18:12.017Z",
-  "sourceHash": "4a23ef8d21063a3a6e6fd853a90e8f15d6bd18272473a5abb4d19163f6d84ffa",
+  "updatedAt": "2026-10-01T14:22:44.282Z",
+  "sourceHash": "a8748ee8ba2f68f58dbaa3688c13311385f886a9a466f5539aecd0388e706d9b",
   "count": 107,
   "pages": 1,
   "items": [
@@ -3193,7 +3193,7 @@
     },
     {
       "id": "6262997ea430a1080f8b3527",
-      "title": "Solo-show",
+      "title": "Solo-show Purvis Young",
       "fullUrl": "/exhibition/purvis-young-solo-show",
       "sourceUrl": "",
       "urlId": "purvis-young-solo-show",
@@ -3229,7 +3229,7 @@
       "starred": true,
       "publishOn": 1558008180247,
       "addedOn": 1558008180247,
-      "updatedOn": 1790864168966
+      "updatedOn": 1790864508164
     },
     {
       "id": "6262ce702152581d23bf680d",
