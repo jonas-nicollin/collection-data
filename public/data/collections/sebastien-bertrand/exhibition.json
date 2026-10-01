@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T14:22:44.282Z",
-  "sourceHash": "a8748ee8ba2f68f58dbaa3688c13311385f886a9a466f5539aecd0388e706d9b",
+  "updatedAt": "2026-10-01T14:28:10.744Z",
+  "sourceHash": "0f04b6a0cc07ccc87f27b1305a2483e16534417044081bdb5d06084755ea08eb",
   "count": 107,
   "pages": 1,
   "items": [
@@ -3912,7 +3912,7 @@
       "starred": false,
       "publishOn": 1491576840684,
       "addedOn": 1491576840684,
-      "updatedOn": 1790176638161
+      "updatedOn": 1790864878181
     },
     {
       "id": "62612e2f541a5847c24b4c4d",
@@ -3952,7 +3952,7 @@
       "starred": true,
       "publishOn": 1489749180279,
       "addedOn": 1489749180279,
-      "updatedOn": 1790838368505
+      "updatedOn": 1790864847519
     },
     {
       "id": "6266ba461e34f11bd911bf17",
@@ -3994,7 +3994,7 @@
       "starred": false,
       "publishOn": 1488471120144,
       "addedOn": 1488471120144,
-      "updatedOn": 1790843748069
+      "updatedOn": 1790864832441
     },
     {
       "id": "6261293a9de5b53f5e7314fc",
@@ -4034,7 +4034,7 @@
       "starred": true,
       "publishOn": 1485859860412,
       "addedOn": 1485859860412,
-      "updatedOn": 1790838392525
+      "updatedOn": 1790864821307
     },
     {
       "id": "6266bc567e435069ce69e6e5",
@@ -4075,7 +4075,7 @@
       "starred": true,
       "publishOn": 1485447600084,
       "addedOn": 1485447600084,
-      "updatedOn": 1790855616736
+      "updatedOn": 1790864803210
     },
     {
       "id": "6261264870526c619aec469e",
@@ -4115,7 +4115,7 @@
       "starred": true,
       "publishOn": 1479551940857,
       "addedOn": 1479551940857,
-      "updatedOn": 1790838419932
+      "updatedOn": 1790864790640
     },
     {
       "id": "62612450352dd9784d530314",
@@ -4155,7 +4155,7 @@
       "starred": true,
       "publishOn": 1475227800716,
       "addedOn": 1475227800716,
-      "updatedOn": 1790838448767
+      "updatedOn": 1790864777024
     },
     {
       "id": "62611ec77448c115a4a319da",
@@ -4193,7 +4193,7 @@
       "starred": false,
       "publishOn": 1465549620834,
       "addedOn": 1465549620834,
-      "updatedOn": 1790857328085
+      "updatedOn": 1790864760982
     },
     {
       "id": "6266c05583150d693796535e",
@@ -4237,7 +4237,7 @@
       "starred": false,
       "publishOn": 1462462620549,
       "addedOn": 1462462620549,
-      "updatedOn": 1790843672160
+      "updatedOn": 1790864681151
     },
     {
       "id": "6267cb9b255c0c739ce80b4f",
@@ -4280,7 +4280,7 @@
       "starred": false,
       "publishOn": 1462012680127,
       "addedOn": 1462012680127,
-      "updatedOn": 1790840968911
+      "updatedOn": 1790864667677
     },
     {
       "id": "62611b1ecb4ce2169125eabb",
