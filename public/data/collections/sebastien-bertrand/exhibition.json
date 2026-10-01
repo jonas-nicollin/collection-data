@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T08:38:21.631Z",
-  "sourceHash": "81e907ecbf02622a54b63389f3a21e5fe062ca35dbc14d220bc0c0db908ef08f",
+  "updatedAt": "2026-10-01T09:38:23.189Z",
+  "sourceHash": "76f92eca059f9b5aec78b69ecacaac11fe378849a03f1b5d4fe9aa938353d2a0",
   "count": 108,
   "pages": 1,
   "items": [
@@ -16,10 +16,10 @@
       "fullUrl": "/exhibition/solo-show/mirella-jaworska-good-mourning",
       "sourceUrl": "",
       "urlId": "solo-show/mirella-jaworska-good-mourning",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1790171748245-0AHBJQ5XP7BJ013W43B2/IMG_9719+copie.jpg",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1790847202625-1H8CH6RPLYCYKC0IJX3O/Mirella%2BJaworska_12.jpg",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.5306533391279153,
+        "y": 0.6325311010347634,
         "source": 3
       },
       "categories": [
@@ -47,7 +47,7 @@
       "starred": true,
       "publishOn": 1790777228100,
       "addedOn": 1790777228100,
-      "updatedOn": 1790838901426
+      "updatedOn": 1790847221876
     },
     {
       "id": "6ab610dccd6792391538a93d",
