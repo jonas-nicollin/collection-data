@@ -5,9 +5,9 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T13:58:14.915Z",
-  "sourceHash": "968da3ffafcde5f4648ff37f1523c7e311dad4409ca59498a1ded647987a5909",
-  "count": 106,
+  "updatedAt": "2026-10-01T14:08:11.173Z",
+  "sourceHash": "d993fbca913f0356e083e26fcaa8b3b42c637fbaeee8481213abdd9c880709b5",
+  "count": 107,
   "pages": 1,
   "items": [
     {
@@ -50,6 +50,47 @@
       "publishOn": 1790777228100,
       "addedOn": 1790777228100,
       "updatedOn": 1790860929828
+    },
+    {
+      "id": "6abe66cbf8e2ae2afc14700a",
+      "title": "Solo show",
+      "fullUrl": "/exhibition/solo-show/thomas-fougeirol",
+      "sourceUrl": "",
+      "urlId": "solo-show/thomas-fougeirol",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1790863191938-Q7BAF0GDBUMR2EORVZ9G/HD3_Sang%2BWoo%2BKim%252C%2BClarity%2B001%252C%2B2020%252C%2BOil%2Bon%2Bcanvas%252C%2B51.5%2Bx%2B41%2Bx%2B3%2Bcm.%252C%2B20%2B%25C2%25BC%2Bx%2B16%2B%25C2%25BC%2Bx%2B1%2B%25C2%25BC%2Bin.%2B%2528SWK-2002%2529%2Bcopie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.46351736745886657,
+        "y": 0.6146369819217579,
+        "source": 3
+      },
+      "categories": [
+        "Thomas Fougeirol"
+      ],
+      "tags": [
+        "Exhibition : Solo Show",
+        "Status: On View",
+        "Opening: 2026-10-07",
+        "Year: 2026",
+        "Date: 2026-10-08/2026-11-21"
+      ],
+      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening, Wednesday 07 October 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2050639,
+        "mapLng": 6.159070600000001,
+        "markerLat": 46.2050639,
+        "markerLng": 6.159070600000001,
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile-Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 106,
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1790604259553,
+      "addedOn": 1790604259553,
+      "updatedOn": 1790863474384
     },
     {
       "id": "6aa0388f8f42385764242634",
@@ -1712,7 +1753,7 @@
       "starred": true,
       "publishOn": 1687527600388,
       "addedOn": 1687527600388,
-      "updatedOn": 1790837374401
+      "updatedOn": 1790863118382
     },
     {
       "id": "646e3275fd93bf1fd7d6ae5c",
@@ -1753,7 +1794,7 @@
       "starred": true,
       "publishOn": 1686412260639,
       "addedOn": 1686412260639,
-      "updatedOn": 1790842332418
+      "updatedOn": 1790863145682
     },
     {
       "id": "6426b05d3eed775ba2d9d8a8",
@@ -1795,7 +1836,7 @@
       "starred": true,
       "publishOn": 1680760800335,
       "addedOn": 1680760800335,
-      "updatedOn": 1790851290076
+      "updatedOn": 1790863182637
     },
     {
       "id": "63eceff3e508db0592760c7d",
@@ -1836,7 +1877,7 @@
       "starred": true,
       "publishOn": 1677163003172,
       "addedOn": 1677163003172,
-      "updatedOn": 1790851248634
+      "updatedOn": 1790863200855
     },
     {
       "id": "63ee047bc0f28b79f30b4c83",
@@ -1879,7 +1920,7 @@
       "starred": true,
       "publishOn": 1675321200263,
       "addedOn": 1675321200263,
-      "updatedOn": 1790841650898
+      "updatedOn": 1790863229822
     },
     {
       "id": "63bd358cfc2f1c7eff9fbd66",
@@ -1929,7 +1970,7 @@
       "starred": false,
       "publishOn": 1673956172007,
       "addedOn": 1673956172007,
-      "updatedOn": 1790855670080
+      "updatedOn": 1790863253670
     },
     {
       "id": "6388be0ab4c62330478bc5ba",
@@ -1974,7 +2015,7 @@
       "starred": true,
       "publishOn": 1670517787546,
       "addedOn": 1670517787546,
-      "updatedOn": 1790842569498
+      "updatedOn": 1790863344014
     },
     {
       "id": "636bbe382fbf76096e2230dd",
@@ -2016,7 +2057,7 @@
       "starred": true,
       "publishOn": 1668598928020,
       "addedOn": 1668598928020,
-      "updatedOn": 1790851229763
+      "updatedOn": 1790863359085
     },
     {
       "id": "632da8947fcb12149e064e91",
@@ -2058,7 +2099,7 @@
       "starred": true,
       "publishOn": 1663936660147,
       "addedOn": 1663936660147,
-      "updatedOn": 1790840582465
+      "updatedOn": 1790863371762
     },
     {
       "id": "62fcc0fd6fd02c7c0c08de26",
@@ -2098,7 +2139,7 @@
       "starred": true,
       "publishOn": 1660731645900,
       "addedOn": 1660731645900,
-      "updatedOn": 1790837480511
+      "updatedOn": 1790863404263
     },
     {
       "id": "6290a2b4cb907b792cb8d7c6",
@@ -2143,7 +2184,7 @@
       "starred": false,
       "publishOn": 1657793160474,
       "addedOn": 1657793160474,
-      "updatedOn": 1790841298179
+      "updatedOn": 1790863417533
     },
     {
       "id": "6284fbf66820b862a4902ca0",
@@ -2196,7 +2237,7 @@
       "starred": false,
       "publishOn": 1654783200124,
       "addedOn": 1654783200124,
-      "updatedOn": 1790837510131
+      "updatedOn": 1790863432703
     },
     {
       "id": "624d6464b388db6532acec4b",
@@ -2237,7 +2278,7 @@
       "starred": true,
       "publishOn": 1648720800369,
       "addedOn": 1648720800369,
-      "updatedOn": 1790843151685
+      "updatedOn": 1790863448061
     },
     {
       "id": "620d380ebf31ce0a9a50941c",
@@ -2277,7 +2318,7 @@
       "starred": true,
       "publishOn": 1646996400401,
       "addedOn": 1646996400401,
-      "updatedOn": 1790837557265
+      "updatedOn": 1790863464511
     },
     {
       "id": "62387ebce9caad41ad5c0ade",
@@ -2328,7 +2369,7 @@
       "starred": false,
       "publishOn": 1646305200671,
       "addedOn": 1646305200671,
-      "updatedOn": 1790855592267
+      "updatedOn": 1790863478517
     },
     {
       "id": "61f95c74a7c6f70616089a0d",
@@ -2369,7 +2410,7 @@
       "starred": true,
       "publishOn": 1637838000748,
       "addedOn": 1637838000748,
-      "updatedOn": 1790838050282
+      "updatedOn": 1790863640622
     },
     {
       "id": "61fabd2459d0c324d8319a2b",
@@ -2411,7 +2452,7 @@
       "starred": true,
       "publishOn": 1636023600032,
       "addedOn": 1636023600032,
-      "updatedOn": 1790840540011
+      "updatedOn": 1790863653551
     },
     {
       "id": "61fbdb1a9e4049265e86ab40",
@@ -2452,7 +2493,7 @@
       "starred": true,
       "publishOn": 1634810400852,
       "addedOn": 1634810400852,
-      "updatedOn": 1790843452351
+      "updatedOn": 1790863678986
     },
     {
       "id": "61fa67f781835f02a11b5937",
