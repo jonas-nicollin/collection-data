@@ -5,8 +5,8 @@
   "id": "artist",
   "path": "/artist",
   "sourceUrl": "https://sebastienbertrand.com/artist?format=json",
-  "updatedAt": "2026-10-01T14:58:11.900Z",
-  "sourceHash": "d407a068d06a6a93c53fa0d9aff74e5c86caf0e1c09cc86ec0db91a9af4c09db",
+  "updatedAt": "2026-10-01T15:08:05.084Z",
+  "sourceHash": "634e3f57e6b928c7d3c4bd1638fbe14dd07ba3b6f50cb01321d07e51ba91af7e",
   "count": 29,
   "pages": 1,
   "items": [
@@ -48,7 +48,27 @@
       "starred": false,
       "publishOn": 1648830581791,
       "addedOn": 1648830581791,
-      "updatedOn": 1788428486715
+      "updatedOn": 1790866759393
+    },
+    {
+      "id": "62601723dd9d82658cbd09e3",
+      "title": "Natalia González Martín",
+      "fullUrl": "/artist/natalia-gonzalez-martin",
+      "sourceUrl": "",
+      "urlId": "natalia-gonzalez-martin",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/b9789fa1-d402-4bae-abbe-8bd0205eb19d/HD_Agatha%27s%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+21+x+14+cm.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 2,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1788428514726
     },
     {
       "id": "649f021ac5ec2b67bdabbaae",
@@ -63,7 +83,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 2,
+      "displayIndex": 3,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562077630437,
@@ -83,32 +103,12 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 3,
+      "displayIndex": 4,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
       "updatedOn": 1766077833680
-    },
-    {
-      "id": "62601723dd9d82658cbd09e3",
-      "title": "Natalia González Martín",
-      "fullUrl": "/artist/natalia-gonzalez-martin",
-      "sourceUrl": "",
-      "urlId": "natalia-gonzalez-martin",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/b9789fa1-d402-4bae-abbe-8bd0205eb19d/HD_Agatha%27s%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+21+x+14+cm.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 4,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1562080370612,
-      "addedOn": 1562080370612,
-      "updatedOn": 1788428514726
     },
     {
       "id": "6290e694f3a1532994b3c685",
