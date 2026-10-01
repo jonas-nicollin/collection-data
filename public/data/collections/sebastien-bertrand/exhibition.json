@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T14:58:11.047Z",
-  "sourceHash": "b4d7aa7a5094de4364e96aed021152f75fa6895270d69452d96ae19f35f3414e",
+  "updatedAt": "2026-10-01T15:18:14.218Z",
+  "sourceHash": "091a90b34d1e17110137d985a0da4bdb1d2824e591c2b7ba35512b088adcf0ba",
   "count": 107,
   "pages": 1,
   "items": [
@@ -3210,7 +3210,8 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2019",
-        "Date: 2019-05-16/2019-07-20"
+        "Date: 2019-05-16/2019-07-20",
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">16 May–20 July 2019</p>",
       "location": {
@@ -3229,7 +3230,7 @@
       "starred": true,
       "publishOn": 1558008180247,
       "addedOn": 1558008180247,
-      "updatedOn": 1790864508164
+      "updatedOn": 1790867494146
     },
     {
       "id": "6262ce702152581d23bf680d",
