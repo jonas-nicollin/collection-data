@@ -5,9 +5,9 @@
   "id": "artist",
   "path": "/artist",
   "sourceUrl": "https://sebastienbertrand.com/artist?format=json",
-  "updatedAt": "2026-10-01T15:28:07.555Z",
-  "sourceHash": "f041ecac5e0c83308760c4dfd94744206c202944f9dbd0e82f75b57955223840",
-  "count": 29,
+  "updatedAt": "2026-10-01T15:38:13.352Z",
+  "sourceHash": "2089668c1f1bfddaa58935308da79abf8684949d13078b3330b9d5de136088ac",
+  "count": 28,
   "pages": 1,
   "items": [
     {
@@ -151,6 +151,146 @@
       "updatedOn": 1790868345682
     },
     {
+      "id": "652e5df51cd5510851ab9fab",
+      "title": "Sang Woo Kim",
+      "fullUrl": "/artist/sang-woo-kim",
+      "sourceUrl": "",
+      "urlId": "sang-woo-kim",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/5748517b-916a-4da4-be20-c80d45ef2e4c/HD5_Sang+Woo+Kim%2C+The+Corner+001%2C+2023%2C+Oil+on+canvas%2C+45.5+x+31.5+x+3+cm.%2C+18+x+12+%C2%BD+x+1+%C2%BC+in.+%28SWK-2304%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 7,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562077630437,
+      "addedOn": 1562077630437,
+      "updatedOn": 1790868985783
+    },
+    {
+      "id": "62600d33641c5f19589784d7",
+      "title": "Alexander Kosolapov",
+      "fullUrl": "/artist/alexander-kosolapov",
+      "sourceUrl": "",
+      "urlId": "alexander-kosolapov",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650465091194-J2YHUCV7H7YUIJALJ1DY/external-content.duckduckgo-2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.3810703754425049,
+        "y": 0.48516416549682617,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 8,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1790868924543
+    },
+    {
+      "id": "6256df924df3e1369056a753",
+      "title": "Tali Lennox",
+      "fullUrl": "/artist/tali-lennox",
+      "sourceUrl": "",
+      "urlId": "tali-lennox",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/968c623e-3941-4a12-ba9e-0199ec93668c/HD2_Sebastien_Bertrand_Lennox-027-Edit+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 9,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1649860497951,
+      "addedOn": 1649860497951,
+      "updatedOn": 1790869059661
+    },
+    {
+      "id": "626018c4fb1aa8627a3b63a5",
+      "title": "Walter Robinson",
+      "fullUrl": "/artist/walter-robinson",
+      "sourceUrl": "",
+      "urlId": "walter-robinson",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656694880883-QFY7OJXMWKY1W3NR63MT/Screenshot-2022-05-18-at-14.17.39.jpg",
+      "mediaFocalPoint": {
+        "x": 0.3547711968421936,
+        "y": 0.3821614682674408,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 10,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1788428415346
+    },
+    {
+      "id": "62471b1fd7bc57549db5f41e",
+      "title": "Chloe Wise",
+      "fullUrl": "/artist/chloe-wise",
+      "sourceUrl": "",
+      "urlId": "chloe-wise",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/7dcf6c8e-013d-4f67-8daa-0e0406f40506/H2D_Be+able+not+to+be+able%2C+Chloe+Wise%2C+2022.+Oil+on+linen%2C+122+x+91.5+cm%2C+%2848+x+36+in+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 11,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1788428799610
+    },
+    {
+      "id": "62601a91b4962e063ed4c48b",
+      "title": "Yarisal & Kublitz",
+      "fullUrl": "/artist/yarisal-and-kublitz",
+      "sourceUrl": "",
+      "urlId": "yarisal-and-kublitz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651506215403-OQFXSWEKU8L3A6WLXXLP/Iran+For+marius012.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 12,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562080370612,
+      "addedOn": 1562080370612,
+      "updatedOn": 1788428454366
+    },
+    {
+      "id": "63ecdbb98bcf081c6dc9aa3e",
+      "title": "Lian Zhang",
+      "fullUrl": "/artist/lian-zhang",
+      "sourceUrl": "",
+      "urlId": "lian-zhang",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1676468337395-O59UIFS4RTJQ688ZVBDP/WEB_PastedGraphic-2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 13,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1562077630437,
+      "addedOn": 1562077630437,
+      "updatedOn": 1788428831476
+    },
+    {
       "id": "628e3d2aefc5ef1a71ac399e",
       "title": "Jonathan Edelhuber",
       "fullUrl": "/artist/jonathan-edelhuber",
@@ -163,7 +303,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 7,
+      "displayIndex": 14,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -183,7 +323,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 8,
+      "displayIndex": 15,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -203,72 +343,12 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 9,
+      "displayIndex": 16,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
       "updatedOn": 1766077544600
-    },
-    {
-      "id": "62601a91b4962e063ed4c48b",
-      "title": "Yarisal & Kublitz",
-      "fullUrl": "/artist/yarisal-and-kublitz",
-      "sourceUrl": "",
-      "urlId": "yarisal-and-kublitz",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651506215403-OQFXSWEKU8L3A6WLXXLP/Iran+For+marius012.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 10,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1562080370612,
-      "addedOn": 1562080370612,
-      "updatedOn": 1788428454366
-    },
-    {
-      "id": "62600d33641c5f19589784d7",
-      "title": "Alexander Kosolapov",
-      "fullUrl": "/artist/alexander-kosolapov",
-      "sourceUrl": "",
-      "urlId": "alexander-kosolapov",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650465091194-J2YHUCV7H7YUIJALJ1DY/external-content.duckduckgo-2.jpg",
-      "mediaFocalPoint": {
-        "x": 0.3810703754425049,
-        "y": 0.48516416549682617,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 11,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1562080370612,
-      "addedOn": 1562080370612,
-      "updatedOn": 1788428082111
-    },
-    {
-      "id": "6256df924df3e1369056a753",
-      "title": "Tali Lennox",
-      "fullUrl": "/artist/tali-lennox",
-      "sourceUrl": "",
-      "urlId": "tali-lennox",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/968c623e-3941-4a12-ba9e-0199ec93668c/HD2_Sebastien_Bertrand_Lennox-027-Edit+copie.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 12,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1649860497951,
-      "addedOn": 1649860497951,
-      "updatedOn": 1788428771599
     },
     {
       "id": "62601c9bfb6cd977cc3057a1",
@@ -283,7 +363,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 13,
+      "displayIndex": 17,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -303,7 +383,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 14,
+      "displayIndex": 18,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -323,7 +403,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 15,
+      "displayIndex": 19,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562077630437,
@@ -343,7 +423,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 16,
+      "displayIndex": 20,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -363,32 +443,12 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 17,
+      "displayIndex": 21,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
       "updatedOn": 1766076528245
-    },
-    {
-      "id": "626018c4fb1aa8627a3b63a5",
-      "title": "Walter Robinson",
-      "fullUrl": "/artist/walter-robinson",
-      "sourceUrl": "",
-      "urlId": "walter-robinson",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656694880883-QFY7OJXMWKY1W3NR63MT/Screenshot-2022-05-18-at-14.17.39.jpg",
-      "mediaFocalPoint": {
-        "x": 0.3547711968421936,
-        "y": 0.3821614682674408,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 18,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1562080370612,
-      "addedOn": 1562080370612,
-      "updatedOn": 1788428415346
     },
     {
       "id": "628e3da3a80ee215c677b564",
@@ -403,7 +463,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 19,
+      "displayIndex": 22,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -423,7 +483,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 20,
+      "displayIndex": 23,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -443,7 +503,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 21,
+      "displayIndex": 24,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -463,7 +523,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 22,
+      "displayIndex": 25,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -483,52 +543,12 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 23,
+      "displayIndex": 26,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
       "updatedOn": 1766076034683
-    },
-    {
-      "id": "62471b1fd7bc57549db5f41e",
-      "title": "Chloe Wise",
-      "fullUrl": "/artist/chloe-wise",
-      "sourceUrl": "",
-      "urlId": "chloe-wise",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/7dcf6c8e-013d-4f67-8daa-0e0406f40506/H2D_Be+able+not+to+be+able%2C+Chloe+Wise%2C+2022.+Oil+on+linen%2C+122+x+91.5+cm%2C+%2848+x+36+in+copie.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 24,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1562080370612,
-      "addedOn": 1562080370612,
-      "updatedOn": 1788428799610
-    },
-    {
-      "id": "652e5df51cd5510851ab9fab",
-      "title": "Sang Woo Kim",
-      "fullUrl": "/artist/sang-woo-kim",
-      "sourceUrl": "",
-      "urlId": "sang-woo-kim",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/5748517b-916a-4da4-be20-c80d45ef2e4c/HD5_Sang+Woo+Kim%2C+The+Corner+001%2C+2023%2C+Oil+on+canvas%2C+45.5+x+31.5+x+3+cm.%2C+18+x+12+%C2%BD+x+1+%C2%BC+in.+%28SWK-2304%29+copie.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 25,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1562077630437,
-      "addedOn": 1562077630437,
-      "updatedOn": 1790752847879
     },
     {
       "id": "6762ac6a7ba64b5cb9342003",
@@ -543,52 +563,12 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 26,
+      "displayIndex": 27,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
       "updatedOn": 1766076019802
-    },
-    {
-      "id": "63ecdbb98bcf081c6dc9aa3e",
-      "title": "Lian Zhang",
-      "fullUrl": "/artist/lian-zhang",
-      "sourceUrl": "",
-      "urlId": "lian-zhang",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1676468337395-O59UIFS4RTJQ688ZVBDP/WEB_PastedGraphic-2.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 27,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1562077630437,
-      "addedOn": 1562077630437,
-      "updatedOn": 1788428831476
-    },
-    {
-      "id": "6abbbf6ff291840e2afd7aac",
-      "title": "Sang Woo Kim (Jonas)",
-      "fullUrl": "/artist/sang-woo-kim-test",
-      "sourceUrl": "",
-      "urlId": "sang-woo-kim-test",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/5748517b-916a-4da4-be20-c80d45ef2e4c/HD5_Sang+Woo+Kim%2C+The+Corner+001%2C+2023%2C+Oil+on+canvas%2C+45.5+x+31.5+x+3+cm.%2C+18+x+12+%C2%BD+x+1+%C2%BC+in.+%28SWK-2304%29+copie.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
-      "excerpt": "",
-      "displayIndex": 28,
-      "workflowState": 1,
-      "starred": false,
-      "publishOn": 1790689134996,
-      "addedOn": 1562077630437,
-      "updatedOn": 1790689175670
     }
   ]
 }
