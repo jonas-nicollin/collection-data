@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T11:58:20.357Z",
-  "sourceHash": "0a37b8f4ed0e15c4ab6033b4931f8986f0d61e0364470e8077d551b1e657ea0a",
+  "updatedAt": "2026-10-01T12:10:31.082Z",
+  "sourceHash": "78554d2d469707680bbd99773920d3ddddb15bd8cecb82e5764fb7fa38b5cc8f",
   "count": 108,
   "pages": 1,
   "items": [
@@ -711,7 +711,7 @@
     },
     {
       "id": "67da9ebd06177a40d785a54e",
-      "title": "Date with the night",
+      "title": "Date with the Night",
       "fullUrl": "/exhibition/solo-show/todd-bienvenu-date-with-the-night",
       "sourceUrl": "",
       "urlId": "solo-show/todd-bienvenu-date-with-the-night",
@@ -748,7 +748,7 @@
       "starred": true,
       "publishOn": 1742402633109,
       "addedOn": 1742402633109,
-      "updatedOn": 1790851179634
+      "updatedOn": 1790856584547
     },
     {
       "id": "680655e9c6c97648cf64d0cb",
