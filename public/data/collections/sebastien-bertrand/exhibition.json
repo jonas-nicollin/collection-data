@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-09-30T15:08:25.152Z",
-  "sourceHash": "95c0a13d1335ccd5fd6d4574dd5727c75271199bbafd9903d7d999b6031e2f12",
+  "updatedAt": "2026-10-01T06:38:21.517Z",
+  "sourceHash": "4fe7115fe114df98742f2059b517aa956cdefb4f6e7fa40047eb00e04a37f8c6",
   "count": 108,
   "pages": 1,
   "items": [
@@ -66,7 +66,6 @@
         "RAMMELLZEE"
       ],
       "tags": [
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Year: 2026",
         "Exhibition: Solo Show",
         "Date: 2026-11-12/2027-01-27",
@@ -80,9 +79,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 108,
@@ -90,7 +89,7 @@
       "starred": true,
       "publishOn": 1790316764767,
       "addedOn": 1790316764767,
-      "updatedOn": 1790317233700
+      "updatedOn": 1790836675723
     },
     {
       "id": "6ab3bc5cd07af854f4ae2f6f",
@@ -108,7 +107,6 @@
         "Natalia González Martín"
       ],
       "tags": [
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Year: 2026",
         "Exhibition: Solo Show",
         "Date: 2026-12-22/2027-03-25",
@@ -121,9 +119,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 105,
@@ -131,7 +129,7 @@
       "starred": true,
       "publishOn": 1790164060088,
       "addedOn": 1790164060088,
-      "updatedOn": 1790166220585
+      "updatedOn": 1790836644329
     },
     {
       "id": "6aa0388f8f42385764242634",
@@ -4556,7 +4554,6 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2015-09-26/2015-10-28"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26 September–28 October 2015</p>",
@@ -4566,9 +4563,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 18,
@@ -4576,7 +4573,7 @@
       "starred": true,
       "publishOn": 1443283920273,
       "addedOn": 1443283920273,
-      "updatedOn": 1790174955511
+      "updatedOn": 1790836594688
     },
     {
       "id": "620f83c67cfc0e3d7527b31b",
@@ -4597,7 +4594,6 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2015-06-05/2015-07-04"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5 June–4 July 2015</p>",
@@ -4607,9 +4603,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 2,
@@ -4617,7 +4613,7 @@
       "starred": true,
       "publishOn": 1433498400356,
       "addedOn": 1433498400356,
-      "updatedOn": 1790174940627
+      "updatedOn": 1790836561721
     },
     {
       "id": "62602d4410520b6cb428a084",
@@ -4638,19 +4634,18 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2015-03-27/2015-04-30"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">27 March–30 April 2015</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "mapLat": 46.2050639,
+        "mapLng": 6.159070600000001,
+        "markerLat": 46.2050639,
+        "markerLng": 6.159070600000001,
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile-Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 17,
@@ -4658,7 +4653,7 @@
       "starred": true,
       "publishOn": 1427475360789,
       "addedOn": 1427475360789,
-      "updatedOn": 1790174917775
+      "updatedOn": 1790836492326
     },
     {
       "id": "62680d3612f47618de17d94a",
@@ -4685,27 +4680,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2015",
-        "Location: Booth B28, Palexpo, Geneva",
-        "Date: 2015-01-29/2015-02-01"
+        "Date: 2015-01-29/2015-02-01",
+        "Location: Booth B28, Palexpo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29 January–1 February 2015</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 57,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1422548280369,
       "addedOn": 1422548280369,
-      "updatedOn": 1790174899103
+      "updatedOn": 1790836427806
     }
   ]
 }
