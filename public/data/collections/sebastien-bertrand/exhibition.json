@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T09:58:17.152Z",
-  "sourceHash": "a51fc2d95df5a3fe5ed367c044bb7d10f4b67cecfc0f6de9350eda8e7e64c2e9",
+  "updatedAt": "2026-10-01T10:38:15.361Z",
+  "sourceHash": "6c28bc654f9a106549e2a20910b715ff6b3b1081d24daa254fb7916ec1ab1bb7",
   "count": 108,
   "pages": 1,
   "items": [
@@ -28,26 +28,28 @@
       "tags": [
         "Year : 2026",
         "Exhibition : Solo Show",
-        "Status: On View"
+        "Status: On View",
+        "Opening reception: 2026-10-07",
+        "Date: 2026-10-07/?"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening, Wednesday 07 October 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 48.3405478,
-        "mapLng": 2.7170303,
-        "markerLat": 48.3405478,
-        "markerLng": 2.7170303,
-        "addressTitle": "Bourron-Marlotte",
-        "addressLine1": "Rue du Général Leclerc 158",
-        "addressLine2": "77780 Bourron-Marlotte",
-        "addressCountry": "France"
+        "mapLat": 46.2050639,
+        "mapLng": 6.159070600000001,
+        "markerLat": 46.2050639,
+        "markerLng": 6.159070600000001,
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile-Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 106,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1790777228100,
       "addedOn": 1790777228100,
-      "updatedOn": 1790848071797
+      "updatedOn": 1790850921278
     },
     {
       "id": "6ab610dccd6792391538a93d",
