@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T13:38:15.135Z",
-  "sourceHash": "441702b005e57d3146879050511117ef411534cdf1e4898f062772220f359ef7",
+  "updatedAt": "2026-10-01T13:48:17.719Z",
+  "sourceHash": "626fbebc1b3f82afad080312c1d24de5682ea615d36e12f7d6cc446ecd8c3aec",
   "count": 106,
   "pages": 1,
   "items": [
@@ -958,7 +958,9 @@
         "Status: Past Exhibition",
         "Year: 2025",
         "Year: 2024",
-        "Exhibition: Solo Show"
+        "Exhibition: Solo Show",
+        "Date: 2024-12-05/2025-01-17",
+        "Opening: 2024-12-04T18:00/2024-12-04T20:30"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5 December–17 January 2024</p><pre><code>Opening Reception: Wednesday, December 04, 6–8:30pm</code></pre>",
       "location": {
@@ -977,7 +979,7 @@
       "starred": true,
       "publishOn": 1732801753001,
       "addedOn": 1732801753001,
-      "updatedOn": 1790837031217
+      "updatedOn": 1790862124476
     },
     {
       "id": "6745e77734d68f01c935533b",
@@ -1029,7 +1031,7 @@
       "starred": true,
       "publishOn": 1732801380909,
       "addedOn": 1732801380909,
-      "updatedOn": 1790851217264
+      "updatedOn": 1790862204481
     },
     {
       "id": "66c8a2f49481b661e241f60e",
@@ -1070,7 +1072,7 @@
       "starred": true,
       "publishOn": 1724338500937,
       "addedOn": 1724338500937,
-      "updatedOn": 1790851335246
+      "updatedOn": 1790862220613
     },
     {
       "id": "6717a57f0e00c021fd01b7b7",
@@ -1118,7 +1120,7 @@
       "starred": true,
       "publishOn": 1724159700367,
       "addedOn": 1724159700367,
-      "updatedOn": 1790840666227
+      "updatedOn": 1790862250095
     },
     {
       "id": "66c8a771173d5100b7fb0403",
