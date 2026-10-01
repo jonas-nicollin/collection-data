@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T07:28:25.495Z",
-  "sourceHash": "480bf4f45e3073763aade5b3da09ac24aead3f31dc971810551cae7c1bb4d519",
+  "updatedAt": "2026-10-01T07:38:15.917Z",
+  "sourceHash": "38a8d5a02c976870d7fe1a65c15eae3857731c0424a220493e85fdb1471fdf0e",
   "count": 108,
   "pages": 1,
   "items": [
@@ -365,30 +365,30 @@
       ],
       "tags": [
         "Exhibition: Fair",
-        "Location: Festival‑Zelt (Sportzentrumstrasse), Gstaad",
         "Year: 2026",
         "Status: Past Exhibition",
         "Date: 2026-02-19/2026-02-22",
-        "Opening reception: 2026-02-19"
+        "Opening reception: 2026-02-19",
+        "Location: Festival-Zelt, Gstaad"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">19–​22 February 2026</p><pre><code>Opening: 19 February 2026</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.4706469,
+        "mapLng": 7.2821898,
+        "markerLat": 46.4706469,
+        "markerLng": 7.2821898,
+        "addressTitle": "Maze Art Gstaad, Festival-Zelt",
+        "addressLine1": "Sportzentrumstrasse 5",
+        "addressLine2": "3780 Gstaad",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 100,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1771498855376,
       "addedOn": 1771498855376,
-      "updatedOn": 1790179668785
+      "updatedOn": 1790840241608
     },
     {
       "id": "69722aa2a433a8238de8883b",
@@ -407,30 +407,30 @@
       ],
       "tags": [
         "Exhibition: Fair",
-        "Location: Booth C32, Solo Show C34, Palexpo, Geneva",
         "Status: Past Exhibition",
         "Year: 2026",
         "Date: 2026-01-29/2026-02-01",
-        "Opening reception: 2026-01-28"
+        "Opening reception: 2026-01-28",
+        "Location: Booth C32, Solo Show C34, Palexpo"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29 January–1 February 2026</p><pre><code>Opening: 28 January 2026</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 99,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1769694480435,
       "addedOn": 1769694480435,
-      "updatedOn": 1790177030471
+      "updatedOn": 1790839826442
     },
     {
       "id": "6968c29ccced0c33aa354566",
@@ -882,7 +882,7 @@
     },
     {
       "id": "67a5f6698442874d7b499f71",
-      "title": "Maze Art Gstaad ",
+      "title": "Maze Art Gstaad 2025",
       "fullUrl": "/exhibition/fair/maze-gstaad-art-2025",
       "sourceUrl": "",
       "urlId": "fair/maze-gstaad-art-2025",
@@ -904,28 +904,28 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: Festival‑Zelt (Sportzentrumstrasse), Gstaad",
         "Date: 2025-02-14/2025-02-16",
-        "Opening reception: 2025-02-13"
+        "Opening reception: 2025-02-13",
+        "Location: Festival-Zelt, Gstaad"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14–​16 February 2025</p><pre><code>Opening: 13 February 2025</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.4706469,
+        "mapLng": 7.2821898,
+        "markerLat": 46.4706469,
+        "markerLng": 7.2821898,
+        "addressTitle": "Maze Art Gstaad, Festival-Zelt",
+        "addressLine1": "Sportzentrumstrasse 5",
+        "addressLine2": "3780 Gstaad",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 87,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1738844400937,
       "addedOn": 1738844400937,
-      "updatedOn": 1790177611487
+      "updatedOn": 1790840189187
     },
     {
       "id": "678e2597e78330403dda06a9",
@@ -995,28 +995,28 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: Booth C32, Palexpo, Geneva",
         "Date: 2025-01-30/2025-02-02",
-        "Opening reception: 2025-01-29"
+        "Opening reception: 2025-01-29",
+        "Location: Booth C32, Palexpo"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 January–2 February 2025</p><pre><code>Opening: 29 January 2025</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 86,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1737713316850,
       "addedOn": 1737713316850,
-      "updatedOn": 1790177645949
+      "updatedOn": 1790839778716
     },
     {
       "id": "674747a9947fdc1788449f12",
@@ -1599,30 +1599,30 @@
         "Sang Woo Kim"
       ],
       "tags": [
-        "Location: Booth C32, Palexpo, Geneva",
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
-        "Date: 2024-01-25/2024-01-28"
+        "Date: 2024-01-25/2024-01-28",
+        "Location: Booth C32, Palexpo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25–28 January 2024</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 72,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1698920820494,
       "addedOn": 1698920820494,
-      "updatedOn": 1790178671420
+      "updatedOn": 1790839869587
     },
     {
       "id": "64f5f88480b09834aec17a0d",
@@ -1983,30 +1983,30 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Location: Booth C32, Palexpo, Geneva",
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
-        "Date: 2023-01-26/2023-01-29"
+        "Date: 2023-01-26/2023-01-29",
+        "Location: Booth C32, Palexpo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 26–29 January 2023</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 62,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1673956172007,
       "addedOn": 1673956172007,
-      "updatedOn": 1790178968202
+      "updatedOn": 1790839724336
     },
     {
       "id": "6388be0ab4c62330478bc5ba",
