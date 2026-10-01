@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-01T14:22:55.055Z",
-  "sourceHash": "46c50379ceb7756700ea69d1a1af56dc3bd38a0803e268b28f56d99d42a2f816",
+  "updatedAt": "2026-10-01T14:38:20.788Z",
+  "sourceHash": "29f58959bf164988f80e2d566c6c45414147b56085e94144e692faac0daf1473",
   "count": 759,
   "pages": 4,
   "items": [
@@ -22,7 +22,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition: Solo Show"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil and pigment on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">116 x 89 cm. / 45 ¾ x 35 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TFO-2503</p>",
       "displayIndex": 0,
@@ -30,7 +30,7 @@
       "starred": false,
       "publishOn": 1790863697281,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457801,
+      "updatedOn": 1790865133604,
       "categories": [
         "Thomas Fougeirol"
       ],
