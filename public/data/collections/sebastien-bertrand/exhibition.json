@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T13:28:44.066Z",
-  "sourceHash": "15c352cf34e4db9d21c2b15e9e6994b681cf044a7ef13b895ebd3bb7faafba5f",
+  "updatedAt": "2026-10-01T13:38:15.135Z",
+  "sourceHash": "441702b005e57d3146879050511117ef411534cdf1e4898f062772220f359ef7",
   "count": 106,
   "pages": 1,
   "items": [
@@ -538,7 +538,7 @@
       "starred": true,
       "publishOn": 1749634298477,
       "addedOn": 1749634298477,
-      "updatedOn": 1790851269983
+      "updatedOn": 1790861328190
     },
     {
       "id": "6838163d7010955e22af9f9a",
@@ -580,7 +580,7 @@
       "starred": true,
       "publishOn": 1748592540333,
       "addedOn": 1748592540333,
-      "updatedOn": 1790851265476
+      "updatedOn": 1790861354268
     },
     {
       "id": "6863d2ac2e039636280d3e95",
@@ -626,7 +626,7 @@
       "starred": false,
       "publishOn": 1748089860666,
       "addedOn": 1748089860666,
-      "updatedOn": 1790851274548
+      "updatedOn": 1790861369832
     },
     {
       "id": "67da9ebd06177a40d785a54e",
@@ -667,7 +667,7 @@
       "starred": true,
       "publishOn": 1742402633109,
       "addedOn": 1742402633109,
-      "updatedOn": 1790856584547
+      "updatedOn": 1790861573452
     },
     {
       "id": "680655e9c6c97648cf64d0cb",
@@ -714,7 +714,7 @@
       "starred": false,
       "publishOn": 1742311860406,
       "addedOn": 1742311860406,
-      "updatedOn": 1790851166625
+      "updatedOn": 1790861712613
     },
     {
       "id": "681a01325c16ca68f7b89aa6",
@@ -755,7 +755,7 @@
       "starred": true,
       "publishOn": 1742306880415,
       "addedOn": 1742306880415,
-      "updatedOn": 1790851253675
+      "updatedOn": 1790861778307
     },
     {
       "id": "67ebc5fc50cf554ed0bbb30c",
@@ -799,7 +799,7 @@
       "starred": true,
       "publishOn": 1742298840210,
       "addedOn": 1742298840210,
-      "updatedOn": 1790851173665
+      "updatedOn": 1790861794893
     },
     {
       "id": "67a5f6698442874d7b499f71",
@@ -887,7 +887,7 @@
       "starred": true,
       "publishOn": 1737903540226,
       "addedOn": 1737903540226,
-      "updatedOn": 1790851202207
+      "updatedOn": 1790861853241
     },
     {
       "id": "67935f5923a12272e9d54e9f",
@@ -937,7 +937,7 @@
       "starred": false,
       "publishOn": 1737713316850,
       "addedOn": 1737713316850,
-      "updatedOn": 1790855664023
+      "updatedOn": 1790861869497
     },
     {
       "id": "674747a9947fdc1788449f12",
