@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T07:18:21.511Z",
-  "sourceHash": "e43ecf89ef4ce286a3ba3258fec19d6e0b865a27c3b71301b8bf9b7b9080b53b",
+  "updatedAt": "2026-10-01T07:28:25.495Z",
+  "sourceHash": "480bf4f45e3073763aade5b3da09ac24aead3f31dc971810551cae7c1bb4d519",
   "count": 108,
   "pages": 1,
   "items": [
@@ -2385,27 +2385,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2022",
-        "Location: Booth C32, Palexpo, Geneva",
-        "Date: 2022-03-03/2022-03-06"
+        "Date: 2022-03-03/2022-03-06",
+        "Location: Booth C32, Palexpo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3–6 March 2022</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 37,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1646305200671,
       "addedOn": 1646305200671,
-      "updatedOn": 1790179124563
+      "updatedOn": 1790839656118
     },
     {
       "id": "61f95c74a7c6f70616089a0d",
@@ -3062,27 +3062,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2020",
-        "Location: Booth C36, Palexpo, Geneva",
-        "Date: 2020-01-30/2020-02-02"
+        "Date: 2020-01-30/2020-02-02",
+        "Location: Booth C36, Palexpo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 January–2 February 2020</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 40,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1580401680188,
       "addedOn": 1580401680188,
-      "updatedOn": 1790179401891
+      "updatedOn": 1790839593635
     },
     {
       "id": "626295157bfd0f2f1b5c26db",
@@ -3380,27 +3380,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2019",
-        "Location: Booth C28, Palexpo, Geneva",
-        "Date: 2019-01-31/2019-02-03"
+        "Date: 2019-01-31/2019-02-03",
+        "Location: Booth C28, Palexpo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">31 January–3 February 2019</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 43,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1548953760520,
       "addedOn": 1548953760520,
-      "updatedOn": 1790179515341
+      "updatedOn": 1790839505931
     },
     {
       "id": "6262d42d59049c7d2c06b783",
@@ -3674,27 +3674,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2018",
-        "Location: Booth C32, Solo Show C34, Palexpo, Geneva",
-        "Date: 2018-02-01/2018-02-04"
+        "Date: 2018-02-01/2018-02-04",
+        "Location: Booth C32, Solo Show C34, Palexpo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1 February–4 February 2018</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 47,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1517496480837,
       "addedOn": 1517496480837,
-      "updatedOn": 1790176909982
+      "updatedOn": 1790839463093
     },
     {
       "id": "6266a953385110598dfd37af",
@@ -4088,30 +4088,30 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Location: Booth B21, B19, Palexpo, Geneva",
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
-        "Date: 2017-01-26/2017-01-29"
+        "Date: 2017-01-26/2017-01-29",
+        "Location: Booth B21, B19, Palexpo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26–29 January 2017</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 52,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1485447600084,
       "addedOn": 1485447600084,
-      "updatedOn": 1790176558497
+      "updatedOn": 1790839412911
     },
     {
       "id": "6261264870526c619aec469e",
@@ -4421,26 +4421,27 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2016",
-        "Date: 2016-01-28/2016-01-31"
+        "Date: 2016-01-28/2016-01-31",
+        "Location: Palexpo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28–31 January 2016</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.2350991,
+        "mapLng": 6.117799000000001,
+        "markerLat": 46.2350991,
+        "markerLng": 6.117799000000001,
+        "addressTitle": "Palexpo",
+        "addressLine1": "Route François-Peyrot 30",
+        "addressLine2": "1218 Le Grand-Saconnex",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 56,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1453981620458,
       "addedOn": 1453981620458,
-      "updatedOn": 1790175021306
+      "updatedOn": 1790839343553
     },
     {
       "id": "6260376b92a7e72a05b8daad",
