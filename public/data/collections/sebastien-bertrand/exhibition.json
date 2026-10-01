@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T08:18:25.059Z",
-  "sourceHash": "3a248a3f24fe129be8186a35bc11e8581d9347e34d1c5837b42a0a93a1b2fc99",
+  "updatedAt": "2026-10-01T08:28:20.838Z",
+  "sourceHash": "db99b87d553ae96c231758c61fc6cfe5acc8b181256293618eee63f8d72ea7f9",
   "count": 108,
   "pages": 1,
   "items": [
@@ -318,29 +318,29 @@
       "tags": [
         "Exhibition: Fair",
         "Year: 2026",
-        "Location: Miart Booth B07 Allianz MiCo, Milan",
         "Status: Past Exhibition",
         "Date: 2026-04-17/2026-04-19",
-        "Opening reception: 2026-04-16T11:00/2026-04-16T21:00"
+        "Opening reception: 2026-04-16T11:00/2026-04-16T21:00",
+        "Location: Booth B07, Allianz MiCo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">17 – 19 April 2026</p><pre><code>Opening Reception: Thursday, April 16, 11–9pm</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
-        "addressCountry": "Switzerland"
+        "mapLat": 45.4800234,
+        "mapLng": 9.153473,
+        "markerLat": 45.4800234,
+        "markerLng": 9.153473,
+        "addressTitle": "Allianz MiCo",
+        "addressLine1": "",
+        "addressLine2": "20149 Milano",
+        "addressCountry": "Italy"
       },
       "displayIndex": 101,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1775739310433,
       "addedOn": 1775739310433,
-      "updatedOn": 1790179647516
+      "updatedOn": 1790842949595
     },
     {
       "id": "698f3167afad080000de8eee",
@@ -857,28 +857,28 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: MIART, Booth A88, Fieramilano city, Milan",
         "Date: 2025-04-04/2025-04-06",
-        "Opening reception: 2025-04-03T11:00/2025-04-03T21:00"
+        "Opening reception: 2025-04-03T11:00/2025-04-03T21:00",
+        "Location: Booth A88, Fieramilano City"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4–6 April 2025</p><pre><code>Opening Reception: Thursday, April 03, 11–9pm</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
-        "addressCountry": "Switzerland"
+        "mapLat": 45.4800234,
+        "mapLng": 9.153473,
+        "markerLat": 45.4800234,
+        "markerLng": 9.153473,
+        "addressTitle": "Allianz MiCo Gate 1",
+        "addressLine1": "",
+        "addressLine2": "20149 Milano",
+        "addressCountry": "Italy"
       },
       "displayIndex": 89,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1742298840210,
       "addedOn": 1742298840210,
-      "updatedOn": 1790177583334
+      "updatedOn": 1790843021921
     },
     {
       "id": "67a5f6698442874d7b499f71",
@@ -1425,28 +1425,28 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
-        "Location: Booth E18, Fieramilano city, Milan",
         "Date: 2024-04-12/2024-04-14",
-        "Opening reception: 2024-04-11T11:00/2024-04-11T20:00"
+        "Opening reception: 2024-04-11T11:00/2024-04-11T20:00",
+        "Location: Booth E18, Fieramilano City"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">12 –14 April 2024</p><pre><code>Opening Reception: Thursday, April 11, 11–8pm</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
-        "addressCountry": "Switzerland"
+        "mapLat": 45.4800234,
+        "mapLng": 9.153473,
+        "markerLat": 45.4800234,
+        "markerLng": 9.153473,
+        "addressTitle": "Allianz MiCo Gate 1",
+        "addressLine1": "",
+        "addressLine2": "20149 Milano",
+        "addressCountry": "Italy"
       },
       "displayIndex": 77,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1709305860517,
       "addedOn": 1709305860517,
-      "updatedOn": 1790177900901
+      "updatedOn": 1790843061762
     },
     {
       "id": "65d61d61e303a63d75a00e21",
@@ -1851,28 +1851,28 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
-        "Location: Booth E20, Fieramilano_city, Milan",
         "Date: 2023-04-14/2023-04-16",
-        "Opening reception: 2023-04-13T11:00/2023-04-13T20:00"
+        "Opening reception: 2023-04-13T11:00/2023-04-13T20:00",
+        "Location: Booth E20, Fieramilano City"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14–16 April 2023</p><pre><code>Opening Reception: Thursday, April 13, 11–8pm</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
-        "addressCountry": "Switzerland"
+        "mapLat": 45.4800234,
+        "mapLng": 9.153473,
+        "markerLat": 45.4800234,
+        "markerLng": 9.153473,
+        "addressTitle": "Allianz MiCo Gate 1",
+        "addressLine1": "",
+        "addressLine2": "20149 Milano",
+        "addressCountry": "Italy"
       },
       "displayIndex": 66,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1680760800335,
       "addedOn": 1680760800335,
-      "updatedOn": 1790178832451
+      "updatedOn": 1790843105717
     },
     {
       "id": "63eceff3e508db0592760c7d",
@@ -2294,19 +2294,19 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2022",
-        "Location: Booth E30, Fieramilano_city, Milan",
-        "Date: 2022-03-31/2022-04-03"
+        "Date: 2022-03-31/2022-04-03",
+        "Location: Booth E30, Fieramilano"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">31 March–​3 April 2022</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 45.5402323,
-        "mapLng": 9.0278729,
-        "markerLat": 45.5402323,
-        "markerLng": 9.0278729,
-        "addressTitle": "",
-        "addressLine1": "28 SS33 del Sempione",
-        "addressLine2": "Rho, Lombardia, 20017",
+        "mapLat": 45.4800234,
+        "mapLng": 9.153473,
+        "markerLat": 45.4800234,
+        "markerLng": 9.153473,
+        "addressTitle": "Allianz MiCo Gate 1",
+        "addressLine1": "",
+        "addressLine2": "20149 Milano",
         "addressCountry": "Italy"
       },
       "displayIndex": 38,
@@ -2314,7 +2314,7 @@
       "starred": true,
       "publishOn": 1648720800369,
       "addedOn": 1648720800369,
-      "updatedOn": 1790179095831
+      "updatedOn": 1790843151685
     },
     {
       "id": "620d380ebf31ce0a9a50941c",
