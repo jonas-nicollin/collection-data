@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T06:38:21.517Z",
-  "sourceHash": "4fe7115fe114df98742f2059b517aa956cdefb4f6e7fa40047eb00e04a37f8c6",
+  "updatedAt": "2026-10-01T06:48:18.967Z",
+  "sourceHash": "f92ad95960beac5e4332d53dbedf18ab736c239779fc0265349cf389c7d932b5",
   "count": 108,
   "pages": 1,
   "items": [
@@ -218,7 +218,7 @@
     },
     {
       "id": "6a1801b0bc711572d93ba3fa",
-      "title": "Selected Works : 1983 — 1991",
+      "title": "Selected Works: 1983–1991",
       "fullUrl": "/exhibition/solo-show/rammellzee-selected-works-1983-1991",
       "sourceUrl": "",
       "urlId": "solo-show/rammellzee-selected-works-1983-1991",
@@ -233,7 +233,6 @@
       ],
       "tags": [
         "Status: On View",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Year: 2026",
         "Exhibition: Solo Show",
         "Date: 2026-06-05/2026-07-17",
@@ -246,9 +245,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 102,
@@ -256,7 +255,7 @@
       "starred": true,
       "publishOn": 1779958978293,
       "addedOn": 1779958978293,
-      "updatedOn": 1790316764812
+      "updatedOn": 1790836781192
     },
     {
       "id": "69b18499a1e22f0aa87ac270",
@@ -274,7 +273,6 @@
         "Natalia González Martín"
       ],
       "tags": [
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Year: 2026",
         "Exhibition: Solo Show",
         "Status: Past Exhibition",
@@ -288,9 +286,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 100,
@@ -298,7 +296,7 @@
       "starred": true,
       "publishOn": 1777557897876,
       "addedOn": 1777557897876,
-      "updatedOn": 1790079156739
+      "updatedOn": 1790836812072
     },
     {
       "id": "69d7a1aef7f4ab5809a61615",
@@ -452,7 +450,6 @@
         "Francis Picabia"
       ],
       "tags": [
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Year: 2026",
         "Exhibition: Solo Show",
         "Status: Past Exhibition",
@@ -466,9 +463,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 100,
@@ -476,7 +473,7 @@
       "starred": true,
       "publishOn": 1768518016529,
       "addedOn": 1768518016529,
-      "updatedOn": 1790177073307
+      "updatedOn": 1790836845785
     },
     {
       "id": "68e3e0529c99621a2a91026f",
@@ -512,7 +509,6 @@
       "tags": [
         "Exhibition: Group Show",
         "Year: 2025",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Status: Past Exhibition",
         "Date: 2025-10-16/2025-11-29",
         "Opening reception: 2025-10-15T18:00/2025-10-15T20:30"
@@ -524,9 +520,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 95,
@@ -534,7 +530,7 @@
       "starred": true,
       "publishOn": 1759765212050,
       "addedOn": 1759765212050,
-      "updatedOn": 1790177133657
+      "updatedOn": 1790836879404
     },
     {
       "id": "68ff463fb1d8eb201758a5c4",
@@ -643,7 +639,6 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2025",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2025-06-06/2025-08-09",
         "Extended until: 2025-09-11",
         "Opening reception: 2025-06-05T18:00/2025-06-05T20:30"
@@ -655,9 +650,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 92,
@@ -665,7 +660,7 @@
       "starred": true,
       "publishOn": 1748592540333,
       "addedOn": 1748592540333,
-      "updatedOn": 1790177417894
+      "updatedOn": 1790836911885
     },
     {
       "id": "6863d2ac2e039636280d3e95",
@@ -743,9 +738,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 88,
@@ -753,7 +748,7 @@
       "starred": true,
       "publishOn": 1742402633109,
       "addedOn": 1742402633109,
-      "updatedOn": 1790177521709
+      "updatedOn": 1790836966743
     },
     {
       "id": "680655e9c6c97648cf64d0cb",
@@ -821,7 +816,6 @@
         "Exhibition: Solo Show",
         "Status: Past Exhibition",
         "Year: 2025",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2025-05-09/2025-05-31",
         "Opening reception: 2025-05-08T18:00/2025-05-08T20:30"
       ],
@@ -832,9 +826,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 91,
@@ -842,7 +836,7 @@
       "starred": true,
       "publishOn": 1742306880415,
       "addedOn": 1742306880415,
-      "updatedOn": 1790177561210
+      "updatedOn": 1790836936702
     },
     {
       "id": "67ebc5fc50cf554ed0bbb30c",
@@ -954,7 +948,6 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2025",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2025-01-29/2025-03-15",
         "Opening reception: 2025-01-28T18:00/2025-01-28T20:30"
       ],
@@ -965,9 +958,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 85,
@@ -975,7 +968,7 @@
       "starred": true,
       "publishOn": 1737903540226,
       "addedOn": 1737903540226,
-      "updatedOn": 1790177628164
+      "updatedOn": 1790836995641
     },
     {
       "id": "67935f5923a12272e9d54e9f",
@@ -1046,7 +1039,6 @@
         "Status: Past Exhibition",
         "Year: 2025",
         "Year: 2024",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Exhibition: Solo Show"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5 December–17 January 2024</p><pre><code>Opening Reception: Wednesday, December 04, 6–8:30pm</code></pre>",
@@ -1056,9 +1048,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 84,
@@ -1066,7 +1058,7 @@
       "starred": true,
       "publishOn": 1732801753001,
       "addedOn": 1732801753001,
-      "updatedOn": 1771583282026
+      "updatedOn": 1790837031217
     },
     {
       "id": "6745e77734d68f01c935533b",
@@ -1098,7 +1090,6 @@
         "Year: 2024",
         "Status: Past Exhibition",
         "Exhibition: Group Show",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2024-12-05/2025-02-15",
         "Opening reception: 2024-12-04T18:00/2024-12-04T20:30"
       ],
@@ -1109,9 +1100,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 83,
@@ -1119,7 +1110,7 @@
       "starred": true,
       "publishOn": 1732801380909,
       "addedOn": 1732801380909,
-      "updatedOn": 1790177675403
+      "updatedOn": 1790837067411
     },
     {
       "id": "66c8a2f49481b661e241f60e",
@@ -1140,7 +1131,6 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2024-09-20/2024-11-09",
         "Opening reception: 2024-09-19T18:00/2024-09-19T20:30"
       ],
@@ -1151,9 +1141,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 80,
@@ -1161,7 +1151,7 @@
       "starred": true,
       "publishOn": 1724338500937,
       "addedOn": 1724338500937,
-      "updatedOn": 1790177736317
+      "updatedOn": 1790837131549
     },
     {
       "id": "6717a57f0e00c021fd01b7b7",
@@ -1230,7 +1220,6 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2024-09-20/2024-11-09",
         "Extended until: 2024-11-22",
         "Opening reception: 2024-09-19T18:00/2024-09-19T20:30"
@@ -1243,8 +1232,8 @@
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
         "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 81,
@@ -1252,7 +1241,7 @@
       "starred": true,
       "publishOn": 1723994040370,
       "addedOn": 1723994040370,
-      "updatedOn": 1790177780952
+      "updatedOn": 1790837092533
     },
     {
       "id": "667abce1d8d9e42213175150",
@@ -1314,7 +1303,6 @@
       ],
       "tags": [
         "Status: Past Exhibition",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Exhibition: Solo Show",
         "Year: 2024",
         "Date: 2024-06-06/2024-07-20",
@@ -1328,9 +1316,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 79,
@@ -1338,7 +1326,7 @@
       "starred": true,
       "publishOn": 1718366071517,
       "addedOn": 1718366071517,
-      "updatedOn": 1790177830002
+      "updatedOn": 1790837157094
     },
     {
       "id": "65fac2efc8ac9652e90779da",
@@ -1359,7 +1347,6 @@
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Date: 2024-03-28/2024-05-11"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28 March 2024–11 May 2024</p>",
@@ -1369,9 +1356,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 75,
@@ -1379,7 +1366,7 @@
       "starred": true,
       "publishOn": 1710950911277,
       "addedOn": 1710950911277,
-      "updatedOn": 1790177848249
+      "updatedOn": 1790837249011
     },
     {
       "id": "65eafb1668219373e1253403",
@@ -1397,7 +1384,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Location: 16, rue Cécile Bieler-Butticaz, 1207 Geneva, Switzerland",
         "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
@@ -1410,9 +1396,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 74,
@@ -1420,7 +1406,7 @@
       "starred": true,
       "publishOn": 1709899194747,
       "addedOn": 1709899194747,
-      "updatedOn": 1790177859979
+      "updatedOn": 1790837195684
     },
     {
       "id": "660eb52f9e0db70d6f6c6ea9",
