@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T10:48:55.022Z",
-  "sourceHash": "efd1d6c283610f0254cc66b7b35d87907495d1a3ae3c294cb280eedf7692e96e",
+  "updatedAt": "2026-10-01T10:58:18.973Z",
+  "sourceHash": "6c89f41f1b8c6aaec1612fe536a74213ae9f2ab37b6b75edf635807a814062dc",
   "count": 108,
   "pages": 1,
   "items": [
@@ -153,26 +153,27 @@
         "Status: On View",
         "Location:  158 rue du General Leclerc,77780 Bourron-Marlotte, France",
         "Date: 2026-09-12/2026-12-12",
-        "Opening: 2026-09-12"
+        "Opening: 2026-09-12",
+        "Location: La Nicotière"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening Saturday 12, September 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
-        "addressCountry": "Switzerland"
+        "mapLat": 48.3405478,
+        "mapLng": 2.7170303,
+        "markerLat": 48.3405478,
+        "markerLng": 2.7170303,
+        "addressTitle": "La Nicotière",
+        "addressLine1": "Rue du Général Leclerc 158",
+        "addressLine2": "77780 Bourron-Marlotte",
+        "addressCountry": "France"
       },
       "displayIndex": 104,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1788886249921,
       "addedOn": 1788886249921,
-      "updatedOn": 1790851158978
+      "updatedOn": 1790851828672
     },
     {
       "id": "6a18069ca7b1a53def6c320c",
