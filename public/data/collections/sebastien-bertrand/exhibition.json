@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T07:08:16.524Z",
-  "sourceHash": "14351f7c6aed610e49b163579dbea9ca0fa6d7fd0d02c2d61fc02872b1c3a2b7",
+  "updatedAt": "2026-10-01T07:18:21.511Z",
+  "sourceHash": "e43ecf89ef4ce286a3ba3258fec19d6e0b865a27c3b71301b8bf9b7b9080b53b",
   "count": 108,
   "pages": 1,
   "items": [
@@ -28,27 +28,26 @@
       "tags": [
         "Year : 2026",
         "Exhibition : Solo Show",
-        "Status: On View",
-        "Location:  158 rue du General Leclerc,77780 Bourron-Marlotte, France"
+        "Status: On View"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening, Wednesday 07 October 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 46.2050682,
-        "mapLng": 6.1591211,
-        "markerLat": 46.2050682,
-        "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
-        "addressCountry": "Switzerland"
+        "mapLat": 48.3405478,
+        "mapLng": 2.7170303,
+        "markerLat": 48.3405478,
+        "markerLng": 2.7170303,
+        "addressTitle": "Bourron-Marlotte",
+        "addressLine1": "Rue du Général Leclerc 158",
+        "addressLine2": "77780 Bourron-Marlotte",
+        "addressCountry": "France"
       },
       "displayIndex": 106,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1790777228100,
       "addedOn": 1790777228100,
-      "updatedOn": 1790777270313
+      "updatedOn": 1790838901426
     },
     {
       "id": "6ab610dccd6792391538a93d",
@@ -4347,9 +4346,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 24,
@@ -4357,7 +4356,7 @@
       "starred": true,
       "publishOn": 1461315060591,
       "addedOn": 1461315060591,
-      "updatedOn": 1790838050116
+      "updatedOn": 1790838538129
     },
     {
       "id": "6260339f6117d017a84eca6f",
@@ -4387,9 +4386,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 20,
@@ -4397,7 +4396,7 @@
       "starred": true,
       "publishOn": 1457716980582,
       "addedOn": 1457716980582,
-      "updatedOn": 1790838050165
+      "updatedOn": 1790838559909
     },
     {
       "id": "6267cdc0ef7e471b2b34d6c8",
@@ -4471,9 +4470,9 @@
         "mapLng": 6.1591211,
         "markerLat": 46.2050682,
         "markerLng": 6.1591211,
-        "addressTitle": "Galerie Sébastien Bertrand",
-        "addressLine1": "16 Rue du Simplon",
-        "addressLine2": "Genève, GE, 1207",
+        "addressTitle": "Sébastien Bertrand",
+        "addressLine1": "Rue Cécile Biéler-Butticaz 16",
+        "addressLine2": "1207 Geneva",
         "addressCountry": "Switzerland"
       },
       "displayIndex": 22,
@@ -4481,7 +4480,7 @@
       "starred": true,
       "publishOn": 1446831600325,
       "addedOn": 1446831600325,
-      "updatedOn": 1790838050100
+      "updatedOn": 1790838579306
     },
     {
       "id": "626030dde55bbd1d8ef9ba26",
