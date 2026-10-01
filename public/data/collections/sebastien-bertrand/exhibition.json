@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T13:48:17.719Z",
-  "sourceHash": "626fbebc1b3f82afad080312c1d24de5682ea615d36e12f7d6cc446ecd8c3aec",
+  "updatedAt": "2026-10-01T13:58:14.915Z",
+  "sourceHash": "968da3ffafcde5f4648ff37f1523c7e311dad4409ca59498a1ded647987a5909",
   "count": 106,
   "pages": 1,
   "items": [
@@ -1162,7 +1162,7 @@
       "starred": true,
       "publishOn": 1723994040370,
       "addedOn": 1723994040370,
-      "updatedOn": 1790851335268
+      "updatedOn": 1790862802198
     },
     {
       "id": "667abce1d8d9e42213175150",
@@ -1205,7 +1205,7 @@
       "starred": false,
       "publishOn": 1719668820201,
       "addedOn": 1719668820201,
-      "updatedOn": 1790841435532
+      "updatedOn": 1790862815345
     },
     {
       "id": "666c2e6a8d728b0efc1e5a71",
@@ -1247,7 +1247,7 @@
       "starred": true,
       "publishOn": 1718366071517,
       "addedOn": 1718366071517,
-      "updatedOn": 1790851242926
+      "updatedOn": 1790862841727
     },
     {
       "id": "65fac2efc8ac9652e90779da",
@@ -1287,7 +1287,7 @@
       "starred": true,
       "publishOn": 1710950911277,
       "addedOn": 1710950911277,
-      "updatedOn": 1790837249011
+      "updatedOn": 1790862861764
     },
     {
       "id": "65eafb1668219373e1253403",
@@ -1327,7 +1327,7 @@
       "starred": true,
       "publishOn": 1709899194747,
       "addedOn": 1709899194747,
-      "updatedOn": 1790837195684
+      "updatedOn": 1790862884352
     },
     {
       "id": "660eb52f9e0db70d6f6c6ea9",
@@ -1369,7 +1369,7 @@
       "starred": true,
       "publishOn": 1709305860517,
       "addedOn": 1709305860517,
-      "updatedOn": 1790851341965
+      "updatedOn": 1790862919817
     },
     {
       "id": "65d61d61e303a63d75a00e21",
@@ -1416,7 +1416,7 @@
       "starred": false,
       "publishOn": 1708531168850,
       "addedOn": 1708531168850,
-      "updatedOn": 1790841847836
+      "updatedOn": 1790862936357
     },
     {
       "id": "6621021c52fba754cfc5d2f2",
@@ -1454,7 +1454,7 @@
       "starred": true,
       "publishOn": 1704457260734,
       "addedOn": 1704457260734,
-      "updatedOn": 1790841696745
+      "updatedOn": 1790862969564
     },
     {
       "id": "654cd05c9f79e02413a291a9",
@@ -1495,7 +1495,7 @@
       "starred": true,
       "publishOn": 1700152287171,
       "addedOn": 1700152287171,
-      "updatedOn": 1790837311410
+      "updatedOn": 1790862992057
     },
     {
       "id": "659d506fad35084ded78e89e",
@@ -1545,7 +1545,7 @@
       "starred": true,
       "publishOn": 1698920820494,
       "addedOn": 1698920820494,
-      "updatedOn": 1790855657407
+      "updatedOn": 1790863007900
     },
     {
       "id": "64f5f88480b09834aec17a0d",
@@ -1585,7 +1585,7 @@
       "starred": true,
       "publishOn": 1693841540103,
       "addedOn": 1693841540103,
-      "updatedOn": 1790837340213
+      "updatedOn": 1790863040767
     },
     {
       "id": "652e8b941215b30c484a92b2",
@@ -1627,7 +1627,7 @@
       "starred": true,
       "publishOn": 1693575180290,
       "addedOn": 1693575180290,
-      "updatedOn": 1790840624576
+      "updatedOn": 1790863061100
     },
     {
       "id": "649d44745df0621342a08642",
@@ -1672,7 +1672,7 @@
       "starred": false,
       "publishOn": 1688041800955,
       "addedOn": 1688041800955,
-      "updatedOn": 1790841363574
+      "updatedOn": 1790863080581
     },
     {
       "id": "6470b6c055fbca22d3ffc23d",
