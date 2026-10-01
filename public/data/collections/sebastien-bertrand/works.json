@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-01T12:10:38.618Z",
-  "sourceHash": "cab71638924a9bd8f2c2be23eaf52888b96a7094362d63109cc7a620c676901a",
+  "updatedAt": "2026-10-01T12:18:26.568Z",
+  "sourceHash": "7c783d8dd183f17d9ef3a4ac76fd0faca2a9d9c737be0a0f9ae8f3c04fe5ee3c",
   "count": 758,
   "pages": 4,
   "items": [
@@ -22,7 +22,7 @@
         "source": 3
       },
       "tags": [
-        "Good Mourning"
+        "Exhibition: Good Mourning"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">60 x 50 cm. / 23 ½ x 19 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MJ-2605</p>",
       "displayIndex": 0,
@@ -30,7 +30,7 @@
       "starred": false,
       "publishOn": 1790174156690,
       "addedOn": 1643206965705,
-      "updatedOn": 1790174159382,
+      "updatedOn": 1790856733997,
       "categories": [
         "Mirella Jaworska"
       ],
@@ -136,7 +136,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2025"
+        "Exhibition: Miart 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas, artist's frame</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">31 x 43 x 3 cm., 12 ¼ x 17 x 1 ¼ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">SWK-2504</p>",
       "displayIndex": 0,
@@ -144,7 +144,7 @@
       "starred": true,
       "publishOn": 1789984157733,
       "addedOn": 1643206965705,
-      "updatedOn": 1789984973906,
+      "updatedOn": 1790856965789,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -176,7 +176,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2025"
+        "Exhibition: Miart 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas, artist's frame</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">33 x 20 x 3 cm., 13 x 7 ¾ x 1 ¼ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">SWK-2505</p>",
       "displayIndex": 0,
@@ -184,7 +184,7 @@
       "starred": true,
       "publishOn": 1789983797890,
       "addedOn": 1643206965705,
-      "updatedOn": 1789985549569,
+      "updatedOn": 1790856965709,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -262,7 +262,7 @@
         "source": 3
       },
       "tags": [
-        "Façades"
+        "Exhibition: Façades"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas, artist's frame</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">50 x 40 cm., 19 ¾ x 15 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">SWK-2605</p>",
       "displayIndex": 0,
@@ -270,7 +270,7 @@
       "starred": true,
       "publishOn": 1789983363911,
       "addedOn": 1643206965705,
-      "updatedOn": 1789983363911,
+      "updatedOn": 1790856655633,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -306,7 +306,7 @@
       "urlId": "arcdgehx8sbmhm2-8ajp4-lg997",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1bae41fc-e25f-4bb0-be0c-c7a847aba6d3/HD_swk004.jpg",
       "tags": [
-        "Façades"
+        "Exhibition: Façades"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas, artist's frame</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">50 x 40 cm., 19 ¾ x 15 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">SWK-2604</p>",
       "displayIndex": 0,
@@ -314,7 +314,7 @@
       "starred": true,
       "publishOn": 1789982964937,
       "addedOn": 1643206965705,
-      "updatedOn": 1789983091799,
+      "updatedOn": 1790856655660,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -360,7 +360,7 @@
         "source": 3
       },
       "tags": [
-        "Liste 2026"
+        "Exhibition: Liste 2026"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2024</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Acrylic on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">182.9 x 213.4 cm.. / 72 x 84 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">IFH-2404</p>",
       "displayIndex": 0,
@@ -368,7 +368,7 @@
       "starred": false,
       "publishOn": 1782220949956,
       "addedOn": 1643206965705,
-      "updatedOn": 1788232672006,
+      "updatedOn": 1790856919448,
       "categories": [
         "Isaac Soh Fujita Howell"
       ],
@@ -400,7 +400,7 @@
         "source": 3
       },
       "tags": [
-        "Liste 2026"
+        "Exhibition: Liste 2026"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Watercolor, gouache, acrylic and pen on paper</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">45.7 x 78.7 cm. / 18 x 31 in., 65.6 x 96.5 x 4 cm. / 25 &frac34; x 38 x 1 &frac12; in. Framed</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">IFH-2604</p>",
       "displayIndex": 0,
@@ -408,7 +408,7 @@
       "starred": true,
       "publishOn": 1782220657199,
       "addedOn": 1643206965705,
-      "updatedOn": 1788232670072,
+      "updatedOn": 1790856919471,
       "categories": [
         "Isaac Soh Fujita Howell"
       ],
@@ -440,7 +440,7 @@
         "source": 3
       },
       "tags": [
-        "Liste 2026"
+        "Exhibition: Liste 2026"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2024</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Acrylic on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">182.9 x 426.7 cm. / 72 x 168 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">IFH-2402</p>",
       "displayIndex": 0,
@@ -448,7 +448,7 @@
       "starred": false,
       "publishOn": 1781016126760,
       "addedOn": 1643206965705,
-      "updatedOn": 1788225399950,
+      "updatedOn": 1790856919425,
       "categories": [
         "Isaac Soh Fujita Howell"
       ],
@@ -645,7 +645,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2026"
+        "Exhibition: Miart 2026"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Smoked ceramic</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">36 x 39 x 17 cm./ 14 &frac14; x 15 &frac14; x 6 &frac34; in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">EVH-2026</p>",
       "displayIndex": 0,
@@ -653,7 +653,7 @@
       "starred": true,
       "publishOn": 1777373655459,
       "addedOn": 1643206965705,
-      "updatedOn": 1788202571815,
+      "updatedOn": 1790856974103,
       "categories": [
         "Eloïse Van der Heyden"
       ],
@@ -680,7 +680,7 @@
       "urlId": "arcdgehx8sbmhm2-dtah9-2cfzc-dw7sb-s3fpt-hxa6e-g8wkj",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/6b9281f0-fe80-4520-b091-ebfce2c35179/Mock-up-HD_Bertrand_2742-1+copie+2.jpg",
       "tags": [
-        "Miart 2026"
+        "Exhibition: Miart 2026"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Pigment dye transfer on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">92.7 x 41.1 x 3 cm.. / 36 &frac12; x 16 &frac14; x 1 &frac14; in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">SWK-2601</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "displayIndex": 0,
@@ -688,7 +688,7 @@
       "starred": true,
       "publishOn": 1777373240356,
       "addedOn": 1643206965705,
-      "updatedOn": 1788202570928,
+      "updatedOn": 1790856974083,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -734,7 +734,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2026"
+        "Exhibition: Miart 2026"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Acrylic on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">71.1 x 71.1 cm. / 28 x 28 in. </p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">WR-1909</p>",
       "displayIndex": 0,
@@ -742,7 +742,7 @@
       "starred": false,
       "publishOn": 1775744552161,
       "addedOn": 1643206965705,
-      "updatedOn": 1788191516103,
+      "updatedOn": 1790856974066,
       "categories": [
         "Walter Robinson"
       ],
@@ -774,7 +774,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2026"
+        "Exhibition: Miart 2026"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Black stoneware with rusty glaze</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">50 x 40 x 29 cm. / 19 ¾ x 15 ¾ x 11 ½ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">HC-2502</p>",
       "displayIndex": 0,
@@ -782,7 +782,7 @@
       "starred": true,
       "publishOn": 1775744048370,
       "addedOn": 1643206965705,
-      "updatedOn": 1788191509258,
+      "updatedOn": 1790856973996,
       "categories": [
         "Han-Chiao"
       ],
@@ -832,7 +832,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2026"
+        "Exhibition: Miart 2026"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">40.6 x 61 cm. (16 x 24 in.)<br>44.5 x 65 cm. (17 ½ x 25 ½ in.) Framed</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>MH-2601</span></p>",
       "displayIndex": 0,
@@ -840,7 +840,7 @@
       "starred": true,
       "publishOn": 1775743504964,
       "addedOn": 1643206965705,
-      "updatedOn": 1788191505963,
+      "updatedOn": 1790856974017,
       "categories": [
         "Michael Hilsman"
       ],
@@ -872,7 +872,7 @@
         "source": 3
       },
       "tags": [
-        "Fruta y Media Tarde"
+        "Exhibition: Fruta y Media Tarde"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on wood</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">18 x 12.5 cm. / 7 x 5 in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">NGM-2608</p>",
       "displayIndex": 0,
@@ -880,7 +880,7 @@
       "starred": true,
       "publishOn": 1775742525771,
       "addedOn": 1643206965705,
-      "updatedOn": 1788191498534,
+      "updatedOn": 1790856715893,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -912,7 +912,7 @@
         "source": 3
       },
       "tags": [
-        "Fruta y Media Tarde"
+        "Exhibition: Fruta y Media Tarde"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on wood</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">60 x 90 cm. / 23 ½ x 35 ½ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">NGM-2603</p>",
       "displayIndex": 0,
@@ -920,7 +920,7 @@
       "starred": true,
       "publishOn": 1775742382120,
       "addedOn": 1643206965705,
-      "updatedOn": 1788191496245,
+      "updatedOn": 1790856715845,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -970,7 +970,7 @@
         "source": 3
       },
       "tags": [
-        "Fruta y Media Tarde"
+        "Exhibition: Fruta y Media Tarde"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on wood</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 x 40 cm. / 11 ¾ x 15 ¾ in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">NGM-2605</p>",
       "displayIndex": 0,
@@ -978,7 +978,7 @@
       "starred": true,
       "publishOn": 1775742271612,
       "addedOn": 1643206965705,
-      "updatedOn": 1788191494832,
+      "updatedOn": 1790856715814,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -1019,7 +1019,7 @@
         "source": 3
       },
       "tags": [
-        "Fruta y Media Tarde"
+        "Exhibition: Fruta y Media Tarde"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on wood</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">50 x 40 cm. / 19 ¾ x 15 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">NGM-2606</p>",
       "displayIndex": 0,
@@ -1027,7 +1027,7 @@
       "starred": true,
       "publishOn": 1775742093336,
       "addedOn": 1643206965705,
-      "updatedOn": 1788191492088,
+      "updatedOn": 1790856715869,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -3357,7 +3357,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2025"
+        "Exhibition: Miart 2025"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Black Stoneware</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">54 x 34 x 26 cm.<br><br>21 ¼ x 13 ½ x 10 ¼ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">HC-2406</p>",
       "displayIndex": 0,
@@ -3365,7 +3365,7 @@
       "starred": true,
       "publishOn": 1743504794954,
       "addedOn": 1643206965705,
-      "updatedOn": 1787968199985,
+      "updatedOn": 1790856965728,
       "categories": [
         "Han-Chiao"
       ],
@@ -3415,7 +3415,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2025"
+        "Exhibition: Miart 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Pigment dye transfer on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">92.7 x 41.1 x 3 cm.. / 36 ½ x 16 ¼ x 1 ¼ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">SWK-2503</p>",
       "displayIndex": 0,
@@ -3423,7 +3423,7 @@
       "starred": false,
       "publishOn": 1744102720665,
       "addedOn": 1643206965705,
-      "updatedOn": 1789978940482,
+      "updatedOn": 1790856965749,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -3455,7 +3455,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2025"
+        "Exhibition: Miart 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Oil on canvas</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>40 x 30 x 3 cm. </span>/ <span>15 &frac34; x 11 &frac34; x 1 &frac14; in.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">SWK-2506</p>",
       "displayIndex": 0,
@@ -3463,7 +3463,7 @@
       "starred": true,
       "publishOn": 1777993124075,
       "addedOn": 1643206965705,
-      "updatedOn": 1787968197901,
+      "updatedOn": 1790856965685,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -4405,7 +4405,7 @@
       "urlId": "e4dnbabpbc5tlyr-rxr9s-s9mla-ajtd2-lbyam-7zes3",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/eb6e7c7a-2843-45fb-ab81-1d6dd929d688/HD_Annik-Wetter_2024-12-03_16587.jpg",
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1965</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">23.5 x 23.5 cm. / 9 ¼ x 9 ¼ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">RR-6501</p>",
       "displayIndex": 0,
@@ -4413,7 +4413,7 @@
       "starred": false,
       "publishOn": 1733928314106,
       "addedOn": 1643206965705,
-      "updatedOn": 1787935935237,
+      "updatedOn": 1790857098891,
       "categories": [
         "Robert Ryman"
       ],
@@ -4450,7 +4450,7 @@
         "source": 3
       },
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2018</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Silkscreen on mirror</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">50 x 40 cm. / 19 ¾ x 15 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">SF-1801</p>",
       "displayIndex": 0,
@@ -4458,7 +4458,7 @@
       "starred": false,
       "publishOn": 1733928128790,
       "addedOn": 1643206965705,
-      "updatedOn": 1787935934522,
+      "updatedOn": 1790857098722,
       "categories": [
         "Sylvie Fleury"
       ],
@@ -4499,7 +4499,7 @@
         "source": 3
       },
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2017</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Acrylic on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">29.5 x 91 cm. / 11 ½ x 35 ¾ in. <br>(29.5 x 30 cm. each)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">NT-1701</p>",
       "displayIndex": 0,
@@ -4507,7 +4507,7 @@
       "starred": false,
       "publishOn": 1733927980538,
       "addedOn": 1643206965705,
-      "updatedOn": 1787935933912,
+      "updatedOn": 1790857098785,
       "categories": [
         "Niele Toroni"
       ],
@@ -4539,7 +4539,7 @@
         "source": 3
       },
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p> 1988</p><p><span>Plotter computer drawing</span></p><p><span>29.5 x 200 cm.</span> / <span>11 ½ x 78 ¾ in.</span></p><p><span>VM-8801</span></p>",
       "displayIndex": 0,
@@ -4547,7 +4547,7 @@
       "starred": false,
       "publishOn": 1732792022906,
       "addedOn": 1643206965705,
-      "updatedOn": 1787932569251,
+      "updatedOn": 1790857098763,
       "categories": [
         "Vera Molnár"
       ],
@@ -4579,7 +4579,7 @@
         "source": 3
       },
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p>2023</p><p>Mixed media on canvas</p><p>196 x 151 cm./ 77 ¼ x 59 ½ in.</p><p>TFO-2301</p>",
       "displayIndex": 0,
@@ -4587,7 +4587,7 @@
       "starred": false,
       "publishOn": 1732791466510,
       "addedOn": 1643206965705,
-      "updatedOn": 1787932568894,
+      "updatedOn": 1790857098743,
       "categories": [
         "Thomas Fougeirol"
       ],
@@ -4614,7 +4614,7 @@
       "urlId": "e4dnbabpbc5tlyr-rxr9s",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/8543c7cd-264b-4f1d-a521-d3d275dc62c9/PF5711_Schu%CC%88tte_Fake+Flag+G_2018_L.jpg",
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p>2018</p><p>Glazed Ceramic in three parts</p><p>95.9 x 207 x 3.8 cm. / 37 ¾ x 81 ½ x 1 ½ in.</p><p>TS-1801</p>",
       "displayIndex": 0,
@@ -4622,7 +4622,7 @@
       "starred": false,
       "publishOn": 1732791568560,
       "addedOn": 1643206965705,
-      "updatedOn": 1787932568863,
+      "updatedOn": 1790857098699,
       "categories": [
         "Thomas Schütte"
       ],
@@ -4659,7 +4659,7 @@
         "source": 3
       },
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p>2003</p><p>Ink on paper </p><p>60 × 50 cm. / 25 ½ × 19 ½ in.</p><p>PB-0301</p>",
       "displayIndex": 0,
@@ -4667,7 +4667,7 @@
       "starred": false,
       "publishOn": 1732790587786,
       "addedOn": 1643206965705,
-      "updatedOn": 1787932566913,
+      "updatedOn": 1790857098873,
       "categories": [
         "Pierrette Bloch"
       ],
@@ -4703,7 +4703,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-x9gal-j6j8h-fprwd-ycn2r-45fhk-pm3dm-5zwjk-m5p5d-544y9-5ydsk-k56pc",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/3cdfe1d5-5a8e-48c8-b6b1-2a2ef9631a80/FontLu010.jpg",
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p>1960</p><p>Oil, holes and silvery varnish on canvas </p><p>27 x 44.7 cm. / 10 ¾ x 17 ½ in.</p><p>LF-6001</p>",
       "displayIndex": 0,
@@ -4711,7 +4711,7 @@
       "starred": false,
       "publishOn": 1732790237856,
       "addedOn": 1643206965705,
-      "updatedOn": 1787932566391,
+      "updatedOn": 1790857098809,
       "categories": [
         "Lucio Fontana"
       ],
@@ -4743,7 +4743,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-x9gal-j6j8h-fprwd-ycn2r-45fhk-pm3dm-5zwjk-m5p5d-544y9-5ydsk",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/453b9718-2141-49e9-b169-1e072610bbf4/LR01.jpg",
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p>2020</p><p>Tempera on canvas</p><p>66.7 x 81.2 cm. / 26 ¼ x 32 in.</p><p>LR-2001</p>",
       "displayIndex": 0,
@@ -4751,7 +4751,7 @@
       "starred": false,
       "publishOn": 1732789933522,
       "addedOn": 1643206965705,
-      "updatedOn": 1787932564796,
+      "updatedOn": 1790857098849,
       "categories": [
         "Loïc Raguénès"
       ],
@@ -5225,7 +5225,7 @@
         "source": 3
       },
       "tags": [
-        "Ode to Sad Disco"
+        "Exhibition: Ode to Sad Disco"
       ],
       "excerpt": "<p> 2024</p><p>Oil on canvas</p><p><span>132.5 x 185.5 cm.</span> / <span>52 ¼ x 73 in.</span></p><p>(JA-2401)</p>",
       "displayIndex": 0,
@@ -5233,7 +5233,7 @@
       "starred": false,
       "publishOn": 1728916645456,
       "addedOn": 1643206965705,
-      "updatedOn": 1787920927988,
+      "updatedOn": 1790857098828,
       "categories": [
         "Joe Andoe"
       ],
@@ -5265,7 +5265,7 @@
         "source": 3
       },
       "tags": [
-        "Il faut cultiver notre jardin"
+        "Exhibition: Il faut cultiver notre jardin."
       ],
       "excerpt": "<p>2024</p><p>Watercolor on paper</p><p>31 x 23 cm/ 12 ¼ x 9 in.</p><p>CGW-2429</p>",
       "displayIndex": 0,
@@ -5273,7 +5273,7 @@
       "starred": true,
       "publishOn": 1727194332519,
       "addedOn": 1643206965705,
-      "updatedOn": 1787916247157,
+      "updatedOn": 1790856837093,
       "categories": [
         "Caspar Giorgio Williams"
       ],
@@ -5300,7 +5300,7 @@
       "urlId": "arcdgehx8sbmhm2-nfw62",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/ce59b3fb-4092-4985-847d-3c143335695a/+HD-CGW-2433.jpg",
       "tags": [
-        "Il faut cultiver notre jardin"
+        "Exhibition: Il faut cultiver notre jardin."
       ],
       "excerpt": "<p>2024</p><p>Watercolor on paper</p><p>31 x 23 cm./ 12 ¼ x 9 in.</p><p>CGW-2433</p>",
       "displayIndex": 0,
@@ -5308,7 +5308,7 @@
       "starred": true,
       "publishOn": 1727194193208,
       "addedOn": 1643206965705,
-      "updatedOn": 1787916246511,
+      "updatedOn": 1790856837110,
       "categories": [
         "Caspar Giorgio Williams"
       ],
@@ -5345,7 +5345,7 @@
         "source": 3
       },
       "tags": [
-        "Il faut cultiver notre jardin"
+        "Exhibition: Il faut cultiver notre jardin."
       ],
       "excerpt": "<p>2022</p><p>Watercolor on paper</p><p>14.8 x 20.9 cm./ 5 ¾ x 8 ¼ in.</p><p>CGW-2417</p>",
       "displayIndex": 0,
@@ -5353,7 +5353,7 @@
       "starred": true,
       "publishOn": 1727194051736,
       "addedOn": 1643206965705,
-      "updatedOn": 1787916246217,
+      "updatedOn": 1790856837054,
       "categories": [
         "Caspar Giorgio Williams"
       ],
@@ -5385,7 +5385,7 @@
         "source": 3
       },
       "tags": [
-        "Il faut cultiver notre jardin"
+        "Exhibition: Il faut cultiver notre jardin."
       ],
       "excerpt": "<p>2024</p><p>Watercolor on paper</p><p>31 x 23 cm./ 12 ¼ x 9 in.</p><p>CGW-2408</p>",
       "displayIndex": 0,
@@ -5393,7 +5393,7 @@
       "starred": true,
       "publishOn": 1727193910877,
       "addedOn": 1643206965705,
-      "updatedOn": 1787916245531,
+      "updatedOn": 1790856837177,
       "categories": [
         "Caspar Giorgio Williams"
       ],
@@ -5420,7 +5420,7 @@
       "urlId": "arcdgehx8sbmhm2-w3wrr-p83w6",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/c1e187ee-775a-49bb-b93e-32e4078ce71a/+HD-CGW-2430.jpg",
       "tags": [
-        "Il faut cultiver notre jardin"
+        "Exhibition: Il faut cultiver notre jardin."
       ],
       "excerpt": "<p>2024</p><p>Watercolor on paper</p><p>29.5 x 21 cm./ 11 ½ x 8 ¼ in..</p><p>CGW-2430</p>",
       "displayIndex": 0,
@@ -5428,7 +5428,7 @@
       "starred": true,
       "publishOn": 1727193771330,
       "addedOn": 1643206965705,
-      "updatedOn": 1787916245018,
+      "updatedOn": 1790856837157,
       "categories": [
         "Caspar Giorgio Williams"
       ],
@@ -5465,7 +5465,7 @@
         "source": 3
       },
       "tags": [
-        "Il faut cultiver notre jardin"
+        "Exhibition: Il faut cultiver notre jardin."
       ],
       "excerpt": "<p>2024</p><p>Watercolor on paper</p><p><span>31 x 23.1 cm.</span> / <span>12 ¼ x 9 in.</span></p><p>CGW-2401</p>",
       "displayIndex": 0,
@@ -5473,7 +5473,7 @@
       "starred": true,
       "publishOn": 1726154575508,
       "addedOn": 1643206965705,
-      "updatedOn": 1787913221560,
+      "updatedOn": 1790856837142,
       "categories": [
         "Caspar Giorgio Williams"
       ],
@@ -5509,7 +5509,7 @@
       "urlId": "arcdgehx8sbmhm2-w3wrr-wlg2j",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/6c4d9616-80fa-46eb-ab63-98b09d50b838/+HD-CGW-2202.jpg",
       "tags": [
-        "Il faut cultiver notre jardin"
+        "Exhibition: Il faut cultiver notre jardin."
       ],
       "excerpt": "<p>2022</p><p>Watercolor on paper</p><p>29.7 x 20.9 cm./ 11 ¾ x 8 ¼ in.</p><p>CGW-2202</p>",
       "displayIndex": 0,
@@ -5517,7 +5517,7 @@
       "starred": true,
       "publishOn": 1726154027074,
       "addedOn": 1643206965705,
-      "updatedOn": 1787913219822,
+      "updatedOn": 1790856837073,
       "categories": [
         "Caspar Giorgio Williams"
       ],
@@ -5554,7 +5554,7 @@
         "source": 3
       },
       "tags": [
-        "Il faut cultiver notre jardin"
+        "Exhibition: Il faut cultiver notre jardin."
       ],
       "excerpt": "<p>2024</p><p>Watercolor on paper</p><p>31 x 23 cm./ 12 ¼ x 9 in.</p><p>CGW-2411</p>",
       "displayIndex": 0,
@@ -5562,7 +5562,7 @@
       "starred": true,
       "publishOn": 1726154326178,
       "addedOn": 1643206965705,
-      "updatedOn": 1787913219781,
+      "updatedOn": 1790856837123,
       "categories": [
         "Caspar Giorgio Williams"
       ],
@@ -5834,7 +5834,7 @@
         "source": 3
       },
       "tags": [
-        "Façades"
+        "Exhibition: Façades"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas, artist's frame</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">10.2 x 14 cm., 4 x 5 ½ in. </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">SWK-2609</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "displayIndex": 0,
@@ -5842,7 +5842,7 @@
       "starred": true,
       "publishOn": 1718370766674,
       "addedOn": 1643206965705,
-      "updatedOn": 1789982996861,
+      "updatedOn": 1790856655601,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -5883,7 +5883,7 @@
         "source": 3
       },
       "tags": [
-        "Glance & Ways of Seeing"
+        "Exhibition: Glance & Ways of Seeing"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\">Pigment dye transfer on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\">96 x 41.5 x 3 cm. / 37 ¾ x 16 ¼ x 1 ¼ in.</p><p class=\"\" style=\"white-space:pre-wrap;\">SWK-2420</p>",
       "displayIndex": 0,
@@ -5891,7 +5891,7 @@
       "starred": false,
       "publishOn": 1718370306768,
       "addedOn": 1643206965705,
-      "updatedOn": 1787893655893,
+      "updatedOn": 1790856725293,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -5923,7 +5923,7 @@
         "source": 3
       },
       "tags": [
-        "Glance & Ways of Seeing"
+        "Exhibition: Glance & Ways of Seeing"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\">Pigment dye transfer on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\">42 x 32 x 3 cm. / 16 ½ x 12 ½ x 1 ¼ in.</p><p class=\"\" style=\"white-space:pre-wrap;\">SWK-2424</p>",
       "displayIndex": 0,
@@ -5931,7 +5931,7 @@
       "starred": false,
       "publishOn": 1718370182641,
       "addedOn": 1643206965705,
-      "updatedOn": 1787891255350,
+      "updatedOn": 1790856725272,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -5963,7 +5963,7 @@
         "source": 3
       },
       "tags": [
-        "Glance & Ways of Seeing"
+        "Exhibition: Glance & Ways of Seeing"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2024</p><p style=\"white-space:pre-wrap;\">Pigment dye transfer on canvas</p><p style=\"white-space:pre-wrap;\">96 x 41.5 x 3 cm. / 37 &frac34; x 16 &frac14; x 1 &frac14; in.</p><p style=\"white-space:pre-wrap;\">SWK-2421</p>",
       "displayIndex": 0,
@@ -5971,7 +5971,7 @@
       "starred": true,
       "publishOn": 1717000004508,
       "addedOn": 1643206965705,
-      "updatedOn": 1787891253399,
+      "updatedOn": 1790856725196,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -6003,7 +6003,7 @@
         "source": 3
       },
       "tags": [
-        "Glance & Ways of Seeing"
+        "Exhibition: Glance & Ways of Seeing"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on wood panel</p><p class=\"\" style=\"white-space:pre-wrap;\">50 x 45 x 3 cm./ 19 ¾ x 17 ¾ x 1 ¼ in.</p><p class=\"\" style=\"white-space:pre-wrap;\">SWK-2418</p>",
       "displayIndex": 0,
@@ -6011,7 +6011,7 @@
       "starred": false,
       "publishOn": 1718370202331,
       "addedOn": 1643206965705,
-      "updatedOn": 1787891245834,
+      "updatedOn": 1790856725236,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -6043,7 +6043,7 @@
         "source": 3
       },
       "tags": [
-        "Il faut cultiver notre jardin"
+        "Exhibition: Il faut cultiver notre jardin."
       ],
       "excerpt": "<p>2024</p><p>Watercolor on paper</p><p>25.4 x 17.9 cm./ 10 x 7 in.</p><p>CGW-2403</p>",
       "displayIndex": 0,
@@ -6051,7 +6051,7 @@
       "starred": true,
       "publishOn": 1718370450598,
       "addedOn": 1643206965705,
-      "updatedOn": 1787891243866,
+      "updatedOn": 1790856837037,
       "categories": [
         "Caspar Giorgio Williams"
       ],
@@ -6083,7 +6083,7 @@
         "source": 3
       },
       "tags": [
-        "Glance & Ways of Seeing"
+        "Exhibition: Glance & Ways of Seeing"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2024</p><p style=\"white-space:pre-wrap;\">Oil on canvas</p><p style=\"white-space:pre-wrap;\">17 x 12 x 3 cm.<span style=\"color: rgb(0, 0, 0)\"> </span>/ 6 &frac34; x 4 &frac34; x 1 &frac14; in.</p><p style=\"white-space:pre-wrap;\">SWK-2410</p>",
       "displayIndex": 0,
@@ -6091,7 +6091,7 @@
       "starred": true,
       "publishOn": 1716998875896,
       "addedOn": 1643206965705,
-      "updatedOn": 1787891243555,
+      "updatedOn": 1790856725172,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -6203,8 +6203,8 @@
         "source": 3
       },
       "tags": [
-        "Echo",
-        "Exhibition: Art Brussels 2024"
+        "Exhibition: Art Brussels 2024",
+        "Exhibition: Echo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Black Stoneware</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">49 x 40 x 40 cm.</span></p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">19 ¼ x 15 ¾ x 15 ¾ in.</span></p><p class=\"\" style=\"white-space:pre-wrap;\">HC-2306</p>",
       "displayIndex": 0,
@@ -6212,7 +6212,7 @@
       "starred": true,
       "publishOn": 1713440595629,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855450571,
+      "updatedOn": 1790856640107,
       "categories": [
         "Han-Chiao"
       ],
@@ -6248,7 +6248,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-gakba-kmgl9-6gs23-55g9s-b74gp-r5bbn-39r7y-yhzc8-rgegz-6tdk4-689k3-ds8xs-hsbnw-x4pwc-m5zza-cdxyp-2clpk-mpbhe-al8m8",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1718370850600-U2DJTILMW1OR07LBVVFP/HD_SANG+WOO+KIM%2C+Closer+005%2C+2024%2C+Oil+on+canvas%2C+62+x+46+x+3+cm.%2C+24+%C2%BD+x+18+x+1+%C2%BC+in.+%28SWK-2415%29FINALB+copie.jpg",
       "tags": [
-        "Glance & Ways of Seeing"
+        "Exhibition: Glance & Ways of Seeing"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2024</p><p style=\"white-space:pre-wrap;\">Oil on canvas</p><p style=\"white-space:pre-wrap;\">62 x 46 x 3 cm.<span style=\"color: rgb(0, 0, 0)\"> </span>/ <span style=\"color: rgb(0, 0, 0)\">24 ½ x 18 x 1 ¼ in.</span></p><p style=\"white-space:pre-wrap;\">SWK-2415</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
       "displayIndex": 0,
@@ -6256,7 +6256,7 @@
       "starred": false,
       "publishOn": 1718370848325,
       "addedOn": 1643206965705,
-      "updatedOn": 1789978921009,
+      "updatedOn": 1790856725219,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -6328,7 +6328,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-3zner-tw33n-8wmnw-rmghg-jlmsd-42z69-wkfza-xsk3m-ek2rd-ylea9-89hg2-d94d8-rwtkf-cn4by-8ble9",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1713021489738-0NM6KURO9BY29H0QWT5B/HD2_O4B8572-1+copie.jpg",
       "tags": [
-        "Miart 2024"
+        "Exhibition: Miart 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">73 x 54 x 2.5 cm. / 8 . x 21 . x 1 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">(TL-2402)</p>",
       "displayIndex": 0,
@@ -6336,7 +6336,7 @@
       "starred": false,
       "publishOn": 1713021544249,
       "addedOn": 1643206965705,
-      "updatedOn": 1787884541531,
+      "updatedOn": 1790856957520,
       "categories": [
         "Tali Lennox"
       ],
@@ -6368,7 +6368,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-3zner-tw33n-8wmnw-rmghg-jlmsd-42z69-wkfza-xsk3m-ek2rd-ylea9-89hg2-d94d8-rwtkf-cn4by-2ncye",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1713021274936-U18I52E5QLFY70H3U91P/HD2_O4B8574-1+copie.jpg",
       "tags": [
-        "Miart 2024"
+        "Exhibition: Miart 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">65 x 50 x 2.5 cm. / 25 ½ x 19 ¾ x 1 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">(TL-2403)</p>",
       "displayIndex": 0,
@@ -6376,7 +6376,7 @@
       "starred": false,
       "publishOn": 1713021346241,
       "addedOn": 1643206965705,
-      "updatedOn": 1787884541131,
+      "updatedOn": 1790856957503,
       "categories": [
         "Tali Lennox"
       ],
@@ -6648,7 +6648,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-3zner-tw33n-8wmnw-rmghg-jlmsd-42z69-wkfza-xsk3m-ek2rd-ylea9-89hg2-d94d8-rwtkf-cn4by",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1713019831207-1XKMOMX00RLNRGG0ZWEQ/HD2_Tali+Lennox%2C+Lucid+Thrills%2C+2024%2C+Oil+on+canvas%2C+73+x+50+x+2.5+cm.+%3A+28+%C2%BE+x+19+%C2%BE+x+1+in.%2C+%28TL-2405%29.jpg",
       "tags": [
-        "Miart 2024"
+        "Exhibition: Miart 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">73 x 50 x 2.5 cm / 28 . x 19 . x 1 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">(TL-2405)</p>",
       "displayIndex": 0,
@@ -6656,7 +6656,7 @@
       "starred": false,
       "publishOn": 1712495303022,
       "addedOn": 1643206965705,
-      "updatedOn": 1787883575716,
+      "updatedOn": 1790856957486,
       "categories": [
         "Tali Lennox"
       ],
@@ -6693,7 +6693,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2024"
+        "Exhibition: Miart 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024<br><br>Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">55 x 38 x 2.5 cm. /21 . x 15 x 1 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">(TL-2411)</p>",
       "displayIndex": 0,
@@ -6701,7 +6701,7 @@
       "starred": false,
       "publishOn": 1712242392332,
       "addedOn": 1643206965705,
-      "updatedOn": 1787883264468,
+      "updatedOn": 1790856957565,
       "categories": [
         "Tali Lennox"
       ],
@@ -6782,7 +6782,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2024"
+        "Exhibition: Miart 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">73 x 50 x 2.5 cm / 28 . x 19 . x 1 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">(TL-2405)</p>",
       "displayIndex": 0,
@@ -6790,7 +6790,7 @@
       "starred": false,
       "publishOn": 1720711057824,
       "addedOn": 1643206965705,
-      "updatedOn": 1787883263196,
+      "updatedOn": 1790856957542,
       "categories": [
         "Tali Lennox"
       ],
@@ -7218,8 +7218,8 @@
         "source": 3
       },
       "tags": [
-        "Landscapes With Flowers",
-        "Exhibition: Art Genève 2024"
+        "Exhibition: Art Genève 2024",
+        "Exhibition: Landscapes With Flowers"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\"> 28 x 36 cm / 11 x 14 in. </p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">MH-2309</span></p>",
       "displayIndex": 0,
@@ -7227,7 +7227,7 @@
       "starred": true,
       "publishOn": 1705573997771,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855863607,
+      "updatedOn": 1790856896892,
       "categories": [
         "Michael Hilsman"
       ],
@@ -7599,7 +7599,7 @@
         "source": 3
       },
       "tags": [
-        "Lady Into Fox"
+        "Exhibition: Lady Into Fox"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2023 </p><p style=\"white-space:pre-wrap;\">Oil on wood</p><p style=\"white-space:pre-wrap;\">25.3 x 20.4 x 3.3 cm. / 10 x 8 x 1 ¼ in.</p><p style=\"white-space:pre-wrap;\">(NGM-2332)</p>",
       "displayIndex": 0,
@@ -7607,7 +7607,7 @@
       "starred": false,
       "publishOn": 1704819111194,
       "addedOn": 1643206965705,
-      "updatedOn": 1787868969219,
+      "updatedOn": 1790856886331,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -7639,7 +7639,7 @@
         "source": 3
       },
       "tags": [
-        "Lady Into Fox"
+        "Exhibition: Lady Into Fox"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2023 </p><p style=\"white-space:pre-wrap;\">Oil on wood</p><p style=\"white-space:pre-wrap;\">160.5 x 50 x 3.2 cm. / 63 ¼ x 19 ¾ x  1 ¼ in.</p><p style=\"white-space:pre-wrap;\">(NGM-2323)</p>",
       "displayIndex": 0,
@@ -7647,7 +7647,7 @@
       "starred": false,
       "publishOn": 1704818970359,
       "addedOn": 1643206965705,
-      "updatedOn": 1787868967466,
+      "updatedOn": 1790856886247,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -7876,7 +7876,7 @@
         "source": 3
       },
       "tags": [
-        "Lady Into Fox"
+        "Exhibition: Lady Into Fox"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2023 </p><p style=\"white-space:pre-wrap;\">Oil on board</p><p style=\"white-space:pre-wrap;\">160.5 x 50 x 3.2 cm. / 63 ¼ x 19 ¾ x  1 ¼ in.</p>",
       "displayIndex": 0,
@@ -7884,7 +7884,7 @@
       "starred": false,
       "publishOn": 1700669302457,
       "addedOn": 1643206965705,
-      "updatedOn": 1787862185220,
+      "updatedOn": 1790856886288,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -7911,8 +7911,8 @@
       "urlId": "jsekhh5yca42zkx-mc8xf-4d4sc",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1700668989904-LX1BR1L7WR6E0U0R1IGI/Natalia_Gonzalez_Martin-26-Modifica+copie.jpg",
       "tags": [
-        "Lady Into Fox",
-        "Exhibition: Art Monte-Carlo 2024"
+        "Exhibition: Art Monte-Carlo 2024",
+        "Exhibition: Lady Into Fox"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023 </p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on board</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(68, 68, 68)\">50.3</span> x <span style=\"color: rgb(68, 68, 68)\"><strong>25.5 </strong></span> x <span style=\"color: rgb(68, 68, 68)\"><strong>3.3<em> </em></strong></span>cm  / 19 ¾ x 10 x 1 ¼ in.</p>",
       "displayIndex": 0,
@@ -7920,7 +7920,7 @@
       "starred": true,
       "publishOn": 1700668986605,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856190012,
+      "updatedOn": 1790856886309,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -8247,7 +8247,7 @@
       "urlId": "han-chiao-caresse-of-teeth-series-vessel-i",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1706787304422-JCPQSRSLTTEYELPKPJO2/HD1_Caresse+of+teeth+series%2C+Vessel+I%2C+2023+Black+stoneware%2C+35+x+40+x+25+cm.%2C+13+%C2%BE+x+15+%C2%BE+x+9+%C2%BE+in..jpg",
       "tags": [
-        "Echo"
+        "Exhibition: Echo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Black stoneware</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">35 × 40 × 25 cm., 13 ¾  ×  15 ¾  ×  9 ¾ in.</p>",
       "displayIndex": 0,
@@ -8255,7 +8255,7 @@
       "starred": true,
       "publishOn": 1693844308424,
       "addedOn": 1643206965705,
-      "updatedOn": 1787850150324,
+      "updatedOn": 1790856640129,
       "categories": [
         "Han-Chiao"
       ],
@@ -8296,7 +8296,7 @@
       "urlId": "ydb2kfbrrnsp386-5ddkw-pnhaf",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1693843584547-008ZTS112RXYJ7VPBT8D/WEB_Siamoise+II%2C+Han+Chiao%2C+2021.+Black+Stoneware%2C+48+x+37+x+22+cm_2.jpg",
       "tags": [
-        "Echo"
+        "Exhibition: Echo"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Black stoneware</p><p class=\"\">48 x 37 x 22 cm.<span style=\"color: rgb(0, 0, 0)\"> </span>/ 19 x 14 ½ x 8 ¾ in.</p>",
       "displayIndex": 0,
@@ -8304,7 +8304,7 @@
       "starred": true,
       "publishOn": 1693843745589,
       "addedOn": 1643206965705,
-      "updatedOn": 1787850148827,
+      "updatedOn": 1790856640150,
       "categories": [
         "Han-Chiao"
       ],
@@ -8345,7 +8345,7 @@
       "urlId": "ydb2kfbrrnsp386-5ddkw",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1693842997353-WXUKZ0FO19IX7LAWZW37/WEB_Elephant+Ears%2C+Han+Chiao%2C+2022.+Black+Stoneware%2C+35+x+30+x+15+cm_3.jpg",
       "tags": [
-        "Echo"
+        "Exhibition: Echo"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Black stoneware</p><p class=\"\">35 x 30 x 15 cm.<span style=\"color: rgb(0, 0, 0)\"> </span>/ 13 ¾ x 11 ¾ x 6 in.</p>",
       "displayIndex": 0,
@@ -8353,7 +8353,7 @@
       "starred": true,
       "publishOn": 1693843175368,
       "addedOn": 1643206965705,
-      "updatedOn": 1787850148501,
+      "updatedOn": 1790856640091,
       "categories": [
         "Han-Chiao"
       ],
@@ -8722,7 +8722,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-d8m6d-sc9zy-5krdc-hd4hf-lzwzt-msrgg-757sb-lbxpf-m8cxp-ha544",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1687447973796-NUI4SQTCY98G4KYDOCQ7/WEB_Flowers+In+The+Rain%2C+Michael+Hilsman%2C+2023.+Oil+on+linen%2C+20+x+25+cm+%288+x+10+in.%29.jpg",
       "tags": [
-        "Landscapes With Flowers"
+        "Exhibition: Landscapes With Flowers"
       ],
       "excerpt": "<p class=\"\">2023</p><p class=\"\">Oil on linen</p><p class=\"\">20 x 25 cm<br>8 x 10 in.</p>",
       "displayIndex": 0,
@@ -8730,7 +8730,7 @@
       "starred": true,
       "publishOn": 1687448037168,
       "addedOn": 1643206965705,
-      "updatedOn": 1787841915362,
+      "updatedOn": 1790856896855,
       "categories": [
         "Michael Hilsman"
       ],
@@ -8767,7 +8767,7 @@
         "source": 3
       },
       "tags": [
-        "Landscapes With Flowers"
+        "Exhibition: Landscapes With Flowers"
       ],
       "excerpt": "<p class=\"\">2023</p><p class=\"\">Oil on linen</p><p class=\"\">28 x 36 cm<br>11 x 14 in</p>",
       "displayIndex": 0,
@@ -8775,7 +8775,7 @@
       "starred": false,
       "publishOn": 1705573768643,
       "addedOn": 1643206965705,
-      "updatedOn": 1787841331228,
+      "updatedOn": 1790856896873,
       "categories": [
         "Michael Hilsman"
       ],
@@ -8802,7 +8802,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-d8m6d-sc9zy-5krdc-hd4hf-lzwzt-msrgg-757sb-lbxpf-m8cxp",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1686911761937-MI0KI41PRMYGAZWY3036/WEB_Head+With+Flowers%2C+Michael+Hilsman%2C+2023.+Oil+on+linen%2C+28+x+36+cm+%2811+x+14+in.%29.jpg",
       "tags": [
-        "Landscapes With Flowers"
+        "Exhibition: Landscapes With Flowers"
       ],
       "excerpt": "<p class=\"\">2023</p><p class=\"\">Oil on linen</p><p class=\"\">28 x 36 cm<br>11 x 14 in</p>",
       "displayIndex": 0,
@@ -8810,7 +8810,7 @@
       "starred": true,
       "publishOn": 1705573779339,
       "addedOn": 1643206965705,
-      "updatedOn": 1787841331145,
+      "updatedOn": 1790856896815,
       "categories": [
         "Michael Hilsman"
       ],
@@ -8847,7 +8847,7 @@
         "source": 3
       },
       "tags": [
-        "Landscapes With Flowers"
+        "Exhibition: Landscapes With Flowers"
       ],
       "excerpt": "<p class=\"\">2023</p><p class=\"\">Oil on linen</p><p class=\"\">223,5 × 147,3 cm / 88 × 58 in.</p>",
       "displayIndex": 0,
@@ -8855,7 +8855,7 @@
       "starred": true,
       "publishOn": 1686911682818,
       "addedOn": 1643206965705,
-      "updatedOn": 1787839542776,
+      "updatedOn": 1790856896834,
       "categories": [
         "Michael Hilsman"
       ],
@@ -9228,7 +9228,7 @@
       "urlId": "jsekhh5yca42zkx-mc8xf",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1700668804296-ZQK0RWD3X8NH8I55B7R7/Natalia_Gonzalez_Martin-32-Modifica+copie.jpg",
       "tags": [
-        "Lady Into Fox"
+        "Exhibition: Lady Into Fox"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2023 </p><p style=\"white-space:pre-wrap;\">Oil on board</p><p style=\"white-space:pre-wrap;\">22 x 27 cm  / 8 ¾ x 10 ¾ in.</p>",
       "displayIndex": 0,
@@ -9236,7 +9236,7 @@
       "starred": false,
       "publishOn": 1699534183423,
       "addedOn": 1643206965705,
-      "updatedOn": 1787829196904,
+      "updatedOn": 1790856886267,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -9273,7 +9273,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2023"
+        "Exhibition: Miart 2023"
       ],
       "excerpt": "<p>2023 </p><p>Oil on wood </p><p>17 x 12 x 5 cm / 6 ¾ x 4 ¾ x 2 in.</p>",
       "displayIndex": 0,
@@ -9281,7 +9281,7 @@
       "starred": false,
       "publishOn": 1680778742473,
       "addedOn": 1643206965705,
-      "updatedOn": 1787829196737,
+      "updatedOn": 1790856949273,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -9313,7 +9313,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2023"
+        "Exhibition: Miart 2023"
       ],
       "excerpt": "<p>2023 </p><p>Oil on wood </p><p>17 x 12 x 5 cm / 6 ¾ x 4 ¾ x 2 in.</p>",
       "displayIndex": 0,
@@ -9321,7 +9321,7 @@
       "starred": false,
       "publishOn": 1680778731672,
       "addedOn": 1643206965705,
-      "updatedOn": 1787829196724,
+      "updatedOn": 1790856949210,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -9353,7 +9353,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2023"
+        "Exhibition: Miart 2023"
       ],
       "excerpt": "<p>2023 </p><p>Oil on wood </p><p>20 x 15 x 5 cm / 7 ¾ x 6 x 2 in.</p>",
       "displayIndex": 0,
@@ -9361,7 +9361,7 @@
       "starred": false,
       "publishOn": 1680261547865,
       "addedOn": 1643206965705,
-      "updatedOn": 1787829196666,
+      "updatedOn": 1790856949295,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -9388,7 +9388,7 @@
       "urlId": "jsekhh5yca42zkx-rsys2-p4h8j-9as9n",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1680261499068-76HZC3N5PLDKZA7H997P/HD_Intensely+tepid%2C+Natalia+Gonzalez+Martin%2C+2023.+Oil+on+wood%2C+50+x+60+cm+%2819+%C2%BE+x+23+%C2%BD+x+2+in.%29.jpg",
       "tags": [
-        "Miart 2023"
+        "Exhibition: Miart 2023"
       ],
       "excerpt": "<p>2023 </p><p>Oil on wood </p><p>50 x 60 x 5 cm / 19 ¾ x 23 ½ x 2 in.</p>",
       "displayIndex": 0,
@@ -9396,7 +9396,7 @@
       "starred": false,
       "publishOn": 1680778060575,
       "addedOn": 1643206965705,
-      "updatedOn": 1787829196635,
+      "updatedOn": 1790856949159,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -9437,7 +9437,7 @@
       "urlId": "jsekhh5yca42zkx-rsys2-p4h8j-tb2js",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1680261395095-H03F0A7N1FL51P0GMCZS/WEB_The+Embalming%2C+Natalia+Gonzalez+Martin%2C+2023.+Oil+on+wood%2C+121%2C5+x+91%2C5+cm+%3A+47+%C2%BE+x+35+%C2%BE+x+2+in..jpg",
       "tags": [
-        "Miart 2023"
+        "Exhibition: Miart 2023"
       ],
       "excerpt": "<p class=\"\">2023 </p><p class=\"\">Oil on wood </p><p class=\"\">121 x 91 x 5 cm / 47 ¾ x 35 ¾ x 2 in.</p>",
       "displayIndex": 0,
@@ -9445,7 +9445,7 @@
       "starred": true,
       "publishOn": 1680778041655,
       "addedOn": 1643206965705,
-      "updatedOn": 1787829196561,
+      "updatedOn": 1790856949231,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -9549,7 +9549,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2023"
+        "Exhibition: Miart 2023"
       ],
       "excerpt": "<p>2023</p><p>Oil on wood</p><p>25 x 20 cm / 23 ¼ x 23 ½ x 2 in.</p>",
       "displayIndex": 0,
@@ -9557,7 +9557,7 @@
       "starred": false,
       "publishOn": 1680260287504,
       "addedOn": 1643206965705,
-      "updatedOn": 1787829118612,
+      "updatedOn": 1790856949190,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -11404,7 +11404,7 @@
         "source": 3
       },
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2022 </p><p class=\"\">Oil on linen</p><p class=\"\">71.1 x 55.8 cm / 28 x 22 in.</p>",
       "displayIndex": 0,
@@ -11412,7 +11412,7 @@
       "starred": false,
       "publishOn": 1664208570327,
       "addedOn": 1643206965705,
-      "updatedOn": 1787815794044,
+      "updatedOn": 1790856929451,
       "categories": [
         "Tali Lennox"
       ],
@@ -11444,7 +11444,7 @@
         "source": 3
       },
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on linen</p><p class=\"\">129 x 96 cm / 50 x 38 in.</p>",
       "displayIndex": 0,
@@ -11452,7 +11452,7 @@
       "starred": false,
       "publishOn": 1664207822182,
       "addedOn": 1643206965705,
-      "updatedOn": 1787815793340,
+      "updatedOn": 1790856929416,
       "categories": [
         "Tali Lennox"
       ],
@@ -11479,7 +11479,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-3zner-tw33n-8wmnw-rmghg-jlmsd-42z69-wkfza-xsk3m",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1664207388689-73U2PNBJFDX8Z3NW8WCV/WEB_Ostrich-Waltz%2C-Tali-Lennox%2C-2021.-Oil-on-linen%2C-121%2C9-x-101%2C6-cm-%2848-x-40-in.jpg",
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on linen</p><p class=\"\">12,9 x 101,6 cm / 48 x 40 in.</p>",
       "displayIndex": 0,
@@ -11487,7 +11487,7 @@
       "starred": false,
       "publishOn": 1664207535389,
       "addedOn": 1643206965705,
-      "updatedOn": 1787815792344,
+      "updatedOn": 1790856929432,
       "categories": [
         "Tali Lennox"
       ],
@@ -11519,7 +11519,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-3zner-tw33n-8wmnw-rmghg-jlmsd-42z69-wkfza-jps2w",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1664206384995-XVCO4CZ8XLNTYQ6JVXQZ/WEB_Luna-Park%2C-Tali-Lennox%2C-2022.-Oil-on-linen%2C-121%2C9-x-66-cm-%2848-x-26-in-copie.jpg",
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on linen</p><p class=\"\">122 x 66 cm / 48 x 26 in.</p>",
       "displayIndex": 0,
@@ -11527,7 +11527,7 @@
       "starred": false,
       "publishOn": 1664206506776,
       "addedOn": 1643206965705,
-      "updatedOn": 1787815790763,
+      "updatedOn": 1790856929509,
       "categories": [
         "Tali Lennox"
       ],
@@ -11564,7 +11564,7 @@
         "source": 3
       },
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on linen</p><p class=\"\">129 x 96 cm / 50 x 38 in.</p>",
       "displayIndex": 0,
@@ -11572,7 +11572,7 @@
       "starred": false,
       "publishOn": 1664205345833,
       "addedOn": 1643206965705,
-      "updatedOn": 1787815789094,
+      "updatedOn": 1790856929560,
       "categories": [
         "Tali Lennox"
       ],
@@ -11599,7 +11599,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-3zner-tw33n-8wmnw-rmghg-jlmsd-42z69",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1664205121884-F7TE6EOMS0FU6BGLBBXC/WEB_Holy-Water%2C-Tali-Lennox%2C-2022.-Oil-on-linen%2C-66-x-50%2C8-cm-%2826-x-20-in-copie.jpg",
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on linen</p><p class=\"\">66 x 50.8 cm / 26 x 20 in.</p>",
       "displayIndex": 0,
@@ -11607,7 +11607,7 @@
       "starred": false,
       "publishOn": 1664205213174,
       "addedOn": 1643206965705,
-      "updatedOn": 1787815788521,
+      "updatedOn": 1790856929493,
       "categories": [
         "Tali Lennox"
       ],
@@ -11644,7 +11644,7 @@
         "source": 3
       },
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on linen</p><p class=\"\">86.3 x 71.1 cm / 34 x 28 in.</p>",
       "displayIndex": 0,
@@ -11652,7 +11652,7 @@
       "starred": false,
       "publishOn": 1664204955375,
       "addedOn": 1643206965705,
-      "updatedOn": 1787815788261,
+      "updatedOn": 1790856929473,
       "categories": [
         "Tali Lennox"
       ],
@@ -11684,8 +11684,8 @@
         "source": 3
       },
       "tags": [
-        "Lotus of Nephthys",
-        "Exhibition: Artissima 2025"
+        "Exhibition: Artissima 2025",
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on linen</p><p class=\"\">71.7 x 55.8 cm / 28 x 22 in.</p>",
       "displayIndex": 0,
@@ -11693,7 +11693,7 @@
       "starred": false,
       "publishOn": 1664204685552,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856054921,
+      "updatedOn": 1790856929543,
       "categories": [
         "Tali Lennox"
       ],
@@ -11725,7 +11725,7 @@
         "source": 3
       },
       "tags": [
-        "Mr President"
+        "Exhibition: Mr President"
       ],
       "excerpt": "<p class=\"\">1984</p><p class=\"\">Acrylic on canvas</p><p class=\"\">228 x 185 cm / 90 x 73 in.</p>",
       "displayIndex": 0,
@@ -11733,7 +11733,7 @@
       "starred": false,
       "publishOn": 1663339576818,
       "addedOn": 1643206965705,
-      "updatedOn": 1787815022382,
+      "updatedOn": 1790857008010,
       "categories": [
         "Peter Saul"
       ],
@@ -11765,7 +11765,7 @@
         "source": 3
       },
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on linen</p><p class=\"\">182,8 x 121.9 cm / 72 x 48 in.</p>",
       "displayIndex": 0,
@@ -11773,7 +11773,7 @@
       "starred": false,
       "publishOn": 1663073866786,
       "addedOn": 1643206965705,
-      "updatedOn": 1787814710432,
+      "updatedOn": 1790856929526,
       "categories": [
         "Tali Lennox"
       ],
@@ -11800,7 +11800,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-3zner-tw33n-8wmnw-rmghg",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1663073219250-7MHJ9SIA8QZU4LKM2RUW/WEB_The-Butterfly%27s-Spell%2C-Tali-Lennox%2C-2022.-Oil-on-linen%2C-50%2C8-x-40%2C6-cm-%2820-x-16-in-copie.jpg",
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on linen</p><p class=\"\">50.8 x 40.6 cm / 20 x 16 in.</p>",
       "displayIndex": 0,
@@ -11808,7 +11808,7 @@
       "starred": false,
       "publishOn": 1663073297359,
       "addedOn": 1643206965705,
-      "updatedOn": 1787814710324,
+      "updatedOn": 1790856929393,
       "categories": [
         "Tali Lennox"
       ],
@@ -11845,7 +11845,7 @@
         "source": 3
       },
       "tags": [
-        "Lotus of Nephthys"
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on linen</p><p class=\"\">86,3 x 71 cm / 34 x 28 in.</p>",
       "displayIndex": 0,
@@ -11853,7 +11853,7 @@
       "starred": false,
       "publishOn": 1662718139791,
       "addedOn": 1643206965705,
-      "updatedOn": 1787814414717,
+      "updatedOn": 1790856929365,
       "categories": [
         "Tali Lennox"
       ],
@@ -14597,7 +14597,7 @@
         "source": 3
       },
       "tags": [
-        "New Pictures"
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Oil on linen</p><p class=\"\">243,6 × 162,5 cm / 96 × 64 in.</p>",
       "displayIndex": 0,
@@ -14605,7 +14605,7 @@
       "starred": true,
       "publishOn": 1656410343644,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808698409,
+      "updatedOn": 1790857092156,
       "categories": [
         "Michael Hilsman"
       ],
@@ -14637,7 +14637,7 @@
         "source": 3
       },
       "tags": [
-        "New Pictures"
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Oil on linen</p><p class=\"\">243,6 × 162,5 cm / 96 × 64 in.</p>",
       "displayIndex": 0,
@@ -14645,7 +14645,7 @@
       "starred": false,
       "publishOn": 1656410262239,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808698291,
+      "updatedOn": 1790857092092,
       "categories": [
         "Michael Hilsman"
       ],
@@ -14717,7 +14717,7 @@
         "source": 3
       },
       "tags": [
-        "New Pictures"
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Oil on linen</p><p class=\"\">243,6 × 162,5 cm / 96 × 64 in.</p>",
       "displayIndex": 0,
@@ -14725,7 +14725,7 @@
       "starred": false,
       "publishOn": 1656410125678,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808698015,
+      "updatedOn": 1790857092198,
       "categories": [
         "Michael Hilsman"
       ],
@@ -14757,8 +14757,8 @@
         "source": 3
       },
       "tags": [
-        "New Pictures",
-        "Exhibition: Art Genève 2018"
+        "Exhibition: Art Genève 2018",
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Oil on linen</p><p class=\"\">243,6 × 162,5 cm / 96 × 64 in.</p>",
       "displayIndex": 0,
@@ -14766,7 +14766,7 @@
       "starred": false,
       "publishOn": 1656409886592,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855817498,
+      "updatedOn": 1790857092177,
       "categories": [
         "Michael Hilsman"
       ],
@@ -14798,7 +14798,7 @@
         "source": 3
       },
       "tags": [
-        "New Pictures"
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Oil on linen</p><p class=\"\">25,4 × 20,3 cm / 10 × 8 in.</p>",
       "displayIndex": 0,
@@ -14806,7 +14806,7 @@
       "starred": false,
       "publishOn": 1656409794340,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808697923,
+      "updatedOn": 1790857092048,
       "categories": [
         "Michael Hilsman"
       ],
@@ -14896,8 +14896,8 @@
         "source": 3
       },
       "tags": [
-        "New Pictures",
-        "Exhibition: Art Genève 2018"
+        "Exhibition: Art Genève 2018",
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Oil on linen</p><p class=\"\">25,4 × 20,3 cm / 10 × 8 in.</p>",
       "displayIndex": 0,
@@ -14905,7 +14905,7 @@
       "starred": false,
       "publishOn": 1656409703846,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855817517,
+      "updatedOn": 1790857092111,
       "categories": [
         "Michael Hilsman"
       ],
@@ -14937,7 +14937,7 @@
         "source": 3
       },
       "tags": [
-        "New Pictures"
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Oil on linen</p><p class=\"\">25,4 × 20,3 cm / 10 × 8 in.</p>",
       "displayIndex": 0,
@@ -14945,7 +14945,7 @@
       "starred": false,
       "publishOn": 1656409618847,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808697798,
+      "updatedOn": 1790857092223,
       "categories": [
         "Michael Hilsman"
       ],
@@ -14977,7 +14977,7 @@
         "source": 3
       },
       "tags": [
-        "New Pictures"
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Oil on linen</p><p class=\"\">25,4 × 20,3 cm / 10 × 8 in.</p>",
       "displayIndex": 0,
@@ -14985,7 +14985,7 @@
       "starred": false,
       "publishOn": 1656409545830,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808697709,
+      "updatedOn": 1790857092135,
       "categories": [
         "Michael Hilsman"
       ],
@@ -15132,7 +15132,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-xgsz9-pmrby-rklw7-659z2-mrgf8-43d8r-ywk4z-p53gc-92mjl-xt2j2-7pfsp",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656344540949-SYIWILE9Y6P7QWRPP0AT/WEB_Zombie-Apocalypse-2014-Oil-on-canvas-170-x-193-cm-%2867x76-in%29.jpg",
       "tags": [
-        "Independent Brussels 2017"
+        "Exhibition: Independent Brussels 2017"
       ],
       "excerpt": "<p class=\"\">2014</p><p class=\"\">Oil on canvas</p><p class=\"\">170 × 193 cm / 67 × 76 in.</p>",
       "displayIndex": 0,
@@ -15140,7 +15140,7 @@
       "starred": false,
       "publishOn": 1656344590660,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808629459,
+      "updatedOn": 1790856859216,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -15297,7 +15297,7 @@
         "source": 3
       },
       "tags": [
-        "Independent Brussels 2017"
+        "Exhibition: Independent Brussels 2017"
       ],
       "excerpt": "<p class=\"\">1991</p><p class=\"\">Acrylic and silkscreen on canvas</p><p class=\"\">177 × 137 cm / 70 × 54 in.</p>",
       "displayIndex": 0,
@@ -15305,7 +15305,7 @@
       "starred": true,
       "publishOn": 1656344184936,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808628944,
+      "updatedOn": 1790856859251,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -15372,7 +15372,7 @@
       "urlId": "when-you-cant-be-a-hero-always-have-the-last-word-adam-ca6cn-y9t9x-tfgxs-aakje-n732s-27alw",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656343797190-NGEAXT0T289XQ0EAKZLE/WEB_Female-Fragility-ChW-2016-Oil-on-canvas-51x40.5cm-copyright-Annik-Wetter---cropped.jpg",
       "tags": [
-        "Independent Brussels 2017"
+        "Exhibition: Independent Brussels 2017"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Oil on canvas</p><p class=\"\">51 × 40.5 cm / 20,4 × 15 in.</p>",
       "displayIndex": 0,
@@ -15380,7 +15380,7 @@
       "starred": false,
       "publishOn": 1656343900398,
       "addedOn": 1645096956383,
-      "updatedOn": 1787808628765,
+      "updatedOn": 1790856859197,
       "categories": [
         "Chloe Wise"
       ],
@@ -15412,7 +15412,7 @@
       "urlId": "when-you-cant-be-a-hero-always-have-the-last-word-adam-ca6cn-y9t9x-tfgxs-aakje-2bhmd-2e5bs-cnxtc",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656343638956-ASVDFYVH9CTDF7AXCQ7U/WEB_Sympathy-With-The-Abyss-ChW-2017-India-ink-on-paper-127-x-96%2C5-cm%2850x38-in%29-%C2%A9-Logan-Jackson-%28retouche%CC%81%29-copie.jpg",
       "tags": [
-        "Independent Brussels 2017"
+        "Exhibition: Independent Brussels 2017"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Indian ink on paper</p><p class=\"\">127 × 96,5 cm / 50 × 38 in.</p>",
       "displayIndex": 0,
@@ -15420,7 +15420,7 @@
       "starred": false,
       "publishOn": 1656343771171,
       "addedOn": 1645096956383,
-      "updatedOn": 1787808628629,
+      "updatedOn": 1790856859233,
       "categories": [
         "Chloe Wise"
       ],
@@ -15627,7 +15627,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic and flashe on canvas</p><p class=\"\">152 × 122 cm / 60 × 48 in.</p>",
       "displayIndex": 0,
@@ -15635,7 +15635,7 @@
       "starred": false,
       "publishOn": 1656342849851,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627668,
+      "updatedOn": 1790856691482,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -15667,7 +15667,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic and flashe on canvas</p><p class=\"\">91,5 × 71 cm / 36 × 28 in.</p>",
       "displayIndex": 0,
@@ -15675,7 +15675,7 @@
       "starred": false,
       "publishOn": 1656342783185,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627640,
+      "updatedOn": 1790856691317,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -15707,7 +15707,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic and oil bar on canvas</p><p class=\"\">76 × 76 cm / 30 × 30 in.</p>",
       "displayIndex": 0,
@@ -15715,7 +15715,7 @@
       "starred": false,
       "publishOn": 1656342725788,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627519,
+      "updatedOn": 1790856691281,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -15747,7 +15747,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Acrylic on canvas</p><p class=\"\">122 × 91,5 cm / 48 × 36 in.</p>",
       "displayIndex": 0,
@@ -15755,7 +15755,7 @@
       "starred": false,
       "publishOn": 1656342653042,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627439,
+      "updatedOn": 1790856691423,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -15787,7 +15787,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic and flashe on canvas</p><p class=\"\">183 × 122 cm / 72 × 48 in.</p>",
       "displayIndex": 0,
@@ -15795,7 +15795,7 @@
       "starred": false,
       "publishOn": 1656342555848,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627369,
+      "updatedOn": 1790856691356,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -15827,7 +15827,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Acrylic on canvas</p><p class=\"\">162,5 × 132 cm / 64 × 52 in.</p>",
       "displayIndex": 0,
@@ -15835,7 +15835,7 @@
       "starred": false,
       "publishOn": 1656342488619,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627274,
+      "updatedOn": 1790856691335,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -15867,7 +15867,7 @@
         "source": 3
       },
       "tags": [
-        "From Here To There"
+        "Exhibition: From Here To There"
       ],
       "excerpt": "<p class=\"\">1995-2002</p><p class=\"\">260 numbered and annotated audio tapes from Perkins’ audio recorded conversations with passengers in his NY taxi.</p><p class=\"\">5 wood closets, Unique</p>",
       "displayIndex": 0,
@@ -15875,7 +15875,7 @@
       "starred": false,
       "publishOn": 1656342388971,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627145,
+      "updatedOn": 1790856702870,
       "categories": [
         "Jeff Perkins"
       ],
@@ -15907,7 +15907,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic and flashe on canvas</p><p class=\"\">91,5 × 71 cm / 36 × 28 in.</p>",
       "displayIndex": 0,
@@ -15915,7 +15915,7 @@
       "starred": false,
       "publishOn": 1656342291722,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627129,
+      "updatedOn": 1790856691258,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -15947,7 +15947,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic, flashe and oil bar on canvas</p><p class=\"\">122 × 91,5 cm / 48 × 36 in.</p>",
       "displayIndex": 0,
@@ -15955,7 +15955,7 @@
       "starred": false,
       "publishOn": 1656342221876,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627026,
+      "updatedOn": 1790856691455,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -15987,7 +15987,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Acrylic on canvas</p><p class=\"\">61 × 91,5 cm / 24 × 36 in.</p>",
       "displayIndex": 0,
@@ -15995,7 +15995,7 @@
       "starred": false,
       "publishOn": 1656342119900,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808626959,
+      "updatedOn": 1790856691298,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -16027,7 +16027,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic and flashe on canvas</p><p class=\"\">122 × 91,5 cm / 48 × 36 in.</p>",
       "displayIndex": 0,
@@ -16035,7 +16035,7 @@
       "starred": false,
       "publishOn": 1656342014631,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808626859,
+      "updatedOn": 1790856691400,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -16067,7 +16067,7 @@
         "source": 3
       },
       "tags": [
-        "From Here To There"
+        "Exhibition: From Here To There"
       ],
       "excerpt": "<p class=\"\">2012</p><p class=\"\">Digital print on archival paper</p><p class=\"\">21 x 29,7 cm / 8.2 x 11.7 in., Ed.19 (signed)</p>",
       "displayIndex": 0,
@@ -16075,7 +16075,7 @@
       "starred": false,
       "publishOn": 1656342021807,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808626834,
+      "updatedOn": 1790856702843,
       "categories": [
         "Jeff Perkins"
       ],
@@ -16107,7 +16107,7 @@
         "source": 3
       },
       "tags": [
-        "From Here To There"
+        "Exhibition: From Here To There"
       ],
       "excerpt": "<p class=\"\">1989/2017</p><p class=\"\">Wood dowels, 24 towels enbroidered with the Fluxus artists names</p><p class=\"\">Variable dimensions (here 322 x 50 cm) Ed. 5</p>",
       "displayIndex": 0,
@@ -16115,7 +16115,7 @@
       "starred": false,
       "publishOn": 1656341682517,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808626425,
+      "updatedOn": 1790856702797,
       "categories": [
         "Jeff Perkins"
       ],
@@ -16147,7 +16147,7 @@
         "source": 3
       },
       "tags": [
-        "Flood Love"
+        "Exhibition: Flood Love"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic and flashe on canvas</p><p class=\"\">183 × 213 cm / 72 × 84 in.</p>",
       "displayIndex": 0,
@@ -16155,7 +16155,7 @@
       "starred": false,
       "publishOn": 1656341427980,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808626036,
+      "updatedOn": 1790856691379,
       "categories": [
         "Lynnea Holland-Weiss"
       ],
@@ -16187,7 +16187,7 @@
         "source": 3
       },
       "tags": [
-        "From Here To There"
+        "Exhibition: From Here To There"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Digital print on archival paper from Shout movie with Tony Cox, Jeff Perkins and Yoko Ono 1966</p><p class=\"\">Triptych 63,5 x 40,5 cm, Edition of 10</p>",
       "displayIndex": 0,
@@ -16195,7 +16195,7 @@
       "starred": false,
       "publishOn": 1656341483446,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808625835,
+      "updatedOn": 1790856702821,
       "categories": [
         "Jeff Perkins"
       ],
@@ -16427,7 +16427,7 @@
         "source": 3
       },
       "tags": [
-        "Nada NY 2017"
+        "Exhibition: NADA NY 2017"
       ],
       "excerpt": "<p class=\"\">2013</p><p class=\"\">Acrylic on linen</p><p class=\"\">182 × 121,9cm / 72 × 48 in.</p>",
       "displayIndex": 0,
@@ -16435,7 +16435,7 @@
       "starred": false,
       "publishOn": 1656340133644,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808624745,
+      "updatedOn": 1790857035840,
       "categories": [
         "Walter Robinson"
       ],
@@ -16467,7 +16467,7 @@
         "source": 3
       },
       "tags": [
-        "Independent Brussels 2018"
+        "Exhibition: Independent Brussels 2018"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2018</p><p class=\"\" style=\"white-space:pre-wrap;\">Pinewood, color dye, tung oil, synthetic fabric, rope, plastic<br><br>197 × 103 × 70 cm / 77,5 × 40,5 × 27,5 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique</p>",
       "displayIndex": 0,
@@ -16475,7 +16475,7 @@
       "starred": false,
       "publishOn": 1656339973413,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808624567,
+      "updatedOn": 1790856871959,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -16502,7 +16502,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-x9gal-j6j8h-fprwd-ycn2r",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656339833182-CXM5LX2LRITN3NHT7F1V/WEB_Macys-All-Womens-Swim-on-Sale-2016-acrylic-on-canvas-48-x-48-in.jpg",
       "tags": [
-        "Nada NY 2017"
+        "Exhibition: NADA NY 2017"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Acrylic on canvas</p><p class=\"\">121,9 × 121,9cm / 48 × 48 in.</p>",
       "displayIndex": 0,
@@ -16510,7 +16510,7 @@
       "starred": false,
       "publishOn": 1656339887791,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808624547,
+      "updatedOn": 1790857035858,
       "categories": [
         "Walter Robinson"
       ],
@@ -16547,7 +16547,7 @@
         "source": 3
       },
       "tags": [
-        "Independent Brussels 2018"
+        "Exhibition: Independent Brussels 2018"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Oil on linen</p><p class=\"\">243,5 × 162,5 cm / 96 × 64 in.</p>",
       "displayIndex": 0,
@@ -16555,7 +16555,7 @@
       "starred": false,
       "publishOn": 1656339752208,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808624423,
+      "updatedOn": 1790856871927,
       "categories": [
         "Michael Hilsman"
       ],
@@ -16587,7 +16587,7 @@
         "source": 3
       },
       "tags": [
-        "Independent Brussels 2018"
+        "Exhibition: Independent Brussels 2018"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Oil on linen</p><p class=\"\">243,5 × 162,5 cm / 96 × 64 in.</p>",
       "displayIndex": 0,
@@ -16595,7 +16595,7 @@
       "starred": true,
       "publishOn": 1656339580177,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808624239,
+      "updatedOn": 1790856871943,
       "categories": [
         "Michael Hilsman"
       ],
@@ -16708,9 +16708,9 @@
         "source": 3
       },
       "tags": [
-        "Nada NY 2017",
         "Exhibition: Art Monte-Carlo 2022",
-        "Exhibition: Dallas Art Fair 2017"
+        "Exhibition: Dallas Art Fair 2017",
+        "Exhibition: NADA NY 2017"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Acrylic on canvas</p><p class=\"\">121,9 × 91,4 cm / 48 × 36 in.</p>",
       "displayIndex": 0,
@@ -16718,7 +16718,7 @@
       "starred": false,
       "publishOn": 1656339190395,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856494013,
+      "updatedOn": 1790857035822,
       "categories": [
         "Walter Robinson"
       ],
@@ -17249,8 +17249,8 @@
         "source": 3
       },
       "tags": [
-        "Last Decade",
-        "Exhibition: Art Monte-Carlo 2019"
+        "Exhibition: Art Monte-Carlo 2019",
+        "Exhibition: Last Decade"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2019</p><p class=\"\" style=\"white-space:pre-wrap;\">Concrete, dollar bills, acrylic, steel </p><p class=\"\" style=\"white-space:pre-wrap;\">34,5 × 26,3 × 16 cm / 13,5 × 10,3 × 6,2 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 3</p>",
       "displayIndex": 0,
@@ -17258,7 +17258,7 @@
       "starred": false,
       "publishOn": 1656337161450,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856114914,
+      "updatedOn": 1790856907242,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -17929,7 +17929,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8-kp5c6-2aan8-esybf-ejn6x-zmkdt",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656330608864-K6767OQY0WETXRSE7LAU/WEB_Mickey-Cezanne%2C-Alexander-Kosolapov%2C-1990.-Acrylic-on-canvas.-91-x-73%2C5-cm-%2836-x-29-in%29.jpg",
       "tags": [
-        "Icons: West & East"
+        "Exhibition: Icons: West & East"
       ],
       "excerpt": "<p class=\"\">1990</p><p class=\"\">Acrylic on canvas</p><p class=\"\">91 × 73,5 cm / 36 × 29 in.</p>",
       "displayIndex": 0,
@@ -17937,7 +17937,7 @@
       "starred": true,
       "publishOn": 1656330675858,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808616613,
+      "updatedOn": 1790856824128,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -18049,7 +18049,7 @@
       "urlId": "when-you-cant-be-a-hero-always-have-the-last-word-adam-ca6cn-y9t9x-tfgxs-aakje-2bhmd-nhnr4-368dl",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656326466694-USLG4SLQZOK9DQKSHSQG/WEB_Above-all-things%2C-be-glad%2C-and-young-and-relatively-irreplaceable%2C-Chloe-Wise%2C-2016.-Oil-on-canvas.-122-x-92-cm-%2848-x-36.2-in%29.-Image-%C2%A9-Paula-Abreu-Pita.jpg",
       "tags": [
-        "Nada NY 2016"
+        "Exhibition: NADA NY 2016"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Oil on canvas</p><p class=\"\">122 × 92 cm / 48 × 36 in.</p>",
       "displayIndex": 0,
@@ -18057,7 +18057,7 @@
       "starred": true,
       "publishOn": 1656326510050,
       "addedOn": 1645096956383,
-      "updatedOn": 1787808612561,
+      "updatedOn": 1790857022057,
       "categories": [
         "Chloe Wise"
       ],
@@ -18089,7 +18089,7 @@
       "urlId": "when-you-cant-be-a-hero-always-have-the-last-word-adam-ca6cn-y9t9x-tfgxs-aakje-2bhmd-nhnr4",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1659339280226-5VDMZO6L3N512EY4FNI1/WEB_SebastienBertrand_NADAartFair__PAP6889-Edit.jpg",
       "tags": [
-        "Nada NY 2016"
+        "Exhibition: NADA NY 2016"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Oil on canvas</p><p class=\"\">122 × 92 cm / 48 × 36 in.</p>",
       "displayIndex": 0,
@@ -18097,7 +18097,7 @@
       "starred": true,
       "publishOn": 1656326448274,
       "addedOn": 1645096956383,
-      "updatedOn": 1787808612384,
+      "updatedOn": 1790857022106,
       "categories": [
         "Chloe Wise"
       ],
@@ -18138,8 +18138,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8-awe8d-7gr7r-nxt9x",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656325848502-IQF4X6XKCFEK19OMI4PV/WEB_Molotov-Cocktail-AK-19892000-Acrylic-on-canvas--91-x-109-cm-%2836-x-43-in%29.jpg",
       "tags": [
-        "Nada NY 2016",
-        "Icons: West & East"
+        "Exhibition: Icons: West & East",
+        "Exhibition: NADA NY 2016"
       ],
       "excerpt": "<p class=\"\">1989-20000</p><p class=\"\">Acrylic on canvas</p><p class=\"\">91 × 110 cm / 36 × 43 in.</p>",
       "displayIndex": 0,
@@ -18147,7 +18147,7 @@
       "starred": true,
       "publishOn": 1656325935734,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808612213,
+      "updatedOn": 1790857021948,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -18986,7 +18986,7 @@
       },
       "tags": [
         "The Remains of the Geldberg Collection",
-        "Last Decade"
+        "Exhibition: Last Decade"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2016</p><p class=\"\" style=\"white-space:pre-wrap;\">Ceramic, plaster, color pigment</p><p class=\"\" style=\"white-space:pre-wrap;\">48 × 39 × 32 cm / 18.9 × 15.35 × 12.5 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique</p>",
       "displayIndex": 0,
@@ -18994,7 +18994,7 @@
       "starred": false,
       "publishOn": 1656082872015,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808446727,
+      "updatedOn": 1790856907175,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -19026,7 +19026,7 @@
         "source": 3
       },
       "tags": [
-        "Modern Times"
+        "Exhibition: Modern Times"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Acrylic on canvas</p><p class=\"\">183 × 122 cm / 72 × 48 in.</p><p class=\"\">©Walter Robinson</p>",
       "displayIndex": 0,
@@ -19034,7 +19034,7 @@
       "starred": false,
       "publishOn": 1656082564550,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808446608,
+      "updatedOn": 1790856996894,
       "categories": [
         "Walter Robinson"
       ],
@@ -19066,7 +19066,7 @@
         "source": 3
       },
       "tags": [
-        "Modern Times"
+        "Exhibition: Modern Times"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Acrylic on canvas</p><p class=\"\">183 × 122 cm / 72 × 48 in.</p>",
       "displayIndex": 0,
@@ -19074,7 +19074,7 @@
       "starred": false,
       "publishOn": 1656082512547,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808446510,
+      "updatedOn": 1790856996876,
       "categories": [
         "Walter Robinson"
       ],
@@ -20381,7 +20381,7 @@
         "source": 3
       },
       "tags": [
-        "Midnight Blue"
+        "Exhibition: Midnight Blue"
       ],
       "excerpt": "<p class=\"\">2014</p><p class=\"\">Acrylic on bed sheet</p><p class=\"\">137 × 80 cm / 74,8 × 31 in.</p>",
       "displayIndex": 0,
@@ -20389,7 +20389,7 @@
       "starred": false,
       "publishOn": 1656002028810,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808372378,
+      "updatedOn": 1790856986132,
       "categories": [
         "Max Maslansky"
       ],
@@ -20470,8 +20470,8 @@
         "source": 3
       },
       "tags": [
-        "Midnight Blue",
-        "Exhibition: Art Genève 2015"
+        "Exhibition: Art Genève 2015",
+        "Exhibition: Midnight Blue"
       ],
       "excerpt": "<p class=\"\">2013</p><p class=\"\">Acrylic on bed sheet</p><p class=\"\">190 × 135 cm / 74,8 × 53 in.</p>",
       "displayIndex": 0,
@@ -20479,7 +20479,7 @@
       "starred": false,
       "publishOn": 1656001832309,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855540135,
+      "updatedOn": 1790856986163,
       "categories": [
         "Max Maslansky"
       ],
@@ -20635,7 +20635,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-x9gal-3c22y-5h8pz-pd53w-9c5th-w6ebl-9xspk",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656001322170-RV7Y7U8T9ZEDT0HH9F15/WEB_Undress-%28Double-bed%29-MaxM-2013-Acrylic-on-bed-sheet-190-x-135-cm.jpg",
       "tags": [
-        "Midnight Blue"
+        "Exhibition: Midnight Blue"
       ],
       "excerpt": "<p class=\"\">2013</p><p class=\"\">Acrylic on bed sheet</p><p class=\"\">190 × 135 cm / 74,8 × 53 in.</p>",
       "displayIndex": 0,
@@ -20643,7 +20643,7 @@
       "starred": false,
       "publishOn": 1656001366210,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808371334,
+      "updatedOn": 1790856986105,
       "categories": [
         "Max Maslansky"
       ],
@@ -20760,7 +20760,7 @@
         "source": 3
       },
       "tags": [
-        "Midnight Blue"
+        "Exhibition: Midnight Blue"
       ],
       "excerpt": "<p class=\"\">2013</p><p class=\"\">Acrylic on bed sheet</p><p class=\"\">190 × 96 cm / 74,8 × 38 in.</p>",
       "displayIndex": 0,
@@ -20768,7 +20768,7 @@
       "starred": false,
       "publishOn": 1656001243975,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808370692,
+      "updatedOn": 1790856986179,
       "categories": [
         "Max Maslansky"
       ],
@@ -20970,8 +20970,8 @@
         "source": 3
       },
       "tags": [
-        "In the Eye of Beauty",
-        "Exhibition: Art Monte-Carlo 2021"
+        "Exhibition: Art Monte-Carlo 2021",
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">9,5 x 12 x 12 cm / 3,5 x 4,7 x 4,7 in.</p><p class=\"\">Edition of 4 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -20979,7 +20979,7 @@
       "starred": false,
       "publishOn": 1656000015554,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856126274,
+      "updatedOn": 1790856847701,
       "categories": [
         "Aks Misyuta"
       ],
@@ -21100,7 +21100,7 @@
         "source": 3
       },
       "tags": [
-        "In the Eye of Beauty"
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">14,5 x 6 x 10 cm / 5,7 x 2,4 x 3,9 in.</p><p class=\"\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -21108,7 +21108,7 @@
       "starred": true,
       "publishOn": 1655999083023,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808365907,
+      "updatedOn": 1790856847680,
       "categories": [
         "Aks Misyuta"
       ],
@@ -21149,7 +21149,7 @@
         "source": 3
       },
       "tags": [
-        "In the Eye of Beauty"
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">200 × 150 cm / 79 × 59 in.</p>",
       "displayIndex": 0,
@@ -21157,7 +21157,7 @@
       "starred": false,
       "publishOn": 1655998809706,
       "addedOn": 1643391333236,
-      "updatedOn": 1787808365757,
+      "updatedOn": 1790856847627,
       "categories": [
         "Aks Misyuta"
       ],
@@ -21184,7 +21184,7 @@
       "urlId": "the-bather-t3mmh-z73sb-e6x7n",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1660655194990-1SR7PO1F6436BVXIH1SN/WEB-Annik-Wetter_2021-11-19_10098.jpg",
       "tags": [
-        "In the Eye of Beauty"
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">200 × 150 cm / 79 × 59 in.</p>",
       "displayIndex": 0,
@@ -21192,7 +21192,7 @@
       "starred": true,
       "publishOn": 1655998708903,
       "addedOn": 1643391333236,
-      "updatedOn": 1787808365532,
+      "updatedOn": 1790856847593,
       "categories": [
         "Aks Misyuta"
       ],
@@ -21863,7 +21863,7 @@
       "urlId": "the-bather-t3mmh",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1659086434323-IBGLH0RAYBB8L6N31OXV/L%252BTimewaster%2BMadonna%252C%2BAks%2BMisyuta%252C%2B2021%252C%2BBronze%252C%2B15%252C5%2Bx%2B8%252C5%2Bx%2B7%2Bcm.jpg",
       "tags": [
-        "FIAC 2021"
+        "Exhibition: FIAC 2021"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">15,5 × 8,5 × 7 cm / 6,1 × 3,3 × 2,75 in</p><p class=\"\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -21871,7 +21871,7 @@
       "starred": false,
       "publishOn": 1653994959162,
       "addedOn": 1643391333236,
-      "updatedOn": 1787806676399,
+      "updatedOn": 1790856670290,
       "categories": [
         "Aks Misyuta"
       ],
@@ -21912,7 +21912,7 @@
       "urlId": "midnight-landscape-746yd-w2xje",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1659095583645-434PPVX11HZ46TDVXYII/L%252BDance%2Bof%2BDespair%252C%2BAks%2BMisyuta%252C%2B2021.%2BAcrylic%2Bon%2Bcanvas.%2B80%2Bx%2B60%2Bcm.jpg",
       "tags": [
-        "FIAC 2021"
+        "Exhibition: FIAC 2021"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">80 × 60 cm / 31,5 × 23,6 in.</p>",
       "displayIndex": 0,
@@ -21920,7 +21920,7 @@
       "starred": false,
       "publishOn": 1653994667171,
       "addedOn": 1643206965705,
-      "updatedOn": 1787806676188,
+      "updatedOn": 1790856670383,
       "categories": [
         "Aks Misyuta"
       ],
@@ -21952,7 +21952,7 @@
       "urlId": "midnight-landscape-zwtdj-nc7z5",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653994037761-U1B6E1C2IB4L5F5CRXY4/L%2BMatter+of+Time%2C+Aks+Misyuta%2C+2021.+Bronze%2C++20%2C5+x+17+x+12+cm+%288+x+6%2C7+x+4%2C7+in.%29%2C+Ed.+3%2B1AP_Front.jpg",
       "tags": [
-        "In the Eye of Beauty"
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">20,5 x 17 x 12 cm / 8 x 6,7 x 4,7 in.</p><p class=\"\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -21960,7 +21960,7 @@
       "starred": false,
       "publishOn": 1653994140526,
       "addedOn": 1643206965705,
-      "updatedOn": 1787806676040,
+      "updatedOn": 1790856847609,
       "categories": [
         "Aks Misyuta"
       ],
@@ -22001,9 +22001,9 @@
       "urlId": "midnight-landscape-zwtdj-6krdb",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653993817034-SX27SKQ9DDXO1HBQFD3S/WEB_Euphoria%2C-Aks-Misyuta%2C-2021.-Bronze%2C-7%2C5-x-7-x-15%2C5-cm-%282%2C9-x-2%2C7-x-6%2C1-in.%29%2C-Ed.-3%2B1AP-Front.jpg",
       "tags": [
-        "In the Eye of Beauty",
         "Exhibition: Art Genève 2022",
-        "Exhibition: Art Monte-Carlo 2022"
+        "Exhibition: Art Monte-Carlo 2022",
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">7,5 x 7 x 15,5 cm / 2,9 x 2,7 x 6,1 in.</p><p class=\"\">Unique</p>",
       "displayIndex": 0,
@@ -22011,7 +22011,7 @@
       "starred": true,
       "publishOn": 1653993902138,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856139503,
+      "updatedOn": 1790856847577,
       "categories": [
         "Aks Misyuta"
       ],
@@ -22504,7 +22504,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-x9gal-j6j8h-6h7ls-p3a6z-y7tbp-9rjd8-gb7l4",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653302677306-944V2A89B73W5BZ12DRS/WEB_Skull-Island%2C-Walter-Robinson%2C-2020.-Acrylic-on-canvas.-183-x-122-cm-%2872-x-48-in%29.jpg",
       "tags": [
-        "Modern Times"
+        "Exhibition: Modern Times"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Acrylic on canvas</p><p class=\"\">183 × 122 cm / 72 × 48 in.</p>",
       "displayIndex": 0,
@@ -22512,7 +22512,7 @@
       "starred": false,
       "publishOn": 1653302719323,
       "addedOn": 1643206965705,
-      "updatedOn": 1787806038701,
+      "updatedOn": 1790856996815,
       "categories": [
         "Walter Robinson"
       ],
@@ -23133,8 +23133,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8-kp5c6-2aan8-esybf-banbc",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653058970908-0KO6FJNSUJLSJFM9EVM8/WEB_Fiddler-on-the-Roof%2C-Alexander-Kosolapov%2C-1985.-Oil-on-canvas.-127-x-61cm-%2850-x-24-in%29-retouche%CC%81.jpg",
       "tags": [
-        "Icons: West & East",
-        "Exhibition: Art Genève 2017"
+        "Exhibition: Art Genève 2017",
+        "Exhibition: Icons: West & East"
       ],
       "excerpt": "<p class=\"\">1985</p><p class=\"\">Oil on canvas</p><p class=\"\">127 × 61 cm / 50 × 24 in.</p>",
       "displayIndex": 0,
@@ -23142,7 +23142,7 @@
       "starred": true,
       "publishOn": 1653058933326,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855808405,
+      "updatedOn": 1790856824109,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -23678,7 +23678,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-njfnh-nfhns-c7h8c",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652951383942-VZ9JG280NZLKDQ3ZYJCE/WEB_The-Fig-Tree-You-Cursed-Has-Withered%21%2C-Natalia-Gonzalez-Martin%2C-2021.-Oil-on-wood%2C-42-x-29%2C7-cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on wood with beech frame</p><p class=\"\">42 × 30 cm / 16,5 × 11,8 in.</p>",
       "displayIndex": 0,
@@ -23686,7 +23686,7 @@
       "starred": false,
       "publishOn": 1652951426707,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805764271,
+      "updatedOn": 1790856810932,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -23718,7 +23718,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-gcj89-dd5j9",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652951293408-VFG6TUJK12XH9SUK9MI2/WEB_Some-Will-Crack%2C-Natalia-Gonzalez-Martin%2C-2021.-Oil-on-wood%2C-21-x-14-cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p>2021</p><p>Oil on wood with beech frame</p><p>21 × 14 cm / 8,2 × 5,5 in.</p>",
       "displayIndex": 0,
@@ -23726,7 +23726,7 @@
       "starred": false,
       "publishOn": 1652951328535,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805764241,
+      "updatedOn": 1790856810711,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -23758,7 +23758,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-njfnh-lk6h9",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652951227833-0YOGHQZFSMCLHH3IR83E/WEB_Diluvio%2C-Natalia-Gonzalez-Martin%2C-2021.-Oil-on-wood%2C-42-x-29%2C7-cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on wood with beech frame</p><p class=\"\">42 × 30 cm / 16,5 × 11,8 in.</p>",
       "displayIndex": 0,
@@ -23766,7 +23766,7 @@
       "starred": false,
       "publishOn": 1652951260964,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805764221,
+      "updatedOn": 1790856811001,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -23798,7 +23798,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-gcj89-5fs6x-bs5mw-ym755",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652950967513-DY32T5DJY39VT00DMKYQ/WEB_Soaking-Wet%2C-Natalia-Gonzalez-Martin%2C-2021.-Oil-on-wood%2C-30-x-21-cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on wood with beech frame</p><p class=\"\">30 × 21 cm / 11,8 × 8,2 in.</p>",
       "displayIndex": 0,
@@ -23806,7 +23806,7 @@
       "starred": false,
       "publishOn": 1652951004348,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805764110,
+      "updatedOn": 1790856810797,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -23838,7 +23838,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-gcj89-5fs6x-bs5mw",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652950896821-79JPGJKC8JP24XEUM62R/WEB_More-Than-Yesterday%2C-Less-Than-Tomorrow%2C-Natalia-Gonzalez-Martin%2C-2020.-Oil-on-wood%2C-30-x-21-cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p>2020</p><p>Oil on wood with beech frame</p><p>30 × 21 cm / 11,8 × 8,2 in.</p>",
       "displayIndex": 0,
@@ -23846,7 +23846,7 @@
       "starred": false,
       "publishOn": 1652950932233,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805764065,
+      "updatedOn": 1790856810823,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -23878,7 +23878,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-gcj89-kl96r",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652950693833-Y2R1PVK3WVXT1GBHBO36/WEB_Granadas%2C-Natalia-Gonzalez-Martin%2C-2021.-Oil-on-wood%2C-14-x-21-cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on wood with beech frame</p><p class=\"\">21 × 14 cm / 8,2 × 5,5 in.</p>",
       "displayIndex": 0,
@@ -23886,7 +23886,7 @@
       "starred": true,
       "publishOn": 1652950721980,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805764010,
+      "updatedOn": 1790856810910,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -23918,7 +23918,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-njfnh-nfhns-rlsf7",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652950595733-VHSR7WBZR489UNMDTRKU/WEB_Portrait-of-a-Young-Lady%2C-Natalia-Gonzalez-Martin%2C-2021.-Oil-on-wood%2C-42-x-29%2C7-cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p>2021</p><p>Oil on wood with beech frame</p><p>42 × 30 cm / 16,5 × 11,8 in.</p>",
       "displayIndex": 0,
@@ -23926,7 +23926,7 @@
       "starred": false,
       "publishOn": 1652950655722,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805763940,
+      "updatedOn": 1790856810847,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -24143,8 +24143,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8-awe8d-x5xr6",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652449957051-1A8VQ04DDA575VDZ4IEZ/L%2BMalevich-Marlboro%2C+Alexander+Kosolapov%2C+1995.+Acrylic+on+canvas.+121%2C9+x+182%2C8+cm+%2848+x+72+in%29.jpg",
       "tags": [
-        "Independent Brussels 2017",
-        "Exhibition: Art Genève 2019"
+        "Exhibition: Art Genève 2019",
+        "Exhibition: Independent Brussels 2017"
       ],
       "excerpt": "<p class=\"\">1995</p><p class=\"\">Acrylic on canvas</p><p class=\"\">121,9 × 182,8 cm / 48 × 72 in.</p>",
       "displayIndex": 0,
@@ -24152,7 +24152,7 @@
       "starred": true,
       "publishOn": 1652450648835,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855827512,
+      "updatedOn": 1790856859173,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -24295,7 +24295,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8-awe8d-7gr7r",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652190846068-W0BX570IM0V3LF4R6WC3/L-Malevich+Marlboro+%28triptych%29%2C+Alexander+Kosolapov%2C+1985.+Acrylic+on+canvas.+180+x+110+cm+%2870.8+x+43.3+in%29.+copyright+Paula+Abreu+Pita.jpg",
       "tags": [
-        "Nada NY 2016"
+        "Exhibition: NADA NY 2016"
       ],
       "excerpt": "<p class=\"\">1985</p><p class=\"\">Acrylic on canvas (triptych)</p><p class=\"\">180 × 110 cm / 70 × 43 in.</p>",
       "displayIndex": 0,
@@ -24303,7 +24303,7 @@
       "starred": true,
       "publishOn": 1652190916688,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805084277,
+      "updatedOn": 1790857021965,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -24376,8 +24376,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8-awe8d",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652097118195-ZW969OZDGQ0CL0O5SUJJ/L%2BLenin+Coca-Cola%2C+Alexander+Kosolapov%2C+1987.+Acrylic+on+canvas.+81+x+127+cm+%2832+x+50+in%29.jpg",
       "tags": [
-        "Icons: West & East",
-        "Exhibition: Art Genève 2020"
+        "Exhibition: Art Genève 2020",
+        "Exhibition: Icons: West & East"
       ],
       "excerpt": "<p class=\"\">1987</p><p class=\"\">Acrylic on canvas</p><p class=\"\">81 × 127 cm / 32 × 50 in.</p>",
       "displayIndex": 0,
@@ -24385,7 +24385,7 @@
       "starred": true,
       "publishOn": 1652097169009,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855837011,
+      "updatedOn": 1790856824145,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -24611,8 +24611,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-nffrw-ll7wh-l7x4d-6ena2-hrnfr",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651575369209-7PY0UI6UK51NZMNZK9DL/WEB_I%27ll-give-Ya-The-Kentucky-Blues%2C-Yarisal-%26-Kublitz%2C-2015.-KFC-bucket%2C-ashes%2C-brass%2C-labradorite-stone.-Dim.-41-x-32-x-32-cm-%2816-x-12.6-x-12.6-in%29.-Ed.3-%2B-1-ap.jpg",
       "tags": [
-        "Nada NY 2016",
-        "Exhibition: Art Genève 2016"
+        "Exhibition: Art Genève 2016",
+        "Exhibition: NADA NY 2016"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2015</p><p class=\"\" style=\"white-space:pre-wrap;\">KFC bucket, ashes, brass, labradorite stone</p><p class=\"\" style=\"white-space:pre-wrap;\">41 × 32 × 32 cm / 16 × 12,6 × 12,6 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -24620,7 +24620,7 @@
       "starred": false,
       "publishOn": 1651575508603,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855796304,
+      "updatedOn": 1790857022078,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24693,9 +24693,9 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651574935796-RFAPGWNYUD50J51ZZIXI/WEB_Inside-Me-Is-Divinity%2C-Yarisal-%26-Kublitz%2C-2015.-Singing-bowl%2C-brass%2C-tampons%2C-red-clay%2C-acrylic%2C-azurit-malachit-stone.-32-x-55-x-21-cm-%2812.6-x-21.6-x-8.3-in%29.-Ed.1-%2B-1ap.jpg",
       "tags": [
         "The Remains of the Geldberg Collection",
-        "Nada NY 2016",
-        "Last Decade",
-        "Exhibition: Artissima 2019"
+        "Exhibition: Artissima 2019",
+        "Exhibition: Last Decade",
+        "Exhibition: NADA NY 2016"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2015</p><p class=\"\" style=\"white-space:pre-wrap;\">Singing bowl, brass, tampons, red clay, acrylic, azurit malachit stone</p><p class=\"\" style=\"white-space:pre-wrap;\">32 × 55 × 21 cm / 12.6 × 21.6 × 8.3 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 1 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -24703,7 +24703,7 @@
       "starred": false,
       "publishOn": 1651575040246,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855966766,
+      "updatedOn": 1790857022132,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24744,7 +24744,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-nffrw-ll7wh",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651574119819-HSG0K3I500XXOXDOH0OD/WEB_Just-Like-Starting-Over-Again%2C-Yarisal-%26-Kublitz%2C-2017.-Fabric%2C-acrylic-glass%2C-painted-steel%2C-brass.-Variable-dimensions%2C-Flag-180-x-95-cm-%2870.8-x-37.4-in%29.-Ed.3-%2B-1-ap.-credit.ANNIK.WETTER.jpg",
       "tags": [
-        "Last Decade"
+        "Exhibition: Last Decade"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2017</p><p class=\"\" style=\"white-space:pre-wrap;\">Fabric, acrylic glass, painted steel, brass</p><p class=\"\" style=\"white-space:pre-wrap;\">Variable dimensions</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -24752,7 +24752,7 @@
       "starred": false,
       "publishOn": 1651574434149,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804555243,
+      "updatedOn": 1790856907149,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24870,7 +24870,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-7e366",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651572990937-FNVQUTOUFTC8IDK5V2DO/YK-2014-03-28_010-001.jpg",
       "tags": [
-        "Last Decade"
+        "Exhibition: Last Decade"
       ],
       "excerpt": "<p class=\"\">2014</p><p class=\"\">Cast brass, compact discs, mirror</p><p class=\"\">30 × 33 × 42 cm / 11,8 × 13 × 16,5 in.</p><p class=\"\">©Yarisal &amp; Kublitz</p>",
       "displayIndex": 0,
@@ -24878,7 +24878,7 @@
       "starred": false,
       "publishOn": 1651573122712,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804554485,
+      "updatedOn": 1790856907275,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -25983,7 +25983,7 @@
       "urlId": "d737mwj4bl9s7e2-plzyb-3lg7e-xh93z-5bcpm-cxhpz-2y4ch",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1659095281183-BA2022XWZAW2242DAUIB/WEB_I%2527m-leaving%252C-Aks-Misyuta%252C-2021.-Acrylic-on-canvas%252C-150-x-200-cm_De%25CC%2581toure%25CC%2581e.jpg",
       "tags": [
-        "In the Eye of Beauty"
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">150 × 200 cm / 59 × 78,7 in.</p>",
       "displayIndex": 0,
@@ -25991,7 +25991,7 @@
       "starred": true,
       "publishOn": 1651247806692,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804303632,
+      "updatedOn": 1790856847555,
       "categories": [
         "Aks Misyuta"
       ],
@@ -26343,7 +26343,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-njfnh-nfhns-sl49l",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651242748286-LLBXOHOIC0YSC5AHN5LN/WEB_HD_Nothing-to-Wear%2C-Aks-Misyuta%2C-2021.-Acrylic-on-canvas%2C-200-x-150-cm_De%CC%81toure%CC%81e.jpg",
       "tags": [
-        "In the Eye of Beauty"
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">200 × 150 cm / 78,7 × 59 in.</p>",
       "displayIndex": 0,
@@ -26351,7 +26351,7 @@
       "starred": false,
       "publishOn": 1651242991832,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804297156,
+      "updatedOn": 1790856847660,
       "categories": [
         "Aks Misyuta"
       ],
@@ -26420,7 +26420,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-njfnh",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651153149768-946HZ05CEK9VIB472QBH/L_The+Veil+is+Removed%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+42+x+29%2C7+cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on wood with beech frame</p><p class=\"\">42 × 30 cm / 16,5 × 11,8 in.</p>",
       "displayIndex": 0,
@@ -26428,7 +26428,7 @@
       "starred": false,
       "publishOn": 1651153097013,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804200525,
+      "updatedOn": 1790856811028,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -26500,7 +26500,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-yacyk",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651152755336-NJE754WJ7OM252EOTBXV/L_Reclining+Nude+at+Night%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+60+x+42+cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on wood with beech frame</p><p class=\"\">60 × 42 cm / 23,6 × 16,5 in.</p>",
       "displayIndex": 0,
@@ -26508,7 +26508,7 @@
       "starred": false,
       "publishOn": 1651152781115,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804200287,
+      "updatedOn": 1790856810691,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -26540,7 +26540,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-gcj89-5fs6x",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651152565509-UC3SI7MJ2Q6I20M2QOYH/L_Penitence%2C+Natalia+Gonzalez+Martin%2C+2020.+Oil+on+wood%2C+30+x+21+cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p>2020</p><p>Oil on wood with beech frame</p><p>30 × 21 cm / 11,8 × 8,2 in.</p>",
       "displayIndex": 0,
@@ -26548,7 +26548,7 @@
       "starred": true,
       "publishOn": 1651152708609,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804200140,
+      "updatedOn": 1790856810732,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -26580,7 +26580,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x-gcj89",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651152467508-NHG2WRB7VLXITJQA6NUQ/L_Pear+%3A+After+Saint+Sebastian%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+21+x+14+cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Oil on wood with beech frame</p><p class=\"\">21 × 14 cm / 8,2 × 5,5 in.</p>",
       "displayIndex": 0,
@@ -26588,7 +26588,7 @@
       "starred": true,
       "publishOn": 1651152429407,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804199793,
+      "updatedOn": 1790856810955,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -26620,7 +26620,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-3wb82-nwn3e",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651152251561-R9AFC1J5IRI11Y4CLCXS/L_Land+of+Olive%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+42+x+29.7+cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p>2021</p><p>Oil on wood with beech frame</p><p>42 × 29,7 cm / 16,5 × 11,6 in.</p>",
       "displayIndex": 0,
@@ -26628,7 +26628,7 @@
       "starred": true,
       "publishOn": 1651152314598,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804199612,
+      "updatedOn": 1790856810877,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -26660,7 +26660,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa-yzy3x",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651152159558-11MS8YM0WVQO5A3836W0/L_Hosea+2.5%2C+Natalia+Gonzalez+Martin%2C+2020.+Oil+on+wood%2C+30+x+21+cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Oil on wood with beech frame</p><p class=\"\">30 × 21 cm / 11,8 × 8,2 in.</p>",
       "displayIndex": 0,
@@ -26668,7 +26668,7 @@
       "starred": false,
       "publishOn": 1651152199604,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804199531,
+      "updatedOn": 1790856810673,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -26700,7 +26700,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk-c2wpa",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651152066650-8YZW4BIC4PF47EUI3DTD/L_Flowers+Blossomed+Under+Her+Dress%2C+Natalia+Gonzalez+Martin%2C+2020.+Oil+on+wood%2C+30+x+21+cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p>2020</p><p>Oil on wood with beech frame</p><p>30 × 21 cm / 11,8 × 8,2 in.</p>",
       "displayIndex": 0,
@@ -26708,7 +26708,7 @@
       "starred": false,
       "publishOn": 1651152129123,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804199439,
+      "updatedOn": 1790856810755,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -26740,7 +26740,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-gs6hk",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651151942380-597RC6IHPMQPKMMK0V0I/L_Eve+Before+Expulsion%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+60+x+42+cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on wood with beech frame</p><p class=\"\">60 × 42 cm / 23,6 × 16,5 in.</p>",
       "displayIndex": 0,
@@ -26748,7 +26748,7 @@
       "starred": false,
       "publishOn": 1651152017016,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804199267,
+      "updatedOn": 1790856810774,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -26780,7 +26780,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-9cbdk-3wb82",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651151849860-J9OOHG03R6E3BYTYNGOY/L_Dolorosa%2C+Natalia+Gonzalez+Martin%2C+2021.+Oil+on+wood%2C+21+x+14+cm.jpg",
       "tags": [
-        "I Saw Something Else Under The Sun"
+        "Exhibition: I Saw Something Else Under The Sun"
       ],
       "excerpt": "<p>2021</p><p>Oil on wood with beech frame</p><p>21 × 14 cm / 8,2 × 5,5 in.</p>",
       "displayIndex": 0,
@@ -26788,7 +26788,7 @@
       "starred": false,
       "publishOn": 1651151923279,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804199102,
+      "updatedOn": 1790856811053,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -26857,8 +26857,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651150340234-XK9N1X3JHQS7N4H0YMEN/WEB_COSMO-JARS%2C-Yarisal-%26-Kublitz%2C-2018.-glass%2C-brass%2C-bamboo%2C-coconut%2C-ceramic%2C-gel-wax%2C-acrylic%2C-wood.-168-x-33-x-33-cm.-Unique-%C2%A9Matthias-Kolb-%28side%29.jpg",
       "tags": [
-        "Independent Brussels 2018",
-        "Exhibition: Art Genève 2019"
+        "Exhibition: Art Genève 2019",
+        "Exhibition: Independent Brussels 2018"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2018</p><p class=\"\" style=\"white-space:pre-wrap;\">glass, brass, bamboo, coconut, ceramic, gel wax, acrylic, wood</p><p class=\"\" style=\"white-space:pre-wrap;\">168 × 33 × 33 cm / 66,1 × 13 × 13 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique work</p>",
       "displayIndex": 0,
@@ -26866,7 +26866,7 @@
       "starred": false,
       "publishOn": 1651150484254,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855827639,
+      "updatedOn": 1790856871911,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -27420,7 +27420,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651143152857-E8EFVKCQMQGB1IL1W2VT/WEB_Lung-Kern-set-of-SN%2C-Richard-kern%2C-1987.-C-print.-36-x-28-cm-%2814-x-11-in%29.-Ed.1-10.jpg",
       "tags": [
-        "Nada NY 2016"
+        "Exhibition: NADA NY 2016"
       ],
       "excerpt": "<p class=\"\">1987</p><p class=\"\">C-print</p><p class=\"\">36 × 28 cm / 14 × 11 in.</p>",
       "displayIndex": 0,
@@ -27428,7 +27428,7 @@
       "starred": false,
       "publishOn": 1651143238385,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804192340,
+      "updatedOn": 1790857021989,
       "categories": [
         "Richard Kern"
       ],
@@ -27460,8 +27460,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651143002735-P0TJOKD3F43STNXY99BI/WEB_Jen-with-a-gun-and-dick%2C-Richard-Kern%2C-1994.-C-print.-35%2C5-x-28-cm-%2811-x-14-in%29.-Ed.8-10.jpg",
       "tags": [
-        "Nada NY 2016",
-        "Summer Show"
+        "Summer Show",
+        "Exhibition: NADA NY 2016"
       ],
       "excerpt": "<p class=\"\">1984</p><p class=\"\">C-print</p><p class=\"\">35,5 × 28 cm / 11 × 14 in.</p>",
       "displayIndex": 0,
@@ -27469,7 +27469,7 @@
       "starred": false,
       "publishOn": 1651143117067,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804191922,
+      "updatedOn": 1790857022012,
       "categories": [
         "Richard Kern"
       ],
@@ -27575,7 +27575,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-9jb49",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651141881302-81YJWRUQ0NZB8GPRNRMB/WEB_Daily-Medications%2C-Walter-Robinson%2C-2020.-Acrylic-on-canvas.-101%2C5-x-152-cm-%2840-x-60-in%29.jpg",
       "tags": [
-        "Modern Times"
+        "Exhibition: Modern Times"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Acrylic on canvas</p><p class=\"\">101,5 × 152 cm / 40 × 60 in.</p>",
       "displayIndex": 0,
@@ -27583,7 +27583,7 @@
       "starred": true,
       "publishOn": 1651141902803,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804190832,
+      "updatedOn": 1790856996760,
       "categories": [
         "Walter Robinson"
       ],
@@ -27615,7 +27615,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-x9gal",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661113153841-DS5IQ2NUMEODGZ19X8NG/WEb_Annik-Wetter_2020-09-30_10136.jpg",
       "tags": [
-        "Modern Times"
+        "Exhibition: Modern Times"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Acrylic on canvas</p><p class=\"\">183 × 122 cm / 72 × 48 in.</p>",
       "displayIndex": 0,
@@ -27623,7 +27623,7 @@
       "starred": true,
       "publishOn": 1651141864875,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804190766,
+      "updatedOn": 1790856996741,
       "categories": [
         "Walter Robinson"
       ],
@@ -27664,7 +27664,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-8e2y2",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651141488668-A4OXY90JXPMJ9JWOGZR1/WEB_Painkillers%2C-Walter-Robinson%2C-2016.-Acrylic-on-canvas.-91%2C5-x-142%2C2-cm-%2836-x-56-in%29.jpg",
       "tags": [
-        "Modern Times"
+        "Exhibition: Modern Times"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Acrylic on canvas</p><p class=\"\">91,5 × 142,2 cm / 36 × 56 in.</p>",
       "displayIndex": 0,
@@ -27672,7 +27672,7 @@
       "starred": false,
       "publishOn": 1651141532467,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804190386,
+      "updatedOn": 1790856996858,
       "categories": [
         "Walter Robinson"
       ],
@@ -27704,7 +27704,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651141705128-VT2OO38EGMZOBS9VBPDP/WEB_Hypo-Nurse%2C-Walter-Robinson%2C-2020.-Acrylic-on-canvas.-183-x-122-cm-%2872-x-48-in%29.jpg",
       "tags": [
-        "Modern Times"
+        "Exhibition: Modern Times"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Acrylic on canvas</p><p class=\"\">183 × 122 cm / 72 × 48 in.</p>",
       "displayIndex": 0,
@@ -27712,7 +27712,7 @@
       "starred": false,
       "publishOn": 1651141451540,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804190286,
+      "updatedOn": 1790856996836,
       "categories": [
         "Walter Robinson"
       ],
@@ -27821,7 +27821,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651137229964-U6ANFU7HTPU0514K3CZR/WEB_The-Three-Painkillers%2C-Walter-Robinson%2C-2020.-Acrylic-on-canvas.-101%2C5-x-152-cm-%2840-x-60-in%29.jpg",
       "tags": [
-        "Modern Times"
+        "Exhibition: Modern Times"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Acrylic on canvas</p><p class=\"\">101,5 × 152 cm / 40 × 60 in.</p>",
       "displayIndex": 0,
@@ -27829,7 +27829,7 @@
       "starred": false,
       "publishOn": 1651137269762,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804186938,
+      "updatedOn": 1790856996784,
       "categories": [
         "Walter Robinson"
       ],
@@ -27938,7 +27938,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-gxhkj-w79ra-7hhn6",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661113077530-R287PJACWZJ86K9UZ7HK/WEB_Annik-Wetter_2020-09-30_10133-copie.jpg",
       "tags": [
-        "Modern Times"
+        "Exhibition: Modern Times"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Acrylic on canvas</p><p class=\"\">183 × 122 cm / 72 × 48 in.</p>",
       "displayIndex": 0,
@@ -27946,7 +27946,7 @@
       "starred": true,
       "publishOn": 1651057186969,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804098897,
+      "updatedOn": 1790856996720,
       "categories": [
         "Walter Robinson"
       ],
@@ -27992,7 +27992,7 @@
         "source": 3
       },
       "tags": [
-        "Miart 2025"
+        "Exhibition: Miart 2025"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">190,5-x-137,2 / (75-x-54-in.)</p>",
       "displayIndex": 0,
@@ -28000,7 +28000,7 @@
       "starred": false,
       "publishOn": 1669908933792,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804098631,
+      "updatedOn": 1790856965773,
       "categories": [
         "Walter Robinson"
       ],
@@ -28353,7 +28353,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-drm2l",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651053971607-JYHYG7K169C512BRCU98/L%2BStill+Life+With+Extension+Cord%2C+Michael+Hilsman%2C+2018.+Oil+on+linen.+243%2C5+x+162%2C5+cm+%2896+x+64+in%29+%28install%29+%C2%A9Michael+Underwood.jpg",
       "tags": [
-        "Independent Brussels 2018"
+        "Exhibition: Independent Brussels 2018"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Oil on linen</p><p class=\"\">243,5 × 162,5 cm / 96 × 64 in.</p>",
       "displayIndex": 0,
@@ -28361,7 +28361,7 @@
       "starred": false,
       "publishOn": 1651054065498,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804096605,
+      "updatedOn": 1790856871894,
       "categories": [
         "Michael Hilsman"
       ],
@@ -28402,7 +28402,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661110817830-TF39THMU1331GELGFJ98/WEB2_Exhibition-view-3_New-Pictures%2C-Michael-Hilsman%2C-2018-copie.jpg",
       "tags": [
-        "New Pictures"
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Oil on linen</p><p class=\"\">243,6 × 162,5 cm / 96 × 64 in.</p><p class=\"\">©Michael Hilsman</p>",
       "displayIndex": 0,
@@ -28410,7 +28410,7 @@
       "starred": true,
       "publishOn": 1651053838061,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804096422,
+      "updatedOn": 1790857092031,
       "categories": [
         "Michael Hilsman"
       ],
@@ -28555,7 +28555,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-w3tbj-lgflb",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651050778881-E9886U0OIBG07M54WBPJ/WEB_Eight%2C-Michael-Hilsman%2C-2017.-Oil-on-linen.-244-x-162%2C5-cm-%2896-x-64-in%29-2.jpg",
       "tags": [
-        "New Pictures"
+        "Exhibition: New pictures"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Oil on linen</p><p class=\"\">244 × 162,5 cm / 96 × 64 in.</p>",
       "displayIndex": 0,
@@ -28563,7 +28563,7 @@
       "starred": false,
       "publishOn": 1651051087429,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804094470,
+      "updatedOn": 1790857092070,
       "categories": [
         "Michael Hilsman"
       ],
@@ -29427,7 +29427,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-jkgjz",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1649258950861-LP0JEDV7DIK3OCSMHGFA/WEB.jpg",
       "tags": [
-        "Miart 2022"
+        "Exhibition: Miart 2022"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on paper, Collage</p><p class=\"\">120 × 148 cm / 47 × 58 in. (unframed) <br>125 × 162 × 5 cm / 49 × 64 × 2 in. (framed)</p>",
       "displayIndex": 0,
@@ -29435,7 +29435,7 @@
       "starred": false,
       "publishOn": 1649259700632,
       "addedOn": 1643206965705,
-      "updatedOn": 1787802457166,
+      "updatedOn": 1790856940877,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -29485,7 +29485,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1649258768310-HPR3KLKHTSFY6KZZK15T/WEB_Wipeout%2310%2C-Todd-Bienvenu%2C-2022.-Oil-on-canvas%2C-28-x-35%2C5-cm-%2811-x-14-in.%29-copie-copie.jpg",
       "tags": [
-        "Miart 2022"
+        "Exhibition: Miart 2022"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on canvas</p><p class=\"\">28 x 35,5 cm / 11 x 14 in.</p><p class=\"\">©Todd Bienvenu</p>",
       "displayIndex": 0,
@@ -29493,7 +29493,7 @@
       "starred": false,
       "publishOn": 1649258873450,
       "addedOn": 1643206965705,
-      "updatedOn": 1787802456855,
+      "updatedOn": 1790856940851,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -29525,7 +29525,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661429491134-F5LSM736HXQDAVXNP6UM/WEB_Annik-Wetter_2021-10-28_10035.jpg",
       "tags": [
-        "Miart 2022"
+        "Exhibition: Miart 2022"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Acrylic on canvas</p><p class=\"\">195 × 230 cm / 78 × 90 in.</p>",
       "displayIndex": 0,
@@ -29533,7 +29533,7 @@
       "starred": false,
       "publishOn": 1649258726073,
       "addedOn": 1643206965705,
-      "updatedOn": 1787802455031,
+      "updatedOn": 1790856940901,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -30537,7 +30537,7 @@
       "urlId": "when-you-cant-be-a-hero-always-have-the-last-word-adam-ca6cn",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1645104878103-ESWC7TJL9LL1R6RPUR2M/WEB_A-Magnificent-Forgetting%2C-Chloe-Wise%2C-2016.-Oil-paint%2C-urethane%2C-parsley%2C-piercing%2C-wood-plint.-112-x-45-x-43-cm-%2844-x-17.7-x-17-in%29.-Image-%40-Paula-Abreu-Pita.jpg",
       "tags": [
-        "Nada NY 2016"
+        "Exhibition: NADA NY 2016"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Oil paint, urethane, parsley, piercing, wood plint</p><p class=\"\">112 × 45 × 43 cm / 44 × 17.7 × 17 in.</p><p class=\"\">©Chloe Wise</p>",
       "displayIndex": 27,
@@ -30545,7 +30545,7 @@
       "starred": false,
       "publishOn": 1645104885910,
       "addedOn": 1645096956383,
-      "updatedOn": 1787798512197,
+      "updatedOn": 1790857022036,
       "categories": [
         "Chloe Wise"
       ],
@@ -31166,7 +31166,7 @@
       "urlId": "midnight-landscape-746yd-rhn68",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1659095665377-WPFVL2YTUV99JQMKQAOG/L_Bis_Madonna%2BWith%2BFruits%252C%2BAks%2BMisyuta%252C%2B2021.%2BAcrylic%2Bon%2Bcanvas%252C%2B200%2Bx%2B150%2Bcm.jpg",
       "tags": [
-        "In the Eye of Beauty"
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">200 × 150 cm / 78,7 × 59 in.</p>",
       "displayIndex": 13,
@@ -31174,7 +31174,7 @@
       "starred": false,
       "publishOn": 1643900064207,
       "addedOn": 1643206965705,
-      "updatedOn": 1787797284474,
+      "updatedOn": 1790856847645,
       "categories": [
         "Aks Misyuta"
       ],
@@ -31490,9 +31490,9 @@
       "urlId": "midnight-landscape-e2efe",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1649257613887-S0LJYVVPCSGXYKP1Y2VF/WEB_Wipeout%2C-Todd-Bienvenu%2C-2021.-Bronze.-32-x-35-x-28-cm.jpg",
       "tags": [
-        "Miart 2022",
         "Exhibition: Art Monte-Carlo 2022",
-        "Exhibition: Congregation"
+        "Exhibition: Congregation",
+        "Exhibition: Miart 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">32 x 35 x 28 cm / 12.6 x 13.8 x 11 in.</p><p class=\"\">Edition of 5 + 1 A.P</p>",
       "displayIndex": 5,
@@ -31500,7 +31500,7 @@
       "starred": false,
       "publishOn": 1643807340887,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856424294,
+      "updatedOn": 1790856940826,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -31546,7 +31546,7 @@
         "source": 3
       },
       "tags": [
-        "FIAC 2021"
+        "Exhibition: FIAC 2021"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">150 × 200 cm / 59 × 78 in.</p>",
       "displayIndex": 4,
@@ -31554,7 +31554,7 @@
       "starred": false,
       "publishOn": 1643806490667,
       "addedOn": 1643391333236,
-      "updatedOn": 1787797183617,
+      "updatedOn": 1790856670312,
       "categories": [
         "Aks Misyuta"
       ],
@@ -31581,7 +31581,7 @@
       "urlId": "midnight-landscape-zwtdj",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1643805682173-FCPYC1ZEGEVYOHDTKZUI/L%252B_Sunrise%252C%2BAks%2BMisyuta%252C%2B2021.%2BBronze%252C%2B%2B9%252C5%2Bx%2B12%252C3%2Bx%2B12%2Bcm%2B%25283%252C7%2Bx%2B4%252C8%2Bx%2B4%252C7%2Bin.%2529%252C%2BEd.%2B3%252B1AP%2BFront.jpg",
       "tags": [
-        "In the Eye of Beauty"
+        "Exhibition: In the Eye of Beauty"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">9,5 x 12,3 x 12 cm / 3,7 x 4,8 x 4,7 in.</p><p class=\"\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 3,
@@ -31589,7 +31589,7 @@
       "starred": true,
       "publishOn": 1643805738519,
       "addedOn": 1643206965705,
-      "updatedOn": 1787797183195,
+      "updatedOn": 1790856847723,
       "categories": [
         "Aks Misyuta"
       ],
@@ -31630,7 +31630,7 @@
       "urlId": "midnight-landscape-746yd",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1659089372700-SEOBVJETBOIJN2ROPQSN/L%252BPluses%2Band%2BMinuses%252C%2BAks%2BMisyuta%252C%2B2021.%2BAcrylic%2Bon%2Bcanvas.%2B120%2Bx%2B100%2Bcm.jpg",
       "tags": [
-        "FIAC 2021"
+        "Exhibition: FIAC 2021"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">120 × 100 cm</p><p class=\"\">47,25 × 39,38 in.</p><p class=\"\">©Aks Misyuta</p>",
       "displayIndex": 2,
@@ -31638,7 +31638,7 @@
       "starred": true,
       "publishOn": 1643802729355,
       "addedOn": 1643206965705,
-      "updatedOn": 1787797181242,
+      "updatedOn": 1790856670359,
       "categories": [
         "Aks Misyuta"
       ],
@@ -31670,7 +31670,7 @@
       "urlId": "the-bather",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1659086080254-QBR6D94GEH2VKP9JI6P2/WEB_Se%CC%81bastien_Bertrand_Retouches-_FIAC-2021_05_%C2%A9_Studio_Shapiro.jpg",
       "tags": [
-        "FIAC 2021"
+        "Exhibition: FIAC 2021"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">25 × 24 × 20 cm / 9 × 9  × 7 in.</p><p class=\"\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 1,
@@ -31678,7 +31678,7 @@
       "starred": true,
       "publishOn": 1643391725128,
       "addedOn": 1643391333236,
-      "updatedOn": 1787796770721,
+      "updatedOn": 1790856670333,
       "categories": [
         "Aks Misyuta"
       ],
