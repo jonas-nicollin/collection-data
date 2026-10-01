@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-09-30T06:48:23.519Z",
-  "sourceHash": "e9ae49ac162413e54a4e30edec96b57e50c394f7f9b7c8fba55c8dfc0a54864c",
+  "updatedAt": "2026-10-01T11:58:27.755Z",
+  "sourceHash": "8cb0b8d1d705c0870a4a233466d03a8a5026ad70e0514f6c76d5a07f94b738a5",
   "count": 758,
   "pages": 4,
   "items": [
@@ -1332,7 +1332,7 @@
         "source": 3
       },
       "tags": [
-        "Artgenève 2026"
+        "Exhibition: Art Genève 2026"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Watercolor and pen on paper</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28.6 x 32.1 cm. / 11 ¼ x 12 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">IFH-2603</p>",
       "displayIndex": 0,
@@ -1340,7 +1340,7 @@
       "starred": true,
       "publishOn": 1770044007161,
       "addedOn": 1643206965705,
-      "updatedOn": 1788153449076,
+      "updatedOn": 1790855880068,
       "categories": [
         "Isaac Soh Fujita Howell"
       ],
@@ -1381,7 +1381,7 @@
         "source": 3
       },
       "tags": [
-        "Artgenève 2026"
+        "Exhibition: Art Genève 2026"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Acrylic on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">182.9 x 152.4 cm. / 72 x 60 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">IFH-2512</p>",
       "displayIndex": 0,
@@ -1389,7 +1389,7 @@
       "starred": true,
       "publishOn": 1770043548133,
       "addedOn": 1643206965705,
-      "updatedOn": 1788153445740,
+      "updatedOn": 1790855879994,
       "categories": [
         "Isaac Soh Fujita Howell"
       ],
@@ -1421,7 +1421,7 @@
         "source": 3
       },
       "tags": [
-        "Artgenève 2026"
+        "Exhibition: Art Genève 2026"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Acrylic on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">182.9 x 213.4 cm. / 72 x 84 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">IFH-2511</p>",
       "displayIndex": 0,
@@ -1429,7 +1429,7 @@
       "starred": true,
       "publishOn": 1769090591239,
       "addedOn": 1643206965705,
-      "updatedOn": 1788146565828,
+      "updatedOn": 1790855880017,
       "categories": [
         "Isaac Soh Fujita Howell"
       ],
@@ -2561,7 +2561,7 @@
         "source": 3
       },
       "tags": [
-        "Art Monte-Carlo 2025"
+        "Exhibition: Art Monte-Carlo 2025"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Black Stoneware</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">32 x 16 x 14 cm. / 12 ½ x 6 ¼ x 5 ½ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">HC-2406</p>",
       "displayIndex": 0,
@@ -2569,7 +2569,7 @@
       "starred": true,
       "publishOn": 1751374647995,
       "addedOn": 1643206965705,
-      "updatedOn": 1788003695073,
+      "updatedOn": 1790855419175,
       "categories": [
         "Han-Chiao"
       ],
@@ -2601,7 +2601,7 @@
         "source": 3
       },
       "tags": [
-        "Art Monte-Carlo 2025"
+        "Exhibition: Art Monte-Carlo 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on wood</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">50 x 20 cm. / 19 ¾ x 7 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">NGM-2502</p>",
       "displayIndex": 0,
@@ -2609,7 +2609,7 @@
       "starred": false,
       "publishOn": 1751373887408,
       "addedOn": 1643206965705,
-      "updatedOn": 1788003689449,
+      "updatedOn": 1790855419216,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -3099,7 +3099,7 @@
         "source": 3
       },
       "tags": [
-        "Art Brussels 2025"
+        "Exhibition: Art Brussels 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Smoked ceramic</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">18 x 48 x 50 cm. / 7 x 19 x 19 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">EVH-2502</p>",
       "displayIndex": 0,
@@ -3107,7 +3107,7 @@
       "starred": true,
       "publishOn": 1745245361939,
       "addedOn": 1643206965705,
-      "updatedOn": 1787975495045,
+      "updatedOn": 1790855401847,
       "categories": [
         "Eloïse Van der Heyden"
       ],
@@ -3148,7 +3148,7 @@
         "source": 3
       },
       "tags": [
-        "Art Brussels 2025"
+        "Exhibition: Art Brussels 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Acrylic on canvas </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">76.2 x 40.6 cm. / 30 x 16 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">IFH-2501</p>",
       "displayIndex": 0,
@@ -3156,7 +3156,7 @@
       "starred": true,
       "publishOn": 1745244988098,
       "addedOn": 1643206965705,
-      "updatedOn": 1787975493409,
+      "updatedOn": 1790855401772,
       "categories": [
         "Isaac Soh Fujita Howell"
       ],
@@ -3197,7 +3197,7 @@
         "source": 3
       },
       "tags": [
-        "Art Brussels 2025"
+        "Exhibition: Art Brussels 2025"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">28 x 36 cm / 11 x 14 in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>MH-2501</span></p>",
       "displayIndex": 0,
@@ -3205,7 +3205,7 @@
       "starred": true,
       "publishOn": 1745244597431,
       "addedOn": 1643206965705,
-      "updatedOn": 1787975492423,
+      "updatedOn": 1790855401896,
       "categories": [
         "Michael Hilsman"
       ],
@@ -3237,7 +3237,7 @@
         "source": 3
       },
       "tags": [
-        "Art Brussels 2025"
+        "Exhibition: Art Brussels 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2024</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil and pigment on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 116 x 89 cm. / 45 x 35 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TFO-2401</p>",
       "displayIndex": 0,
@@ -3245,7 +3245,7 @@
       "starred": false,
       "publishOn": 1745244285959,
       "addedOn": 1643206965705,
-      "updatedOn": 1787975490746,
+      "updatedOn": 1790855401825,
       "categories": [
         "Thomas Fougeirol"
       ],
@@ -3277,7 +3277,7 @@
         "source": 3
       },
       "tags": [
-        "Art Brussels 2025"
+        "Exhibition: Art Brussels 2025"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Acrylic and mixed media on canvas</span></p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">50 x 35 cm. / 19 × 13 in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">HH-2501</p>",
       "displayIndex": 0,
@@ -3285,7 +3285,7 @@
       "starred": true,
       "publishOn": 1745244045040,
       "addedOn": 1643206965705,
-      "updatedOn": 1787975489324,
+      "updatedOn": 1790855401799,
       "categories": [
         "Huang Hankang"
       ],
@@ -3317,7 +3317,7 @@
         "source": 3
       },
       "tags": [
-        "Art Monte-Carlo 2025"
+        "Exhibition: Art Monte-Carlo 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">145 × 100 cm. / 57 × 39 ¼ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MG-2503</p>",
       "displayIndex": 0,
@@ -3325,7 +3325,7 @@
       "starred": false,
       "publishOn": 1751373530990,
       "addedOn": 1643206965705,
-      "updatedOn": 1790603398301,
+      "updatedOn": 1790855419152,
       "categories": [
         "Mathis Gasser"
       ],
@@ -3812,7 +3812,7 @@
         "source": 3
       },
       "tags": [
-        "Art Brussels 2025"
+        "Exhibition: Art Brussels 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">180 x 125 cm. / 70 ¼ x 49 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MG-2501</p>",
       "displayIndex": 0,
@@ -3820,7 +3820,7 @@
       "starred": true,
       "publishOn": 1745243614611,
       "addedOn": 1643206965705,
-      "updatedOn": 1787944874143,
+      "updatedOn": 1790855401870,
       "categories": [
         "Mathis Gasser"
       ],
@@ -3847,7 +3847,7 @@
       "urlId": "e4dnbabpbc5tlyr-rxr9s-s9mla-ajtd2-lbyam-7zes3-cnlk4-srg3e-j5zs9-64sc2-3rs64-nplyp-tnsn2-4jk7w-drbll",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/3942117d-ed0d-417d-8a22-cd1f485bd65a/Mathis-Gasser-Heroes-Ghosts-54.jpg",
       "tags": [
-        "artgenève 2025"
+        "Exhibition: Art Genève 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2017-2018</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">44 x 30 cm. / 17 ¼ x 11 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MG-1703</p>",
       "displayIndex": 0,
@@ -3855,7 +3855,7 @@
       "starred": false,
       "publishOn": 1737379817802,
       "addedOn": 1643206965705,
-      "updatedOn": 1787944874072,
+      "updatedOn": 1790855871660,
       "categories": [
         "Mathis Gasser"
       ],
@@ -3892,7 +3892,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2025"
+        "Exhibition: Art Genève 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2022</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">44 x 30 cm. / 17 ¼ x 11 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MG-2202</p>",
       "displayIndex": 0,
@@ -3900,7 +3900,7 @@
       "starred": false,
       "publishOn": 1737379757543,
       "addedOn": 1643206965705,
-      "updatedOn": 1787944873741,
+      "updatedOn": 1790855871786,
       "categories": [
         "Mathis Gasser"
       ],
@@ -3927,7 +3927,7 @@
       "urlId": "e4dnbabpbc5tlyr-rxr9s-s9mla-ajtd2-lbyam-7zes3-cnlk4-srg3e-j5zs9-64sc2-3rs64-nplyp-tnsn2",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/ce58de40-6e2e-47a4-a178-32672ff52b14/Mathis-Gasser-Heroes-Ghosts-155.jpg",
       "tags": [
-        "artgenève 2025"
+        "Exhibition: Art Genève 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2017-2018</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">44 x 30 cm. / 17 ¼ x 11 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MG-1709</p>",
       "displayIndex": 0,
@@ -3935,7 +3935,7 @@
       "starred": false,
       "publishOn": 1737379167435,
       "addedOn": 1643206965705,
-      "updatedOn": 1787944871561,
+      "updatedOn": 1790855871694,
       "categories": [
         "Mathis Gasser"
       ],
@@ -3972,7 +3972,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2025"
+        "Exhibition: Art Genève 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2023-2024</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">44 x 30 cm. / 17 ¼ x 11 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MG-2303</p>",
       "displayIndex": 0,
@@ -3980,7 +3980,7 @@
       "starred": false,
       "publishOn": 1737378947248,
       "addedOn": 1643206965705,
-      "updatedOn": 1787944870786,
+      "updatedOn": 1790855871762,
       "categories": [
         "Mathis Gasser"
       ],
@@ -4190,7 +4190,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2025"
+        "Exhibition: Art Genève 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2017-2018</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">44 x 30 cm. / 17 ¼ x 11 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MG-1702</p>",
       "displayIndex": 0,
@@ -4198,7 +4198,7 @@
       "starred": false,
       "publishOn": 1737373572382,
       "addedOn": 1643206965705,
-      "updatedOn": 1787944856450,
+      "updatedOn": 1790855871742,
       "categories": [
         "Mathis Gasser"
       ],
@@ -4230,7 +4230,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2025"
+        "Exhibition: Art Genève 2025"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2017-2018</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">44 x 30 cm. / 17 ¼ x 11 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MG-1702</p>",
       "displayIndex": 0,
@@ -4238,7 +4238,7 @@
       "starred": false,
       "publishOn": 1737373439706,
       "addedOn": 1643206965705,
-      "updatedOn": 1787944856208,
+      "updatedOn": 1790855871722,
       "categories": [
         "Mathis Gasser"
       ],
@@ -6123,7 +6123,7 @@
         "source": 3
       },
       "tags": [
-        "ArtBrussels 2024"
+        "Exhibition: Art Brussels 2024"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2024</p><p style=\"white-space:pre-wrap;\">Oil on wood </p><p style=\"white-space:pre-wrap;\">59 x 60 cm / 23 ¼ x 23 ½ x 2 in.</p><p style=\"white-space:pre-wrap;\">NGM-2401</p>",
       "displayIndex": 0,
@@ -6131,7 +6131,7 @@
       "starred": false,
       "publishOn": 1713448304666,
       "addedOn": 1643206965705,
-      "updatedOn": 1787885258142,
+      "updatedOn": 1790855450593,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -6204,7 +6204,7 @@
       },
       "tags": [
         "Echo",
-        "ArtBrussels 2024"
+        "Exhibition: Art Brussels 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Black Stoneware</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">49 x 40 x 40 cm.</span></p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">19 ¼ x 15 ¾ x 15 ¾ in.</span></p><p class=\"\" style=\"white-space:pre-wrap;\">HC-2306</p>",
       "displayIndex": 0,
@@ -6212,7 +6212,7 @@
       "starred": true,
       "publishOn": 1713440595629,
       "addedOn": 1643206965705,
-      "updatedOn": 1787885243434,
+      "updatedOn": 1790855450571,
       "categories": [
         "Han-Chiao"
       ],
@@ -6293,7 +6293,7 @@
         "source": 3
       },
       "tags": [
-        "ArtBrussels 2024"
+        "Exhibition: Art Brussels 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">40.3 x 32.2 x 3 cm.</span> / <span style=\"color: rgb(0, 0, 0)\">15 ¾ x 12 ¾ x 1 ¼ in.</span></p><p class=\"\" style=\"white-space:pre-wrap;\">SWK-2402</p>",
       "displayIndex": 0,
@@ -6301,7 +6301,7 @@
       "starred": false,
       "publishOn": 1713440276936,
       "addedOn": 1643206965705,
-      "updatedOn": 1787885242969,
+      "updatedOn": 1790855450620,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -6977,7 +6977,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-rmtge-sllpb-y9hxj-psc7j-zrgya-45p2c-xhk3z-sy2fj-9nhw6-7xsml",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1707393901029-O4KL4DMJ6G5L7BSV6TWP/HD_Waiting+for+the+Thunder%2C+Lian+Zhang%2C+2023.+Oil+on+canvas%2C+180+x+130+cm+%2870+%C2%BE+x+51+%C2%BC+in.jpg",
       "tags": [
-        "ArtBrussels 2024"
+        "Exhibition: Art Brussels 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\"> 180 x 130 cm. / 70 ¾ x 51 ¼ in.</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">(LZ-2310)</span></p>",
       "displayIndex": 0,
@@ -6985,7 +6985,7 @@
       "starred": true,
       "publishOn": 1713448364109,
       "addedOn": 1643206965705,
-      "updatedOn": 1787873754350,
+      "updatedOn": 1790855450659,
       "categories": [
         "Lian Zhang"
       ],
@@ -7093,7 +7093,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-gakba-kmgl9-6gs23-55g9s-b74gp-r5bbn-39r7y-yhzc8-rgegz-6tdk4-689k3-ds8xs-hsbnw-x4pwc-m5zza-sk7tl-lr9zr-w5xed",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1706786372025-RJ5N7W5GIPZ8GGRJ7358/HD1_Sang+Woo+Kim%2C+Absence+015%2C+2023%2C+Pigment+dye+transfer+on+canvas%2C+20+x+30+x+2+cm.%2C+7+%C2%BE+x+11+%C2%BE+x+%C2%BE+in+%28SWK-2308%29.jpg",
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Pigment dye transfer on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\">21 x 31 x 3 cm. / 8 ¼ x 12 ¼ x 1 ¼ in.</p><p class=\"\" style=\"white-space:pre-wrap;\">SWK-2308</p>",
       "displayIndex": 0,
@@ -7101,7 +7101,7 @@
       "starred": false,
       "publishOn": 1706786437318,
       "addedOn": 1643206965705,
-      "updatedOn": 1787872563505,
+      "updatedOn": 1790855863693,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -7133,7 +7133,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-gakba-kmgl9-6gs23-55g9s-b74gp-r5bbn-39r7y-yhzc8-rgegz-6tdk4-689k3-ds8xs-hsbnw-x4pwc-m5zza-cdxyp-2clpk",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1706786063161-YB9HCIIC0LMJRHZY1SFG/HD1_Sang+Woo+Kim%2C+The+Corner+002%2C+2023%2C+Oil+on+canvas%2C+31+x+21+x+3+cm.%2C+12+%C2%BC+x+8+%C2%BC+x+1+%C2%BC+in.%28SWK-2305%29+copie.jpg",
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2023</p><p style=\"white-space:pre-wrap;\">Oil on canvas</p><p style=\"white-space:pre-wrap;\">31 x 21 x 3 cm. / 12 ¼ x 8 ¼ x 1 ¼ in.</p><p style=\"white-space:pre-wrap;\">SWK-2305</p>",
       "displayIndex": 0,
@@ -7141,7 +7141,7 @@
       "starred": false,
       "publishOn": 1706786210372,
       "addedOn": 1643206965705,
-      "updatedOn": 1789978971539,
+      "updatedOn": 1790855863674,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -7178,7 +7178,7 @@
         "source": 3
       },
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2009</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">27.9 x 35.6 cm / 11 x 14 in. </p><p class=\"\" style=\"white-space:pre-wrap;\">JA-0901</p>",
       "displayIndex": 0,
@@ -7186,7 +7186,7 @@
       "starred": false,
       "publishOn": 1705574182693,
       "addedOn": 1643206965705,
-      "updatedOn": 1787870338403,
+      "updatedOn": 1790855863727,
       "categories": [
         "Joe Andoe"
       ],
@@ -7219,7 +7219,7 @@
       },
       "tags": [
         "Landscapes With Flowers",
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\"> 28 x 36 cm / 11 x 14 in. </p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">MH-2309</span></p>",
       "displayIndex": 0,
@@ -7227,7 +7227,7 @@
       "starred": true,
       "publishOn": 1705573997771,
       "addedOn": 1643206965705,
-      "updatedOn": 1787870338091,
+      "updatedOn": 1790855863607,
       "categories": [
         "Michael Hilsman"
       ],
@@ -7259,7 +7259,7 @@
         "source": 3
       },
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\">45.5 x 31.5 x 3 cm.. / 18 x 12 ½ x 1 ¼ in.</p><p class=\"\" style=\"white-space:pre-wrap;\">SWK-2304</p>",
       "displayIndex": 0,
@@ -7267,7 +7267,7 @@
       "starred": false,
       "publishOn": 1706786002495,
       "addedOn": 1643206965705,
-      "updatedOn": 1787870337615,
+      "updatedOn": 1790855863745,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -7299,7 +7299,7 @@
         "source": 3
       },
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2023</p><p style=\"white-space:pre-wrap;\">Pigment dye transfer on canvas</p><p style=\"white-space:pre-wrap;\">21 x 31 x 3 cm. (each) / 8 ¼ x 12 ¼ x 1 ¼ in. (each)</p><p style=\"white-space:pre-wrap;\">SWK-2307</p>",
       "displayIndex": 0,
@@ -7307,7 +7307,7 @@
       "starred": false,
       "publishOn": 1705573221813,
       "addedOn": 1643206965705,
-      "updatedOn": 1789978985041,
+      "updatedOn": 1790855863762,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -7447,7 +7447,7 @@
       "urlId": "when-you-cant-be-a-hero-always-have-the-last-word-adam-ca6cn-y9t9x-tfgxs-aakje-2bhmd-2e5bs-ybxlw-7mpxn-zjsy8-jxx7b-s2szw-p8ccl-yje8l",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1705572400352-YLPTHF8QLPZQZ7OHM2DZ/LHD_Chloe+Wise%2C+Orange+Grey+With+Nuts%2C+Corn%2C+Can%2C+Screw%2C+2023%2C+Oil+on+linen%2C+121.9+x+91.4+cm.%2C+48+x+36+in.+%28ChW-2301%29.jpg",
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">121.9 x 91.4 cm / 48 x 36 in.</p><p class=\"\" style=\"white-space:pre-wrap;\"> ChW-2301</p>",
       "displayIndex": 0,
@@ -7455,7 +7455,7 @@
       "starred": true,
       "publishOn": 1705572485952,
       "addedOn": 1645096956383,
-      "updatedOn": 1787870336942,
+      "updatedOn": 1790855863591,
       "categories": [
         "Chloe Wise"
       ],
@@ -7550,7 +7550,7 @@
         "source": 3
       },
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Acrylic on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">200.7 x 177.8 cm. / 79 x 70 in.</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">(TB-2305)</span></p>",
       "displayIndex": 0,
@@ -7558,7 +7558,7 @@
       "starred": true,
       "publishOn": 1704819726371,
       "addedOn": 1643206965705,
-      "updatedOn": 1787868970735,
+      "updatedOn": 1790855863710,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -7679,7 +7679,7 @@
         "source": 3
       },
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\">70 x 50 cm. / 27 ½ x 19 ¾ in.</p><p class=\"\" style=\"white-space:pre-wrap;\">(<span style=\"color: rgb(0, 0, 0)\">LZ-2308</span>)</p>",
       "displayIndex": 0,
@@ -7687,7 +7687,7 @@
       "starred": true,
       "publishOn": 1704818662791,
       "addedOn": 1643206965705,
-      "updatedOn": 1787868966914,
+      "updatedOn": 1790855863641,
       "categories": [
         "Lian Zhang"
       ],
@@ -7756,7 +7756,7 @@
         "source": 3
       },
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2022</p><p class=\"\" style=\"white-space:pre-wrap;\">Acrylic on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\">121.9 x 121.9 cm. / (48 x 48 in.)</p>",
       "displayIndex": 0,
@@ -7764,7 +7764,7 @@
       "starred": false,
       "publishOn": 1704816595326,
       "addedOn": 1643206965705,
-      "updatedOn": 1787868961027,
+      "updatedOn": 1790855863658,
       "categories": [
         "Walter Robinson"
       ],
@@ -7992,7 +7992,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-gakba-kmgl9-6gs23-55g9s-b74gp-r5bbn-39r7y-yhzc8-rgegz-6tdk4-689k3-ds8xs-hsbnw-x4pwc-m5zza-sk7tl",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1706786499212-P46BDJL43RLEOCMKRLKR/HD1_Sang+Woo+Kim%2C+Ways+of+Seeing%2C+2022%2C+Pigment+dye+transfer+on+canvas%2C+103.5+x+30.7+x+3+cm.%2C+40+%C2%BE+x+12+x+1+%C2%BC+in.+%28SWK-2201%29+copie.jpg",
       "tags": [
-        "Artgenève 2024"
+        "Exhibition: Art Genève 2024"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\">2022</p><p style=\"white-space:pre-wrap;\">Pigment dye transfer on canvas</p><p style=\"white-space:pre-wrap;\">103.5 x 30.7 x 3 cm. / 40 &frac34; x 12 x 1 &frac14; in.</p><p style=\"white-space:pre-wrap;\">SWK-2201</p>",
       "displayIndex": 0,
@@ -8000,7 +8000,7 @@
       "starred": true,
       "publishOn": 1705573053948,
       "addedOn": 1643206965705,
-      "updatedOn": 1787857884996,
+      "updatedOn": 1790855863624,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -9061,7 +9061,7 @@
         "source": 3
       },
       "tags": [
-        "ArtBrussels2023"
+        "Exhibition: Art Brussels 2023"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">40.6 x 26.7 cm / 16 x <span style=\"color: rgb(0, 0, 0)\">10 ½</span> in.</p>",
       "displayIndex": 0,
@@ -9069,7 +9069,7 @@
       "starred": false,
       "publishOn": 1681303992385,
       "addedOn": 1643206965705,
-      "updatedOn": 1787834817498,
+      "updatedOn": 1790855466687,
       "categories": [
         "Tali Lennox"
       ],
@@ -9101,7 +9101,7 @@
         "source": 3
       },
       "tags": [
-        "ArtBrussels2023"
+        "Exhibition: Art Brussels 2023"
       ],
       "excerpt": "<p class=\"\">2023</p><p class=\"\">Oil on linen</p><p class=\"\">35.6 x 27.9 cm<br>14 x 11 in</p>",
       "displayIndex": 0,
@@ -9109,7 +9109,7 @@
       "starred": true,
       "publishOn": 1681304049346,
       "addedOn": 1643206965705,
-      "updatedOn": 1787834816728,
+      "updatedOn": 1790855466723,
       "categories": [
         "Michael Hilsman"
       ],
@@ -10092,7 +10092,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2023"
+        "Exhibition: Art Genève 2023"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on linen</p><p class=\"\">152.4 x 121.9 cm / 60 x 48 in.</p>",
       "displayIndex": 0,
@@ -10100,7 +10100,7 @@
       "starred": true,
       "publishOn": 1673957081256,
       "addedOn": 1645096956383,
-      "updatedOn": 1787826138968,
+      "updatedOn": 1790855854240,
       "categories": [
         "Chloe Wise"
       ],
@@ -10132,7 +10132,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2023"
+        "Exhibition: Art Genève 2023"
       ],
       "excerpt": "<p class=\"\">2023</p><p class=\"\">Oil on linen</p><p class=\"\">27.9 x 35.6 cm<br>11 x 14 in</p>",
       "displayIndex": 0,
@@ -10140,7 +10140,7 @@
       "starred": true,
       "publishOn": 1673350394752,
       "addedOn": 1643206965705,
-      "updatedOn": 1787825495521,
+      "updatedOn": 1790855854216,
       "categories": [
         "Michael Hilsman"
       ],
@@ -10167,7 +10167,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-j3wpb-ffc9r",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1673955485717-1ZTG48JH71GT4I73UBYB/WEB_Indy-Grab-to-Yard-Sale%2C-Todd-Bienvenu%2C-2022.-Oil-and-canvas.-266.7-x-213%2C4-cm-%28105-x-84-in%29.jpg",
       "tags": [
-        "artgenève 2023"
+        "Exhibition: Art Genève 2023"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on canvas</p><p class=\"\">266.7 x 213.4 cm / 105 x 84 in.</p>",
       "displayIndex": 0,
@@ -10175,7 +10175,7 @@
       "starred": false,
       "publishOn": 1673350433431,
       "addedOn": 1643206965705,
-      "updatedOn": 1787825495470,
+      "updatedOn": 1790855854155,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -10230,7 +10230,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2023"
+        "Exhibition: Art Genève 2023"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on canvas</p><p class=\"\">130 x 170 cm / 51 ¼ x 67 in.</p>",
       "displayIndex": 0,
@@ -10238,7 +10238,7 @@
       "starred": false,
       "publishOn": 1673349944748,
       "addedOn": 1643206965705,
-      "updatedOn": 1787825495305,
+      "updatedOn": 1790855854198,
       "categories": [
         "Lian Zhang"
       ],
@@ -10265,7 +10265,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-gakba-kmgl9-6gs23-55g9s-b74gp-r5bbn-39r7y-yhzc8-rgegz-6tdk4-689k3-ds8xs-hsbnw-x4f5l-cx4jf",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1670517268232-P6AAJ4QUUI28I6CL4UJF/WEB_The-Setting-Sun%2C-Lian-Zhang%2C-2022.-Oil-on-canvas%2C-80-x-60-cm-%2831%2C4-x-23%2C6-in.%29.jpg",
       "tags": [
-        "Art Antwerp 2022"
+        "Exhibition: Art Antwerp 2022"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on canvas</p><p class=\"\">80 x 60 cm / 31,4 x 23,6 in.</p>",
       "displayIndex": 0,
@@ -10273,7 +10273,7 @@
       "starred": false,
       "publishOn": 1670517358588,
       "addedOn": 1643206965705,
-      "updatedOn": 1787823070420,
+      "updatedOn": 1790855351860,
       "categories": [
         "Lian Zhang"
       ],
@@ -10322,7 +10322,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-j3wpb",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1670516732678-ZX3MCALXYTKQAG30NX5F/WEB_Bushwick-View%2C-Todd-Bienvenu%2C-2022%2C-Oil-on-canvas%2C-203-x-232-cm---79-x-91-in..jpg",
       "tags": [
-        "Art Antwerp 2022"
+        "Exhibition: Art Antwerp 2022"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on canvas</p><p class=\"\">203 x 232 cm / 79 x 91 in.</p>",
       "displayIndex": 0,
@@ -10330,7 +10330,7 @@
       "starred": false,
       "publishOn": 1670516806017,
       "addedOn": 1643206965705,
-      "updatedOn": 1787823069378,
+      "updatedOn": 1790855351821,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -10404,7 +10404,7 @@
         "source": 3
       },
       "tags": [
-        "Art Antwerp 2022"
+        "Exhibition: Art Antwerp 2022"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Oil on linen</p><p class=\"\">35,6 × 27,9 cm  / 14 × 11 in.</p>",
       "displayIndex": 0,
@@ -10412,7 +10412,7 @@
       "starred": true,
       "publishOn": 1669908861727,
       "addedOn": 1643206965705,
-      "updatedOn": 1787822347489,
+      "updatedOn": 1790855351898,
       "categories": [
         "Michael Hilsman"
       ],
@@ -10881,7 +10881,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2023"
+        "Exhibition: Art Genève 2023"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2021</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Acrylic on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">182,9 x 121,9 / (72 x 48 in.)</p>",
       "displayIndex": 0,
@@ -10889,7 +10889,7 @@
       "starred": false,
       "publishOn": 1673350523646,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820516479,
+      "updatedOn": 1790855854263,
       "categories": [
         "Walter Robinson"
       ],
@@ -10996,7 +10996,7 @@
       "urlId": "the-bather-t3mmh-z73sb-7a39c-sfdp6",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1670518037138-XD1V2XVNH3XD2MZMJR4X/WEB2_Empty+Space%2C+Aks+Misyuta%2C+2022.+Acrylic+on+canvas%2C+190+x+120+cm+%2874%2C8+x+47%2C2+in%29.jpg",
       "tags": [
-        "Art Antwerp 2022"
+        "Exhibition: Art Antwerp 2022"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Acrylic on canvas</p><p class=\"\">190 x 120 cm</p><p class=\"\">74,8 x 47,2 in.</p>",
       "displayIndex": 0,
@@ -11004,7 +11004,7 @@
       "starred": false,
       "publishOn": 1669908839223,
       "addedOn": 1643391333236,
-      "updatedOn": 1787818363220,
+      "updatedOn": 1790855351878,
       "categories": [
         "Aks Misyuta"
       ],
@@ -11036,7 +11036,7 @@
       "urlId": "d737mwj4bl9s7e2-plzyb-3lg7e-xh93z-5bcpm-cxhpz-2y4ch-ag82t-dxr2l",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1677498713123-Q15RJ6O6PKBF6WD6K9BI/WEB_Puzzled%2C+Aks+Misyuta%2C+2022%2C+Acrylic+on+canvas%2C+190+x+150+%3A+75+x+59+in..jpg",
       "tags": [
-        "ArtBrussels2023"
+        "Exhibition: Art Brussels 2023"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Acrylic on canvas</p><p class=\"\">190 × 150 cm / 75 × 59 in.</p>",
       "displayIndex": 0,
@@ -11044,7 +11044,7 @@
       "starred": false,
       "publishOn": 1681304098476,
       "addedOn": 1643206965705,
-      "updatedOn": 1787818359644,
+      "updatedOn": 1790855466663,
       "categories": [
         "Aks Misyuta"
       ],
@@ -11198,7 +11198,7 @@
       },
       "tags": [
         "Artissima 2022",
-        "artgenève 2023"
+        "Exhibition: Art Genève 2023"
       ],
       "excerpt": "<p class=\"\">2019</p><p class=\"\">Oil on aluminium</p><p class=\"\">86,5 x 61 cm / 34 x 24 in.</p>",
       "displayIndex": 0,
@@ -11206,7 +11206,7 @@
       "starred": false,
       "publishOn": 1673955943980,
       "addedOn": 1643206965705,
-      "updatedOn": 1787818352505,
+      "updatedOn": 1790855854137,
       "categories": [
         "Joe Andoe"
       ],
@@ -12861,7 +12861,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2015"
+        "Exhibition: Art Genève 2015"
       ],
       "excerpt": "<p class=\"\">2014</p><p class=\"\">Oil on linen</p><p class=\"\">110 × 110 cm / 43,3 × 43,3 in.</p><p class=\"\">©Cynthia Westwood</p>",
       "displayIndex": 0,
@@ -12869,7 +12869,7 @@
       "starred": true,
       "publishOn": 1656685857134,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808975872,
+      "updatedOn": 1790855540174,
       "categories": [
         "Cynthia Westwood"
       ],
@@ -12901,7 +12901,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\">2015</p><p class=\"\">Acrylic on cotton polyester bed sheet fragment</p><p class=\"\">94 × 137 cm / 37 × 54 in.</p>",
       "displayIndex": 0,
@@ -12909,7 +12909,7 @@
       "starred": false,
       "publishOn": 1656606587761,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808900119,
+      "updatedOn": 1790855796237,
       "categories": [
         "Max Maslansky"
       ],
@@ -12941,7 +12941,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2015</p><p class=\"\" style=\"white-space:pre-wrap;\">Wood, neon light, color pigment</p><p class=\"\" style=\"white-space:pre-wrap;\">125 × 135 × 8 cm / 49,2 × 53,1 × 3,2 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -12949,7 +12949,7 @@
       "starred": false,
       "publishOn": 1656606439571,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808899754,
+      "updatedOn": 1790855796206,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -12981,7 +12981,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\">2010</p><p class=\"\">Bronze</p><p class=\"\">65 × 75 × 35 cm / 25,5 × 29,5 × 13,7 in. </p>",
       "displayIndex": 0,
@@ -12989,7 +12989,7 @@
       "starred": false,
       "publishOn": 1656606183967,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808899524,
+      "updatedOn": 1790855796377,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -13021,7 +13021,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\">2010</p><p class=\"\">Acrylic on canvas</p><p class=\"\">178 × 127 cm / 70 × 50 in. </p>",
       "displayIndex": 0,
@@ -13029,7 +13029,7 @@
       "starred": false,
       "publishOn": 1656606057336,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808899386,
+      "updatedOn": 1790855796183,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -13061,7 +13061,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Oil on canvas</p><p class=\"\">Ø 80 cm / Ø 31,5 in.</p>",
       "displayIndex": 0,
@@ -13069,7 +13069,7 @@
       "starred": false,
       "publishOn": 1656605892156,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808899217,
+      "updatedOn": 1790855796258,
       "categories": [
         "Chloe Wise"
       ],
@@ -13096,7 +13096,7 @@
       "urlId": "when-you-cant-be-a-hero-always-have-the-last-word-adam-ca6cn-y9t9x-tfgxs-aakje-2bhmd-nhnr4-368dl-nr3cx-fyjgj",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1659338158847-GWP3JTH4C83VMTH7RYD8/WEB_Annik-Wetter_51415.jpg",
       "tags": [
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Oil on canvas</p><p class=\"\">140 × 100 cm / 55 × 39,3 in.</p>",
       "displayIndex": 0,
@@ -13104,7 +13104,7 @@
       "starred": true,
       "publishOn": 1656605780042,
       "addedOn": 1645096956383,
-      "updatedOn": 1787808899030,
+      "updatedOn": 1790855796163,
       "categories": [
         "Chloe Wise"
       ],
@@ -13150,7 +13150,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\">2015</p><p class=\"\">Acrylic on canvas</p><p class=\"\">101 × 76 cm / 40 × 30 in.</p>",
       "displayIndex": 0,
@@ -13158,7 +13158,7 @@
       "starred": false,
       "publishOn": 1656605651470,
       "addedOn": 1645096956383,
-      "updatedOn": 1787808898859,
+      "updatedOn": 1790855796353,
       "categories": [
         "Chloe Wise"
       ],
@@ -13190,7 +13190,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\">2015</p><p class=\"\">Oil, urethane, milk cartons, wax, wood plinth</p><p class=\"\">117 × 30 × 30 cm / 46 × 11,8 × 11,8 in.</p>",
       "displayIndex": 0,
@@ -13198,7 +13198,7 @@
       "starred": false,
       "publishOn": 1656605542807,
       "addedOn": 1645096956383,
-      "updatedOn": 1787808898532,
+      "updatedOn": 1790855796328,
       "categories": [
         "Chloe Wise"
       ],
@@ -14360,7 +14360,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2018"
+        "Exhibition: Art Genève 2018"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Oil on canvas</p><p class=\"\">193 × 170 cm / 76 × 67 in.</p>",
       "displayIndex": 0,
@@ -14368,7 +14368,7 @@
       "starred": false,
       "publishOn": 1656411439011,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808699093,
+      "updatedOn": 1790855817555,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -14477,7 +14477,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2018"
+        "Exhibition: Art Genève 2018"
       ],
       "excerpt": "<p class=\"\">2012</p><p class=\"\">Acrylic on paper</p><p class=\"\">22,8 × 15 cm / 9 × 6 in.</p>",
       "displayIndex": 0,
@@ -14485,7 +14485,7 @@
       "starred": false,
       "publishOn": 1656411164761,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808698910,
+      "updatedOn": 1790855817580,
       "categories": [
         "Walter Robinson"
       ],
@@ -14517,7 +14517,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2018"
+        "Exhibition: Art Genève 2018"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Oil on canvas</p><p class=\"\">137 x 162 cm / 54 x 64 in.</p>",
       "displayIndex": 0,
@@ -14525,7 +14525,7 @@
       "starred": false,
       "publishOn": 1656410868205,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808698679,
+      "updatedOn": 1790855817534,
       "categories": [
         "Joe Andoe"
       ],
@@ -14758,7 +14758,7 @@
       },
       "tags": [
         "New Pictures",
-        "artgenève 2018"
+        "Exhibition: Art Genève 2018"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">Oil on linen</p><p class=\"\">243,6 × 162,5 cm / 96 × 64 in.</p>",
       "displayIndex": 0,
@@ -14766,7 +14766,7 @@
       "starred": false,
       "publishOn": 1656409886592,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808697961,
+      "updatedOn": 1790855817498,
       "categories": [
         "Michael Hilsman"
       ],
@@ -14897,7 +14897,7 @@
       },
       "tags": [
         "New Pictures",
-        "artgenève 2018"
+        "Exhibition: Art Genève 2018"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Oil on linen</p><p class=\"\">25,4 × 20,3 cm / 10 × 8 in.</p>",
       "displayIndex": 0,
@@ -14905,7 +14905,7 @@
       "starred": false,
       "publishOn": 1656409703846,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808697863,
+      "updatedOn": 1790855817517,
       "categories": [
         "Michael Hilsman"
       ],
@@ -15573,7 +15573,7 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656343060848-DNAXW1X4EAL5Z63LZWAJ/WEB2_Just-Like-Starting-Over-Again%2C-Yarisal-%26-Kublitz%2C-2017.-Fabric%2C-acrylic-glass%2C-painted-steel%2C-brass.-Variable-dimensions%2C-Flag-180-x-95-cm-%2870.8-x-37.4-in%29.-Ed.3-%2B-1-ap.-credit.ANNIK.WETTER.jpg",
       "tags": [
         "Dallas Art Fair 2017",
-        "artgenève 2017"
+        "Exhibition: Art Genève 2017"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2017</p><p class=\"\" style=\"white-space:pre-wrap;\">Fabric, acrylic glass, painted steel, brass</p><p class=\"\" style=\"white-space:pre-wrap;\">Variable dimensions, Flag 180 × 95 cm / 70.8 × 37.4 in</p><p class=\"\" style=\"white-space:pre-wrap;\">Ed.3 + 1 ap.</p>",
       "displayIndex": 0,
@@ -15581,7 +15581,7 @@
       "starred": false,
       "publishOn": 1656343164712,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808627783,
+      "updatedOn": 1790855808238,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -16628,7 +16628,7 @@
       },
       "tags": [
         "Artissima 2018",
-        "artgenève 2019"
+        "Exhibition: Art Genève 2019"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic on paper</p><p class=\"\">98 × 73,5 cm / 38,5 × 29 in.</p>",
       "displayIndex": 0,
@@ -16636,7 +16636,7 @@
       "starred": true,
       "publishOn": 1656339401264,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808624044,
+      "updatedOn": 1790855827552,
       "categories": [
         "Walter Robinson"
       ],
@@ -16668,7 +16668,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2019"
+        "Exhibition: Art Genève 2019"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Oil on linen</p><p class=\"\">137 x 162 cm / 54 x 64 in.</p><p class=\"\">©Joe Andoe</p>",
       "displayIndex": 0,
@@ -16676,7 +16676,7 @@
       "starred": false,
       "publishOn": 1656339227738,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808623821,
+      "updatedOn": 1790855827621,
       "categories": [
         "Joe Andoe"
       ],
@@ -16750,7 +16750,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2019"
+        "Exhibition: Art Genève 2019"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Oil on canvas</p><p class=\"\">66 × 50 cm / 26 × 20 in.</p>",
       "displayIndex": 0,
@@ -16758,7 +16758,7 @@
       "starred": false,
       "publishOn": 1656338961343,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808623616,
+      "updatedOn": 1790855827496,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -16790,7 +16790,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2019"
+        "Exhibition: Art Genève 2019"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Acrylic on canvas</p><p class=\"\">213,5 × 244 cm / 84 × 96 in.</p>",
       "displayIndex": 0,
@@ -16798,7 +16798,7 @@
       "starred": false,
       "publishOn": 1656338803718,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808623389,
+      "updatedOn": 1790855827535,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -17451,8 +17451,8 @@
       },
       "tags": [
         "Still Life: An Ongoing Story",
-        "artgenève 2017",
-        "Romance"
+        "Romance",
+        "Exhibition: Art Genève 2017"
       ],
       "excerpt": "<p class=\"\">1984</p><p class=\"\">Acrylic on linen</p><p class=\"\">152,4 × 91,4 cm / 60 × 36 in.</p>",
       "displayIndex": 0,
@@ -17460,7 +17460,7 @@
       "starred": true,
       "publishOn": 1656335621186,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808620653,
+      "updatedOn": 1790855808331,
       "categories": [
         "Walter Robinson"
       ],
@@ -17894,7 +17894,7 @@
       },
       "tags": [
         "Dive",
-        "artgenève 2017"
+        "Exhibition: Art Genève 2017"
       ],
       "excerpt": "<p class=\"\">2014</p><p class=\"\">Oil on linen</p><p class=\"\">129,5 × 112 cm / 51 × 44 in.</p>",
       "displayIndex": 0,
@@ -17902,7 +17902,7 @@
       "starred": false,
       "publishOn": 1656333786266,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808619344,
+      "updatedOn": 1790855808314,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -18354,7 +18354,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2020"
+        "Exhibition: Art Genève 2020"
       ],
       "excerpt": "<p class=\"\">2019</p><p class=\"\">Oil on canvas</p><p class=\"\">101,6 × 76,2 cm / 40 × 30 in.</p>",
       "displayIndex": 0,
@@ -18362,7 +18362,7 @@
       "starred": true,
       "publishOn": 1656088567336,
       "addedOn": 1645096956383,
-      "updatedOn": 1787808453476,
+      "updatedOn": 1790855836979,
       "categories": [
         "Chloe Wise"
       ],
@@ -18394,7 +18394,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2020"
+        "Exhibition: Art Genève 2020"
       ],
       "excerpt": "<p class=\"\">2019</p><p class=\"\">Acrylic on canvas</p><p class=\"\">122 × 91,4 cm / 48 × 36 in.</p>",
       "displayIndex": 0,
@@ -18402,7 +18402,7 @@
       "starred": false,
       "publishOn": 1656088366597,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808453276,
+      "updatedOn": 1790855836936,
       "categories": [
         "Walter Robinson"
       ],
@@ -18434,7 +18434,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2020"
+        "Exhibition: Art Genève 2020"
       ],
       "excerpt": "<p class=\"\">2019</p><p class=\"\">Acrylic on canvas</p><p class=\"\">50 × 60 cm / 20 × 24 in.</p>",
       "displayIndex": 0,
@@ -18442,7 +18442,7 @@
       "starred": false,
       "publishOn": 1656088116434,
       "addedOn": 1643391333236,
-      "updatedOn": 1787808453014,
+      "updatedOn": 1790855836957,
       "categories": [
         "Aks Misyuta"
       ],
@@ -18474,7 +18474,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2020"
+        "Exhibition: Art Genève 2020"
       ],
       "excerpt": "<p class=\"\">2019</p><p class=\"\">Acrylic on canvas</p><p class=\"\">213,3 × 243,8 cm / 84 × 96 in.</p>",
       "displayIndex": 0,
@@ -18482,7 +18482,7 @@
       "starred": true,
       "publishOn": 1656087924319,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808452903,
+      "updatedOn": 1790855836911,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -18514,7 +18514,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2020"
+        "Exhibition: Art Genève 2020"
       ],
       "excerpt": "<p class=\"\">2019</p><p class=\"\">Oil on canvas</p><p class=\"\">61 × 53,3 cm / 24 × 21 in.</p><p class=\"\">©Todd Bienvenu</p>",
       "displayIndex": 0,
@@ -18522,7 +18522,7 @@
       "starred": false,
       "publishOn": 1656087821233,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808452699,
+      "updatedOn": 1790855836888,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -19273,7 +19273,7 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1656079705004-Z95CLR5215474TJZHN9Q/WEB_%2BA-Friend-of-A-Friend-ST-2015-Ink%2C-gouache%2C-glue-and-linen-tape-on-paper-164x127-cm.jpg",
       "tags": [
         "Pilgrims",
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\">2015</p><p class=\"\">gouache, glue and linen tape on paper</p><p class=\"\">164 x 127 cm / 64.5 x 50 in.</p>",
       "displayIndex": 0,
@@ -19281,7 +19281,7 @@
       "starred": false,
       "publishOn": 1656079789424,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808443407,
+      "updatedOn": 1790855796283,
       "categories": [
         "Storm Tharp"
       ],
@@ -20471,7 +20471,7 @@
       },
       "tags": [
         "Midnight Blue",
-        "artgenève 2015"
+        "Exhibition: Art Genève 2015"
       ],
       "excerpt": "<p class=\"\">2013</p><p class=\"\">Acrylic on bed sheet</p><p class=\"\">190 × 135 cm / 74,8 × 53 in.</p>",
       "displayIndex": 0,
@@ -20479,7 +20479,7 @@
       "starred": false,
       "publishOn": 1656001832309,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808372135,
+      "updatedOn": 1790855540135,
       "categories": [
         "Max Maslansky"
       ],
@@ -20801,7 +20801,7 @@
       },
       "tags": [
         "artmonte-carlo 2021",
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">42 x 17,5 x 23 cm / 16,5 x 6,8 x 9 in.</p><p class=\"\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -20809,7 +20809,7 @@
       "starred": false,
       "publishOn": 1656000828266,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808370107,
+      "updatedOn": 1790855844594,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -21238,7 +21238,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">152 × 122 cm / 60 × 48 in.</p>",
       "displayIndex": 0,
@@ -21246,7 +21246,7 @@
       "starred": false,
       "publishOn": 1655998309308,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808365081,
+      "updatedOn": 1790855844633,
       "categories": [
         "Walter Robinson"
       ],
@@ -21273,7 +21273,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-fj7md-bdxz3",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661429695096-NNOUJT43X5MRV131N0IY/WEB_Annik-Wetter_2022-03-01_10455.jpg",
       "tags": [
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on linen</p><p class=\"\">196,5 × 223 cm / 77 × 88 in.</p>",
       "displayIndex": 0,
@@ -21281,7 +21281,7 @@
       "starred": true,
       "publishOn": 1655998082637,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808364877,
+      "updatedOn": 1790855844740,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -21327,7 +21327,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p>2021</p><p>Oil on wood</p><p>60 × 42 cm / 23,6 × 16,5 in.</p>",
       "displayIndex": 0,
@@ -21335,7 +21335,7 @@
       "starred": false,
       "publishOn": 1655997881666,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808364380,
+      "updatedOn": 1790855844556,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -21367,7 +21367,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on linen</p><p class=\"\">58,4 x 101,6 cm / 23 x 40 in.</p>",
       "displayIndex": 0,
@@ -21375,7 +21375,7 @@
       "starred": true,
       "publishOn": 1655997643023,
       "addedOn": 1643206965705,
-      "updatedOn": 1787808364061,
+      "updatedOn": 1790855844697,
       "categories": [
         "Joe Andoe"
       ],
@@ -21407,7 +21407,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on linen</p><p class=\"\">122 × 91,5 cm / 48 × 36 in.</p>",
       "displayIndex": 0,
@@ -21415,7 +21415,7 @@
       "starred": true,
       "publishOn": 1655997437036,
       "addedOn": 1645096956383,
-      "updatedOn": 1787808363776,
+      "updatedOn": 1790855844723,
       "categories": [
         "Chloe Wise"
       ],
@@ -21483,8 +21483,8 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1655204026665-ZBUV459R9MZ7DLQV334X/WEB_Self-portrait%2C-Walter-Robinson%2C-1984.-Acrylic-on-canvas.-61-x-61-cm-%2824-x-24-in%29.jpg",
       "tags": [
         "Portraiture : An Ongoing Story",
-        "artgenève 2017",
-        "Romance"
+        "Romance",
+        "Exhibition: Art Genève 2017"
       ],
       "excerpt": "<p class=\"\">1984</p><p class=\"\">Acrylic on canvas</p><p class=\"\">61 × 61 cm / 24 × 24 in.</p>",
       "displayIndex": 0,
@@ -21492,7 +21492,7 @@
       "starred": false,
       "publishOn": 1655204044149,
       "addedOn": 1643206965705,
-      "updatedOn": 1787807705916,
+      "updatedOn": 1790855808292,
       "categories": [
         "Walter Robinson"
       ],
@@ -21724,8 +21724,8 @@
       "urlId": "the-bather-t3mmh-z73sb",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1666697072324-VQKTTYO12EQ7JZZD7I6M/WEB_Storm%2C-Aks-Misyuta%2C-2022%2C-Bronze%2C-26-x-17-x-15-cm-%2810-1-4-x-6-3-4-x-6-in.%2C-Ed.-3%2B1AP-Side.jpg",
       "tags": [
-        "Art Antwerp 2022",
-        "artgenève 2023"
+        "Exhibition: Art Antwerp 2022",
+        "Exhibition: Art Genève 2023"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Bronze</p><p class=\"\">126 x 17 x 15 cm </p><p class=\"\">10 1/4 x 6 4 x 6 in</p>",
       "displayIndex": 0,
@@ -21733,7 +21733,7 @@
       "starred": false,
       "publishOn": 1669908673972,
       "addedOn": 1643391333236,
-      "updatedOn": 1787807704747,
+      "updatedOn": 1790855854173,
       "categories": [
         "Aks Misyuta"
       ],
@@ -22002,8 +22002,8 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653993817034-SX27SKQ9DDXO1HBQFD3S/WEB_Euphoria%2C-Aks-Misyuta%2C-2021.-Bronze%2C-7%2C5-x-7-x-15%2C5-cm-%282%2C9-x-2%2C7-x-6%2C1-in.%29%2C-Ed.-3%2B1AP-Front.jpg",
       "tags": [
         "In the Eye of Beauty",
-        "artgenève 2022",
-        "Artmonte-carlo 2022"
+        "Artmonte-carlo 2022",
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Bronze</p><p class=\"\">7,5 x 7 x 15,5 cm / 2,9 x 2,7 x 6,1 in.</p><p class=\"\">Unique</p>",
       "displayIndex": 0,
@@ -22011,7 +22011,7 @@
       "starred": true,
       "publishOn": 1653993902138,
       "addedOn": 1643206965705,
-      "updatedOn": 1787806675430,
+      "updatedOn": 1790855844577,
       "categories": [
         "Aks Misyuta"
       ],
@@ -22418,7 +22418,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-x9gal-j6j8h-6h7ls-p3a6z-y7tbp-9rjd8-gb7l4-mh2tt-yzc9p",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1661248861091-5I8D3G76OTH4V094E3KT/WEB_Romance-WR-2017-Annik-Wetter-view-2.jpg",
       "tags": [
-        "artgenève 2017"
+        "Exhibition: Art Genève 2017"
       ],
       "excerpt": "<p class=\"\">1986</p><p class=\"\">Acrylic on twin bedsheet</p><p class=\"\">244 × 168 cm / 96 × 66 in.</p>",
       "displayIndex": 0,
@@ -22426,7 +22426,7 @@
       "starred": false,
       "publishOn": 1653302847335,
       "addedOn": 1643206965705,
-      "updatedOn": 1787806038760,
+      "updatedOn": 1790855808351,
       "categories": [
         "Walter Robinson"
       ],
@@ -22621,8 +22621,8 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-x9gal-j6j8h-6h7ls-p3a6z",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653302420456-2BYQ7XV8RSNCKIGLYEYT/WEB_Gypsy-Sixpence%2CWalter-Robinson%2C-2016.-Acrylic-on-canvas.-45%2C7-x-45%2C7-cm-%2818-x-18-in%29.jpg",
       "tags": [
-        "artgenève 2017",
-        "Romance"
+        "Romance",
+        "Exhibition: Art Genève 2017"
       ],
       "excerpt": "<p class=\"\">2016</p><p class=\"\">Acrylic on canvas</p><p class=\"\">45,7 × 45,7 cm / 18 × 18 in.</p>",
       "displayIndex": 0,
@@ -22630,7 +22630,7 @@
       "starred": true,
       "publishOn": 1653302489044,
       "addedOn": 1643206965705,
-      "updatedOn": 1787806038575,
+      "updatedOn": 1790855808268,
       "categories": [
         "Walter Robinson"
       ],
@@ -23056,7 +23056,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8-awe8d-x5xr6-kd734",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653059440216-J06KQPUDZXC2F3ASHFSJ/WEB_Lisa-%231%2C-Alexander-Kosolapov%2C-2020.-Oil-on-canvas%2C-76-x-53-cm-%2830-x-21-in%29.jpg",
       "tags": [
-        "artgenève 2020"
+        "Exhibition: Art Genève 2020"
       ],
       "excerpt": "<p class=\"\">1995</p><p class=\"\">Oil on canvas</p><p class=\"\">76 × 53 cm / 30 × 21 in.</p>",
       "displayIndex": 0,
@@ -23064,7 +23064,7 @@
       "starred": false,
       "publishOn": 1653059507407,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805875826,
+      "updatedOn": 1790855836996,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -23134,7 +23134,7 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1653058970908-0KO6FJNSUJLSJFM9EVM8/WEB_Fiddler-on-the-Roof%2C-Alexander-Kosolapov%2C-1985.-Oil-on-canvas.-127-x-61cm-%2850-x-24-in%29-retouche%CC%81.jpg",
       "tags": [
         "Icons: West & East",
-        "artgenève 2017"
+        "Exhibition: Art Genève 2017"
       ],
       "excerpt": "<p class=\"\">1985</p><p class=\"\">Oil on canvas</p><p class=\"\">127 × 61 cm / 50 × 24 in.</p>",
       "displayIndex": 0,
@@ -23142,7 +23142,7 @@
       "starred": true,
       "publishOn": 1653058933326,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805875219,
+      "updatedOn": 1790855808405,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -23347,7 +23347,7 @@
       "tags": [
         "Two Shows",
         "The Catskills",
-        "ArtBrussels2023"
+        "Exhibition: Art Brussels 2023"
       ],
       "excerpt": "<p class=\"\">2005</p><p class=\"\">Oil on canvas</p><p class=\"\">23 x 30,5 cm / 9 x 12 in.</p>",
       "displayIndex": 0,
@@ -23355,7 +23355,7 @@
       "starred": true,
       "publishOn": 1652954918249,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805765769,
+      "updatedOn": 1790855466641,
       "categories": [
         "Joe Andoe"
       ],
@@ -24143,8 +24143,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8-awe8d-x5xr6",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652449957051-1A8VQ04DDA575VDZ4IEZ/L%2BMalevich-Marlboro%2C+Alexander+Kosolapov%2C+1995.+Acrylic+on+canvas.+121%2C9+x+182%2C8+cm+%2848+x+72+in%29.jpg",
       "tags": [
-        "artgenève 2019",
-        "Independent Brussels 2017"
+        "Independent Brussels 2017",
+        "Exhibition: Art Genève 2019"
       ],
       "excerpt": "<p class=\"\">1995</p><p class=\"\">Acrylic on canvas</p><p class=\"\">121,9 × 182,8 cm / 48 × 72 in.</p>",
       "displayIndex": 0,
@@ -24152,7 +24152,7 @@
       "starred": true,
       "publishOn": 1652450648835,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805334424,
+      "updatedOn": 1790855827512,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -24336,7 +24336,7 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652190759837-FD182NJZKPNKQSE8NHG0/L%2BMalevich+Cowboy%2C+Alexander+Kosolapov%2C+1998.+Oil+on+canvas.71+x+178+cm+%2828+x+70+in%29.jpg",
       "tags": [
         "Dallas Art Fair 2017",
-        "artgenève 2018"
+        "Exhibition: Art Genève 2018"
       ],
       "excerpt": "<p class=\"\">1998</p><p class=\"\">Oil on canvas</p><p class=\"\">71 × 178 cm / 28 × 70 in.</p>",
       "displayIndex": 0,
@@ -24344,7 +24344,7 @@
       "starred": true,
       "publishOn": 1652190805885,
       "addedOn": 1643206965705,
-      "updatedOn": 1787805084175,
+      "updatedOn": 1790855817460,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -24376,8 +24376,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8-awe8d",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652097118195-ZW969OZDGQ0CL0O5SUJJ/L%2BLenin+Coca-Cola%2C+Alexander+Kosolapov%2C+1987.+Acrylic+on+canvas.+81+x+127+cm+%2832+x+50+in%29.jpg",
       "tags": [
-        "artgenève 2020",
-        "Icons: West & East"
+        "Icons: West & East",
+        "Exhibition: Art Genève 2020"
       ],
       "excerpt": "<p class=\"\">1987</p><p class=\"\">Acrylic on canvas</p><p class=\"\">81 × 127 cm / 32 × 50 in.</p>",
       "displayIndex": 0,
@@ -24385,7 +24385,7 @@
       "starred": true,
       "publishOn": 1652097169009,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804991319,
+      "updatedOn": 1790855837011,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -24531,7 +24531,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-fp99z-tm64l-m4wej-4kpa8",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1652096359627-BP7HHPB0HUX4IZY0GCTU/L-Gorby+%28gold%29%2C+Alexander+Kosolapov%2C+1989.+Acrylic+and+silk-screen+on+canvas.+172%2C7+x+142%2C2+cm+%2868+x+56+in%29.png",
       "tags": [
-        "artgenève 2015"
+        "Exhibition: Art Genève 2015"
       ],
       "excerpt": "<p class=\"\">1989</p><p class=\"\">Acrylic and silkscreen on canvas</p><p class=\"\">172,7 × 142,2 cm / 68 × 56 in.</p>",
       "displayIndex": 0,
@@ -24539,7 +24539,7 @@
       "starred": true,
       "publishOn": 1652096511985,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804990782,
+      "updatedOn": 1790855540194,
       "categories": [
         "Alexander Kosolapov"
       ],
@@ -24612,7 +24612,7 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651575369209-7PY0UI6UK51NZMNZK9DL/WEB_I%27ll-give-Ya-The-Kentucky-Blues%2C-Yarisal-%26-Kublitz%2C-2015.-KFC-bucket%2C-ashes%2C-brass%2C-labradorite-stone.-Dim.-41-x-32-x-32-cm-%2816-x-12.6-x-12.6-in%29.-Ed.3-%2B-1-ap.jpg",
       "tags": [
         "Nada NY 2016",
-        "artgenève 2016"
+        "Exhibition: Art Genève 2016"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2015</p><p class=\"\" style=\"white-space:pre-wrap;\">KFC bucket, ashes, brass, labradorite stone</p><p class=\"\" style=\"white-space:pre-wrap;\">41 × 32 × 32 cm / 16 × 12,6 × 12,6 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -24620,7 +24620,7 @@
       "starred": false,
       "publishOn": 1651575508603,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804555864,
+      "updatedOn": 1790855796304,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24652,7 +24652,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-nffrw-ll7wh-l7x4d-6ena2",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651575173391-65ZIWUREB5YA303KSKHX/WEB_I%E2%80%99ve-got-so-much-change%2C-your-brain-is-gonna-have-to-rearrange%2C-Yarisal-%26-Kublitz%2C-2016.-Pine-wood%2C-bone%2C-coins%2C-brass%2C-pigments%2C-beeswax.-62-x-12%2C5-x-72-cm-%2824.4-x-5-x-28.4-in%29.-Unique.jpg",
       "tags": [
-        "artgenève 2017"
+        "Exhibition: Art Genève 2017"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2016</p><p class=\"\" style=\"white-space:pre-wrap;\">Pine wood, bone, coins, brass, pigments, beeswax</p><p class=\"\" style=\"white-space:pre-wrap;\">62 × 12,5 × 72 cm / 24,5 × 5 × 28,4 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique</p>",
       "displayIndex": 0,
@@ -24660,7 +24660,7 @@
       "starred": false,
       "publishOn": 1651575293745,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804555792,
+      "updatedOn": 1790855808377,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24830,7 +24830,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-mdxd7",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651573293466-37XQ48577CLDCFAYNIF6/WEB_Glorious-Gloria%2C-Yarisal-%26-Kublitz%2C-2011.-Coconut%2C-ceramic%2C-paint%2C-brass.-14-x-15-x-11-cm-%285.5-x-6-x-4.3-in%29.jpg",
       "tags": [
-        "artgenève 2018"
+        "Exhibition: Art Genève 2018"
       ],
       "excerpt": "<p class=\"\">2011</p><p class=\"\">Coconut, ceramic, paint, brass</p><p class=\"\">14 × 15 × 11 cm / 5,5 × 6 × 4,3 in.</p><p class=\"\">©Yarisal &amp; Kublitz</p>",
       "displayIndex": 0,
@@ -24838,7 +24838,7 @@
       "starred": false,
       "publishOn": 1651573365103,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804554760,
+      "updatedOn": 1790855817478,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -26857,8 +26857,8 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651150340234-XK9N1X3JHQS7N4H0YMEN/WEB_COSMO-JARS%2C-Yarisal-%26-Kublitz%2C-2018.-glass%2C-brass%2C-bamboo%2C-coconut%2C-ceramic%2C-gel-wax%2C-acrylic%2C-wood.-168-x-33-x-33-cm.-Unique-%C2%A9Matthias-Kolb-%28side%29.jpg",
       "tags": [
-        "artgenève 2019",
-        "Independent Brussels 2018"
+        "Independent Brussels 2018",
+        "Exhibition: Art Genève 2019"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2018</p><p class=\"\" style=\"white-space:pre-wrap;\">glass, brass, bamboo, coconut, ceramic, gel wax, acrylic, wood</p><p class=\"\" style=\"white-space:pre-wrap;\">168 × 33 × 33 cm / 66,1 × 13 × 13 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique work</p>",
       "displayIndex": 0,
@@ -26866,7 +26866,7 @@
       "starred": false,
       "publishOn": 1651150484254,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804197523,
+      "updatedOn": 1790855827639,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -26907,9 +26907,9 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-gjhd3",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651149861283-YQC9YH1WB8894ZH0TMZV/WEB_Calling-all-the-Angels%2C-Yarisal-%26-Kublitz%2C-2016.-Singing-bowl%2C-brass%2C-iphone%2C-charger%2C-tourmaline-stones%2C-wood.-Dim.-44-x-68-x-16-cm-%2817-x-26.6-x-6.3-in%29.-Ed.3-%2B-1-ap.jpg",
       "tags": [
-        "artgenève 2019",
         "The Remains of the Geldberg Collection",
-        "Artmonte-carlo 2016"
+        "Artmonte-carlo 2016",
+        "Exhibition: Art Genève 2019"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2016</p><p class=\"\" style=\"white-space:pre-wrap;\">Singing bowl, brass, iPhone, charger, tourmaline stones, wood</p><p class=\"\" style=\"white-space:pre-wrap;\">44 × 68 × 16 cm / 14,2 × 11,4 × 5,5 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
@@ -26917,7 +26917,7 @@
       "starred": false,
       "publishOn": 1651150041058,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804197061,
+      "updatedOn": 1790855827604,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -26995,7 +26995,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-m28fe-7bdyw-39s86",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651148833509-VEH23G7YEUPHLKNSHLYW/WEB_I%E2%80%99m-Looking-Through-You-%28Mercedes%29%2C-Yarisal-%26-Kublitz%2C-2014.-Mahogany%2C-ceramic%2C-Mercedes-emblem%2C-emu-egg%2C-mineral-stone%2C-wax%2C-charcoal%2C-brass.-86-x-42-x-30-cm.-Unique.jpg",
       "tags": [
-        "artgenève 2015"
+        "Exhibition: Art Genève 2015"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2014</p><p class=\"\" style=\"white-space:pre-wrap;\">Mahogany, ceramic, Mercedes emblem, emu egg, mineral stone, wax, charcoal, brass</p><p class=\"\" style=\"white-space:pre-wrap;\">86 × 42 × 30 cm / 33,8 × 16,5 × 11,8 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique work</p>",
       "displayIndex": 0,
@@ -27003,7 +27003,7 @@
       "starred": false,
       "publishOn": 1651148936860,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804196408,
+      "updatedOn": 1790855540153,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -27861,7 +27861,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651136967600-XAQPBRWMG2BSHHX7C757/L_The+Way+Up%2C+Walter+Robinson%2C+2021.+Acrylic+on+canvas%2C+182%2C8+x+121%2C9+cm+%2872+x+48+in%29.jpg",
       "tags": [
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Acrylic on canvas</p><p class=\"\">182,8 × 121,9 cm / 72 × 48 in.</p>",
       "displayIndex": 0,
@@ -27869,7 +27869,7 @@
       "starred": true,
       "publishOn": 1651137087693,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804186685,
+      "updatedOn": 1790855844617,
       "categories": [
         "Walter Robinson"
       ],
@@ -28977,7 +28977,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1650968451545-FSUPY58CCT59YC40MHHM/WEB_Beast-Mode-%233%2C-Joe-Andoe%2C2018.-Oil-on-aluminium.-86%2C5-x-56-cm-%2834-x-22-in%29-.jpg",
       "tags": [
-        "artgenève 2019"
+        "Exhibition: Art Genève 2019"
       ],
       "excerpt": "<p class=\"\">2018</p><p class=\"\">Oil on aluminium</p><p class=\"\">86,5 x 56 cm / 34 x 22 in.</p>",
       "displayIndex": 0,
@@ -28985,7 +28985,7 @@
       "starred": false,
       "publishOn": 1650968512519,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804002167,
+      "updatedOn": 1790855827569,
       "categories": [
         "Joe Andoe"
       ],
@@ -29019,7 +29019,7 @@
       "tags": [
         "Two Shows",
         "The Catskills",
-        "ArtBrussels 2024"
+        "Exhibition: Art Brussels 2024"
       ],
       "excerpt": "<p class=\"\">2006</p><p class=\"\">Oil on canvas</p><p class=\"\">28 x 35,5 cm / 11 x 14 in.</p>",
       "displayIndex": 0,
@@ -29027,7 +29027,7 @@
       "starred": false,
       "publishOn": 1650884449030,
       "addedOn": 1643206965705,
-      "updatedOn": 1787803907878,
+      "updatedOn": 1790855450640,
       "categories": [
         "Joe Andoe"
       ],
@@ -29355,7 +29355,7 @@
         "source": 3
       },
       "tags": [
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on linen</p><p class=\"\">76,2 x 60,9 cm / 30 x 24 in.</p>",
       "displayIndex": 0,
@@ -29363,7 +29363,7 @@
       "starred": false,
       "publishOn": 1649933281402,
       "addedOn": 1643206965705,
-      "updatedOn": 1787803114356,
+      "updatedOn": 1790855844680,
       "categories": [
         "Tali Lennox"
       ],
@@ -30377,7 +30377,7 @@
       "urlId": "when-you-cant-be-a-hero-always-have-the-last-word-adam-ca6cn-y9t9x-tfgxs-aakje",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1645109677315-J91MQHX4F2XPIQ5YDWX9/WEB_Remind-Me-What-Your-Secret-Was%2C-Chloe-Wise%2C-2019.-Oil-on-canvas.-50.8-x-40.6-cm-%2820-x-16-in%29_.jpg",
       "tags": [
-        "artgenève 2020"
+        "Exhibition: Art Genève 2020"
       ],
       "excerpt": "<p class=\"\">2019</p><p class=\"\">Oil on canvas</p><p class=\"\">50.8 × 40.6 cm / 20 × 16 in.</p><p class=\"\">©Chloe Wise</p>",
       "displayIndex": 31,
@@ -30385,7 +30385,7 @@
       "starred": true,
       "publishOn": 1645109745764,
       "addedOn": 1645096956383,
-      "updatedOn": 1787798516770,
+      "updatedOn": 1790855836864,
       "categories": [
         "Chloe Wise"
       ],
@@ -30577,8 +30577,8 @@
       "urlId": "when-you-cant-be-a-hero-always-have-the-last-word-adam-wb39t",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1645105495308-0P7PU92G055HVNI6HVZ8/WEB_Duchess-of-Pants%2C-Chloe-Wise%2C-2017.-India-ink-on-paper.-127-x-96%2C5-cm-%2850-x-38-in%29.-Image-%C2%A9Logan-Jackson.jpg",
       "tags": [
-        "artgenève 2019",
-        "Dallas Art Fair 2017"
+        "Dallas Art Fair 2017",
+        "Exhibition: Art Genève 2019"
       ],
       "excerpt": "<p class=\"\">2017</p><p class=\"\">India ink on paper</p><p class=\"\">127 × 96,5 cm / 50 × 38 in.</p>",
       "displayIndex": 26,
@@ -30586,7 +30586,7 @@
       "starred": false,
       "publishOn": 1645105607292,
       "addedOn": 1645096956383,
-      "updatedOn": 1787798511585,
+      "updatedOn": 1790855827588,
       "categories": [
         "Chloe Wise"
       ],
@@ -30792,7 +30792,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1643908691402-7MAJ9TY8IULWCYE8N0JK/L_Man+On+Ladder%2C+Michael+Hilsman%2C+2021.+Oil+on+linen%2C+223%2C5+x+147%2C3+cm+%2888+x+58+in%29.jpg",
       "tags": [
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2021</p><p class=\"\">Oil on linen</p><p class=\"\">223,5 × 147,3 cm / 88 × 58 in.</p>",
       "displayIndex": 22,
@@ -30800,7 +30800,7 @@
       "starred": true,
       "publishOn": 1643909176519,
       "addedOn": 1643206965705,
-      "updatedOn": 1787797298914,
+      "updatedOn": 1790855844538,
       "categories": [
         "Michael Hilsman"
       ],
@@ -31048,7 +31048,7 @@
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1643900959936-S9IVO3JT9PM2GXJQ2RL0/L_Slow+Open%2C+Lydia+Pettit%2C+2020.+Oil%2C+quilting+and+hardware+on+wood+panel.+50+x+50+cm.jpg",
       "tags": [
         "The Well",
-        "artgenève 2022"
+        "Exhibition: Art Genève 2022"
       ],
       "excerpt": "<p class=\"\">2020</p><p class=\"\">Oil, quilting and hardware on wood panel.</p><p class=\"\">50 x 50 cm / 19,7 x 19,7 in.</p><p class=\"\"></p>",
       "displayIndex": 16,
@@ -31056,7 +31056,7 @@
       "starred": false,
       "publishOn": 1643901035353,
       "addedOn": 1643206965705,
-      "updatedOn": 1787797286839,
+      "updatedOn": 1790855844650,
       "categories": [
         "Lydia Pettit"
       ],

@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T11:48:16.828Z",
-  "sourceHash": "9c7bf63d84aeb92fcfd520932cb05c37f9f29f1fdef31d43073c528969e2e25c",
+  "updatedAt": "2026-10-01T11:58:20.357Z",
+  "sourceHash": "0a37b8f4ed0e15c4ab6033b4931f8986f0d61e0364470e8077d551b1e657ea0a",
   "count": 108,
   "pages": 1,
   "items": [
@@ -394,7 +394,7 @@
     },
     {
       "id": "69722aa2a433a8238de8883b",
-      "title": "Artgenève 2026",
+      "title": "Art Genève 2026",
       "fullUrl": "/exhibition/fair/artgeneve-2026",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2026",
@@ -432,7 +432,7 @@
       "starred": false,
       "publishOn": 1769694480435,
       "addedOn": 1769694480435,
-      "updatedOn": 1790851362593
+      "updatedOn": 1790855646589
     },
     {
       "id": "6968c29ccced0c33aa354566",
@@ -972,7 +972,7 @@
     },
     {
       "id": "67935f5923a12272e9d54e9f",
-      "title": "Artgenève 2025",
+      "title": "Art Genève 2025",
       "fullUrl": "/exhibition/fair/artgeneve-2025",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2025",
@@ -1018,7 +1018,7 @@
       "starred": false,
       "publishOn": 1737713316850,
       "addedOn": 1737713316850,
-      "updatedOn": 1790851190830
+      "updatedOn": 1790855664023
     },
     {
       "id": "674747a9947fdc1788449f12",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "659d506fad35084ded78e89e",
-      "title": "Artgenève 2024",
+      "title": "Art Genève 2024",
       "fullUrl": "/exhibition/fair/artgeneve-2024",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2024",
@@ -1624,7 +1624,7 @@
       "starred": true,
       "publishOn": 1698920820494,
       "addedOn": 1698920820494,
-      "updatedOn": 1790839869587
+      "updatedOn": 1790855657407
     },
     {
       "id": "64f5f88480b09834aec17a0d",
@@ -1962,7 +1962,7 @@
     },
     {
       "id": "63bd358cfc2f1c7eff9fbd66",
-      "title": "Artgenève 2023",
+      "title": "Art Genève 2023",
       "fullUrl": "/exhibition/fair/artgeneve-2023",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2023",
@@ -2008,7 +2008,7 @@
       "starred": false,
       "publishOn": 1673956172007,
       "addedOn": 1673956172007,
-      "updatedOn": 1790839724336
+      "updatedOn": 1790855670080
     },
     {
       "id": "6388be0ab4c62330478bc5ba",
@@ -2360,7 +2360,7 @@
     },
     {
       "id": "62387ebce9caad41ad5c0ade",
-      "title": "Artgenève 2022",
+      "title": "Art Genève 2022",
       "fullUrl": "/exhibition/fair/artgeneve2022",
       "sourceUrl": "",
       "urlId": "fair/artgeneve2022",
@@ -2407,7 +2407,7 @@
       "starred": false,
       "publishOn": 1646305200671,
       "addedOn": 1646305200671,
-      "updatedOn": 1790839656118
+      "updatedOn": 1790855592267
     },
     {
       "id": "61f95c74a7c6f70616089a0d",
@@ -3039,7 +3039,7 @@
     },
     {
       "id": "6262c9897e147e644c935eb6",
-      "title": "Artgenève 2020",
+      "title": "Art Genève 2020",
       "fullUrl": "/exhibition/fair/artgeneve-2020",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2020",
@@ -3084,7 +3084,7 @@
       "starred": false,
       "publishOn": 1580401680188,
       "addedOn": 1580401680188,
-      "updatedOn": 1790839593635
+      "updatedOn": 1790855608283
     },
     {
       "id": "626295157bfd0f2f1b5c26db",
@@ -3358,7 +3358,7 @@
     },
     {
       "id": "6262d026244741334bd1b4e0",
-      "title": "Artgenève 2019",
+      "title": "Art Genève 2019",
       "fullUrl": "/exhibition/fair/artgeneve-2019",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2019",
@@ -3402,7 +3402,7 @@
       "starred": false,
       "publishOn": 1548953760520,
       "addedOn": 1548953760520,
-      "updatedOn": 1790839505931
+      "updatedOn": 1790855599977
     },
     {
       "id": "6262d42d59049c7d2c06b783",
@@ -3654,7 +3654,7 @@
     },
     {
       "id": "6266a6b70ea7ec40f70b3ae8",
-      "title": "Artgenève 2018",
+      "title": "Art Genève 2018",
       "fullUrl": "/exhibition/fair/artgeneve-2018",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2018",
@@ -3696,7 +3696,7 @@
       "starred": false,
       "publishOn": 1517496480837,
       "addedOn": 1517496480837,
-      "updatedOn": 1790839463093
+      "updatedOn": 1790855624807
     },
     {
       "id": "6266a953385110598dfd37af",
@@ -4076,7 +4076,7 @@
     },
     {
       "id": "6266bc567e435069ce69e6e5",
-      "title": "Artgenève 2017",
+      "title": "Art Genève 2017",
       "fullUrl": "/exhibition/fair/artgeneve-2017",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2017",
@@ -4113,7 +4113,7 @@
       "starred": true,
       "publishOn": 1485447600084,
       "addedOn": 1485447600084,
-      "updatedOn": 1790839412911
+      "updatedOn": 1790855616736
     },
     {
       "id": "6261264870526c619aec469e",
@@ -4402,7 +4402,7 @@
     },
     {
       "id": "6267cdc0ef7e471b2b34d6c8",
-      "title": "Artgenève 2016",
+      "title": "Art Genève 2016",
       "fullUrl": "/exhibition/fair/artgeneve-2016",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2016",
@@ -4443,7 +4443,7 @@
       "starred": false,
       "publishOn": 1453981620458,
       "addedOn": 1453981620458,
-      "updatedOn": 1790839343553
+      "updatedOn": 1790855633299
     },
     {
       "id": "6260376b92a7e72a05b8daad",
@@ -4607,7 +4607,7 @@
     },
     {
       "id": "62680d3612f47618de17d94a",
-      "title": "Artgenève 2015",
+      "title": "Art Genève 2015",
       "fullUrl": "/exhibition/fair/artgeneve-2015",
       "sourceUrl": "",
       "urlId": "fair/artgeneve-2015",
@@ -4650,7 +4650,7 @@
       "starred": false,
       "publishOn": 1422548280369,
       "addedOn": 1422548280369,
-      "updatedOn": 1790836427806
+      "updatedOn": 1790855580346
     }
   ]
 }
