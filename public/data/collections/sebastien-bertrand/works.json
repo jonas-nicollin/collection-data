@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-01T15:38:23.401Z",
-  "sourceHash": "d1777d038a1e780ce3ebc6b7064daec151558baeff8f6c846b1f1a5c16f63c91",
+  "updatedAt": "2026-10-01T15:48:12.978Z",
+  "sourceHash": "c222daec48d12c86168018b2d0d1186feab53729b9330ef3f5debfd983500259",
   "count": 759,
   "pages": 4,
   "items": [
@@ -1825,13 +1825,13 @@
       "tags": [
         "Exhibition: Cosmic Flush: Images of Scuffle"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">46 x 33 cm. / 18 x 13 in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2522</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">46 x 33 cm. / 18 x 13 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2522</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1760968769403,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856463092,
+      "updatedOn": 1790869193181,
       "categories": [
         "Tali Lennox"
       ],
@@ -2123,13 +2123,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">33 x 24 cm. / 13 x 9 ½ in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2502</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">33 x 24 cm. / 13 x 9 ½ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2502</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756974024380,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277583,
+      "updatedOn": 1790869205874,
       "categories": [
         "Tali Lennox"
       ],
@@ -2158,13 +2158,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">33 x 22 cm./ 13 x 8 ¾ in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2515</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">33 x 22 cm./ 13 x 8 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2515</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756973992228,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277394,
+      "updatedOn": 1790869218676,
       "categories": [
         "Tali Lennox"
       ],
@@ -2203,13 +2203,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">81 x 60 cm. / 32 x 23 ½ in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2507</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">81 x 60 cm. / 32 x 23 ½ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2507</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756973952583,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277424,
+      "updatedOn": 1790869231024,
       "categories": [
         "Tali Lennox"
       ],
@@ -2238,13 +2238,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 41 x 27 cm. / 16 ¼ x 10 ¾ in. </p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2513</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 41 x 27 cm. / 16 ¼ x 10 ¾ in. </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2513</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756918269645,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277521,
+      "updatedOn": 1790869242877,
       "categories": [
         "Tali Lennox"
       ],
@@ -2283,13 +2283,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 41 x 27 cm. / 16 ¼ x 10 ¾ in. </p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2510</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 41 x 27 cm. / 16 ¼ x 10 ¾ in. </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2510</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756918118430,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277561,
+      "updatedOn": 1790869253636,
       "categories": [
         "Tali Lennox"
       ],
@@ -2323,13 +2323,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">60 x 46 cm. / 23 ½ x 18 in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2508</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">60 x 46 cm. / 23 ½ x 18 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2508</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756918026666,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277339,
+      "updatedOn": 1790869263910,
       "categories": [
         "Tali Lennox"
       ],
@@ -2358,13 +2358,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 41 x 27 cm. / 16 ¼ x 10 ¾ in. </p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2512</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 41 x 27 cm. / 16 ¼ x 10 ¾ in. </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2512</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756917948412,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277621,
+      "updatedOn": 1790869272840,
       "categories": [
         "Tali Lennox"
       ],
@@ -2403,13 +2403,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">81 x 60 cm. / 32 x 23 ½ in. </p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2507</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">81 x 60 cm. / 32 x 23 ½ in. </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2507</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756917559143,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277672,
+      "updatedOn": 1790869292350,
       "categories": [
         "Tali Lennox"
       ],
@@ -2443,13 +2443,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 46 x 33 cm. /  18 x 13 in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2501</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 46 x 33 cm. /  18 x 13 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2501</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756917295548,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277542,
+      "updatedOn": 1790869304921,
       "categories": [
         "Tali Lennox"
       ],
@@ -2483,13 +2483,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 41 x 27 cm. / 16 ¼ x 10 ¾ in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2511</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 41 x 27 cm. / 16 ¼ x 10 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2511</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756917113885,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277649,
+      "updatedOn": 1790869319337,
       "categories": [
         "Tali Lennox"
       ],
@@ -2518,13 +2518,13 @@
       "tags": [
         "Exhibition: Sulis & The Wreck"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">73 x 50 cm. / 28 ¾ x 19 ¾ in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2504</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on linen</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">73 x 50 cm. / 28 ¾ x 19 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TL-2504</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1756916771752,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857277483,
+      "updatedOn": 1790869332970,
       "categories": [
         "Tali Lennox"
       ],
@@ -5716,13 +5716,13 @@
       "tags": [
         "Exhibition: Art Monte-Carlo 2024"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2024</p><p class=\"\" style=\"white-space:pre-wrap;\"><em> </em>Mahogany, oil</p><p class=\"\" style=\"white-space:pre-wrap;\"> 61 x 30 x 10 cm. / 24 1⁄4 x 11 3⁄4 x 4 in.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2024</p><p style=\"white-space:pre-wrap;\"><em> </em>Mahogany, oil</p><p style=\"white-space:pre-wrap;\"> 61 x 30 x 10 cm. / 24 1⁄4 x 11 3⁄4 x 4 in.</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1720700879526,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856189955,
+      "updatedOn": 1790869523439,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -12983,13 +12983,13 @@
       "tags": [
         "Exhibition: Art Genève 2016"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2015</p><p class=\"\" style=\"white-space:pre-wrap;\">Wood, neon light, color pigment</p><p class=\"\" style=\"white-space:pre-wrap;\">125 × 135 × 8 cm / 49,2 × 53,1 × 3,2 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2015</p><p style=\"white-space:pre-wrap;\">Wood, neon light, color pigment</p><p style=\"white-space:pre-wrap;\">125 × 135 × 8 cm / 49,2 × 53,1 × 3,2 in.</p><p style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1656606439571,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855796206,
+      "updatedOn": 1790869531998,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -15099,13 +15099,13 @@
       "tags": [
         "Exhibition: Art Monte-Carlo 2018"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2018</p><p class=\"\" style=\"white-space:pre-wrap;\">Glass, pearl vases, coconuts, gel wax, polyurethane, wood, acrylic<br><br>126 × 60 × 60 cm / 49,6 × 23,6 × 23,6 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique work</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2018</p><p style=\"white-space:pre-wrap;\">Glass, pearl vases, coconuts, gel wax, polyurethane, wood, acrylic<br /><br />126 × 60 × 60 cm / 49,6 × 23,6 × 23,6 in.</p><p style=\"white-space:pre-wrap;\">Unique work</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1656344982102,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856098686,
+      "updatedOn": 1790869543859,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -15615,13 +15615,13 @@
         "Exhibition: Art Genève 2017",
         "Exhibition: Dallas Art Fair 2017"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2017</p><p class=\"\" style=\"white-space:pre-wrap;\">Fabric, acrylic glass, painted steel, brass</p><p class=\"\" style=\"white-space:pre-wrap;\">Variable dimensions, Flag 180 × 95 cm / 70.8 × 37.4 in</p><p class=\"\" style=\"white-space:pre-wrap;\">Ed.3 + 1 ap.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2017</p><p style=\"white-space:pre-wrap;\">Fabric, acrylic glass, painted steel, brass</p><p style=\"white-space:pre-wrap;\">Variable dimensions, Flag 180 × 95 cm / 70.8 × 37.4 in</p><p style=\"white-space:pre-wrap;\">Ed.3 + 1 ap.</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1656343164712,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856494079,
+      "updatedOn": 1790869552026,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -16509,13 +16509,13 @@
       "tags": [
         "Exhibition: Independent Brussels 2018"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2018</p><p class=\"\" style=\"white-space:pre-wrap;\">Pinewood, color dye, tung oil, synthetic fabric, rope, plastic<br><br>197 × 103 × 70 cm / 77,5 × 40,5 × 27,5 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2018</p><p style=\"white-space:pre-wrap;\">Pinewood, color dye, tung oil, synthetic fabric, rope, plastic<br /><br />197 × 103 × 70 cm / 77,5 × 40,5 × 27,5 in.</p><p style=\"white-space:pre-wrap;\">Unique</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1656339973413,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856871959,
+      "updatedOn": 1790869560021,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -17292,13 +17292,13 @@
         "Exhibition: Art Monte-Carlo 2019",
         "Exhibition: Last Decade"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2019</p><p class=\"\" style=\"white-space:pre-wrap;\">Concrete, dollar bills, acrylic, steel </p><p class=\"\" style=\"white-space:pre-wrap;\">34,5 × 26,3 × 16 cm / 13,5 × 10,3 × 6,2 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 3</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2019</p><p style=\"white-space:pre-wrap;\">Concrete, dollar bills, acrylic, steel </p><p style=\"white-space:pre-wrap;\">34,5 × 26,3 × 16 cm / 13,5 × 10,3 × 6,2 in.</p><p style=\"white-space:pre-wrap;\">Edition of 3</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1656337161450,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856907242,
+      "updatedOn": 1790869567555,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -19028,13 +19028,13 @@
         "Exhibition: Last Decade",
         "Exhibition: The Remains of the Geldberg Collection"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2016</p><p class=\"\" style=\"white-space:pre-wrap;\">Ceramic, plaster, color pigment</p><p class=\"\" style=\"white-space:pre-wrap;\">48 × 39 × 32 cm / 18.9 × 15.35 × 12.5 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2016</p><p style=\"white-space:pre-wrap;\">Ceramic, plaster, color pigment</p><p style=\"white-space:pre-wrap;\">48 × 39 × 32 cm / 18.9 × 15.35 × 12.5 in.</p><p style=\"white-space:pre-wrap;\">Unique</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1656082872015,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857414750,
+      "updatedOn": 1790869574964,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24649,13 +24649,13 @@
         "Exhibition: Art Genève 2016",
         "Exhibition: NADA NY 2016"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2015</p><p class=\"\" style=\"white-space:pre-wrap;\">KFC bucket, ashes, brass, labradorite stone</p><p class=\"\" style=\"white-space:pre-wrap;\">41 × 32 × 32 cm / 16 × 12,6 × 12,6 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2015</p><p style=\"white-space:pre-wrap;\">KFC bucket, ashes, brass, labradorite stone</p><p style=\"white-space:pre-wrap;\">41 × 32 × 32 cm / 16 × 12,6 × 12,6 in.</p><p style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1651575508603,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857022078,
+      "updatedOn": 1790869582916,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24689,13 +24689,13 @@
       "tags": [
         "Exhibition: Art Genève 2017"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2016</p><p class=\"\" style=\"white-space:pre-wrap;\">Pine wood, bone, coins, brass, pigments, beeswax</p><p class=\"\" style=\"white-space:pre-wrap;\">62 × 12,5 × 72 cm / 24,5 × 5 × 28,4 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Unique</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2016</p><p style=\"white-space:pre-wrap;\">Pine wood, bone, coins, brass, pigments, beeswax</p><p style=\"white-space:pre-wrap;\">62 × 12,5 × 72 cm / 24,5 × 5 × 28,4 in.</p><p style=\"white-space:pre-wrap;\">Unique</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1651575293745,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855808377,
+      "updatedOn": 1790869601249,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24732,13 +24732,13 @@
         "Exhibition: NADA NY 2016",
         "Exhibition: The Remains of the Geldberg Collection"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2015</p><p class=\"\" style=\"white-space:pre-wrap;\">Singing bowl, brass, tampons, red clay, acrylic, azurit malachit stone</p><p class=\"\" style=\"white-space:pre-wrap;\">32 × 55 × 21 cm / 12.6 × 21.6 × 8.3 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 1 + 1 A.P.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2015</p><p style=\"white-space:pre-wrap;\">Singing bowl, brass, tampons, red clay, acrylic, azurit malachit stone</p><p style=\"white-space:pre-wrap;\">32 × 55 × 21 cm / 12.6 × 21.6 × 8.3 in.</p><p style=\"white-space:pre-wrap;\">Edition of 1 + 1 A.P.</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1651575040246,
       "addedOn": 1643206965705,
-      "updatedOn": 1790857414728,
+      "updatedOn": 1790869609534,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24781,13 +24781,13 @@
       "tags": [
         "Exhibition: Last Decade"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2017</p><p class=\"\" style=\"white-space:pre-wrap;\">Fabric, acrylic glass, painted steel, brass</p><p class=\"\" style=\"white-space:pre-wrap;\">Variable dimensions</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2017</p><p style=\"white-space:pre-wrap;\">Fabric, acrylic glass, painted steel, brass</p><p style=\"white-space:pre-wrap;\">Variable dimensions</p><p style=\"white-space:pre-wrap;\">Edition of 3 + 1 A.P.</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1651574434149,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856907149,
+      "updatedOn": 1790869619469,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24818,13 +24818,13 @@
       "fullUrl": "/works/p/midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-nffrw",
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-5m9nm-d8jdk-whlxd-7zrrh-3t33b-ckrjb-l3ghm-4fw6b-z3dmx-yryjd-bnw7k-35dj3-eck5a-z3w4x-nffrw",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1651573700095-8LYIZHGQZ7OEKKC27N3V/WEB_Getting-Wavvy%2C-Yarisal-%26-Kublitz%2C-2014.-Concrete%2C-artifical-nails%2C-acrylic.-58-x-14-x-62-cm-%28-22.8-x-5.5-x-24.4-in%29.-Ed.5-%2B-1-ap.jpg",
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2014</p><p class=\"\" style=\"white-space:pre-wrap;\">Concrete, artifical nails, acrylic</p><p class=\"\" style=\"white-space:pre-wrap;\">58 × 14 × 62 cm / 22,8 × 5,5 × 24,4 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">Edition of 5 + 1 A.P.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\">2014</p><p style=\"white-space:pre-wrap;\">Concrete, artifical nails, acrylic</p><p style=\"white-space:pre-wrap;\">58 × 14 × 62 cm / 22,8 × 5,5 × 24,4 in.</p><p style=\"white-space:pre-wrap;\">Edition of 5 + 1 A.P.</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1651573800365,
       "addedOn": 1643206965705,
-      "updatedOn": 1787804554954,
+      "updatedOn": 1790869629518,
       "categories": [
         "Yarisal & Kublitz"
       ],

@@ -5,8 +5,8 @@
   "id": "artist",
   "path": "/artist",
   "sourceUrl": "https://sebastienbertrand.com/artist?format=json",
-  "updatedAt": "2026-10-01T15:38:13.352Z",
-  "sourceHash": "2089668c1f1bfddaa58935308da79abf8684949d13078b3330b9d5de136088ac",
+  "updatedAt": "2026-10-01T15:48:05.664Z",
+  "sourceHash": "9c9c928a6b47fe3b9eab2d0bd7a7c7cc816e74ae83a60d49f7e7c7865e820738",
   "count": 28,
   "pages": 1,
   "items": [
@@ -228,7 +228,7 @@
       "starred": false,
       "publishOn": 1562080370612,
       "addedOn": 1562080370612,
-      "updatedOn": 1788428415346
+      "updatedOn": 1790869439906
     },
     {
       "id": "62471b1fd7bc57549db5f41e",
@@ -268,7 +268,7 @@
       "starred": false,
       "publishOn": 1562080370612,
       "addedOn": 1562080370612,
-      "updatedOn": 1788428454366
+      "updatedOn": 1790869495583
     },
     {
       "id": "63ecdbb98bcf081c6dc9aa3e",
@@ -288,7 +288,7 @@
       "starred": false,
       "publishOn": 1562077630437,
       "addedOn": 1562077630437,
-      "updatedOn": 1788428831476
+      "updatedOn": 1790869666987
     },
     {
       "id": "628e3d2aefc5ef1a71ac399e",
