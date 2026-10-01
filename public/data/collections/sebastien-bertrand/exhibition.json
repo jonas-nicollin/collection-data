@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T10:58:18.973Z",
-  "sourceHash": "6c89f41f1b8c6aaec1612fe536a74213ae9f2ab37b6b75edf635807a814062dc",
+  "updatedAt": "2026-10-01T11:48:16.828Z",
+  "sourceHash": "9c7bf63d84aeb92fcfd520932cb05c37f9f29f1fdef31d43073c528969e2e25c",
   "count": 108,
   "pages": 1,
   "items": [
@@ -70,7 +70,6 @@
         "Year: 2026",
         "Exhibition: Solo Show",
         "Date: 2026-06-04/2026-09-17",
-        "Status: Past Exhibition",
         "Opening: 2026-11-12"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">05.06.2026–17.07.2026<br>Opening: Thursday 04 June, 6:30 - 8:00 pm  </p>",
@@ -90,7 +89,7 @@
       "starred": true,
       "publishOn": 1790316764767,
       "addedOn": 1790316764767,
-      "updatedOn": 1790851152707
+      "updatedOn": 1790854851591
     },
     {
       "id": "6ab3bc5cd07af854f4ae2f6f",
