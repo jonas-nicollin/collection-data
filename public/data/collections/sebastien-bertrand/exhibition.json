@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T07:45:22.350Z",
-  "sourceHash": "4ff33c891c21768dfb551b745e18e162ddf208f83399b93dd0fac1423b98fbda",
+  "updatedAt": "2026-10-01T07:48:14.578Z",
+  "sourceHash": "8a4469422528c2fe54b8975e8ec6e68c7e957b10f1ee0aff7fa9884387f6247b",
   "count": 108,
   "pages": 1,
   "items": [
@@ -555,27 +555,27 @@
         "Exhibition: Fair",
         "Year: 2025",
         "Status: Past Exhibition",
-        "Location: Artissima, Booth Yellow 16, Oval Lingotto, Torino",
-        "Date: 2025-10-30/2025-11-02"
+        "Date: 2025-10-30/2025-11-02",
+        "Location: Booth Yellow 16, Oval Lingotto"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">30 October–2 November 2025</p><pre><code>Opening Reception: Wednesday, October 20, 2–8 pm</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 45.0326573,
+        "mapLng": 7.6634667,
+        "markerLat": 45.0326573,
+        "markerLng": 7.6634667,
+        "addressTitle": "Oval Lingotto Fiere Torino",
+        "addressLine1": "Via Giacomo Mattè Trucco 70",
+        "addressLine2": "10126 Torino",
+        "addressCountry": "Italy"
       },
       "displayIndex": 96,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1759396500973,
       "addedOn": 1759396500973,
-      "updatedOn": 1790177237725
+      "updatedOn": 1790840731144
     },
     {
       "id": "68494498b461df4b15a5f7d8",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": "6266be8d259470641162bab9",
-      "title": "Artmonte-carlo 2017",
+      "title": "Art Monte-Carlo 2017",
       "fullUrl": "/exhibition/fair/artmonte-carlo-2017",
       "sourceUrl": "",
       "urlId": "fair/artmonte-carlo-2017",
@@ -3861,7 +3861,7 @@
       "starred": false,
       "publishOn": 1493479800431,
       "addedOn": 1493479800431,
-      "updatedOn": 1790176666469
+      "updatedOn": 1790840869020
     },
     {
       "id": "6266b3d56cdb7f674344b9a4",
