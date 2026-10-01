@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-01T12:28:32.598Z",
-  "sourceHash": "83e6511ec58bbc6d3484527e198045a3385bf4c4a6cfcf9b06fdd14c8ae30f37",
+  "updatedAt": "2026-10-01T13:18:23.176Z",
+  "sourceHash": "606aca053b0a0688ed0cf99627e1f355799ca53c7a251c85df622d833809b87f",
   "count": 758,
   "pages": 4,
   "items": [
@@ -489,7 +489,7 @@
         "source": 3
       },
       "tags": [
-        "Selected Works"
+        "Exhibition: Selected Works: 1983–1991"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1989</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ink spray acrylic pencil markers on cardboard<br /><br />70 x 100 cm.  27 &frac12; x 39 &frac14; in..</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">RLZ-8901)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "displayIndex": 0,
@@ -497,7 +497,7 @@
       "starred": false,
       "publishOn": 1780410273568,
       "addedOn": 1643206965705,
-      "updatedOn": 1788221533610,
+      "updatedOn": 1790860622876,
       "categories": [
         "Rammellzee"
       ],
@@ -533,7 +533,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-yg846-78elw-pfaja-t5xk3-7bcpt-dsgsy-x9gal-j6j8h-fprwd-ycn2r-45fhk-pm3dm-5zwjk-m5p5d-544y9-9cldd-mzwsh",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/307fee12-90c2-4dfc-9dc5-28a6226fad04/RLZ-8601.jpg",
       "tags": [
-        "Selected Works"
+        "Exhibition: Selected Works: 1983–1991"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1986</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil, spraypaint, fluorescent and metallic paint on canvas<br /><br />150 x 215 cm. / 59 x 84 &frac34; in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">RLZ-8601</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "displayIndex": 0,
@@ -541,7 +541,7 @@
       "starred": false,
       "publishOn": 1780409852907,
       "addedOn": 1643206965705,
-      "updatedOn": 1788221530866,
+      "updatedOn": 1790860622896,
       "categories": [
         "Rammellzee"
       ],
@@ -596,7 +596,7 @@
         "source": 3
       },
       "tags": [
-        "Selected Works"
+        "Exhibition: Selected Works: 1983–1991"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1991</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Spray paint, film strips and printed paper collage on paper<br /><br />74 x 99 cm. / 29 &frac14; x 39 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> RLZ-9102</p>",
       "displayIndex": 0,
@@ -604,7 +604,7 @@
       "starred": false,
       "publishOn": 1779959173253,
       "addedOn": 1643206965705,
-      "updatedOn": 1788218848450,
+      "updatedOn": 1790860622921,
       "categories": [
         "Rammellzee"
       ],
@@ -1510,7 +1510,7 @@
         "source": 3
       },
       "tags": [
-        "Gstaad Art"
+        "Exhibition: Maze Art Gstaad 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Acrylic on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">170,2 x 193 cm. / 67 x 76 in..</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">(TB-2306)</span></p>",
       "displayIndex": 0,
@@ -1518,7 +1518,7 @@
       "starred": false,
       "publishOn": 1762880746659,
       "addedOn": 1643206965705,
-      "updatedOn": 1788108455978,
+      "updatedOn": 1790860663089,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -6862,7 +6862,7 @@
         "source": 3
       },
       "tags": [
-        "Gstaad Art"
+        "Exhibition: Maze Art Gstaad 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Black Stoneware</p><p class=\"\" style=\"white-space:pre-wrap;\">height 40 cm / 15 ¾ in.</p><p class=\"\" style=\"white-space:pre-wrap;\">(HC-2318))</p>",
       "displayIndex": 0,
@@ -6870,7 +6870,7 @@
       "starred": false,
       "publishOn": 1708533018078,
       "addedOn": 1643206965705,
-      "updatedOn": 1787875747744,
+      "updatedOn": 1790860663072,
       "categories": [
         "Han-Chiao"
       ],
@@ -6897,7 +6897,7 @@
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-b47kr-p4b9x-hpalc-6sy26-ry9kp-66fl2-j4msj",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1708532235294-R3I5DNJ3PYDXGEDZ9Q0J/WEB_Horse+9%3A22%3A22+%232%2C+Joe+Andoe%2C+2022%2C+Oil+on+canvas%2C+116.8+x+96.5+cm.%2C+46+x+38+in.+%28JA-2202%29+copie.jpg",
       "tags": [
-        "Gstaad Art"
+        "Exhibition: Maze Art Gstaad 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2021</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\">116.8 x 96.5 cm. / 46 x 38 in.</p><p class=\"\" style=\"white-space:pre-wrap;\">(JA-2202)</p>",
       "displayIndex": 0,
@@ -6905,7 +6905,7 @@
       "starred": true,
       "publishOn": 1708532345187,
       "addedOn": 1643206965705,
-      "updatedOn": 1787875744849,
+      "updatedOn": 1790860663055,
       "categories": [
         "Joe Andoe"
       ],
@@ -6942,7 +6942,7 @@
         "source": 3
       },
       "tags": [
-        "Gstaad Art"
+        "Exhibition: Maze Art Gstaad 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">50.8 x 40.6 cm. / 20 x 16 in. </p><p class=\"\" style=\"white-space:pre-wrap;\"> ChW-2303</p>",
       "displayIndex": 0,
@@ -6950,7 +6950,7 @@
       "starred": true,
       "publishOn": 1708532125251,
       "addedOn": 1645096956383,
-      "updatedOn": 1787875744649,
+      "updatedOn": 1790860663188,
       "categories": [
         "Chloe Wise"
       ],
@@ -7035,7 +7035,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-rmtge-sllpb-y9hxj-psc7j-zrgya-45p2c-xhk3z-sy2fj-9nhw6",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1707393548767-DJCE113MIBLCHGSZVENA/HD1_Encounter%2C+Lian+Zhang%2C+2023%2C+Oil+on+canvas%2C+60+x+50+cm+%2823+%C2%BD+x+19+%C2%BE+in.jpg",
       "tags": [
-        "Gstaad Art"
+        "Exhibition: Maze Art Gstaad 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on canvas</p><p class=\"\" style=\"white-space:pre-wrap;\">60 x 50 cm. / 23 ½ x 19 ¾ in.</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">(LZ-2311)</span></p>",
       "displayIndex": 0,
@@ -7043,7 +7043,7 @@
       "starred": false,
       "publishOn": 1707393693372,
       "addedOn": 1643206965705,
-      "updatedOn": 1787873753955,
+      "updatedOn": 1790860663033,
       "categories": [
         "Lian Zhang"
       ],
@@ -7334,7 +7334,7 @@
       "urlId": "jsekhh5yca42zkx-mc8xf-aerkz-sf7eg-y6kww-rdmcn",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1708532598758-ANR9YQXXTD3WGM1F3GEQ/HD3_It+wasn%27t+even+that+good%2C+Natalia+Gonzalez+Martin%2C+2023.+Oil+on+wood%2C+120+x+160+cm.jpg",
       "tags": [
-        "Gstaad Art"
+        "Exhibition: Maze Art Gstaad 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023 </p><p class=\"\" style=\"white-space:pre-wrap;\">Oil on wood (three panels)</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">63 x 47 ¼ in.</span>. / <span style=\"color: rgb(0, 0, 0)\">63 x 47 ¼ in.</span></p><p class=\"\" style=\"white-space:pre-wrap;\">(NGM-2332)</p>",
       "displayIndex": 0,
@@ -7342,7 +7342,7 @@
       "starred": true,
       "publishOn": 1708532804888,
       "addedOn": 1643206965705,
-      "updatedOn": 1787870337267,
+      "updatedOn": 1790860663120,
       "categories": [
         "Natalia Gonzalez Martin"
       ],
@@ -7501,7 +7501,7 @@
         "source": 3
       },
       "tags": [
-        "Gstaad Art"
+        "Exhibition: Maze Art Gstaad 2024"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">2023</p><p class=\"\" style=\"white-space:pre-wrap;\">Acrylic on linen</p><p class=\"\" style=\"white-space:pre-wrap;\">170,2 x 193 cm. / 67 x 76 in..</p><p class=\"\" style=\"white-space:pre-wrap;\"><span style=\"color: rgb(0, 0, 0)\">(TB-2306)</span></p>",
       "displayIndex": 0,
@@ -7509,7 +7509,7 @@
       "starred": false,
       "publishOn": 1704819896442,
       "addedOn": 1643206965705,
-      "updatedOn": 1787868973275,
+      "updatedOn": 1790860663161,
       "categories": [
         "Todd Bienvenu"
       ],
@@ -10521,7 +10521,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">1990</p><p class=\"\">C-Print Mounted on dibond</p><p class=\"\">Edition 1/3</p><p class=\"\">50,8 x 60,9 cm / (20 x 24 in.)</p>",
       "displayIndex": 0,
@@ -10529,7 +10529,7 @@
       "starred": false,
       "publishOn": 1668512073172,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820522169,
+      "updatedOn": 1790860579206,
       "categories": [
         "Richard Kern"
       ],
@@ -10561,7 +10561,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">1991</p><p class=\"\">C-Print Mounted on dibond</p><p class=\"\">Edition </p><p class=\"\">1/3, 50,8 x 60,9 cm / (20 x 24 in.)</p>",
       "displayIndex": 0,
@@ -10569,7 +10569,7 @@
       "starred": false,
       "publishOn": 1668511411354,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820521353,
+      "updatedOn": 1790860579061,
       "categories": [
         "Richard Kern"
       ],
@@ -10601,7 +10601,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">1990</p><p class=\"\">C-Print Mounted on dibond</p><p class=\"\">Edition 1/3</p><p class=\"\">50,8 x 60,9 cm / (20 x 24 in.)</p>",
       "displayIndex": 0,
@@ -10609,7 +10609,7 @@
       "starred": false,
       "publishOn": 1668511168711,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820520247,
+      "updatedOn": 1790860579130,
       "categories": [
         "Richard Kern"
       ],
@@ -10641,7 +10641,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">1990</p><p class=\"\">B&amp;W Photograph mounted on dibond</p><p class=\"\">Edition 1/1</p><p class=\"\">127 x 152 cm / (50 x 60 in.).</p>",
       "displayIndex": 0,
@@ -10649,7 +10649,7 @@
       "starred": false,
       "publishOn": 1668510163200,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820519887,
+      "updatedOn": 1790860578957,
       "categories": [
         "Richard Kern"
       ],
@@ -10676,7 +10676,7 @@
       "urlId": "midnight-landscape-746yd-rhn68-5ldj5-x2d3k-9tdcf-h3npn-flfxw-7x9m3-72gy5-9yhk3-nxfb3-kgmpj-e4hh5-gxhkj-w79ra-7hhn6-xmm8y",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1668610505613-MQRCRICPMYLS4BGGUB3U/WEB_The+Scalpel%2C+Walter+Robinson%2C+2022%2C+Acrylic+on+canvas%2C+122+x+91%2C5+%2848+x+36+in.jpg",
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Acrylic on canvas</p><p class=\"\">122 x 91,5 / (48 x 36 in.)</p>",
       "displayIndex": 0,
@@ -10684,7 +10684,7 @@
       "starred": false,
       "publishOn": 1668508745368,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820518455,
+      "updatedOn": 1790860579169,
       "categories": [
         "Walter Robinson"
       ],
@@ -10721,7 +10721,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">2019</p><p class=\"\">Acrylic on canvas</p><p class=\"\">122 x 91,5 / 48 x 36 in.</p>",
       "displayIndex": 0,
@@ -10729,7 +10729,7 @@
       "starred": false,
       "publishOn": 1668508721771,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820518105,
+      "updatedOn": 1790860578981,
       "categories": [
         "Walter Robinson"
       ],
@@ -10761,7 +10761,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Acrylic on canvas</p><p class=\"\">122 x 91,5 / 48 x 36 in.</p>",
       "displayIndex": 0,
@@ -10769,7 +10769,7 @@
       "starred": false,
       "publishOn": 1669908947581,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820517676,
+      "updatedOn": 1790860579147,
       "categories": [
         "Walter Robinson"
       ],
@@ -10841,7 +10841,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Acrylic on canvas</p><p class=\"\">122-x-91,5 / (48-x-36-in.)</p>",
       "displayIndex": 0,
@@ -10849,7 +10849,7 @@
       "starred": false,
       "publishOn": 1669908956685,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820517137,
+      "updatedOn": 1790860579041,
       "categories": [
         "Walter Robinson"
       ],
@@ -10921,7 +10921,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Acrylic on canvas</p><p class=\"\">122 x 91,5 / (48 x 36 in.)</p>",
       "displayIndex": 0,
@@ -10929,7 +10929,7 @@
       "starred": false,
       "publishOn": 1668508309431,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820515987,
+      "updatedOn": 1790860579106,
       "categories": [
         "Walter Robinson"
       ],
@@ -10961,7 +10961,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">2022</p><p class=\"\">Acrylic on canvas</p><p class=\"\">122 × 91,5 cm / 48 × 36 in. </p>",
       "displayIndex": 0,
@@ -10969,7 +10969,7 @@
       "starred": true,
       "publishOn": 1668505252967,
       "addedOn": 1643206965705,
-      "updatedOn": 1787820514700,
+      "updatedOn": 1790860579008,
       "categories": [
         "Walter Robinson"
       ],
@@ -22744,7 +22744,7 @@
         "source": 3
       },
       "tags": [
-        "Walter Robinson + Richard Kern"
+        "Exhibition: Double Feature"
       ],
       "excerpt": "<p class=\"\">1991</p><p class=\"\">C-Print Mounted on dibond</p><p class=\"\">Edition 1/3</p><p class=\"\">50,8 x 60,9 cm / (20 x 24 in.)</p>",
       "displayIndex": 0,
@@ -22752,7 +22752,7 @@
       "starred": false,
       "publishOn": 1653299256870,
       "addedOn": 1643206965705,
-      "updatedOn": 1787806036998,
+      "updatedOn": 1790860579079,
       "categories": [
         "Richard Kern"
       ],

@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T12:58:28.280Z",
-  "sourceHash": "9769ae835cec5ee8dcd8e8ffd4ac53276372b54c065b252a4469ee84b5021e6e",
+  "updatedAt": "2026-10-01T13:18:14.588Z",
+  "sourceHash": "9dc6f6dbbb297b229613251d42f3213f33b38650f3cf546ecf1c8e156a99471f",
   "count": 106,
   "pages": 1,
   "items": [
@@ -70,7 +70,6 @@
         "Year : 2026",
         "Exhibition : Solo Show",
         "Status: On View",
-        "Location:  158 rue du General Leclerc,77780 Bourron-Marlotte, France",
         "Date: 2026-09-12/2026-12-12",
         "Opening: 2026-09-12",
         "Location: La Nicotière"
@@ -92,7 +91,7 @@
       "starred": true,
       "publishOn": 1788886249921,
       "addedOn": 1788886249921,
-      "updatedOn": 1790851828672
+      "updatedOn": 1790860275813
     },
     {
       "id": "6a18069ca7b1a53def6c320c",
@@ -4523,7 +4522,7 @@
       "starred": true,
       "publishOn": 1427475360789,
       "addedOn": 1427475360789,
-      "updatedOn": 1790836492326
+      "updatedOn": 1790860467815
     },
     {
       "id": "62680d3612f47618de17d94a",
@@ -4570,7 +4569,7 @@
       "starred": false,
       "publishOn": 1422548280369,
       "addedOn": 1422548280369,
-      "updatedOn": 1790855580346
+      "updatedOn": 1790860355721
     }
   ]
 }
