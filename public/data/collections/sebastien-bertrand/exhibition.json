@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T12:48:28.828Z",
-  "sourceHash": "92ce3d208a56e61e0e12e56d425219695238cc84dec20fc45ddabf86f878226c",
+  "updatedAt": "2026-10-01T12:58:28.280Z",
+  "sourceHash": "9769ae835cec5ee8dcd8e8ffd4ac53276372b54c065b252a4469ee84b5021e6e",
   "count": 106,
   "pages": 1,
   "items": [
@@ -26,11 +26,11 @@
         "Mirella Jaworska"
       ],
       "tags": [
-        "Year : 2026",
         "Exhibition : Solo Show",
         "Status: On View",
         "Opening: 2026-10-07",
-        "Date: 2026-10-07"
+        "Year: 2026",
+        "Date: 2026-10-08/2026-11-21"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening, Wednesday 07 October 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -49,7 +49,7 @@
       "starred": true,
       "publishOn": 1790777228100,
       "addedOn": 1790777228100,
-      "updatedOn": 1790858805971
+      "updatedOn": 1790858990384
     },
     {
       "id": "6aa0388f8f42385764242634",
