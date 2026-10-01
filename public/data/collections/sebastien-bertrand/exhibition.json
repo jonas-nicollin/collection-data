@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T12:10:31.082Z",
-  "sourceHash": "78554d2d469707680bbd99773920d3ddddb15bd8cecb82e5764fb7fa38b5cc8f",
+  "updatedAt": "2026-10-01T12:28:22.942Z",
+  "sourceHash": "3bcbd215b279a9c0a1602db886eaa4564a6bd24ff15d058a51f1623847a33cd7",
   "count": 108,
   "pages": 1,
   "items": [
@@ -3781,7 +3781,7 @@
     },
     {
       "id": "6261300d07cb9e27ae8b3213",
-      "title": "USED / solo Show + LIKE / Group Show",
+      "title": "USED / Solo Show + LIKE / Group Show",
       "fullUrl": "/exhibition/solo-show/used-solo-show-like-group-show",
       "sourceUrl": "",
       "urlId": "solo-show/used-solo-show-like-group-show",
@@ -3817,7 +3817,7 @@
       "starred": true,
       "publishOn": 1498472460940,
       "addedOn": 1498472460940,
-      "updatedOn": 1790838343192
+      "updatedOn": 1790857506759
     },
     {
       "id": "6266be8d259470641162bab9",
@@ -4197,7 +4197,7 @@
     },
     {
       "id": "62611ec77448c115a4a319da",
-      "title": "SUMMER SHOW",
+      "title": "Summer Show",
       "fullUrl": "/exhibition/group-show/summer-show",
       "sourceUrl": "",
       "urlId": "group-show/summer-show",
@@ -4231,7 +4231,7 @@
       "starred": false,
       "publishOn": 1465549620834,
       "addedOn": 1465549620834,
-      "updatedOn": 1790838477717
+      "updatedOn": 1790857328085
     },
     {
       "id": "6266c05583150d693796535e",
