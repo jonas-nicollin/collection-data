@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T07:58:19.142Z",
-  "sourceHash": "b25ddfda621359dc2c3e95e3e664992ecbec2fc768e710d562e1458ef5451449",
+  "updatedAt": "2026-10-01T08:08:17.316Z",
+  "sourceHash": "39efcd9ff97c7c39a0ff70600ec5e23436ca45d790630e76a20d9099163cfcb6",
   "count": 108,
   "pages": 1,
   "items": [
@@ -772,28 +772,28 @@
         "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
-        "Location: Art Brussels, Booth 5C–12, Brussels Expo, Belgium",
         "Date: 2025-04-25/2025-04-27",
-        "Opening reception: 2025-04-24T11:00/2025-04-24T21:00"
+        "Opening reception: 2025-04-24T11:00/2025-04-24T21:00",
+        "Location: Booth 5C–12, Brussels Expo"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25–27 April 2025</p><pre><code>Opening Reception: Thursday, April 24, 11–9pm</code></pre>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 50.90159860000001,
+        "mapLng": 4.336068399999999,
+        "markerLat": 50.90159860000001,
+        "markerLng": 4.336068399999999,
+        "addressTitle": "Brussels Expo – Entrance Hall 5",
+        "addressLine1": "Place de Belgique 1",
+        "addressLine2": "1020 Brussels",
+        "addressCountry": "Belgium"
       },
       "displayIndex": 91,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1742311860406,
       "addedOn": 1742311860406,
-      "updatedOn": 1790177541314
+      "updatedOn": 1790841736957
     },
     {
       "id": "681a01325c16ca68f7b89aa6",
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "65d61d61e303a63d75a00e21",
-      "title": "Gstaad Art 2024",
+      "title": "Maze Art Gstaad 2024",
       "fullUrl": "/exhibition/fair/gstaad-art-2024-1",
       "sourceUrl": "",
       "urlId": "fair/gstaad-art-2024-1",
@@ -1479,21 +1479,21 @@
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">17 &amp; ​18 February 2024</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "addressCountry": ""
+        "mapLat": 46.4706469,
+        "mapLng": 7.2821898,
+        "markerLat": 46.4706469,
+        "markerLng": 7.2821898,
+        "addressTitle": "Maze Art Gstaad, Festival-Zelt",
+        "addressLine1": "Sportzentrumstrasse 5",
+        "addressLine2": "3780 Gstaad",
+        "addressCountry": "Switzerland"
       },
       "displayIndex": 74,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1708531168850,
       "addedOn": 1708531168850,
-      "updatedOn": 1790178594740
+      "updatedOn": 1790841847836
     },
     {
       "id": "6621021c52fba754cfc5d2f2",
@@ -1517,21 +1517,21 @@
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26–28 April 2024</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "Brussels Expo",
-        "addressLine1": "Halls 5 &amp; 6 Place de la Belgique 1",
+        "mapLat": 50.90159860000001,
+        "mapLng": 4.336068399999999,
+        "markerLat": 50.90159860000001,
+        "markerLng": 4.336068399999999,
+        "addressTitle": "Brussels Expo – Entrance Hall 5",
+        "addressLine1": "Place de Belgique 1",
         "addressLine2": "1020 Brussels",
-        "addressCountry": "Belgium "
+        "addressCountry": "Belgium"
       },
       "displayIndex": 77,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1704457260734,
       "addedOn": 1704457260734,
-      "updatedOn": 1790178629520
+      "updatedOn": 1790841696745
     },
     {
       "id": "654cd05c9f79e02413a291a9",
@@ -1942,21 +1942,21 @@
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">20–23 April 2023</p>",
       "location": {
         "mapZoom": 12,
-        "mapLat": 40.7207559,
-        "mapLng": -74.00076130000002,
-        "markerLat": 40.7207559,
-        "markerLng": -74.00076130000002,
-        "addressTitle": "Brussels Expo",
-        "addressLine1": "Halls 5 &amp; 6 Place de la Belgique 1",
+        "mapLat": 50.90159860000001,
+        "mapLng": 4.336068399999999,
+        "markerLat": 50.90159860000001,
+        "markerLng": 4.336068399999999,
+        "addressTitle": "Brussels Expo – Entrance Hall 5",
+        "addressLine1": "Place de Belgique 1",
         "addressLine2": "1020 Brussels",
-        "addressCountry": "Belgium "
+        "addressCountry": "Belgium"
       },
       "displayIndex": 65,
       "workflowState": 1,
       "starred": true,
       "publishOn": 1675321200263,
       "addedOn": 1675321200263,
-      "updatedOn": 1790178951802
+      "updatedOn": 1790841650898
     },
     {
       "id": "63bd358cfc2f1c7eff9fbd66",
