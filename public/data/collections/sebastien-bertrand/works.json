@@ -5,11 +5,51 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-01T14:08:19.301Z",
-  "sourceHash": "cae3e6f1d7522fc4b2b286288cffadc39159ee75f71ab2d6e015e03b84c09a75",
-  "count": 758,
+  "updatedAt": "2026-10-01T14:18:22.511Z",
+  "sourceHash": "261a1295d33485ca360fca4aa51a44d9b547b2ec837535e1f7ce0e40cb1a904c",
+  "count": 759,
   "pages": 4,
   "items": [
+    {
+      "id": "6abe68d6afd47f55fbf91f7e",
+      "title": "Repaint-IHI",
+      "fullUrl": "/works/p/e4dnbabpbc5tlyr-rxr9s-zzewx-69tsh-pykda",
+      "urlId": "e4dnbabpbc5tlyr-rxr9s-zzewx-69tsh-pykda",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/de1107e2-279b-4d33-95d6-443a4c3ff10e/HD3_Sang+Woo+Kim%2C+Clarity+001%2C+2020%2C+Oil+on+canvas%2C+51.5+x+41+x+3+cm.%2C+20+%C2%BC+x+16+%C2%BC+x+1+%C2%BC+in.+%28SWK-2002%29+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Exhibition: Solo show"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil and pigment on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">116 x 89 cm. / 45 ¾ x 35 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TFO-2503</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1790863697281,
+      "addedOn": 1643206965705,
+      "updatedOn": 1790863966244,
+      "categories": [
+        "Thomas Fougeirol"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/de1107e2-279b-4d33-95d6-443a4c3ff10e/HD3_Sang+Woo+Kim%2C+Clarity+001%2C+2020%2C+Oil+on+canvas%2C+51.5+x+41+x+3+cm.%2C+20+%C2%BC+x+16+%C2%BC+x+1+%C2%BC+in.+%28SWK-2002%29+copie.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD3_Sang Woo Kim, Clarity 001, 2020, Oil on canvas, 51.5 x 41 x 3 cm., 20 ¼ x 16 ¼ x 1 ¼ in. (SWK-2002) copie.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "categoryOrder": {
+        "Thomas Fougeirol": 0
+      }
+    },
     {
       "id": "6ab3e36bd8b5375f7d9ce5e8",
       "title": "Forget-me-not",
@@ -3262,7 +3302,7 @@
       ],
       "sourceType": "product",
       "categoryOrder": {
-        "Thomas Fougeirol": 0
+        "Thomas Fougeirol": 1
       }
     },
     {
@@ -4604,7 +4644,7 @@
       ],
       "sourceType": "product",
       "categoryOrder": {
-        "Thomas Fougeirol": 1
+        "Thomas Fougeirol": 2
       }
     },
     {

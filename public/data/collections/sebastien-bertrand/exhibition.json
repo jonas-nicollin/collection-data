@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T14:08:11.173Z",
-  "sourceHash": "d993fbca913f0356e083e26fcaa8b3b42c637fbaeee8481213abdd9c880709b5",
+  "updatedAt": "2026-10-01T14:18:12.017Z",
+  "sourceHash": "4a23ef8d21063a3a6e6fd853a90e8f15d6bd18272473a5abb4d19163f6d84ffa",
   "count": 107,
   "pages": 1,
   "items": [
@@ -90,7 +90,7 @@
       "starred": true,
       "publishOn": 1790604259553,
       "addedOn": 1790604259553,
-      "updatedOn": 1790863474384
+      "updatedOn": 1790864211356
     },
     {
       "id": "6aa0388f8f42385764242634",
@@ -2533,7 +2533,7 @@
       "starred": true,
       "publishOn": 1631181600790,
       "addedOn": 1631181600790,
-      "updatedOn": 1790837608977
+      "updatedOn": 1790863692284
     },
     {
       "id": "626021665ab424550ed4364f",
@@ -2578,7 +2578,7 @@
       "starred": false,
       "publishOn": 1626361560259,
       "addedOn": 1626361560259,
-      "updatedOn": 1790841245466
+      "updatedOn": 1790863718728
     },
     {
       "id": "61faba286a80e210bd1aca07",
@@ -2618,7 +2618,7 @@
       "starred": true,
       "publishOn": 1623405600911,
       "addedOn": 1623405600911,
-      "updatedOn": 1790837649539
+      "updatedOn": 1790863775162
     },
     {
       "id": "6308ebd91028df4b7c516c5f",
@@ -2658,7 +2658,7 @@
       "starred": true,
       "publishOn": 1620316800582,
       "addedOn": 1620316800582,
-      "updatedOn": 1790837679281
+      "updatedOn": 1790863799036
     },
     {
       "id": "62602a405bcca87ec07cf9f6",
@@ -2698,7 +2698,7 @@
       "starred": true,
       "publishOn": 1620315840574,
       "addedOn": 1620315840574,
-      "updatedOn": 1790838050314
+      "updatedOn": 1790863826599
     },
     {
       "id": "62bf07c4055fc74cd48ed33c",
@@ -2738,7 +2738,7 @@
       "starred": true,
       "publishOn": 1617201720742,
       "addedOn": 1617201720742,
-      "updatedOn": 1790837861690
+      "updatedOn": 1790863853045
     },
     {
       "id": "62602c741d7b0651536ce8d7",
@@ -2778,7 +2778,7 @@
       "starred": true,
       "publishOn": 1614099180128,
       "addedOn": 1614099180128,
-      "updatedOn": 1790837891029
+      "updatedOn": 1790863871108
     },
     {
       "id": "6260327831dc3f17a50f5099",
@@ -2819,7 +2819,7 @@
       "starred": true,
       "publishOn": 1608311940136,
       "addedOn": 1608311940136,
-      "updatedOn": 1790837929835
+      "updatedOn": 1790863889887
     },
     {
       "id": "6260358b71861d4299cf2f23",
@@ -2861,7 +2861,7 @@
       "starred": true,
       "publishOn": 1604079120528,
       "addedOn": 1604079120528,
-      "updatedOn": 1790837957302
+      "updatedOn": 1790863911643
     },
     {
       "id": "626037e37f4b8048cc110aff",
@@ -2901,7 +2901,7 @@
       "starred": true,
       "publishOn": 1601570520012,
       "addedOn": 1601570520012,
-      "updatedOn": 1790837987046
+      "updatedOn": 1790863943369
     },
     {
       "id": "62628f97fce0673731067bcf",
@@ -2957,7 +2957,7 @@
       "starred": false,
       "publishOn": 1592565600759,
       "addedOn": 1592565600759,
-      "updatedOn": 1790838069584
+      "updatedOn": 1790863959618
     },
     {
       "id": "626292db5febb675352a4bf7",
@@ -2997,7 +2997,7 @@
       "starred": true,
       "publishOn": 1582202040881,
       "addedOn": 1582202040881,
-      "updatedOn": 1790838091959
+      "updatedOn": 1790863979600
     },
     {
       "id": "6262c9897e147e644c935eb6",
@@ -3046,7 +3046,7 @@
       "starred": false,
       "publishOn": 1580401680188,
       "addedOn": 1580401680188,
-      "updatedOn": 1790855608283
+      "updatedOn": 1790863992246
     },
     {
       "id": "626295157bfd0f2f1b5c26db",
@@ -3087,7 +3087,7 @@
       "starred": true,
       "publishOn": 1575031440837,
       "addedOn": 1575031440837,
-      "updatedOn": 1790838143352
+      "updatedOn": 1790864006802
     },
     {
       "id": "6262cc62c7cc704f063e105d",
@@ -3129,7 +3129,7 @@
       "starred": false,
       "publishOn": 1572626400101,
       "addedOn": 1572626400101,
-      "updatedOn": 1790840498558
+      "updatedOn": 1790864022015
     },
     {
       "id": "6262976988253841acd83d55",
@@ -3193,7 +3193,7 @@
     },
     {
       "id": "6262997ea430a1080f8b3527",
-      "title": "Solo show",
+      "title": "Solo-show",
       "fullUrl": "/exhibition/purvis-young-solo-show",
       "sourceUrl": "",
       "urlId": "purvis-young-solo-show",
@@ -3229,7 +3229,7 @@
       "starred": true,
       "publishOn": 1558008180247,
       "addedOn": 1558008180247,
-      "updatedOn": 1790860763250
+      "updatedOn": 1790864168966
     },
     {
       "id": "6262ce702152581d23bf680d",
