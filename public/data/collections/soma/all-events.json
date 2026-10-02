@@ -5,8 +5,8 @@
   "id": "all-events",
   "path": "/all-events",
   "sourceUrl": "https://somabureau.com/all-events?format=json",
-  "updatedAt": "2026-10-02T12:58:11.844Z",
-  "sourceHash": "c0e110924daaedf3dce737260b1e728144c9e3c269e9c84e7dde1cfb40e30786",
+  "updatedAt": "2026-10-02T14:17:58.097Z",
+  "sourceHash": "80cc55c33fb54b38d045e9019cea7378762518e74656a5361ca0bf6c388c819e",
   "count": 4,
   "pages": 1,
   "items": [
@@ -86,7 +86,7 @@
       "starred": false,
       "publishOn": 1769687822305,
       "addedOn": 1769687822305,
-      "updatedOn": 1790933222124
+      "updatedOn": 1790950357132
     },
     {
       "id": "68247d95b74c5b194aafd5cc",
