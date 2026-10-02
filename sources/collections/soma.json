@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "site": "soma",
+  "collections": [
+    {
+      "id": "all-events",
+      "path": "/all-events",
+      "url": "https://somabureau.com/all-events?format=json"
+    },
+    {
+      "id": "apparel",
+      "path": "/apparel",
+      "url": "https://somabureau.com/apparel?format=json",
+      "adapter": "squarespace-products"
+    }
+  ]
+}
