@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "soma",
+  "id": "all-events",
+  "path": "/all-events",
+  "sourceUrl": "https://somabureau.com/all-events?format=json",
+  "updatedAt": "2026-10-02T08:17:57.175Z",
+  "sourceHash": "f6db3bb02bf7223eadd5d51cd0d81f74d76838f9af9be64ac29ba6bc02052fae",
+  "count": 4,
+  "pages": 1,
+  "items": [
+    {
+      "id": "6a9829621bf8207c070dff39",
+      "title": "SOMA x Musée Transitoire",
+      "fullUrl": "/all-events/soma-x-musee-transitoire",
+      "urlId": "soma-x-musee-transitoire",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/1790848847770-F55IV0IE85IHX20WCPGJ/IMG_4491+2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Year: 2026",
+        "In collaboration with: Musée Transitoire",
+        "Artist: Romina Shama",
+        "Status: Archive",
+        "Date: 2026-08-27"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">August 27th </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2046406,
+        "mapLng": 6.1619958,
+        "markerLat": 46.2046406,
+        "markerLng": 6.1619958,
+        "addressTitle": "SOMA",
+        "addressLine1": "32  Rue de l&#39;Avenir",
+        "addressLine2": "1207 Geneva",
+        "addressCountry": "Switzerland"
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1788357749499,
+      "addedOn": 1788357749499,
+      "updatedOn": 1790928495002
+    },
+    {
+      "id": "697b4b0e0469037ffa8f96ff",
+      "title": "SOMA x Fondazione Museo Emblema",
+      "fullUrl": "/all-events/soma-x-museo-emblema",
+      "urlId": "soma-x-museo-emblema",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/1769688278215-FEOFB54CI955FS6XA2NW/Image120325124114.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Year: 2026",
+        "In collaboration with: Fondazione Museo Emblema",
+        "Artist: Salvatore Emblema",
+        "Status: Archive",
+        "Date: 2026-03-12/2026-06-20"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">March 12th - June 20th 2026</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2046406,
+        "mapLng": 6.1619958,
+        "markerLat": 46.2046406,
+        "markerLng": 6.1619958,
+        "addressTitle": "SOMA",
+        "addressLine1": "32  Rue de l&#39;Avenir",
+        "addressLine2": "1207 Geneva",
+        "addressCountry": "Switzerland"
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1769687822305,
+      "addedOn": 1769687822305,
+      "updatedOn": 1790928402391
+    },
+    {
+      "id": "68247d95b74c5b194aafd5cc",
+      "title": "Valby Vokalgruppe ×&nbsp;Francis Baudevin",
+      "fullUrl": "/all-events/soma-ensemble-vide",
+      "urlId": "soma-ensemble-vide",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/1760600694223-NQ0ZVLSSYDUC35MIH52W/VV1+-+photo+by+Josefine+Seifert.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Concert",
+        "Performance"
+      ],
+      "tags": [
+        "In collaboration with: KorSonor",
+        "Artist: Francis Baudevin",
+        "Year: 2025",
+        "Artist: Valby Vokalgruppe",
+        "In collaboration with: Ensemble vide",
+        "Status: Archive",
+        "Date: 2025-11-14T21:00"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14 November 2025, 9pm</p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2046406,
+        "mapLng": 6.1619958,
+        "markerLat": 46.2046406,
+        "markerLng": 6.1619958,
+        "addressTitle": "SOMA",
+        "addressLine1": "32  Rue de l&#39;Avenir",
+        "addressLine2": "1207 Geneva",
+        "addressCountry": "Switzerland"
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1763074800191,
+      "addedOn": 1763074800191,
+      "updatedOn": 1790928328402
+    },
+    {
+      "id": "67dd1a6bab27b150f407f595",
+      "title": "SOMA x Mamco",
+      "fullUrl": "/all-events/psot-netebras-xul",
+      "urlId": "psot-netebras-xul",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/1747815762859-YZVUPLMB6RHFBIX2WKGG/Annik-Wetter_06.06.17_9211.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Group Exhibition"
+      ],
+      "tags": [
+        "Year: 2025",
+        "In collaboration with: MAMCO",
+        "Status: Archive",
+        "Artist: Fabrice Gygi",
+        "Artist: Timothée Calame",
+        "Artist: Lou Masduraud",
+        "Artist: Gaia Vincensini",
+        "Artist: Mai-Thu Perret",
+        "Artist: Sylvie Fleury",
+        "Artist: Bastien Gachet",
+        "Artist: Vidya Gastaldon",
+        "Artist: Jean-Michel Wicker",
+        "Artist: David Hominal",
+        "Artist: Lauren Huret",
+        "Artist: Chris Kauffmann",
+        "Artist: Sup Kim",
+        "Artist: KLAT",
+        "Artist: Viola Leddi",
+        "Artist: Gianni Motti",
+        "Artist: Mathias C Pfund",
+        "Artist: Pierre Vadi",
+        "Date: 2025-06-05/2025-09-07"
+      ],
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">5 June—7 September 2025</p>",
+      "location": {
+        "mapZoom": 10,
+        "mapLat": 46.171317054698235,
+        "mapLng": 6.317062349777998,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "SOMA",
+        "addressLine1": "Rue de l’Avenir 32",
+        "addressLine2": "1207 Geneva",
+        "addressCountry": "Switzerland"
+      },
+      "displayIndex": 6,
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1749106800846,
+      "addedOn": 1749106800846,
+      "updatedOn": 1790928342676
+    }
+  ]
+}

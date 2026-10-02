@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-02T06:28:04.428Z",
+  "updatedAt": "2026-10-02T08:17:57.361Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "5b11f869b2bd8147bc5ceceb61194c050e081d92105258eb0c7f1104f20fcbb6",
@@ -80,6 +80,18 @@
       "updatedAt": "2026-10-02T06:28:04.428Z",
       "count": 759,
       "pages": 4
+    },
+    "soma/all-events.json": {
+      "sourceHash": "f6db3bb02bf7223eadd5d51cd0d81f74d76838f9af9be64ac29ba6bc02052fae",
+      "updatedAt": "2026-10-02T08:17:57.175Z",
+      "count": 4,
+      "pages": 1
+    },
+    "soma/apparel.json": {
+      "sourceHash": "fba98d9e306862ae6d622802df807a7ea754dd51f68c4917eb2fcbab3f4fd0fd",
+      "updatedAt": "2026-10-02T08:17:57.361Z",
+      "count": 2,
+      "pages": 1
     }
   }
 }

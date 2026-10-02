@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "soma",
+  "id": "apparel",
+  "path": "/apparel",
+  "sourceUrl": "https://somabureau.com/apparel?format=json",
+  "updatedAt": "2026-10-02T08:17:57.361Z",
+  "sourceHash": "fba98d9e306862ae6d622802df807a7ea754dd51f68c4917eb2fcbab3f4fd0fd",
+  "count": 2,
+  "pages": 1,
+  "items": [
+    {
+      "id": "682dfbeaffc32f25ea5d24d3",
+      "title": "SOMA Corduroy Cap",
+      "fullUrl": "/apparel/p/soma-cap",
+      "urlId": "soma-cap",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/3053f392-a575-4e49-8a69-62fe71346bb2/SOMA-Apparel-Cap-Corduroy-01.jpg",
+      "excerpt": "<gen-text data-content-id=\"chatcmpl-BZuGdSKB7buIHSzN2auHdMM93IQeF\"><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The SOMA Branded Dad Cap is a stylish corduroy cap, made and stitched in the USA, available in Powder Pink and Olive Green.</p></gen-text>",
+      "displayIndex": 7,
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1747844845192,
+      "addedOn": 1747844074149,
+      "updatedOn": 1787988079876,
+      "categories": [],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/3053f392-a575-4e49-8a69-62fe71346bb2/SOMA-Apparel-Cap-Corduroy-01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "SOMA-Apparel-Cap-Corduroy-01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/312eef97-fac3-4ab7-8d89-9619a2275ead/SOMA-Apparel-Cap-Corduroy-02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "SOMA-Apparel-Cap-Corduroy-02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/8ac7e8a1-37c5-4944-8d5f-ccd6dc3010e9/SOMA-Apparel-Cap-Corduroy-03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "SOMA-Apparel-Cap-Corduroy-03.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      }
+    },
+    {
+      "id": "682dfa9e4d2d3263ee4b3685",
+      "title": "Hulken x SOMA",
+      "fullUrl": "/apparel/p/hulken-bag-black",
+      "urlId": "hulken-bag-black",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/ca4edb7e-0041-4c78-bebf-97536e6ee2fe/SOMA-Apparel-Hulken_Bag-04.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Schleping made easy. Practical bag on wheels, with customized SOMA logo printed by the Baxter workshop in Geneva.</p>",
+      "displayIndex": 6,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1747844066033,
+      "addedOn": 1747843742877,
+      "updatedOn": 1787988077589,
+      "categories": [],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/ca4edb7e-0041-4c78-bebf-97536e6ee2fe/SOMA-Apparel-Hulken_Bag-04.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "SOMA-Apparel-Hulken_Bag-04.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/78a813b8-26a8-4e01-bc1e-edbc042f8c6b/SOMA-Apparel-Hulken_Bag-02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "SOMA-Apparel-Hulken_Bag-02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/ed4a8553-a3cd-4557-89c7-a26bc6c7fdf6/SOMA-Apparel-Hulken_Bag-03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "SOMA-Apparel-Hulken_Bag-03.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/ddbddb49-88ff-4f98-8c08-a936728d7ae9/SOMA-Apparel-Hulken_Bag-01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "SOMA-Apparel-Hulken_Bag-01.jpg"
+        }
+      ],
+      "sourceType": "product"
+    }
+  ]
+}
