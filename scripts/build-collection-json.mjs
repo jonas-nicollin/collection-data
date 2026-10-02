@@ -120,6 +120,55 @@ function normalizeProductMedia(item) {
     .filter(Boolean);
 }
 
+function moneyValue(money, cents) {
+  const moneyNumber = Number(money?.value);
+  if (Number.isFinite(moneyNumber)) return moneyNumber;
+
+  const centsNumber = Number(cents);
+  return Number.isFinite(centsNumber) ? centsNumber / 100 : null;
+}
+
+function normalizeProductPricing(item) {
+  const sourceVariants = Array.isArray(item?.variants) && item.variants.length
+    ? item.variants
+    : Array.isArray(item?.structuredContent?.variants)
+      ? item.structuredContent.variants
+      : [];
+  const variants = sourceVariants.length ? sourceVariants : [item];
+  const prices = [];
+
+  variants.forEach((variant) => {
+    const regular = moneyValue(variant?.priceMoney, variant?.price ?? variant?.priceCents);
+    const sale = moneyValue(variant?.salePriceMoney, variant?.salePrice ?? variant?.salePriceCents);
+    if (!Number.isFinite(regular)) return;
+
+    const onSale = variant?.onSale === true && Number.isFinite(sale) && sale >= 0 && sale < regular;
+    prices.push({ regular, effective: onSale ? sale : regular, onSale });
+  });
+
+  if (!prices.length) return null;
+
+  const currency = String(
+    sourceVariants.find((variant) => variant?.priceMoney?.currency)?.priceMoney?.currency ||
+    item?.priceMoney?.currency ||
+    item?.structuredContent?.priceMoney?.currency ||
+    ''
+  ).trim().toUpperCase();
+  if (!currency) return null;
+
+  const effectiveValues = prices.map((entry) => entry.effective);
+  const regularValues = prices.map((entry) => entry.regular);
+
+  return {
+    currency,
+    min: Math.min(...effectiveValues),
+    max: Math.max(...effectiveValues),
+    regularMin: Math.min(...regularValues),
+    regularMax: Math.max(...regularValues),
+    onSale: prices.some((entry) => entry.onSale)
+  };
+}
+
 function cloneEssentialItem(item, options = {}) {
   const output = {};
 
@@ -148,6 +197,11 @@ function cloneEssentialItem(item, options = {}) {
     output.categories = categories;
     output.media = media;
     output.sourceType = 'product';
+
+    if (options.productPricing === true) {
+      const price = normalizeProductPricing(item);
+      if (price) output.price = price;
+    }
 
     if (media.length) {
       output.assetUrl = media[0].assetUrl;
@@ -350,7 +404,8 @@ async function fetchAllCollectionItems(collection) {
 
   const items = rawItems.map((item) => cloneEssentialItem(item, {
     adapter: collection.adapter,
-    categoryMap
+    categoryMap,
+    productPricing: collection.productPricing === true
   }));
 
   await addCategoryOrder(items, categoryMap, collection, cookies);
