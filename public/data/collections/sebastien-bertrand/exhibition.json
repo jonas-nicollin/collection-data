@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-01T15:18:14.218Z",
-  "sourceHash": "091a90b34d1e17110137d985a0da4bdb1d2824e591c2b7ba35512b088adcf0ba",
+  "updatedAt": "2026-10-02T06:27:57.608Z",
+  "sourceHash": "920bbc51188c93bcc4d29613c5ac707f7b1585ccff756acad9701d45b45eb066",
   "count": 107,
   "pages": 1,
   "items": [
@@ -71,7 +71,8 @@
         "Status: On View",
         "Opening: 2026-10-07",
         "Year: 2026",
-        "Date: 2026-10-08/2026-11-21"
+        "Date: 2026-10-08/2026-11-21",
+        "Exhibition key: thomas-fougeirol-solo-show-2026"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening, Wednesday 07 October 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -90,7 +91,7 @@
       "starred": true,
       "publishOn": 1790604259553,
       "addedOn": 1790604259553,
-      "updatedOn": 1790865966300
+      "updatedOn": 1790922186553
     },
     {
       "id": "6aa0388f8f42385764242634",
@@ -3193,7 +3194,7 @@
     },
     {
       "id": "6262997ea430a1080f8b3527",
-      "title": "Solo-show Purvis Young",
+      "title": "Solo-show",
       "fullUrl": "/exhibition/purvis-young-solo-show",
       "sourceUrl": "",
       "urlId": "purvis-young-solo-show",
@@ -3230,7 +3231,7 @@
       "starred": true,
       "publishOn": 1558008180247,
       "addedOn": 1558008180247,
-      "updatedOn": 1790867494146
+      "updatedOn": 1790922066361
     },
     {
       "id": "6262ce702152581d23bf680d",

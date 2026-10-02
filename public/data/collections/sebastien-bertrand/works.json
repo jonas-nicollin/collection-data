@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-01T15:48:12.978Z",
-  "sourceHash": "c222daec48d12c86168018b2d0d1186feab53729b9330ef3f5debfd983500259",
+  "updatedAt": "2026-10-02T06:28:04.428Z",
+  "sourceHash": "d269c4d42efcd16ae1747acc6f5e1082a111f0f96470eb1bbe7b43cd1a228f48",
   "count": 759,
   "pages": 4,
   "items": [
@@ -22,7 +22,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo Show"
+        "Exhibition key: thomas-fougeirol-solo-show-2026"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil and pigment on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">116 x 89 cm. / 45 ¾ x 35 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TFO-2503</p>",
       "displayIndex": 0,
@@ -30,7 +30,7 @@
       "starred": false,
       "publishOn": 1790863697281,
       "addedOn": 1643206965705,
-      "updatedOn": 1790865133604,
+      "updatedOn": 1790922200442,
       "categories": [
         "Thomas Fougeirol"
       ],
@@ -13270,7 +13270,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">ca. 1990</p><p class=\"\">Mixed media on panel, found objects</p><p class=\"\">45 x 82,5 cm / 17 3/4 x 32,5 in.</p>",
       "displayIndex": 0,
@@ -13278,7 +13278,7 @@
       "starred": false,
       "publishOn": 1656423092776,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457850,
+      "updatedOn": 1790922029261,
       "categories": [
         "Purvis Young"
       ],
@@ -13310,7 +13310,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">ca. 1990</p><p class=\"\">Mixed media on panel, found objects</p><p class=\"\">40,5 x 89 cm / 16 x 35 in.</p>",
       "displayIndex": 0,
@@ -13318,7 +13318,7 @@
       "starred": false,
       "publishOn": 1656422953529,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457741,
+      "updatedOn": 1790922029385,
       "categories": [
         "Purvis Young"
       ],
@@ -13350,7 +13350,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">ca. 1990</p><p class=\"\">Mixed media on panel, found objects</p><p class=\"\">228,5 x 122 cm / 90 x 48 in.</p>",
       "displayIndex": 0,
@@ -13358,7 +13358,7 @@
       "starred": false,
       "publishOn": 1656422872867,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457716,
+      "updatedOn": 1790922029240,
       "categories": [
         "Purvis Young"
       ],
@@ -13390,7 +13390,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">ca. 1990</p><p class=\"\">Mixed media on panel, found objects</p><p class=\"\">245,5 x 122 cm / 96 x 48 in.</p>",
       "displayIndex": 0,
@@ -13398,7 +13398,7 @@
       "starred": false,
       "publishOn": 1656422788607,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457757,
+      "updatedOn": 1790922029291,
       "categories": [
         "Purvis Young"
       ],
@@ -13430,7 +13430,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">ca. 1990</p><p class=\"\">Mixed media on panel, found objects</p><p class=\"\">73,5 x 61 cm / 29 x 24 in.</p>",
       "displayIndex": 0,
@@ -13438,7 +13438,7 @@
       "starred": false,
       "publishOn": 1656422711906,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457643,
+      "updatedOn": 1790922029158,
       "categories": [
         "Purvis Young"
       ],
@@ -13470,7 +13470,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">ca. 1990</p><p class=\"\">Mixed media on panel, found objects</p><p class=\"\">83,5 x 81,5 cm / 33 x 32 in.</p>",
       "displayIndex": 0,
@@ -13478,7 +13478,7 @@
       "starred": false,
       "publishOn": 1656422626555,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457895,
+      "updatedOn": 1790922029179,
       "categories": [
         "Purvis Young"
       ],
@@ -13510,7 +13510,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">ca. 1990</p><p class=\"\">Mixed media on panel, found objects</p><p class=\"\">81 x 61 cm / 31,5 x 24 in.</p>",
       "displayIndex": 0,
@@ -13518,7 +13518,7 @@
       "starred": false,
       "publishOn": 1656422550919,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457776,
+      "updatedOn": 1790922029200,
       "categories": [
         "Purvis Young"
       ],
@@ -13550,7 +13550,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">ca. 1990</p><p class=\"\">Mixed media on panel, found objects</p><p class=\"\">81,5 x 63,5 cm / 35 x 25 in.</p>",
       "displayIndex": 0,
@@ -13558,7 +13558,7 @@
       "starred": false,
       "publishOn": 1656422470420,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457674,
+      "updatedOn": 1790922029221,
       "categories": [
         "Purvis Young"
       ],
@@ -13591,7 +13591,7 @@
       },
       "tags": [
         "Exhibition: Cosmic Flush: Images of Scuffle",
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">ca. 1990</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Mixed media on panel, found objects</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">61 x 190,5 cm / 24 x 75 in.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>PY-9006</span></p>",
       "displayIndex": 0,
@@ -13599,7 +13599,7 @@
       "starred": false,
       "publishOn": 1656422383639,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457825,
+      "updatedOn": 1790922029363,
       "categories": [
         "Purvis Young"
       ],
@@ -13631,7 +13631,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">1999</p><p class=\"\">Mixed media on panel, found objects</p><p class=\"\">89 x 89 cm / 35 x 35 in.</p>",
       "displayIndex": 0,
@@ -13639,7 +13639,7 @@
       "starred": false,
       "publishOn": 1656422299929,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457695,
+      "updatedOn": 1790922029310,
       "categories": [
         "Purvis Young"
       ],
@@ -13671,7 +13671,7 @@
         "source": 3
       },
       "tags": [
-        "Exhibition: Solo show Purvis Young"
+        "Exhibition key: purvis-young-solo-show-2019"
       ],
       "excerpt": "<p class=\"\">1995</p><p class=\"\">Oil on wood</p><p class=\"\">71 x 117,5 cm / 28 x 47 in.</p>",
       "displayIndex": 0,
@@ -13679,7 +13679,7 @@
       "starred": false,
       "publishOn": 1656422201444,
       "addedOn": 1643206965705,
-      "updatedOn": 1790864457874,
+      "updatedOn": 1790922029341,
       "categories": [
         "Purvis Young"
       ],
