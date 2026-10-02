@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-02T14:17:58.097Z",
+  "updatedAt": "2026-10-02T14:28:04.209Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "5b11f869b2bd8147bc5ceceb61194c050e081d92105258eb0c7f1104f20fcbb6",
@@ -88,8 +88,8 @@
       "pages": 4
     },
     "soma/all-events.json": {
-      "sourceHash": "80cc55c33fb54b38d045e9019cea7378762518e74656a5361ca0bf6c388c819e",
-      "updatedAt": "2026-10-02T14:17:58.097Z",
+      "sourceHash": "bc421379c9170688bd945b28bc1429e3e8359940766e330c47f8b4577ae2b4dd",
+      "updatedAt": "2026-10-02T14:28:04.209Z",
       "count": 4,
       "pages": 1
     },
