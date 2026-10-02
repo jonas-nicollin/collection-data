@@ -31,6 +31,13 @@
         "strategy": "category-pages",
         "concurrency": 4
       }
+    },
+    {
+      "id": "publications",
+      "path": "/publications",
+      "url": "https://sebastienbertrand.com/publications?format=json",
+      "adapter": "squarespace-products",
+      "productPricing": true
     }
   ]
 }
