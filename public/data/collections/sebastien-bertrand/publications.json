@@ -1,0 +1,599 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "sebastien-bertrand",
+  "id": "publications",
+  "path": "/publications",
+  "sourceUrl": "https://sebastienbertrand.com/publications?format=json",
+  "updatedAt": "2026-10-02T09:37:55.393Z",
+  "sourceHash": "1c129dc40f4e73e0b77306dc12766cf81f5d5bd796a2292222360b9be185950a",
+  "count": 9,
+  "pages": 1,
+  "items": [
+    {
+      "id": "665ec465e74bf76f485f6f9e",
+      "title": "Han-Chiao, Echo",
+      "fullUrl": "/publications/p/han-chiao-echo",
+      "urlId": "han-chiao-echo",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/ec128ea2-a160-4f10-a45d-bbd571da82f8/Han-Chiao_Echo_01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Artiste·s: Han-Chiao"
+      ],
+      "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of <em>Echo</em>, Han Chiao's first solo show at the gallery. From 29 September to 11 November 2023.</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1717488436752,
+      "addedOn": 1712931779914,
+      "updatedOn": 1787892092285,
+      "categories": [
+        "In-house Edition"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/ec128ea2-a160-4f10-a45d-bbd571da82f8/Han-Chiao_Echo_01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Han-Chiao_Echo_01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/2b535c40-db22-42a4-9679-5476de9830a7/Han-Chiao_Echo_02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Han-Chiao_Echo_02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/b4b92b1c-1cec-4c96-9b16-bb8ebfdfa0a2/Han-Chiao_Echo_03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Han-Chiao_Echo_03.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 10,
+        "max": 10,
+        "regularMin": 10,
+        "regularMax": 10,
+        "onSale": false
+      }
+    },
+    {
+      "id": "66d82649579fa07becf12a18",
+      "title": "Michael Hilsman, Landscapes With Flowers",
+      "fullUrl": "/publications/p/michael-hilsman-landscapes-with-flowers",
+      "urlId": "michael-hilsman-landscapes-with-flowers",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/090cc5c9-29d8-4e20-9642-e1cfcc64b118/Michael-Hilsman_Landscapes-with-Flowers_Thumbnail.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Artiste·s: Michael Hilsman"
+      ],
+      "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Michael Hilsman's solo show at the gallery, <em>Landscapes With Flowers</em>. From 23 June to 19 August 2023.</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1725441664284,
+      "addedOn": 1712931779914,
+      "updatedOn": 1787911031352,
+      "categories": [
+        "In-house Edition"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/090cc5c9-29d8-4e20-9642-e1cfcc64b118/Michael-Hilsman_Landscapes-with-Flowers_Thumbnail.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Michael-Hilsman_Landscapes-with-Flowers_Thumbnail.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/49daeceb-275a-4e65-bd67-ee2a9ef97510/Michael-Hilsman_Landscapes-with-Flowers_01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Michael-Hilsman_Landscapes-with-Flowers_01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1e153e6d-46d7-4a7d-b0d8-ea43861c5f24/Michael-Hilsman_Landscapes-with-Flowers_02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Michael-Hilsman_Landscapes-with-Flowers_02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/d46320b1-d269-4500-9137-2ac3dabb3e2c/Michael-Hilsman_Landscapes-with-Flowers_03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Michael-Hilsman_Landscapes-with-Flowers_03.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 10,
+        "max": 10,
+        "regularMin": 10,
+        "regularMax": 10,
+        "onSale": false
+      }
+    },
+    {
+      "id": "66d82cf6ff42c16952a8754e",
+      "title": "Natalia González Martín, Lady into Fox",
+      "fullUrl": "/publications/p/natalia-gonzalez-martin-lady-into-fox",
+      "urlId": "natalia-gonzalez-martin-lady-into-fox",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/4ddaa386-2865-4642-b204-a9ca8c54afa6/Natalia-Gonzalez-Martin_Lady-into-Fox_01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Artiste·s: Natalia González Martín"
+      ],
+      "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Natalia González Martín's second solo show at the gallery, <em>Lady Into Fox</em>. From 24 November 2023 to 27 January 2024.</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1725443517567,
+      "addedOn": 1712931779914,
+      "updatedOn": 1787911036218,
+      "categories": [
+        "In-house Edition"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/4ddaa386-2865-4642-b204-a9ca8c54afa6/Natalia-Gonzalez-Martin_Lady-into-Fox_01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Natalia-Gonzalez-Martin_Lady-into-Fox_01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a4324a4b-de3e-41f1-a499-cc5f99b032ed/Natalia-Gonzalez-Martin_Lady-into-Fox_02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Natalia-Gonzalez-Martin_Lady-into-Fox_02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a0832bcb-1249-4d99-b619-b02e362d5b6c/Natalia-Gonzalez-Martin_Lady-into-Fox_03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Natalia-Gonzalez-Martin_Lady-into-Fox_03.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 10,
+        "max": 10,
+        "regularMin": 10,
+        "regularMax": 10,
+        "onSale": false
+      }
+    },
+    {
+      "id": "66d82f8a4661ce63c947ef2c",
+      "title": "Lian Zhang, The Rabbit Who Hunts Tigers",
+      "fullUrl": "/publications/p/lian-zhang-the-rabbit-who-hunts-tigers",
+      "urlId": "lian-zhang-the-rabbit-who-hunts-tigers",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/070c01cb-17cb-45cb-8bb7-b78946d58420/Lian-Zhang_The-Rabbit-who-Hunts-Tigers_01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Artiste·s: Lian Zhang"
+      ],
+      "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Lian Zhang's first solo show at the gallery, <em>The Rabbit Who Hunts Tigers</em>. From 3 March to 15 April 2023.</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1725444012854,
+      "addedOn": 1712931779914,
+      "updatedOn": 1787911037438,
+      "categories": [
+        "In-house Edition"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/070c01cb-17cb-45cb-8bb7-b78946d58420/Lian-Zhang_The-Rabbit-who-Hunts-Tigers_01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Lian-Zhang_The-Rabbit-who-Hunts-Tigers_01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/dc99a0f7-f823-480f-942c-d9cdb0384284/Lian-Zhang_The-Rabbit-who-Hunts-Tigers_02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Lian-Zhang_The-Rabbit-who-Hunts-Tigers_02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/86f9bef8-a37f-487f-a524-88db24181434/Lian-Zhang_The-Rabbit-who-Hunts-Tigers_03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Lian-Zhang_The-Rabbit-who-Hunts-Tigers_03.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 10,
+        "max": 10,
+        "regularMin": 10,
+        "regularMax": 10,
+        "onSale": false
+      }
+    },
+    {
+      "id": "66d820861e338a158fb91a99",
+      "title": "Chloe Wise, Spite Unseen",
+      "fullUrl": "/publications/p/chloe-wise-spite-unseen",
+      "urlId": "chloe-wise-spite-unseen",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/46d7deea-63df-4116-9122-1e997d900f05/Chloe-Wise_Spite-Unseen_Thumbnail.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Artiste·s: Chloe Wise"
+      ],
+      "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Chloe Wise's solo show <em>Spite Unseen </em>at the gallery. From 11 March to 7 May 2022.</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1725440359861,
+      "addedOn": 1712931779914,
+      "updatedOn": 1787911027975,
+      "categories": [
+        "In-house Edition"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/46d7deea-63df-4116-9122-1e997d900f05/Chloe-Wise_Spite-Unseen_Thumbnail.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Chloe-Wise_Spite-Unseen_Thumbnail.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/d6efb9b0-968b-4dad-88c0-f5840d234666/Chloe-Wise_Spite-Unseen_01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Chloe-Wise_Spite-Unseen_01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/c778436f-4e8c-4ce4-99ec-793d0a8ecb1a/Chloe-Wise_Spite-Unseen_03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Chloe-Wise_Spite-Unseen_03.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a433c1a4-e251-4b4c-b715-df0d0eace27b/Chloe-Wise_Spite-Unseen_02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Chloe-Wise_Spite-Unseen_02.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 10,
+        "max": 10,
+        "regularMin": 10,
+        "regularMax": 10,
+        "onSale": false
+      }
+    },
+    {
+      "id": "66d82bbc3629ae279d78f253",
+      "title": "Tali Lennox, Lotus of Nephthys",
+      "fullUrl": "/publications/p/tali-lennox-lotus-of-nephthys",
+      "urlId": "tali-lennox-lotus-of-nephthys",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/509a7fd1-a5f9-477e-a3cd-3e820e951cc7/Tali-Lennox_Lotus-of-Nephthys_01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Artiste·s: Tali Lennox"
+      ],
+      "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Tali Lennox's first solo show at the gallery, <em>Lotus of Nephthys</em>. From 16 September to 5 November 2022.</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1725443042535,
+      "addedOn": 1712931779914,
+      "updatedOn": 1787911035339,
+      "categories": [
+        "In-house Edition"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/509a7fd1-a5f9-477e-a3cd-3e820e951cc7/Tali-Lennox_Lotus-of-Nephthys_01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Tali-Lennox_Lotus-of-Nephthys_01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a2ade744-0b81-48d8-94a6-154b1af819c2/Tali-Lennox_Lotus-of-Nephthys_02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Tali-Lennox_Lotus-of-Nephthys_02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/70d917bc-b1dc-456f-8295-1251bd78331a/Tali-Lennox_Lotus-of-Nephthys_03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Tali-Lennox_Lotus-of-Nephthys_03.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 10,
+        "max": 10,
+        "regularMin": 10,
+        "regularMax": 10,
+        "onSale": false
+      }
+    },
+    {
+      "id": "66d829e37798ef06610903ae",
+      "title": "Todd Bienvenu, Congregation",
+      "fullUrl": "/publications/p/todd-bienvenu-congregation",
+      "urlId": "todd-bienvenu-congregation",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/d6dbea7a-1de6-42ff-87b7-403c43c0ff5e/Todd-Bienvenu_Congregation_01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Artiste·s: Todd Bienvenu"
+      ],
+      "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of <em>Congregation,</em> Todd Bienvenu's solo show at the gallery. From 11 June to 23 July 2021.</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1725442830556,
+      "addedOn": 1712931779914,
+      "updatedOn": 1787911034311,
+      "categories": [
+        "In-house Edition"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/d6dbea7a-1de6-42ff-87b7-403c43c0ff5e/Todd-Bienvenu_Congregation_01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Todd-Bienvenu_Congregation_01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/c744131b-707e-425c-bc9f-315b5d2b69a5/Todd-Bienvenu_Congregation_02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Todd-Bienvenu_Congregation_02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/70c0a219-c6e2-4be8-aacf-5be87590b0dd/Todd-Bienvenu_Congregation_03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Todd-Bienvenu_Congregation_03.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 10,
+        "max": 10,
+        "regularMin": 10,
+        "regularMax": 10,
+        "onSale": false
+      }
+    },
+    {
+      "id": "66d821c01afc36525b569261",
+      "title": "Joe Andoe, The Catskills",
+      "fullUrl": "/publications/p/joe-andoe-the-catskills",
+      "urlId": "joe-andoe-the-catskills",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/7bd438c6-71f7-4ecb-8d9f-4e4347aed03f/Joe-Andoe_The-Catskills_01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Artiste·s: Joe Andoe"
+      ],
+      "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Joe Andoe's solo show<em>The Catskills</em>. From 6 May to 4 June 2021.</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1725440742728,
+      "addedOn": 1712931779914,
+      "updatedOn": 1787911028676,
+      "categories": [
+        "In-house Edition"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/7bd438c6-71f7-4ecb-8d9f-4e4347aed03f/Joe-Andoe_The-Catskills_01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Joe-Andoe_The-Catskills_01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1025c8b6-f8ba-47c0-bf24-eb97f708ba4d/Joe-Andoe_The-Catskills_02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Joe-Andoe_The-Catskills_02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/27249f10-0230-450d-80cc-545255954fc8/Joe-Andoe_The-Catskills_03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Joe-Andoe_The-Catskills_03.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 10,
+        "max": 10,
+        "regularMin": 10,
+        "regularMax": 10,
+        "onSale": false
+      }
+    },
+    {
+      "id": "66d82340e62877749c775015",
+      "title": "Michael Hilsman, Dangling Man",
+      "fullUrl": "/publications/p/michael-hilsman-dangling-man",
+      "urlId": "michael-hilsman-dangling-man",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/af68d6a7-9f94-498b-8364-7f915fc3288c/Michael-Hilsman_Dangling-Man_01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Artiste·s: Michael Hilsman"
+      ],
+      "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of <em>Dangling Man, </em>Michael Hilsman's solo show at the gallery. From 18 December 2020 to 5 February 2021.</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1725441131412,
+      "addedOn": 1712931779914,
+      "updatedOn": 1787911029836,
+      "categories": [
+        "In-house Edition"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/af68d6a7-9f94-498b-8364-7f915fc3288c/Michael-Hilsman_Dangling-Man_01.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Michael-Hilsman_Dangling-Man_01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/8ac538d9-462e-4001-b44c-a10708e8ac2b/Michael-Hilsman_Dangling-Man_02.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Michael-Hilsman_Dangling-Man_02.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/5b0946ec-0a83-4665-a6b7-cf22d61776f5/Michael-Hilsman_Dangling-Man_03.jpg",
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "Michael-Hilsman_Dangling-Man_03.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 10,
+        "max": 10,
+        "regularMin": 10,
+        "regularMax": 10,
+        "onSale": false
+      }
+    }
+  ]
+}

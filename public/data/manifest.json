@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-02T09:27:55.633Z",
+  "updatedAt": "2026-10-02T09:37:56.100Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "5b11f869b2bd8147bc5ceceb61194c050e081d92105258eb0c7f1104f20fcbb6",
@@ -75,6 +75,12 @@
       "count": 107,
       "pages": 1
     },
+    "sebastien-bertrand/publications.json": {
+      "sourceHash": "1c129dc40f4e73e0b77306dc12766cf81f5d5bd796a2292222360b9be185950a",
+      "updatedAt": "2026-10-02T09:37:55.393Z",
+      "count": 9,
+      "pages": 1
+    },
     "sebastien-bertrand/works.json": {
       "sourceHash": "d269c4d42efcd16ae1747acc6f5e1082a111f0f96470eb1bbe7b43cd1a228f48",
       "updatedAt": "2026-10-02T06:28:04.428Z",
@@ -88,8 +94,8 @@
       "pages": 1
     },
     "soma/apparel.json": {
-      "sourceHash": "fba98d9e306862ae6d622802df807a7ea754dd51f68c4917eb2fcbab3f4fd0fd",
-      "updatedAt": "2026-10-02T08:17:57.361Z",
+      "sourceHash": "cf04194bb5734e81bb1069221d342e78540c6acddcf83cbf1d1deef738d8ea0d",
+      "updatedAt": "2026-10-02T09:37:56.100Z",
       "count": 2,
       "pages": 1
     }

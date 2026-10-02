@@ -5,8 +5,8 @@
   "id": "apparel",
   "path": "/apparel",
   "sourceUrl": "https://somabureau.com/apparel?format=json",
-  "updatedAt": "2026-10-02T08:17:57.361Z",
-  "sourceHash": "fba98d9e306862ae6d622802df807a7ea754dd51f68c4917eb2fcbab3f4fd0fd",
+  "updatedAt": "2026-10-02T09:37:56.100Z",
+  "sourceHash": "cf04194bb5734e81bb1069221d342e78540c6acddcf83cbf1d1deef738d8ea0d",
   "count": 2,
   "pages": 1,
   "items": [
@@ -54,6 +54,14 @@
         }
       ],
       "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 40,
+        "max": 40,
+        "regularMin": 40,
+        "regularMax": 40,
+        "onSale": false
+      },
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -117,7 +125,15 @@
           "title": "SOMA-Apparel-Hulken_Bag-01.jpg"
         }
       ],
-      "sourceType": "product"
+      "sourceType": "product",
+      "price": {
+        "currency": "CHF",
+        "min": 140,
+        "max": 160,
+        "regularMin": 140,
+        "regularMax": 160,
+        "onSale": false
+      }
     }
   ]
 }
