@@ -5,11 +5,87 @@
   "id": "all-events",
   "path": "/all-events",
   "sourceUrl": "https://somabureau.com/all-events?format=json",
-  "updatedAt": "2026-10-02T08:17:57.175Z",
-  "sourceHash": "f6db3bb02bf7223eadd5d51cd0d81f74d76838f9af9be64ac29ba6bc02052fae",
-  "count": 4,
+  "updatedAt": "2026-10-02T08:28:07.486Z",
+  "sourceHash": "d8556c951b46a760f843b0ea8683de64159ea9dd242c7e20e7819cc0a159750a",
+  "count": 6,
   "pages": 1,
   "items": [
+    {
+      "id": "6abf69611f830247f538d721",
+      "title": "Musée Transitoire (Test&nbsp;2)",
+      "fullUrl": "/all-events/soma-x-musee-transitoire-hkbc9-tnats",
+      "urlId": "soma-x-musee-transitoire-hkbc9-tnats",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/f100d972-2207-4c10-beb2-77e5b7563ff7/Annik-Wetter_2026-03-09_47223.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Year: 2026",
+        "In collaboration with: Musée Transitoire",
+        "Artist: Romina Shama",
+        "Date: 2026-11-24/2027-02-01"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">August 27th </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2046406,
+        "mapLng": 6.1619958,
+        "markerLat": 46.2046406,
+        "markerLng": 6.1619958,
+        "addressTitle": "SOMA",
+        "addressLine1": "32  Rue de l&#39;Avenir",
+        "addressLine2": "1207 Geneva",
+        "addressCountry": "Switzerland"
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1790929312537,
+      "addedOn": 1790929312537,
+      "updatedOn": 1790929312890
+    },
+    {
+      "id": "6abf6906d0f6433c5c86184f",
+      "title": "Musée Transitoire (Test&nbsp;1)",
+      "fullUrl": "/all-events/soma-x-musee-transitoire-hkbc9",
+      "urlId": "soma-x-musee-transitoire-hkbc9",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/1790848847770-F55IV0IE85IHX20WCPGJ/IMG_4491+2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Collaboration"
+      ],
+      "tags": [
+        "Year: 2026",
+        "In collaboration with: Musée Transitoire",
+        "Artist: Romina Shama",
+        "Date: 2026-09-10/2026-12-22"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">August 27th </p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2046406,
+        "mapLng": 6.1619958,
+        "markerLat": 46.2046406,
+        "markerLng": 6.1619958,
+        "addressTitle": "SOMA",
+        "addressLine1": "32  Rue de l&#39;Avenir",
+        "addressLine2": "1207 Geneva",
+        "addressCountry": "Switzerland"
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1790929158349,
+      "addedOn": 1790929158349,
+      "updatedOn": 1790929243807
+    },
     {
       "id": "6a9829621bf8207c070dff39",
       "title": "SOMA x Musée Transitoire",
@@ -47,7 +123,7 @@
       "starred": false,
       "publishOn": 1788357749499,
       "addedOn": 1788357749499,
-      "updatedOn": 1790928495002
+      "updatedOn": 1790929158378
     },
     {
       "id": "697b4b0e0469037ffa8f96ff",

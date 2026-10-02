@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-02T08:17:57.361Z",
+  "updatedAt": "2026-10-02T08:28:07.486Z",
   "files": {
     "carneiro/projet.json": {
       "sourceHash": "5b11f869b2bd8147bc5ceceb61194c050e081d92105258eb0c7f1104f20fcbb6",
@@ -64,8 +64,8 @@
       "pages": 3
     },
     "sebastien-bertrand/artist.json": {
-      "sourceHash": "134f03cbc61ca1a0291054c0312f8313b302df7c1d9d0a0575c14537e5b92d10",
-      "updatedAt": "2026-10-01T15:58:08.750Z",
+      "sourceHash": "bd9339db6369b2871dcf7a5e0f8c9d1db4ebdec2d9cd0a04c1d98003c8a82d17",
+      "updatedAt": "2026-10-02T08:27:58.522Z",
       "count": 28,
       "pages": 1
     },
@@ -82,9 +82,9 @@
       "pages": 4
     },
     "soma/all-events.json": {
-      "sourceHash": "f6db3bb02bf7223eadd5d51cd0d81f74d76838f9af9be64ac29ba6bc02052fae",
-      "updatedAt": "2026-10-02T08:17:57.175Z",
-      "count": 4,
+      "sourceHash": "d8556c951b46a760f843b0ea8683de64159ea9dd242c7e20e7819cc0a159750a",
+      "updatedAt": "2026-10-02T08:28:07.486Z",
+      "count": 6,
       "pages": 1
     },
     "soma/apparel.json": {
