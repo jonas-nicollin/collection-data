@@ -11,7 +11,8 @@
       "id": "apparel",
       "path": "/apparel",
       "url": "https://somabureau.com/apparel?format=json",
-      "adapter": "squarespace-products"
+      "adapter": "squarespace-products",
+      "productPricing": true
     }
   ]
 }
