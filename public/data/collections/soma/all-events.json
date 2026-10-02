@@ -5,14 +5,14 @@
   "id": "all-events",
   "path": "/all-events",
   "sourceUrl": "https://somabureau.com/all-events?format=json",
-  "updatedAt": "2026-10-02T09:27:55.633Z",
-  "sourceHash": "764462f9fed2d5707d4fc34df81c9f8b6d14e67e7a334d058f6361e8d110f709",
+  "updatedAt": "2026-10-02T11:37:59.821Z",
+  "sourceHash": "f476dfb3752c3ff85a8f1e617292c69e3c1958bdd1bc8da926766d2268600124",
   "count": 6,
   "pages": 1,
   "items": [
     {
       "id": "6abf69611f830247f538d721",
-      "title": "Musée Transitoire (Test&nbsp;2)",
+      "title": "Autre Titre (Test)",
       "fullUrl": "/all-events/soma-x-musee-transitoire-hkbc9-tnats",
       "urlId": "soma-x-musee-transitoire-hkbc9-tnats",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/f100d972-2207-4c10-beb2-77e5b7563ff7/Annik-Wetter_2026-03-09_47223.jpg",
@@ -22,7 +22,7 @@
         "source": 3
       },
       "categories": [
-        "Collaboration"
+        "Conference"
       ],
       "tags": [
         "Year: 2026",
@@ -46,7 +46,7 @@
       "starred": false,
       "publishOn": 1790929312537,
       "addedOn": 1790929312537,
-      "updatedOn": 1790933237481
+      "updatedOn": 1790940976534
     },
     {
       "id": "6abf6906d0f6433c5c86184f",
