@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-02T06:27:57.608Z",
-  "sourceHash": "920bbc51188c93bcc4d29613c5ac707f7b1585ccff756acad9701d45b45eb066",
+  "updatedAt": "2026-10-05T15:07:59.813Z",
+  "sourceHash": "8bf5e112eeb360086ec5f22a51c264e578b88edda7dbd2ba7b3d0581fd4ab3be",
   "count": 107,
   "pages": 1,
   "items": [
@@ -26,11 +26,10 @@
         "Mirella Jaworska"
       ],
       "tags": [
-        "Exhibition : Solo Show",
-        "Status: On View",
         "Opening: 2026-10-07",
         "Year: 2026",
-        "Date: 2026-10-08/2026-11-21"
+        "Date: 2026-10-08/2026-11-21",
+        "Exhibition: Solo Show"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening, Wednesday 07 October 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -49,7 +48,7 @@
       "starred": true,
       "publishOn": 1790777228100,
       "addedOn": 1790777228100,
-      "updatedOn": 1790866205502
+      "updatedOn": 1791212409938
     },
     {
       "id": "6abe66cbf8e2ae2afc14700a",
@@ -67,12 +66,11 @@
         "Thomas Fougeirol"
       ],
       "tags": [
-        "Exhibition : Solo Show",
-        "Status: On View",
         "Opening: 2026-10-07",
         "Year: 2026",
         "Date: 2026-10-08/2026-11-21",
-        "Exhibition key: thomas-fougeirol-solo-show-2026"
+        "Exhibition key: thomas-fougeirol-solo-show-2026",
+        "Exhibition: Solo Show"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening, Wednesday 07 October 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -91,7 +89,7 @@
       "starred": true,
       "publishOn": 1790604259553,
       "addedOn": 1790604259553,
-      "updatedOn": 1790922186553
+      "updatedOn": 1791212409957
     },
     {
       "id": "6aa0388f8f42385764242634",
@@ -109,12 +107,11 @@
         "Sang Woo Kim"
       ],
       "tags": [
-        "Year : 2026",
-        "Exhibition : Solo Show",
-        "Status: On View",
         "Date: 2026-09-12/2026-12-12",
         "Opening: 2026-09-12",
-        "Location: La Nicotière"
+        "Location: La Nicotière",
+        "Year: 2026",
+        "Exhibition: Solo Show"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Opening Saturday 12, September 2026</p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -133,7 +130,7 @@
       "starred": true,
       "publishOn": 1788886249921,
       "addedOn": 1788886249921,
-      "updatedOn": 1790860958628
+      "updatedOn": 1791212409986
     },
     {
       "id": "6a18069ca7b1a53def6c320c",
@@ -155,7 +152,6 @@
         "Exhibition: Fair",
         "Year: 2026",
         "Location: Messe Basel, Hall 1.1",
-        "Status: Past Exhibition",
         "Date: 2026-05-15/2026-05-21",
         "Opening: 2026-06-15T11:00/2026-06-15T20:00"
       ],
@@ -176,7 +172,7 @@
       "starred": true,
       "publishOn": 1781013857312,
       "addedOn": 1781013857312,
-      "updatedOn": 1790860975358
+      "updatedOn": 1791212305061
     },
     {
       "id": "6a1801b0bc711572d93ba3fa",
@@ -197,7 +193,6 @@
         "Year: 2026",
         "Exhibition: Solo Show",
         "Date: 2026-06-05/2026-07-17",
-        "Status: Past Exhibition",
         "Opening: 2026-06-04T18:30/2026-06-04T20:00"
       ],
       "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">05.06.2026–17.07.2026<br>Opening: Thursday 04 June, 6:30 - 8:00 pm  </p>",
@@ -217,7 +212,7 @@
       "starred": true,
       "publishOn": 1779958978293,
       "addedOn": 1779958978293,
-      "updatedOn": 1790861004077
+      "updatedOn": 1791212305810
     },
     {
       "id": "69b18499a1e22f0aa87ac270",
@@ -237,7 +232,6 @@
       "tags": [
         "Year: 2026",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition",
         "Extended until: 2026-05-16",
         "Date: 2026-03-26/2026-05-08"
       ],
@@ -258,7 +252,7 @@
       "starred": true,
       "publishOn": 1777557897876,
       "addedOn": 1777557897876,
-      "updatedOn": 1790861103157
+      "updatedOn": 1791212306307
     },
     {
       "id": "69d7a1aef7f4ab5809a61615",
@@ -281,7 +275,6 @@
       "tags": [
         "Exhibition: Fair",
         "Year: 2026",
-        "Status: Past Exhibition",
         "Date: 2026-04-17/2026-04-19",
         "Location: Booth B07, Allianz MiCo",
         "Opening: 2026-04-16T11:00/2026-04-16T21:00"
@@ -303,7 +296,7 @@
       "starred": true,
       "publishOn": 1775739310433,
       "addedOn": 1775739310433,
-      "updatedOn": 1790861118712
+      "updatedOn": 1791212306465
     },
     {
       "id": "698f3167afad080000de8eee",
@@ -329,7 +322,6 @@
       "tags": [
         "Exhibition: Fair",
         "Year: 2026",
-        "Status: Past Exhibition",
         "Date: 2026-02-19/2026-02-22",
         "Location: Festival-Zelt, Gstaad",
         "Opening: 2026-02-19"
@@ -351,7 +343,7 @@
       "starred": false,
       "publishOn": 1771498855376,
       "addedOn": 1771498855376,
-      "updatedOn": 1790851352583
+      "updatedOn": 1791212306565
     },
     {
       "id": "69722aa2a433a8238de8883b",
@@ -370,7 +362,6 @@
       ],
       "tags": [
         "Exhibition: Fair",
-        "Status: Past Exhibition",
         "Year: 2026",
         "Date: 2026-01-29/2026-02-01",
         "Location: Booth C32, Solo Show C34, Palexpo",
@@ -393,7 +384,7 @@
       "starred": false,
       "publishOn": 1769694480435,
       "addedOn": 1769694480435,
-      "updatedOn": 1790861227641
+      "updatedOn": 1791212306325
     },
     {
       "id": "6968c29ccced0c33aa354566",
@@ -414,7 +405,6 @@
       "tags": [
         "Year: 2026",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition",
         "Extended until: 2026-03-20",
         "Opening: 2026-01-15T18:00/2026-01-15T20:30"
       ],
@@ -435,7 +425,7 @@
       "starred": true,
       "publishOn": 1768518016529,
       "addedOn": 1768518016529,
-      "updatedOn": 1790861248502
+      "updatedOn": 1791212307055
     },
     {
       "id": "68e3e0529c99621a2a91026f",
@@ -471,7 +461,6 @@
       "tags": [
         "Exhibition: Group Show",
         "Year: 2025",
-        "Status: Past Exhibition",
         "Date: 2025-10-16/2025-11-29",
         "Opening: 2025-10-15T18:00/2025-10-15T20:30"
       ],
@@ -492,7 +481,7 @@
       "starred": true,
       "publishOn": 1759765212050,
       "addedOn": 1759765212050,
-      "updatedOn": 1790861283102
+      "updatedOn": 1791212306690
     },
     {
       "id": "68ff463fb1d8eb201758a5c4",
@@ -517,7 +506,6 @@
       "tags": [
         "Exhibition: Fair",
         "Year: 2025",
-        "Status: Past Exhibition",
         "Date: 2025-10-30/2025-11-02",
         "Location: Booth Yellow 16, Oval Lingotto"
       ],
@@ -538,7 +526,7 @@
       "starred": false,
       "publishOn": 1759396500973,
       "addedOn": 1759396500973,
-      "updatedOn": 1790861301597
+      "updatedOn": 1791212305678
     },
     {
       "id": "68494498b461df4b15a5f7d8",
@@ -557,7 +545,6 @@
       ],
       "tags": [
         "Year: 2025",
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Date: 2025-06-16/2025-06-21",
         "Location: Basel Social Club",
@@ -580,7 +567,7 @@
       "starred": true,
       "publishOn": 1749634298477,
       "addedOn": 1749634298477,
-      "updatedOn": 1790861328190
+      "updatedOn": 1791212305105
     },
     {
       "id": "6838163d7010955e22af9f9a",
@@ -598,7 +585,6 @@
         "Tali Lennox"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2025",
         "Date: 2025-06-06/2025-08-09",
@@ -622,7 +608,7 @@
       "starred": true,
       "publishOn": 1748592540333,
       "addedOn": 1748592540333,
-      "updatedOn": 1790861354268
+      "updatedOn": 1791212306247
     },
     {
       "id": "6863d2ac2e039636280d3e95",
@@ -644,7 +630,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
         "Date: 2025-07-07/2025-07-09",
@@ -668,7 +653,7 @@
       "starred": false,
       "publishOn": 1748089860666,
       "addedOn": 1748089860666,
-      "updatedOn": 1790861369832
+      "updatedOn": 1791212306122
     },
     {
       "id": "67da9ebd06177a40d785a54e",
@@ -686,7 +671,6 @@
         "Todd Bienvenu"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2025",
         "Date: 2025-03-28/2025-05-17",
@@ -709,7 +693,7 @@
       "starred": true,
       "publishOn": 1742402633109,
       "addedOn": 1742402633109,
-      "updatedOn": 1790861573452
+      "updatedOn": 1791212306745
     },
     {
       "id": "680655e9c6c97648cf64d0cb",
@@ -732,7 +716,6 @@
         "Eloïse Van der Heyden"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
         "Date: 2025-04-25/2025-04-27",
@@ -756,7 +739,7 @@
       "starred": false,
       "publishOn": 1742311860406,
       "addedOn": 1742311860406,
-      "updatedOn": 1790861712613
+      "updatedOn": 1791212307112
     },
     {
       "id": "681a01325c16ca68f7b89aa6",
@@ -775,7 +758,6 @@
       ],
       "tags": [
         "Exhibition: Solo Show",
-        "Status: Past Exhibition",
         "Year: 2025",
         "Date: 2025-05-09/2025-05-31",
         "Opening: 2025-05-08T18:00/2025-05-08T20:30"
@@ -797,7 +779,7 @@
       "starred": true,
       "publishOn": 1742306880415,
       "addedOn": 1742306880415,
-      "updatedOn": 1790861778307
+      "updatedOn": 1791212306386
     },
     {
       "id": "67ebc5fc50cf554ed0bbb30c",
@@ -817,7 +799,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
         "Date: 2025-04-04/2025-04-06",
@@ -841,7 +822,7 @@
       "starred": true,
       "publishOn": 1742298840210,
       "addedOn": 1742298840210,
-      "updatedOn": 1790861794893
+      "updatedOn": 1791212306209
     },
     {
       "id": "67a5f6698442874d7b499f71",
@@ -864,7 +845,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
         "Date: 2025-02-14/2025-02-16",
@@ -888,7 +868,7 @@
       "starred": false,
       "publishOn": 1738844400937,
       "addedOn": 1738844400937,
-      "updatedOn": 1790851236258
+      "updatedOn": 1791212305786
     },
     {
       "id": "678e2597e78330403dda06a9",
@@ -906,7 +886,6 @@
         "Mathis Gasser"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2025",
         "Date: 2025-01-29/2025-03-15",
@@ -929,7 +908,7 @@
       "starred": true,
       "publishOn": 1737903540226,
       "addedOn": 1737903540226,
-      "updatedOn": 1790861853241
+      "updatedOn": 1791212305560
     },
     {
       "id": "67935f5923a12272e9d54e9f",
@@ -955,7 +934,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2025",
         "Date: 2025-01-30/2025-02-02",
@@ -979,7 +957,7 @@
       "starred": false,
       "publishOn": 1737713316850,
       "addedOn": 1737713316850,
-      "updatedOn": 1790861869497
+      "updatedOn": 1791212305438
     },
     {
       "id": "674747a9947fdc1788449f12",
@@ -997,7 +975,6 @@
         "Justin Cole"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Year: 2025",
         "Year: 2024",
         "Exhibition: Solo Show",
@@ -1021,7 +998,7 @@
       "starred": true,
       "publishOn": 1732801753001,
       "addedOn": 1732801753001,
-      "updatedOn": 1790862124476
+      "updatedOn": 1791212305126
     },
     {
       "id": "6745e77734d68f01c935533b",
@@ -1051,7 +1028,6 @@
       "tags": [
         "Year: 2025",
         "Year: 2024",
-        "Status: Past Exhibition",
         "Exhibition: Group Show",
         "Date: 2024-12-05/2025-02-15",
         "Opening: 2024-12-04T18:00/2024-12-04T20:30"
@@ -1073,7 +1049,7 @@
       "starred": true,
       "publishOn": 1732801380909,
       "addedOn": 1732801380909,
-      "updatedOn": 1790862204481
+      "updatedOn": 1791212305700
     },
     {
       "id": "66c8a2f49481b661e241f60e",
@@ -1091,7 +1067,6 @@
         "Caspar Giorgio Williams"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
         "Date: 2024-09-20/2024-11-09",
@@ -1114,7 +1089,7 @@
       "starred": true,
       "publishOn": 1724338500937,
       "addedOn": 1724338500937,
-      "updatedOn": 1790862220613
+      "updatedOn": 1791212305418
     },
     {
       "id": "6717a57f0e00c021fd01b7b7",
@@ -1139,7 +1114,6 @@
         "Storm Tharp"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
         "Date: 2024-11-01/2024-11-03",
@@ -1162,7 +1136,7 @@
       "starred": true,
       "publishOn": 1724159700367,
       "addedOn": 1724159700367,
-      "updatedOn": 1790862250095
+      "updatedOn": 1791212306763
     },
     {
       "id": "66c8a771173d5100b7fb0403",
@@ -1180,7 +1154,6 @@
         "Richard Kern"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
         "Date: 2024-09-20/2024-11-09",
@@ -1204,7 +1177,7 @@
       "starred": true,
       "publishOn": 1723994040370,
       "addedOn": 1723994040370,
-      "updatedOn": 1790862802198
+      "updatedOn": 1791212305545
     },
     {
       "id": "667abce1d8d9e42213175150",
@@ -1224,7 +1197,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
         "Date: 2024-07-06/2024-07-07",
@@ -1247,7 +1219,7 @@
       "starred": false,
       "publishOn": 1719668820201,
       "addedOn": 1719668820201,
-      "updatedOn": 1790862815345
+      "updatedOn": 1791212306607
     },
     {
       "id": "666c2e6a8d728b0efc1e5a71",
@@ -1265,7 +1237,6 @@
         "Sang Woo Kim"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
         "Date: 2024-06-06/2024-07-20",
@@ -1289,7 +1260,7 @@
       "starred": true,
       "publishOn": 1718366071517,
       "addedOn": 1718366071517,
-      "updatedOn": 1790862841727
+      "updatedOn": 1791212305530
     },
     {
       "id": "65fac2efc8ac9652e90779da",
@@ -1307,7 +1278,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
         "Date: 2024-03-28/2024-05-11"
@@ -1329,7 +1299,7 @@
       "starred": true,
       "publishOn": 1710950911277,
       "addedOn": 1710950911277,
-      "updatedOn": 1790862861764
+      "updatedOn": 1791212305763
     },
     {
       "id": "65eafb1668219373e1253403",
@@ -1347,7 +1317,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2024",
         "Date: 2024-03-28/2024-05-11"
@@ -1369,7 +1338,7 @@
       "starred": true,
       "publishOn": 1709899194747,
       "addedOn": 1709899194747,
-      "updatedOn": 1790862884352
+      "updatedOn": 1791212306627
     },
     {
       "id": "660eb52f9e0db70d6f6c6ea9",
@@ -1387,7 +1356,6 @@
         "Tali Lennox"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
         "Date: 2024-04-12/2024-04-14",
@@ -1411,7 +1379,7 @@
       "starred": true,
       "publishOn": 1709305860517,
       "addedOn": 1709305860517,
-      "updatedOn": 1790862919817
+      "updatedOn": 1791212305086
     },
     {
       "id": "65d61d61e303a63d75a00e21",
@@ -1436,7 +1404,6 @@
       ],
       "tags": [
         "Location: Festival-Zelt, Gstaad",
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
         "Date: 2024-02-17/2024-02-18"
@@ -1458,7 +1425,7 @@
       "starred": false,
       "publishOn": 1708531168850,
       "addedOn": 1708531168850,
-      "updatedOn": 1790862936357
+      "updatedOn": 1791212306166
     },
     {
       "id": "6621021c52fba754cfc5d2f2",
@@ -1474,7 +1441,6 @@
       "categories": [],
       "tags": [
         "Location: Booth 5C-11, Halls 5 & 6, Brussels Expo",
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
         "Date: 2024-04-26/2024-04-28"
@@ -1496,7 +1462,7 @@
       "starred": true,
       "publishOn": 1704457260734,
       "addedOn": 1704457260734,
-      "updatedOn": 1790862969564
+      "updatedOn": 1791212306030
     },
     {
       "id": "654cd05c9f79e02413a291a9",
@@ -1514,7 +1480,6 @@
         "Natalia Gonzalez Martin"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2023",
         "Year: 2024",
@@ -1537,7 +1502,7 @@
       "starred": true,
       "publishOn": 1700152287171,
       "addedOn": 1700152287171,
-      "updatedOn": 1790862992057
+      "updatedOn": 1791212305869
     },
     {
       "id": "659d506fad35084ded78e89e",
@@ -1564,7 +1529,6 @@
         "Sang Woo Kim"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2024",
         "Date: 2024-01-25/2024-01-28",
@@ -1587,7 +1551,7 @@
       "starred": true,
       "publishOn": 1698920820494,
       "addedOn": 1698920820494,
-      "updatedOn": 1790863007900
+      "updatedOn": 1791212307094
     },
     {
       "id": "64f5f88480b09834aec17a0d",
@@ -1605,7 +1569,6 @@
         "Han-Chiao"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2023",
         "Date: 2023-09-22/2023-11-11"
@@ -1627,7 +1590,7 @@
       "starred": true,
       "publishOn": 1693841540103,
       "addedOn": 1693841540103,
-      "updatedOn": 1790863040767
+      "updatedOn": 1791212305960
     },
     {
       "id": "652e8b941215b30c484a92b2",
@@ -1646,7 +1609,6 @@
         "Lian Zhang"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
         "Date: 2023-11-03/2023-11-05",
@@ -1669,7 +1631,7 @@
       "starred": true,
       "publishOn": 1693575180290,
       "addedOn": 1693575180290,
-      "updatedOn": 1790863061100
+      "updatedOn": 1791212306729
     },
     {
       "id": "649d44745df0621342a08642",
@@ -1691,7 +1653,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
         "Date: 2023-07-07/2023-07-09",
@@ -1714,7 +1675,7 @@
       "starred": false,
       "publishOn": 1688041800955,
       "addedOn": 1688041800955,
-      "updatedOn": 1790863080581
+      "updatedOn": 1791212305232
     },
     {
       "id": "6470b6c055fbca22d3ffc23d",
@@ -1732,7 +1693,6 @@
         "Michael Hilsman"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2023",
         "Date: 2023-06-23/2023-08-19"
@@ -1754,7 +1714,7 @@
       "starred": true,
       "publishOn": 1687527600388,
       "addedOn": 1687527600388,
-      "updatedOn": 1790863118382
+      "updatedOn": 1791212306794
     },
     {
       "id": "646e3275fd93bf1fd7d6ae5c",
@@ -1772,7 +1732,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
         "Date: 2023-06-11/2023-06-18",
@@ -1795,7 +1754,7 @@
       "starred": true,
       "publishOn": 1686412260639,
       "addedOn": 1686412260639,
-      "updatedOn": 1790863145682
+      "updatedOn": 1791212306900
     },
     {
       "id": "6426b05d3eed775ba2d9d8a8",
@@ -1813,7 +1772,6 @@
         "Natalia Gonzalez Martin"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
         "Date: 2023-04-14/2023-04-16",
@@ -1837,7 +1795,7 @@
       "starred": true,
       "publishOn": 1680760800335,
       "addedOn": 1680760800335,
-      "updatedOn": 1790863182637
+      "updatedOn": 1791212305643
     },
     {
       "id": "63eceff3e508db0592760c7d",
@@ -1855,7 +1813,6 @@
         "Lian Zhang"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2023",
         "Date: 2023-03-03/2023-05-27",
@@ -1878,7 +1835,7 @@
       "starred": true,
       "publishOn": 1677163003172,
       "addedOn": 1677163003172,
-      "updatedOn": 1790863200855
+      "updatedOn": 1791212305273
     },
     {
       "id": "63ee047bc0f28b79f30b4c83",
@@ -1899,7 +1856,6 @@
       ],
       "tags": [
         "Location: Booth 5E-39, Halls 5 & 6, Brussels Expo",
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
         "Date: 2023-04-20/2023-04-23"
@@ -1921,7 +1877,7 @@
       "starred": true,
       "publishOn": 1675321200263,
       "addedOn": 1675321200263,
-      "updatedOn": 1790863229822
+      "updatedOn": 1791212306885
     },
     {
       "id": "63bd358cfc2f1c7eff9fbd66",
@@ -1948,7 +1904,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2023",
         "Date: 2023-01-26/2023-01-29",
@@ -1971,7 +1926,7 @@
       "starred": false,
       "publishOn": 1673956172007,
       "addedOn": 1673956172007,
-      "updatedOn": 1790863253670
+      "updatedOn": 1791212306073
     },
     {
       "id": "6388be0ab4c62330478bc5ba",
@@ -1995,7 +1950,6 @@
       "tags": [
         "Location: Booth B24, Antwerp Expo",
         "Year: 2022",
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Date: 2022-12-15/2022-12-18"
       ],
@@ -2016,7 +1970,7 @@
       "starred": true,
       "publishOn": 1670517787546,
       "addedOn": 1670517787546,
-      "updatedOn": 1790863344014
+      "updatedOn": 1791212305497
     },
     {
       "id": "636bbe382fbf76096e2230dd",
@@ -2035,7 +1989,6 @@
         "Richard Kern"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2022",
         "Date: 2022-11-25/2023-02-04",
@@ -2058,7 +2011,7 @@
       "starred": true,
       "publishOn": 1668598928020,
       "addedOn": 1668598928020,
-      "updatedOn": 1790863359085
+      "updatedOn": 1791212305629
     },
     {
       "id": "632da8947fcb12149e064e91",
@@ -2077,7 +2030,6 @@
         "Joe Andoe"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2022",
         "Date: 2022-11-04/2022-11-06",
@@ -2100,7 +2052,7 @@
       "starred": true,
       "publishOn": 1663936660147,
       "addedOn": 1663936660147,
-      "updatedOn": 1790863371762
+      "updatedOn": 1791212306672
     },
     {
       "id": "62fcc0fd6fd02c7c0c08de26",
@@ -2118,7 +2070,6 @@
         "Tali Lennox"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2022",
         "Date: 2022-09-15/2022-11-05"
@@ -2140,7 +2091,7 @@
       "starred": true,
       "publishOn": 1660731645900,
       "addedOn": 1660731645900,
-      "updatedOn": 1790863404263
+      "updatedOn": 1791212306443
     },
     {
       "id": "6290a2b4cb907b792cb8d7c6",
@@ -2162,7 +2113,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2022",
         "Date: 2022-07-14/2022-07-16",
@@ -2185,7 +2135,7 @@
       "starred": false,
       "publishOn": 1657793160474,
       "addedOn": 1657793160474,
-      "updatedOn": 1790863417533
+      "updatedOn": 1791212305250
     },
     {
       "id": "6284fbf66820b862a4902ca0",
@@ -2216,7 +2166,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Group Show",
         "Year: 2022",
         "Date: 2022-06-09/2022-07-23"
@@ -2238,7 +2187,7 @@
       "starred": false,
       "publishOn": 1654783200124,
       "addedOn": 1654783200124,
-      "updatedOn": 1790863432703
+      "updatedOn": 1791212306779
     },
     {
       "id": "624d6464b388db6532acec4b",
@@ -2256,7 +2205,6 @@
         "Todd Bienvenu"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2022",
         "Date: 2022-03-31/2022-04-03",
@@ -2279,7 +2227,7 @@
       "starred": true,
       "publishOn": 1648720800369,
       "addedOn": 1648720800369,
-      "updatedOn": 1790863448061
+      "updatedOn": 1791212306982
     },
     {
       "id": "620d380ebf31ce0a9a50941c",
@@ -2297,7 +2245,6 @@
         "Chloe Wise"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2022",
         "Date: 2022-03-11/2022-05-21"
@@ -2319,7 +2266,7 @@
       "starred": true,
       "publishOn": 1646996400401,
       "addedOn": 1646996400401,
-      "updatedOn": 1790863464511
+      "updatedOn": 1791212306146
     },
     {
       "id": "62387ebce9caad41ad5c0ade",
@@ -2347,7 +2294,6 @@
         "Tali Lennox"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2022",
         "Date: 2022-03-03/2022-03-06",
@@ -2370,7 +2316,7 @@
       "starred": false,
       "publishOn": 1646305200671,
       "addedOn": 1646305200671,
-      "updatedOn": 1790863478517
+      "updatedOn": 1791212306267
     },
     {
       "id": "61f95c74a7c6f70616089a0d",
@@ -2388,7 +2334,6 @@
         "Aks Misyuta"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Year: 2021",
         "Year: 2022",
         "Exhibition: Solo Show",
@@ -2411,7 +2356,7 @@
       "starred": true,
       "publishOn": 1637838000748,
       "addedOn": 1637838000748,
-      "updatedOn": 1790863640622
+      "updatedOn": 1791212306490
     },
     {
       "id": "61fabd2459d0c324d8319a2b",
@@ -2430,7 +2375,6 @@
         "Lydia Pettit"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2021",
         "Date: 2021-11-04/2021-11-07",
@@ -2453,7 +2397,7 @@
       "starred": true,
       "publishOn": 1636023600032,
       "addedOn": 1636023600032,
-      "updatedOn": 1790863653551
+      "updatedOn": 1791212306866
     },
     {
       "id": "61fbdb1a9e4049265e86ab40",
@@ -2472,7 +2416,6 @@
       ],
       "tags": [
         "Location: Booth B20, Grand Palais, Paris",
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2021",
         "Date: 2021-10-21/2021-10-24"
@@ -2494,7 +2437,7 @@
       "starred": true,
       "publishOn": 1634810400852,
       "addedOn": 1634810400852,
-      "updatedOn": 1790863678986
+      "updatedOn": 1791212305142
     },
     {
       "id": "61fa67f781835f02a11b5937",
@@ -2514,7 +2457,6 @@
       "tags": [
         "Year: 2021",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition",
         "Date: 2021-09-11/2021-11-06"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">11 September – 6 November 2021</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
@@ -2534,7 +2476,7 @@
       "starred": true,
       "publishOn": 1631181600790,
       "addedOn": 1631181600790,
-      "updatedOn": 1790863692284
+      "updatedOn": 1791212305719
     },
     {
       "id": "626021665ab424550ed4364f",
@@ -2556,7 +2498,6 @@
         "Todd Bienvenu"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2021",
         "Date: 2021-07-15/2021-07-17",
@@ -2579,7 +2520,7 @@
       "starred": false,
       "publishOn": 1626361560259,
       "addedOn": 1626361560259,
-      "updatedOn": 1790863718728
+      "updatedOn": 1791212306711
     },
     {
       "id": "61faba286a80e210bd1aca07",
@@ -2597,7 +2538,6 @@
         "Todd Bienvenu"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2021",
         "Date: 2021-06-11/2021-07-23"
@@ -2619,7 +2559,7 @@
       "starred": true,
       "publishOn": 1623405600911,
       "addedOn": 1623405600911,
-      "updatedOn": 1790863775162
+      "updatedOn": 1791212307072
     },
     {
       "id": "6308ebd91028df4b7c516c5f",
@@ -2637,7 +2577,6 @@
         "Hannah Rowan"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2021",
         "Date: 2021-05-06/2021-06-04"
@@ -2659,7 +2598,7 @@
       "starred": true,
       "publishOn": 1620316800582,
       "addedOn": 1620316800582,
-      "updatedOn": 1790863799036
+      "updatedOn": 1791212305983
     },
     {
       "id": "62602a405bcca87ec07cf9f6",
@@ -2679,7 +2618,6 @@
       "tags": [
         "Year: 2021",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition",
         "Date: 2021-05-06/2021-06-04"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">6 May — 4 June 2021</p>",
@@ -2699,7 +2637,7 @@
       "starred": true,
       "publishOn": 1620315840574,
       "addedOn": 1620315840574,
-      "updatedOn": 1790863826599
+      "updatedOn": 1791212307001
     },
     {
       "id": "62bf07c4055fc74cd48ed33c",
@@ -2717,7 +2655,6 @@
         "Lydia Pettit"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2021",
         "Date: 2021-03-31/2021-04-30"
@@ -2739,7 +2676,7 @@
       "starred": true,
       "publishOn": 1617201720742,
       "addedOn": 1617201720742,
-      "updatedOn": 1790863853045
+      "updatedOn": 1791212306340
     },
     {
       "id": "62602c741d7b0651536ce8d7",
@@ -2757,7 +2694,6 @@
         "Jonathan Edelhuber"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2021",
         "Date: 2021-02-23/2021-03-26"
@@ -2779,7 +2715,7 @@
       "starred": true,
       "publishOn": 1614099180128,
       "addedOn": 1614099180128,
-      "updatedOn": 1790863871108
+      "updatedOn": 1791212305209
     },
     {
       "id": "6260327831dc3f17a50f5099",
@@ -2797,7 +2733,6 @@
         "Michael Hilsman"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2020",
         "Year: 2021",
@@ -2820,7 +2755,7 @@
       "starred": true,
       "publishOn": 1608311940136,
       "addedOn": 1608311940136,
-      "updatedOn": 1790863889887
+      "updatedOn": 1791212305377
     },
     {
       "id": "6260358b71861d4299cf2f23",
@@ -2840,7 +2775,6 @@
         "Raymond Pettibon"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Group Show",
         "Year: 2020",
         "Date: 2020-10-30/2020-11-12"
@@ -2862,7 +2796,7 @@
       "starred": true,
       "publishOn": 1604079120528,
       "addedOn": 1604079120528,
-      "updatedOn": 1790863911643
+      "updatedOn": 1791212305315
     },
     {
       "id": "626037e37f4b8048cc110aff",
@@ -2882,7 +2816,6 @@
       "tags": [
         "Year: 2020",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition",
         "Date: 2020-10-01/2020-10-24"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">1 – 24 October 2020</p>",
@@ -2902,7 +2835,7 @@
       "starred": true,
       "publishOn": 1601570520012,
       "addedOn": 1601570520012,
-      "updatedOn": 1790863943369
+      "updatedOn": 1791212306920
     },
     {
       "id": "62628f97fce0673731067bcf",
@@ -2936,7 +2869,6 @@
         "Richard Kern"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Group Show",
         "Year: 2020",
         "Date: 2020-06-19/2020-07-24"
@@ -2958,7 +2890,7 @@
       "starred": false,
       "publishOn": 1592565600759,
       "addedOn": 1592565600759,
-      "updatedOn": 1790863959618
+      "updatedOn": 1791212306961
     },
     {
       "id": "626292db5febb675352a4bf7",
@@ -2978,7 +2910,6 @@
       "tags": [
         "Year: 2020",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition",
         "Date: 2020-02-21/2020-06-06"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">21 February — 6 June 2020</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
@@ -2998,7 +2929,7 @@
       "starred": true,
       "publishOn": 1582202040881,
       "addedOn": 1582202040881,
-      "updatedOn": 1790863979600
+      "updatedOn": 1791212305294
     },
     {
       "id": "6262c9897e147e644c935eb6",
@@ -3024,7 +2955,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2020",
         "Date: 2020-01-30/2020-02-02",
@@ -3047,7 +2977,7 @@
       "starred": false,
       "publishOn": 1580401680188,
       "addedOn": 1580401680188,
-      "updatedOn": 1790863992246
+      "updatedOn": 1791212305356
     },
     {
       "id": "626295157bfd0f2f1b5c26db",
@@ -3065,7 +2995,6 @@
         "Joe Andoe"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2019",
         "Year: 2020",
@@ -3088,7 +3017,7 @@
       "starred": true,
       "publishOn": 1575031440837,
       "addedOn": 1575031440837,
-      "updatedOn": 1790864006802
+      "updatedOn": 1791212305595
     },
     {
       "id": "6262cc62c7cc704f063e105d",
@@ -3107,7 +3036,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2019",
         "Date: 2019-11-29/2020-01-25",
@@ -3130,7 +3058,7 @@
       "starred": false,
       "publishOn": 1572626400101,
       "addedOn": 1572626400101,
-      "updatedOn": 1790864022015
+      "updatedOn": 1791212305894
     },
     {
       "id": "6262976988253841acd83d55",
@@ -3170,7 +3098,6 @@
       "tags": [
         "Year: 2019",
         "Exhibition: Group Show",
-        "Status: Past Exhibition",
         "Date: 2019-09-27/2019-11-23"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">27 September – 23 November 2019</p>",
@@ -3190,7 +3117,7 @@
       "starred": false,
       "publishOn": 1569585240224,
       "addedOn": 1569585240224,
-      "updatedOn": 1790865409688
+      "updatedOn": 1791212306189
     },
     {
       "id": "6262997ea430a1080f8b3527",
@@ -3208,7 +3135,6 @@
         "Purvis Young"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2019",
         "Date: 2019-05-16/2019-07-20",
@@ -3231,7 +3157,7 @@
       "starred": true,
       "publishOn": 1558008180247,
       "addedOn": 1558008180247,
-      "updatedOn": 1790922066361
+      "updatedOn": 1791212305917
     },
     {
       "id": "6262ce702152581d23bf680d",
@@ -3255,7 +3181,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2019",
         "Date: 2019-04-26/2019-04-28",
@@ -3278,7 +3203,7 @@
       "starred": false,
       "publishOn": 1556293740771,
       "addedOn": 1556293740771,
-      "updatedOn": 1790865393262
+      "updatedOn": 1791212305737
     },
     {
       "id": "62629bb3745a54311869e0a8",
@@ -3296,7 +3221,6 @@
         "Todd Bienvenu"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2019",
         "Date: 2019-03-01/2019-04-27"
@@ -3318,7 +3242,7 @@
       "starred": true,
       "publishOn": 1551445920825,
       "addedOn": 1551445920825,
-      "updatedOn": 1790865379469
+      "updatedOn": 1791212305456
     },
     {
       "id": "6262d026244741334bd1b4e0",
@@ -3343,7 +3267,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2019",
         "Date: 2019-01-31/2019-02-03",
@@ -3366,7 +3289,7 @@
       "starred": false,
       "publishOn": 1548953760520,
       "addedOn": 1548953760520,
-      "updatedOn": 1790865367344
+      "updatedOn": 1791212307128
     },
     {
       "id": "6262d42d59049c7d2c06b783",
@@ -3385,7 +3308,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2018",
         "Date: 2018-11-08/2018-11-11",
@@ -3408,7 +3330,7 @@
       "starred": false,
       "publishOn": 1541697180854,
       "addedOn": 1541697180854,
-      "updatedOn": 1790865355016
+      "updatedOn": 1791212305938
     },
     {
       "id": "6262d87cab43c020a771a848",
@@ -3426,7 +3348,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2018",
         "Date: 2018-11-02/2018-11-04",
@@ -3449,7 +3370,7 @@
       "starred": true,
       "publishOn": 1541179860507,
       "addedOn": 1541179860507,
-      "updatedOn": 1790865343808
+      "updatedOn": 1791212305164
     },
     {
       "id": "626138d2a04f9c0c5eb3531b",
@@ -3467,7 +3388,6 @@
         "Lynnea Holland-Weiss"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2018",
         "Date: 2018-10-10/2018-12-22"
@@ -3489,7 +3409,7 @@
       "starred": true,
       "publishOn": 1539169080971,
       "addedOn": 1539169080971,
-      "updatedOn": 1790865330938
+      "updatedOn": 1791212307040
     },
     {
       "id": "6261373b842ca061f2f9a60b",
@@ -3507,7 +3427,6 @@
         "Chloe Wise"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2018",
         "Date: 2018-05-25/2018-07-07"
@@ -3529,7 +3448,7 @@
       "starred": true,
       "publishOn": 1527242400501,
       "addedOn": 1527242400501,
-      "updatedOn": 1790865300866
+      "updatedOn": 1791212306005
     },
     {
       "id": "6262dc796dcc5f58f9a2b730",
@@ -3551,7 +3470,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2018",
         "Date: 2018-04-28/2018-04-29",
@@ -3574,7 +3492,7 @@
       "starred": false,
       "publishOn": 1524934080853,
       "addedOn": 1524934080853,
-      "updatedOn": 1790865279698
+      "updatedOn": 1791212307024
     },
     {
       "id": "6261356e9c87e52111a59951",
@@ -3592,7 +3510,6 @@
         "Michael Hilsman"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2018",
         "Date: 2018-02-23/2018-04-07"
@@ -3614,7 +3531,7 @@
       "starred": true,
       "publishOn": 1519383600084,
       "addedOn": 1519383600084,
-      "updatedOn": 1790865268259
+      "updatedOn": 1791212305513
     },
     {
       "id": "6266a6b70ea7ec40f70b3ae8",
@@ -3637,7 +3554,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2018",
         "Date: 2018-02-01/2018-02-04",
@@ -3660,7 +3576,7 @@
       "starred": false,
       "publishOn": 1517496480837,
       "addedOn": 1517496480837,
-      "updatedOn": 1790864979708
+      "updatedOn": 1791212306650
     },
     {
       "id": "6266a953385110598dfd37af",
@@ -3678,7 +3594,6 @@
         "Todd Bienvenu"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
         "Date: 2017-11-02/2017-11-05",
@@ -3701,7 +3616,7 @@
       "starred": true,
       "publishOn": 1509634740079,
       "addedOn": 1509634740079,
-      "updatedOn": 1790864961751
+      "updatedOn": 1791212306586
     },
     {
       "id": "626132837a157b5715a37934",
@@ -3721,7 +3636,6 @@
       "tags": [
         "Year: 2017",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition",
         "Date: 2017-09-22/2017-12-16"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">22 September — 16 December 2017</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
@@ -3741,7 +3655,7 @@
       "starred": true,
       "publishOn": 1506076260062,
       "addedOn": 1506076260062,
-      "updatedOn": 1790864941204
+      "updatedOn": 1791212306942
     },
     {
       "id": "6261300d07cb9e27ae8b3213",
@@ -3759,7 +3673,6 @@
         "Richard Kern"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2017",
         "Date: 2017-05-26/2017-09-02"
@@ -3781,7 +3694,7 @@
       "starred": true,
       "publishOn": 1498472460940,
       "addedOn": 1498472460940,
-      "updatedOn": 1790864921212
+      "updatedOn": 1791212306514
     },
     {
       "id": "6266be8d259470641162bab9",
@@ -3804,7 +3717,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
         "Date: 2017-04-29/2017-04-30",
@@ -3827,7 +3739,7 @@
       "starred": false,
       "publishOn": 1493479800431,
       "addedOn": 1493479800431,
-      "updatedOn": 1790864901535
+      "updatedOn": 1791212305187
     },
     {
       "id": "6266b3d56cdb7f674344b9a4",
@@ -3847,7 +3759,6 @@
         "Todd Bienvenu"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
         "Date: 2017-04-19/2017-04-23",
@@ -3870,7 +3781,7 @@
       "starred": false,
       "publishOn": 1492613040618,
       "addedOn": 1492613040618,
-      "updatedOn": 1790864889985
+      "updatedOn": 1791212305660
     },
     {
       "id": "6266b6327f81c47c8b318b0f",
@@ -3892,7 +3803,6 @@
       ],
       "tags": [
         "Location: Booth C5, Dallas Art Fair",
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
         "Date: 2017-04-07/2017-04-09"
@@ -3914,7 +3824,7 @@
       "starred": false,
       "publishOn": 1491576840684,
       "addedOn": 1491576840684,
-      "updatedOn": 1790864878181
+      "updatedOn": 1791212306426
     },
     {
       "id": "62612e2f541a5847c24b4c4d",
@@ -3932,7 +3842,6 @@
         "Jeff Perkins"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2017",
         "Date: 2017-03-17/2017-05-20"
@@ -3954,7 +3863,7 @@
       "starred": true,
       "publishOn": 1489749180279,
       "addedOn": 1489749180279,
-      "updatedOn": 1790864847519
+      "updatedOn": 1791212305475
     },
     {
       "id": "6266ba461e34f11bd911bf17",
@@ -3973,7 +3882,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
         "Date: 2017-03-02/2017-03-05",
@@ -3996,7 +3904,7 @@
       "starred": false,
       "publishOn": 1488471120144,
       "addedOn": 1488471120144,
-      "updatedOn": 1790864832441
+      "updatedOn": 1791212306817
     },
     {
       "id": "6261293a9de5b53f5e7314fc",
@@ -4016,7 +3924,6 @@
       "tags": [
         "Year: 2017",
         "Exhibition: Solo Show",
-        "Status: Past Exhibition",
         "Date: 2017-01-31/2017-03-04"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">31 January — 04 March 2017</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
@@ -4036,7 +3943,7 @@
       "starred": true,
       "publishOn": 1485859860412,
       "addedOn": 1485859860412,
-      "updatedOn": 1790864821307
+      "updatedOn": 1791212306097
     },
     {
       "id": "6266bc567e435069ce69e6e5",
@@ -4054,7 +3961,6 @@
         "Walter Robinson"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2017",
         "Date: 2017-01-26/2017-01-29",
@@ -4077,7 +3983,7 @@
       "starred": true,
       "publishOn": 1485447600084,
       "addedOn": 1485447600084,
-      "updatedOn": 1790864803210
+      "updatedOn": 1791212306354
     },
     {
       "id": "6261264870526c619aec469e",
@@ -4095,7 +4001,6 @@
         "Todd Bienvenu"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2016",
         "Date: 2016-11-19/2017-01-14"
@@ -4117,7 +4022,7 @@
       "starred": true,
       "publishOn": 1479551940857,
       "addedOn": 1479551940857,
-      "updatedOn": 1790864790640
+      "updatedOn": 1791212305576
     },
     {
       "id": "62612450352dd9784d530314",
@@ -4135,7 +4040,6 @@
         "Alexander Kosolapov"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2016",
         "Date: 2016-09-30/2016-12-17"
@@ -4157,7 +4061,7 @@
       "starred": true,
       "publishOn": 1475227800716,
       "addedOn": 1475227800716,
-      "updatedOn": 1790864777024
+      "updatedOn": 1791212306370
     },
     {
       "id": "62611ec77448c115a4a319da",
@@ -4173,7 +4077,6 @@
       },
       "categories": [],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Group Show",
         "Year: 2016",
         "Date: 2016-06-10/2016-07-09"
@@ -4195,7 +4098,7 @@
       "starred": false,
       "publishOn": 1465549620834,
       "addedOn": 1465549620834,
-      "updatedOn": 1790864760982
+      "updatedOn": 1791212306833
     },
     {
       "id": "6266c05583150d693796535e",
@@ -4216,7 +4119,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2016",
         "Date: 2016-05-05/2016-05-08",
@@ -4239,7 +4141,7 @@
       "starred": false,
       "publishOn": 1462462620549,
       "addedOn": 1462462620549,
-      "updatedOn": 1790864681151
+      "updatedOn": 1791212306230
     },
     {
       "id": "6267cb9b255c0c739ce80b4f",
@@ -4259,7 +4161,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2016",
         "Date: 2016-04-30/2016-05-01",
@@ -4282,7 +4183,7 @@
       "starred": false,
       "publishOn": 1462012680127,
       "addedOn": 1462012680127,
-      "updatedOn": 1790864667677
+      "updatedOn": 1791212305337
     },
     {
       "id": "62611b1ecb4ce2169125eabb",
@@ -4300,7 +4201,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2016",
         "Date: 2016-04-22/2016-07-02"
@@ -4322,7 +4222,7 @@
       "starred": true,
       "publishOn": 1461315060591,
       "addedOn": 1461315060591,
-      "updatedOn": 1790860905867
+      "updatedOn": 1791212306051
     },
     {
       "id": "6260339f6117d017a84eca6f",
@@ -4340,7 +4240,6 @@
         "Michael Hilsman"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2016",
         "Date: 2016-03-11/2016-04-16"
@@ -4362,7 +4261,7 @@
       "starred": true,
       "publishOn": 1457716980582,
       "addedOn": 1457716980582,
-      "updatedOn": 1790860882399
+      "updatedOn": 1791212306849
     },
     {
       "id": "6267cdc0ef7e471b2b34d6c8",
@@ -4384,7 +4283,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2016",
         "Date: 2016-01-28/2016-01-31",
@@ -4407,7 +4305,7 @@
       "starred": false,
       "publishOn": 1453981620458,
       "addedOn": 1453981620458,
-      "updatedOn": 1790860867016
+      "updatedOn": 1791212305834
     },
     {
       "id": "6260376b92a7e72a05b8daad",
@@ -4425,7 +4323,6 @@
         "Storm Tharp"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
         "Date: 2015-11-06/2016-02-20"
@@ -4447,7 +4344,7 @@
       "starred": true,
       "publishOn": 1446831600325,
       "addedOn": 1446831600325,
-      "updatedOn": 1790860851827
+      "updatedOn": 1791212306406
     },
     {
       "id": "626030dde55bbd1d8ef9ba26",
@@ -4465,7 +4362,6 @@
         "Sam Kaprielov"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
         "Date: 2015-09-26/2015-10-28"
@@ -4487,7 +4383,7 @@
       "starred": true,
       "publishOn": 1443283920273,
       "addedOn": 1443283920273,
-      "updatedOn": 1790860827782
+      "updatedOn": 1791212306536
     },
     {
       "id": "620f83c67cfc0e3d7527b31b",
@@ -4505,7 +4401,6 @@
         "Chloe Wise"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
         "Date: 2015-06-05/2015-07-04"
@@ -4527,7 +4422,7 @@
       "starred": true,
       "publishOn": 1433498400356,
       "addedOn": 1433498400356,
-      "updatedOn": 1790860796422
+      "updatedOn": 1791212306285
     },
     {
       "id": "62602d4410520b6cb428a084",
@@ -4545,7 +4440,6 @@
         "Max Maslansky"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Solo Show",
         "Year: 2015",
         "Date: 2015-03-27/2015-04-30"
@@ -4567,7 +4461,7 @@
       "starred": true,
       "publishOn": 1427475360789,
       "addedOn": 1427475360789,
-      "updatedOn": 1790860467815
+      "updatedOn": 1791212305394
     },
     {
       "id": "62680d3612f47618de17d94a",
@@ -4591,7 +4485,6 @@
         "Yarisal & Kublitz"
       ],
       "tags": [
-        "Status: Past Exhibition",
         "Exhibition: Fair",
         "Year: 2015",
         "Date: 2015-01-29/2015-02-01",
@@ -4614,7 +4507,7 @@
       "starred": false,
       "publishOn": 1422548280369,
       "addedOn": 1422548280369,
-      "updatedOn": 1790860355721
+      "updatedOn": 1791212305613
     }
   ]
 }
