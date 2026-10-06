@@ -5,8 +5,8 @@
   "id": "all-artists",
   "path": "/all-artists",
   "sourceUrl": "https://sebastienbertrand.com/all-artists?format=json",
-  "updatedAt": "2026-09-25T15:27:38.104Z",
-  "sourceHash": "e17184a147342995f3960f216e3709eded1eb0e85afcaffc1d6ce20d3b11cdcf",
+  "updatedAt": "2026-10-06T09:17:55.618Z",
+  "sourceHash": "b76d4cbc592aa2c643f560fb1e6705e706afdb3db810c10b0f2ecb2660df4b8b",
   "count": 24,
   "pages": 1,
   "items": [
@@ -26,7 +26,6 @@
         "Represented Artist"
       ],
       "tags": [
-        "Joe Andoe",
         "Last name: Andoe"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1955, Tulsa, Oklahoma.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
@@ -46,7 +45,7 @@
       "starred": true,
       "publishOn": 1704057960977,
       "addedOn": 1704057960977,
-      "updatedOn": 1790250284189
+      "updatedOn": 1791278247300
     },
     {
       "id": "61f26b9777b790472ed0bc86",
@@ -64,7 +63,6 @@
         "Represented Artist"
       ],
       "tags": [
-        "Todd Bienvenu",
         "Last name: Bienvenu"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" class=\"sqsrte-small\" data-rte-preserve-empty=\"true\">Born in 1980 in Little Rock, Arkansas.</p><p style=\"white-space:pre-wrap;\" class=\"sqsrte-small\" data-rte-preserve-empty=\"true\">Lives and works in New York, USA.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Todd Bienvenu’s thick oil and acrylic paintings are expressive, resplendent and uninhibited, driven by&nbsp;strong color and spontaneous movement. He&nbsp;applies paint directly as&nbsp;forms and subjects emerge through addition and subtraction. Burlesque scenes – parties, beaches, sex, alcohol – carry an&nbsp;underlying melancholy, touching on&nbsp;time, solitude, and the body’s vulnerability.</p>",
@@ -84,7 +82,7 @@
       "starred": true,
       "publishOn": 1698836400661,
       "addedOn": 1698836400661,
-      "updatedOn": 1790250565547
+      "updatedOn": 1791278265671
     },
     {
       "id": "649db3be412ef771c101fcbd",
@@ -102,8 +100,7 @@
         "Represented Artist"
       ],
       "tags": [
-        "Last name: Han-Chiao",
-        "Han-Chiao"
+        "Last name: Han-Chiao"
       ],
       "excerpt": "",
       "location": {
@@ -122,7 +119,7 @@
       "starred": true,
       "publishOn": 1696178340361,
       "addedOn": 1696178340361,
-      "updatedOn": 1790250237346
+      "updatedOn": 1791278238238
     },
     {
       "id": "61f2c9586ea4c618300c07c3",
@@ -140,7 +137,6 @@
         "Collaboration"
       ],
       "tags": [
-        "Jonathan Edelhuber",
         "Last name: Edelhuber"
       ],
       "excerpt": "",
@@ -160,7 +156,7 @@
       "starred": false,
       "publishOn": 1693665000252,
       "addedOn": 1693665000252,
-      "updatedOn": 1790250295925
+      "updatedOn": 1791278250264
     },
     {
       "id": "68c939dd25f21441308c2533",
@@ -216,8 +212,7 @@
         "Represented Artist"
       ],
       "tags": [
-        "Last name: González Martín",
-        "Natalia González Martín"
+        "Last name: González Martín"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1995, Madrid, Spain.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in London, UK.</p>",
       "location": {
@@ -236,7 +231,7 @@
       "starred": true,
       "publishOn": 1690970400856,
       "addedOn": 1690970400856,
-      "updatedOn": 1790250444901
+      "updatedOn": 1791278269822
     },
     {
       "id": "61f26b698069395c6a75147e",
@@ -292,7 +287,6 @@
         "Represented Artist"
       ],
       "tags": [
-        "Isaac Soh Fujita Howell",
         "Last name: Howell"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&nbsp;Born in 1993 in Princeton, NJ.&nbsp;</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lives and works in Brooklyn, NY.&nbsp;</p><p class=\"p1\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
@@ -312,7 +306,7 @@
       "starred": true,
       "publishOn": 1688203440775,
       "addedOn": 1688203440775,
-      "updatedOn": 1790250271694
+      "updatedOn": 1791278242531
     },
     {
       "id": "61f26b59962a8f0bd2f990c1",
@@ -330,7 +324,6 @@
         "Represented Artist"
       ],
       "tags": [
-        "Alexander Kosolapov",
         "Last name: Kosolapov"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1943, Moscow, Russia.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
@@ -350,7 +343,7 @@
       "starred": true,
       "publishOn": 1687946400959,
       "addedOn": 1687946400959,
-      "updatedOn": 1790250169839
+      "updatedOn": 1791278229807
     },
     {
       "id": "61f26b1893406d0903acfdaf",
@@ -368,7 +361,6 @@
         "Represented Artist"
       ],
       "tags": [
-        "Richard Kern",
         "Last name: Kern"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1954, Roanoke Rapids, North Carolina.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives in New York, USA.</p>",
@@ -388,7 +380,7 @@
       "starred": true,
       "publishOn": 1686823200857,
       "addedOn": 1686823200857,
-      "updatedOn": 1790250479794
+      "updatedOn": 1791278274694
     },
     {
       "id": "652e5764a410004b14b74e32",
@@ -444,7 +436,6 @@
         "Represented Artist"
       ],
       "tags": [
-        "Tali Lennox",
         "Last name: Lennox"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1993, London, UK.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
@@ -464,7 +455,7 @@
       "starred": true,
       "publishOn": 1685613600086,
       "addedOn": 1685613600086,
-      "updatedOn": 1790250547713
+      "updatedOn": 1791278264065
     },
     {
       "id": "61f26b2bed297a0323b7c516",
@@ -558,7 +549,6 @@
         "Collaboration"
       ],
       "tags": [
-        "Aks Misyuta",
         "Last name: Misyuta"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1984, Bryansk, Russia.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in Istanbul, Turkey.</p>",
@@ -578,7 +568,7 @@
       "starred": false,
       "publishOn": 1682935200835,
       "addedOn": 1682935200835,
-      "updatedOn": 1790250153947
+      "updatedOn": 1791278227366
     },
     {
       "id": "61f26b057ed7336e3d7e2cf0",
@@ -634,8 +624,7 @@
         "Collaboration"
       ],
       "tags": [
-        "Last name: Tharp",
-        "Storm Tharp"
+        "Last name: Tharp"
       ],
       "excerpt": "",
       "location": {
@@ -654,7 +643,7 @@
       "starred": false,
       "publishOn": 1677675600048,
       "addedOn": 1677675600048,
-      "updatedOn": 1790250527532
+      "updatedOn": 1791278261977
     },
     {
       "id": "61f26b418e8c5e12cd95c8ae",
@@ -672,7 +661,6 @@
         "Represented Artist"
       ],
       "tags": [
-        "Walter Robinson",
         "Last name: Robinson"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1950, Wilmington, Delaware.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
@@ -692,7 +680,7 @@
       "starred": true,
       "publishOn": 1677668400512,
       "addedOn": 1677668400512,
-      "updatedOn": 1790250582829
+      "updatedOn": 1791278267592
     },
     {
       "id": "61f2c933a33caf6d241d7412",
@@ -710,7 +698,6 @@
         "Collaboration"
       ],
       "tags": [
-        "Hannah Rowan",
         "Last name: Rowan"
       ],
       "excerpt": "",
@@ -730,7 +717,7 @@
       "starred": false,
       "publishOn": 1675269000314,
       "addedOn": 1675269000314,
-      "updatedOn": 1790250253475
+      "updatedOn": 1791278240415
     },
     {
       "id": "61f1389f4d7bc663be383030",
@@ -748,7 +735,6 @@
         "Represented Artist"
       ],
       "tags": [
-        "Chloe Wise",
         "Last name: Wise"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Born in 1990, Montreal, Canada.</p><p class=\"\" style=\"white-space:pre-wrap;\">Lives and works in New York, USA.</p>",
@@ -768,7 +754,7 @@
       "starred": true,
       "publishOn": 1669892400561,
       "addedOn": 1669892400561,
-      "updatedOn": 1790250207069
+      "updatedOn": 1791278236253
     },
     {
       "id": "61f26ba7db6f2b3d506eb027",
@@ -786,7 +772,6 @@
         "Represented Artist"
       ],
       "tags": [
-        "Yarisal & Kublitz",
         "Last name: Yarisal & Kublitz"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Ronnie Yarisal, born in 1981, Geneva, Switzerland.</p><p class=\"\" style=\"white-space:pre-wrap;\">Katja Kublitz, born in 1978, Copenhagen, Denmark.</p><p class=\"\" style=\"white-space:pre-wrap;\">Live and work in Berlin, Germany.</p>",
@@ -806,7 +791,7 @@
       "starred": true,
       "publishOn": 1665828000021,
       "addedOn": 1665828000021,
-      "updatedOn": 1790250591090
+      "updatedOn": 1791278259141
     },
     {
       "id": "62b48f453e6e327ea48c42f9",
@@ -824,7 +809,6 @@
         "Collaboration"
       ],
       "tags": [
-        "Jeff Perkins",
         "Last name: Young"
       ],
       "excerpt": "",
@@ -844,7 +828,7 @@
       "starred": false,
       "publishOn": 1664640300474,
       "addedOn": 1664640300474,
-      "updatedOn": 1790250464604
+      "updatedOn": 1791278245208
     },
     {
       "id": "63ebc811cb4d98641b338da6",
@@ -900,7 +884,6 @@
         "Collaboration"
       ],
       "tags": [
-        "Caspar Giorgio Williams",
         "Last name: Williams"
       ],
       "excerpt": "",
@@ -920,7 +903,7 @@
       "starred": false,
       "publishOn": 1641056400052,
       "addedOn": 1641056400052,
-      "updatedOn": 1790250185541
+      "updatedOn": 1791278232232
     }
   ]
 }
