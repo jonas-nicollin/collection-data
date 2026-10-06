@@ -5,8 +5,8 @@
   "id": "publications",
   "path": "/publications",
   "sourceUrl": "https://sebastienbertrand.com/publications?format=json",
-  "updatedAt": "2026-10-05T14:48:12.422Z",
-  "sourceHash": "c0e2cd48070e1a3cd0e5ed77ebcfa4e5422ac5969f8237bfbd3c4635ae208a50",
+  "updatedAt": "2026-10-06T09:48:06.092Z",
+  "sourceHash": "dd56077d2d314831102e2c1f125bc53af6d2a826039d0e6ac2193b5f299b0cca",
   "count": 9,
   "pages": 1,
   "items": [
@@ -22,7 +22,8 @@
         "source": 3
       },
       "tags": [
-        "Artist: Han-Chiao"
+        "Artist: Han-Chiao",
+        "Exhibition: Echo"
       ],
       "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of <em>Echo</em>, Han Chiao's first solo show at the gallery. From 29 September to 11 November 2023.</p>",
       "displayIndex": 0,
@@ -30,7 +31,7 @@
       "starred": false,
       "publishOn": 1717488436752,
       "addedOn": 1712931779914,
-      "updatedOn": 1791210794354,
+      "updatedOn": 1791279844433,
       "categories": [
         "In-house Edition"
       ],
@@ -147,7 +148,7 @@
     },
     {
       "id": "66d82cf6ff42c16952a8754e",
-      "title": "Natalia González Martín, Lady into Fox",
+      "title": "Natalia González Martín, Lady Into Fox",
       "fullUrl": "/publications/p/natalia-gonzalez-martin-lady-into-fox",
       "urlId": "natalia-gonzalez-martin-lady-into-fox",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/4ddaa386-2865-4642-b204-a9ca8c54afa6/Natalia-Gonzalez-Martin_Lady-into-Fox_01.jpg",
@@ -157,7 +158,8 @@
         "source": 3
       },
       "tags": [
-        "Artist: Natalia González Martín"
+        "Artist: Natalia González Martín",
+        "Exhibition: Lady Into Fox"
       ],
       "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Natalia González Martín's second solo show at the gallery, <em>Lady Into Fox</em>. From 24 November 2023 to 27 January 2024.</p>",
       "displayIndex": 0,
@@ -165,7 +167,7 @@
       "starred": false,
       "publishOn": 1725443517567,
       "addedOn": 1712931779914,
-      "updatedOn": 1791210686632,
+      "updatedOn": 1791280073391,
       "categories": [
         "In-house Edition"
       ],
@@ -220,7 +222,8 @@
         "source": 3
       },
       "tags": [
-        "Artist: Lian Zhang"
+        "Artist: Lian Zhang",
+        "Exhibition: The Rabbit Who Hunts Tigers"
       ],
       "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Lian Zhang's first solo show at the gallery, <em>The Rabbit Who Hunts Tigers</em>. From 3 March to 15 April 2023.</p>",
       "displayIndex": 0,
@@ -228,7 +231,7 @@
       "starred": false,
       "publishOn": 1725444012854,
       "addedOn": 1712931779914,
-      "updatedOn": 1791210673992,
+      "updatedOn": 1791280034480,
       "categories": [
         "In-house Edition"
       ],
@@ -283,7 +286,8 @@
         "source": 3
       },
       "tags": [
-        "Artist: Chloe Wise"
+        "Artist: Chloe Wise",
+        "Exhibition: Spite Unseen"
       ],
       "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Chloe Wise's solo show <em>Spite Unseen </em>at the gallery. From 11 March to 7 May 2022.</p>",
       "displayIndex": 0,
@@ -291,7 +295,7 @@
       "starred": false,
       "publishOn": 1725440359861,
       "addedOn": 1712931779914,
-      "updatedOn": 1791210653118,
+      "updatedOn": 1791280014245,
       "categories": [
         "In-house Edition"
       ],
@@ -355,7 +359,8 @@
         "source": 3
       },
       "tags": [
-        "Artist: Tali Lennox"
+        "Artist: Tali Lennox",
+        "Exhibition: Lotus of Nephthys"
       ],
       "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Tali Lennox's first solo show at the gallery, <em>Lotus of Nephthys</em>. From 16 September to 5 November 2022.</p>",
       "displayIndex": 0,
@@ -363,7 +368,7 @@
       "starred": false,
       "publishOn": 1725443042535,
       "addedOn": 1712931779914,
-      "updatedOn": 1791210693046,
+      "updatedOn": 1791279992158,
       "categories": [
         "In-house Edition"
       ],
@@ -418,7 +423,8 @@
         "source": 3
       },
       "tags": [
-        "Artist: Todd Bienvenu"
+        "Artist: Todd Bienvenu",
+        "Exhibition: Congregation"
       ],
       "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of <em>Congregation,</em> Todd Bienvenu's solo show at the gallery. From 11 June to 23 July 2021.</p>",
       "displayIndex": 0,
@@ -426,7 +432,7 @@
       "starred": false,
       "publishOn": 1725442830556,
       "addedOn": 1712931779914,
-      "updatedOn": 1791210697675,
+      "updatedOn": 1791279974163,
       "categories": [
         "In-house Edition"
       ],
@@ -481,7 +487,8 @@
         "source": 3
       },
       "tags": [
-        "Artist: Joe Andoe"
+        "Artist: Joe Andoe",
+        "Exhibition: The Catskills"
       ],
       "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Joe Andoe's solo show<em>The Catskills</em>. From 6 May to 4 June 2021.</p>",
       "displayIndex": 0,
@@ -489,7 +496,7 @@
       "starred": false,
       "publishOn": 1725440742728,
       "addedOn": 1712931779914,
-      "updatedOn": 1791210667854,
+      "updatedOn": 1791279954032,
       "categories": [
         "In-house Edition"
       ],
@@ -544,7 +551,8 @@
         "source": 3
       },
       "tags": [
-        "Artist: Michael Hilsman"
+        "Artist: Michael Hilsman",
+        "Exhibition: Dangling Man"
       ],
       "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of <em>Dangling Man, </em>Michael Hilsman's solo show at the gallery. From 18 December 2020 to 5 February 2021.</p>",
       "displayIndex": 0,
@@ -552,7 +560,7 @@
       "starred": false,
       "publishOn": 1725441131412,
       "addedOn": 1712931779914,
-      "updatedOn": 1791210680962,
+      "updatedOn": 1791279928346,
       "categories": [
         "In-house Edition"
       ],
