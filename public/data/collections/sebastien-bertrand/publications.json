@@ -5,8 +5,8 @@
   "id": "publications",
   "path": "/publications",
   "sourceUrl": "https://sebastienbertrand.com/publications?format=json",
-  "updatedAt": "2026-10-06T09:48:06.092Z",
-  "sourceHash": "dd56077d2d314831102e2c1f125bc53af6d2a826039d0e6ac2193b5f299b0cca",
+  "updatedAt": "2026-10-06T09:58:08.006Z",
+  "sourceHash": "d2ef4d61f30317f53a17f525bb923134fa65ad07f50d772cf18c33c16c2990aa",
   "count": 9,
   "pages": 1,
   "items": [
@@ -86,7 +86,8 @@
         "source": 3
       },
       "tags": [
-        "Artist: Michael Hilsman"
+        "Artist: Michael Hilsman",
+        "Exhibition: Landscapes With Flowers"
       ],
       "excerpt": "<p>Exhibition catalogue published by Sébastien Bertrand on the occasion of Michael Hilsman's solo show at the gallery, <em>Landscapes With Flowers</em>. From 23 June to 19 August 2023.</p>",
       "displayIndex": 0,
@@ -94,7 +95,7 @@
       "starred": false,
       "publishOn": 1725441664284,
       "addedOn": 1712931779914,
-      "updatedOn": 1791210680982,
+      "updatedOn": 1791280095646,
       "categories": [
         "In-house Edition"
       ],
