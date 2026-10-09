@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-09T18:17:55.433Z",
-  "sourceHash": "d269c4d42efcd16ae1747acc6f5e1082a111f0f96470eb1bbe7b43cd1a228f48",
+  "updatedAt": "2026-10-09T19:38:02.925Z",
+  "sourceHash": "b248c39ed5d3991fd6ded85478bdfdf64e506fd50873a57480c3b94e61a40941",
   "count": 759,
   "pages": 4,
   "items": [
@@ -7181,7 +7181,7 @@
       "starred": false,
       "publishOn": 1706786210372,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855863674,
+      "updatedOn": 1791556141323,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -7347,7 +7347,7 @@
       "starred": false,
       "publishOn": 1705573221813,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855863762,
+      "updatedOn": 1791555839788,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -10524,7 +10524,7 @@
       "starred": true,
       "publishOn": 1726150053143,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868654002,
+      "updatedOn": 1791546346955,
       "categories": [
         "Richard Kern"
       ],
@@ -10569,7 +10569,7 @@
       "starred": true,
       "publishOn": 1668512073172,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868671655,
+      "updatedOn": 1791546346917,
       "categories": [
         "Richard Kern"
       ],
@@ -10609,7 +10609,7 @@
       "starred": true,
       "publishOn": 1668511411354,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868684737,
+      "updatedOn": 1791546346734,
       "categories": [
         "Richard Kern"
       ],
@@ -10649,7 +10649,7 @@
       "starred": true,
       "publishOn": 1668511168711,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868705147,
+      "updatedOn": 1791546346408,
       "categories": [
         "Richard Kern"
       ],
@@ -10689,7 +10689,7 @@
       "starred": true,
       "publishOn": 1668510163200,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868720336,
+      "updatedOn": 1791546346312,
       "categories": [
         "Richard Kern"
       ],
@@ -12989,7 +12989,7 @@
       "starred": true,
       "publishOn": 1656606439571,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869531998,
+      "updatedOn": 1791543350508,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -15105,7 +15105,7 @@
       "starred": true,
       "publishOn": 1656344982102,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869543859,
+      "updatedOn": 1791543277408,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -15621,7 +15621,7 @@
       "starred": true,
       "publishOn": 1656343164712,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869552026,
+      "updatedOn": 1791543276598,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -16515,7 +16515,7 @@
       "starred": true,
       "publishOn": 1656339973413,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869560021,
+      "updatedOn": 1791543275598,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -17298,7 +17298,7 @@
       "starred": true,
       "publishOn": 1656337161450,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869567555,
+      "updatedOn": 1791543274660,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -19034,7 +19034,7 @@
       "starred": true,
       "publishOn": 1656082872015,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869574964,
+      "updatedOn": 1791543222089,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24655,7 +24655,7 @@
       "starred": true,
       "publishOn": 1651575508603,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869582916,
+      "updatedOn": 1791542140077,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24695,7 +24695,7 @@
       "starred": true,
       "publishOn": 1651575293745,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869601249,
+      "updatedOn": 1791542140036,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24738,7 +24738,7 @@
       "starred": true,
       "publishOn": 1651575040246,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869609534,
+      "updatedOn": 1791542139970,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24787,7 +24787,7 @@
       "starred": true,
       "publishOn": 1651574434149,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869619469,
+      "updatedOn": 1791542139875,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24824,7 +24824,7 @@
       "starred": true,
       "publishOn": 1651573800365,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869629518,
+      "updatedOn": 1791542139784,
       "categories": [
         "Yarisal & Kublitz"
       ],
