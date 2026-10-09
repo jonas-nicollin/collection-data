@@ -5,8 +5,8 @@
   "id": "publications",
   "path": "/publications",
   "sourceUrl": "https://sebastienbertrand.com/publications?format=json",
-  "updatedAt": "2026-10-09T23:37:54.861Z",
-  "sourceHash": "d2ef4d61f30317f53a17f525bb923134fa65ad07f50d772cf18c33c16c2990aa",
+  "updatedAt": "2026-10-09T23:58:07.728Z",
+  "sourceHash": "bd4f58c9e0f55dcad83a7c6d1066574343eaa16143a0c48d580003d62ade2e9c",
   "count": 9,
   "pages": 1,
   "items": [
@@ -31,7 +31,7 @@
       "starred": false,
       "publishOn": 1717488436752,
       "addedOn": 1712931779914,
-      "updatedOn": 1791279844433,
+      "updatedOn": 1791570516720,
       "categories": [
         "In-house Edition"
       ],
@@ -95,7 +95,7 @@
       "starred": false,
       "publishOn": 1725441664284,
       "addedOn": 1712931779914,
-      "updatedOn": 1791280095646,
+      "updatedOn": 1791570980495,
       "categories": [
         "In-house Edition"
       ],
@@ -168,7 +168,7 @@
       "starred": false,
       "publishOn": 1725443517567,
       "addedOn": 1712931779914,
-      "updatedOn": 1791280073391,
+      "updatedOn": 1791570690356,
       "categories": [
         "In-house Edition"
       ],
@@ -232,7 +232,7 @@
       "starred": false,
       "publishOn": 1725444012854,
       "addedOn": 1712931779914,
-      "updatedOn": 1791280034480,
+      "updatedOn": 1791570721589,
       "categories": [
         "In-house Edition"
       ],
@@ -296,7 +296,7 @@
       "starred": false,
       "publishOn": 1725440359861,
       "addedOn": 1712931779914,
-      "updatedOn": 1791280014245,
+      "updatedOn": 1791570977477,
       "categories": [
         "In-house Edition"
       ],
@@ -369,7 +369,7 @@
       "starred": false,
       "publishOn": 1725443042535,
       "addedOn": 1712931779914,
-      "updatedOn": 1791279992158,
+      "updatedOn": 1791570615684,
       "categories": [
         "In-house Edition"
       ],
@@ -433,7 +433,7 @@
       "starred": false,
       "publishOn": 1725442830556,
       "addedOn": 1712931779914,
-      "updatedOn": 1791279974163,
+      "updatedOn": 1791570878512,
       "categories": [
         "In-house Edition"
       ],
@@ -497,7 +497,7 @@
       "starred": false,
       "publishOn": 1725440742728,
       "addedOn": 1712931779914,
-      "updatedOn": 1791279954032,
+      "updatedOn": 1791570715322,
       "categories": [
         "In-house Edition"
       ],
@@ -561,7 +561,7 @@
       "starred": false,
       "publishOn": 1725441131412,
       "addedOn": 1712931779914,
-      "updatedOn": 1791279928346,
+      "updatedOn": 1791570680155,
       "categories": [
         "In-house Edition"
       ],
