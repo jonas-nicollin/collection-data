@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-09T19:47:59.062Z",
-  "sourceHash": "d269c4d42efcd16ae1747acc6f5e1082a111f0f96470eb1bbe7b43cd1a228f48",
+  "updatedAt": "2026-10-09T23:28:16.760Z",
+  "sourceHash": "37a06390c97b1d3ba9a5de56047ad9eea2c2b45019973e82dfb795f4248d14e8",
   "count": 759,
   "pages": 4,
   "items": [
@@ -1831,7 +1831,7 @@
       "starred": true,
       "publishOn": 1760968769403,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869193181,
+      "updatedOn": 1791572493091,
       "categories": [
         "Tali Lennox"
       ],
@@ -2129,7 +2129,7 @@
       "starred": true,
       "publishOn": 1756974024380,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869205874,
+      "updatedOn": 1791571563371,
       "categories": [
         "Tali Lennox"
       ],
@@ -2164,7 +2164,7 @@
       "starred": true,
       "publishOn": 1756973992228,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869218676,
+      "updatedOn": 1791571100937,
       "categories": [
         "Tali Lennox"
       ],
@@ -2209,7 +2209,7 @@
       "starred": true,
       "publishOn": 1756973952583,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869231024,
+      "updatedOn": 1791571169070,
       "categories": [
         "Tali Lennox"
       ],
@@ -2244,7 +2244,7 @@
       "starred": true,
       "publishOn": 1756918269645,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869242877,
+      "updatedOn": 1791571103000,
       "categories": [
         "Tali Lennox"
       ],
@@ -2289,7 +2289,7 @@
       "starred": true,
       "publishOn": 1756918118430,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869253636,
+      "updatedOn": 1791571226006,
       "categories": [
         "Tali Lennox"
       ],
@@ -2329,7 +2329,7 @@
       "starred": true,
       "publishOn": 1756918026666,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869263910,
+      "updatedOn": 1791571710361,
       "categories": [
         "Tali Lennox"
       ],
@@ -2364,7 +2364,7 @@
       "starred": true,
       "publishOn": 1756917948412,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869272840,
+      "updatedOn": 1791571116901,
       "categories": [
         "Tali Lennox"
       ],
@@ -2409,7 +2409,7 @@
       "starred": true,
       "publishOn": 1756917559143,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869292350,
+      "updatedOn": 1791571573221,
       "categories": [
         "Tali Lennox"
       ],
@@ -2449,7 +2449,7 @@
       "starred": true,
       "publishOn": 1756917295548,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869304921,
+      "updatedOn": 1791571646887,
       "categories": [
         "Tali Lennox"
       ],
@@ -2489,7 +2489,7 @@
       "starred": true,
       "publishOn": 1756917113885,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869319337,
+      "updatedOn": 1791571715287,
       "categories": [
         "Tali Lennox"
       ],
@@ -2524,7 +2524,7 @@
       "starred": true,
       "publishOn": 1756916771752,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869332970,
+      "updatedOn": 1791571095144,
       "categories": [
         "Tali Lennox"
       ],
@@ -3365,7 +3365,7 @@
       "starred": false,
       "publishOn": 1751373530990,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855419152,
+      "updatedOn": 1791571448736,
       "categories": [
         "Mathis Gasser"
       ],
@@ -3463,7 +3463,7 @@
       "starred": false,
       "publishOn": 1744102720665,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856965749,
+      "updatedOn": 1791571575287,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -5072,7 +5072,7 @@
       "starred": true,
       "publishOn": 1729849761765,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868567650,
+      "updatedOn": 1791570856788,
       "categories": [
         "Richard Kern"
       ],
@@ -5637,7 +5637,7 @@
       "starred": true,
       "publishOn": 1726150454827,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868607115,
+      "updatedOn": 1791570744706,
       "categories": [
         "Richard Kern"
       ],
@@ -5682,7 +5682,7 @@
       "starred": true,
       "publishOn": 1726150360966,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868643025,
+      "updatedOn": 1791570704716,
       "categories": [
         "Richard Kern"
       ],
@@ -5722,7 +5722,7 @@
       "starred": true,
       "publishOn": 1720700879526,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869523439,
+      "updatedOn": 1791570535292,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -5882,7 +5882,7 @@
       "starred": true,
       "publishOn": 1718370766674,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856655601,
+      "updatedOn": 1791570861380,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -6296,7 +6296,7 @@
       "starred": false,
       "publishOn": 1718370848325,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856725219,
+      "updatedOn": 1791570445710,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -7181,7 +7181,7 @@
       "starred": false,
       "publishOn": 1706786210372,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855863674,
+      "updatedOn": 1791556141323,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -7347,7 +7347,7 @@
       "starred": false,
       "publishOn": 1705573221813,
       "addedOn": 1643206965705,
-      "updatedOn": 1790855863762,
+      "updatedOn": 1791555839788,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -10524,7 +10524,7 @@
       "starred": true,
       "publishOn": 1726150053143,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868654002,
+      "updatedOn": 1791546346955,
       "categories": [
         "Richard Kern"
       ],
@@ -10569,7 +10569,7 @@
       "starred": true,
       "publishOn": 1668512073172,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868671655,
+      "updatedOn": 1791546346917,
       "categories": [
         "Richard Kern"
       ],
@@ -10609,7 +10609,7 @@
       "starred": true,
       "publishOn": 1668511411354,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868684737,
+      "updatedOn": 1791546346734,
       "categories": [
         "Richard Kern"
       ],
@@ -10649,7 +10649,7 @@
       "starred": true,
       "publishOn": 1668511168711,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868705147,
+      "updatedOn": 1791546346408,
       "categories": [
         "Richard Kern"
       ],
@@ -10689,7 +10689,7 @@
       "starred": true,
       "publishOn": 1668510163200,
       "addedOn": 1643206965705,
-      "updatedOn": 1790868720336,
+      "updatedOn": 1791546346312,
       "categories": [
         "Richard Kern"
       ],
@@ -12989,7 +12989,7 @@
       "starred": true,
       "publishOn": 1656606439571,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869531998,
+      "updatedOn": 1791543350508,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -15105,7 +15105,7 @@
       "starred": true,
       "publishOn": 1656344982102,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869543859,
+      "updatedOn": 1791543277408,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -15621,7 +15621,7 @@
       "starred": true,
       "publishOn": 1656343164712,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869552026,
+      "updatedOn": 1791543276598,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -16515,7 +16515,7 @@
       "starred": true,
       "publishOn": 1656339973413,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869560021,
+      "updatedOn": 1791543275598,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -17298,7 +17298,7 @@
       "starred": true,
       "publishOn": 1656337161450,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869567555,
+      "updatedOn": 1791543274660,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -19034,7 +19034,7 @@
       "starred": true,
       "publishOn": 1656082872015,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869574964,
+      "updatedOn": 1791543222089,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24655,7 +24655,7 @@
       "starred": true,
       "publishOn": 1651575508603,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869582916,
+      "updatedOn": 1791542140077,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24695,7 +24695,7 @@
       "starred": true,
       "publishOn": 1651575293745,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869601249,
+      "updatedOn": 1791542140036,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24738,7 +24738,7 @@
       "starred": true,
       "publishOn": 1651575040246,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869609534,
+      "updatedOn": 1791542139970,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24787,7 +24787,7 @@
       "starred": true,
       "publishOn": 1651574434149,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869619469,
+      "updatedOn": 1791542139875,
       "categories": [
         "Yarisal & Kublitz"
       ],
@@ -24824,7 +24824,7 @@
       "starred": true,
       "publishOn": 1651573800365,
       "addedOn": 1643206965705,
-      "updatedOn": 1790869629518,
+      "updatedOn": 1791542139784,
       "categories": [
         "Yarisal & Kublitz"
       ],
