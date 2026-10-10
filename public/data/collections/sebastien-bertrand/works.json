@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-10T20:47:52.631Z",
-  "sourceHash": "835d781d95ee698ef2a12a9f8dadef1b593700755fca34a0e032b2c1498f79d5",
+  "updatedAt": "2026-10-10T20:57:52.722Z",
+  "sourceHash": "37a06390c97b1d3ba9a5de56047ad9eea2c2b45019973e82dfb795f4248d14e8",
   "count": 759,
   "pages": 4,
   "items": [
@@ -30,7 +30,7 @@
       "starred": false,
       "publishOn": 1790863697281,
       "addedOn": 1643206965705,
-      "updatedOn": 1791612747282,
+      "updatedOn": 1790922200442,
       "categories": [
         "Thomas Fougeirol"
       ],
@@ -70,7 +70,7 @@
       "starred": false,
       "publishOn": 1790174156690,
       "addedOn": 1643206965705,
-      "updatedOn": 1791604331856,
+      "updatedOn": 1790856733997,
       "categories": [
         "Mirella Jaworska"
       ],
@@ -107,7 +107,7 @@
       "starred": true,
       "publishOn": 1789984777981,
       "addedOn": 1643206965705,
-      "updatedOn": 1791601869524,
+      "updatedOn": 1789984777981,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -144,7 +144,7 @@
       "starred": true,
       "publishOn": 1789984582374,
       "addedOn": 1643206965705,
-      "updatedOn": 1791601864511,
+      "updatedOn": 1789984657423,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -184,7 +184,7 @@
       "starred": true,
       "publishOn": 1789984157733,
       "addedOn": 1643206965705,
-      "updatedOn": 1791601861116,
+      "updatedOn": 1790856965789,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -224,7 +224,7 @@
       "starred": true,
       "publishOn": 1789983797890,
       "addedOn": 1643206965705,
-      "updatedOn": 1791601858958,
+      "updatedOn": 1790856965709,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -261,7 +261,7 @@
       "starred": true,
       "publishOn": 1789983636403,
       "addedOn": 1643206965705,
-      "updatedOn": 1791601857043,
+      "updatedOn": 1789983652987,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -310,7 +310,7 @@
       "starred": true,
       "publishOn": 1789983363911,
       "addedOn": 1643206965705,
-      "updatedOn": 1791601855982,
+      "updatedOn": 1790856655633,
       "categories": [
         "Sang Woo Kim"
       ],
@@ -354,7 +354,7 @@
       "starred": true,
       "publishOn": 1789982964937,
       "addedOn": 1643206965705,
-      "updatedOn": 1791601853105,
+      "updatedOn": 1790856655660,
       "categories": [
         "Sang Woo Kim"
       ],
