@@ -5,8 +5,8 @@
   "id": "all-events",
   "path": "/all-events",
   "sourceUrl": "https://somabureau.com/all-events?format=json",
-  "updatedAt": "2026-10-02T14:28:04.209Z",
-  "sourceHash": "bc421379c9170688bd945b28bc1429e3e8359940766e330c47f8b4577ae2b4dd",
+  "updatedAt": "2026-10-12T11:07:55.286Z",
+  "sourceHash": "e692bf2b26eb39158c6e7c39a4f80d9dc124a9d5a7561977d8043650d8aaf095",
   "count": 4,
   "pages": 1,
   "items": [
@@ -25,7 +25,6 @@
         "Collaboration"
       ],
       "tags": [
-        "Year: 2026",
         "Artist: Romina Shama",
         "Status: Archive",
         "Date: 2026-08-27",
@@ -47,7 +46,7 @@
       "starred": false,
       "publishOn": 1788357749499,
       "addedOn": 1788357749499,
-      "updatedOn": 1790933237514
+      "updatedOn": 1791802752798
     },
     {
       "id": "697b4b0e0469037ffa8f96ff",
@@ -64,7 +63,6 @@
         "Collaboration"
       ],
       "tags": [
-        "Year: 2026",
         "Artist: Salvatore Emblema",
         "Status: Archive",
         "Date: 2026-03-12/2026-06-20",
@@ -86,7 +84,7 @@
       "starred": false,
       "publishOn": 1769687822305,
       "addedOn": 1769687822305,
-      "updatedOn": 1790951028417
+      "updatedOn": 1791802752816
     },
     {
       "id": "68247d95b74c5b194aafd5cc",
@@ -105,7 +103,6 @@
       ],
       "tags": [
         "Artist: Francis Baudevin",
-        "Year: 2025",
         "Artist: Valby Vokalgruppe",
         "Status: Archive",
         "Date: 2025-11-14T21:00",
@@ -128,7 +125,7 @@
       "starred": false,
       "publishOn": 1763074800191,
       "addedOn": 1763074800191,
-      "updatedOn": 1790933227137
+      "updatedOn": 1791802752760
     },
     {
       "id": "67dd1a6bab27b150f407f595",
@@ -145,7 +142,6 @@
         "Group Exhibition"
       ],
       "tags": [
-        "Year: 2025",
         "Status: Archive",
         "Artist: Fabrice Gygi",
         "Artist: Timothée Calame",
@@ -185,7 +181,7 @@
       "starred": true,
       "publishOn": 1749106800846,
       "addedOn": 1749106800846,
-      "updatedOn": 1790933231740
+      "updatedOn": 1791802752718
     }
   ]
 }
