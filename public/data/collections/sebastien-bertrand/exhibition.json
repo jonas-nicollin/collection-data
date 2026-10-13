@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-05T15:07:59.813Z",
-  "sourceHash": "8bf5e112eeb360086ec5f22a51c264e578b88edda7dbd2ba7b3d0581fd4ab3be",
+  "updatedAt": "2026-10-13T13:48:03.590Z",
+  "sourceHash": "0e01eb7477ecdbfc010866dc87211aa21b8f3018a8348d2af93694148d188c23",
   "count": 107,
   "pages": 1,
   "items": [
@@ -16,10 +16,10 @@
       "fullUrl": "/exhibition/solo-show/mirella-jaworska-good-mourning",
       "sourceUrl": "",
       "urlId": "solo-show/mirella-jaworska-good-mourning",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1790847625032-OCRTURFL41TVIBM6KPE6/Mirella%2BJaworska_12.jpg",
+      "assetUrl": "https://static1.squarespace.com/static/61e055f709997a6a34f17dd7/61ee93208368c17d1f5cec05/6ab3d91cfad2155b5ea13dfe/1791212409938/",
       "mediaFocalPoint": {
-        "x": 0.36617184643510053,
-        "y": 0.6637446956926117,
+        "x": 0.5,
+        "y": 0.5,
         "source": 3
       },
       "categories": [
@@ -56,10 +56,10 @@
       "fullUrl": "/exhibition/solo-show/thomas-fougeirol",
       "sourceUrl": "",
       "urlId": "solo-show/thomas-fougeirol",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1790863191938-Q7BAF0GDBUMR2EORVZ9G/HD3_Sang%2BWoo%2BKim%252C%2BClarity%2B001%252C%2B2020%252C%2BOil%2Bon%2Bcanvas%252C%2B51.5%2Bx%2B41%2Bx%2B3%2Bcm.%252C%2B20%2B%25C2%25BC%2Bx%2B16%2B%25C2%25BC%2Bx%2B1%2B%25C2%25BC%2Bin.%2B%2528SWK-2002%2529%2Bcopie.jpg",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1791899092344-CU666P44ZVNQHLZ1H6C5/HD2_Annik-Wetter_2026-10-07_53813+copie+2.jpg",
       "mediaFocalPoint": {
-        "x": 0.46351736745886657,
-        "y": 0.6146369819217579,
+        "x": 0.5,
+        "y": 0.5,
         "source": 3
       },
       "categories": [
@@ -89,7 +89,7 @@
       "starred": true,
       "publishOn": 1790604259553,
       "addedOn": 1790604259553,
-      "updatedOn": 1791212409957
+      "updatedOn": 1791899238456
     },
     {
       "id": "6aa0388f8f42385764242634",
