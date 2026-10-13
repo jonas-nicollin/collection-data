@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-10-13T13:48:03.590Z",
-  "sourceHash": "0e01eb7477ecdbfc010866dc87211aa21b8f3018a8348d2af93694148d188c23",
+  "updatedAt": "2026-10-13T13:58:01.696Z",
+  "sourceHash": "edcb0b9dd6c7b2e229826b03dee039ae6d65c281a3d2598ce3a9486c5e1ac0af",
   "count": 107,
   "pages": 1,
   "items": [
@@ -16,7 +16,7 @@
       "fullUrl": "/exhibition/solo-show/mirella-jaworska-good-mourning",
       "sourceUrl": "",
       "urlId": "solo-show/mirella-jaworska-good-mourning",
-      "assetUrl": "https://static1.squarespace.com/static/61e055f709997a6a34f17dd7/61ee93208368c17d1f5cec05/6ab3d91cfad2155b5ea13dfe/1791212409938/",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1791899864474-JA0Y4MFMRLMU0APDBNRD/HD2_Annik-Wetter_2026-10-07_53795+copie+2.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -48,7 +48,7 @@
       "starred": true,
       "publishOn": 1790777228100,
       "addedOn": 1790777228100,
-      "updatedOn": 1791212409938
+      "updatedOn": 1791899870120
     },
     {
       "id": "6abe66cbf8e2ae2afc14700a",
@@ -89,7 +89,7 @@
       "starred": true,
       "publishOn": 1790604259553,
       "addedOn": 1790604259553,
-      "updatedOn": 1791899238456
+      "updatedOn": 1791899558083
     },
     {
       "id": "6aa0388f8f42385764242634",
