@@ -1,6 +1,7 @@
 import { createHash } from 'node:crypto';
 import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { normalizeSquarespaceIndexMedia } from './lib/squarespace-index-media.mjs';
 
 const DEFAULT_CONFIG = 'sources/collections/pcc.json';
 const DEFAULT_OUTPUT_DIR = 'public/data/collections';
@@ -205,6 +206,18 @@ function cloneEssentialItem(item, options = {}) {
 
     if (media.length) {
       output.assetUrl = media[0].assetUrl;
+      output.mediaFocalPoint = media[0].mediaFocalPoint || output.mediaFocalPoint || null;
+    }
+  }
+
+  if (options.adapter === 'squarespace-index-media') {
+    const media = normalizeSquarespaceIndexMedia(item);
+
+    output.media = media;
+    output.sourceType = 'index';
+
+    if (media.length && media[0].type === 'image') {
+      output.assetUrl = media[0].assetUrl || output.assetUrl || null;
       output.mediaFocalPoint = media[0].mediaFocalPoint || output.mediaFocalPoint || null;
     }
   }

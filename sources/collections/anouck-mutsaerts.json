@@ -5,7 +5,8 @@
     {
       "id": "work-index",
       "path": "/work-index",
-      "url": "https://www.anouckmutsaerts.com/work-index?format=json"
+      "url": "https://www.anouckmutsaerts.com/work-index?format=json",
+      "adapter": "squarespace-index-media"
     }
   ]
 }
