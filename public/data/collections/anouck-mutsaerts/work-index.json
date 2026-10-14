@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-14T12:57:56.460Z",
-  "sourceHash": "e11b32002c6993546fa945f0b26424f7e7189e22a37e0ff5db5fa3e12136af2e",
+  "updatedAt": "2026-10-14T13:08:00.532Z",
+  "sourceHash": "faeb9f7aca924649b9bf911dbdc27a184647262060f5debc478921f2902210e0",
   "count": 34,
   "pages": 1,
   "items": [
@@ -61,7 +61,7 @@
       "id": "6728eb6c752b11324f766f3a",
       "title": "T le Temps HEAD ",
       "fullUrl": "/work-index/t-le-temps-head",
-      "sourceUrl": "marinegiraudo",
+      "sourceUrl": "/works/marinegiraudo",
       "urlId": "t-le-temps-head",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730735084412-G75IPFD9IHM9NCG7OHKP/IMG_4948.JPG",
       "mediaFocalPoint": {
@@ -90,7 +90,7 @@
       "starred": false,
       "publishOn": 1730734955894,
       "addedOn": 1730734955894,
-      "updatedOn": 1730735140623,
+      "updatedOn": 1791982764851,
       "media": [
         {
           "type": "image",
@@ -203,7 +203,7 @@
       "id": "669e2ee0df917e6a477ae017",
       "title": "T le Temps High Jewelry ",
       "fullUrl": "/work-index/jonasmarguet",
-      "sourceUrl": "jonasmarguet",
+      "sourceUrl": "/works/jonasmarguet",
       "urlId": "jonasmarguet",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730734206875-YMPSGKL2VF9RAF2PF88X/T_LE_TEMPS_HJ_9756_STACK.jpg",
       "mediaFocalPoint": {
@@ -233,7 +233,7 @@
       "starred": true,
       "publishOn": 1721642720480,
       "addedOn": 1721642720480,
-      "updatedOn": 1730734912433,
+      "updatedOn": 1791982721538,
       "media": [
         {
           "type": "image",
