@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-14T11:51:36.201Z",
-  "sourceHash": "7e0b13ec05d4b8a605a8465e4db9a5f1c23d89ee14cc806ac4ae5900142c77a5",
+  "updatedAt": "2026-10-14T12:57:56.460Z",
+  "sourceHash": "e11b32002c6993546fa945f0b26424f7e7189e22a37e0ff5db5fa3e12136af2e",
   "count": 34,
   "pages": 1,
   "items": [
@@ -14,7 +14,7 @@
       "id": "6728ef4d9c43d834c1e813af",
       "title": "T le Temps Music",
       "fullUrl": "/work-index/t-le-temps-music",
-      "sourceUrl": "alicidubuis2",
+      "sourceUrl": "/works/aliciadubuis2",
       "urlId": "t-le-temps-music",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730735968945-9WGHXJ66HAC0YHF7LKF6/TLETEMPS_Hifi_Int%C3%A9rieur_4.jpg",
       "mediaFocalPoint": {
@@ -42,7 +42,7 @@
       "starred": false,
       "publishOn": 1730735957987,
       "addedOn": 1730735957987,
-      "updatedOn": 1730735986201,
+      "updatedOn": 1791982594849,
       "media": [
         {
           "type": "image",
@@ -109,7 +109,7 @@
       "id": "6728e90608f967107a88c2c2",
       "title": "T le Temps Accessories",
       "fullUrl": "/work-index/leonprost",
-      "sourceUrl": "leonprost",
+      "sourceUrl": "/works/leonprost",
       "urlId": "leonprost",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730734381111-MFOPA0Y6GE0OXNGZYK9B/B008883-R1-05-6+3FINAL.jpg",
       "mediaFocalPoint": {
@@ -137,7 +137,7 @@
       "starred": false,
       "publishOn": 1730734341998,
       "addedOn": 1730734341998,
-      "updatedOn": 1730734928668,
+      "updatedOn": 1791982666875,
       "media": [
         {
           "type": "image",
