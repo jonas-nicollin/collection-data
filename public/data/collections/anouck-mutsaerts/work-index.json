@@ -1,0 +1,1194 @@
+{
+  "schemaVersion": 1,
+  "type": "squarespace-collection",
+  "site": "anouck-mutsaerts",
+  "id": "work-index",
+  "path": "/work-index",
+  "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
+  "updatedAt": "2026-10-14T11:08:58.639Z",
+  "sourceHash": "53a9e31a15fef7c1b7865efb9b8c33be0fcf0d0ba9114caf2d89e39e65f94c2d",
+  "count": 34,
+  "pages": 1,
+  "items": [
+    {
+      "id": "6728ef4d9c43d834c1e813af",
+      "title": "T le Temps Music",
+      "fullUrl": "/work-index/t-le-temps-music",
+      "sourceUrl": "alicidubuis2",
+      "urlId": "t-le-temps-music",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730735968945-9WGHXJ66HAC0YHF7LKF6/TLETEMPS_Hifi_Int%C3%A9rieur_4.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1730735957987,
+      "addedOn": 1730735957987,
+      "updatedOn": 1730735986201
+    },
+    {
+      "id": "6728eb6c752b11324f766f3a",
+      "title": "T le Temps HEAD ",
+      "fullUrl": "/work-index/t-le-temps-head",
+      "sourceUrl": "marinegiraudo",
+      "urlId": "t-le-temps-head",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730735084412-G75IPFD9IHM9NCG7OHKP/IMG_4948.JPG",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction",
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1730734955894,
+      "addedOn": 1730734955894,
+      "updatedOn": 1730735140623
+    },
+    {
+      "id": "6728e90608f967107a88c2c2",
+      "title": "T le Temps Accessories",
+      "fullUrl": "/work-index/leonprost",
+      "sourceUrl": "leonprost",
+      "urlId": "leonprost",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730734381111-MFOPA0Y6GE0OXNGZYK9B/B008883-R1-05-6+3FINAL.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1730734341998,
+      "addedOn": 1730734341998,
+      "updatedOn": 1730734928668
+    },
+    {
+      "id": "669e2b77fa5587294acad0f8",
+      "title": "Valextra Campaign",
+      "fullUrl": "/work-index/modele-dtms7-ga65h-hsnj4-fb7c9",
+      "sourceUrl": "/works/valextra2",
+      "urlId": "modele-dtms7-ga65h-hsnj4-fb7c9",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721642764100-UYFDNX3LV4L9OOFBIG56/Screenshot+2024-05-23+at+10.35.25.PNG",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1721642750573,
+      "addedOn": 1721642750573,
+      "updatedOn": 1721642783703
+    },
+    {
+      "id": "669e2ee0df917e6a477ae017",
+      "title": "T le Temps High Jewelry ",
+      "fullUrl": "/work-index/jonasmarguet",
+      "sourceUrl": "jonasmarguet",
+      "urlId": "jonasmarguet",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730734206875-YMPSGKL2VF9RAF2PF88X/T_LE_TEMPS_HJ_9756_STACK.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [
+        "Photographer"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1721642720480,
+      "addedOn": 1721642720480,
+      "updatedOn": 1730734912433
+    },
+    {
+      "id": "669a7583cbab930966442ba8",
+      "title": "Valextra Campaign",
+      "fullUrl": "/work-index/modele-dtms7-ga65h-hsnj4",
+      "sourceUrl": "/works/valextra",
+      "urlId": "modele-dtms7-ga65h-hsnj4",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721641981014-YYSDW5MRFP2ZRNEH6MBA/Capture+d%E2%80%99%C3%A9cran+2024-07-22+%C3%A0+11.49.44.png",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1721398659282,
+      "addedOn": 1721398659282,
+      "updatedOn": 1721642064214
+    },
+    {
+      "id": "6638c59a8e503e0a34db30ad",
+      "title": "Byredo ",
+      "fullUrl": "/work-index/modele-dtms7-ga65h-etgax",
+      "sourceUrl": "/works/byredo",
+      "urlId": "modele-dtms7-ga65h-etgax",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1714996742763-G30S0P377ZQZZ2A6HMC0/Instagram_Byredo1.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Styling",
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1714996817804,
+      "addedOn": 1714996817804,
+      "updatedOn": 1721642099934
+    },
+    {
+      "id": "66251d8e6b42822c0bb990f8",
+      "title": "T le Temps - Sneakers ",
+      "fullUrl": "/work-index/modele-dtms7-ga65h",
+      "sourceUrl": "/works/sneakers",
+      "urlId": "modele-dtms7-ga65h",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721398726619-7OVQOSF8RCBHWV4NUFX0/_1_2024_05_27_T-le-Temps_Baskets1571_Scan.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction",
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1713708430011,
+      "addedOn": 1713708430011,
+      "updatedOn": 1721398829333
+    },
+    {
+      "id": "65b7912292a20b2a2875fd02",
+      "title": "Palette of Reds",
+      "fullUrl": "/work-index/palette-of-reds",
+      "sourceUrl": "/works/palette-of-reds",
+      "urlId": "palette-of-reds",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1713707743922-4H79XD3VNFOWTD9PJ808/IMG_2343.JPG",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1713707340840,
+      "addedOn": 1713707340840,
+      "updatedOn": 1714648143757
+    },
+    {
+      "id": "662518dde2542b7b45c823aa",
+      "title": "T le Temps Watches",
+      "fullUrl": "/work-index/t-le-temps-watches-2",
+      "sourceUrl": "/works/t-le-temps-watches-2",
+      "urlId": "t-le-temps-watches-2",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1713708474428-YC590X1NSNMZDZDRHHWL/2024_02_20_AMPM_TLETEMPS_WATCHES_09.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1713707229110,
+      "addedOn": 1713707229110,
+      "updatedOn": 1714648208383
+    },
+    {
+      "id": "6625173dacffb42ed371f5af",
+      "title": "Loewe Perfumes",
+      "fullUrl": "/work-index/loewe-perfume",
+      "sourceUrl": "/works/loewe-perfume",
+      "urlId": "loewe-perfume",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1713707767451-JMBZMDUMRYZ8JTBFMN54/Instagram_Loewe2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1713706813515,
+      "addedOn": 1713706813515,
+      "updatedOn": 1714647974087
+    },
+    {
+      "id": "660bc5cd0c5b7d7d11bda51d",
+      "title": "Comptoir Des Cotonniers SS24",
+      "fullUrl": "/work-index/modele-l9f3a",
+      "sourceUrl": "/works/CDCSS24",
+      "urlId": "modele-l9f3a",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1712047611080-5CJE1HRDH6U7I3FHMER6/231011_COMPTOIR_DES_COTONNIERS_SHOT_18_161.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1712047565496,
+      "addedOn": 1712047565496,
+      "updatedOn": 1713707221937
+    },
+    {
+      "id": "65fd4f5842216820c705ac08",
+      "title": "T le Temps Fashion Issue",
+      "fullUrl": "/work-index/modele-gr95g",
+      "sourceUrl": "/works/charlesnegre",
+      "urlId": "modele-gr95g",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1712047776384-NW6LM8QAI1F57IR2IX59/13-V4.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1711099890688,
+      "addedOn": 1711099890688,
+      "updatedOn": 1730736966399
+    },
+    {
+      "id": "65eade92169d76719f554f0e",
+      "title": "Sarah Madeleine Bru Jewelry",
+      "fullUrl": "/work-index/modele-6rtr2",
+      "sourceUrl": "/works/smb",
+      "urlId": "modele-6rtr2",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1709891254792-C50Y1F5N8117YU8B9CMJ/24-02_SarahMadeleineBru%C2%A9AliciaDubuis_6.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1709891361481,
+      "addedOn": 1709891361481,
+      "updatedOn": 1714647997853
+    },
+    {
+      "id": "65bbb7fe9f59a83ffbe12935",
+      "title": "T le Temps Design ",
+      "fullUrl": "/work-index/modele-n4efz",
+      "sourceUrl": "/works/t-le-temps-design/leo",
+      "urlId": "modele-n4efz",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1707061878466-82UMPZGZBSR84ADZLDKE/LM_T_LE_TEMPS_+DESIGN_0998.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1707061853801,
+      "addedOn": 1707061853801,
+      "updatedOn": 1707497265653
+    },
+    {
+      "id": "65bba9ceee3bbc610f45adf1",
+      "title": "Princesse Tam Tam SS23",
+      "fullUrl": "/work-index/modele-9gp3c",
+      "sourceUrl": "/works/princesse-tam-tam-ss23",
+      "urlId": "modele-9gp3c",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706797599245-VU9A4O622RYY1LJYYJHI/1123_PRINCESSETAMTAM_DCD_LOOK04_070+copie.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706797750023,
+      "addedOn": 1706797750023,
+      "updatedOn": 1707308524530
+    },
+    {
+      "id": "65bba723798ed5777cec2594",
+      "title": "T le Temps Fashion Issue",
+      "fullUrl": "/work-index/modele-5nlmy",
+      "sourceUrl": "/works/claranebeling",
+      "urlId": "modele-5nlmy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706796896817-TI0RN61SPKKVV4K393J6/_B0A0685+copy.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction",
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706796885084,
+      "addedOn": 1706796885084,
+      "updatedOn": 1730736950173
+    },
+    {
+      "id": "65bba66fc02ff86b8bf4cf72",
+      "title": "Emmanuelle Khanh Campaign AW23/24",
+      "fullUrl": "/work-index/ek-aw23/24",
+      "sourceUrl": "/works/ek-aw23/24",
+      "urlId": "ek-aw23/24",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706796771854-ISG59OAPC6NV9F8CD155/ek-lookbook_AW23-instagram_post-2023-12-0112.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706796728365,
+      "addedOn": 1706796728365,
+      "updatedOn": 1707497321520
+    },
+    {
+      "id": "65b8fa1ca56e80060adc151e",
+      "title": "T Le Temps High Jewelry",
+      "fullUrl": "/work-index/modele-8flx7",
+      "sourceUrl": "/works/betinadutoit",
+      "urlId": "modele-8flx7",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706629570743-O4EGPZGHJSDD97AVA0IK/betinadutoit_067_3_33+copy.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706621870725,
+      "addedOn": 1706621870725,
+      "updatedOn": 1707308695036
+    },
+    {
+      "id": "65b7cc2073e6487591d3b39c",
+      "title": "T Le Temps Design ",
+      "fullUrl": "/work-index/t-le-temps-a-design-story-with-paul-lepreux",
+      "sourceUrl": "/works/t-le-temps-design/paul",
+      "urlId": "t-le-temps-a-design-story-with-paul-lepreux",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706544432050-9HWYY9T7PQO9SF69DKWT/Anouck-Mutsaerts-T-Le-Temps-A-Design-Story-with-Paul-Lepreux-03.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706544423545,
+      "addedOn": 1706544423545,
+      "updatedOn": 1707073920501
+    },
+    {
+      "id": "65b7cb60b1b0ff02753d8008",
+      "title": "T Le Temps Watches",
+      "fullUrl": "/work-index/t-le-temps-a-watch-story-with-nicolas-polli",
+      "sourceUrl": "/works/t-le-temps-a-watch-story-with-nicolas-polli",
+      "urlId": "t-le-temps-a-watch-story-with-nicolas-polli",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706629736289-9D899LP06S3QU6QZMD74/02_NP_WATCHES.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706544035780,
+      "addedOn": 1706544035780,
+      "updatedOn": 1706795942313
+    },
+    {
+      "id": "65b7c3fdf45e5d48c7721f87",
+      "title": "T Le Temps Accessories",
+      "fullUrl": "/work-index/t-le-temps-an-accessory-story-with-ampm",
+      "sourceUrl": "/works/t-le-temps-an-accessory-story-with-ampm",
+      "urlId": "t-le-temps-an-accessory-story-with-ampm",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706542191059-2MUZDSCVX9IW7ZEEA39A/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-with-AMPM-04.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706542372078,
+      "addedOn": 1706542372078,
+      "updatedOn": 1706795979917
+    },
+    {
+      "id": "65b7bcb7ee039d68dae9a806",
+      "title": "T Le Temps Design",
+      "fullUrl": "/work-index/t-le-temps-a-design-story-with-philippe-jarrigeon",
+      "sourceUrl": "/works/t-le-temps-a-design-story-with-philippe-jarrigeon",
+      "urlId": "t-le-temps-a-design-story-with-philippe-jarrigeon",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706540281523-EEP5IMC7Y0HMOHRVXJFQ/Anouck-Mutsaerts-T-Le-Temps-A-Design-Story-with-Philippe-Jarrigeon-02.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706540215080,
+      "addedOn": 1706540215080,
+      "updatedOn": 1706796005689
+    },
+    {
+      "id": "65b7b4354e0656062d4d2153",
+      "title": "T Le Temps Watches",
+      "fullUrl": "/work-index/t-le-temps-a-watch-story-with-mathieu-lavanchy",
+      "sourceUrl": "/works/t-le-temps-a-watch-story-with-mathieu-lavanchy",
+      "urlId": "t-le-temps-a-watch-story-with-mathieu-lavanchy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706538067151-DTW0DJ98467KGXABL1PO/Anouck-Mutsaerts-T-Le-Temps-A-watch-Story-with-Mathieu-Lavanchy-02.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction",
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706538037747,
+      "addedOn": 1706538037747,
+      "updatedOn": 1730736933734
+    },
+    {
+      "id": "65b7b1aaca3e471119875672",
+      "title": "T Le Temps Cartier Special",
+      "fullUrl": "/work-index/t-le-temps-a-cartier-story-with-louis-de-roffignac",
+      "sourceUrl": "/works/t-le-temps-a-cartier-story-with-louis-de-roffignac",
+      "urlId": "t-le-temps-a-cartier-story-with-louis-de-roffignac",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706629687496-TDRVGOQ3WT2M2TB1YJXZ/5.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction",
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706537386883,
+      "addedOn": 1706537386883,
+      "updatedOn": 1730736897380
+    },
+    {
+      "id": "65b79f838ef52226d5bee387",
+      "title": "T Le Temps Watches",
+      "fullUrl": "/work-index/t-le-temps-a-watch-story-with-felix-dol-maillot",
+      "sourceUrl": "/works/t-le-temps-a-watch-story-with-felix-dol-maillot",
+      "urlId": "t-le-temps-a-watch-story-with-felix-dol-maillot",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706532796974-JUQMYLHK1ELWAUJXFZGQ/Anouck-Mutsaerts-T-Le-Temps-A-Watch-Story-with-Felix-Dol-Maillot-01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction",
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706532739657,
+      "addedOn": 1706532739657,
+      "updatedOn": 1730736905518
+    },
+    {
+      "id": "65b79ca38ef52226d5be5090",
+      "title": "T Le Temps High Jewelry",
+      "fullUrl": "/work-index/t-le-temps-a-high-jewelry-story-with-charles-negre",
+      "sourceUrl": "/works/t-le-temps-a-high-jewelry-story-with-charles-negre",
+      "urlId": "t-le-temps-a-high-jewelry-story-with-charles-negre",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706532020412-HRE98WA5UOOX8Y2449Y1/Anouck-Mutsaerts-T-Le-Temps-A-High-Jewelry-Story-with-Charles-Negre-01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction",
+        "Styling"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706532126104,
+      "addedOn": 1706532126104,
+      "updatedOn": 1730736889346
+    },
+    {
+      "id": "659ea10fb05b1955b05c1c6a",
+      "title": "T Le Temps accessories",
+      "fullUrl": "/work-index/t-le-temps-an-accessory-story",
+      "sourceUrl": "/works/layering",
+      "urlId": "t-le-temps-an-accessory-story",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706195919071-TR90P79LDNYYCX73IVQ7/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-02.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5246603387306905,
+        "y": 0.31313366198493164,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction",
+        "Styling"
+      ],
+      "tags": [
+        "Joseph Molines"
+      ],
+      "excerpt": null,
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1706199120884,
+      "addedOn": 1706199120884,
+      "updatedOn": 1730736879060
+    },
+    {
+      "id": "65b2870a6d1de821cab6e942",
+      "title": "T Le Temps High Jewelry",
+      "fullUrl": "/work-index/t-le-temps-a-high-jewelry-story-with-guillaume-blondiau",
+      "sourceUrl": "/works/t-le-temps-a-high-jewelry-story-with-guillaume-blondiau",
+      "urlId": "t-le-temps-a-high-jewelry-story-with-guillaume-blondiau",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706198747869-W2A6N26823XUF7CX6U5C/Anouck-Mutsaerts-T-Le-Temps-A-High-Jewelry-Story-with-Guillaume-Blondiau-05.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction",
+        "Styling"
+      ],
+      "tags": [
+        "Guillaume Blondiau"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1706198794622,
+      "addedOn": 1706198794622,
+      "updatedOn": 1730736867588
+    },
+    {
+      "id": "65b281d36d1de821cab55acd",
+      "title": "T Le Temps Accessories",
+      "fullUrl": "/work-index/t-le-temps-an-accessory-story-with-charly-gosp",
+      "sourceUrl": "/works/t-le-temps-an-accessory-story-with-charly-gosp",
+      "urlId": "t-le-temps-an-accessory-story-with-charly-gosp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706197510938-PN9I3X5940FI5FY5ZGN4/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-with-Charly-Gosp-01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1706197496622,
+      "addedOn": 1706197496622,
+      "updatedOn": 1707497454053
+    },
+    {
+      "id": "65b2667dfb84a9403c0042ab",
+      "title": "Comptoir des Cotonniers Campaign Denim SS23",
+      "fullUrl": "/work-index/comptoir-des-cotonniers-denim",
+      "sourceUrl": "/works/comptoir-des-cotonniers-denim",
+      "urlId": "comptoir-des-cotonniers-denim",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706190476368-01FP1O2DKK148XK6N2XJ/Anouck-Mutsaerts-Comptoir-des-Cotonniers-Denim-01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Styling"
+      ],
+      "tags": [
+        "Bruce Weber",
+        "Steven Meisel"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1706190461700,
+      "addedOn": 1706190461700,
+      "updatedOn": 1706630532279
+    },
+    {
+      "id": "65b2493957f5b96bcdf88de1",
+      "title": "Princesse Tam Tam Campaign Sleepwear ss23",
+      "fullUrl": "/work-index/princesse-tam-tam-pyjmania",
+      "sourceUrl": "/works/princesse-tam-tam-pyjmania",
+      "urlId": "princesse-tam-tam-pyjmania",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706183059540-Z9IK73JCZI7V5XBUULZB/Anouck-Mutsaerts-Princesse-Tam-Tam-Pyjmania-04.jpg",
+      "mediaFocalPoint": {
+        "x": 0.3594140556879614,
+        "y": 0.2059712598242106,
+        "source": 3
+      },
+      "categories": [
+        "Styling"
+      ],
+      "tags": [
+        "Anthony Seklaoui",
+        "David Sims"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1706182969311,
+      "addedOn": 1706182969311,
+      "updatedOn": 1706796415648
+    },
+    {
+      "id": "65a162c85434516c4fbb1379",
+      "title": "On running Cloudeasy Campaign SS22",
+      "fullUrl": "/work-index/on-running-cloudeasy",
+      "sourceUrl": "/works/on-running-cloudeasy-campaign",
+      "urlId": "on-running-cloudeasy",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1705673507559-BXLACQSVT0AQ2SN0KHQR/Anouck-Mutsaerts-FW22-Cloudeasy-Editorials-16.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5547619047619048,
+        "y": 0.27083333333333337,
+        "source": 3
+      },
+      "categories": [
+        "Styling"
+      ],
+      "tags": [
+        "Photographer"
+      ],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1705075527959,
+      "addedOn": 1705075527959,
+      "updatedOn": 1791968610571
+    },
+    {
+      "id": "65a124f72ea47a1bea4d4b5e",
+      "title": "T Le Temps Couture",
+      "fullUrl": "/work-index/t-le-temps-iii",
+      "sourceUrl": "/works/bon-genie-multigenerationnel-ss23",
+      "urlId": "t-le-temps-iii",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1705059614663-64K60KBK4FSQKDWVZBXE/Anouck-Mutsaerts-T-Le-Temps-37.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Creative direction"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1705059625182,
+      "addedOn": 1705059625182,
+      "updatedOn": 1709891870214
+    }
+  ]
+}
