@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-14T13:08:00.532Z",
-  "sourceHash": "faeb9f7aca924649b9bf911dbdc27a184647262060f5debc478921f2902210e0",
+  "updatedAt": "2026-10-14T13:47:57.156Z",
+  "sourceHash": "2013d86f696cb454ce5d68122b1c8d2afe2b146db3e12c6255aa35e3aecb8e61",
   "count": 34,
   "pages": 1,
   "items": [
@@ -156,7 +156,7 @@
       "id": "669e2b77fa5587294acad0f8",
       "title": "Valextra Campaign",
       "fullUrl": "/work-index/modele-dtms7-ga65h-hsnj4-fb7c9",
-      "sourceUrl": "/works/valextra2",
+      "sourceUrl": "/works/valextra-campaign",
       "urlId": "modele-dtms7-ga65h-hsnj4-fb7c9",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721642764100-UYFDNX3LV4L9OOFBIG56/Screenshot+2024-05-23+at+10.35.25.PNG",
       "mediaFocalPoint": {
@@ -184,7 +184,7 @@
       "starred": true,
       "publishOn": 1721642750573,
       "addedOn": 1721642750573,
-      "updatedOn": 1721642783703,
+      "updatedOn": 1791985233993,
       "media": [
         {
           "type": "image",
@@ -536,7 +536,7 @@
       "id": "660bc5cd0c5b7d7d11bda51d",
       "title": "Comptoir Des Cotonniers SS24",
       "fullUrl": "/work-index/modele-l9f3a",
-      "sourceUrl": "/works/CDCSS24",
+      "sourceUrl": "/works/cdcss24",
       "urlId": "modele-l9f3a",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1712047611080-5CJE1HRDH6U7I3FHMER6/231011_COMPTOIR_DES_COTONNIERS_SHOT_18_161.jpg",
       "mediaFocalPoint": {
@@ -564,7 +564,7 @@
       "starred": true,
       "publishOn": 1712047565496,
       "addedOn": 1712047565496,
-      "updatedOn": 1713707221937,
+      "updatedOn": 1791985262252,
       "media": [
         {
           "type": "image",
@@ -1293,7 +1293,7 @@
       "id": "659ea10fb05b1955b05c1c6a",
       "title": "T Le Temps accessories",
       "fullUrl": "/work-index/t-le-temps-an-accessory-story",
-      "sourceUrl": "/works/layering",
+      "sourceUrl": "/works/josephmolines",
       "urlId": "t-le-temps-an-accessory-story",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706195919071-TR90P79LDNYYCX73IVQ7/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-02.jpg",
       "mediaFocalPoint": {
@@ -1324,7 +1324,7 @@
       "starred": true,
       "publishOn": 1706199120884,
       "addedOn": 1706199120884,
-      "updatedOn": 1730736879060,
+      "updatedOn": 1791985312746,
       "media": [
         {
           "type": "image",
@@ -1607,7 +1607,7 @@
       "id": "65a124f72ea47a1bea4d4b5e",
       "title": "T Le Temps Couture",
       "fullUrl": "/work-index/t-le-temps-iii",
-      "sourceUrl": "/works/bon-genie-multigenerationnel-ss23",
+      "sourceUrl": "/works/t-le-temps-a-couture-story-with-pierre-emmanuel-testard",
       "urlId": "t-le-temps-iii",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1705059614663-64K60KBK4FSQKDWVZBXE/Anouck-Mutsaerts-T-Le-Temps-37.jpg",
       "mediaFocalPoint": {
@@ -1635,7 +1635,7 @@
       "starred": false,
       "publishOn": 1705059625182,
       "addedOn": 1705059625182,
-      "updatedOn": 1709891870214,
+      "updatedOn": 1791985352239,
       "media": [
         {
           "type": "image",
