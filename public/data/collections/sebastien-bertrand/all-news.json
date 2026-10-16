@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-16T11:47:59.998Z",
-  "sourceHash": "8a22f74ae0fb24f573227c310f6df1d1eb252ae40b19a183898a1b6d80659135",
+  "updatedAt": "2026-10-16T11:52:13.397Z",
+  "sourceHash": "28752394689fc72ac5126ff3609af36983cfbe4aea43c68ef569cc966c2e6c64",
   "count": 47,
   "pages": 3,
   "items": [
@@ -664,7 +664,7 @@
         "Venue: Almine Rech",
         "Location: Brussels, Belgium"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><a target=\"_blank\" href=\"https://www.alminerech.com/exhibitions/9650-chloe-wise-torn-clean\">Solo show at Almine Rech Gallery in Brussels</a></p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">24 April–25 May 2024</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show at Almine Rech in Brussels.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -681,7 +681,7 @@
       "starred": false,
       "publishOn": 1714747020211,
       "addedOn": 1714747020211,
-      "updatedOn": 1792150011528
+      "updatedOn": 1792151285368
     },
     {
       "id": "65eaf875af9c6c66011ced44",
@@ -704,7 +704,7 @@
         "Venue: Nicodim",
         "Los Angeles, United States"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26 February–6 April 2024</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">First solo show by Tali Lennox at Nicodim Gallery in Los Angeles</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Tali Lennox’s first solo show at Nicodim in Los Angeles.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -721,7 +721,7 @@
       "starred": false,
       "publishOn": 1709898352628,
       "addedOn": 1709898352628,
-      "updatedOn": 1792150054052
+      "updatedOn": 1792151316116
     },
     {
       "id": "65c3af00dd130065658f57e3",
@@ -799,7 +799,7 @@
     },
     {
       "id": "65c3a7181156f675fca82342",
-      "title": "“Kill Your Idols” a solo show by Todd Bienvenu at Almine Rech in Brussels.",
+      "title": "Todd Bienvenu: “Kill Your Idols” at Almine Rech, Brussels",
       "fullUrl": "/all-news/toddbienvenu-killsyouridols-almine-rech",
       "sourceUrl": "https://www.alminerech.com/exhibitions/9136-todd-bienvenu-kill-your-idols",
       "urlId": "toddbienvenu-killsyouridols-almine-rech",
@@ -818,7 +818,7 @@
         "Venue: Almine Rech",
         "Location: Brussels, Belgium"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">18 January–24 February 2024</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Almine Rech, Brussels, Belgium</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show by Todd Bienvenu at Almine Rech in Brussels.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -835,7 +835,7 @@
       "starred": false,
       "publishOn": 1707321112369,
       "addedOn": 1707321112369,
-      "updatedOn": 1792150000728
+      "updatedOn": 1792151361906
     },
     {
       "id": "649eed947287032bae7ab543",
@@ -896,7 +896,7 @@
         "Curator: Edoardo Monti",
         "Exhibition date: 2023-05-20/2023-06-18"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show by Natalia González Martín, curated by Edoardo Monti at Palazzo Monti, Brescia (IT)</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show by Natalia González Martín, curated by Edoardo Monti at Palazzo Monti in Brescia.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.718426,
@@ -913,7 +913,7 @@
       "starred": false,
       "publishOn": 1684771359698,
       "addedOn": 1684771359698,
-      "updatedOn": 1792150725656
+      "updatedOn": 1792151387359
     },
     {
       "id": "645cc4272a0abc36f3e1965e",
@@ -973,7 +973,7 @@
         "Venue: VSF",
         "Los Angeles, United States"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Michael Hilsman’s first solo show at VSF gallery in Los Angeles </p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25 March–29 April 2023</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Michael Hilsman’s first solo show at VSF in Los Angeles.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -990,11 +990,11 @@
       "starred": false,
       "publishOn": 1682949120287,
       "addedOn": 1682949120287,
-      "updatedOn": 1792150065568
+      "updatedOn": 1792151401747
     },
     {
       "id": "6424469b4163cc6219275f06",
-      "title": "“Lazy Self Embrace” a solo show by Aks Misyuta at Gallery Art: Concept, Paris ",
+      "title": "Aks Misyuta: “Lazy Self Embrace” at Art: Concept, Paris",
       "fullUrl": "/all-news/aks-misyuta-solo-show-at-gallery-art-concept",
       "sourceUrl": "",
       "urlId": "aks-misyuta-solo-show-at-gallery-art-concept",
@@ -1030,7 +1030,7 @@
       "starred": false,
       "publishOn": 1680099494687,
       "addedOn": 1680099494687,
-      "updatedOn": 1792150744622
+      "updatedOn": 1792151423135
     },
     {
       "id": "63f638e4850694296d44e07a",
