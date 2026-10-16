@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T08:07:56.641Z",
-  "sourceHash": "decf4d3fd20b60cb8068600866726b6715d7f6952e64508fe4b526147c6dd048",
+  "updatedAt": "2026-10-16T09:37:56.179Z",
+  "sourceHash": "f9ad8e1eca4b763a06d6ac6c61d6ee38a76dc66b7af81eff9df6f05c89961e21",
   "count": 34,
   "pages": 1,
   "items": [
@@ -345,7 +345,7 @@
     },
     {
       "id": "66251d8e6b42822c0bb990f8",
-      "title": "T Le Temps – Sneakers",
+      "title": "T Le Temps Sneakers",
       "fullUrl": "/work-index/modele-dtms7-ga65h",
       "sourceUrl": "/works/sneakers",
       "urlId": "modele-dtms7-ga65h",
@@ -376,7 +376,7 @@
       "starred": true,
       "publishOn": 1713708430011,
       "addedOn": 1713708430011,
-      "updatedOn": 1792137432383,
+      "updatedOn": 1792142895426,
       "media": [
         {
           "type": "image",
@@ -386,7 +386,7 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T Le Temps – Sneakers"
+          "title": "T Le Temps Sneakers"
         }
       ],
       "sourceType": "index"
@@ -534,7 +534,7 @@
     },
     {
       "id": "660bc5cd0c5b7d7d11bda51d",
-      "title": "Comptoir des Cotonniers – Lookbook SS24",
+      "title": "Comptoir des Cotonniers Lookbook SS24",
       "fullUrl": "/work-index/modele-l9f3a",
       "sourceUrl": "/works/cdcss24",
       "urlId": "modele-l9f3a",
@@ -564,7 +564,7 @@
       "starred": true,
       "publishOn": 1712047565496,
       "addedOn": 1712047565496,
-      "updatedOn": 1792137566803,
+      "updatedOn": 1792143020770,
       "media": [
         {
           "type": "image",
@@ -574,7 +574,7 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "Comptoir des Cotonniers – Lookbook SS24"
+          "title": "Comptoir des Cotonniers Lookbook SS24"
         }
       ],
       "sourceType": "index"
@@ -1099,7 +1099,7 @@
     },
     {
       "id": "65b7b4354e0656062d4d2153",
-      "title": "T Le Temps A Watch Story with Matthieu Lavanchy",
+      "title": "T Le Temps Watches",
       "fullUrl": "/work-index/t-le-temps-a-watch-story-with-mathieu-lavanchy",
       "sourceUrl": "/works/t-le-temps-a-watch-story-with-mathieu-lavanchy",
       "urlId": "t-le-temps-a-watch-story-with-mathieu-lavanchy",
@@ -1130,7 +1130,7 @@
       "starred": true,
       "publishOn": 1706538037747,
       "addedOn": 1706538037747,
-      "updatedOn": 1792137786433,
+      "updatedOn": 1792142973525,
       "media": [
         {
           "type": "image",
@@ -1140,7 +1140,7 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T Le Temps A Watch Story with Matthieu Lavanchy"
+          "title": "T Le Temps Watches"
         }
       ],
       "sourceType": "index"
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "65b79f838ef52226d5bee387",
-      "title": "T Le Temps A Watch Story with Felix Dol Maillot",
+      "title": "T Le Temps Watches",
       "fullUrl": "/work-index/t-le-temps-a-watch-story-with-felix-dol-maillot",
       "sourceUrl": "/works/t-le-temps-a-watch-story-with-felix-dol-maillot",
       "urlId": "t-le-temps-a-watch-story-with-felix-dol-maillot",
@@ -1226,7 +1226,7 @@
       "starred": true,
       "publishOn": 1706532739657,
       "addedOn": 1706532739657,
-      "updatedOn": 1792137833306,
+      "updatedOn": 1792142946426,
       "media": [
         {
           "type": "image",
@@ -1236,7 +1236,7 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T Le Temps A Watch Story with Felix Dol Maillot"
+          "title": "T Le Temps Watches"
         }
       ],
       "sourceType": "index"
@@ -1605,7 +1605,7 @@
     },
     {
       "id": "65a124f72ea47a1bea4d4b5e",
-      "title": "T Le Temps A Couture Story with Pierre Emmanuel Testard",
+      "title": "T Le Temps A Couture Story",
       "fullUrl": "/work-index/t-le-temps-iii",
       "sourceUrl": "/works/t-le-temps-a-couture-story-with-pierre-emmanuel-testard",
       "urlId": "t-le-temps-iii",
@@ -1635,7 +1635,7 @@
       "starred": false,
       "publishOn": 1705059625182,
       "addedOn": 1705059625182,
-      "updatedOn": 1792137961944,
+      "updatedOn": 1792142993509,
       "media": [
         {
           "type": "image",
@@ -1645,7 +1645,7 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T Le Temps A Couture Story with Pierre Emmanuel Testard"
+          "title": "T Le Temps A Couture Story"
         }
       ],
       "sourceType": "index"
