@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T14:47:57.230Z",
-  "sourceHash": "bfe0c6e7b2c239b44927b5a94d1aecbe52bd05c041b675a052ce52af5f924d6f",
+  "updatedAt": "2026-10-16T14:57:56.530Z",
+  "sourceHash": "e7c48d68592e4c8b40051686d2dff1b4df54567605fa6d744272bf27210e5513",
   "count": 34,
   "pages": 1,
   "items": [
@@ -131,11 +131,7 @@
       "tags": [
         "Client: T Le Temps",
         "Photographer: Léon Prost",
-        "Year: 2024",
-        "Publication: T Le Temps",
-        "Photographer: Joseph Molines",
-        "Set Design: Tristan Tilagone",
-        "Year: 2023"
+        "Year: 2024"
       ],
       "excerpt": "",
       "location": {
@@ -153,7 +149,7 @@
       "starred": false,
       "publishOn": 1730734341998,
       "addedOn": 1730734341998,
-      "updatedOn": 1792161559082,
+      "updatedOn": 1792162126102,
       "media": [
         {
           "type": "image",
@@ -488,9 +484,9 @@
       ],
       "tags": [
         "Client: T Le Temps",
-        "Photographer: Matthieu Lavanchy",
-        "Set Design: Eleonora Succi",
-        "Year: 2022"
+        "Photographer: AM+PM (Angèle Moraiz et Paul Mougeot)",
+        "Set Design: Camille Lichtenstern",
+        "Year: 2024"
       ],
       "excerpt": "",
       "location": {
@@ -508,7 +504,7 @@
       "starred": true,
       "publishOn": 1713707229110,
       "addedOn": 1713707229110,
-      "updatedOn": 1792162068299,
+      "updatedOn": 1792162358675,
       "media": [
         {
           "type": "image",
@@ -1109,7 +1105,12 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: AM+PM",
+        "Set Design: Pierre Vaillant",
+        "Year: 2021"
+      ],
       "excerpt": null,
       "location": {
         "mapZoom": 12,
@@ -1126,7 +1127,7 @@
       "starred": true,
       "publishOn": 1706542372078,
       "addedOn": 1706542372078,
-      "updatedOn": 1706795979917,
+      "updatedOn": 1792162093075,
       "media": [
         {
           "type": "image",
@@ -1211,10 +1212,9 @@
       ],
       "tags": [
         "Client: T Le Temps",
-        "Photographer: Felix Dol Maillot",
-        "Casting: Cheyma Ha",
-        "Production: Koma Prod",
-        "Year: 2022"
+        "Year: 2022",
+        "Photographer: Matthieu Lavanchy",
+        "Set Design: Eleonora Succi"
       ],
       "excerpt": "",
       "location": {
@@ -1232,7 +1232,7 @@
       "starred": true,
       "publishOn": 1706538037747,
       "addedOn": 1706538037747,
-      "updatedOn": 1792162061295,
+      "updatedOn": 1792162409487,
       "media": [
         {
           "type": "image",
@@ -1318,9 +1318,10 @@
       ],
       "tags": [
         "Client: T Le Temps",
-        "Photographer: AM+PM (Angèle Moraiz et Paul Mougeot)",
-        "Set Design: Camille Lichtenstern",
-        "Year: 2024"
+        "Year: 2022",
+        "Photographer: Felix Dol Maillot",
+        "Casting: Cheyma Ha",
+        "Production: Koma Prod"
       ],
       "excerpt": "",
       "location": {
@@ -1338,7 +1339,7 @@
       "starred": true,
       "publishOn": 1706532739657,
       "addedOn": 1706532739657,
-      "updatedOn": 1792162033069,
+      "updatedOn": 1792162330086,
       "media": [
         {
           "type": "image",
@@ -1423,11 +1424,10 @@
         "Styling"
       ],
       "tags": [
-        "Joseph Molines",
         "Publication: T Le Temps",
-        "Photographer: Charly Gosp",
-        "Set Design: Anna Piasek",
-        "Year: 2022"
+        "Photographer: Joseph Molines",
+        "Set Design: Tristan Tilagone",
+        "Year: 2023"
       ],
       "excerpt": null,
       "location": {
@@ -1445,7 +1445,7 @@
       "starred": true,
       "publishOn": 1706199120884,
       "addedOn": 1706199120884,
-      "updatedOn": 1792161574472,
+      "updatedOn": 1792162135066,
       "media": [
         {
           "type": "image",
@@ -1529,10 +1529,10 @@
         "Creative direction"
       ],
       "tags": [
-        "Client: T Le Temps",
-        "Photographer: AM+PM",
-        "Set Design: Pierre Vaillant",
-        "Year: 2021"
+        "Publication: T Le Temps",
+        "Photographer: Charly Gosp",
+        "Set Design: Anna Piasek",
+        "Year: 2022"
       ],
       "excerpt": "",
       "location": {
@@ -1550,7 +1550,7 @@
       "starred": false,
       "publishOn": 1706197496622,
       "addedOn": 1706197496622,
-      "updatedOn": 1792161553120,
+      "updatedOn": 1792162100202,
       "media": [
         {
           "type": "image",
@@ -1581,7 +1581,6 @@
         "Styling"
       ],
       "tags": [
-        "Steven Meisel",
         "Client: Comptoir des Cotonniers",
         "Photographer: Melissa de Araujo",
         "Year: 2023"
@@ -1602,7 +1601,7 @@
       "starred": false,
       "publishOn": 1706190461700,
       "addedOn": 1706190461700,
-      "updatedOn": 1792161346264,
+      "updatedOn": 1792162165879,
       "media": [
         {
           "type": "image",
