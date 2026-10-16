@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-09-25T15:27:39.723Z",
-  "sourceHash": "9d26f7f07fd4e5188dc9827323308471624c075b9a78baf256bdabe503a552c1",
+  "updatedAt": "2026-10-16T09:48:07.713Z",
+  "sourceHash": "9251cd45725cb67de9a93e6c43112b4f3e61946519d9d4ca24e76272368e8bae",
   "count": 47,
   "pages": 3,
   "items": [
@@ -26,7 +26,10 @@
         "Museum Exhibition"
       ],
       "tags": [
-        "Artist: Chloe Wise"
+        "Artist: Chloe Wise",
+        "Exhibition date: 2026-06-12/2026-09-06",
+        "Venue: Kulturstiftung Basel H. Geiger",
+        "Curator: Samuel Leuenberger"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Chloe Wise at Kulturstiftung Basel H. Geiger<br>Curated by Samuel Leuenberger</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">12.06.2026 - 06.09.2026<br></p>",
       "location": {
@@ -45,7 +48,7 @@
       "starred": false,
       "publishOn": 1784037055001,
       "addedOn": 1784037055001,
-      "updatedOn": 1784037055203
+      "updatedOn": 1792143925935
     },
     {
       "id": "6a043ae19166fe219c8170b8",
@@ -63,7 +66,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Natalia González Martín"
+        "Artist: Natalia González Martín",
+        "Exhibition date: 2026-05-07/2026-07-04",
+        "Venue: Rodolphe Janssen",
+        "Location: Brussels"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Secret Skins a group show at Rodolphe Janssen, Brussels </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">07 May - 04 july 2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -82,7 +88,7 @@
       "starred": false,
       "publishOn": 1778662950842,
       "addedOn": 1778662950842,
-      "updatedOn": 1778663673232
+      "updatedOn": 1792143964783
     },
     {
       "id": "69f09363dd0de85494bcd7c5",
@@ -100,7 +106,10 @@
         "Museum Exhibition"
       ],
       "tags": [
-        "Artist: Sang Woo Kim"
+        "Artist: Sang Woo Kim",
+        "Exhibition date: 2026-02-13/2026-05-25",
+        "Venue: AMA Venezia",
+        "Location: Venezia"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Sang Woo Kim : AURA, group show at AMA Venezia,</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">13.02.2026 - 25.05.2026</p>",
       "location": {
@@ -119,7 +128,7 @@
       "starred": false,
       "publishOn": 1777374051512,
       "addedOn": 1777374051512,
-      "updatedOn": 1778662113931
+      "updatedOn": 1792144002787
     },
     {
       "id": "69f091e745d8ce2f2a1f4292",
@@ -137,7 +146,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Walter Robinson"
+        "Artist: Walter Robinson",
+        "Exhibition date: 2026-05-02/2026-06-06",
+        "Venue: Jeffrey Deitch",
+        "Location: New York"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Walter Robinson: Let the Music Play at Jeffrey Deitch NYC</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">May 2–June 6, 2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -156,7 +168,7 @@
       "starred": false,
       "publishOn": 1777373671396,
       "addedOn": 1777373671396,
-      "updatedOn": 1777373945377
+      "updatedOn": 1792144028417
     },
     {
       "id": "69a8416b1e144c4b8a8d5eaf",
@@ -1726,7 +1738,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Walter Robinson"
+        "Artist: Walter Robinson",
+        "Exhibition date: 2021-10-16/2021-12-18",
+        "Venue: Air de Paris",
+        "Location: Paris, France"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition at&nbsp;Air&nbsp;de&nbsp;Paris, Paris, France</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">16 October– 18 December 2021</p>",
       "location": {
@@ -1745,7 +1760,7 @@
       "starred": false,
       "publishOn": 1552323846877,
       "addedOn": 1552323846877,
-      "updatedOn": 1769167039112
+      "updatedOn": 1792144082018
     }
   ]
 }
