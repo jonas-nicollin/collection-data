@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-16T09:58:04.978Z",
-  "sourceHash": "77c5c8094db282c01db9ed8d7d8cf6d3208f0064ce1d67beb3fd125e39b0067a",
+  "updatedAt": "2026-10-16T10:08:01.485Z",
+  "sourceHash": "de97c7d137617b24ab5cc0a28b722f0e0c24010ba21ec843f5d2364a09497ec6",
   "count": 47,
   "pages": 3,
   "items": [
@@ -446,7 +446,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Natalia González Martín"
+        "Artist: Natalia González Martín",
+        "Exhibition date: 2024-10-04/2024-11-16",
+        "Venue: Hannah Barry Gallery",
+        "Location: London"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Natalia González Martín’s solo-show with Hannah Barry Gallery in London</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4 October–16 November 2024</p>",
       "location": {
@@ -465,7 +468,7 @@
       "starred": false,
       "publishOn": 1727168460521,
       "addedOn": 1727168460521,
-      "updatedOn": 1769098260536
+      "updatedOn": 1792145265955
     },
     {
       "id": "6659e0cf573eaf7632a04424",
@@ -483,7 +486,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Natalia González Martín"
+        "Artist: Natalia González Martín",
+        "Exhibition date: 2024-05-21/2024-06-22",
+        "Venue: Vacancy Gallery",
+        "Location: Shanghai"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A&nbsp;solo show at Vacancy Gallery in Shanghai</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">21 May–22 June 2024</p>",
       "location": {
@@ -502,7 +508,7 @@
       "starred": false,
       "publishOn": 1717339080345,
       "addedOn": 1717339080345,
-      "updatedOn": 1769097104797
+      "updatedOn": 1792145250620
     },
     {
       "id": "666c237ec6a48b737403af06",
@@ -556,6 +562,11 @@
       "categories": [
         "Gallery Exhibition"
       ],
+      "tags": [
+        "Venue: R. W. Guild Gallery",
+        "Artist: Han-Chiao",
+        "Location: New York"
+      ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Han-Chiao ’s solo-show with R. W. Guild Gallery in New York</p>",
       "location": {
         "mapZoom": 12,
@@ -573,7 +584,7 @@
       "starred": false,
       "publishOn": 1717165800552,
       "addedOn": 1717165800552,
-      "updatedOn": 1767272128020
+      "updatedOn": 1792145222831
     },
     {
       "id": "6659d04a6e4ca16a7917ce4b",
@@ -591,7 +602,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Michael Hilsman"
+        "Artist: Michael Hilsman",
+        "Exhibition date: 2024-03-15/2024-04-14",
+        "Venue: Baldwin Gallery",
+        "Location: Aspen"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Michael Hilsman’s first solo-show at Baldwin Gallery in Aspen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15 March–14 April 2024</p>",
       "location": {
@@ -610,7 +624,7 @@
       "starred": false,
       "publishOn": 1717165426065,
       "addedOn": 1717165426065,
-      "updatedOn": 1769155161304
+      "updatedOn": 1792145125035
     },
     {
       "id": "6659ded63a6b851b8ddbdcdb",
@@ -628,7 +642,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Chloe Wise"
+        "Artist: Chloe Wise",
+        "Exhibition date: 2024-04-24/2024-05-25",
+        "Venue: Almine Rech Gallery",
+        "Location: Brussels"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><a target=\"_blank\" href=\"https://www.alminerech.com/exhibitions/9650-chloe-wise-torn-clean\">Solo show at Almine Rech Gallery in Brussels</a></p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">24 April–25 May 2024</p>",
       "location": {
@@ -647,7 +664,7 @@
       "starred": false,
       "publishOn": 1714747020211,
       "addedOn": 1714747020211,
-      "updatedOn": 1769156047026
+      "updatedOn": 1792145094316
     },
     {
       "id": "65eaf875af9c6c66011ced44",
@@ -665,7 +682,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Tali Lennox"
+        "Artist: Tali Lennox",
+        "Exhibition date: 2024-02-26/2024-04-06",
+        "Venue: Nicodim Gallery",
+        "Location: Los Angeles"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">26 February–6 April 2024</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">First solo show by Tali Lennox at Nicodim Gallery in Los Angeles</p>",
       "location": {
@@ -684,7 +704,7 @@
       "starred": false,
       "publishOn": 1709898352628,
       "addedOn": 1709898352628,
-      "updatedOn": 1769094575527
+      "updatedOn": 1792145067288
     },
     {
       "id": "65c3af00dd130065658f57e3",
@@ -776,7 +796,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Todd Bienvenu"
+        "Artist: Todd Bienvenu",
+        "Exhibition date: 2024-01-18/2024-02-24",
+        "Venue: Almine Rech",
+        "Location: Brussels, Belgium"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">18 January–24 February 2024</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Almine Rech, Brussels, Belgium</p>",
       "location": {
@@ -795,7 +818,7 @@
       "starred": false,
       "publishOn": 1707321112369,
       "addedOn": 1707321112369,
-      "updatedOn": 1769069655283
+      "updatedOn": 1792145049487
     },
     {
       "id": "649eed947287032bae7ab543",
@@ -850,7 +873,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Natalia González Martín"
+        "Artist: Natalia González Martín",
+        "Venue: Palazzo Monti",
+        "Location: Brescia, Italy",
+        "Curator: Edoardo Monti"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show by Natalia González Martín, curated by Edoardo Monti at Palazzo Monti, Brescia (IT)</p>",
       "location": {
@@ -869,7 +895,7 @@
       "starred": false,
       "publishOn": 1684771359698,
       "addedOn": 1684771359698,
-      "updatedOn": 1769098489498
+      "updatedOn": 1792144987537
     },
     {
       "id": "645cc4272a0abc36f3e1965e",
@@ -924,7 +950,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Michael Hilsman"
+        "Artist: Michael Hilsman",
+        "Exhibition date: 2023-03-25/2023-04-29",
+        "Venue: VSF gallery",
+        "Location: Los Angeles"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Michael Hilsman’s first solo show at VSF gallery in Los Angeles </p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">25 March–29 April 2023</p>",
       "location": {
@@ -943,7 +972,7 @@
       "starred": false,
       "publishOn": 1682949120287,
       "addedOn": 1682949120287,
-      "updatedOn": 1769154893101
+      "updatedOn": 1792144894474
     },
     {
       "id": "6424469b4163cc6219275f06",
@@ -961,7 +990,9 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Aks Misyuta"
+        "Artist: Aks Misyuta",
+        "Venue: Art: Concept",
+        "Location: Paris"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Lazy Self Embrace a solo show by Aks Misyuta at gallery Art: Concept in Paris.</p>",
       "location": {
@@ -980,7 +1011,7 @@
       "starred": false,
       "publishOn": 1680099494687,
       "addedOn": 1680099494687,
-      "updatedOn": 1769002960279
+      "updatedOn": 1792144714127
     },
     {
       "id": "63f638e4850694296d44e07a",
