@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-16T11:52:13.397Z",
-  "sourceHash": "28752394689fc72ac5126ff3609af36983cfbe4aea43c68ef569cc966c2e6c64",
+  "updatedAt": "2026-10-16T11:58:05.129Z",
+  "sourceHash": "3fea1105711d4a0bdda8bd9ec72566b6441157958a3d8fd9c452d472cfcef905",
   "count": 47,
   "pages": 3,
   "items": [
@@ -1013,7 +1013,7 @@
         "Location: Paris",
         "Exhibition date: 2023-04-01/2023-05-06"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Lazy Self Embrace a solo show by Aks Misyuta at gallery Art: Concept in Paris.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aks Misyuta’s first solo show at Art: Concept in Paris.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -1030,7 +1030,7 @@
       "starred": false,
       "publishOn": 1680099494687,
       "addedOn": 1680099494687,
-      "updatedOn": 1792151423135
+      "updatedOn": 1792151549734
     },
     {
       "id": "63f638e4850694296d44e07a",
@@ -1053,7 +1053,7 @@
         "Venue: MAMCO",
         "Location: Geneva, Switzerland"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A&nbsp;group exhibition with Walter Robinson at&nbsp;MAMCO, Geneva, Switzerland</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">22 February–18 June 2023</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A group exhibition featuring Walter Robinson at MAMCO in Geneva.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1070,11 +1070,11 @@
       "starred": false,
       "publishOn": 1677081553999,
       "addedOn": 1677081553999,
-      "updatedOn": 1792144650362
+      "updatedOn": 1792151568585
     },
     {
       "id": "63f626ea6dabcc769280b4c5",
-      "title": "Joe Andoe’s solo show at Almine Rech",
+      "title": "Joe Andoe at Almine Rech, Paris",
       "fullUrl": "/all-news/joeandoe-solo-show-at-almine-rech-paris",
       "sourceUrl": "https://www.alminerech.com/exhibitions/7544-joe-andoe",
       "urlId": "joeandoe-solo-show-at-almine-rech-paris",
@@ -1093,7 +1093,7 @@
         "Location: Paris",
         "Venue: Almine Rech"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Joe Andoe’s fifth solo show at Almine Rech Gallery in Paris</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">23 February–18 March 2023</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Joe Andoe’s fifth solo show at Almine Rech in Paris.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -1110,7 +1110,7 @@
       "starred": false,
       "publishOn": 1677079796527,
       "addedOn": 1677079796527,
-      "updatedOn": 1792149438576
+      "updatedOn": 1792151598066
     },
     {
       "id": "637cf8426e283a6221fd1334",
@@ -1133,7 +1133,7 @@
         "Exhibition date: 2022-11-16/2022-12-03",
         "Location: New York, United States"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A short solo exhibition by Chloe Wise at The Journal Gallery on view from November 16 to December 3 2022</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A short solo exhibition by Chloe Wise at The Journal Gallery in New York.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.718426,
@@ -1150,7 +1150,7 @@
       "starred": false,
       "publishOn": 1670596020841,
       "addedOn": 1670596020841,
-      "updatedOn": 1792150180844
+      "updatedOn": 1792151615195
     },
     {
       "id": "6390c892e114e271a5ca9bcc",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": "632dafbd91587952962c4cef",
-      "title": "Giallo! An exhibition of new work by Lydia Pettit &amp;&nbsp;Scandebergs in Margate and London",
+      "title": "Lydia Pettit &amp; Scandebergs: “Giallo!”",
       "fullUrl": "/all-news/giallo-lydia-pettit-trafalgar-avenue-margate-london",
       "sourceUrl": "",
       "urlId": "giallo-lydia-pettit-trafalgar-avenue-margate-london",
@@ -1210,7 +1210,7 @@
         "Location: Margate and London, United Kingdom",
         "Exhibition date: 2022-09-09/2022-09-24"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Trafalgar Avenue presents GIALLO! an exhibition of new work by Lydia Pettit &amp; Scandebergs in Margate and London.</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Trafalgar Avenue presents “Giallo!”, an exhibition of new work by Lydia Pettit and Scandebergs in Margate and London.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1227,11 +1227,11 @@
       "starred": false,
       "publishOn": 1662728880801,
       "addedOn": 1662728880801,
-      "updatedOn": 1792150777086
+      "updatedOn": 1792151650702
     },
     {
       "id": "6308b5278a34486ed1d53ba2",
-      "title": "“Heroic Bodies” a group exhibition with Aks Misyuta at Rudolph Tegner Museum in Dronningmølle, Denmark ",
+      "title": "Aks Misyuta in “Heroic Bodies” at Rudolph Tegner Museum",
       "fullUrl": "/all-news/heroic-bodies-aks-misyuta-rudolph-tegner-museum",
       "sourceUrl": "",
       "urlId": "heroic-bodies-aks-misyuta-rudolph-tegner-museum",
@@ -1250,7 +1250,7 @@
         "Location: Dronningmølle, Denmark",
         "Exhibition date: 2022-08-20/2022-10-23"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Heroic Bodies a group exhibition with Aks Misyuta at Rudolph Tegner Museum in Dronningmølle, Denmark </p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A group exhibition featuring Aks Misyuta at Rudolph Tegner Museum in Dronningmølle.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1267,7 +1267,7 @@
       "starred": false,
       "publishOn": 1661515047579,
       "addedOn": 1661515047579,
-      "updatedOn": 1792150818605
+      "updatedOn": 1792151684542
     },
     {
       "id": "62fcb2addc7f5b2a17d1128d",
@@ -1308,7 +1308,7 @@
     },
     {
       "id": "62ab5e4e0943341a6274551e",
-      "title": "“JOMO (Joy of Missing Out)” – A solo show by Todd Bienvenu at Almine Rech gallery in New York",
+      "title": "Todd Bienvenu: “JOMO (Joy of Missing Out)” at Almine Rech, New York",
       "fullUrl": "/all-news/jomo-todd-bienvenu",
       "sourceUrl": "https://www.alminerech.com/exhibitions/1296-todd-bienvenu-jomo-joy-of-missing-out",
       "urlId": "jomo-todd-bienvenu",
@@ -1327,7 +1327,7 @@
         "Venue: Almine Rech",
         "Location: New York, United States"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">23 June–5 August 2022</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Almine Rech, New York, Upper East Side</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show by Todd Bienvenu at Almine Rech in New York.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1344,7 +1344,7 @@
       "starred": false,
       "publishOn": 1655397960540,
       "addedOn": 1655397960540,
-      "updatedOn": 1792150213045
+      "updatedOn": 1792151715111
     },
     {
       "id": "62ac77bbdd894a09c3414155",
@@ -1367,7 +1367,7 @@
         "Venue: Charlie James Gallery",
         "Location: New York, United States"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition at Charlie James Gallery, New York</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">11 June–16 July 2022</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Walter Robinson at Charlie James Gallery in New York.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1384,7 +1384,7 @@
       "starred": false,
       "publishOn": 1654951560027,
       "addedOn": 1654951560027,
-      "updatedOn": 1792150203148
+      "updatedOn": 1792151732660
     },
     {
       "id": "62ab4fde6331206db1ca562d",
@@ -1407,7 +1407,7 @@
         "Venue: Hannah Barry Gallery",
         "Location: London, United Kingdom"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Natalia González Martín at Hannah Barry Gallery, London</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">13 May–25 June 2022</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Natalia González Martín at Hannah Barry Gallery in London.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1424,7 +1424,7 @@
       "starred": false,
       "publishOn": 1653147840456,
       "addedOn": 1653147840456,
-      "updatedOn": 1792149951665
+      "updatedOn": 1792151763957
     },
     {
       "id": "62ac52107e489b110e117022",
@@ -1447,7 +1447,7 @@
         "Location: Shanghai",
         "Venue: Almine Rech"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Solo exhibition by Joe Andoe at Almine Rech Gallery, Shanghai</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">27 July–5 August 2022</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Joe Andoe at Almine Rech in Shanghai.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1464,7 +1464,7 @@
       "starred": false,
       "publishOn": 1653041160876,
       "addedOn": 1653041160876,
-      "updatedOn": 1792149438540
+      "updatedOn": 1792151783464
     },
     {
       "id": "6238837cb8456f24b6c88192",
@@ -1505,7 +1505,7 @@
     },
     {
       "id": "624dbdbe6658842486a1bb6c",
-      "title": "FRESH &amp; ANCIENT by Yarisal &amp;&nbsp;Kublitz at Johannisthal Town Hall",
+      "title": "Yarisal &amp; Kublitz: “Fresh &amp; Ancient” at Rathaus Johannisthal",
       "fullUrl": "/all-news/yarisal-kublitz-fresh-ancient",
       "sourceUrl": "",
       "urlId": "yarisal-kublitz-fresh-ancient",
@@ -1524,7 +1524,7 @@
         "Venue: Rathaus Johannisthal",
         "Location: Berlin, Germany"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">19 March–1 Mai 2022</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rathaus Johannisthal, Berlin, Germany</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><a target=\"_blank\" href=\"https://galerie-alte-schule-adlershof.de\">galerie-alte-schule-adlershof.de</a></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">An exhibition by Yarisal &amp; Kublitz at Rathaus Johannisthal in Berlin.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1541,7 +1541,7 @@
       "starred": false,
       "publishOn": 1649263734575,
       "addedOn": 1649263734575,
-      "updatedOn": 1792144224291
+      "updatedOn": 1792151813910
     },
     {
       "id": "6256fed84d67d84e2d6533cb",
@@ -1601,7 +1601,7 @@
         "Location: Paris",
         "Venue: Almine Rech"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Michael Hilsman at Almine Rech Gallery, Paris</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">24 February–2 April 2022</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Michael Hilsman at Almine Rech in Paris.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1618,7 +1618,7 @@
       "starred": false,
       "publishOn": 1645716120598,
       "addedOn": 1645716120598,
-      "updatedOn": 1792149438518
+      "updatedOn": 1792151826578
     },
     {
       "id": "630ddb9a41a8de08ad47e383",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": "62ac583ed7c9a73dc4fc2289",
-      "title": "“Introductions” an online exhibition by Lydia Pettit at White Cube gallery.",
+      "title": "Lydia Pettit: “Introductions” at White Cube Online",
       "fullUrl": "/all-news/introductions-lydia-pettit",
       "sourceUrl": "",
       "urlId": "introductions-lydia-pettit",
@@ -1678,7 +1678,7 @@
         "Venue: White Cube",
         "Exhibition date: 2022-01-28/2022-03-08"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">“Introductions” an online exhibition by Lydia Pettit at White Cube Gallery.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">An online exhibition by Lydia Pettit at White Cube.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1695,7 +1695,7 @@
       "starred": false,
       "publishOn": 1643369520668,
       "addedOn": 1643369520668,
-      "updatedOn": 1792150831400
+      "updatedOn": 1792151849763
     },
     {
       "id": "62ab46d45733cb3b9ffb0dde",
@@ -1829,7 +1829,7 @@
         "Venue: Air de Paris",
         "Location: Paris, France"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition at&nbsp;Air&nbsp;de&nbsp;Paris, Paris, France</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">16 October– 18 December 2021</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">An exhibition at Air de Paris in Paris.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -1846,7 +1846,7 @@
       "starred": false,
       "publishOn": 1552323846877,
       "addedOn": 1552323846877,
-      "updatedOn": 1792144082018
+      "updatedOn": 1792151866073
     }
   ]
 }
