@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-16T10:08:01.485Z",
-  "sourceHash": "de97c7d137617b24ab5cc0a28b722f0e0c24010ba21ec843f5d2364a09497ec6",
+  "updatedAt": "2026-10-16T10:18:05.011Z",
+  "sourceHash": "96974dad3811e4792468476e20615835fa3964224f3121f3ba92c0abb99bee10",
   "count": 47,
   "pages": 3,
   "items": [
@@ -186,7 +186,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Todd Bienvenu"
+        "Artist: Todd Bienvenu",
+        "Exhibition date: 2026-03-10/2026-04-10",
+        "Venue: Wizard Gallery",
+        "Location: Milan"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Todd Bienvenu’s first solo-show with Wizard Gallery in Milano.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">10 March - 10 April 2026</p>",
       "location": {
@@ -205,7 +208,7 @@
       "starred": false,
       "publishOn": 1772635591650,
       "addedOn": 1772635591650,
-      "updatedOn": 1772726739726
+      "updatedOn": 1792145392945
     },
     {
       "id": "6992fd840ddd3266bb67eebc",
@@ -223,7 +226,10 @@
         "Museum Exhibition"
       ],
       "tags": [
-        "Artist: Walter Robinson"
+        "Artist: Walter Robinson",
+        "Exhibition date: 2026-02-13/2026-05-25",
+        "Venue: Nouveau Musée National de Monaco",
+        "Location: Monaco"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A&nbsp;group exhibition with Walter&nbsp;Robinson at Nouveau Musée National de Monaco</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">13.02.2026 - 25.05.2026</p>",
       "location": {
@@ -242,7 +248,7 @@
       "starred": false,
       "publishOn": 1771241160143,
       "addedOn": 1771241160143,
-      "updatedOn": 1777374590406
+      "updatedOn": 1792145370209
     },
     {
       "id": "69a9a9d36bf99865c25aa7d6",
@@ -260,7 +266,9 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Mathis Gasser"
+        "Artist: Mathis Gasser",
+        "Exhibition date: 2026-02-06/2026-03-14",
+        "Venue: Galerie Oskar Weiss"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Mathis Gasser, <em>Works</em><br>Galerie Oskar Weiss</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">06 February –14 March 2026  </p>",
       "location": {
@@ -279,7 +287,7 @@
       "starred": false,
       "publishOn": 1770393939699,
       "addedOn": 1770393939699,
-      "updatedOn": 1772727326688
+      "updatedOn": 1792145345035
     },
     {
       "id": "69a9ac6b646ac155cbb07265",
@@ -371,7 +379,10 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Artist: Sang Woo Kim"
+        "Artist: Sang Woo Kim",
+        "Exhibition date: 2024-11-14/2025-02-01",
+        "Venue: Herald St gallery",
+        "Location: London"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Sang Woo Kim’s first solo-show with Herald St gallery in London.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14 November 2024–1 February 2025</p>",
       "location": {
@@ -390,7 +401,7 @@
       "starred": false,
       "publishOn": 1734517339234,
       "addedOn": 1734517339234,
-      "updatedOn": 1772634476062
+      "updatedOn": 1792145316833
     },
     {
       "id": "66f536566d514067dcc5b3f2",
@@ -409,7 +420,10 @@
       ],
       "tags": [
         "Artist: Walter Robinson",
-        "Artist: Sang Woo Kim"
+        "Artist: Sang Woo Kim",
+        "Exhibition date: 2024-09-03/2024-12-22",
+        "Venue: MAMCO",
+        "Location: Geneva, Switzerland"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A&nbsp;group exhibition with Walter&nbsp;Robinson and Sang&nbsp;Woo&nbsp;Kim at&nbsp;MAMCO Geneva, Switzerland</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3 September–22 December 2024</p>",
       "location": {
@@ -428,7 +442,7 @@
       "starred": false,
       "publishOn": 1727347601381,
       "addedOn": 1727347601381,
-      "updatedOn": 1769158225275
+      "updatedOn": 1792145294793
     },
     {
       "id": "67629d5ff26db64b78490ee6",
