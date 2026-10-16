@@ -5,17 +5,17 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T14:57:56.530Z",
-  "sourceHash": "e7c48d68592e4c8b40051686d2dff1b4df54567605fa6d744272bf27210e5513",
+  "updatedAt": "2026-10-16T15:57:53.287Z",
+  "sourceHash": "7a04caa05ab9153cd8c5bf93fc7d813103059e94a7099ba2e529f3969bba0d11",
   "count": 34,
   "pages": 1,
   "items": [
     {
       "id": "6728ef4d9c43d834c1e813af",
       "title": "T Le Temps Music",
-      "fullUrl": "/work-index/t-le-temps-music",
+      "fullUrl": "/work-index/t-le-temps-music-2024-alicia-dubuis",
       "sourceUrl": "/works/t-le-temps-music-2024-alicia-dubuis",
-      "urlId": "t-le-temps-music",
+      "urlId": "t-le-temps-music-2024-alicia-dubuis",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730735968945-9WGHXJ66HAC0YHF7LKF6/TLETEMPS_Hifi_Int%C3%A9rieur_4.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -46,7 +46,7 @@
       "starred": false,
       "publishOn": 1730735957987,
       "addedOn": 1730735957987,
-      "updatedOn": 1792152789261,
+      "updatedOn": 1792165949464,
       "media": [
         {
           "type": "image",
@@ -167,9 +167,9 @@
     {
       "id": "669e2b77fa5587294acad0f8",
       "title": "Valextra Campaign",
-      "fullUrl": "/work-index/modele-dtms7-ga65h-hsnj4-fb7c9",
+      "fullUrl": "/work-index/valextra-campaign",
       "sourceUrl": "/works/valextra-campaign",
-      "urlId": "modele-dtms7-ga65h-hsnj4-fb7c9",
+      "urlId": "valextra-campaign",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721642764100-UYFDNX3LV4L9OOFBIG56/Screenshot+2024-05-23+at+10.35.25.PNG",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -198,7 +198,7 @@
       "starred": true,
       "publishOn": 1721642750573,
       "addedOn": 1721642750573,
-      "updatedOn": 1792160840280,
+      "updatedOn": 1792165999216,
       "media": [
         {
           "type": "image",
@@ -318,9 +318,9 @@
     {
       "id": "6638c59a8e503e0a34db30ad",
       "title": "Byredo",
-      "fullUrl": "/work-index/modele-dtms7-ga65h-etgax",
+      "fullUrl": "/work-index/byredo",
       "sourceUrl": "/works/byredo",
-      "urlId": "modele-dtms7-ga65h-etgax",
+      "urlId": "byredo",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1714996742763-G30S0P377ZQZZ2A6HMC0/Instagram_Byredo1.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -350,7 +350,7 @@
       "starred": true,
       "publishOn": 1714996817804,
       "addedOn": 1714996817804,
-      "updatedOn": 1792160861256,
+      "updatedOn": 1792166019431,
       "media": [
         {
           "type": "image",
@@ -368,9 +368,9 @@
     {
       "id": "66251d8e6b42822c0bb990f8",
       "title": "T Le Temps Sneakers",
-      "fullUrl": "/work-index/modele-dtms7-ga65h",
-      "sourceUrl": "/works/sneakers",
-      "urlId": "modele-dtms7-ga65h",
+      "fullUrl": "/work-index/t-le-temps-sneakers-2024-thomas-chene",
+      "sourceUrl": "/works/t-le-temps-sneakers-2024-thomas-chene",
+      "urlId": "t-le-temps-sneakers-2024-thomas-chene",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721398726619-7OVQOSF8RCBHWV4NUFX0/_1_2024_05_27_T-le-Temps_Baskets1571_Scan.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -403,7 +403,7 @@
       "starred": true,
       "publishOn": 1713708430011,
       "addedOn": 1713708430011,
-      "updatedOn": 1792160723782,
+      "updatedOn": 1792166025272,
       "media": [
         {
           "type": "image",
@@ -421,9 +421,9 @@
     {
       "id": "65b7912292a20b2a2875fd02",
       "title": "Palette of Reds",
-      "fullUrl": "/work-index/palette-of-reds",
-      "sourceUrl": "/works/palette-of-reds",
-      "urlId": "palette-of-reds",
+      "fullUrl": "/work-index/palette-of-reds-alicia-dubuis",
+      "sourceUrl": "/works/palette-of-reds-alicia-dubuis",
+      "urlId": "palette-of-reds-alicia-dubuis",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1713707743922-4H79XD3VNFOWTD9PJ808/IMG_2343.JPG",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -452,7 +452,7 @@
       "starred": true,
       "publishOn": 1713707340840,
       "addedOn": 1713707340840,
-      "updatedOn": 1792160869299,
+      "updatedOn": 1792166030989,
       "media": [
         {
           "type": "image",
@@ -470,9 +470,9 @@
     {
       "id": "662518dde2542b7b45c823aa",
       "title": "T Le Temps Watches",
-      "fullUrl": "/work-index/t-le-temps-watches-2",
-      "sourceUrl": "/works/t-le-temps-watches-2",
-      "urlId": "t-le-temps-watches-2",
+      "fullUrl": "/work-index/t-le-temps-watches-2024-am-pm",
+      "sourceUrl": "/works/t-le-temps-watches-2024-am-pm",
+      "urlId": "t-le-temps-watches-2024-am-pm",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/9a0b3cd5-da61-47eb-8996-940c8f2e80ad/2024_02_20_AMPM_TLETEMPS_WATCHES_06.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -504,7 +504,7 @@
       "starred": true,
       "publishOn": 1713707229110,
       "addedOn": 1713707229110,
-      "updatedOn": 1792162358675,
+      "updatedOn": 1792166043822,
       "media": [
         {
           "type": "image",
@@ -522,9 +522,9 @@
     {
       "id": "6625173dacffb42ed371f5af",
       "title": "Loewe Perfume",
-      "fullUrl": "/work-index/loewe-perfume",
-      "sourceUrl": "/works/loewe-perfume",
-      "urlId": "loewe-perfume",
+      "fullUrl": "/work-index/loewe-perfume-alicia-dubuis",
+      "sourceUrl": "/works/loewe-perfume-alicia-dubuis",
+      "urlId": "loewe-perfume-alicia-dubuis",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1713707767451-JMBZMDUMRYZ8JTBFMN54/Instagram_Loewe2.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -554,7 +554,7 @@
       "starred": true,
       "publishOn": 1713706813515,
       "addedOn": 1713706813515,
-      "updatedOn": 1792160885309,
+      "updatedOn": 1792166061673,
       "media": [
         {
           "type": "image",
@@ -572,9 +572,9 @@
     {
       "id": "660bc5cd0c5b7d7d11bda51d",
       "title": "Comptoir des Cotonniers Lookbook SS24",
-      "fullUrl": "/work-index/modele-l9f3a",
-      "sourceUrl": "/works/cdcss24",
-      "urlId": "modele-l9f3a",
+      "fullUrl": "/work-index/comptoir-des-cotonniers-lookbook-ss24",
+      "sourceUrl": "/works/comptoir-des-cotonniers-lookbook-ss24",
+      "urlId": "comptoir-des-cotonniers-lookbook-ss24",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1712047611080-5CJE1HRDH6U7I3FHMER6/231011_COMPTOIR_DES_COTONNIERS_SHOT_18_161.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -604,7 +604,7 @@
       "starred": true,
       "publishOn": 1712047565496,
       "addedOn": 1712047565496,
-      "updatedOn": 1792161149170,
+      "updatedOn": 1792166066307,
       "media": [
         {
           "type": "image",
@@ -622,9 +622,9 @@
     {
       "id": "65fd4f5842216820c705ac08",
       "title": "T Le Temps Fashion Issue",
-      "fullUrl": "/work-index/modele-gr95g",
-      "sourceUrl": "/works/charlesnegre",
-      "urlId": "modele-gr95g",
+      "fullUrl": "/work-index/t-le-temps-fashion-issue-2024-charles-negre",
+      "sourceUrl": "/works/t-le-temps-fashion-issue-2024-charles-negre",
+      "urlId": "t-le-temps-fashion-issue-2024-charles-negre",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1712047776384-NW6LM8QAI1F57IR2IX59/13-V4.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -658,7 +658,7 @@
       "starred": true,
       "publishOn": 1711099890688,
       "addedOn": 1711099890688,
-      "updatedOn": 1792161170335,
+      "updatedOn": 1792166071402,
       "media": [
         {
           "type": "image",
@@ -676,9 +676,9 @@
     {
       "id": "65eade92169d76719f554f0e",
       "title": "Sarah Madeleine Bru Jewelry",
-      "fullUrl": "/work-index/modele-6rtr2",
-      "sourceUrl": "/works/smb",
-      "urlId": "modele-6rtr2",
+      "fullUrl": "/work-index/sarah-madeleine-bru-jewelry-2024-alicia-dubuis",
+      "sourceUrl": "/works/sarah-madeleine-bru-jewelry-2024-alicia-dubuis",
+      "urlId": "sarah-madeleine-bru-jewelry-2024-alicia-dubuis",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1709891254792-C50Y1F5N8117YU8B9CMJ/24-02_SarahMadeleineBru%C2%A9AliciaDubuis_6.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -709,7 +709,7 @@
       "starred": true,
       "publishOn": 1709891361481,
       "addedOn": 1709891361481,
-      "updatedOn": 1792161232097,
+      "updatedOn": 1792166076075,
       "media": [
         {
           "type": "image",
@@ -727,9 +727,9 @@
     {
       "id": "65bbb7fe9f59a83ffbe12935",
       "title": "T Le Temps Design",
-      "fullUrl": "/work-index/modele-n4efz",
-      "sourceUrl": "/works/t-le-temps-design/leo",
-      "urlId": "modele-n4efz",
+      "fullUrl": "/work-index/t-le-temps-design-2023-leonard-mechineau",
+      "sourceUrl": "/works/t-le-temps-design-2023-leonard-mechineau",
+      "urlId": "t-le-temps-design-2023-leonard-mechineau",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1707061878466-82UMPZGZBSR84ADZLDKE/LM_T_LE_TEMPS_+DESIGN_0998.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -761,7 +761,7 @@
       "starred": true,
       "publishOn": 1707061853801,
       "addedOn": 1707061853801,
-      "updatedOn": 1792161992128,
+      "updatedOn": 1792166097708,
       "media": [
         {
           "type": "image",
@@ -779,9 +779,9 @@
     {
       "id": "65bba9ceee3bbc610f45adf1",
       "title": "Princesse Tam Tam SS23",
-      "fullUrl": "/work-index/modele-9gp3c",
-      "sourceUrl": "/works/princesse-tam-tam-ss23",
-      "urlId": "modele-9gp3c",
+      "fullUrl": "/work-index/princesse-tam-tam-ss23-yoann-et-marco",
+      "sourceUrl": "/works/princesse-tam-tam-ss23-yoann-et-marco",
+      "urlId": "princesse-tam-tam-ss23-yoann-et-marco",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706797599245-VU9A4O622RYY1LJYYJHI/1123_PRINCESSETAMTAM_DCD_LOOK04_070+copie.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -812,7 +812,7 @@
       "starred": true,
       "publishOn": 1706797750023,
       "addedOn": 1706797750023,
-      "updatedOn": 1792161234894,
+      "updatedOn": 1792166102501,
       "media": [
         {
           "type": "image",
@@ -830,9 +830,9 @@
     {
       "id": "65bba723798ed5777cec2594",
       "title": "T Le Temps Fashion",
-      "fullUrl": "/work-index/modele-5nlmy",
-      "sourceUrl": "/works/claranebeling",
-      "urlId": "modele-5nlmy",
+      "fullUrl": "/work-index/t-le-temps-fashion-2023-clara-nebeling",
+      "sourceUrl": "/works/t-le-temps-fashion-2023-clara-nebeling",
+      "urlId": "t-le-temps-fashion-2023-clara-nebeling",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706796896817-TI0RN61SPKKVV4K393J6/_B0A0685+copy.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -866,7 +866,7 @@
       "starred": true,
       "publishOn": 1706796885084,
       "addedOn": 1706796885084,
-      "updatedOn": 1792161295147,
+      "updatedOn": 1792166120352,
       "media": [
         {
           "type": "image",
@@ -884,9 +884,9 @@
     {
       "id": "65bba66fc02ff86b8bf4cf72",
       "title": "Emmanuelle Khanh Campaign AW23/24",
-      "fullUrl": "/work-index/ek-aw23/24",
-      "sourceUrl": "/works/ek-aw23/24",
-      "urlId": "ek-aw23/24",
+      "fullUrl": "/work-index/emmanuelle-khanh-campaign-aw23-24-clementine-passet",
+      "sourceUrl": "/works/emmanuelle-khanh-campaign-aw23-24-clementine-passet",
+      "urlId": "emmanuelle-khanh-campaign-aw23-24-clementine-passet",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706796771854-ISG59OAPC6NV9F8CD155/ek-lookbook_AW23-instagram_post-2023-12-0112.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -918,7 +918,7 @@
       "starred": true,
       "publishOn": 1706796728365,
       "addedOn": 1706796728365,
-      "updatedOn": 1792161312626,
+      "updatedOn": 1792166180598,
       "media": [
         {
           "type": "image",
@@ -936,9 +936,9 @@
     {
       "id": "65b8fa1ca56e80060adc151e",
       "title": "T Le Temps High Jewelry",
-      "fullUrl": "/work-index/modele-8flx7",
-      "sourceUrl": "/works/betinadutoit",
-      "urlId": "modele-8flx7",
+      "fullUrl": "/work-index/t-le-temps-high-jewelry-2023-betina-du-toit",
+      "sourceUrl": "/works/t-le-temps-high-jewelry-2023-betina-du-toit",
+      "urlId": "t-le-temps-high-jewelry-2023-betina-du-toit",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706629570743-O4EGPZGHJSDD97AVA0IK/betinadutoit_067_3_33+copy.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -972,7 +972,7 @@
       "starred": true,
       "publishOn": 1706621870725,
       "addedOn": 1706621870725,
-      "updatedOn": 1792161728338,
+      "updatedOn": 1792166207162,
       "media": [
         {
           "type": "image",
@@ -990,9 +990,9 @@
     {
       "id": "65b7cc2073e6487591d3b39c",
       "title": "T Le Temps Design",
-      "fullUrl": "/work-index/t-le-temps-a-design-story-with-paul-lepreux",
-      "sourceUrl": "/works/t-le-temps-design/paul",
-      "urlId": "t-le-temps-a-design-story-with-paul-lepreux",
+      "fullUrl": "/work-index/t-le-temps-design-2021-paul-lepreux",
+      "sourceUrl": "/works/t-le-temps-design-2021-paul-lepreux",
+      "urlId": "t-le-temps-design-2021-paul-lepreux",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706544432050-9HWYY9T7PQO9SF69DKWT/Anouck-Mutsaerts-T-Le-Temps-A-Design-Story-with-Paul-Lepreux-03.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1024,7 +1024,7 @@
       "starred": true,
       "publishOn": 1706544423545,
       "addedOn": 1706544423545,
-      "updatedOn": 1792161998713,
+      "updatedOn": 1792166217580,
       "media": [
         {
           "type": "image",
@@ -1042,9 +1042,9 @@
     {
       "id": "65b7cb60b1b0ff02753d8008",
       "title": "T Le Temps Watches",
-      "fullUrl": "/work-index/t-le-temps-a-watch-story-with-nicolas-polli",
-      "sourceUrl": "/works/t-le-temps-a-watch-story-with-nicolas-polli",
-      "urlId": "t-le-temps-a-watch-story-with-nicolas-polli",
+      "fullUrl": "/work-index/t-le-temps-watches-2023-nicolas-polli",
+      "sourceUrl": "/works/t-le-temps-watches-2023-nicolas-polli",
+      "urlId": "t-le-temps-watches-2023-nicolas-polli",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706629736289-9D899LP06S3QU6QZMD74/02_NP_WATCHES.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1075,7 +1075,7 @@
       "starred": true,
       "publishOn": 1706544035780,
       "addedOn": 1706544035780,
-      "updatedOn": 1792161673063,
+      "updatedOn": 1792166224214,
       "media": [
         {
           "type": "image",
@@ -1093,9 +1093,9 @@
     {
       "id": "65b7c3fdf45e5d48c7721f87",
       "title": "T Le Temps Accessories",
-      "fullUrl": "/work-index/t-le-temps-an-accessory-story-with-ampm",
-      "sourceUrl": "/works/t-le-temps-an-accessory-story-with-ampm",
-      "urlId": "t-le-temps-an-accessory-story-with-ampm",
+      "fullUrl": "/work-index/t-le-temps-accessories-2021-am-pm",
+      "sourceUrl": "/works/t-le-temps-accessories-2021-am-pm",
+      "urlId": "t-le-temps-accessories-2021-am-pm",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706542191059-2MUZDSCVX9IW7ZEEA39A/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-with-AMPM-04.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1127,7 +1127,7 @@
       "starred": true,
       "publishOn": 1706542372078,
       "addedOn": 1706542372078,
-      "updatedOn": 1792162093075,
+      "updatedOn": 1792166249287,
       "media": [
         {
           "type": "image",
@@ -1145,9 +1145,9 @@
     {
       "id": "65b7bcb7ee039d68dae9a806",
       "title": "T Le Temps Design",
-      "fullUrl": "/work-index/t-le-temps-a-design-story-with-philippe-jarrigeon",
-      "sourceUrl": "/works/t-le-temps-a-design-story-with-philippe-jarrigeon",
-      "urlId": "t-le-temps-a-design-story-with-philippe-jarrigeon",
+      "fullUrl": "/work-index/t-le-temps-design-2021-philippe-jarrigeon",
+      "sourceUrl": "/works/t-le-temps-design-2021-philippe-jarrigeon",
+      "urlId": "t-le-temps-design-2021-philippe-jarrigeon",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706540281523-EEP5IMC7Y0HMOHRVXJFQ/Anouck-Mutsaerts-T-Le-Temps-A-Design-Story-with-Philippe-Jarrigeon-02.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1179,7 +1179,7 @@
       "starred": true,
       "publishOn": 1706540215080,
       "addedOn": 1706540215080,
-      "updatedOn": 1792161958117,
+      "updatedOn": 1792166254929,
       "media": [
         {
           "type": "image",
@@ -1197,9 +1197,9 @@
     {
       "id": "65b7b4354e0656062d4d2153",
       "title": "T Le Temps Watches",
-      "fullUrl": "/work-index/t-le-temps-a-watch-story-with-mathieu-lavanchy",
-      "sourceUrl": "/works/t-le-temps-a-watch-story-with-mathieu-lavanchy",
-      "urlId": "t-le-temps-a-watch-story-with-mathieu-lavanchy",
+      "fullUrl": "/work-index/t-le-temps-watches-2022-matthieu-lavanchy",
+      "sourceUrl": "/works/t-le-temps-watches-2022-matthieu-lavanchy",
+      "urlId": "t-le-temps-watches-2022-matthieu-lavanchy",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706538067151-DTW0DJ98467KGXABL1PO/Anouck-Mutsaerts-T-Le-Temps-A-watch-Story-with-Mathieu-Lavanchy-02.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1232,7 +1232,7 @@
       "starred": true,
       "publishOn": 1706538037747,
       "addedOn": 1706538037747,
-      "updatedOn": 1792162409487,
+      "updatedOn": 1792166263151,
       "media": [
         {
           "type": "image",
@@ -1250,9 +1250,9 @@
     {
       "id": "65b7b1aaca3e471119875672",
       "title": "T Le Temps Cartier Special",
-      "fullUrl": "/work-index/t-le-temps-a-cartier-story-with-louis-de-roffignac",
-      "sourceUrl": "/works/t-le-temps-a-cartier-story-with-louis-de-roffignac",
-      "urlId": "t-le-temps-a-cartier-story-with-louis-de-roffignac",
+      "fullUrl": "/work-index/t-le-temps-cartier-special-2023-louis-de-roffignac",
+      "sourceUrl": "/works/t-le-temps-cartier-special-2023-louis-de-roffignac",
+      "urlId": "t-le-temps-cartier-special-2023-louis-de-roffignac",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706629687496-TDRVGOQ3WT2M2TB1YJXZ/5.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1285,7 +1285,7 @@
       "starred": true,
       "publishOn": 1706537386883,
       "addedOn": 1706537386883,
-      "updatedOn": 1792161320601,
+      "updatedOn": 1792166269624,
       "media": [
         {
           "type": "image",
