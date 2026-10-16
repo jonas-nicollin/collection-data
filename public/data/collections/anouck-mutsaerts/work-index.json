@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T12:27:59.312Z",
-  "sourceHash": "0a5d3b5ff080216578d629faff0647d9cda078fbf4d05fc8edc858f7fc800f6c",
+  "updatedAt": "2026-10-16T14:27:56.635Z",
+  "sourceHash": "10fbc0a1d73f999859a979ca7022e1ceb222407e9e1e32d3f2566ac4b1de418b",
   "count": 34,
   "pages": 1,
   "items": [
@@ -179,7 +179,9 @@
       "categories": [
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: Valextra"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -196,7 +198,7 @@
       "starred": true,
       "publishOn": 1721642750573,
       "addedOn": 1721642750573,
-      "updatedOn": 1791985233993,
+      "updatedOn": 1792160840280,
       "media": [
         {
           "type": "image",
@@ -329,7 +331,9 @@
         "Styling",
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: Byredo"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -346,7 +350,7 @@
       "starred": true,
       "publishOn": 1714996817804,
       "addedOn": 1714996817804,
-      "updatedOn": 1792137408464,
+      "updatedOn": 1792160861256,
       "media": [
         {
           "type": "image",
@@ -377,7 +381,12 @@
         "Creative direction",
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Thomas Chéné",
+        "Set Design: Caroline Nedelec",
+        "Year: 2024"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -394,7 +403,7 @@
       "starred": true,
       "publishOn": 1713708430011,
       "addedOn": 1713708430011,
-      "updatedOn": 1792142895426,
+      "updatedOn": 1792160723782,
       "media": [
         {
           "type": "image",
@@ -424,7 +433,9 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Photographer: Alicia Dubuis"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -441,7 +452,7 @@
       "starred": true,
       "publishOn": 1713707340840,
       "addedOn": 1713707340840,
-      "updatedOn": 1714648143757,
+      "updatedOn": 1792160869299,
       "media": [
         {
           "type": "image",
