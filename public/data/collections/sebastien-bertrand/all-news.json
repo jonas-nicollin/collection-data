@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-16T10:18:05.011Z",
-  "sourceHash": "96974dad3811e4792468476e20615835fa3964224f3121f3ba92c0abb99bee10",
+  "updatedAt": "2026-10-16T11:18:03.557Z",
+  "sourceHash": "4c985cb14cf27160e9bec385c8ba8c517b53f0cd589c9fe46ebbfb5607101ea3",
   "count": 47,
   "pages": 3,
   "items": [
@@ -658,8 +658,8 @@
       "tags": [
         "Artist: Chloe Wise",
         "Exhibition date: 2024-04-24/2024-05-25",
-        "Venue: Almine Rech Gallery",
-        "Location: Brussels"
+        "Location: Brussels",
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><a target=\"_blank\" href=\"https://www.alminerech.com/exhibitions/9650-chloe-wise-torn-clean\">Solo show at Almine Rech Gallery in Brussels</a></p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">24 April–25 May 2024</p>",
       "location": {
@@ -678,7 +678,7 @@
       "starred": false,
       "publishOn": 1714747020211,
       "addedOn": 1714747020211,
-      "updatedOn": 1792145094316
+      "updatedOn": 1792149438557
     },
     {
       "id": "65eaf875af9c6c66011ced44",
@@ -1085,8 +1085,8 @@
       "tags": [
         "Artist: Joe Andoe",
         "Exhibition date: 2023-02-23/2023-03-18",
-        "Venue: Almine Rech Gallery",
-        "Location: Paris"
+        "Location: Paris",
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Joe Andoe’s fifth solo show at Almine Rech Gallery in Paris</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">23 February–18 March 2023</p>",
       "location": {
@@ -1105,7 +1105,7 @@
       "starred": false,
       "publishOn": 1677079796527,
       "addedOn": 1677079796527,
-      "updatedOn": 1792144620852
+      "updatedOn": 1792149438576
     },
     {
       "id": "637cf8426e283a6221fd1334",
@@ -1437,8 +1437,8 @@
       "tags": [
         "Artist: Joe Andoe",
         "Exhibition date: 2022-07-27/2022-08-05",
-        "Venue: Almine Rech Gallery",
-        "Location: Shanghai"
+        "Location: Shanghai",
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Solo exhibition by Joe Andoe at Almine Rech Gallery, Shanghai</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">27 July–5 August 2022</p>",
       "location": {
@@ -1457,7 +1457,7 @@
       "starred": false,
       "publishOn": 1653041160876,
       "addedOn": 1653041160876,
-      "updatedOn": 1792144252205
+      "updatedOn": 1792149438540
     },
     {
       "id": "6238837cb8456f24b6c88192",
@@ -1591,8 +1591,8 @@
       "tags": [
         "Artist: Michael Hilsman",
         "Exhibition date: 2022-02-24/2022-04-02",
-        "Venue: Almine Rech Gallery",
-        "Location: Paris"
+        "Location: Paris",
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Michael Hilsman at Almine Rech Gallery, Paris</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">24 February–2 April 2022</p>",
       "location": {
@@ -1611,7 +1611,7 @@
       "starred": false,
       "publishOn": 1645716120598,
       "addedOn": 1645716120598,
-      "updatedOn": 1792144186039
+      "updatedOn": 1792149438518
     },
     {
       "id": "630ddb9a41a8de08ad47e383",
