@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T12:17:56.329Z",
-  "sourceHash": "8e4cf4dceb551c317f0973c0610a1a09fe0bda8c0c19e5bcebf7b371c8c28b69",
+  "updatedAt": "2026-10-16T12:27:59.312Z",
+  "sourceHash": "0a5d3b5ff080216578d629faff0647d9cda078fbf4d05fc8edc858f7fc800f6c",
   "count": 34,
   "pages": 1,
   "items": [
@@ -214,9 +214,9 @@
     {
       "id": "669e2ee0df917e6a477ae017",
       "title": "T Le Temps High Jewelry",
-      "fullUrl": "/work-index/jonasmarguet",
-      "sourceUrl": "/works/jonasmarguet",
-      "urlId": "jonasmarguet",
+      "fullUrl": "/work-index/t-le-temps-high-jewelry-2024-jonas-marguet",
+      "sourceUrl": "/works/t-le-temps-high-jewelry-2024-jonas-marguet",
+      "urlId": "t-le-temps-high-jewelry-2024-jonas-marguet",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730734206875-YMPSGKL2VF9RAF2PF88X/T_LE_TEMPS_HJ_9756_STACK.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -227,7 +227,9 @@
         "Creative direction"
       ],
       "tags": [
-        "Photographer"
+        "Client: T Le Temps",
+        "Photographer: Jonas Marguet",
+        "Year: 2024"
       ],
       "excerpt": "",
       "location": {
@@ -245,7 +247,7 @@
       "starred": true,
       "publishOn": 1721642720480,
       "addedOn": 1721642720480,
-      "updatedOn": 1792137382270,
+      "updatedOn": 1792153173142,
       "media": [
         {
           "type": "image",
@@ -263,9 +265,9 @@
     {
       "id": "669a7583cbab930966442ba8",
       "title": "Valextra Campaign",
-      "fullUrl": "/work-index/modele-dtms7-ga65h-hsnj4",
-      "sourceUrl": "/works/valextra",
-      "urlId": "modele-dtms7-ga65h-hsnj4",
+      "fullUrl": "/work-index/valextra-campaign-2024-lukas-pukowiec",
+      "sourceUrl": "/works/valextra-campaign-2024-lukas-pukowiec",
+      "urlId": "valextra-campaign-2024-lukas-pukowiec",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721641981014-YYSDW5MRFP2ZRNEH6MBA/Capture+d%E2%80%99%C3%A9cran+2024-07-22+%C3%A0+11.49.44.png",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -275,7 +277,11 @@
       "categories": [
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: Valextra",
+        "Photographer: Lukas Pukowiec",
+        "Year: 2024"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -292,7 +298,7 @@
       "starred": true,
       "publishOn": 1721398659282,
       "addedOn": 1721398659282,
-      "updatedOn": 1721642064214,
+      "updatedOn": 1792153265074,
       "media": [
         {
           "type": "image",
