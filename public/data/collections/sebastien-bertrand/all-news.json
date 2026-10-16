@@ -5,14 +5,14 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-16T11:38:04.249Z",
-  "sourceHash": "78423c61d40c0e70829c3a636ffbf8ce478d01a2f670aea49cb0b83005a390c6",
+  "updatedAt": "2026-10-16T11:47:59.998Z",
+  "sourceHash": "8a22f74ae0fb24f573227c310f6df1d1eb252ae40b19a183898a1b6d80659135",
   "count": 47,
   "pages": 3,
   "items": [
     {
       "id": "6a563b3de678434b747d5bcc",
-      "title": "Extrasensory – Chloe Wise",
+      "title": "Chloe Wise: “Extrasensory”",
       "fullUrl": "/all-news/extrasensory-chloe-wise",
       "sourceUrl": "https://www.kbhg.ch/en/1641d/Exhibitions-EXTRASENSORY",
       "urlId": "extrasensory-chloe-wise",
@@ -32,7 +32,7 @@
         "Curator: Samuel Leuenberger",
         "Location: Basel, Switzerland"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Chloe Wise at Kulturstiftung Basel H. Geiger<br>Curated by Samuel Leuenberger</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">12.06.2026 - 06.09.2026<br></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Chloe Wise at Kulturstiftung Basel H. Geiger, curated by Samuel Leuenberger.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -49,11 +49,11 @@
       "starred": false,
       "publishOn": 1784037055001,
       "addedOn": 1784037055001,
-      "updatedOn": 1792150566682
+      "updatedOn": 1792150951858
     },
     {
       "id": "6a043ae19166fe219c8170b8",
-      "title": "Natalia González Martín : Secret Skins",
+      "title": "Natalia González Martín: “Secret Skins”",
       "fullUrl": "/all-news/natalia-gonzalez-martin-secret-skins",
       "sourceUrl": "https://rodolphejanssen.com/exhibitions/secret-skins/",
       "urlId": "natalia-gonzalez-martin-secret-skins",
@@ -72,7 +72,7 @@
         "Venue: Rodolphe Janssen",
         "Location: Brussels, Belgium"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Secret Skins a group show at Rodolphe Janssen, Brussels </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">07 May - 04 july 2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">“Secret Skins”, a group exhibition at Rodolphe Janssen in Brussels.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -89,11 +89,11 @@
       "starred": false,
       "publishOn": 1778662950842,
       "addedOn": 1778662950842,
-      "updatedOn": 1792150020620
+      "updatedOn": 1792150988680
     },
     {
       "id": "69f09363dd0de85494bcd7c5",
-      "title": "Sang Woo Kim: Aura, group show at AMA Venezia",
+      "title": "Sang Woo Kim: “Aura” at AMA Venezia",
       "fullUrl": "/all-news/sang-woo-kim-aura-ama-venezia",
       "sourceUrl": "https://ama.art/en",
       "urlId": "sang-woo-kim-aura-ama-venezia",
@@ -112,7 +112,7 @@
         "Venue: AMA Venezia",
         "Location: Venezia"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Sang Woo Kim : AURA, group show at AMA Venezia,</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">13.02.2026 - 25.05.2026</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Sang Woo Kim in “Aura”, a group exhibition at AMA Venezia.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -129,11 +129,11 @@
       "starred": false,
       "publishOn": 1777374051512,
       "addedOn": 1777374051512,
-      "updatedOn": 1792144002787
+      "updatedOn": 1792151020562
     },
     {
       "id": "69f091e745d8ce2f2a1f4292",
-      "title": "Walter Robinson: “Let the Music Play” at Jeffrey Deitch NYC",
+      "title": "Walter Robinson: “Let the Music Play” at Jeffrey Deitch, New York",
       "fullUrl": "/all-news/walter-robinson-let-the-music-play-jeffrey-deitch",
       "sourceUrl": "https://deitch.com/new-york/exhibitions/walter-robinson-let-the-music-play",
       "urlId": "walter-robinson-let-the-music-play-jeffrey-deitch",
@@ -152,7 +152,7 @@
         "Venue: Jeffrey Deitch",
         "Location: New York, United States"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Walter Robinson: Let the Music Play at Jeffrey Deitch NYC</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">May 2–June 6, 2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Walter Robinson at Jeffrey Deitch in New York.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -169,7 +169,7 @@
       "starred": false,
       "publishOn": 1777373671396,
       "addedOn": 1777373671396,
-      "updatedOn": 1792150191674
+      "updatedOn": 1792151050484
     },
     {
       "id": "69a8416b1e144c4b8a8d5eaf",
@@ -192,7 +192,7 @@
         "Venue: Wizard Gallery",
         "Location: Milan, Italy"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Todd Bienvenu’s first solo-show with Wizard Gallery in Milano.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">10 March - 10 April 2026</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Todd Bienvenu’s first solo show with Wizard Gallery in Milan.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -209,11 +209,11 @@
       "starred": false,
       "publishOn": 1772635591650,
       "addedOn": 1772635591650,
-      "updatedOn": 1792150106795
+      "updatedOn": 1792151071769
     },
     {
       "id": "6992fd840ddd3266bb67eebc",
-      "title": "Le Sentiment de la Nature",
+      "title": "“Le Sentiment de la Nature”",
       "fullUrl": "/all-news/walter-robinson-le-sentiment-de-la-nature",
       "sourceUrl": "https://www.nmnm.mc/expositions/le-sentiment-de-la-nature/",
       "urlId": "walter-robinson-le-sentiment-de-la-nature",
@@ -232,7 +232,7 @@
         "Venue: Nouveau Musée National de Monaco",
         "Location: Monaco, Monaco"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A&nbsp;group exhibition with Walter&nbsp;Robinson at Nouveau Musée National de Monaco</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">13.02.2026 - 25.05.2026</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A group exhibition featuring Walter Robinson at the Nouveau Musée National de Monaco.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -249,11 +249,11 @@
       "starred": false,
       "publishOn": 1771241160143,
       "addedOn": 1771241160143,
-      "updatedOn": 1792150131426
+      "updatedOn": 1792151101891
     },
     {
       "id": "69a9a9d36bf99865c25aa7d6",
-      "title": "Mathis Gasser: Works at Galerie Oskar Weiss",
+      "title": "Mathis Gasser: “Works” at Galerie Oskar Weiss",
       "fullUrl": "/all-news/mathis-gasser-works-galerie-oskar-weiss",
       "sourceUrl": "https://oskarweiss.com/exhibitions/mathis-gasser-works-galerie-oskar-weiss",
       "urlId": "mathis-gasser-works-galerie-oskar-weiss",
@@ -272,7 +272,7 @@
         "Venue: Galerie Oskar Weiss",
         "Location: Zurich, Switzerland"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Mathis Gasser, <em>Works</em><br>Galerie Oskar Weiss</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">06 February –14 March 2026  </p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Mathis Gasser: “Works” at Galerie Oskar Weiss.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -289,7 +289,7 @@
       "starred": false,
       "publishOn": 1770393939699,
       "addedOn": 1770393939699,
-      "updatedOn": 1792150589305
+      "updatedOn": 1792151126579
     },
     {
       "id": "69a9ac6b646ac155cbb07265",
@@ -386,7 +386,7 @@
         "Venue: Herald St",
         "Location: London, United Kingdom"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Sang Woo Kim’s first solo-show with Herald St gallery in London.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">14 November 2024–1 February 2025</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Sang Woo Kim’s first solo show with Herald St in London.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -403,7 +403,7 @@
       "starred": false,
       "publishOn": 1734517339234,
       "addedOn": 1734517339234,
-      "updatedOn": 1792149895128
+      "updatedOn": 1792151144331
     },
     {
       "id": "66f536566d514067dcc5b3f2",
@@ -427,7 +427,7 @@
         "Venue: MAMCO",
         "Location: Geneva, Switzerland"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A&nbsp;group exhibition with Walter&nbsp;Robinson and Sang&nbsp;Woo&nbsp;Kim at&nbsp;MAMCO Geneva, Switzerland</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">3 September–22 December 2024</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A group exhibition featuring Walter Robinson and Sang Woo Kim at MAMCO in Geneva.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -444,11 +444,11 @@
       "starred": false,
       "publishOn": 1727347601381,
       "addedOn": 1727347601381,
-      "updatedOn": 1792145294793
+      "updatedOn": 1792151163358
     },
     {
       "id": "67629d5ff26db64b78490ee6",
-      "title": "Natalia González Martín “Table Manners”",
+      "title": "Natalia González Martín: “Table Manners”",
       "fullUrl": "/all-news/table-manners-natalia-gonzalez-martin-hannah-barry",
       "sourceUrl": "https://hannahbarry.com/exhibition/natalia-gonzalez-martin-table-manners-4-october-16-november",
       "urlId": "table-manners-natalia-gonzalez-martin-hannah-barry",
@@ -467,7 +467,7 @@
         "Venue: Hannah Barry Gallery",
         "Location: London, United Kingdom"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Natalia González Martín’s solo-show with Hannah Barry Gallery in London</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">4 October–16 November 2024</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Natalia González Martín’s solo show with Hannah Barry Gallery in London.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -484,7 +484,7 @@
       "starred": false,
       "publishOn": 1727168460521,
       "addedOn": 1727168460521,
-      "updatedOn": 1792149912300
+      "updatedOn": 1792151201416
     },
     {
       "id": "6659e0cf573eaf7632a04424",
@@ -507,7 +507,7 @@
         "Location: Shanghai",
         "Venue: Vacancy"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A&nbsp;solo show at Vacancy Gallery in Shanghai</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">21 May–22 June 2024</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show at Vacancy in Shanghai.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -524,7 +524,7 @@
       "starred": false,
       "publishOn": 1717339080345,
       "addedOn": 1717339080345,
-      "updatedOn": 1792149572415
+      "updatedOn": 1792151223052
     },
     {
       "id": "666c237ec6a48b737403af06",
@@ -565,7 +565,7 @@
     },
     {
       "id": "6659e3997c6bb222d6ea5153",
-      "title": "“Sans titre” a solo show by Han-Chiao at Guild Gallery in New York.",
+      "title": "Han-Chiao: “Sans titre” at Guild Gallery, New York",
       "fullUrl": "/all-news/han-chiao-r-w-guild-gallery-new-york",
       "sourceUrl": "",
       "urlId": "han-chiao-r-w-guild-gallery-new-york",
@@ -584,7 +584,7 @@
         "Location: New York, United States",
         "Exhibition date: 2024-05-02/2024-08-16"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Han-Chiao ’s solo-show with R. W. Guild Gallery in New York</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Han-Chiao’s solo show with Guild Gallery in New York.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -601,7 +601,7 @@
       "starred": false,
       "publishOn": 1717165800552,
       "addedOn": 1717165800552,
-      "updatedOn": 1792150676325
+      "updatedOn": 1792151253757
     },
     {
       "id": "6659d04a6e4ca16a7917ce4b",
@@ -624,7 +624,7 @@
         "Venue: Baldwin Gallery",
         "Location: Aspen, United States"
       ],
-      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Michael Hilsman’s first solo-show at Baldwin Gallery in Aspen</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">15 March–14 April 2024</p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Michael Hilsman’s first solo show at Baldwin Gallery in Aspen.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.71842596914111,
@@ -641,7 +641,7 @@
       "starred": false,
       "publishOn": 1717165426065,
       "addedOn": 1717165426065,
-      "updatedOn": 1792149982355
+      "updatedOn": 1792151271676
     },
     {
       "id": "6659ded63a6b851b8ddbdcdb",
@@ -893,7 +893,8 @@
         "Artist: Natalia González Martín",
         "Venue: Palazzo Monti",
         "Location: Brescia, Italy",
-        "Curator: Edoardo Monti"
+        "Curator: Edoardo Monti",
+        "Exhibition date: 2023-05-20/2023-06-18"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show by Natalia González Martín, curated by Edoardo Monti at Palazzo Monti, Brescia (IT)</p>",
       "location": {
@@ -912,7 +913,7 @@
       "starred": false,
       "publishOn": 1684771359698,
       "addedOn": 1684771359698,
-      "updatedOn": 1792144987537
+      "updatedOn": 1792150725656
     },
     {
       "id": "645cc4272a0abc36f3e1965e",
@@ -1009,7 +1010,8 @@
       "tags": [
         "Artist: Aks Misyuta",
         "Venue: Art: Concept",
-        "Location: Paris"
+        "Location: Paris",
+        "Exhibition date: 2023-04-01/2023-05-06"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Lazy Self Embrace a solo show by Aks Misyuta at gallery Art: Concept in Paris.</p>",
       "location": {
@@ -1028,7 +1030,7 @@
       "starred": false,
       "publishOn": 1680099494687,
       "addedOn": 1680099494687,
-      "updatedOn": 1792144714127
+      "updatedOn": 1792150744622
     },
     {
       "id": "63f638e4850694296d44e07a",
@@ -1205,7 +1207,8 @@
       "tags": [
         "Artist: Lydia Pettit",
         "Venue: Trafalgar Avenue",
-        "Location: Margate and London, United Kingdom"
+        "Location: Margate and London, United Kingdom",
+        "Exhibition date: 2022-09-09/2022-09-24"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Trafalgar Avenue presents GIALLO! an exhibition of new work by Lydia Pettit &amp; Scandebergs in Margate and London.</p>",
       "location": {
@@ -1224,7 +1227,7 @@
       "starred": false,
       "publishOn": 1662728880801,
       "addedOn": 1662728880801,
-      "updatedOn": 1792149929546
+      "updatedOn": 1792150777086
     },
     {
       "id": "6308b5278a34486ed1d53ba2",
@@ -1244,7 +1247,8 @@
       "tags": [
         "Artist: Aks Misyuta",
         "Venue: Rudolph Tegner Museum",
-        "Location: Dronningmølle, Denmark"
+        "Location: Dronningmølle, Denmark",
+        "Exhibition date: 2022-08-20/2022-10-23"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Heroic Bodies a group exhibition with Aks Misyuta at Rudolph Tegner Museum in Dronningmølle, Denmark </p>",
       "location": {
@@ -1263,7 +1267,7 @@
       "starred": false,
       "publishOn": 1661515047579,
       "addedOn": 1661515047579,
-      "updatedOn": 1792144356121
+      "updatedOn": 1792150818605
     },
     {
       "id": "62fcb2addc7f5b2a17d1128d",
@@ -1671,7 +1675,8 @@
       "tags": [
         "Artist: Lydia Pettit",
         "Location: Online",
-        "Venue: White Cube"
+        "Venue: White Cube",
+        "Exhibition date: 2022-01-28/2022-03-08"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">“Introductions” an online exhibition by Lydia Pettit at White Cube Gallery.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
       "location": {
@@ -1690,7 +1695,7 @@
       "starred": false,
       "publishOn": 1643369520668,
       "addedOn": 1643369520668,
-      "updatedOn": 1792149597583
+      "updatedOn": 1792150831400
     },
     {
       "id": "62ab46d45733cb3b9ffb0dde",
