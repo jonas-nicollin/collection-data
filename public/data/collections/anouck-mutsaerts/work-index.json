@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T14:37:55.743Z",
-  "sourceHash": "b321da887818ad26903b411e587c0048e7f9c95045157639741860667027ccad",
+  "updatedAt": "2026-10-16T14:47:57.230Z",
+  "sourceHash": "bfe0c6e7b2c239b44927b5a94d1aecbe52bd05c041b675a052ce52af5f924d6f",
   "count": 34,
   "pages": 1,
   "items": [
@@ -131,7 +131,11 @@
       "tags": [
         "Client: T Le Temps",
         "Photographer: Léon Prost",
-        "Year: 2024"
+        "Year: 2024",
+        "Publication: T Le Temps",
+        "Photographer: Joseph Molines",
+        "Set Design: Tristan Tilagone",
+        "Year: 2023"
       ],
       "excerpt": "",
       "location": {
@@ -149,7 +153,7 @@
       "starred": false,
       "publishOn": 1730734341998,
       "addedOn": 1730734341998,
-      "updatedOn": 1792153031206,
+      "updatedOn": 1792161559082,
       "media": [
         {
           "type": "image",
@@ -249,7 +253,7 @@
       "starred": true,
       "publishOn": 1721642720480,
       "addedOn": 1721642720480,
-      "updatedOn": 1792153173142,
+      "updatedOn": 1792161950720,
       "media": [
         {
           "type": "image",
@@ -484,11 +488,9 @@
       ],
       "tags": [
         "Client: T Le Temps",
-        "Photographer: AM+PM (Angèle Moraiz et Paul Mougeot)",
-        "Set Design: Camille Lichtenstern",
-        "Year: 2024",
-        "Photographer: Nicolas Polli",
-        "Year: 2023"
+        "Photographer: Matthieu Lavanchy",
+        "Set Design: Eleonora Succi",
+        "Year: 2022"
       ],
       "excerpt": "",
       "location": {
@@ -506,7 +508,7 @@
       "starred": true,
       "publishOn": 1713707229110,
       "addedOn": 1713707229110,
-      "updatedOn": 1792161465871,
+      "updatedOn": 1792162068299,
       "media": [
         {
           "type": "image",
@@ -743,9 +745,9 @@
       ],
       "tags": [
         "Client: T Le Temps",
-        "Photographer: Paul Lepreux",
-        "Set Design: Haruna Ogata",
-        "Year: 2021"
+        "Photographer: Léonard Méchineau",
+        "Set Design: Laszlo Badet",
+        "Year: 2023"
       ],
       "excerpt": "",
       "location": {
@@ -763,7 +765,7 @@
       "starred": true,
       "publishOn": 1707061853801,
       "addedOn": 1707061853801,
-      "updatedOn": 1792161427376,
+      "updatedOn": 1792161992128,
       "media": [
         {
           "type": "image",
@@ -950,7 +952,14 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Betina Du Toit",
+        "Makeup: Kathy Lesant",
+        "Hair: Sebastien Bascle",
+        "Casting: V&Y Casting",
+        "Year: 2023"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -967,7 +976,7 @@
       "starred": true,
       "publishOn": 1706621870725,
       "addedOn": 1706621870725,
-      "updatedOn": 1707308695036,
+      "updatedOn": 1792161728338,
       "media": [
         {
           "type": "image",
@@ -999,9 +1008,9 @@
       ],
       "tags": [
         "Client: T Le Temps",
-        "Photographer: Philippe Jarrigeon",
-        "Set Design: Dorothée Baussan",
-        "Year: 2021"
+        "Year: 2021",
+        "Photographer: Paul Lepreux",
+        "Set Design: Haruna Ogata"
       ],
       "excerpt": null,
       "location": {
@@ -1019,7 +1028,7 @@
       "starred": true,
       "publishOn": 1706544423545,
       "addedOn": 1706544423545,
-      "updatedOn": 1792161446998,
+      "updatedOn": 1792161998713,
       "media": [
         {
           "type": "image",
@@ -1049,7 +1058,11 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Nicolas Polli",
+        "Year: 2023"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -1066,7 +1079,7 @@
       "starred": true,
       "publishOn": 1706544035780,
       "addedOn": 1706544035780,
-      "updatedOn": 1706795942313,
+      "updatedOn": 1792161673063,
       "media": [
         {
           "type": "image",
@@ -1145,9 +1158,9 @@
       ],
       "tags": [
         "Client: T Le Temps",
-        "Photographer: Léonard Méchineau",
-        "Set Design: Laszlo Badet",
-        "Year: 2023"
+        "Photographer: Philippe Jarrigeon",
+        "Set Design: Dorothée Baussan",
+        "Year: 2021"
       ],
       "excerpt": "",
       "location": {
@@ -1165,7 +1178,7 @@
       "starred": true,
       "publishOn": 1706540215080,
       "addedOn": 1706540215080,
-      "updatedOn": 1792161421603,
+      "updatedOn": 1792161958117,
       "media": [
         {
           "type": "image",
@@ -1196,7 +1209,13 @@
         "Creative direction",
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Felix Dol Maillot",
+        "Casting: Cheyma Ha",
+        "Production: Koma Prod",
+        "Year: 2022"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -1213,7 +1232,7 @@
       "starred": true,
       "publishOn": 1706538037747,
       "addedOn": 1706538037747,
-      "updatedOn": 1792142973525,
+      "updatedOn": 1792162061295,
       "media": [
         {
           "type": "image",
@@ -1299,9 +1318,9 @@
       ],
       "tags": [
         "Client: T Le Temps",
-        "Photographer: Matthieu Lavanchy",
-        "Set Design: Eleonora Succi",
-        "Year: 2022"
+        "Photographer: AM+PM (Angèle Moraiz et Paul Mougeot)",
+        "Set Design: Camille Lichtenstern",
+        "Year: 2024"
       ],
       "excerpt": "",
       "location": {
@@ -1319,7 +1338,7 @@
       "starred": true,
       "publishOn": 1706532739657,
       "addedOn": 1706532739657,
-      "updatedOn": 1792161471780,
+      "updatedOn": 1792162033069,
       "media": [
         {
           "type": "image",
@@ -1350,7 +1369,12 @@
         "Creative direction",
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Charles Negre",
+        "Casting: Ikki Casting",
+        "Year: 2021"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -1367,7 +1391,7 @@
       "starred": true,
       "publishOn": 1706532126104,
       "addedOn": 1706532126104,
-      "updatedOn": 1730736889346,
+      "updatedOn": 1792161923566,
       "media": [
         {
           "type": "image",
@@ -1399,7 +1423,11 @@
         "Styling"
       ],
       "tags": [
-        "Joseph Molines"
+        "Joseph Molines",
+        "Publication: T Le Temps",
+        "Photographer: Charly Gosp",
+        "Set Design: Anna Piasek",
+        "Year: 2022"
       ],
       "excerpt": null,
       "location": {
@@ -1417,7 +1445,7 @@
       "starred": true,
       "publishOn": 1706199120884,
       "addedOn": 1706199120884,
-      "updatedOn": 1792137865638,
+      "updatedOn": 1792161574472,
       "media": [
         {
           "type": "image",
@@ -1449,7 +1477,10 @@
         "Styling"
       ],
       "tags": [
-        "Guillaume Blondiau"
+        "Publication: T Le Temps",
+        "Photographer: Guillaume Blondiau",
+        "Set Design: Pierre Vaillant",
+        "Year: 2023"
       ],
       "excerpt": "",
       "location": {
@@ -1467,7 +1498,7 @@
       "starred": false,
       "publishOn": 1706198794622,
       "addedOn": 1706198794622,
-      "updatedOn": 1730736867588,
+      "updatedOn": 1792161820533,
       "media": [
         {
           "type": "image",
@@ -1497,7 +1528,12 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: AM+PM",
+        "Set Design: Pierre Vaillant",
+        "Year: 2021"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -1514,7 +1550,7 @@
       "starred": false,
       "publishOn": 1706197496622,
       "addedOn": 1706197496622,
-      "updatedOn": 1707497454053,
+      "updatedOn": 1792161553120,
       "media": [
         {
           "type": "image",
