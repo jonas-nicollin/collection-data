@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T14:27:56.635Z",
-  "sourceHash": "10fbc0a1d73f999859a979ca7022e1ceb222407e9e1e32d3f2566ac4b1de418b",
+  "updatedAt": "2026-10-16T14:37:55.743Z",
+  "sourceHash": "b321da887818ad26903b411e587c0048e7f9c95045157639741860667027ccad",
   "count": 34,
   "pages": 1,
   "items": [
@@ -482,7 +482,14 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: AM+PM (Angèle Moraiz et Paul Mougeot)",
+        "Set Design: Camille Lichtenstern",
+        "Year: 2024",
+        "Photographer: Nicolas Polli",
+        "Year: 2023"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -499,7 +506,7 @@
       "starred": true,
       "publishOn": 1713707229110,
       "addedOn": 1713707229110,
-      "updatedOn": 1792137509867,
+      "updatedOn": 1792161465871,
       "media": [
         {
           "type": "image",
@@ -529,7 +536,10 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: Loewe",
+        "Photographer: Alicia Dubuis"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -546,7 +556,7 @@
       "starred": true,
       "publishOn": 1713706813515,
       "addedOn": 1713706813515,
-      "updatedOn": 1792137537711,
+      "updatedOn": 1792160885309,
       "media": [
         {
           "type": "image",
@@ -576,7 +586,10 @@
       "categories": [
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: Comptoir des Cotonniers",
+        "Season: SS24"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -593,7 +606,7 @@
       "starred": true,
       "publishOn": 1712047565496,
       "addedOn": 1712047565496,
-      "updatedOn": 1792143020770,
+      "updatedOn": 1792161149170,
       "media": [
         {
           "type": "image",
@@ -623,7 +636,14 @@
       "categories": [
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Charles Negre",
+        "Hair: Rimi Ura",
+        "Makeup: Céline Exbrayat",
+        "Set Design: Sophear",
+        "Year: 2024"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -640,7 +660,7 @@
       "starred": true,
       "publishOn": 1711099890688,
       "addedOn": 1711099890688,
-      "updatedOn": 1792137589126,
+      "updatedOn": 1792161170335,
       "media": [
         {
           "type": "image",
@@ -670,7 +690,11 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: Sarah Madeleine Bru",
+        "Photographer: Alicia Dubuis",
+        "Year: 2024"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -687,7 +711,7 @@
       "starred": true,
       "publishOn": 1709891361481,
       "addedOn": 1709891361481,
-      "updatedOn": 1714647997853,
+      "updatedOn": 1792161232097,
       "media": [
         {
           "type": "image",
@@ -717,7 +741,12 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Paul Lepreux",
+        "Set Design: Haruna Ogata",
+        "Year: 2021"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -734,7 +763,7 @@
       "starred": true,
       "publishOn": 1707061853801,
       "addedOn": 1707061853801,
-      "updatedOn": 1792137616450,
+      "updatedOn": 1792161427376,
       "media": [
         {
           "type": "image",
@@ -764,7 +793,11 @@
       "categories": [
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: Princesse Tam Tam",
+        "Photographer: Yoann et Marco",
+        "Year: 2023"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -781,7 +814,7 @@
       "starred": true,
       "publishOn": 1706797750023,
       "addedOn": 1706797750023,
-      "updatedOn": 1707308524530,
+      "updatedOn": 1792161234894,
       "media": [
         {
           "type": "image",
@@ -812,7 +845,13 @@
         "Creative direction",
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Clara Nebeling",
+        "Casting: Cheyma Ha",
+        "Production: Koma Prod",
+        "Year: 2023"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -829,7 +868,7 @@
       "starred": true,
       "publishOn": 1706796885084,
       "addedOn": 1706796885084,
-      "updatedOn": 1792137647273,
+      "updatedOn": 1792161295147,
       "media": [
         {
           "type": "image",
@@ -859,7 +898,12 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: Emmanuelle Khanh",
+        "Photographer: Clémentine Passet",
+        "Season: AW23/24",
+        "Year: 2023"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -876,7 +920,7 @@
       "starred": true,
       "publishOn": 1706796728365,
       "addedOn": 1706796728365,
-      "updatedOn": 1707497321520,
+      "updatedOn": 1792161312626,
       "media": [
         {
           "type": "image",
@@ -953,7 +997,12 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Philippe Jarrigeon",
+        "Set Design: Dorothée Baussan",
+        "Year: 2021"
+      ],
       "excerpt": null,
       "location": {
         "mapZoom": 12,
@@ -970,7 +1019,7 @@
       "starred": true,
       "publishOn": 1706544423545,
       "addedOn": 1706544423545,
-      "updatedOn": 1792137715856,
+      "updatedOn": 1792161446998,
       "media": [
         {
           "type": "image",
@@ -1094,7 +1143,12 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Léonard Méchineau",
+        "Set Design: Laszlo Badet",
+        "Year: 2023"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -1111,7 +1165,7 @@
       "starred": true,
       "publishOn": 1706540215080,
       "addedOn": 1706540215080,
-      "updatedOn": 1706796005689,
+      "updatedOn": 1792161421603,
       "media": [
         {
           "type": "image",
@@ -1190,7 +1244,12 @@
         "Creative direction",
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Louis de Roffignac",
+        "Grooming: Cyril Laine",
+        "Year: 2023"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -1207,7 +1266,7 @@
       "starred": true,
       "publishOn": 1706537386883,
       "addedOn": 1706537386883,
-      "updatedOn": 1730736897380,
+      "updatedOn": 1792161320601,
       "media": [
         {
           "type": "image",
@@ -1238,7 +1297,12 @@
         "Creative direction",
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Matthieu Lavanchy",
+        "Set Design: Eleonora Succi",
+        "Year: 2022"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -1255,7 +1319,7 @@
       "starred": true,
       "publishOn": 1706532739657,
       "addedOn": 1706532739657,
-      "updatedOn": 1792142946426,
+      "updatedOn": 1792161471780,
       "media": [
         {
           "type": "image",
@@ -1481,8 +1545,10 @@
         "Styling"
       ],
       "tags": [
-        "Bruce Weber",
-        "Steven Meisel"
+        "Steven Meisel",
+        "Client: Comptoir des Cotonniers",
+        "Photographer: Melissa de Araujo",
+        "Year: 2023"
       ],
       "excerpt": "",
       "location": {
@@ -1500,7 +1566,7 @@
       "starred": false,
       "publishOn": 1706190461700,
       "addedOn": 1706190461700,
-      "updatedOn": 1792137897281,
+      "updatedOn": 1792161346264,
       "media": [
         {
           "type": "image",
@@ -1531,8 +1597,9 @@
         "Styling"
       ],
       "tags": [
-        "Anthony Seklaoui",
-        "David Sims"
+        "Client: Princesse Tam Tam",
+        "Photographer: Yoann et Marco",
+        "Year: 2023"
       ],
       "excerpt": "",
       "location": {
@@ -1550,7 +1617,7 @@
       "starred": false,
       "publishOn": 1706182969311,
       "addedOn": 1706182969311,
-      "updatedOn": 1792137919587,
+      "updatedOn": 1792161370205,
       "media": [
         {
           "type": "image",
@@ -1581,7 +1648,10 @@
         "Styling"
       ],
       "tags": [
-        "Photographer"
+        "Client: On Running",
+        "Photographer: Lukas Wassmann",
+        "Production: Studio Voile",
+        "Year: 2022"
       ],
       "excerpt": "",
       "location": {
@@ -1599,7 +1669,7 @@
       "starred": true,
       "publishOn": 1705075527959,
       "addedOn": 1705075527959,
-      "updatedOn": 1792137935745,
+      "updatedOn": 1792161377263,
       "media": [
         {
           "type": "video",
@@ -1647,7 +1717,14 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Pierre Emmanuel Testard",
+        "Grooming: Cyril Laine",
+        "Casting: Cheyma Ma",
+        "Production: Koma Prod",
+        "Year: 2023"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -1664,7 +1741,7 @@
       "starred": false,
       "publishOn": 1705059625182,
       "addedOn": 1705059625182,
-      "updatedOn": 1792142993509,
+      "updatedOn": 1792161394366,
       "media": [
         {
           "type": "image",

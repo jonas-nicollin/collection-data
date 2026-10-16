@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-16T14:27:56.635Z",
+  "updatedAt": "2026-10-16T14:37:55.743Z",
   "files": {
     "anouck-mutsaerts/work-index.json": {
-      "sourceHash": "10fbc0a1d73f999859a979ca7022e1ceb222407e9e1e32d3f2566ac4b1de418b",
-      "updatedAt": "2026-10-16T14:27:56.635Z",
+      "sourceHash": "b321da887818ad26903b411e587c0048e7f9c95045157639741860667027ccad",
+      "updatedAt": "2026-10-16T14:37:55.743Z",
       "count": 34,
       "pages": 1
     },
