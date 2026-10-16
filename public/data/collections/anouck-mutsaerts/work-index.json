@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T09:37:56.179Z",
-  "sourceHash": "f9ad8e1eca4b763a06d6ac6c61d6ee38a76dc66b7af81eff9df6f05c89961e21",
+  "updatedAt": "2026-10-16T12:17:56.329Z",
+  "sourceHash": "8e4cf4dceb551c317f0973c0610a1a09fe0bda8c0c19e5bcebf7b371c8c28b69",
   "count": 34,
   "pages": 1,
   "items": [
@@ -14,7 +14,7 @@
       "id": "6728ef4d9c43d834c1e813af",
       "title": "T Le Temps Music",
       "fullUrl": "/work-index/t-le-temps-music",
-      "sourceUrl": "/works/aliciadubuis2",
+      "sourceUrl": "/works/t-le-temps-music-2024-alicia-dubuis",
       "urlId": "t-le-temps-music",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730735968945-9WGHXJ66HAC0YHF7LKF6/TLETEMPS_Hifi_Int%C3%A9rieur_4.jpg",
       "mediaFocalPoint": {
@@ -25,7 +25,11 @@
       "categories": [
         "Creative direction"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Alicia Dubuis",
+        "Year: 2024"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -42,7 +46,7 @@
       "starred": false,
       "publishOn": 1730735957987,
       "addedOn": 1730735957987,
-      "updatedOn": 1792137289424,
+      "updatedOn": 1792152789261,
       "media": [
         {
           "type": "image",
@@ -60,9 +64,9 @@
     {
       "id": "6728eb6c752b11324f766f3a",
       "title": "T Le Temps HEAD",
-      "fullUrl": "/work-index/t-le-temps-head",
-      "sourceUrl": "/works/marinegiraudo",
-      "urlId": "t-le-temps-head",
+      "fullUrl": "/work-index/t-le-temps-head-2024-marine-giraudo",
+      "sourceUrl": "/works/t-le-temps-head-2024-marine-giraudo",
+      "urlId": "t-le-temps-head-2024-marine-giraudo",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730735084412-G75IPFD9IHM9NCG7OHKP/IMG_4948.JPG",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -73,7 +77,11 @@
         "Creative direction",
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Marine Giraudo",
+        "Year: 2024"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -90,7 +98,7 @@
       "starred": false,
       "publishOn": 1730734955894,
       "addedOn": 1730734955894,
-      "updatedOn": 1792137334359,
+      "updatedOn": 1792152932749,
       "media": [
         {
           "type": "image",
@@ -108,9 +116,9 @@
     {
       "id": "6728e90608f967107a88c2c2",
       "title": "T Le Temps Accessories",
-      "fullUrl": "/work-index/leonprost",
-      "sourceUrl": "/works/leonprost",
-      "urlId": "leonprost",
+      "fullUrl": "/work-index/t-le-temps-accessories-2024-leon-prost",
+      "sourceUrl": "/works/t-le-temps-accessories-2024-leon-prost",
+      "urlId": "t-le-temps-accessories-2024-leon-prost",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730734381111-MFOPA0Y6GE0OXNGZYK9B/B008883-R1-05-6+3FINAL.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -120,7 +128,11 @@
       "categories": [
         "Styling"
       ],
-      "tags": [],
+      "tags": [
+        "Client: T Le Temps",
+        "Photographer: Léon Prost",
+        "Year: 2024"
+      ],
       "excerpt": "",
       "location": {
         "mapZoom": 12,
@@ -137,7 +149,7 @@
       "starred": false,
       "publishOn": 1730734341998,
       "addedOn": 1730734341998,
-      "updatedOn": 1792137357907,
+      "updatedOn": 1792153031206,
       "media": [
         {
           "type": "image",
