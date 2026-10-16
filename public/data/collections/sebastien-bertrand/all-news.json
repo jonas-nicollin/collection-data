@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-16T11:58:05.129Z",
-  "sourceHash": "3fea1105711d4a0bdda8bd9ec72566b6441157958a3d8fd9c452d472cfcef905",
+  "updatedAt": "2026-10-16T13:58:04.581Z",
+  "sourceHash": "6f0baf5b70e8bd2c94f61543437663fe7c8233f2819ddd47720ae7400fb3d427",
   "count": 47,
   "pages": 3,
   "items": [
@@ -110,7 +110,7 @@
         "Artist: Sang Woo Kim",
         "Exhibition date: 2026-02-13/2026-05-25",
         "Venue: AMA Venezia",
-        "Location: Venezia"
+        "Location: Venice, Italy"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Sang Woo Kim in “Aura”, a group exhibition at AMA Venezia.</p>",
       "location": {
@@ -129,7 +129,7 @@
       "starred": false,
       "publishOn": 1777374051512,
       "addedOn": 1777374051512,
-      "updatedOn": 1792151020562
+      "updatedOn": 1792158709193
     },
     {
       "id": "69f091e745d8ce2f2a1f4292",
@@ -504,8 +504,8 @@
       "tags": [
         "Artist: Natalia González Martín",
         "Exhibition date: 2024-05-21/2024-06-22",
-        "Location: Shanghai",
-        "Venue: Vacancy"
+        "Venue: Vacancy",
+        "Location: Shanghai, China"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show at Vacancy in Shanghai.</p>",
       "location": {
@@ -524,7 +524,7 @@
       "starred": false,
       "publishOn": 1717339080345,
       "addedOn": 1717339080345,
-      "updatedOn": 1792151223052
+      "updatedOn": 1792158739816
     },
     {
       "id": "666c237ec6a48b737403af06",
@@ -702,7 +702,7 @@
         "Artist: Tali Lennox",
         "Exhibition date: 2024-02-26/2024-04-06",
         "Venue: Nicodim",
-        "Los Angeles, United States"
+        "Location: Los Angeles, United States"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Tali Lennox’s first solo show at Nicodim in Los Angeles.</p>",
       "location": {
@@ -721,7 +721,7 @@
       "starred": false,
       "publishOn": 1709898352628,
       "addedOn": 1709898352628,
-      "updatedOn": 1792151316116
+      "updatedOn": 1792158763845
     },
     {
       "id": "65c3af00dd130065658f57e3",
@@ -971,7 +971,7 @@
         "Artist: Michael Hilsman",
         "Exhibition date: 2023-03-25/2023-04-29",
         "Venue: VSF",
-        "Los Angeles, United States"
+        "Location: Los Angeles, United States"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Michael Hilsman’s first solo show at VSF in Los Angeles.</p>",
       "location": {
@@ -990,7 +990,7 @@
       "starred": false,
       "publishOn": 1682949120287,
       "addedOn": 1682949120287,
-      "updatedOn": 1792151401747
+      "updatedOn": 1792158787535
     },
     {
       "id": "6424469b4163cc6219275f06",
@@ -1010,8 +1010,8 @@
       "tags": [
         "Artist: Aks Misyuta",
         "Venue: Art: Concept",
-        "Location: Paris",
-        "Exhibition date: 2023-04-01/2023-05-06"
+        "Exhibition date: 2023-04-01/2023-05-06",
+        "Location: Paris, France"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aks Misyuta’s first solo show at Art: Concept in Paris.</p>",
       "location": {
@@ -1030,7 +1030,7 @@
       "starred": false,
       "publishOn": 1680099494687,
       "addedOn": 1680099494687,
-      "updatedOn": 1792151549734
+      "updatedOn": 1792158807116
     },
     {
       "id": "63f638e4850694296d44e07a",
@@ -1090,8 +1090,8 @@
       "tags": [
         "Artist: Joe Andoe",
         "Exhibition date: 2023-02-23/2023-03-18",
-        "Location: Paris",
-        "Venue: Almine Rech"
+        "Venue: Almine Rech",
+        "Location: Paris, France"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Joe Andoe’s fifth solo show at Almine Rech in Paris.</p>",
       "location": {
@@ -1110,7 +1110,7 @@
       "starred": false,
       "publishOn": 1677079796527,
       "addedOn": 1677079796527,
-      "updatedOn": 1792151598066
+      "updatedOn": 1792158828061
     },
     {
       "id": "637cf8426e283a6221fd1334",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "62ac77bbdd894a09c3414155",
-      "title": "Walter Robinson: “Escape to Adventure” ",
+      "title": "Walter Robinson: “Escape to Adventure”",
       "fullUrl": "/all-news/escape-to-adventure-walter-robinson",
       "sourceUrl": "https://www.cjamesgallery.com/exhibitions/walter-robinson-escape-to-adventure",
       "urlId": "escape-to-adventure-walter-robinson",
@@ -1384,7 +1384,7 @@
       "starred": false,
       "publishOn": 1654951560027,
       "addedOn": 1654951560027,
-      "updatedOn": 1792151732660
+      "updatedOn": 1792158928647
     },
     {
       "id": "62ab4fde6331206db1ca562d",
@@ -1444,8 +1444,8 @@
       "tags": [
         "Artist: Joe Andoe",
         "Exhibition date: 2022-07-27/2022-08-05",
-        "Location: Shanghai",
-        "Venue: Almine Rech"
+        "Venue: Almine Rech",
+        "Location: Shanghai, China"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Joe Andoe at Almine Rech in Shanghai.</p>",
       "location": {
@@ -1464,7 +1464,7 @@
       "starred": false,
       "publishOn": 1653041160876,
       "addedOn": 1653041160876,
-      "updatedOn": 1792151783464
+      "updatedOn": 1792158853270
     },
     {
       "id": "6238837cb8456f24b6c88192",
@@ -1598,8 +1598,8 @@
       "tags": [
         "Artist: Michael Hilsman",
         "Exhibition date: 2022-02-24/2022-04-02",
-        "Location: Paris",
-        "Venue: Almine Rech"
+        "Venue: Almine Rech",
+        "Location: Paris, France"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Michael Hilsman at Almine Rech in Paris.</p>",
       "location": {
@@ -1618,7 +1618,7 @@
       "starred": false,
       "publishOn": 1645716120598,
       "addedOn": 1645716120598,
-      "updatedOn": 1792151826578
+      "updatedOn": 1792158875027
     },
     {
       "id": "630ddb9a41a8de08ad47e383",
