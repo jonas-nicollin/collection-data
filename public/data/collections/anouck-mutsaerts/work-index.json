@@ -5,14 +5,14 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-14T13:47:57.156Z",
-  "sourceHash": "2013d86f696cb454ce5d68122b1c8d2afe2b146db3e12c6255aa35e3aecb8e61",
+  "updatedAt": "2026-10-16T07:57:58.693Z",
+  "sourceHash": "aa0c9be33b8a7c82d55e9aab9bc1e04a69954251cfb9901c8dd1dae490a75f21",
   "count": 34,
   "pages": 1,
   "items": [
     {
       "id": "6728ef4d9c43d834c1e813af",
-      "title": "T le Temps Music",
+      "title": "T Le Temps Music",
       "fullUrl": "/work-index/t-le-temps-music",
       "sourceUrl": "/works/aliciadubuis2",
       "urlId": "t-le-temps-music",
@@ -42,7 +42,7 @@
       "starred": false,
       "publishOn": 1730735957987,
       "addedOn": 1730735957987,
-      "updatedOn": 1791982594849,
+      "updatedOn": 1792137289424,
       "media": [
         {
           "type": "image",
@@ -52,14 +52,14 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T le Temps Music"
+          "title": "T Le Temps Music"
         }
       ],
       "sourceType": "index"
     },
     {
       "id": "6728eb6c752b11324f766f3a",
-      "title": "T le Temps HEAD ",
+      "title": "T Le Temps HEAD",
       "fullUrl": "/work-index/t-le-temps-head",
       "sourceUrl": "/works/marinegiraudo",
       "urlId": "t-le-temps-head",
@@ -90,7 +90,7 @@
       "starred": false,
       "publishOn": 1730734955894,
       "addedOn": 1730734955894,
-      "updatedOn": 1791982764851,
+      "updatedOn": 1792137334359,
       "media": [
         {
           "type": "image",
@@ -100,14 +100,14 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T le Temps HEAD "
+          "title": "T Le Temps HEAD"
         }
       ],
       "sourceType": "index"
     },
     {
       "id": "6728e90608f967107a88c2c2",
-      "title": "T le Temps Accessories",
+      "title": "T Le Temps Accessories",
       "fullUrl": "/work-index/leonprost",
       "sourceUrl": "/works/leonprost",
       "urlId": "leonprost",
@@ -137,7 +137,7 @@
       "starred": false,
       "publishOn": 1730734341998,
       "addedOn": 1730734341998,
-      "updatedOn": 1791982666875,
+      "updatedOn": 1792137357907,
       "media": [
         {
           "type": "image",
@@ -147,7 +147,7 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T le Temps Accessories"
+          "title": "T Le Temps Accessories"
         }
       ],
       "sourceType": "index"
@@ -201,7 +201,7 @@
     },
     {
       "id": "669e2ee0df917e6a477ae017",
-      "title": "T le Temps High Jewelry ",
+      "title": "T Le Temps High Jewelry",
       "fullUrl": "/work-index/jonasmarguet",
       "sourceUrl": "/works/jonasmarguet",
       "urlId": "jonasmarguet",
@@ -233,7 +233,7 @@
       "starred": true,
       "publishOn": 1721642720480,
       "addedOn": 1721642720480,
-      "updatedOn": 1791982721538,
+      "updatedOn": 1792137382270,
       "media": [
         {
           "type": "image",
@@ -243,7 +243,7 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T le Temps High Jewelry "
+          "title": "T Le Temps High Jewelry"
         }
       ],
       "sourceType": "index"
@@ -297,7 +297,7 @@
     },
     {
       "id": "6638c59a8e503e0a34db30ad",
-      "title": "Byredo ",
+      "title": "Byredo",
       "fullUrl": "/work-index/modele-dtms7-ga65h-etgax",
       "sourceUrl": "/works/byredo",
       "urlId": "modele-dtms7-ga65h-etgax",
@@ -328,7 +328,7 @@
       "starred": true,
       "publishOn": 1714996817804,
       "addedOn": 1714996817804,
-      "updatedOn": 1721642099934,
+      "updatedOn": 1792137408464,
       "media": [
         {
           "type": "image",
@@ -338,14 +338,14 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "Byredo "
+          "title": "Byredo"
         }
       ],
       "sourceType": "index"
     },
     {
       "id": "66251d8e6b42822c0bb990f8",
-      "title": "T le Temps - Sneakers ",
+      "title": "T Le Temps – Sneakers",
       "fullUrl": "/work-index/modele-dtms7-ga65h",
       "sourceUrl": "/works/sneakers",
       "urlId": "modele-dtms7-ga65h",
@@ -376,7 +376,7 @@
       "starred": true,
       "publishOn": 1713708430011,
       "addedOn": 1713708430011,
-      "updatedOn": 1721398829333,
+      "updatedOn": 1792137432383,
       "media": [
         {
           "type": "image",
@@ -386,7 +386,7 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T le Temps - Sneakers "
+          "title": "T Le Temps – Sneakers"
         }
       ],
       "sourceType": "index"
@@ -440,7 +440,7 @@
     },
     {
       "id": "662518dde2542b7b45c823aa",
-      "title": "T le Temps Watches",
+      "title": "T Le Temps Watches",
       "fullUrl": "/work-index/t-le-temps-watches-2",
       "sourceUrl": "/works/t-le-temps-watches-2",
       "urlId": "t-le-temps-watches-2",
@@ -470,7 +470,7 @@
       "starred": true,
       "publishOn": 1713707229110,
       "addedOn": 1713707229110,
-      "updatedOn": 1714648208383,
+      "updatedOn": 1792137460295,
       "media": [
         {
           "type": "image",
@@ -480,7 +480,7 @@
             "y": 0.5,
             "source": 3
           },
-          "title": "T le Temps Watches"
+          "title": "T Le Temps Watches"
         }
       ],
       "sourceType": "index"
