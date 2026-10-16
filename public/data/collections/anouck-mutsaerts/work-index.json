@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T15:57:53.287Z",
-  "sourceHash": "7a04caa05ab9153cd8c5bf93fc7d813103059e94a7099ba2e529f3969bba0d11",
+  "updatedAt": "2026-10-16T16:07:53.932Z",
+  "sourceHash": "ea770c9d7bd1ea61a65d3e58b14f83a8447ae26249cf2c5fd3e73e32c2a452b3",
   "count": 34,
   "pages": 1,
   "items": [
@@ -1303,9 +1303,9 @@
     {
       "id": "65b79f838ef52226d5bee387",
       "title": "T Le Temps Watches",
-      "fullUrl": "/work-index/t-le-temps-a-watch-story-with-felix-dol-maillot",
-      "sourceUrl": "/works/t-le-temps-a-watch-story-with-felix-dol-maillot",
-      "urlId": "t-le-temps-a-watch-story-with-felix-dol-maillot",
+      "fullUrl": "/work-index/t-le-temps-watches-2022-felix-dol-maillot",
+      "sourceUrl": "/works/t-le-temps-watches-2022-felix-dol-maillot",
+      "urlId": "t-le-temps-watches-2022-felix-dol-maillot",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706532796974-JUQMYLHK1ELWAUJXFZGQ/Anouck-Mutsaerts-T-Le-Temps-A-Watch-Story-with-Felix-Dol-Maillot-01.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1339,7 +1339,7 @@
       "starred": true,
       "publishOn": 1706532739657,
       "addedOn": 1706532739657,
-      "updatedOn": 1792162330086,
+      "updatedOn": 1792166290886,
       "media": [
         {
           "type": "image",
@@ -1357,9 +1357,9 @@
     {
       "id": "65b79ca38ef52226d5be5090",
       "title": "T Le Temps High Jewelry",
-      "fullUrl": "/work-index/t-le-temps-a-high-jewelry-story-with-charles-negre",
-      "sourceUrl": "/works/t-le-temps-a-high-jewelry-story-with-charles-negre",
-      "urlId": "t-le-temps-a-high-jewelry-story-with-charles-negre",
+      "fullUrl": "/work-index/t-le-temps-high-jewelry-2021-charles-negre",
+      "sourceUrl": "/works/t-le-temps-high-jewelry-2021-charles-negre",
+      "urlId": "t-le-temps-high-jewelry-2021-charles-negre",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706532020412-HRE98WA5UOOX8Y2449Y1/Anouck-Mutsaerts-T-Le-Temps-A-High-Jewelry-Story-with-Charles-Negre-01.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1392,7 +1392,7 @@
       "starred": true,
       "publishOn": 1706532126104,
       "addedOn": 1706532126104,
-      "updatedOn": 1792161923566,
+      "updatedOn": 1792166299098,
       "media": [
         {
           "type": "image",
@@ -1410,9 +1410,9 @@
     {
       "id": "659ea10fb05b1955b05c1c6a",
       "title": "T Le Temps Accessories",
-      "fullUrl": "/work-index/t-le-temps-an-accessory-story",
-      "sourceUrl": "/works/josephmolines",
-      "urlId": "t-le-temps-an-accessory-story",
+      "fullUrl": "/work-index/t-le-temps-accessories-2023-joseph-molines",
+      "sourceUrl": "/works/t-le-temps-accessories-2023-joseph-molines",
+      "urlId": "t-le-temps-accessories-2023-joseph-molines",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706195919071-TR90P79LDNYYCX73IVQ7/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-02.jpg",
       "mediaFocalPoint": {
         "x": 0.5246603387306905,
@@ -1445,7 +1445,7 @@
       "starred": true,
       "publishOn": 1706199120884,
       "addedOn": 1706199120884,
-      "updatedOn": 1792162135066,
+      "updatedOn": 1792166307297,
       "media": [
         {
           "type": "image",
@@ -1463,9 +1463,9 @@
     {
       "id": "65b2870a6d1de821cab6e942",
       "title": "T Le Temps High Jewelry",
-      "fullUrl": "/work-index/t-le-temps-a-high-jewelry-story-with-guillaume-blondiau",
-      "sourceUrl": "/works/t-le-temps-a-high-jewelry-story-with-guillaume-blondiau",
-      "urlId": "t-le-temps-a-high-jewelry-story-with-guillaume-blondiau",
+      "fullUrl": "/work-index/t-le-temps-high-jewelry-2023-guillaume-blondiau",
+      "sourceUrl": "/works/t-le-temps-high-jewelry-2023-guillaume-blondiau",
+      "urlId": "t-le-temps-high-jewelry-2023-guillaume-blondiau",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706198747869-W2A6N26823XUF7CX6U5C/Anouck-Mutsaerts-T-Le-Temps-A-High-Jewelry-Story-with-Guillaume-Blondiau-05.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1498,7 +1498,7 @@
       "starred": false,
       "publishOn": 1706198794622,
       "addedOn": 1706198794622,
-      "updatedOn": 1792161820533,
+      "updatedOn": 1792166325472,
       "media": [
         {
           "type": "image",
@@ -1516,9 +1516,9 @@
     {
       "id": "65b281d36d1de821cab55acd",
       "title": "T Le Temps Accessories",
-      "fullUrl": "/work-index/t-le-temps-an-accessory-story-with-charly-gosp",
-      "sourceUrl": "/works/t-le-temps-an-accessory-story-with-charly-gosp",
-      "urlId": "t-le-temps-an-accessory-story-with-charly-gosp",
+      "fullUrl": "/work-index/t-le-temps-accessories-2022-charly-gosp",
+      "sourceUrl": "/works/t-le-temps-accessories-2022-charly-gosp",
+      "urlId": "t-le-temps-accessories-2022-charly-gosp",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706197510938-PN9I3X5940FI5FY5ZGN4/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-with-Charly-Gosp-01.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1550,7 +1550,7 @@
       "starred": false,
       "publishOn": 1706197496622,
       "addedOn": 1706197496622,
-      "updatedOn": 1792162100202,
+      "updatedOn": 1792166332079,
       "media": [
         {
           "type": "image",
@@ -1568,9 +1568,9 @@
     {
       "id": "65b2667dfb84a9403c0042ab",
       "title": "Comptoir Des Cotonniers Campaign Denim",
-      "fullUrl": "/work-index/comptoir-des-cotonniers-denim",
-      "sourceUrl": "/works/comptoir-des-cotonniers-denim",
-      "urlId": "comptoir-des-cotonniers-denim",
+      "fullUrl": "/work-index/comptoir-des-cotonniers-campaign-denim-2023-melissa-de-araujo",
+      "sourceUrl": "/works/comptoir-des-cotonniers-campaign-denim-2023-melissa-de-araujo",
+      "urlId": "comptoir-des-cotonniers-campaign-denim-2023-melissa-de-araujo",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706190476368-01FP1O2DKK148XK6N2XJ/Anouck-Mutsaerts-Comptoir-des-Cotonniers-Denim-01.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1601,7 +1601,7 @@
       "starred": false,
       "publishOn": 1706190461700,
       "addedOn": 1706190461700,
-      "updatedOn": 1792162165879,
+      "updatedOn": 1792166338649,
       "media": [
         {
           "type": "image",
@@ -1619,9 +1619,9 @@
     {
       "id": "65b2493957f5b96bcdf88de1",
       "title": "Princesse Tam Tam Campaign Pyjmania",
-      "fullUrl": "/work-index/princesse-tam-tam-pyjmania",
-      "sourceUrl": "/works/princesse-tam-tam-pyjmania",
-      "urlId": "princesse-tam-tam-pyjmania",
+      "fullUrl": "/work-index/princesse-tam-tam-campaign-pyjmania-2023-yoann-et-marco",
+      "sourceUrl": "/works/princesse-tam-tam-campaign-pyjmania-2023-yoann-et-marco",
+      "urlId": "princesse-tam-tam-campaign-pyjmania-2023-yoann-et-marco",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706183059540-Z9IK73JCZI7V5XBUULZB/Anouck-Mutsaerts-Princesse-Tam-Tam-Pyjmania-04.jpg",
       "mediaFocalPoint": {
         "x": 0.3594140556879614,
@@ -1652,7 +1652,7 @@
       "starred": false,
       "publishOn": 1706182969311,
       "addedOn": 1706182969311,
-      "updatedOn": 1792161370205,
+      "updatedOn": 1792166357394,
       "media": [
         {
           "type": "image",
@@ -1670,9 +1670,9 @@
     {
       "id": "65a162c85434516c4fbb1379",
       "title": "On Running Cloudeasy Campaign",
-      "fullUrl": "/work-index/on-running-cloudeasy",
-      "sourceUrl": "/works/on-running-cloudeasy-campaign",
-      "urlId": "on-running-cloudeasy",
+      "fullUrl": "/work-index/on-running-cloudeasy-campaign-2022-lukas-wassmann",
+      "sourceUrl": "/works/on-running-cloudeasy-campaign-2022-lukas-wassmann",
+      "urlId": "on-running-cloudeasy-campaign-2022-lukas-wassmann",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1705673507559-BXLACQSVT0AQ2SN0KHQR/Anouck-Mutsaerts-FW22-Cloudeasy-Editorials-16.jpg",
       "mediaFocalPoint": {
         "x": 0.5547619047619048,
@@ -1704,7 +1704,7 @@
       "starred": true,
       "publishOn": 1705075527959,
       "addedOn": 1705075527959,
-      "updatedOn": 1792161377263,
+      "updatedOn": 1792166362958,
       "media": [
         {
           "type": "video",
@@ -1740,9 +1740,9 @@
     {
       "id": "65a124f72ea47a1bea4d4b5e",
       "title": "T Le Temps A Couture Story",
-      "fullUrl": "/work-index/t-le-temps-iii",
-      "sourceUrl": "/works/t-le-temps-a-couture-story-with-pierre-emmanuel-testard",
-      "urlId": "t-le-temps-iii",
+      "fullUrl": "/work-index/t-le-temps-a-couture-story-2023-pierre-emmanuel-testard",
+      "sourceUrl": "/works/t-le-temps-a-couture-story-2023-pierre-emmanuel-testard",
+      "urlId": "t-le-temps-a-couture-story-2023-pierre-emmanuel-testard",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1705059614663-64K60KBK4FSQKDWVZBXE/Anouck-Mutsaerts-T-Le-Temps-37.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
@@ -1776,7 +1776,7 @@
       "starred": false,
       "publishOn": 1705059625182,
       "addedOn": 1705059625182,
-      "updatedOn": 1792161394366,
+      "updatedOn": 1792166368439,
       "media": [
         {
           "type": "image",
