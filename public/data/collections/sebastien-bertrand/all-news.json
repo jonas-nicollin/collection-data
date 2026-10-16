@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-16T11:28:04.896Z",
-  "sourceHash": "f492afcaf35b2b6f7e027bbf203c5a20a1b0e74265861e5178fb863a009622e2",
+  "updatedAt": "2026-10-16T11:38:04.249Z",
+  "sourceHash": "78423c61d40c0e70829c3a636ffbf8ce478d01a2f670aea49cb0b83005a390c6",
   "count": 47,
   "pages": 3,
   "items": [
@@ -29,7 +29,8 @@
         "Artist: Chloe Wise",
         "Exhibition date: 2026-06-12/2026-09-06",
         "Venue: Kulturstiftung Basel H. Geiger",
-        "Curator: Samuel Leuenberger"
+        "Curator: Samuel Leuenberger",
+        "Location: Basel, Switzerland"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Chloe Wise at Kulturstiftung Basel H. Geiger<br>Curated by Samuel Leuenberger</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">12.06.2026 - 06.09.2026<br></p>",
       "location": {
@@ -48,7 +49,7 @@
       "starred": false,
       "publishOn": 1784037055001,
       "addedOn": 1784037055001,
-      "updatedOn": 1792143925935
+      "updatedOn": 1792150566682
     },
     {
       "id": "6a043ae19166fe219c8170b8",
@@ -149,7 +150,7 @@
         "Artist: Walter Robinson",
         "Exhibition date: 2026-05-02/2026-06-06",
         "Venue: Jeffrey Deitch",
-        "Location: New York"
+        "Location: New York, United States"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Walter Robinson: Let the Music Play at Jeffrey Deitch NYC</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">May 2–June 6, 2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
@@ -168,7 +169,7 @@
       "starred": false,
       "publishOn": 1777373671396,
       "addedOn": 1777373671396,
-      "updatedOn": 1792144028417
+      "updatedOn": 1792150191674
     },
     {
       "id": "69a8416b1e144c4b8a8d5eaf",
@@ -189,7 +190,7 @@
         "Artist: Todd Bienvenu",
         "Exhibition date: 2026-03-10/2026-04-10",
         "Venue: Wizard Gallery",
-        "Location: Milan"
+        "Location: Milan, Italy"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Todd Bienvenu’s first solo-show with Wizard Gallery in Milano.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">10 March - 10 April 2026</p>",
       "location": {
@@ -208,7 +209,7 @@
       "starred": false,
       "publishOn": 1772635591650,
       "addedOn": 1772635591650,
-      "updatedOn": 1792145392945
+      "updatedOn": 1792150106795
     },
     {
       "id": "6992fd840ddd3266bb67eebc",
@@ -229,7 +230,7 @@
         "Artist: Walter Robinson",
         "Exhibition date: 2026-02-13/2026-05-25",
         "Venue: Nouveau Musée National de Monaco",
-        "Location: Monaco"
+        "Location: Monaco, Monaco"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A&nbsp;group exhibition with Walter&nbsp;Robinson at Nouveau Musée National de Monaco</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">13.02.2026 - 25.05.2026</p>",
       "location": {
@@ -248,7 +249,7 @@
       "starred": false,
       "publishOn": 1771241160143,
       "addedOn": 1771241160143,
-      "updatedOn": 1792145370209
+      "updatedOn": 1792150131426
     },
     {
       "id": "69a9a9d36bf99865c25aa7d6",
@@ -268,7 +269,8 @@
       "tags": [
         "Artist: Mathis Gasser",
         "Exhibition date: 2026-02-06/2026-03-14",
-        "Venue: Galerie Oskar Weiss"
+        "Venue: Galerie Oskar Weiss",
+        "Location: Zurich, Switzerland"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Mathis Gasser, <em>Works</em><br>Galerie Oskar Weiss</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">06 February –14 March 2026  </p>",
       "location": {
@@ -287,7 +289,7 @@
       "starred": false,
       "publishOn": 1770393939699,
       "addedOn": 1770393939699,
-      "updatedOn": 1792145345035
+      "updatedOn": 1792150589305
     },
     {
       "id": "69a9ac6b646ac155cbb07265",
@@ -578,8 +580,9 @@
       ],
       "tags": [
         "Artist: Han-Chiao",
-        "Location: New York",
-        "Venue: Guild Gallery"
+        "Venue: Guild Gallery",
+        "Location: New York, United States",
+        "Exhibition date: 2024-05-02/2024-08-16"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Han-Chiao ’s solo-show with R. W. Guild Gallery in New York</p>",
       "location": {
@@ -598,7 +601,7 @@
       "starred": false,
       "publishOn": 1717165800552,
       "addedOn": 1717165800552,
-      "updatedOn": 1792149522871
+      "updatedOn": 1792150676325
     },
     {
       "id": "6659d04a6e4ca16a7917ce4b",
@@ -1126,7 +1129,7 @@
         "Artist: Chloe Wise",
         "Venue: The Journal Gallery",
         "Exhibition date: 2022-11-16/2022-12-03",
-        "Location: New York"
+        "Location: New York, United States"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A short solo exhibition by Chloe Wise at The Journal Gallery on view from November 16 to December 3 2022</p>",
       "location": {
@@ -1145,7 +1148,7 @@
       "starred": false,
       "publishOn": 1670596020841,
       "addedOn": 1670596020841,
-      "updatedOn": 1792144587498
+      "updatedOn": 1792150180844
     },
     {
       "id": "6390c892e114e271a5ca9bcc",
@@ -1318,7 +1321,7 @@
         "Artist: Todd Bienvenu",
         "Exhibition date: 2022-06-23/2022-08-05",
         "Venue: Almine Rech",
-        "Location: New York"
+        "Location: New York, United States"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">23 June–5 August 2022</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Almine Rech, New York, Upper East Side</p>",
       "location": {
@@ -1337,7 +1340,7 @@
       "starred": false,
       "publishOn": 1655397960540,
       "addedOn": 1655397960540,
-      "updatedOn": 1792144340091
+      "updatedOn": 1792150213045
     },
     {
       "id": "62ac77bbdd894a09c3414155",
@@ -1358,7 +1361,7 @@
         "Artist: Walter Robinson",
         "Exhibition date: 2022-06-11/2022-07-16",
         "Venue: Charlie James Gallery",
-        "Location: New York"
+        "Location: New York, United States"
       ],
       "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition at Charlie James Gallery, New York</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">11 June–16 July 2022</p>",
       "location": {
@@ -1377,7 +1380,7 @@
       "starred": false,
       "publishOn": 1654951560027,
       "addedOn": 1654951560027,
-      "updatedOn": 1792144315956
+      "updatedOn": 1792150203148
     },
     {
       "id": "62ab4fde6331206db1ca562d",
