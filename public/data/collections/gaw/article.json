@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-09-30T13:38:19.786Z",
-  "sourceHash": "0d8c77d28a62dae98b976a218e88ff8f5d1c42a22e8c898249e5a1580f1e4fe7",
+  "updatedAt": "2026-10-21T08:27:57.332Z",
+  "sourceHash": "b04f2781dbe72a1cafa2cb68747cb815a48abbc688ebb3c802ec591d7c7a80de",
   "count": 37,
   "pages": 2,
   "items": [
@@ -68,7 +68,8 @@
         "Sélection: Homepage",
         "Catégorie: Entretien",
         "Sujet: Leonie Herweg",
-        "Catégorie: Trajectoires"
+        "Catégorie: Trajectoires",
+        "Sélection: Une homepage"
       ],
       "excerpt": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Arrivée à Genève en&nbsp;2017 pour étudier les relations internationales, Leonie Herweg ne rejoint pas la ville par le biais de l’art</p>",
       "location": {
@@ -86,7 +87,7 @@
       "starred": false,
       "publishOn": 1786487956444,
       "addedOn": 1786487956444,
-      "updatedOn": 1788816499943
+      "updatedOn": 1792571152624
     },
     {
       "id": "6a7a5a065c38821968b5a3cd",
