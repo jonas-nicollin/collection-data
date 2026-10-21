@@ -5,8 +5,8 @@
   "id": "artist",
   "path": "/artist",
   "sourceUrl": "https://sebastienbertrand.com/artist?format=json",
-  "updatedAt": "2026-10-18T15:17:37.967Z",
-  "sourceHash": "a2527243dff8ca2b918b501f366467b937450bf5a8ff22b6b73f3f1a13f9d5a1",
+  "updatedAt": "2026-10-21T10:25:40.289Z",
+  "sourceHash": "a1d8f7b885316ae3e15bd75051de6392db9aa142349a9df1bbc66b81d568a839",
   "count": 28,
   "pages": 1,
   "items": [
@@ -28,7 +28,11 @@
       "starred": false,
       "publishOn": 1562080470194,
       "addedOn": 1562080470194,
-      "updatedOn": 1792336651402
+      "updatedOn": 1792336651402,
+      "imageDimensions": {
+        "width": 2441,
+        "height": 3324
+      }
     },
     {
       "id": "6247287605eedd782a5a2ddb",
@@ -48,7 +52,11 @@
       "starred": false,
       "publishOn": 1648830581791,
       "addedOn": 1648830581791,
-      "updatedOn": 1790954210375
+      "updatedOn": 1790954210375,
+      "imageDimensions": {
+        "width": 4000,
+        "height": 4533
+      }
     },
     {
       "id": "62601723dd9d82658cbd09e3",
@@ -68,7 +76,11 @@
       "starred": false,
       "publishOn": 1562080370612,
       "addedOn": 1562080370612,
-      "updatedOn": 1790954235322
+      "updatedOn": 1790954235322,
+      "imageDimensions": {
+        "width": 2095,
+        "height": 2972
+      }
     },
     {
       "id": "649f021ac5ec2b67bdabbaae",
@@ -88,7 +100,11 @@
       "starred": false,
       "publishOn": 1562077630437,
       "addedOn": 1562077630437,
-      "updatedOn": 1790954263008
+      "updatedOn": 1790954263008,
+      "imageDimensions": {
+        "width": 1752,
+        "height": 1588
+      }
     },
     {
       "id": "62584f9f75c9f431b979c20c",
@@ -108,7 +124,11 @@
       "starred": false,
       "publishOn": 1649954719209,
       "addedOn": 1649954719209,
-      "updatedOn": 1790954283457
+      "updatedOn": 1790954283457,
+      "imageDimensions": {
+        "width": 2486,
+        "height": 2996
+      }
     },
     {
       "id": "628b8e8555b87d1bcbd2fddf",
@@ -128,7 +148,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1790868304737
+      "updatedOn": 1790868304737,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 1006
+      }
     },
     {
       "id": "62471b1fd7bc57549db5f439",
@@ -148,7 +172,11 @@
       "starred": false,
       "publishOn": 1562077927498,
       "addedOn": 1562077927498,
-      "updatedOn": 1790868345682
+      "updatedOn": 1790868345682,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 1333
+      }
     },
     {
       "id": "652e5df51cd5510851ab9fab",
@@ -168,7 +196,11 @@
       "starred": false,
       "publishOn": 1562077630437,
       "addedOn": 1562077630437,
-      "updatedOn": 1790868985783
+      "updatedOn": 1790868985783,
+      "imageDimensions": {
+        "width": 3443,
+        "height": 4941
+      }
     },
     {
       "id": "62600d33641c5f19589784d7",
@@ -188,7 +220,11 @@
       "starred": false,
       "publishOn": 1562080370612,
       "addedOn": 1562080370612,
-      "updatedOn": 1790868924543
+      "updatedOn": 1790868924543,
+      "imageDimensions": {
+        "width": 800,
+        "height": 533
+      }
     },
     {
       "id": "6256df924df3e1369056a753",
@@ -208,7 +244,11 @@
       "starred": false,
       "publishOn": 1649860497951,
       "addedOn": 1649860497951,
-      "updatedOn": 1790954347841
+      "updatedOn": 1790954347841,
+      "imageDimensions": {
+        "width": 2881,
+        "height": 4388
+      }
     },
     {
       "id": "626018c4fb1aa8627a3b63a5",
@@ -228,7 +268,11 @@
       "starred": false,
       "publishOn": 1562080370612,
       "addedOn": 1562080370612,
-      "updatedOn": 1790869439906
+      "updatedOn": 1790869439906,
+      "imageDimensions": {
+        "width": 1920,
+        "height": 1920
+      }
     },
     {
       "id": "62471b1fd7bc57549db5f41e",
@@ -248,7 +292,11 @@
       "starred": false,
       "publishOn": 1562080370612,
       "addedOn": 1562080370612,
-      "updatedOn": 1790954375849
+      "updatedOn": 1790954375849,
+      "imageDimensions": {
+        "width": 2713,
+        "height": 3611
+      }
     },
     {
       "id": "62601a91b4962e063ed4c48b",
@@ -268,7 +316,11 @@
       "starred": false,
       "publishOn": 1562080370612,
       "addedOn": 1562080370612,
-      "updatedOn": 1790869495583
+      "updatedOn": 1790869495583,
+      "imageDimensions": {
+        "width": 1279,
+        "height": 970
+      }
     },
     {
       "id": "63ecdbb98bcf081c6dc9aa3e",
@@ -288,7 +340,11 @@
       "starred": false,
       "publishOn": 1562077630437,
       "addedOn": 1562077630437,
-      "updatedOn": 1790954401773
+      "updatedOn": 1790954401773,
+      "imageDimensions": {
+        "width": 2209,
+        "height": 1706
+      }
     },
     {
       "id": "628e3d2aefc5ef1a71ac399e",
@@ -308,7 +364,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766077833680
+      "updatedOn": 1766077833680,
+      "imageDimensions": {
+        "width": 1523,
+        "height": 1900
+      }
     },
     {
       "id": "6290e694f3a1532994b3c685",
@@ -328,7 +388,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766077696809
+      "updatedOn": 1766077696809,
+      "imageDimensions": {
+        "width": 1439,
+        "height": 1900
+      }
     },
     {
       "id": "6290e71cb15204697d72ca4e",
@@ -348,7 +412,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766077544600
+      "updatedOn": 1766077544600,
+      "imageDimensions": {
+        "width": 1134,
+        "height": 1512
+      }
     },
     {
       "id": "62601c9bfb6cd977cc3057a1",
@@ -368,7 +436,11 @@
       "starred": false,
       "publishOn": 1562080370612,
       "addedOn": 1562080370612,
-      "updatedOn": 1766077241165
+      "updatedOn": 1766077241165,
+      "imageDimensions": {
+        "width": 427,
+        "height": 640
+      }
     },
     {
       "id": "6290e839a58b2e4dee7d8ac3",
@@ -388,7 +460,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766077094191
+      "updatedOn": 1766077094191,
+      "imageDimensions": {
+        "width": 1286,
+        "height": 1793
+      }
     },
     {
       "id": "62cc0e8526a9ce029da5ab75",
@@ -408,7 +484,11 @@
       "starred": false,
       "publishOn": 1562077630437,
       "addedOn": 1562077630437,
-      "updatedOn": 1768831644637
+      "updatedOn": 1768831644637,
+      "imageDimensions": {
+        "width": 1000,
+        "height": 1000
+      }
     },
     {
       "id": "626015f8348a253ac162b511",
@@ -428,7 +508,11 @@
       "starred": false,
       "publishOn": 1562080370612,
       "addedOn": 1562080370612,
-      "updatedOn": 1768831697140
+      "updatedOn": 1768831697140,
+      "imageDimensions": {
+        "width": 300,
+        "height": 300
+      }
     },
     {
       "id": "628e3c737e41d5592d632a69",
@@ -448,7 +532,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766076528245
+      "updatedOn": 1766076528245,
+      "imageDimensions": {
+        "width": 4006,
+        "height": 6000
+      }
     },
     {
       "id": "628e3da3a80ee215c677b564",
@@ -468,7 +556,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766075987361
+      "updatedOn": 1766075987361,
+      "imageDimensions": {
+        "width": 1333,
+        "height": 2000
+      }
     },
     {
       "id": "628e3cf591bec74e9b6338af",
@@ -488,7 +580,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766076120619
+      "updatedOn": 1766076120619,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 2009
+      }
     },
     {
       "id": "6290e6323022ca190925dccd",
@@ -508,7 +604,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766076099426
+      "updatedOn": 1766076099426,
+      "imageDimensions": {
+        "width": 1266,
+        "height": 1500
+      }
     },
     {
       "id": "62b474c202386b3d1cf006bb",
@@ -528,7 +628,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766076074143
+      "updatedOn": 1766076074143,
+      "imageDimensions": {
+        "width": 1705,
+        "height": 1025
+      }
     },
     {
       "id": "628b9616c81da12b1c79c278",
@@ -548,7 +652,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766076034683
+      "updatedOn": 1766076034683,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 982
+      }
     },
     {
       "id": "6762ac6a7ba64b5cb9342003",
@@ -568,7 +676,11 @@
       "starred": false,
       "publishOn": 1653311216933,
       "addedOn": 1653311216933,
-      "updatedOn": 1766076019802
+      "updatedOn": 1766076019802,
+      "imageDimensions": {
+        "width": 4453,
+        "height": 3350
+      }
     }
   ]
 }

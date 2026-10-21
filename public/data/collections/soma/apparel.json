@@ -5,8 +5,8 @@
   "id": "apparel",
   "path": "/apparel",
   "sourceUrl": "https://somabureau.com/apparel?format=json",
-  "updatedAt": "2026-10-02T09:37:56.100Z",
-  "sourceHash": "cf04194bb5734e81bb1069221d342e78540c6acddcf83cbf1d1deef738d8ea0d",
+  "updatedAt": "2026-10-21T10:25:39.787Z",
+  "sourceHash": "982130c3224fd4559015ec1b182c2ab3356fc7e4c93bca6a739eafd16978376c",
   "count": 2,
   "pages": 1,
   "items": [
@@ -27,6 +27,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/3053f392-a575-4e49-8a69-62fe71346bb2/SOMA-Apparel-Cap-Corduroy-01.jpg",
+          "imageDimensions": {
+            "width": 2500,
+            "height": 1875
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -36,6 +40,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/312eef97-fac3-4ab7-8d89-9619a2275ead/SOMA-Apparel-Cap-Corduroy-02.jpg",
+          "imageDimensions": {
+            "width": 2500,
+            "height": 1875
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -45,6 +53,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/8ac7e8a1-37c5-4944-8d5f-ccd6dc3010e9/SOMA-Apparel-Cap-Corduroy-03.jpg",
+          "imageDimensions": {
+            "width": 2500,
+            "height": 1875
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -61,6 +73,10 @@
         "regularMin": 40,
         "regularMax": 40,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2500,
+        "height": 1875
       },
       "mediaFocalPoint": {
         "x": 0.5,
@@ -90,6 +106,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/ca4edb7e-0041-4c78-bebf-97536e6ee2fe/SOMA-Apparel-Hulken_Bag-04.jpg",
+          "imageDimensions": {
+            "width": 2100,
+            "height": 1575
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -99,6 +119,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/78a813b8-26a8-4e01-bc1e-edbc042f8c6b/SOMA-Apparel-Hulken_Bag-02.jpg",
+          "imageDimensions": {
+            "width": 2560,
+            "height": 1920
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -108,6 +132,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/ed4a8553-a3cd-4557-89c7-a26bc6c7fdf6/SOMA-Apparel-Hulken_Bag-03.jpg",
+          "imageDimensions": {
+            "width": 2560,
+            "height": 1920
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -117,6 +145,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/675979d0d4befd40b0c0f698/ddbddb49-88ff-4f98-8c08-a936728d7ae9/SOMA-Apparel-Hulken_Bag-01.jpg",
+          "imageDimensions": {
+            "width": 2560,
+            "height": 1920
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -133,6 +165,10 @@
         "regularMin": 140,
         "regularMax": 160,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2100,
+        "height": 1575
       }
     }
   ]

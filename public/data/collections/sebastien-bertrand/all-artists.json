@@ -5,8 +5,8 @@
   "id": "all-artists",
   "path": "/all-artists",
   "sourceUrl": "https://sebastienbertrand.com/all-artists?format=json",
-  "updatedAt": "2026-10-06T09:27:59.784Z",
-  "sourceHash": "2ff408d060d82cecbd1862d701b0075dc00247ecfe02ceac5f49e9cf2de2eee9",
+  "updatedAt": "2026-10-21T10:25:40.084Z",
+  "sourceHash": "f4bf572bfd1a8fc9a560432e83fd06b9bf1666cb39f9b683e009a85421dce312",
   "count": 14,
   "pages": 1,
   "items": [
@@ -45,7 +45,11 @@
       "starred": true,
       "publishOn": 1704057960977,
       "addedOn": 1704057960977,
-      "updatedOn": 1791278247300
+      "updatedOn": 1791278247300,
+      "imageDimensions": {
+        "width": 5350,
+        "height": 3734
+      }
     },
     {
       "id": "61f26b9777b790472ed0bc86",
@@ -82,7 +86,11 @@
       "starred": true,
       "publishOn": 1698836400661,
       "addedOn": 1698836400661,
-      "updatedOn": 1791278265671
+      "updatedOn": 1791278265671,
+      "imageDimensions": {
+        "width": 4000,
+        "height": 4533
+      }
     },
     {
       "id": "649db3be412ef771c101fcbd",
@@ -119,7 +127,11 @@
       "starred": true,
       "publishOn": 1696178340361,
       "addedOn": 1696178340361,
-      "updatedOn": 1791278238238
+      "updatedOn": 1791278238238,
+      "imageDimensions": {
+        "width": 3841,
+        "height": 4912
+      }
     },
     {
       "id": "61f26b826f12bb377bddfb45",
@@ -156,7 +168,11 @@
       "starred": true,
       "publishOn": 1690970400856,
       "addedOn": 1690970400856,
-      "updatedOn": 1791278269822
+      "updatedOn": 1791278269822,
+      "imageDimensions": {
+        "width": 2095,
+        "height": 2972
+      }
     },
     {
       "id": "61f26b698069395c6a75147e",
@@ -193,7 +209,11 @@
       "starred": true,
       "publishOn": 1688205600876,
       "addedOn": 1688205600876,
-      "updatedOn": 1791278281164
+      "updatedOn": 1791278281164,
+      "imageDimensions": {
+        "width": 2810,
+        "height": 2170
+      }
     },
     {
       "id": "68c92cb7aa70842637278dc4",
@@ -230,7 +250,11 @@
       "starred": true,
       "publishOn": 1688203440775,
       "addedOn": 1688203440775,
-      "updatedOn": 1791278242531
+      "updatedOn": 1791278242531,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 1006
+      }
     },
     {
       "id": "61f26b59962a8f0bd2f990c1",
@@ -267,7 +291,11 @@
       "starred": true,
       "publishOn": 1687946400959,
       "addedOn": 1687946400959,
-      "updatedOn": 1791278229807
+      "updatedOn": 1791278229807,
+      "imageDimensions": {
+        "width": 2318,
+        "height": 1772
+      }
     },
     {
       "id": "61f26b1893406d0903acfdaf",
@@ -304,7 +332,11 @@
       "starred": true,
       "publishOn": 1686823200857,
       "addedOn": 1686823200857,
-      "updatedOn": 1791278274694
+      "updatedOn": 1791278274694,
+      "imageDimensions": {
+        "width": 3412,
+        "height": 5000
+      }
     },
     {
       "id": "652e5764a410004b14b74e32",
@@ -341,7 +373,11 @@
       "starred": true,
       "publishOn": 1686735840928,
       "addedOn": 1686735840928,
-      "updatedOn": 1791278276690
+      "updatedOn": 1791278276690,
+      "imageDimensions": {
+        "width": 2249,
+        "height": 3341
+      }
     },
     {
       "id": "6255872d0ad2c73bdae5b1bd",
@@ -378,7 +414,11 @@
       "starred": true,
       "publishOn": 1685613600086,
       "addedOn": 1685613600086,
-      "updatedOn": 1791278264065
+      "updatedOn": 1791278264065,
+      "imageDimensions": {
+        "width": 3392,
+        "height": 4501
+      }
     },
     {
       "id": "61f26b418e8c5e12cd95c8ae",
@@ -415,7 +455,11 @@
       "starred": true,
       "publishOn": 1677668400512,
       "addedOn": 1677668400512,
-      "updatedOn": 1791278267592
+      "updatedOn": 1791278267592,
+      "imageDimensions": {
+        "width": 4753,
+        "height": 4784
+      }
     },
     {
       "id": "61f1389f4d7bc663be383030",
@@ -452,7 +496,11 @@
       "starred": true,
       "publishOn": 1669892400561,
       "addedOn": 1669892400561,
-      "updatedOn": 1791278236253
+      "updatedOn": 1791278236253,
+      "imageDimensions": {
+        "width": 3618,
+        "height": 2700
+      }
     },
     {
       "id": "61f26ba7db6f2b3d506eb027",
@@ -489,7 +537,11 @@
       "starred": true,
       "publishOn": 1665828000021,
       "addedOn": 1665828000021,
-      "updatedOn": 1791278259141
+      "updatedOn": 1791278259141,
+      "imageDimensions": {
+        "width": 2316,
+        "height": 2953
+      }
     },
     {
       "id": "63ebc811cb4d98641b338da6",
@@ -526,7 +578,11 @@
       "starred": true,
       "publishOn": 1643282580042,
       "addedOn": 1643282580042,
-      "updatedOn": 1791278286449
+      "updatedOn": 1791278286449,
+      "imageDimensions": {
+        "width": 4653,
+        "height": 6309
+      }
     }
   ]
 }

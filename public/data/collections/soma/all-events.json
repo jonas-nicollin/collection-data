@@ -5,8 +5,8 @@
   "id": "all-events",
   "path": "/all-events",
   "sourceUrl": "https://somabureau.com/all-events?format=json",
-  "updatedAt": "2026-10-12T11:07:55.286Z",
-  "sourceHash": "e692bf2b26eb39158c6e7c39a4f80d9dc124a9d5a7561977d8043650d8aaf095",
+  "updatedAt": "2026-10-21T10:25:39.354Z",
+  "sourceHash": "e840cdb33b9046e7cb01231f83a76c7a0c740fd2e8106c2609f5775488323ba1",
   "count": 4,
   "pages": 1,
   "items": [
@@ -46,7 +46,11 @@
       "starred": false,
       "publishOn": 1788357749499,
       "addedOn": 1788357749499,
-      "updatedOn": 1791802752798
+      "updatedOn": 1791802752798,
+      "imageDimensions": {
+        "width": 4284,
+        "height": 5712
+      }
     },
     {
       "id": "697b4b0e0469037ffa8f96ff",
@@ -84,7 +88,11 @@
       "starred": false,
       "publishOn": 1769687822305,
       "addedOn": 1769687822305,
-      "updatedOn": 1791802752816
+      "updatedOn": 1791802752816,
+      "imageDimensions": {
+        "width": 2261,
+        "height": 1575
+      }
     },
     {
       "id": "68247d95b74c5b194aafd5cc",
@@ -125,7 +133,11 @@
       "starred": false,
       "publishOn": 1763074800191,
       "addedOn": 1763074800191,
-      "updatedOn": 1791802752760
+      "updatedOn": 1791802752760,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 1497
+      }
     },
     {
       "id": "67dd1a6bab27b150f407f595",
@@ -181,7 +193,11 @@
       "starred": true,
       "publishOn": 1749106800846,
       "addedOn": 1749106800846,
-      "updatedOn": 1791802752718
+      "updatedOn": 1791802752718,
+      "imageDimensions": {
+        "width": 2160,
+        "height": 1620
+      }
     }
   ]
 }

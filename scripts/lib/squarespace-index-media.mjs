@@ -1,3 +1,5 @@
+import { imageDimensionsField } from './image-dimensions.mjs';
+
 function decodeHtmlAttribute(value) {
   return String(value || '')
     .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
@@ -67,6 +69,7 @@ export function normalizeSquarespaceIndexMedia(item) {
     media.push({
       type: 'image',
       assetUrl,
+      ...imageDimensionsField(item),
       mediaFocalPoint,
       title: item?.title || item?.filename || ''
     });

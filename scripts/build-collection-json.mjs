@@ -1,6 +1,7 @@
 import { createHash } from 'node:crypto';
 import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { imageDimensionsField } from './lib/image-dimensions.mjs';
 import { normalizeSquarespaceIndexMedia } from './lib/squarespace-index-media.mjs';
 
 const DEFAULT_CONFIG = 'sources/collections/pcc.json';
@@ -114,6 +115,7 @@ function normalizeProductMedia(item) {
 
       return {
         assetUrl,
+        ...imageDimensionsField(entry),
         mediaFocalPoint: entry.mediaFocalPoint || entry?.asset?.mediaFocalPoint || null,
         title: entry.title || entry.filename || ''
       };
@@ -187,6 +189,8 @@ function cloneEssentialItem(item, options = {}) {
     output.mediaFocalPoint = item.asset.mediaFocalPoint;
   }
 
+  Object.assign(output, imageDimensionsField(item));
+
   if (options.adapter === 'squarespace-products') {
     const categoryMap = options.categoryMap || new Map();
     const categoryIds = Array.isArray(item?.categoryIds) ? item.categoryIds : [];
@@ -206,6 +210,8 @@ function cloneEssentialItem(item, options = {}) {
 
     if (media.length) {
       output.assetUrl = media[0].assetUrl;
+      delete output.imageDimensions;
+      Object.assign(output, imageDimensionsField(media[0]));
       output.mediaFocalPoint = media[0].mediaFocalPoint || output.mediaFocalPoint || null;
     }
   }

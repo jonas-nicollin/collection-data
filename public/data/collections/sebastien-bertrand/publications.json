@@ -5,8 +5,8 @@
   "id": "publications",
   "path": "/publications",
   "sourceUrl": "https://sebastienbertrand.com/publications?format=json",
-  "updatedAt": "2026-10-09T23:58:07.728Z",
-  "sourceHash": "bd4f58c9e0f55dcad83a7c6d1066574343eaa16143a0c48d580003d62ade2e9c",
+  "updatedAt": "2026-10-21T10:25:49.040Z",
+  "sourceHash": "da4e6aec5ec7273c2c3cceb2a31d2d2f1b775f9ab7c76c4ceddf63238246ecc1",
   "count": 9,
   "pages": 1,
   "items": [
@@ -38,6 +38,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/ec128ea2-a160-4f10-a45d-bbd571da82f8/Han-Chiao_Echo_01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -47,6 +51,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/2b535c40-db22-42a4-9679-5476de9830a7/Han-Chiao_Echo_02.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -56,6 +64,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/b4b92b1c-1cec-4c96-9b16-bb8ebfdfa0a2/Han-Chiao_Echo_03.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -72,6 +84,10 @@
         "regularMin": 10,
         "regularMax": 10,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1600
       }
     },
     {
@@ -102,6 +118,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/090cc5c9-29d8-4e20-9642-e1cfcc64b118/Michael-Hilsman_Landscapes-with-Flowers_Thumbnail.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -111,6 +131,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/49daeceb-275a-4e65-bd67-ee2a9ef97510/Michael-Hilsman_Landscapes-with-Flowers_01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -120,6 +144,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1e153e6d-46d7-4a7d-b0d8-ea43861c5f24/Michael-Hilsman_Landscapes-with-Flowers_02.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -129,6 +157,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/d46320b1-d269-4500-9137-2ac3dabb3e2c/Michael-Hilsman_Landscapes-with-Flowers_03.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -145,6 +177,10 @@
         "regularMin": 10,
         "regularMax": 10,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1600
       }
     },
     {
@@ -175,6 +211,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/4ddaa386-2865-4642-b204-a9ca8c54afa6/Natalia-Gonzalez-Martin_Lady-into-Fox_01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -184,6 +224,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a4324a4b-de3e-41f1-a499-cc5f99b032ed/Natalia-Gonzalez-Martin_Lady-into-Fox_02.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -193,6 +237,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a0832bcb-1249-4d99-b619-b02e362d5b6c/Natalia-Gonzalez-Martin_Lady-into-Fox_03.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -209,6 +257,10 @@
         "regularMin": 10,
         "regularMax": 10,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1600
       }
     },
     {
@@ -239,6 +291,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/070c01cb-17cb-45cb-8bb7-b78946d58420/Lian-Zhang_The-Rabbit-who-Hunts-Tigers_01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -248,6 +304,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/dc99a0f7-f823-480f-942c-d9cdb0384284/Lian-Zhang_The-Rabbit-who-Hunts-Tigers_02.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -257,6 +317,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/86f9bef8-a37f-487f-a524-88db24181434/Lian-Zhang_The-Rabbit-who-Hunts-Tigers_03.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -273,6 +337,10 @@
         "regularMin": 10,
         "regularMax": 10,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1600
       }
     },
     {
@@ -303,6 +371,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/46d7deea-63df-4116-9122-1e997d900f05/Chloe-Wise_Spite-Unseen_Thumbnail.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -312,6 +384,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/d6efb9b0-968b-4dad-88c0-f5840d234666/Chloe-Wise_Spite-Unseen_01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -321,6 +397,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/c778436f-4e8c-4ce4-99ec-793d0a8ecb1a/Chloe-Wise_Spite-Unseen_03.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -330,6 +410,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a433c1a4-e251-4b4c-b715-df0d0eace27b/Chloe-Wise_Spite-Unseen_02.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -346,6 +430,10 @@
         "regularMin": 10,
         "regularMax": 10,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1600
       }
     },
     {
@@ -376,6 +464,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/509a7fd1-a5f9-477e-a3cd-3e820e951cc7/Tali-Lennox_Lotus-of-Nephthys_01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -385,6 +477,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a2ade744-0b81-48d8-94a6-154b1af819c2/Tali-Lennox_Lotus-of-Nephthys_02.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -394,6 +490,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/70d917bc-b1dc-456f-8295-1251bd78331a/Tali-Lennox_Lotus-of-Nephthys_03.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -410,6 +510,10 @@
         "regularMin": 10,
         "regularMax": 10,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1600
       }
     },
     {
@@ -440,6 +544,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/d6dbea7a-1de6-42ff-87b7-403c43c0ff5e/Todd-Bienvenu_Congregation_01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -449,6 +557,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/c744131b-707e-425c-bc9f-315b5d2b69a5/Todd-Bienvenu_Congregation_02.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -458,6 +570,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/70c0a219-c6e2-4be8-aacf-5be87590b0dd/Todd-Bienvenu_Congregation_03.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -474,6 +590,10 @@
         "regularMin": 10,
         "regularMax": 10,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1600
       }
     },
     {
@@ -504,6 +624,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/7bd438c6-71f7-4ecb-8d9f-4e4347aed03f/Joe-Andoe_The-Catskills_01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -513,6 +637,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1025c8b6-f8ba-47c0-bf24-eb97f708ba4d/Joe-Andoe_The-Catskills_02.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -522,6 +650,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/27249f10-0230-450d-80cc-545255954fc8/Joe-Andoe_The-Catskills_03.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -538,6 +670,10 @@
         "regularMin": 10,
         "regularMax": 10,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1600
       }
     },
     {
@@ -568,6 +704,10 @@
       "media": [
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/af68d6a7-9f94-498b-8364-7f915fc3288c/Michael-Hilsman_Dangling-Man_01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -577,6 +717,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/8ac538d9-462e-4001-b44c-a10708e8ac2b/Michael-Hilsman_Dangling-Man_02.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -586,6 +730,10 @@
         },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/5b0946ec-0a83-4665-a6b7-cf22d61776f5/Michael-Hilsman_Dangling-Man_03.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1600
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -602,6 +750,10 @@
         "regularMin": 10,
         "regularMax": 10,
         "onSale": false
+      },
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1600
       }
     }
   ]

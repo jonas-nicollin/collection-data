@@ -1,107 +1,107 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-21T08:27:57.332Z",
+  "updatedAt": "2026-10-21T10:25:57.117Z",
   "files": {
     "anouck-mutsaerts/work-index.json": {
-      "sourceHash": "ea770c9d7bd1ea61a65d3e58b14f83a8447ae26249cf2c5fd3e73e32c2a452b3",
-      "updatedAt": "2026-10-16T16:07:53.932Z",
+      "sourceHash": "58a798c3c4755fd15fc94d14a332a7a6aaa5c83cd089ea3a9b1281b67a7f0c45",
+      "updatedAt": "2026-10-21T10:25:39.530Z",
       "count": 34,
       "pages": 1
     },
     "carneiro/projet.json": {
-      "sourceHash": "5b11f869b2bd8147bc5ceceb61194c050e081d92105258eb0c7f1104f20fcbb6",
-      "updatedAt": "2026-09-25T15:27:16.119Z",
+      "sourceHash": "8dafee8b829c3dc694972d6c6310634d6a27b98c7483e57793223a7547440373",
+      "updatedAt": "2026-10-21T10:25:39.964Z",
       "count": 46,
       "pages": 3
     },
     "gaw/article.json": {
-      "sourceHash": "b04f2781dbe72a1cafa2cb68747cb815a48abbc688ebb3c802ec591d7c7a80de",
-      "updatedAt": "2026-10-21T08:27:57.332Z",
+      "sourceHash": "265cca39eb814acde9263567fbdbd07f7027f675b715664c4241469e63180505",
+      "updatedAt": "2026-10-21T10:25:56.726Z",
       "count": 37,
       "pages": 2
     },
     "gaw/index.json": {
-      "sourceHash": "fdc658e430625b3078b12f169fe1b26beabb928f4ea0b0ee11e738c13106dd63",
-      "updatedAt": "2026-09-25T15:27:17.668Z",
+      "sourceHash": "ba9814cf86149ea58290f6980e50f01766ee588f191438fcc3bde60a65d0bb04",
+      "updatedAt": "2026-10-21T10:25:57.117Z",
       "count": 6,
       "pages": 1
     },
     "gaw/membre.json": {
-      "sourceHash": "1c37e77e78a57e243de73bd41c58284c8a6527589bd7f444577952998d3c34b7",
-      "updatedAt": "2026-10-01T13:28:25.949Z",
+      "sourceHash": "0e7ec7caa29a6b5f27a98aa7e48ddf2229c8729796caf12bad1332f8a18902dc",
+      "updatedAt": "2026-10-21T10:25:55.690Z",
       "count": 93,
       "pages": 1
     },
     "gaw/programme-2025.json": {
-      "sourceHash": "d6c164a4a4603e4b90033a76bced523bac61a89382a5951a5a196c5daca81e8f",
-      "updatedAt": "2026-09-25T15:27:16.857Z",
+      "sourceHash": "7f8245c68eb25e343a10dea676c2111635f72fc64172ce3f483ab125617f22fa",
+      "updatedAt": "2026-10-21T10:25:44.811Z",
       "count": 169,
       "pages": 1
     },
     "gaw/programme-2026.json": {
-      "sourceHash": "6ca1c06bb30e16458ac25ec5a1b7fe9a6802f02946de6f0e095fd2c7e0a8af12",
-      "updatedAt": "2026-09-25T15:27:17.359Z",
+      "sourceHash": "a61f2305dddf15c12c80cacfbac57706df7f3725b2aff01311a4a9613879f59d",
+      "updatedAt": "2026-10-21T10:25:52.498Z",
       "count": 156,
       "pages": 8
     },
     "pcc/artistes.json": {
-      "sourceHash": "0c70474d7f0bab6ffbfb707ec7cd7d6a55df8f323ae9c89c1a975790b21af1f5",
-      "updatedAt": "2026-09-25T15:27:18.540Z",
+      "sourceHash": "c44e90a2faf265b98fe26eff03365bed2fb42414fc304a0eda2ce0c2dec99fb2",
+      "updatedAt": "2026-10-21T10:25:41.854Z",
       "count": 40,
       "pages": 2
     },
     "pcc/programme-2026.json": {
-      "sourceHash": "ff5f19fa43068332c261d6fcf3a3e7324956904f7a2c82ba4422a5e580f1ef4a",
-      "updatedAt": "2026-09-25T15:27:18.432Z",
+      "sourceHash": "a54d2835829952bfa057b1b5bdaeb5afadb37386cd0240267e62756c74e40053",
+      "updatedAt": "2026-10-21T10:25:40.974Z",
       "count": 53,
       "pages": 3
     },
     "sebastien-bertrand/all-artists.json": {
-      "sourceHash": "2ff408d060d82cecbd1862d701b0075dc00247ecfe02ceac5f49e9cf2de2eee9",
-      "updatedAt": "2026-10-06T09:27:59.784Z",
+      "sourceHash": "f4bf572bfd1a8fc9a560432e83fd06b9bf1666cb39f9b683e009a85421dce312",
+      "updatedAt": "2026-10-21T10:25:40.084Z",
       "count": 14,
       "pages": 1
     },
     "sebastien-bertrand/all-news.json": {
-      "sourceHash": "6f0baf5b70e8bd2c94f61543437663fe7c8233f2819ddd47720ae7400fb3d427",
-      "updatedAt": "2026-10-16T13:58:04.581Z",
+      "sourceHash": "6e83a3ab6def09e8a5242b5ce2a91b130ca07c71efd3d2ea6c1c6526095cc471",
+      "updatedAt": "2026-10-21T10:25:41.922Z",
       "count": 47,
       "pages": 3
     },
     "sebastien-bertrand/artist.json": {
-      "sourceHash": "a2527243dff8ca2b918b501f366467b937450bf5a8ff22b6b73f3f1a13f9d5a1",
-      "updatedAt": "2026-10-18T15:17:37.967Z",
+      "sourceHash": "a1d8f7b885316ae3e15bd75051de6392db9aa142349a9df1bbc66b81d568a839",
+      "updatedAt": "2026-10-21T10:25:40.289Z",
       "count": 28,
       "pages": 1
     },
     "sebastien-bertrand/exhibition.json": {
-      "sourceHash": "17e1e167f49dcf541dfbe0db595ddb7790af7638804560b8bc5cbb6587a17e16",
-      "updatedAt": "2026-10-13T14:07:56.750Z",
+      "sourceHash": "e1332597c251ac072f307732fc4e3bfe77d05e442706b72b6610fd97d5e3492b",
+      "updatedAt": "2026-10-21T10:25:39.483Z",
       "count": 107,
       "pages": 1
     },
     "sebastien-bertrand/publications.json": {
-      "sourceHash": "bd4f58c9e0f55dcad83a7c6d1066574343eaa16143a0c48d580003d62ade2e9c",
-      "updatedAt": "2026-10-09T23:58:07.728Z",
+      "sourceHash": "da4e6aec5ec7273c2c3cceb2a31d2d2f1b775f9ab7c76c4ceddf63238246ecc1",
+      "updatedAt": "2026-10-21T10:25:49.040Z",
       "count": 9,
       "pages": 1
     },
     "sebastien-bertrand/works.json": {
-      "sourceHash": "835d781d95ee698ef2a12a9f8dadef1b593700755fca34a0e032b2c1498f79d5",
-      "updatedAt": "2026-10-12T08:38:08.804Z",
+      "sourceHash": "5cc0f1c7d87cc46a7c23c480a6c1bb9cadc634650730429db887e371783c3be6",
+      "updatedAt": "2026-10-21T10:25:48.673Z",
       "count": 759,
       "pages": 4
     },
     "soma/all-events.json": {
-      "sourceHash": "e692bf2b26eb39158c6e7c39a4f80d9dc124a9d5a7561977d8043650d8aaf095",
-      "updatedAt": "2026-10-12T11:07:55.286Z",
+      "sourceHash": "e840cdb33b9046e7cb01231f83a76c7a0c740fd2e8106c2609f5775488323ba1",
+      "updatedAt": "2026-10-21T10:25:39.354Z",
       "count": 4,
       "pages": 1
     },
     "soma/apparel.json": {
-      "sourceHash": "cf04194bb5734e81bb1069221d342e78540c6acddcf83cbf1d1deef738d8ea0d",
-      "updatedAt": "2026-10-02T09:37:56.100Z",
+      "sourceHash": "982130c3224fd4559015ec1b182c2ab3356fc7e4c93bca6a739eafd16978376c",
+      "updatedAt": "2026-10-21T10:25:39.787Z",
       "count": 2,
       "pages": 1
     }

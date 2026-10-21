@@ -5,8 +5,8 @@
   "id": "work-index",
   "path": "/work-index",
   "sourceUrl": "https://www.anouckmutsaerts.com/work-index?format=json",
-  "updatedAt": "2026-10-16T16:07:53.932Z",
-  "sourceHash": "ea770c9d7bd1ea61a65d3e58b14f83a8447ae26249cf2c5fd3e73e32c2a452b3",
+  "updatedAt": "2026-10-21T10:25:39.530Z",
+  "sourceHash": "58a798c3c4755fd15fc94d14a332a7a6aaa5c83cd089ea3a9b1281b67a7f0c45",
   "count": 34,
   "pages": 1,
   "items": [
@@ -47,10 +47,18 @@
       "publishOn": 1730735957987,
       "addedOn": 1730735957987,
       "updatedOn": 1792165949464,
+      "imageDimensions": {
+        "width": 2610,
+        "height": 3402
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730735968945-9WGHXJ66HAC0YHF7LKF6/TLETEMPS_Hifi_Int%C3%A9rieur_4.jpg",
+          "imageDimensions": {
+            "width": 2610,
+            "height": 3402
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -99,10 +107,18 @@
       "publishOn": 1730734955894,
       "addedOn": 1730734955894,
       "updatedOn": 1792152932749,
+      "imageDimensions": {
+        "width": 2610,
+        "height": 3402
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730735084412-G75IPFD9IHM9NCG7OHKP/IMG_4948.JPG",
+          "imageDimensions": {
+            "width": 2610,
+            "height": 3402
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -150,10 +166,18 @@
       "publishOn": 1730734341998,
       "addedOn": 1730734341998,
       "updatedOn": 1792162126102,
+      "imageDimensions": {
+        "width": 1529,
+        "height": 2048
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730734381111-MFOPA0Y6GE0OXNGZYK9B/B008883-R1-05-6+3FINAL.jpg",
+          "imageDimensions": {
+            "width": 1529,
+            "height": 2048
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -199,10 +223,18 @@
       "publishOn": 1721642750573,
       "addedOn": 1721642750573,
       "updatedOn": 1792165999216,
+      "imageDimensions": {
+        "width": 792,
+        "height": 994
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721642764100-UYFDNX3LV4L9OOFBIG56/Screenshot+2024-05-23+at+10.35.25.PNG",
+          "imageDimensions": {
+            "width": 792,
+            "height": 994
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -250,10 +282,18 @@
       "publishOn": 1721642720480,
       "addedOn": 1721642720480,
       "updatedOn": 1792161950720,
+      "imageDimensions": {
+        "width": 3172,
+        "height": 4134
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1730734206875-YMPSGKL2VF9RAF2PF88X/T_LE_TEMPS_HJ_9756_STACK.jpg",
+          "imageDimensions": {
+            "width": 3172,
+            "height": 4134
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -301,10 +341,18 @@
       "publishOn": 1721398659282,
       "addedOn": 1721398659282,
       "updatedOn": 1792153265074,
+      "imageDimensions": {
+        "width": 1610,
+        "height": 2032
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721641981014-YYSDW5MRFP2ZRNEH6MBA/Capture+d%E2%80%99%C3%A9cran+2024-07-22+%C3%A0+11.49.44.png",
+          "imageDimensions": {
+            "width": 1610,
+            "height": 2032
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -351,10 +399,18 @@
       "publishOn": 1714996817804,
       "addedOn": 1714996817804,
       "updatedOn": 1792166019431,
+      "imageDimensions": {
+        "width": 2250,
+        "height": 2813
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1714996742763-G30S0P377ZQZZ2A6HMC0/Instagram_Byredo1.jpg",
+          "imageDimensions": {
+            "width": 2250,
+            "height": 2813
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -404,10 +460,18 @@
       "publishOn": 1713708430011,
       "addedOn": 1713708430011,
       "updatedOn": 1792166025272,
+      "imageDimensions": {
+        "width": 2500,
+        "height": 3125
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1721398726619-7OVQOSF8RCBHWV4NUFX0/_1_2024_05_27_T-le-Temps_Baskets1571_Scan.jpg",
+          "imageDimensions": {
+            "width": 2500,
+            "height": 3125
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -453,10 +517,18 @@
       "publishOn": 1713707340840,
       "addedOn": 1713707340840,
       "updatedOn": 1792166030989,
+      "imageDimensions": {
+        "width": 2250,
+        "height": 2813
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1713707743922-4H79XD3VNFOWTD9PJ808/IMG_2343.JPG",
+          "imageDimensions": {
+            "width": 2250,
+            "height": 2813
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -505,10 +577,18 @@
       "publishOn": 1713707229110,
       "addedOn": 1713707229110,
       "updatedOn": 1792166043822,
+      "imageDimensions": {
+        "width": 2314,
+        "height": 2893
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/9a0b3cd5-da61-47eb-8996-940c8f2e80ad/2024_02_20_AMPM_TLETEMPS_WATCHES_06.jpg",
+          "imageDimensions": {
+            "width": 2314,
+            "height": 2893
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -555,10 +635,18 @@
       "publishOn": 1713706813515,
       "addedOn": 1713706813515,
       "updatedOn": 1792166061673,
+      "imageDimensions": {
+        "width": 2250,
+        "height": 2813
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1713707767451-JMBZMDUMRYZ8JTBFMN54/Instagram_Loewe2.jpg",
+          "imageDimensions": {
+            "width": 2250,
+            "height": 2813
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -605,10 +693,18 @@
       "publishOn": 1712047565496,
       "addedOn": 1712047565496,
       "updatedOn": 1792166066307,
+      "imageDimensions": {
+        "width": 5504,
+        "height": 6880
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1712047611080-5CJE1HRDH6U7I3FHMER6/231011_COMPTOIR_DES_COTONNIERS_SHOT_18_161.jpg",
+          "imageDimensions": {
+            "width": 5504,
+            "height": 6880
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -659,10 +755,18 @@
       "publishOn": 1711099890688,
       "addedOn": 1711099890688,
       "updatedOn": 1792166071402,
+      "imageDimensions": {
+        "width": 4981,
+        "height": 6640
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1712047776384-NW6LM8QAI1F57IR2IX59/13-V4.jpg",
+          "imageDimensions": {
+            "width": 4981,
+            "height": 6640
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -710,10 +814,18 @@
       "publishOn": 1709891361481,
       "addedOn": 1709891361481,
       "updatedOn": 1792166076075,
+      "imageDimensions": {
+        "width": 2250,
+        "height": 2813
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1709891254792-C50Y1F5N8117YU8B9CMJ/24-02_SarahMadeleineBru%C2%A9AliciaDubuis_6.jpg",
+          "imageDimensions": {
+            "width": 2250,
+            "height": 2813
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -762,10 +874,18 @@
       "publishOn": 1707061853801,
       "addedOn": 1707061853801,
       "updatedOn": 1792166097708,
+      "imageDimensions": {
+        "width": 3871,
+        "height": 5000
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1707061878466-82UMPZGZBSR84ADZLDKE/LM_T_LE_TEMPS_+DESIGN_0998.jpg",
+          "imageDimensions": {
+            "width": 3871,
+            "height": 5000
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -813,10 +933,18 @@
       "publishOn": 1706797750023,
       "addedOn": 1706797750023,
       "updatedOn": 1792166102501,
+      "imageDimensions": {
+        "width": 917,
+        "height": 1147
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706797599245-VU9A4O622RYY1LJYYJHI/1123_PRINCESSETAMTAM_DCD_LOOK04_070+copie.jpg",
+          "imageDimensions": {
+            "width": 917,
+            "height": 1147
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -867,10 +995,18 @@
       "publishOn": 1706796885084,
       "addedOn": 1706796885084,
       "updatedOn": 1792166120352,
+      "imageDimensions": {
+        "width": 1366,
+        "height": 2048
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706796896817-TI0RN61SPKKVV4K393J6/_B0A0685+copy.jpg",
+          "imageDimensions": {
+            "width": 1366,
+            "height": 2048
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -919,10 +1055,18 @@
       "publishOn": 1706796728365,
       "addedOn": 1706796728365,
       "updatedOn": 1792166180598,
+      "imageDimensions": {
+        "width": 1080,
+        "height": 1080
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706796771854-ISG59OAPC6NV9F8CD155/ek-lookbook_AW23-instagram_post-2023-12-0112.jpg",
+          "imageDimensions": {
+            "width": 1080,
+            "height": 1080
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -973,10 +1117,18 @@
       "publishOn": 1706621870725,
       "addedOn": 1706621870725,
       "updatedOn": 1792166207162,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 2000
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706629570743-O4EGPZGHJSDD97AVA0IK/betinadutoit_067_3_33+copy.jpg",
+          "imageDimensions": {
+            "width": 1600,
+            "height": 2000
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1025,10 +1177,18 @@
       "publishOn": 1706544423545,
       "addedOn": 1706544423545,
       "updatedOn": 1792166217580,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1800
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706544432050-9HWYY9T7PQO9SF69DKWT/Anouck-Mutsaerts-T-Le-Temps-A-Design-Story-with-Paul-Lepreux-03.jpg",
+          "imageDimensions": {
+            "width": 1440,
+            "height": 1800
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1076,10 +1236,18 @@
       "publishOn": 1706544035780,
       "addedOn": 1706544035780,
       "updatedOn": 1792166224214,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 2000
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706629736289-9D899LP06S3QU6QZMD74/02_NP_WATCHES.jpg",
+          "imageDimensions": {
+            "width": 1600,
+            "height": 2000
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1128,10 +1296,18 @@
       "publishOn": 1706542372078,
       "addedOn": 1706542372078,
       "updatedOn": 1792166249287,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1800
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706542191059-2MUZDSCVX9IW7ZEEA39A/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-with-AMPM-04.jpg",
+          "imageDimensions": {
+            "width": 1440,
+            "height": 1800
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1180,10 +1356,18 @@
       "publishOn": 1706540215080,
       "addedOn": 1706540215080,
       "updatedOn": 1792166254929,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 2100
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706540281523-EEP5IMC7Y0HMOHRVXJFQ/Anouck-Mutsaerts-T-Le-Temps-A-Design-Story-with-Philippe-Jarrigeon-02.jpg",
+          "imageDimensions": {
+            "width": 1800,
+            "height": 2100
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1233,10 +1417,18 @@
       "publishOn": 1706538037747,
       "addedOn": 1706538037747,
       "updatedOn": 1792166263151,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1800
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706538067151-DTW0DJ98467KGXABL1PO/Anouck-Mutsaerts-T-Le-Temps-A-watch-Story-with-Mathieu-Lavanchy-02.jpg",
+          "imageDimensions": {
+            "width": 1440,
+            "height": 1800
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1286,10 +1478,18 @@
       "publishOn": 1706537386883,
       "addedOn": 1706537386883,
       "updatedOn": 1792166269624,
+      "imageDimensions": {
+        "width": 4536,
+        "height": 5859
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706629687496-TDRVGOQ3WT2M2TB1YJXZ/5.jpg",
+          "imageDimensions": {
+            "width": 4536,
+            "height": 5859
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1340,10 +1540,18 @@
       "publishOn": 1706532739657,
       "addedOn": 1706532739657,
       "updatedOn": 1792166290886,
+      "imageDimensions": {
+        "width": 2400,
+        "height": 1800
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706532796974-JUQMYLHK1ELWAUJXFZGQ/Anouck-Mutsaerts-T-Le-Temps-A-Watch-Story-with-Felix-Dol-Maillot-01.jpg",
+          "imageDimensions": {
+            "width": 2400,
+            "height": 1800
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1393,10 +1601,18 @@
       "publishOn": 1706532126104,
       "addedOn": 1706532126104,
       "updatedOn": 1792166299098,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1800
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706532020412-HRE98WA5UOOX8Y2449Y1/Anouck-Mutsaerts-T-Le-Temps-A-High-Jewelry-Story-with-Charles-Negre-01.jpg",
+          "imageDimensions": {
+            "width": 1440,
+            "height": 1800
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1446,10 +1662,18 @@
       "publishOn": 1706199120884,
       "addedOn": 1706199120884,
       "updatedOn": 1792166307297,
+      "imageDimensions": {
+        "width": 1350,
+        "height": 1800
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706195919071-TR90P79LDNYYCX73IVQ7/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-02.jpg",
+          "imageDimensions": {
+            "width": 1350,
+            "height": 1800
+          },
           "mediaFocalPoint": {
             "x": 0.5246603387306905,
             "y": 0.31313366198493164,
@@ -1499,10 +1723,18 @@
       "publishOn": 1706198794622,
       "addedOn": 1706198794622,
       "updatedOn": 1792166325472,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1800
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706198747869-W2A6N26823XUF7CX6U5C/Anouck-Mutsaerts-T-Le-Temps-A-High-Jewelry-Story-with-Guillaume-Blondiau-05.jpg",
+          "imageDimensions": {
+            "width": 1440,
+            "height": 1800
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1551,10 +1783,18 @@
       "publishOn": 1706197496622,
       "addedOn": 1706197496622,
       "updatedOn": 1792166332079,
+      "imageDimensions": {
+        "width": 1350,
+        "height": 1801
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706197510938-PN9I3X5940FI5FY5ZGN4/Anouck-Mutsaerts-T-Le-Temps-An-Accessory-Story-with-Charly-Gosp-01.jpg",
+          "imageDimensions": {
+            "width": 1350,
+            "height": 1801
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1602,10 +1842,18 @@
       "publishOn": 1706190461700,
       "addedOn": 1706190461700,
       "updatedOn": 1792166338649,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1800
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706190476368-01FP1O2DKK148XK6N2XJ/Anouck-Mutsaerts-Comptoir-des-Cotonniers-Denim-01.jpg",
+          "imageDimensions": {
+            "width": 1440,
+            "height": 1800
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
@@ -1653,10 +1901,18 @@
       "publishOn": 1706182969311,
       "addedOn": 1706182969311,
       "updatedOn": 1792166357394,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1800
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1706183059540-Z9IK73JCZI7V5XBUULZB/Anouck-Mutsaerts-Princesse-Tam-Tam-Pyjmania-04.jpg",
+          "imageDimensions": {
+            "width": 1440,
+            "height": 1800
+          },
           "mediaFocalPoint": {
             "x": 0.3594140556879614,
             "y": 0.2059712598242106,
@@ -1705,6 +1961,10 @@
       "publishOn": 1705075527959,
       "addedOn": 1705075527959,
       "updatedOn": 1792166362958,
+      "imageDimensions": {
+        "width": 2560,
+        "height": 2048
+      },
       "media": [
         {
           "type": "video",
@@ -1727,6 +1987,10 @@
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1705673507559-BXLACQSVT0AQ2SN0KHQR/Anouck-Mutsaerts-FW22-Cloudeasy-Editorials-16.jpg",
+          "imageDimensions": {
+            "width": 2560,
+            "height": 2048
+          },
           "mediaFocalPoint": {
             "x": 0.5547619047619048,
             "y": 0.27083333333333337,
@@ -1777,10 +2041,18 @@
       "publishOn": 1705059625182,
       "addedOn": 1705059625182,
       "updatedOn": 1792166368439,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 2100
+      },
       "media": [
         {
           "type": "image",
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/649ef352b2aedb5be69f85ac/1705059614663-64K60KBK4FSQKDWVZBXE/Anouck-Mutsaerts-T-Le-Temps-37.jpg",
+          "imageDimensions": {
+            "width": 1800,
+            "height": 2100
+          },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,

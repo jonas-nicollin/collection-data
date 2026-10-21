@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-10-01T13:28:25.949Z",
-  "sourceHash": "1c37e77e78a57e243de73bd41c58284c8a6527589bd7f444577952998d3c34b7",
+  "updatedAt": "2026-10-21T10:25:55.690Z",
+  "sourceHash": "0e7ec7caa29a6b5f27a98aa7e48ddf2229c8729796caf12bad1332f8a18902dc",
   "count": 93,
   "pages": 1,
   "items": [
@@ -50,7 +50,11 @@
       "starred": false,
       "publishOn": 1748649600571,
       "addedOn": 1748649600571,
-      "updatedOn": 1782197778434
+      "updatedOn": 1782197778434,
+      "imageDimensions": {
+        "width": 2560,
+        "height": 1440
+      }
     },
     {
       "id": "6824878dcdfab25869f2b273",
@@ -90,7 +94,11 @@
       "starred": false,
       "publishOn": 1748476800370,
       "addedOn": 1748476800370,
-      "updatedOn": 1785797849274
+      "updatedOn": 1785797849274,
+      "imageDimensions": {
+        "width": 1350,
+        "height": 900
+      }
     },
     {
       "id": "6a252c2437cb0c548d7ea898",
@@ -131,7 +139,11 @@
       "starred": false,
       "publishOn": 1748421028846,
       "addedOn": 1748421028846,
-      "updatedOn": 1782197822608
+      "updatedOn": 1782197822608,
+      "imageDimensions": {
+        "width": 3543,
+        "height": 2365
+      }
     },
     {
       "id": "6824878dcdfab25869f2b293",
@@ -170,7 +182,11 @@
       "starred": false,
       "publishOn": 1748304000813,
       "addedOn": 1748304000813,
-      "updatedOn": 1782197837567
+      "updatedOn": 1782197837567,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6a31c0452ae9c66774cbbfe4",
@@ -211,7 +227,11 @@
       "starred": false,
       "publishOn": 1748302181143,
       "addedOn": 1748302181143,
-      "updatedOn": 1786461001016
+      "updatedOn": 1786461001016,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1350
+      }
     },
     {
       "id": "6a53e3395b8ea50435dd21de",
@@ -251,7 +271,11 @@
       "starred": false,
       "publishOn": 1748301053564,
       "addedOn": 1748301053564,
-      "updatedOn": 1786461039374
+      "updatedOn": 1786461039374,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1198
+      }
     },
     {
       "id": "6a709cf907a7104addba3ad5",
@@ -292,7 +316,11 @@
       "starred": false,
       "publishOn": 1748296913647,
       "addedOn": 1748296913647,
-      "updatedOn": 1787513152440
+      "updatedOn": 1787513152440,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 1333
+      }
     },
     {
       "id": "6824878ecdfab25869f2b296",
@@ -334,7 +362,11 @@
       "starred": false,
       "publishOn": 1748293200802,
       "addedOn": 1748293200802,
-      "updatedOn": 1782197872239
+      "updatedOn": 1782197872239,
+      "imageDimensions": {
+        "width": 1920,
+        "height": 1280
+      }
     },
     {
       "id": "6824878ecdfab25869f2b299",
@@ -377,7 +409,11 @@
       "starred": false,
       "publishOn": 1748253600298,
       "addedOn": 1748253600298,
-      "updatedOn": 1782197889607
+      "updatedOn": 1782197889607,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "687cf30a65caa0077fbbfdf3",
@@ -419,7 +455,11 @@
       "starred": false,
       "publishOn": 1748242800856,
       "addedOn": 1748242800856,
-      "updatedOn": 1782197905550
+      "updatedOn": 1782197905550,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6a25304f7cef27205f03b18b",
@@ -461,7 +501,11 @@
       "starred": false,
       "publishOn": 1747957695570,
       "addedOn": 1747957695570,
-      "updatedOn": 1787052854779
+      "updatedOn": 1787052854779,
+      "imageDimensions": {
+        "width": 2500,
+        "height": 1875
+      }
     },
     {
       "id": "6824878fcdfab25869f2b2a2",
@@ -506,7 +550,11 @@
       "starred": false,
       "publishOn": 1747908000489,
       "addedOn": 1747908000489,
-      "updatedOn": 1787052903204
+      "updatedOn": 1787052903204,
+      "imageDimensions": {
+        "width": 1920,
+        "height": 1280
+      }
     },
     {
       "id": "6824878ecdfab25869f2b29c",
@@ -548,7 +596,11 @@
       "starred": false,
       "publishOn": 1747872000571,
       "addedOn": 1747872000571,
-      "updatedOn": 1782139528743
+      "updatedOn": 1782139528743,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 1000
+      }
     },
     {
       "id": "6824878fcdfab25869f2b2a5",
@@ -587,7 +639,11 @@
       "starred": false,
       "publishOn": 1747785600817,
       "addedOn": 1747785600817,
-      "updatedOn": 1782197758622
+      "updatedOn": 1782197758622,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6824878fcdfab25869f2b2c1",
@@ -627,7 +683,11 @@
       "starred": false,
       "publishOn": 1747699200395,
       "addedOn": 1747699200395,
-      "updatedOn": 1782198003149
+      "updatedOn": 1782198003149,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6824878fcdfab25869f2b2c5",
@@ -667,7 +727,11 @@
       "starred": false,
       "publishOn": 1747612800397,
       "addedOn": 1747612800397,
-      "updatedOn": 1782198018249
+      "updatedOn": 1782198018249,
+      "imageDimensions": {
+        "width": 1740,
+        "height": 1160
+      }
     },
     {
       "id": "6824878fcdfab25869f2b2c8",
@@ -711,7 +775,11 @@
       "starred": false,
       "publishOn": 1747526400968,
       "addedOn": 1747526400968,
-      "updatedOn": 1787000667138
+      "updatedOn": 1787000667138,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248790cdfab25869f2b2cb",
@@ -751,7 +819,11 @@
       "starred": false,
       "publishOn": 1747440000079,
       "addedOn": 1747440000079,
-      "updatedOn": 1782198126027
+      "updatedOn": 1782198126027,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 1000
+      }
     },
     {
       "id": "687cf81d4647cd45e2704818",
@@ -793,7 +865,11 @@
       "starred": false,
       "publishOn": 1747378800533,
       "addedOn": 1747378800533,
-      "updatedOn": 1785798203736
+      "updatedOn": 1785798203736,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6a2512fa54fe294edeb7383a",
@@ -834,7 +910,11 @@
       "starred": false,
       "publishOn": 1747377786694,
       "addedOn": 1747377786694,
-      "updatedOn": 1786360764130
+      "updatedOn": 1786360764130,
+      "imageDimensions": {
+        "width": 2200,
+        "height": 1474
+      }
     },
     {
       "id": "6a70a1a361412d59ead1a1b3",
@@ -874,7 +954,11 @@
       "starred": false,
       "publishOn": 1747350707530,
       "addedOn": 1747350707530,
-      "updatedOn": 1786461113663
+      "updatedOn": 1786461113663,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 1333
+      }
     },
     {
       "id": "68248794cdfab25869f2b37b",
@@ -915,7 +999,11 @@
       "starred": false,
       "publishOn": 1747267200639,
       "addedOn": 1747267200639,
-      "updatedOn": 1782198198894
+      "updatedOn": 1782198198894,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 1125
+      }
     },
     {
       "id": "68248790cdfab25869f2b2eb",
@@ -953,7 +1041,11 @@
       "starred": false,
       "publishOn": 1747267200408,
       "addedOn": 1747267200408,
-      "updatedOn": 1782198225172
+      "updatedOn": 1782198225172,
+      "imageDimensions": {
+        "width": 2500,
+        "height": 1668
+      }
     },
     {
       "id": "68248790cdfab25869f2b2ee",
@@ -991,7 +1083,11 @@
       "starred": false,
       "publishOn": 1747180800494,
       "addedOn": 1747180800494,
-      "updatedOn": 1782198251212
+      "updatedOn": 1782198251212,
+      "imageDimensions": {
+        "width": 2700,
+        "height": 1800
+      }
     },
     {
       "id": "68248791cdfab25869f2b2f1",
@@ -1032,7 +1128,11 @@
       "starred": false,
       "publishOn": 1747094400764,
       "addedOn": 1747094400764,
-      "updatedOn": 1782198268492
+      "updatedOn": 1782198268492,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248791cdfab25869f2b2f4",
@@ -1070,7 +1170,11 @@
       "starred": false,
       "publishOn": 1747008000100,
       "addedOn": 1747008000100,
-      "updatedOn": 1782198283496
+      "updatedOn": 1782198283496,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248791cdfab25869f2b2f7",
@@ -1112,7 +1216,11 @@
       "starred": false,
       "publishOn": 1746925200663,
       "addedOn": 1746925200663,
-      "updatedOn": 1782198317535
+      "updatedOn": 1782198317535,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6a8b494012648a6c45b0864e",
@@ -1155,7 +1263,11 @@
       "starred": false,
       "publishOn": 1746925192416,
       "addedOn": 1746925192416,
-      "updatedOn": 1787566198526
+      "updatedOn": 1787566198526,
+      "imageDimensions": {
+        "width": 1486,
+        "height": 1059
+      }
     },
     {
       "id": "6a31ba0abc9a0719f5e776e5",
@@ -1196,7 +1308,11 @@
       "starred": false,
       "publishOn": 1746921786583,
       "addedOn": 1746921786583,
-      "updatedOn": 1786461155258
+      "updatedOn": 1786461155258,
+      "imageDimensions": {
+        "width": 2560,
+        "height": 1706
+      }
     },
     {
       "id": "6a85a2f4dab854047ea4d146",
@@ -1239,7 +1355,11 @@
       "starred": false,
       "publishOn": 1746921780789,
       "addedOn": 1746921780789,
-      "updatedOn": 1787168232545
+      "updatedOn": 1787168232545,
+      "imageDimensions": {
+        "width": 3080,
+        "height": 2200
+      }
     },
     {
       "id": "68248791cdfab25869f2b314",
@@ -1279,7 +1399,11 @@
       "starred": false,
       "publishOn": 1746835200125,
       "addedOn": 1746835200125,
-      "updatedOn": 1782198363634
+      "updatedOn": 1782198363634,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "68248791cdfab25869f2b317",
@@ -1321,7 +1445,11 @@
       "starred": false,
       "publishOn": 1746820800363,
       "addedOn": 1746820800363,
-      "updatedOn": 1782198557955
+      "updatedOn": 1782198557955,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6899efc768649936a31d8c09",
@@ -1363,7 +1491,11 @@
       "starred": false,
       "publishOn": 1746754020733,
       "addedOn": 1746754020733,
-      "updatedOn": 1787005294604
+      "updatedOn": 1787005294604,
+      "imageDimensions": {
+        "width": 4032,
+        "height": 3024
+      }
     },
     {
       "id": "68b0b98d3e112f3afcdb3de5",
@@ -1405,7 +1537,11 @@
       "starred": false,
       "publishOn": 1746692700899,
       "addedOn": 1746692700899,
-      "updatedOn": 1787564678281
+      "updatedOn": 1787564678281,
+      "imageDimensions": {
+        "width": 1200,
+        "height": 900
+      }
     },
     {
       "id": "68248792cdfab25869f2b31d",
@@ -1446,7 +1582,11 @@
       "starred": false,
       "publishOn": 1746576000602,
       "addedOn": 1746576000602,
-      "updatedOn": 1785240907018
+      "updatedOn": 1785240907018,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "68a7703bb98fa652d187ce8e",
@@ -1487,7 +1627,11 @@
       "starred": false,
       "publishOn": 1746516240181,
       "addedOn": 1746516240181,
-      "updatedOn": 1782200166979
+      "updatedOn": 1782200166979,
+      "imageDimensions": {
+        "width": 1920,
+        "height": 1440
+      }
     },
     {
       "id": "6898ea0eb1d6b17e81949dfb",
@@ -1525,7 +1669,11 @@
       "starred": false,
       "publishOn": 1746514200804,
       "addedOn": 1746514200804,
-      "updatedOn": 1782200184119
+      "updatedOn": 1782200184119,
+      "imageDimensions": {
+        "width": 1200,
+        "height": 960
+      }
     },
     {
       "id": "687cfa47946dc70a1cf1bc1e",
@@ -1568,7 +1716,11 @@
       "starred": false,
       "publishOn": 1746486000247,
       "addedOn": 1746486000247,
-      "updatedOn": 1782200201672
+      "updatedOn": 1782200201672,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248792cdfab25869f2b324",
@@ -1610,7 +1762,11 @@
       "starred": false,
       "publishOn": 1746403200262,
       "addedOn": 1746403200262,
-      "updatedOn": 1782200220965
+      "updatedOn": 1782200220965,
+      "imageDimensions": {
+        "width": 660,
+        "height": 440
+      }
     },
     {
       "id": "68248793cdfab25869f2b346",
@@ -1652,7 +1808,11 @@
       "starred": false,
       "publishOn": 1746316800678,
       "addedOn": 1746316800678,
-      "updatedOn": 1786482430231
+      "updatedOn": 1786482430231,
+      "imageDimensions": {
+        "width": 1680,
+        "height": 1120
+      }
     },
     {
       "id": "68248793cdfab25869f2b340",
@@ -1691,7 +1851,11 @@
       "starred": false,
       "publishOn": 1746313200847,
       "addedOn": 1746313200847,
-      "updatedOn": 1782200266336
+      "updatedOn": 1782200266336,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "68248793cdfab25869f2b356",
@@ -1729,7 +1893,11 @@
       "starred": false,
       "publishOn": 1746057600575,
       "addedOn": 1746057600575,
-      "updatedOn": 1782200291616
+      "updatedOn": 1782200291616,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "687cf6cd620a31627dde0200",
@@ -1767,7 +1935,11 @@
       "starred": false,
       "publishOn": 1745996400994,
       "addedOn": 1745996400994,
-      "updatedOn": 1782200327637
+      "updatedOn": 1782200327637,
+      "imageDimensions": {
+        "width": 1260,
+        "height": 840
+      }
     },
     {
       "id": "68248793cdfab25869f2b372",
@@ -1810,7 +1982,11 @@
       "starred": false,
       "publishOn": 1745971200745,
       "addedOn": 1745971200745,
-      "updatedOn": 1789475667336
+      "updatedOn": 1789475667336,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1280
+      }
     },
     {
       "id": "68248794cdfab25869f2b375",
@@ -1853,7 +2029,11 @@
       "starred": false,
       "publishOn": 1745884800083,
       "addedOn": 1745884800083,
-      "updatedOn": 1787144731028
+      "updatedOn": 1787144731028,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1080
+      }
     },
     {
       "id": "68248794cdfab25869f2b378",
@@ -1892,7 +2072,11 @@
       "starred": false,
       "publishOn": 1745830800755,
       "addedOn": 1745830800755,
-      "updatedOn": 1785799650934
+      "updatedOn": 1785799650934,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6a711e649a1f565e923e5561",
@@ -1930,7 +2114,11 @@
       "starred": false,
       "publishOn": 1745795044382,
       "addedOn": 1745795044382,
-      "updatedOn": 1785799639849
+      "updatedOn": 1785799639849,
+      "imageDimensions": {
+        "width": 2560,
+        "height": 1440
+      }
     },
     {
       "id": "6a711826ccee0d24443e999e",
@@ -1971,7 +2159,11 @@
       "starred": false,
       "publishOn": 1745789846300,
       "addedOn": 1745789846300,
-      "updatedOn": 1786461277733
+      "updatedOn": 1786461277733,
+      "imageDimensions": {
+        "width": 638,
+        "height": 428
+      }
     },
     {
       "id": "68248795cdfab25869f2b3a7",
@@ -2013,7 +2205,11 @@
       "starred": false,
       "publishOn": 1745713800437,
       "addedOn": 1745713800437,
-      "updatedOn": 1786360423424
+      "updatedOn": 1786360423424,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "6a330efaf58c910d7b4b6a15",
@@ -2055,7 +2251,11 @@
       "starred": false,
       "publishOn": 1745708506022,
       "addedOn": 1745708506022,
-      "updatedOn": 1786461305140
+      "updatedOn": 1786461305140,
+      "imageDimensions": {
+        "width": 1024,
+        "height": 768
+      }
     },
     {
       "id": "68828065b0bcb434942b72d2",
@@ -2097,7 +2297,11 @@
       "starred": false,
       "publishOn": 1745708400701,
       "addedOn": 1745708400701,
-      "updatedOn": 1782200628723
+      "updatedOn": 1782200628723,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "687cf5978a3e3f3c0f2a07fa",
@@ -2135,7 +2339,11 @@
       "starred": false,
       "publishOn": 1745643600837,
       "addedOn": 1745643600837,
-      "updatedOn": 1782200665068
+      "updatedOn": 1782200665068,
+      "imageDimensions": {
+        "width": 2500,
+        "height": 1875
+      }
     },
     {
       "id": "68248794cdfab25869f2b397",
@@ -2176,7 +2384,11 @@
       "starred": false,
       "publishOn": 1745575200861,
       "addedOn": 1745575200861,
-      "updatedOn": 1782200733003
+      "updatedOn": 1782200733003,
+      "imageDimensions": {
+        "width": 900,
+        "height": 600
+      }
     },
     {
       "id": "687cf6123c4c4a7de7e9ad40",
@@ -2217,7 +2429,11 @@
       "starred": false,
       "publishOn": 1745575200709,
       "addedOn": 1745575200709,
-      "updatedOn": 1782200847606
+      "updatedOn": 1782200847606,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248792cdfab25869f2b31a",
@@ -2259,7 +2475,11 @@
       "starred": false,
       "publishOn": 1745571600330,
       "addedOn": 1745571600330,
-      "updatedOn": 1782215174511
+      "updatedOn": 1782215174511,
+      "imageDimensions": {
+        "width": 1560,
+        "height": 1040
+      }
     },
     {
       "id": "687cf28ca63e0b4856a2f447",
@@ -2298,7 +2518,11 @@
       "starred": false,
       "publishOn": 1745568000310,
       "addedOn": 1745568000310,
-      "updatedOn": 1785801123805
+      "updatedOn": 1785801123805,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 1000
+      }
     },
     {
       "id": "6a251e6b91521777c54fc531",
@@ -2340,7 +2564,11 @@
       "starred": false,
       "publishOn": 1745566315953,
       "addedOn": 1745566315953,
-      "updatedOn": 1786487565438
+      "updatedOn": 1786487565438,
+      "imageDimensions": {
+        "width": 1290,
+        "height": 1204
+      }
     },
     {
       "id": "68248795cdfab25869f2b3a1",
@@ -2378,7 +2606,11 @@
       "starred": false,
       "publishOn": 1745539200195,
       "addedOn": 1745539200195,
-      "updatedOn": 1782215852713
+      "updatedOn": 1782215852713,
+      "imageDimensions": {
+        "width": 750,
+        "height": 500
+      }
     },
     {
       "id": "68248795cdfab25869f2b3a4",
@@ -2418,7 +2650,11 @@
       "starred": false,
       "publishOn": 1745452800331,
       "addedOn": 1745452800331,
-      "updatedOn": 1782215870643
+      "updatedOn": 1782215870643,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6a2525d537cb0c548d7da56b",
@@ -2459,7 +2695,11 @@
       "starred": false,
       "publishOn": 1745309013736,
       "addedOn": 1745309013736,
-      "updatedOn": 1782216003566
+      "updatedOn": 1782216003566,
+      "imageDimensions": {
+        "width": 1523,
+        "height": 1015
+      }
     },
     {
       "id": "68248795cdfab25869f2b3b2",
@@ -2500,7 +2740,11 @@
       "starred": false,
       "publishOn": 1745193600297,
       "addedOn": 1745193600297,
-      "updatedOn": 1783546021189
+      "updatedOn": 1783546021189,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248796cdfab25869f2b3b5",
@@ -2539,7 +2783,11 @@
       "starred": false,
       "publishOn": 1745107200027,
       "addedOn": 1745107200027,
-      "updatedOn": 1782216040160
+      "updatedOn": 1782216040160,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "68248796cdfab25869f2b3b8",
@@ -2577,7 +2825,11 @@
       "starred": false,
       "publishOn": 1745020800010,
       "addedOn": 1745020800010,
-      "updatedOn": 1782216086999
+      "updatedOn": 1782216086999,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248796cdfab25869f2b3bb",
@@ -2615,7 +2867,11 @@
       "starred": false,
       "publishOn": 1744934400198,
       "addedOn": 1744934400198,
-      "updatedOn": 1782220103562
+      "updatedOn": 1782220103562,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248796cdfab25869f2b3d7",
@@ -2656,7 +2912,11 @@
       "starred": false,
       "publishOn": 1744848000236,
       "addedOn": 1744848000236,
-      "updatedOn": 1788380469487
+      "updatedOn": 1788380469487,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "68248797cdfab25869f2b3fc",
@@ -2695,7 +2955,11 @@
       "starred": false,
       "publishOn": 1744797600141,
       "addedOn": 1744797600141,
-      "updatedOn": 1782220195386
+      "updatedOn": 1782220195386,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248797cdfab25869f2b3da",
@@ -2733,7 +2997,11 @@
       "starred": false,
       "publishOn": 1744761600374,
       "addedOn": 1744761600374,
-      "updatedOn": 1782220594692
+      "updatedOn": 1782220594692,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 1000
+      }
     },
     {
       "id": "6a70a67ca9b5546fa2f313c2",
@@ -2774,7 +3042,11 @@
       "starred": false,
       "publishOn": 1744727548680,
       "addedOn": 1744727548680,
-      "updatedOn": 1786461342931
+      "updatedOn": 1786461342931,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 1333
+      }
     },
     {
       "id": "68248797cdfab25869f2b43f",
@@ -2813,7 +3085,11 @@
       "starred": false,
       "publishOn": 1744588800353,
       "addedOn": 1744588800353,
-      "updatedOn": 1782220628370
+      "updatedOn": 1782220628370,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6a33f90afbe7475617881141",
@@ -2855,7 +3131,11 @@
       "starred": false,
       "publishOn": 1744588586415,
       "addedOn": 1744588586415,
-      "updatedOn": 1786461369939
+      "updatedOn": 1786461369939,
+      "imageDimensions": {
+        "width": 1536,
+        "height": 1024
+      }
     },
     {
       "id": "68248797cdfab25869f2b485",
@@ -2897,7 +3177,11 @@
       "starred": false,
       "publishOn": 1744502400692,
       "addedOn": 1744502400692,
-      "updatedOn": 1782220670951
+      "updatedOn": 1782220670951,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "68248798cdfab25869f2b4c6",
@@ -2939,7 +3223,11 @@
       "starred": false,
       "publishOn": 1744416000080,
       "addedOn": 1744416000080,
-      "updatedOn": 1785764705085
+      "updatedOn": 1785764705085,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248798cdfab25869f2b570",
@@ -2982,7 +3270,11 @@
       "starred": false,
       "publishOn": 1744365600379,
       "addedOn": 1744365600379,
-      "updatedOn": 1782220712258
+      "updatedOn": 1782220712258,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 900
+      }
     },
     {
       "id": "68248798cdfab25869f2b50b",
@@ -3027,7 +3319,11 @@
       "starred": false,
       "publishOn": 1744329600107,
       "addedOn": 1744329600107,
-      "updatedOn": 1785698925571
+      "updatedOn": 1785698925571,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248798cdfab25869f2b587",
@@ -3067,7 +3363,11 @@
       "starred": false,
       "publishOn": 1744156800422,
       "addedOn": 1744156800422,
-      "updatedOn": 1782220777656
+      "updatedOn": 1782220777656,
+      "imageDimensions": {
+        "width": 1120,
+        "height": 840
+      }
     },
     {
       "id": "6a7114589a1f565e923ac5be",
@@ -3106,7 +3406,11 @@
       "starred": false,
       "publishOn": 1744147272543,
       "addedOn": 1744147272543,
-      "updatedOn": 1789650562418
+      "updatedOn": 1789650562418,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 1333
+      }
     },
     {
       "id": "6a7b9617da582315ee1715b0",
@@ -3147,7 +3451,11 @@
       "starred": false,
       "publishOn": 1744146027348,
       "addedOn": 1744146027348,
-      "updatedOn": 1786826549417
+      "updatedOn": 1786826549417,
+      "imageDimensions": {
+        "width": 2657,
+        "height": 1993
+      }
     },
     {
       "id": "68248793cdfab25869f2b343",
@@ -3189,7 +3497,11 @@
       "starred": false,
       "publishOn": 1744099200778,
       "addedOn": 1744099200778,
-      "updatedOn": 1782220793308
+      "updatedOn": 1782220793308,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248798cdfab25869f2b5a3",
@@ -3228,7 +3540,11 @@
       "starred": false,
       "publishOn": 1744070400458,
       "addedOn": 1744070400458,
-      "updatedOn": 1782220828186
+      "updatedOn": 1782220828186,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248799cdfab25869f2b5a7",
@@ -3272,7 +3588,11 @@
       "starred": false,
       "publishOn": 1743984000888,
       "addedOn": 1743984000888,
-      "updatedOn": 1787933641127
+      "updatedOn": 1787933641127,
+      "imageDimensions": {
+        "width": 2500,
+        "height": 1667
+      }
     },
     {
       "id": "687cf7b5d1ea102c304ccc1d",
@@ -3312,7 +3632,11 @@
       "starred": false,
       "publishOn": 1743922800279,
       "addedOn": 1743922800279,
-      "updatedOn": 1790860996054
+      "updatedOn": 1790860996054,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "6894704a8d222d78ea0ad6f1",
@@ -3354,7 +3678,11 @@
       "starred": false,
       "publishOn": 1743913320560,
       "addedOn": 1743913320560,
-      "updatedOn": 1786461655231
+      "updatedOn": 1786461655231,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6a7b8efeccbf2e287f691eca",
@@ -3392,7 +3720,11 @@
       "starred": false,
       "publishOn": 1743912430117,
       "addedOn": 1743912430117,
-      "updatedOn": 1786483954020
+      "updatedOn": 1786483954020,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 2000
+      }
     },
     {
       "id": "6a53e706fb742f7c1c34f4ed",
@@ -3432,7 +3764,11 @@
       "starred": false,
       "publishOn": 1743909126541,
       "addedOn": 1743909126541,
-      "updatedOn": 1786461437090
+      "updatedOn": 1786461437090,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 1333
+      }
     },
     {
       "id": "68248799cdfab25869f2b5aa",
@@ -3474,7 +3810,11 @@
       "starred": false,
       "publishOn": 1743897600564,
       "addedOn": 1743897600564,
-      "updatedOn": 1782220917683
+      "updatedOn": 1782220917683,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "68248799cdfab25869f2b5ad",
@@ -3516,7 +3856,11 @@
       "starred": false,
       "publishOn": 1743811200528,
       "addedOn": 1743811200528,
-      "updatedOn": 1782221041120
+      "updatedOn": 1782221041120,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "6a343db9689672253fa6631a",
@@ -3558,7 +3902,11 @@
       "starred": false,
       "publishOn": 1743792569838,
       "addedOn": 1743792569838,
-      "updatedOn": 1783424385330
+      "updatedOn": 1783424385330,
+      "imageDimensions": {
+        "width": 978,
+        "height": 550
+      }
     },
     {
       "id": "68248799cdfab25869f2b5b0",
@@ -3599,7 +3947,11 @@
       "starred": false,
       "publishOn": 1743724800089,
       "addedOn": 1743724800089,
-      "updatedOn": 1782221285923
+      "updatedOn": 1782221285923,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "6824879acdfab25869f2b5b3",
@@ -3639,7 +3991,11 @@
       "starred": false,
       "publishOn": 1743638400764,
       "addedOn": 1743638400764,
-      "updatedOn": 1782221300763
+      "updatedOn": 1782221300763,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1200
+      }
     },
     {
       "id": "6824879acdfab25869f2b5b6",
@@ -3682,7 +4038,11 @@
       "starred": false,
       "publishOn": 1743552000362,
       "addedOn": 1743552000362,
-      "updatedOn": 1782221353647
+      "updatedOn": 1782221353647,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     },
     {
       "id": "6a29ea03df6d743e11461f2d",
@@ -3721,7 +4081,11 @@
       "starred": false,
       "publishOn": 1743547779564,
       "addedOn": 1743547779564,
-      "updatedOn": 1782221371020
+      "updatedOn": 1782221371020,
+      "imageDimensions": {
+        "width": 1273,
+        "height": 1800
+      }
     },
     {
       "id": "6824879acdfab25869f2b5da",
@@ -3763,7 +4127,11 @@
       "starred": false,
       "publishOn": 1743465600518,
       "addedOn": 1743465600518,
-      "updatedOn": 1787934177398
+      "updatedOn": 1787934177398,
+      "imageDimensions": {
+        "width": 1280,
+        "height": 960
+      }
     },
     {
       "id": "6824879acdfab25869f2b5ef",
@@ -3803,7 +4171,11 @@
       "starred": false,
       "publishOn": 1743379200260,
       "addedOn": 1743379200260,
-      "updatedOn": 1782221532399
+      "updatedOn": 1782221532399,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 1200
+      }
     }
   ]
 }

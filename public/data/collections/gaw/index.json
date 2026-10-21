@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-09-25T15:27:17.668Z",
-  "sourceHash": "fdc658e430625b3078b12f169fe1b26beabb928f4ea0b0ee11e738c13106dd63",
+  "updatedAt": "2026-10-21T10:25:57.117Z",
+  "sourceHash": "ba9814cf86149ea58290f6980e50f01766ee588f191438fcc3bde60a65d0bb04",
   "count": 6,
   "pages": 1,
   "items": [
@@ -45,7 +45,11 @@
       "starred": false,
       "publishOn": 1785496689191,
       "addedOn": 1785496689191,
-      "updatedOn": 1785503789828
+      "updatedOn": 1785503789828,
+      "imageDimensions": {
+        "width": 3000,
+        "height": 2000
+      }
     },
     {
       "id": "6a6c833a434d6570806bbfac",
@@ -82,7 +86,11 @@
       "starred": false,
       "publishOn": 1785496603227,
       "addedOn": 1785496603227,
-      "updatedOn": 1785496607535
+      "updatedOn": 1785496607535,
+      "imageDimensions": {
+        "width": 3000,
+        "height": 2000
+      }
     },
     {
       "id": "6a6c82dd70ad2f758ea60040",
@@ -119,7 +127,11 @@
       "starred": false,
       "publishOn": 1785496321785,
       "addedOn": 1785496321785,
-      "updatedOn": 1788762525109
+      "updatedOn": 1788762525109,
+      "imageDimensions": {
+        "width": 3000,
+        "height": 2000
+      }
     },
     {
       "id": "6a6c82a770ad2f758ea5f1f1",
@@ -156,7 +168,11 @@
       "starred": false,
       "publishOn": 1785496280967,
       "addedOn": 1785496280967,
-      "updatedOn": 1787928084491
+      "updatedOn": 1787928084491,
+      "imageDimensions": {
+        "width": 2560,
+        "height": 1920
+      }
     },
     {
       "id": "6a6c821d724a8154193f3660",
@@ -193,7 +209,11 @@
       "starred": false,
       "publishOn": 1785496228297,
       "addedOn": 1785496228297,
-      "updatedOn": 1785496231975
+      "updatedOn": 1785496231975,
+      "imageDimensions": {
+        "width": 2560,
+        "height": 1920
+      }
     },
     {
       "id": "6a6c7c37a6ca42583f34ee8a",
@@ -230,7 +250,11 @@
       "starred": false,
       "publishOn": 1785495214813,
       "addedOn": 1785495214813,
-      "updatedOn": 1785496093199
+      "updatedOn": 1785496093199,
+      "imageDimensions": {
+        "width": 2560,
+        "height": 1920
+      }
     }
   ]
 }

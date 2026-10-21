@@ -5,8 +5,8 @@
   "id": "article",
   "path": "/article",
   "sourceUrl": "https://genevaartweek.com/article?format=json",
-  "updatedAt": "2026-10-21T08:27:57.332Z",
-  "sourceHash": "b04f2781dbe72a1cafa2cb68747cb815a48abbc688ebb3c802ec591d7c7a80de",
+  "updatedAt": "2026-10-21T10:25:56.726Z",
+  "sourceHash": "265cca39eb814acde9263567fbdbd07f7027f675b715664c4241469e63180505",
   "count": 37,
   "pages": 2,
   "items": [
@@ -48,7 +48,11 @@
       "starred": true,
       "publishOn": 1786570399120,
       "addedOn": 1786570399120,
-      "updatedOn": 1788723351439
+      "updatedOn": 1788723351439,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 2262
+      }
     },
     {
       "id": "6a7ba494f55ca112634858fa",
@@ -87,7 +91,11 @@
       "starred": false,
       "publishOn": 1786487956444,
       "addedOn": 1786487956444,
-      "updatedOn": 1792571152624
+      "updatedOn": 1792571152624,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 2662
+      }
     },
     {
       "id": "6a7a5a065c38821968b5a3cd",
@@ -126,7 +134,11 @@
       "starred": false,
       "publishOn": 1786403334110,
       "addedOn": 1786403334110,
-      "updatedOn": 1788816526101
+      "updatedOn": 1788816526101,
+      "imageDimensions": {
+        "width": 3242,
+        "height": 2316
+      }
     },
     {
       "id": "6a7a538239174e593eac4c41",
@@ -164,7 +176,11 @@
       "starred": false,
       "publishOn": 1786401666309,
       "addedOn": 1786401666309,
-      "updatedOn": 1788724081096
+      "updatedOn": 1788724081096,
+      "imageDimensions": {
+        "width": 1670,
+        "height": 2346
+      }
     },
     {
       "id": "6a7a49fcb218102c6e6fd4d9",
@@ -203,7 +219,11 @@
       "starred": false,
       "publishOn": 1786399228551,
       "addedOn": 1786399228551,
-      "updatedOn": 1788723748859
+      "updatedOn": 1788723748859,
+      "imageDimensions": {
+        "width": 1875,
+        "height": 2500
+      }
     },
     {
       "id": "6a79e999e66bd6264fa31826",
@@ -240,7 +260,11 @@
       "starred": false,
       "publishOn": 1786374553062,
       "addedOn": 1786374553062,
-      "updatedOn": 1788717434807
+      "updatedOn": 1788717434807,
+      "imageDimensions": {
+        "width": 2865,
+        "height": 2000
+      }
     },
     {
       "id": "6a79df8db255b621a7362b4b",
@@ -279,7 +303,11 @@
       "starred": false,
       "publishOn": 1786371981789,
       "addedOn": 1786371981789,
-      "updatedOn": 1788816485269
+      "updatedOn": 1788816485269,
+      "imageDimensions": {
+        "width": 2000,
+        "height": 3000
+      }
     },
     {
       "id": "6a79dace0b67bc549947ee5f",
@@ -318,7 +346,11 @@
       "starred": false,
       "publishOn": 1786370766249,
       "addedOn": 1786370766249,
-      "updatedOn": 1788816453616
+      "updatedOn": 1788816453616,
+      "imageDimensions": {
+        "width": 1487,
+        "height": 2000
+      }
     },
     {
       "id": "6a0f90f989e5f9546d563d96",
@@ -356,7 +388,11 @@
       "starred": false,
       "publishOn": 1781855005811,
       "addedOn": 1781855005811,
-      "updatedOn": 1781855006011
+      "updatedOn": 1781855006011,
+      "imageDimensions": {
+        "width": 2160,
+        "height": 2880
+      }
     },
     {
       "id": "6a122420842261086bd522e1",
@@ -393,7 +429,11 @@
       "starred": false,
       "publishOn": 1779573792365,
       "addedOn": 1779573792365,
-      "updatedOn": 1788723368677
+      "updatedOn": 1788723368677,
+      "imageDimensions": {
+        "width": 2572,
+        "height": 2000
+      }
     },
     {
       "id": "6a121501f7b0481548d18eac",
@@ -429,7 +469,11 @@
       "starred": false,
       "publishOn": 1779569921880,
       "addedOn": 1779569921880,
-      "updatedOn": 1779573370307
+      "updatedOn": 1779573370307,
+      "imageDimensions": {
+        "width": 1280,
+        "height": 1920
+      }
     },
     {
       "id": "6a120ace2063d776bd1f3675",
@@ -467,7 +511,11 @@
       "starred": false,
       "publishOn": 1779567310283,
       "addedOn": 1779567310283,
-      "updatedOn": 1790775140722
+      "updatedOn": 1790775140722,
+      "imageDimensions": {
+        "width": 2063,
+        "height": 2000
+      }
     },
     {
       "id": "6a0f8e5009913b746bf12480",
@@ -505,7 +553,11 @@
       "starred": false,
       "publishOn": 1779549974378,
       "addedOn": 1779549974378,
-      "updatedOn": 1789567236293
+      "updatedOn": 1789567236293,
+      "imageDimensions": {
+        "width": 2160,
+        "height": 2880
+      }
     },
     {
       "id": "6a10a3124b5d4a2fb8c8c377",
@@ -546,7 +598,11 @@
       "starred": false,
       "publishOn": 1779482904105,
       "addedOn": 1779482904105,
-      "updatedOn": 1788722281412
+      "updatedOn": 1788722281412,
+      "imageDimensions": {
+        "width": 1400,
+        "height": 2100
+      }
     },
     {
       "id": "6a1059d04e55bb13041e2dcb",
@@ -584,7 +640,11 @@
       "starred": true,
       "publishOn": 1779458328900,
       "addedOn": 1779458328900,
-      "updatedOn": 1788723727326
+      "updatedOn": 1788723727326,
+      "imageDimensions": {
+        "width": 1273,
+        "height": 1920
+      }
     },
     {
       "id": "6a0f880682b392465d441a93",
@@ -622,7 +682,11 @@
       "starred": false,
       "publishOn": 1779449298422,
       "addedOn": 1779449298422,
-      "updatedOn": 1785700212975
+      "updatedOn": 1785700212975,
+      "imageDimensions": {
+        "width": 1920,
+        "height": 2560
+      }
     },
     {
       "id": "6a0f7fc07cdcb6319dc5ef14",
@@ -661,7 +725,11 @@
       "starred": false,
       "publishOn": 1779402318563,
       "addedOn": 1779402318563,
-      "updatedOn": 1786374553090
+      "updatedOn": 1786374553090,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1920
+      }
     },
     {
       "id": "6a0f720495c23d69f13f2ecf",
@@ -699,7 +767,11 @@
       "starred": false,
       "publishOn": 1779400398909,
       "addedOn": 1779400398909,
-      "updatedOn": 1786401666338
+      "updatedOn": 1786401666338,
+      "imageDimensions": {
+        "width": 1706,
+        "height": 1920
+      }
     },
     {
       "id": "69f34b704d7285666489939c",
@@ -737,7 +809,11 @@
       "starred": false,
       "publishOn": 1777552868692,
       "addedOn": 1777552868692,
-      "updatedOn": 1779402758894
+      "updatedOn": 1779402758894,
+      "imageDimensions": {
+        "width": 2160,
+        "height": 2880
+      }
     },
     {
       "id": "68e912f1726bf7419fc6819e",
@@ -776,7 +852,11 @@
       "starred": false,
       "publishOn": 1760107939226,
       "addedOn": 1760107939226,
-      "updatedOn": 1785504309281
+      "updatedOn": 1785504309281,
+      "imageDimensions": {
+        "width": 1200,
+        "height": 1600
+      }
     },
     {
       "id": "6a0fa00dfddd2772e79a5e37",
@@ -814,7 +894,11 @@
       "starred": false,
       "publishOn": 1759924316229,
       "addedOn": 1759924316229,
-      "updatedOn": 1785700347075
+      "updatedOn": 1785700347075,
+      "imageDimensions": {
+        "width": 1620,
+        "height": 2160
+      }
     },
     {
       "id": "68e50fd093ec250702069457",
@@ -852,7 +936,11 @@
       "starred": false,
       "publishOn": 1759843424606,
       "addedOn": 1759843424606,
-      "updatedOn": 1786399602777
+      "updatedOn": 1786399602777,
+      "imageDimensions": {
+        "width": 1280,
+        "height": 1920
+      }
     },
     {
       "id": "68b960d7ef30362bd664bc65",
@@ -891,7 +979,11 @@
       "starred": true,
       "publishOn": 1757519858105,
       "addedOn": 1757519858105,
-      "updatedOn": 1779458044093
+      "updatedOn": 1779458044093,
+      "imageDimensions": {
+        "width": 1280,
+        "height": 1920
+      }
     },
     {
       "id": "6a0f979e39d01c1d9898a22a",
@@ -930,7 +1022,11 @@
       "starred": false,
       "publishOn": 1757418070832,
       "addedOn": 1757418070832,
-      "updatedOn": 1785700371131
+      "updatedOn": 1785700371131,
+      "imageDimensions": {
+        "width": 1620,
+        "height": 2160
+      }
     },
     {
       "id": "689a011a54a4620ce8714039",
@@ -969,7 +1065,11 @@
       "starred": false,
       "publishOn": 1754923910778,
       "addedOn": 1754923910778,
-      "updatedOn": 1779407861371
+      "updatedOn": 1779407861371,
+      "imageDimensions": {
+        "width": 1500,
+        "height": 1000
+      }
     },
     {
       "id": "6899f81be7255e29ec77da61",
@@ -1008,7 +1108,11 @@
       "starred": false,
       "publishOn": 1754921867065,
       "addedOn": 1754921867065,
-      "updatedOn": 1779573405840
+      "updatedOn": 1779573405840,
+      "imageDimensions": {
+        "width": 960,
+        "height": 960
+      }
     },
     {
       "id": "6899e3a165abbf55060795f7",
@@ -1048,7 +1152,11 @@
       "starred": false,
       "publishOn": 1754915888935,
       "addedOn": 1754915888935,
-      "updatedOn": 1779455553493
+      "updatedOn": 1779455553493,
+      "imageDimensions": {
+        "width": 1920,
+        "height": 1440
+      }
     },
     {
       "id": "6899dee4f1c33a1e2e97ae63",
@@ -1088,7 +1196,11 @@
       "starred": false,
       "publishOn": 1754915717654,
       "addedOn": 1754915717654,
-      "updatedOn": 1782220071724
+      "updatedOn": 1782220071724,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1920
+      }
     },
     {
       "id": "6899daa0f3895a7e48c98936",
@@ -1128,7 +1240,11 @@
       "starred": false,
       "publishOn": 1754914517849,
       "addedOn": 1754914517849,
-      "updatedOn": 1779407724914
+      "updatedOn": 1779407724914,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1920
+      }
     },
     {
       "id": "6899c51bdda9355c39dc30d3",
@@ -1168,7 +1284,11 @@
       "starred": false,
       "publishOn": 1754908913272,
       "addedOn": 1754908913272,
-      "updatedOn": 1790775189647
+      "updatedOn": 1790775189647,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 1066
+      }
     },
     {
       "id": "6899c107aebcf263997354ef",
@@ -1205,7 +1325,11 @@
       "starred": false,
       "publishOn": 1754907803883,
       "addedOn": 1754907803883,
-      "updatedOn": 1779400640428
+      "updatedOn": 1779400640428,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1920
+      }
     },
     {
       "id": "6895d13342fcc62f2e4f7a80",
@@ -1245,7 +1369,11 @@
       "starred": false,
       "publishOn": 1754660029817,
       "addedOn": 1754660029817,
-      "updatedOn": 1786401639050
+      "updatedOn": 1786401639050,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1920
+      }
     },
     {
       "id": "6895c46fe6f10e301fdfed80",
@@ -1283,7 +1411,11 @@
       "starred": false,
       "publishOn": 1754645615969,
       "addedOn": 1754645615969,
-      "updatedOn": 1779484134404
+      "updatedOn": 1779484134404,
+      "imageDimensions": {
+        "width": 1365,
+        "height": 1706
+      }
     },
     {
       "id": "6893538896a4d940520bc1ad",
@@ -1323,7 +1455,11 @@
       "starred": false,
       "publishOn": 1754485785054,
       "addedOn": 1754485785054,
-      "updatedOn": 1782224928797
+      "updatedOn": 1782224928797,
+      "imageDimensions": {
+        "width": 1280,
+        "height": 1920
+      }
     },
     {
       "id": "68920686bded6257f838ca68",
@@ -1361,7 +1497,11 @@
       "starred": true,
       "publishOn": 1754400899108,
       "addedOn": 1754400899108,
-      "updatedOn": 1779374061423
+      "updatedOn": 1779374061423,
+      "imageDimensions": {
+        "width": 1280,
+        "height": 1920
+      }
     },
     {
       "id": "6878f615d937c172673be9c7",
@@ -1401,7 +1541,11 @@
       "starred": true,
       "publishOn": 1754031600616,
       "addedOn": 1754031600616,
-      "updatedOn": 1786399258728
+      "updatedOn": 1786399258728,
+      "imageDimensions": {
+        "width": 1800,
+        "height": 2700
+      }
     },
     {
       "id": "6a0f9d429939bd1c35526515",
@@ -1440,7 +1584,11 @@
       "starred": false,
       "publishOn": 1753339694884,
       "addedOn": 1753339694884,
-      "updatedOn": 1785700282094
+      "updatedOn": 1785700282094,
+      "imageDimensions": {
+        "width": 2160,
+        "height": 2880
+      }
     }
   ]
 }
