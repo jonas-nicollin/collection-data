@@ -5,14 +5,75 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-22T13:28:20.270Z",
-  "sourceHash": "3110d07de2152c8ca23dd939fb22090a6fd1f38169229e74bc95d4a4955e6925",
-  "count": 766,
+  "updatedAt": "2026-10-22T13:38:32.956Z",
+  "sourceHash": "7de9fb32603591943741c8abb495b6e85850f324e689107faa2145270df52c47",
+  "count": 767,
   "pages": 4,
   "items": [
     {
+      "id": "6ada0fd8f34c400d0e5d5793",
+      "title": "Repaint-IHH",
+      "fullUrl": "/works/p/e4dnbabpbc5tlyr-rxr9s-zzewx-69tsh-pykda-s9rtb-5nra8",
+      "urlId": "e4dnbabpbc5tlyr-rxr9s-zzewx-69tsh-pykda-s9rtb-5nra8",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/9b4af902-7f33-4d43-b567-b437e420f91a/HD-TFO-2502.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Exhibition key: thomas-fougeirol-solo-show-2026"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil and pigment on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">116 x 89 cm. / 45 ¾ x 35 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TFO-2502</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1792675904868,
+      "addedOn": 1643206965705,
+      "updatedOn": 1792675904868,
+      "categories": [
+        "Thomas Fougeirol"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/9b4af902-7f33-4d43-b567-b437e420f91a/HD-TFO-2502.jpg",
+          "imageDimensions": {
+            "width": 3948,
+            "height": 5000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD-TFO-2502.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a362ff2b-0c18-4e8a-b46a-6127678c1ef6/HD-TFO-2502-01.jpg",
+          "imageDimensions": {
+            "width": 3335,
+            "height": 5000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD-TFO-2502-01.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "imageDimensions": {
+        "width": 3948,
+        "height": 5000
+      },
+      "categoryOrder": {
+        "Thomas Fougeirol": 0
+      }
+    },
+    {
       "id": "6ada0e577cc3850518c8367d",
-      "title": "repaint-IHG",
+      "title": "Repaint-IHG",
       "fullUrl": "/works/p/e4dnbabpbc5tlyr-rxr9s-zzewx-69tsh-pykda-s9rtb",
       "urlId": "e4dnbabpbc5tlyr-rxr9s-zzewx-69tsh-pykda-s9rtb",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/f674d97c-4f3f-4e4c-877e-5ea2f45ad9a8/HD-TFO-2501-01.jpg",
@@ -30,7 +91,7 @@
       "starred": false,
       "publishOn": 1792675648050,
       "addedOn": 1643206965705,
-      "updatedOn": 1792675648050,
+      "updatedOn": 1792675800407,
       "categories": [
         "Thomas Fougeirol"
       ],
@@ -68,7 +129,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Thomas Fougeirol": 0
+        "Thomas Fougeirol": 1
       }
     },
     {
@@ -427,7 +488,7 @@
         "height": 2770
       },
       "categoryOrder": {
-        "Thomas Fougeirol": 1
+        "Thomas Fougeirol": 2
       }
     },
     {
@@ -4412,7 +4473,7 @@
         "height": 2480
       },
       "categoryOrder": {
-        "Thomas Fougeirol": 2
+        "Thomas Fougeirol": 3
       }
     },
     {
@@ -6042,7 +6103,7 @@
         "height": 2452
       },
       "categoryOrder": {
-        "Thomas Fougeirol": 3
+        "Thomas Fougeirol": 4
       }
     },
     {
