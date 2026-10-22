@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-22T12:58:09.427Z",
+  "updatedAt": "2026-10-22T13:08:08.331Z",
   "files": {
     "anouck-mutsaerts/work-index.json": {
       "sourceHash": "58a798c3c4755fd15fc94d14a332a7a6aaa5c83cd089ea3a9b1281b67a7f0c45",
@@ -58,9 +58,9 @@
       "pages": 3
     },
     "sebastien-bertrand/all-artists.json": {
-      "sourceHash": "f4bf572bfd1a8fc9a560432e83fd06b9bf1666cb39f9b683e009a85421dce312",
-      "updatedAt": "2026-10-21T10:25:40.084Z",
-      "count": 14,
+      "sourceHash": "92a413ee7844ace52bb31590caf19cbf3a2c3d358942eae7ee632db5b3f111c3",
+      "updatedAt": "2026-10-22T13:08:08.133Z",
+      "count": 15,
       "pages": 1
     },
     "sebastien-bertrand/all-news.json": {
@@ -70,8 +70,8 @@
       "pages": 3
     },
     "sebastien-bertrand/artist.json": {
-      "sourceHash": "082837720ca21bfe0debd63484d80c88c38e47bb9653a0f4953a0c480e8c8163",
-      "updatedAt": "2026-10-22T12:58:09.427Z",
+      "sourceHash": "b313c29bcb678b9b6ec50d574409362971c4433e8c26978067b0d97fe557638d",
+      "updatedAt": "2026-10-22T13:08:08.331Z",
       "count": 29,
       "pages": 1
     },

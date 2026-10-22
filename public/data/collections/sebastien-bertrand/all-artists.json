@@ -5,9 +5,9 @@
   "id": "all-artists",
   "path": "/all-artists",
   "sourceUrl": "https://sebastienbertrand.com/all-artists?format=json",
-  "updatedAt": "2026-10-21T10:25:40.084Z",
-  "sourceHash": "f4bf572bfd1a8fc9a560432e83fd06b9bf1666cb39f9b683e009a85421dce312",
-  "count": 14,
+  "updatedAt": "2026-10-22T13:08:08.133Z",
+  "sourceHash": "92a413ee7844ace52bb31590caf19cbf3a2c3d358942eae7ee632db5b3f111c3",
+  "count": 15,
   "pages": 1,
   "items": [
     {
@@ -250,10 +250,51 @@
       "starred": true,
       "publishOn": 1688203440775,
       "addedOn": 1688203440775,
-      "updatedOn": 1791278242531,
+      "updatedOn": 1792674063100,
       "imageDimensions": {
         "width": 2000,
         "height": 1006
+      }
+    },
+    {
+      "id": "6ada090f14b3f66a65ebbc26",
+      "title": "Mirella Jaworska",
+      "fullUrl": "/all-artists/mirella-jaworska",
+      "sourceUrl": "/artist/mirella-jaworska",
+      "urlId": "mirella-jaworska",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1792674093442-8L4HBUGDFSRPX89TVWT5/HD-MJ-2602.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "categories": [
+        "Represented Artist"
+      ],
+      "tags": [
+        "Last name: Jaworska"
+      ],
+      "excerpt": "<p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&nbsp;Born in 2001 in Lidzbark Warmiński, Poland</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lives and works in Milan and Lidzbark Warmiński</p><p class=\"p1\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"p2\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "displayIndex": 29,
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1688043663086,
+      "addedOn": 1688043663086,
+      "updatedOn": 1792674442676,
+      "imageDimensions": {
+        "width": 3919,
+        "height": 5000
       }
     },
     {

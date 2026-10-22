@@ -5,8 +5,8 @@
   "id": "artist",
   "path": "/artist",
   "sourceUrl": "https://sebastienbertrand.com/artist?format=json",
-  "updatedAt": "2026-10-22T12:58:09.427Z",
-  "sourceHash": "082837720ca21bfe0debd63484d80c88c38e47bb9653a0f4953a0c480e8c8163",
+  "updatedAt": "2026-10-22T13:08:08.331Z",
+  "sourceHash": "b313c29bcb678b9b6ec50d574409362971c4433e8c26978067b0d97fe557638d",
   "count": 29,
   "pages": 1,
   "items": [
@@ -16,7 +16,7 @@
       "fullUrl": "/artist/joe-andoe",
       "sourceUrl": "",
       "urlId": "joe-andoe",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/90f3d1b0-6ba7-4d75-b2ea-04b65a7b2622/HD-MJ-2602.jpg",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/fe0ea74e-877b-404a-9585-d84831ab7abd/HD_Double+Horse%2C+Joe+Andoe%2C+2006.+Oil+on+canvas.+101%2C5+x+76%2C5+cm+%2840+x+30+in%29.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -28,10 +28,10 @@
       "starred": false,
       "publishOn": 1562080470194,
       "addedOn": 1562080470194,
-      "updatedOn": 1792673778293,
+      "updatedOn": 1792673949928,
       "imageDimensions": {
-        "width": 3919,
-        "height": 5000
+        "width": 2441,
+        "height": 3324
       }
     },
     {
