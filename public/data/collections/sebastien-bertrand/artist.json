@@ -5,9 +5,9 @@
   "id": "artist",
   "path": "/artist",
   "sourceUrl": "https://sebastienbertrand.com/artist?format=json",
-  "updatedAt": "2026-10-21T10:25:40.289Z",
-  "sourceHash": "a1d8f7b885316ae3e15bd75051de6392db9aa142349a9df1bbc66b81d568a839",
-  "count": 28,
+  "updatedAt": "2026-10-22T12:48:09.231Z",
+  "sourceHash": "f54b67000d09e5dafac28cabb9b854ddaf4320130986ba1aa8770b22b8ea966a",
+  "count": 29,
   "pages": 1,
   "items": [
     {
@@ -28,7 +28,7 @@
       "starred": false,
       "publishOn": 1562080470194,
       "addedOn": 1562080470194,
-      "updatedOn": 1792336651402,
+      "updatedOn": 1792672850459,
       "imageDimensions": {
         "width": 2441,
         "height": 3324
@@ -155,6 +155,30 @@
       }
     },
     {
+      "id": "6ada0452ce4df661029a373e",
+      "title": "Mirella Jaworska",
+      "fullUrl": "/artist/mirella-jaworska",
+      "sourceUrl": "",
+      "urlId": "mirella-jaworska",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/d676fb24-07a3-4db0-a740-a8174b4434f6/HD-MJ-2602.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "",
+      "displayIndex": 6,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1792672850417,
+      "addedOn": 1562080470194,
+      "updatedOn": 1792673093030,
+      "imageDimensions": {
+        "width": 3919,
+        "height": 5000
+      }
+    },
+    {
       "id": "62471b1fd7bc57549db5f439",
       "title": "Richard Kern",
       "fullUrl": "/artist/richard-kern",
@@ -167,7 +191,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 6,
+      "displayIndex": 7,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562077927498,
@@ -191,7 +215,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 7,
+      "displayIndex": 8,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562077630437,
@@ -215,7 +239,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 8,
+      "displayIndex": 9,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -239,7 +263,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 9,
+      "displayIndex": 10,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1649860497951,
@@ -263,7 +287,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 10,
+      "displayIndex": 11,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -287,7 +311,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 11,
+      "displayIndex": 12,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -311,7 +335,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 12,
+      "displayIndex": 13,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -335,7 +359,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 13,
+      "displayIndex": 14,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562077630437,
@@ -359,7 +383,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 14,
+      "displayIndex": 15,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -383,7 +407,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 15,
+      "displayIndex": 16,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -407,7 +431,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 16,
+      "displayIndex": 17,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -431,7 +455,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 17,
+      "displayIndex": 18,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -455,7 +479,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 18,
+      "displayIndex": 19,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -479,7 +503,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 19,
+      "displayIndex": 20,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562077630437,
@@ -503,7 +527,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 20,
+      "displayIndex": 21,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1562080370612,
@@ -527,7 +551,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 21,
+      "displayIndex": 22,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -551,7 +575,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 22,
+      "displayIndex": 23,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -575,7 +599,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 23,
+      "displayIndex": 24,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -599,7 +623,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 24,
+      "displayIndex": 25,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -623,7 +647,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 25,
+      "displayIndex": 26,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -647,7 +671,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 26,
+      "displayIndex": 27,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
@@ -671,7 +695,7 @@
         "source": 3
       },
       "excerpt": "",
-      "displayIndex": 27,
+      "displayIndex": 28,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1653311216933,
