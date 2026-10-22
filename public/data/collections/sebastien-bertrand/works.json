@@ -5,11 +5,72 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-22T13:18:21.072Z",
-  "sourceHash": "bc3a4e41277e32ac4cef65df43e3e4203c44e6698336f672f056bdc9bb2c98c6",
-  "count": 765,
+  "updatedAt": "2026-10-22T13:28:20.270Z",
+  "sourceHash": "3110d07de2152c8ca23dd939fb22090a6fd1f38169229e74bc95d4a4955e6925",
+  "count": 766,
   "pages": 4,
   "items": [
+    {
+      "id": "6ada0e577cc3850518c8367d",
+      "title": "repaint-IHG",
+      "fullUrl": "/works/p/e4dnbabpbc5tlyr-rxr9s-zzewx-69tsh-pykda-s9rtb",
+      "urlId": "e4dnbabpbc5tlyr-rxr9s-zzewx-69tsh-pykda-s9rtb",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/f674d97c-4f3f-4e4c-877e-5ea2f45ad9a8/HD-TFO-2501-01.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Exhibition key: thomas-fougeirol-solo-show-2026"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2025</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil and pigment on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">116 x 89 cm. / 45 ¾ x 35 in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">TFO-2501</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1792675648050,
+      "addedOn": 1643206965705,
+      "updatedOn": 1792675648050,
+      "categories": [
+        "Thomas Fougeirol"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/f674d97c-4f3f-4e4c-877e-5ea2f45ad9a8/HD-TFO-2501-01.jpg",
+          "imageDimensions": {
+            "width": 3335,
+            "height": 5000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD-TFO-2501-01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/a2b94a56-95e3-4320-9aa0-b434bbb6b119/HD-TFO-2501.jpg",
+          "imageDimensions": {
+            "width": 3915,
+            "height": 5000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD-TFO-2501.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "imageDimensions": {
+        "width": 3335,
+        "height": 5000
+      },
+      "categoryOrder": {
+        "Thomas Fougeirol": 0
+      }
+    },
     {
       "id": "6ada0c5ebdf1155ab2dd8755",
       "title": "Untitled (Concentration problems)",
@@ -148,7 +209,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 2
+        "Mirella Jaworska": 3
       }
     },
     {
@@ -209,7 +270,7 @@
         "height": 3543
       },
       "categoryOrder": {
-        "Mirella Jaworska": 5
+        "Mirella Jaworska": 6
       }
     },
     {
@@ -229,10 +290,10 @@
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">50 x 40 cm./ 19 ¾ x 15 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MJ-2601<br /></p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1792670928253,
       "addedOn": 1643206965705,
-      "updatedOn": 1792671042905,
+      "updatedOn": 1792675177956,
       "categories": [
         "Mirella Jaworska"
       ],
@@ -257,7 +318,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 3
+        "Mirella Jaworska": 4
       }
     },
     {
@@ -272,10 +333,10 @@
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">70 x 100 cm. / 27 ½ x 39 ¼ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MJ-2604</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1792670817828,
       "addedOn": 1643206965705,
-      "updatedOn": 1792672580059,
+      "updatedOn": 1792675189814,
       "categories": [
         "Mirella Jaworska"
       ],
@@ -318,7 +379,7 @@
         "source": 3
       },
       "categoryOrder": {
-        "Mirella Jaworska": 4
+        "Mirella Jaworska": 2
       }
     },
     {
@@ -341,7 +402,7 @@
       "starred": false,
       "publishOn": 1790863697281,
       "addedOn": 1643206965705,
-      "updatedOn": 1791612747282,
+      "updatedOn": 1792675415671,
       "categories": [
         "Thomas Fougeirol"
       ],
@@ -366,7 +427,7 @@
         "height": 2770
       },
       "categoryOrder": {
-        "Thomas Fougeirol": 0
+        "Thomas Fougeirol": 1
       }
     },
     {
@@ -424,7 +485,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 6
+        "Mirella Jaworska": 5
       }
     },
     {
@@ -4351,7 +4412,7 @@
         "height": 2480
       },
       "categoryOrder": {
-        "Thomas Fougeirol": 1
+        "Thomas Fougeirol": 2
       }
     },
     {
@@ -5981,7 +6042,7 @@
         "height": 2452
       },
       "categoryOrder": {
-        "Thomas Fougeirol": 2
+        "Thomas Fougeirol": 3
       }
     },
     {
