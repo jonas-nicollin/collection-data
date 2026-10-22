@@ -5,11 +5,56 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-22T12:18:19.567Z",
-  "sourceHash": "9eb8fa4f46f35354d658d51425cf7f8b3b8bb34dbf49585b95bb2308ac446b7c",
-  "count": 762,
+  "updatedAt": "2026-10-22T12:28:15.744Z",
+  "sourceHash": "4615a0542180c4ca3f7bcb364a882f1ce9378e12d78ba7f14f3fbb39ce91e970",
+  "count": 763,
   "pages": 4,
   "items": [
+    {
+      "id": "6ada002b6db81d44a23f163a",
+      "title": "Oedipus and the Sphinx",
+      "fullUrl": "/works/p/9gnshbkbna3m725-23je5-xhb6y-ynmne-lakyz-kr5fl-x9p7a",
+      "urlId": "9gnshbkbna3m725-23je5-xhb6y-ynmne-lakyz-kr5fl-x9p7a",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/50fb6090-771e-4e75-9cc7-a67df4fa150b/HD-MJ-2401.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> 2024</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">40 x 50 cm./ 15 ¾ x 19 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MJ-2401<br /></p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1792671856061,
+      "addedOn": 1643206965705,
+      "updatedOn": 1792671856061,
+      "categories": [
+        "Mirella Jaworska"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/50fb6090-771e-4e75-9cc7-a67df4fa150b/HD-MJ-2401.jpg",
+          "imageDimensions": {
+            "width": 3128,
+            "height": 2455
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD-MJ-2401.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "imageDimensions": {
+        "width": 3128,
+        "height": 2455
+      },
+      "categoryOrder": {
+        "Mirella Jaworska": 0
+      }
+    },
     {
       "id": "6ad9fd42c671d84b16d707fc",
       "title": "Gamekeeper",
@@ -30,7 +75,7 @@
       "starred": false,
       "publishOn": 1792671384354,
       "addedOn": 1643206965705,
-      "updatedOn": 1792671384354,
+      "updatedOn": 1792671787444,
       "categories": [
         "Mirella Jaworska"
       ],
@@ -68,7 +113,7 @@
         "height": 3543
       },
       "categoryOrder": {
-        "Mirella Jaworska": 0
+        "Mirella Jaworska": 3
       }
     },
     {
@@ -226,16 +271,13 @@
         "y": 0.5,
         "source": 3
       },
-      "tags": [
-        "Exhibition: Good Mourning"
-      ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">60 x 50 cm. / 23 ½ x 19 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MJ-2605</p>",
       "displayIndex": 0,
       "workflowState": 1,
-      "starred": false,
+      "starred": true,
       "publishOn": 1790174156690,
       "addedOn": 1643206965705,
-      "updatedOn": 1792670581342,
+      "updatedOn": 1792672075993,
       "categories": [
         "Mirella Jaworska"
       ],
@@ -273,7 +315,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 3
+        "Mirella Jaworska": 4
       }
     },
     {
