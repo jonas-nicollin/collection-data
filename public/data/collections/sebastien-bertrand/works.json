@@ -5,9 +5,9 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-22T12:28:15.744Z",
-  "sourceHash": "4615a0542180c4ca3f7bcb364a882f1ce9378e12d78ba7f14f3fbb39ce91e970",
-  "count": 763,
+  "updatedAt": "2026-10-22T12:38:20.969Z",
+  "sourceHash": "fac107fe34033fe685f7f40667d463cd15e718b503b9934453c839f710c775f2",
+  "count": 764,
   "pages": 4,
   "items": [
     {
@@ -53,6 +53,54 @@
       },
       "categoryOrder": {
         "Mirella Jaworska": 0
+      }
+    },
+    {
+      "id": "6ad9feb35c9c590c82dddb7f",
+      "title": "Burning",
+      "fullUrl": "/works/p/9gnshbkbna3m725-23je5-xhb6y-ynmne-lakyz-pg8s2",
+      "urlId": "9gnshbkbna3m725-23je5-xhb6y-ynmne-lakyz-pg8s2",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/84a54af4-3b8e-41dc-989f-0d65c087ce2d/HD-MJ-2602.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Exhibition: Good Mourning"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">40 x 30 cm/ 15 ¾ x 11 ¾ in. </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MJ-2602<br /></p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1792672549669,
+      "addedOn": 1643206965705,
+      "updatedOn": 1792672549669,
+      "categories": [
+        "Mirella Jaworska"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/84a54af4-3b8e-41dc-989f-0d65c087ce2d/HD-MJ-2602.jpg",
+          "imageDimensions": {
+            "width": 3919,
+            "height": 5000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD-MJ-2602.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "imageDimensions": {
+        "width": 3919,
+        "height": 5000
+      },
+      "categoryOrder": {
+        "Mirella Jaworska": 1
       }
     },
     {
@@ -113,7 +161,7 @@
         "height": 3543
       },
       "categoryOrder": {
-        "Mirella Jaworska": 3
+        "Mirella Jaworska": 4
       }
     },
     {
@@ -161,7 +209,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 1
+        "Mirella Jaworska": 2
       }
     },
     {
@@ -169,12 +217,7 @@
       "title": "Kiss",
       "fullUrl": "/works/p/9gnshbkbna3m725-23je5-xhb6y-ynmne",
       "urlId": "9gnshbkbna3m725-23je5-xhb6y-ynmne",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/4273c9f7-ecfa-4901-8fe3-608e34e881ca/HD-MJ-2604.jpg",
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
-      },
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/c1c1d04e-3882-4e53-96c8-89e8a5c4a380/HD_Annik-Wetter_2026-10-07_53785+copie.jpg",
       "tags": [
         "Exhibition: Good Mourning"
       ],
@@ -184,11 +227,24 @@
       "starred": false,
       "publishOn": 1792670817828,
       "addedOn": 1643206965705,
-      "updatedOn": 1792670829583,
+      "updatedOn": 1792672580059,
       "categories": [
         "Mirella Jaworska"
       ],
       "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/c1c1d04e-3882-4e53-96c8-89e8a5c4a380/HD_Annik-Wetter_2026-10-07_53785+copie.jpg",
+          "imageDimensions": {
+            "width": 2236,
+            "height": 3427
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD_Annik-Wetter_2026-10-07_53785 copie.jpg"
+        },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/4273c9f7-ecfa-4901-8fe3-608e34e881ca/HD-MJ-2604.jpg",
           "imageDimensions": {
@@ -205,11 +261,16 @@
       ],
       "sourceType": "product",
       "imageDimensions": {
-        "width": 5000,
-        "height": 4066
+        "width": 2236,
+        "height": 3427
+      },
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
       },
       "categoryOrder": {
-        "Mirella Jaworska": 2
+        "Mirella Jaworska": 3
       }
     },
     {
@@ -315,7 +376,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 4
+        "Mirella Jaworska": 5
       }
     },
     {
