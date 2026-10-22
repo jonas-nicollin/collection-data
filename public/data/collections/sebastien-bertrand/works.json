@@ -5,11 +5,59 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-21T10:25:48.673Z",
-  "sourceHash": "5cc0f1c7d87cc46a7c23c480a6c1bb9cadc634650730429db887e371783c3be6",
-  "count": 759,
+  "updatedAt": "2026-10-22T12:08:22.355Z",
+  "sourceHash": "849b25c22e9225b31ec4afd265b2c560068c6d288f225a6ccdc1009dbd621758",
+  "count": 760,
   "pages": 4,
   "items": [
+    {
+      "id": "6ad9fb75fcbb532a618107b3",
+      "title": "Kiss",
+      "fullUrl": "/works/p/9gnshbkbna3m725-23je5-xhb6y-ynmne",
+      "urlId": "9gnshbkbna3m725-23je5-xhb6y-ynmne",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/4273c9f7-ecfa-4901-8fe3-608e34e881ca/HD-MJ-2604.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Exhibition: Good Mourning"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">70 x 100 cm. / 27 ½ x 39 ¼ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MJ-2604</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1792670817828,
+      "addedOn": 1643206965705,
+      "updatedOn": 1792670829583,
+      "categories": [
+        "Mirella Jaworska"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/4273c9f7-ecfa-4901-8fe3-608e34e881ca/HD-MJ-2604.jpg",
+          "imageDimensions": {
+            "width": 5000,
+            "height": 4066
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD-MJ-2604.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "imageDimensions": {
+        "width": 5000,
+        "height": 4066
+      },
+      "categoryOrder": {
+        "Mirella Jaworska": 0
+      }
+    },
     {
       "id": "6abe68d6afd47f55fbf91f7e",
       "title": "Repaint-IHI",
@@ -63,7 +111,7 @@
       "title": "Forget-me-not",
       "fullUrl": "/works/p/9gnshbkbna3m725-23je5-xhb6y",
       "urlId": "9gnshbkbna3m725-23je5-xhb6y",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/f5ae0c06-3314-4d15-b93e-4338a2276fd7/IMG_9719+copie.jpg",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/04270dfc-1528-4662-8f64-ea005773b311/HD-MJ-2605-01.jpg",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -78,32 +126,45 @@
       "starred": false,
       "publishOn": 1790174156690,
       "addedOn": 1643206965705,
-      "updatedOn": 1791604331856,
+      "updatedOn": 1792670581342,
       "categories": [
         "Mirella Jaworska"
       ],
       "media": [
         {
-          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/f5ae0c06-3314-4d15-b93e-4338a2276fd7/IMG_9719+copie.jpg",
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/04270dfc-1528-4662-8f64-ea005773b311/HD-MJ-2605-01.jpg",
           "imageDimensions": {
-            "width": 2300,
-            "height": 2824
+            "width": 4352,
+            "height": 5000
           },
           "mediaFocalPoint": {
             "x": 0.5,
             "y": 0.5,
             "source": 3
           },
-          "title": "IMG_9719 copie.jpg"
+          "title": "HD-MJ-2605-01.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/869c39a4-d64c-4061-aff9-7bb82b0695d3/HD2-MJ-2605-01.jpg",
+          "imageDimensions": {
+            "width": 2135,
+            "height": 2452
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD2-MJ-2605-01.jpg"
         }
       ],
       "sourceType": "product",
       "imageDimensions": {
-        "width": 2300,
-        "height": 2824
+        "width": 4352,
+        "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 0
+        "Mirella Jaworska": 1
       }
     },
     {
