@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-10-21T10:25:52.498Z",
-  "sourceHash": "a61f2305dddf15c12c80cacfbac57706df7f3725b2aff01311a4a9613879f59d",
+  "updatedAt": "2026-10-22T15:00:55.485Z",
+  "sourceHash": "7d798b7a20e565e31a58f73b615ef736773d187269f34b2aeda7a1877b0d795b",
   "count": 156,
   "pages": 8,
   "items": [
@@ -1689,7 +1689,8 @@
         "Thématique: Peinture",
         "Lieu: Atelier Gustave Didelot",
         "Artiste: Gustave Didelot",
-        "Date: 2026-09-17T12:30"
+        "Date: 2026-09-17T12:30",
+        "Sélection: Expositions principales"
       ],
       "excerpt": "",
       "location": {
@@ -1708,7 +1709,7 @@
       "starred": false,
       "publishOn": 1786229967222,
       "addedOn": 1786229967222,
-      "updatedOn": 1789720210369,
+      "updatedOn": 1792681200260,
       "imageDimensions": {
         "width": 2362,
         "height": 3543
