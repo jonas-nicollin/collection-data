@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-22T12:08:22.355Z",
+  "updatedAt": "2026-10-22T12:18:19.567Z",
   "files": {
     "anouck-mutsaerts/work-index.json": {
       "sourceHash": "58a798c3c4755fd15fc94d14a332a7a6aaa5c83cd089ea3a9b1281b67a7f0c45",
@@ -88,9 +88,9 @@
       "pages": 1
     },
     "sebastien-bertrand/works.json": {
-      "sourceHash": "849b25c22e9225b31ec4afd265b2c560068c6d288f225a6ccdc1009dbd621758",
-      "updatedAt": "2026-10-22T12:08:22.355Z",
-      "count": 760,
+      "sourceHash": "9eb8fa4f46f35354d658d51425cf7f8b3b8bb34dbf49585b95bb2308ac446b7c",
+      "updatedAt": "2026-10-22T12:18:19.567Z",
+      "count": 762,
       "pages": 4
     },
     "soma/all-events.json": {
