@@ -5,11 +5,59 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-22T12:38:20.969Z",
-  "sourceHash": "fac107fe34033fe685f7f40667d463cd15e718b503b9934453c839f710c775f2",
-  "count": 764,
+  "updatedAt": "2026-10-22T13:18:21.072Z",
+  "sourceHash": "bc3a4e41277e32ac4cef65df43e3e4203c44e6698336f672f056bdc9bb2c98c6",
+  "count": 765,
   "pages": 4,
   "items": [
+    {
+      "id": "6ada0c5ebdf1155ab2dd8755",
+      "title": "Untitled (Concentration problems)",
+      "fullUrl": "/works/p/9gnshbkbna3m725-23je5-xhb6y-ynmne-lakyz-kr5fl-x9p7a-srcwj",
+      "urlId": "9gnshbkbna3m725-23je5-xhb6y-ynmne-lakyz-kr5fl-x9p7a-srcwj",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/64856e36-4aa2-4974-9595-8ac60fb6d833/HD-MJ-2603.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
+      "tags": [
+        "Exhibition: Good Mourning"
+      ],
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">2026</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Oil on canvas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">60 x 50 cm. / 23 ½ x 19 ¾ in.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">(MJ-2603)</p>",
+      "displayIndex": 0,
+      "workflowState": 1,
+      "starred": true,
+      "publishOn": 1792675059458,
+      "addedOn": 1643206965705,
+      "updatedOn": 1792675059458,
+      "categories": [
+        "Mirella Jaworska"
+      ],
+      "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/64856e36-4aa2-4974-9595-8ac60fb6d833/HD-MJ-2603.jpg",
+          "imageDimensions": {
+            "width": 3905,
+            "height": 5000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD-MJ-2603.jpg"
+        }
+      ],
+      "sourceType": "product",
+      "imageDimensions": {
+        "width": 3905,
+        "height": 5000
+      },
+      "categoryOrder": {
+        "Mirella Jaworska": 0
+      }
+    },
     {
       "id": "6ada002b6db81d44a23f163a",
       "title": "Oedipus and the Sphinx",
@@ -27,7 +75,7 @@
       "starred": true,
       "publishOn": 1792671856061,
       "addedOn": 1643206965705,
-      "updatedOn": 1792671856061,
+      "updatedOn": 1792674910882,
       "categories": [
         "Mirella Jaworska"
       ],
@@ -52,7 +100,7 @@
         "height": 2455
       },
       "categoryOrder": {
-        "Mirella Jaworska": 0
+        "Mirella Jaworska": 1
       }
     },
     {
@@ -100,7 +148,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 1
+        "Mirella Jaworska": 2
       }
     },
     {
@@ -161,7 +209,7 @@
         "height": 3543
       },
       "categoryOrder": {
-        "Mirella Jaworska": 4
+        "Mirella Jaworska": 5
       }
     },
     {
@@ -209,7 +257,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 2
+        "Mirella Jaworska": 3
       }
     },
     {
@@ -270,7 +318,7 @@
         "source": 3
       },
       "categoryOrder": {
-        "Mirella Jaworska": 3
+        "Mirella Jaworska": 4
       }
     },
     {
@@ -376,7 +424,7 @@
         "height": 5000
       },
       "categoryOrder": {
-        "Mirella Jaworska": 5
+        "Mirella Jaworska": 6
       }
     },
     {
@@ -681,7 +729,7 @@
         "height": 3020
       },
       "categoryOrder": {
-        "Sang Woo Kim": 2
+        "Sang Woo Kim": 1
       }
     },
     {
@@ -689,7 +737,7 @@
       "title": "Closer 031",
       "fullUrl": "/works/p/arcdgehx8sbmhm2-8ajp4-lg997",
       "urlId": "arcdgehx8sbmhm2-8ajp4-lg997",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1bae41fc-e25f-4bb0-be0c-c7a847aba6d3/HD_swk004.jpg",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/ca5dc0b7-1809-402b-b0ef-5d2dfbdc2cd7/Facades%2C+Courtesy+the+artist+and+Sebastien+Bertrand%2C+photo+Studio+Graysc24.jpg",
       "tags": [
         "Exhibition: Façades"
       ],
@@ -699,24 +747,11 @@
       "starred": true,
       "publishOn": 1789982964937,
       "addedOn": 1643206965705,
-      "updatedOn": 1791601853105,
+      "updatedOn": 1792674866499,
       "categories": [
         "Sang Woo Kim"
       ],
       "media": [
-        {
-          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1bae41fc-e25f-4bb0-be0c-c7a847aba6d3/HD_swk004.jpg",
-          "imageDimensions": {
-            "width": 2480,
-            "height": 3020
-          },
-          "mediaFocalPoint": {
-            "x": 0.5,
-            "y": 0.5,
-            "source": 3
-          },
-          "title": "HD_swk004.jpg"
-        },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/ca5dc0b7-1809-402b-b0ef-5d2dfbdc2cd7/Facades%2C+Courtesy+the+artist+and+Sebastien+Bertrand%2C+photo+Studio+Graysc24.jpg",
           "imageDimensions": {
@@ -729,12 +764,25 @@
             "source": 3
           },
           "title": "Facades, Courtesy the artist and Sebastien Bertrand, photo Studio Graysc24.jpg"
+        },
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1bae41fc-e25f-4bb0-be0c-c7a847aba6d3/HD_swk004.jpg",
+          "imageDimensions": {
+            "width": 2480,
+            "height": 3020
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD_swk004.jpg"
         }
       ],
       "sourceType": "product",
       "imageDimensions": {
-        "width": 2480,
-        "height": 3020
+        "width": 3332,
+        "height": 4999
       },
       "mediaFocalPoint": {
         "x": 0.5,
@@ -7465,7 +7513,7 @@
         "height": 1500
       },
       "categoryOrder": {
-        "Sang Woo Kim": 1
+        "Sang Woo Kim": 2
       }
     },
     {
