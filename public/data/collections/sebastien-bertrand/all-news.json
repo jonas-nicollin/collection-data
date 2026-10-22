@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-21T10:25:41.922Z",
-  "sourceHash": "6e83a3ab6def09e8a5242b5ce2a91b130ca07c71efd3d2ea6c1c6526095cc471",
+  "updatedAt": "2026-10-22T09:48:11.693Z",
+  "sourceHash": "6d3b2e43dca7e2e2f61e7a63a4eaf5f7706da71473423597ecd806d87eb33603",
   "count": 47,
   "pages": 3,
   "items": [
@@ -93,7 +93,7 @@
       "starred": false,
       "publishOn": 1778662950842,
       "addedOn": 1778662950842,
-      "updatedOn": 1792150988680,
+      "updatedOn": 1792662277851,
       "imageDimensions": {
         "width": 3543,
         "height": 2362
