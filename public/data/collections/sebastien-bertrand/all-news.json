@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-23T14:18:13.884Z",
-  "sourceHash": "6246810e6a2b97baa5a86329b9f70467acfcf89425fb101c3ec915fb1c1911cc",
+  "updatedAt": "2026-10-23T15:08:15.418Z",
+  "sourceHash": "126c8e2327843a6ce32917b3393f9ece8147a064ec8ca5e14159ed84a5ce0d81",
   "count": 48,
   "pages": 3,
   "items": [
@@ -28,8 +28,7 @@
       "tags": [
         "Artist: Isaac Soh Fujita Howell",
         "Exhibition date: 2026-08-29/2026-10-03",
-        "Venue: Kosaku Kanechika",
-        "Location: Tokyo, Japan"
+        "Venue: Kosaku Kanechika"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">“4 Artists”, a group show at Kosaku Kanechicka in Tokyo.</p>",
       "location": {
@@ -48,7 +47,7 @@
       "starred": false,
       "publishOn": 1792662799131,
       "addedOn": 1792662799131,
-      "updatedOn": 1792764742208,
+      "updatedOn": 1792767622695,
       "imageDimensions": {
         "width": 3028,
         "height": 1728
@@ -73,8 +72,7 @@
         "Artist: Chloe Wise",
         "Exhibition date: 2026-06-12/2026-09-06",
         "Venue: Kulturstiftung Basel H. Geiger",
-        "Curator: Samuel Leuenberger",
-        "Location: Basel, Switzerland"
+        "Curator: Samuel Leuenberger"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Chloe Wise at Kulturstiftung Basel H. Geiger, curated by Samuel Leuenberger.</p>",
       "location": {
@@ -93,7 +91,7 @@
       "starred": false,
       "publishOn": 1784037055001,
       "addedOn": 1784037055001,
-      "updatedOn": 1792150951858,
+      "updatedOn": 1792767621697,
       "imageDimensions": {
         "width": 960,
         "height": 640
@@ -117,8 +115,7 @@
       "tags": [
         "Artist: Natalia González Martín",
         "Exhibition date: 2026-05-07/2026-07-04",
-        "Venue: Rodolphe Janssen",
-        "Location: Brussels, Belgium"
+        "Venue: Rodolphe Janssen"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">“Secret Skins”, a group exhibition at Rodolphe Janssen in Brussels.</p>",
       "location": {
@@ -137,7 +134,7 @@
       "starred": false,
       "publishOn": 1778662950842,
       "addedOn": 1778662950842,
-      "updatedOn": 1792662277851,
+      "updatedOn": 1792767621870,
       "imageDimensions": {
         "width": 3543,
         "height": 2362
@@ -161,8 +158,7 @@
       "tags": [
         "Artist: Sang Woo Kim",
         "Exhibition date: 2026-02-13/2026-05-25",
-        "Venue: AMA Venezia",
-        "Location: Venice, Italy"
+        "Venue: AMA Venezia"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Sang Woo Kim in “Aura”, a group exhibition at AMA Venezia.</p>",
       "location": {
@@ -181,7 +177,7 @@
       "starred": false,
       "publishOn": 1777374051512,
       "addedOn": 1777374051512,
-      "updatedOn": 1792158709193,
+      "updatedOn": 1792767622742,
       "imageDimensions": {
         "width": 2787,
         "height": 1931
@@ -205,8 +201,7 @@
       "tags": [
         "Artist: Walter Robinson",
         "Exhibition date: 2026-05-02/2026-06-06",
-        "Venue: Jeffrey Deitch",
-        "Location: New York, United States"
+        "Venue: Jeffrey Deitch"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Walter Robinson at Jeffrey Deitch in New York.</p>",
       "location": {
@@ -225,7 +220,7 @@
       "starred": false,
       "publishOn": 1777373671396,
       "addedOn": 1777373671396,
-      "updatedOn": 1792151050484,
+      "updatedOn": 1792767622372,
       "imageDimensions": {
         "width": 1500,
         "height": 1875
@@ -249,8 +244,7 @@
       "tags": [
         "Artist: Todd Bienvenu",
         "Exhibition date: 2026-03-10/2026-04-10",
-        "Venue: Wizard Gallery",
-        "Location: Milan, Italy"
+        "Venue: Wizard Gallery"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Todd Bienvenu’s first solo show with Wizard Gallery in Milan.</p>",
       "location": {
@@ -269,7 +263,7 @@
       "starred": false,
       "publishOn": 1772635591650,
       "addedOn": 1772635591650,
-      "updatedOn": 1792151071769,
+      "updatedOn": 1792767622273,
       "imageDimensions": {
         "width": 5860,
         "height": 5153
@@ -293,8 +287,7 @@
       "tags": [
         "Artist: Walter Robinson",
         "Exhibition date: 2026-02-13/2026-05-25",
-        "Venue: Nouveau Musée National de Monaco",
-        "Location: Monaco, Monaco"
+        "Venue: Nouveau Musée National de Monaco"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A group exhibition featuring Walter Robinson at the Nouveau Musée National de Monaco.</p>",
       "location": {
@@ -313,7 +306,7 @@
       "starred": false,
       "publishOn": 1771241160143,
       "addedOn": 1771241160143,
-      "updatedOn": 1792151101891,
+      "updatedOn": 1792767622322,
       "imageDimensions": {
         "width": 1024,
         "height": 635
@@ -337,8 +330,7 @@
       "tags": [
         "Artist: Mathis Gasser",
         "Exhibition date: 2026-02-06/2026-03-14",
-        "Venue: Galerie Oskar Weiss",
-        "Location: Zurich, Switzerland"
+        "Venue: Galerie Oskar Weiss"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Mathis Gasser: “Works” at Galerie Oskar Weiss.</p>",
       "location": {
@@ -357,7 +349,7 @@
       "starred": false,
       "publishOn": 1770393939699,
       "addedOn": 1770393939699,
-      "updatedOn": 1792151126579,
+      "updatedOn": 1792767622794,
       "imageDimensions": {
         "width": 800,
         "height": 1135
@@ -463,8 +455,7 @@
       "tags": [
         "Artist: Sang Woo Kim",
         "Exhibition date: 2024-11-14/2025-02-01",
-        "Venue: Herald St",
-        "Location: London, United Kingdom"
+        "Venue: Herald St"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Sang Woo Kim’s first solo show with Herald St in London.</p>",
       "location": {
@@ -483,7 +474,7 @@
       "starred": false,
       "publishOn": 1734517339234,
       "addedOn": 1734517339234,
-      "updatedOn": 1792151144331,
+      "updatedOn": 1792767622096,
       "imageDimensions": {
         "width": 914,
         "height": 1298
@@ -508,8 +499,7 @@
         "Artist: Walter Robinson",
         "Artist: Sang Woo Kim",
         "Exhibition date: 2024-09-03/2024-12-22",
-        "Venue: MAMCO",
-        "Location: Geneva, Switzerland"
+        "Venue: MAMCO"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A group exhibition featuring Walter Robinson and Sang Woo Kim at MAMCO in Geneva.</p>",
       "location": {
@@ -528,7 +518,7 @@
       "starred": false,
       "publishOn": 1727347601381,
       "addedOn": 1727347601381,
-      "updatedOn": 1792151163358,
+      "updatedOn": 1792767622032,
       "imageDimensions": {
         "width": 8192,
         "height": 5464
@@ -552,8 +542,7 @@
       "tags": [
         "Artist: Natalia González Martín",
         "Exhibition date: 2024-10-04/2024-11-16",
-        "Venue: Hannah Barry Gallery",
-        "Location: London, United Kingdom"
+        "Venue: Hannah Barry Gallery"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Natalia González Martín’s solo show with Hannah Barry Gallery in London.</p>",
       "location": {
@@ -572,7 +561,7 @@
       "starred": false,
       "publishOn": 1727168460521,
       "addedOn": 1727168460521,
-      "updatedOn": 1792151201416,
+      "updatedOn": 1792767622114,
       "imageDimensions": {
         "width": 500,
         "height": 625
@@ -596,8 +585,7 @@
       "tags": [
         "Artist: Natalia González Martín",
         "Exhibition date: 2024-05-21/2024-06-22",
-        "Venue: Vacancy",
-        "Location: Shanghai, China"
+        "Venue: Vacancy"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show at Vacancy in Shanghai.</p>",
       "location": {
@@ -616,7 +604,7 @@
       "starred": false,
       "publishOn": 1717339080345,
       "addedOn": 1717339080345,
-      "updatedOn": 1792158739816,
+      "updatedOn": 1792767622636,
       "imageDimensions": {
         "width": 1319,
         "height": 1650
@@ -681,7 +669,6 @@
       "tags": [
         "Artist: Han-Chiao",
         "Venue: Guild Gallery",
-        "Location: New York, United States",
         "Exhibition date: 2024-05-02/2024-08-16"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Han-Chiao’s solo show with Guild Gallery in New York.</p>",
@@ -701,7 +688,7 @@
       "starred": false,
       "publishOn": 1717165800552,
       "addedOn": 1717165800552,
-      "updatedOn": 1792151253757,
+      "updatedOn": 1792767622394,
       "imageDimensions": {
         "width": 1440,
         "height": 798
@@ -725,8 +712,7 @@
       "tags": [
         "Artist: Michael Hilsman",
         "Exhibition date: 2024-03-15/2024-04-14",
-        "Venue: Baldwin Gallery",
-        "Location: Aspen, United States"
+        "Venue: Baldwin Gallery"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Michael Hilsman’s first solo show at Baldwin Gallery in Aspen.</p>",
       "location": {
@@ -745,7 +731,7 @@
       "starred": false,
       "publishOn": 1717165426065,
       "addedOn": 1717165426065,
-      "updatedOn": 1792151271676,
+      "updatedOn": 1792767621643,
       "imageDimensions": {
         "width": 980,
         "height": 1442
@@ -769,8 +755,7 @@
       "tags": [
         "Artist: Chloe Wise",
         "Exhibition date: 2024-04-24/2024-05-25",
-        "Venue: Almine Rech",
-        "Location: Brussels, Belgium"
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show at Almine Rech in Brussels.</p>",
       "location": {
@@ -789,7 +774,7 @@
       "starred": false,
       "publishOn": 1714747020211,
       "addedOn": 1714747020211,
-      "updatedOn": 1792151285368,
+      "updatedOn": 1792767621898,
       "imageDimensions": {
         "width": 1742,
         "height": 1698
@@ -813,8 +798,7 @@
       "tags": [
         "Artist: Tali Lennox",
         "Exhibition date: 2024-02-26/2024-04-06",
-        "Venue: Nicodim",
-        "Location: Los Angeles, United States"
+        "Venue: Nicodim"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Tali Lennox’s first solo show at Nicodim in Los Angeles.</p>",
       "location": {
@@ -833,7 +817,7 @@
       "starred": false,
       "publishOn": 1709898352628,
       "addedOn": 1709898352628,
-      "updatedOn": 1792158763845,
+      "updatedOn": 1792767622181,
       "imageDimensions": {
         "width": 1247,
         "height": 1811
@@ -939,8 +923,7 @@
       "tags": [
         "Artist: Todd Bienvenu",
         "Exhibition date: 2024-01-18/2024-02-24",
-        "Venue: Almine Rech",
-        "Location: Brussels, Belgium"
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show by Todd Bienvenu at Almine Rech in Brussels.</p>",
       "location": {
@@ -959,7 +942,7 @@
       "starred": false,
       "publishOn": 1707321112369,
       "addedOn": 1707321112369,
-      "updatedOn": 1792151361906,
+      "updatedOn": 1792767621848,
       "imageDimensions": {
         "width": 3030,
         "height": 1488
@@ -1024,7 +1007,6 @@
       "tags": [
         "Artist: Natalia González Martín",
         "Venue: Palazzo Monti",
-        "Location: Brescia, Italy",
         "Curator: Edoardo Monti",
         "Exhibition date: 2023-05-20/2023-06-18"
       ],
@@ -1045,7 +1027,7 @@
       "starred": false,
       "publishOn": 1684771359698,
       "addedOn": 1684771359698,
-      "updatedOn": 1792151387359,
+      "updatedOn": 1792767621799,
       "imageDimensions": {
         "width": 2080,
         "height": 2086
@@ -1110,8 +1092,7 @@
       "tags": [
         "Artist: Michael Hilsman",
         "Exhibition date: 2023-03-25/2023-04-29",
-        "Venue: VSF",
-        "Location: Los Angeles, United States"
+        "Venue: VSF"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Michael Hilsman’s first solo show at VSF in Los Angeles.</p>",
       "location": {
@@ -1130,7 +1111,7 @@
       "starred": false,
       "publishOn": 1682949120287,
       "addedOn": 1682949120287,
-      "updatedOn": 1792158787535,
+      "updatedOn": 1792767622162,
       "imageDimensions": {
         "width": 1169,
         "height": 1441
@@ -1154,8 +1135,7 @@
       "tags": [
         "Artist: Aks Misyuta",
         "Venue: Art: Concept",
-        "Exhibition date: 2023-04-01/2023-05-06",
-        "Location: Paris, France"
+        "Exhibition date: 2023-04-01/2023-05-06"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Aks Misyuta’s first solo show at Art: Concept in Paris.</p>",
       "location": {
@@ -1174,7 +1154,7 @@
       "starred": false,
       "publishOn": 1680099494687,
       "addedOn": 1680099494687,
-      "updatedOn": 1792158807116,
+      "updatedOn": 1792767622558,
       "imageDimensions": {
         "width": 2457,
         "height": 3454
@@ -1198,8 +1178,7 @@
       "tags": [
         "Artist: Walter Robinson",
         "Exhibition date: 2023-02-22/2023-06-18",
-        "Venue: MAMCO",
-        "Location: Geneva, Switzerland"
+        "Venue: MAMCO"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A group exhibition featuring Walter Robinson at MAMCO in Geneva.</p>",
       "location": {
@@ -1218,7 +1197,7 @@
       "starred": false,
       "publishOn": 1677081553999,
       "addedOn": 1677081553999,
-      "updatedOn": 1792151568585,
+      "updatedOn": 1792767622010,
       "imageDimensions": {
         "width": 2000,
         "height": 1500
@@ -1242,8 +1221,7 @@
       "tags": [
         "Artist: Joe Andoe",
         "Exhibition date: 2023-02-23/2023-03-18",
-        "Venue: Almine Rech",
-        "Location: Paris, France"
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Joe Andoe’s fifth solo show at Almine Rech in Paris.</p>",
       "location": {
@@ -1262,7 +1240,7 @@
       "starred": false,
       "publishOn": 1677079796527,
       "addedOn": 1677079796527,
-      "updatedOn": 1792158828061,
+      "updatedOn": 1792767622591,
       "imageDimensions": {
         "width": 912,
         "height": 679
@@ -1286,8 +1264,7 @@
       "tags": [
         "Artist: Chloe Wise",
         "Venue: The Journal Gallery",
-        "Exhibition date: 2022-11-16/2022-12-03",
-        "Location: New York, United States"
+        "Exhibition date: 2022-11-16/2022-12-03"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A short solo exhibition by Chloe Wise at The Journal Gallery in New York.</p>",
       "location": {
@@ -1306,7 +1283,7 @@
       "starred": false,
       "publishOn": 1670596020841,
       "addedOn": 1670596020841,
-      "updatedOn": 1792151615195,
+      "updatedOn": 1792767622414,
       "imageDimensions": {
         "width": 1290,
         "height": 1548
@@ -1371,7 +1348,6 @@
       "tags": [
         "Artist: Lydia Pettit",
         "Venue: Trafalgar Avenue",
-        "Location: Margate and London, United Kingdom",
         "Exhibition date: 2022-09-09/2022-09-24"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Trafalgar Avenue presents “Giallo!”, an exhibition of new work by Lydia Pettit and Scandebergs in Margate and London.</p>",
@@ -1391,7 +1367,7 @@
       "starred": false,
       "publishOn": 1662728880801,
       "addedOn": 1662728880801,
-      "updatedOn": 1792151650702,
+      "updatedOn": 1792767622225,
       "imageDimensions": {
         "width": 1594,
         "height": 1266
@@ -1415,7 +1391,6 @@
       "tags": [
         "Artist: Aks Misyuta",
         "Venue: Rudolph Tegner Museum",
-        "Location: Dronningmølle, Denmark",
         "Exhibition date: 2022-08-20/2022-10-23"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A group exhibition featuring Aks Misyuta at Rudolph Tegner Museum in Dronningmølle.</p>",
@@ -1435,7 +1410,7 @@
       "starred": false,
       "publishOn": 1661515047579,
       "addedOn": 1661515047579,
-      "updatedOn": 1792151684542,
+      "updatedOn": 1792767621954,
       "imageDimensions": {
         "width": 2000,
         "height": 1333
@@ -1500,8 +1475,7 @@
       "tags": [
         "Artist: Todd Bienvenu",
         "Exhibition date: 2022-06-23/2022-08-05",
-        "Venue: Almine Rech",
-        "Location: New York, United States"
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo show by Todd Bienvenu at Almine Rech in New York.</p>",
       "location": {
@@ -1520,7 +1494,7 @@
       "starred": false,
       "publishOn": 1655397960540,
       "addedOn": 1655397960540,
-      "updatedOn": 1792151715111,
+      "updatedOn": 1792767622449,
       "imageDimensions": {
         "width": 1891,
         "height": 1651
@@ -1544,8 +1518,7 @@
       "tags": [
         "Artist: Walter Robinson",
         "Exhibition date: 2022-06-11/2022-07-16",
-        "Venue: Charlie James Gallery",
-        "Location: New York, United States"
+        "Venue: Charlie James Gallery"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Walter Robinson at Charlie James Gallery in New York.</p>",
       "location": {
@@ -1564,7 +1537,7 @@
       "starred": false,
       "publishOn": 1654951560027,
       "addedOn": 1654951560027,
-      "updatedOn": 1792158928647,
+      "updatedOn": 1792767622432,
       "imageDimensions": {
         "width": 1202,
         "height": 1200
@@ -1588,8 +1561,7 @@
       "tags": [
         "Artist: Natalia González Martín",
         "Exhibition date: 2022-05-13/2022-06-25",
-        "Venue: Hannah Barry Gallery",
-        "Location: London, United Kingdom"
+        "Venue: Hannah Barry Gallery"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Natalia González Martín at Hannah Barry Gallery in London.</p>",
       "location": {
@@ -1608,7 +1580,7 @@
       "starred": false,
       "publishOn": 1653147840456,
       "addedOn": 1653147840456,
-      "updatedOn": 1792151763957,
+      "updatedOn": 1792767622078,
       "imageDimensions": {
         "width": 864,
         "height": 1216
@@ -1632,8 +1604,7 @@
       "tags": [
         "Artist: Joe Andoe",
         "Exhibition date: 2022-07-27/2022-08-05",
-        "Venue: Almine Rech",
-        "Location: Shanghai, China"
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Joe Andoe at Almine Rech in Shanghai.</p>",
       "location": {
@@ -1652,7 +1623,7 @@
       "starred": false,
       "publishOn": 1653041160876,
       "addedOn": 1653041160876,
-      "updatedOn": 1792158853270,
+      "updatedOn": 1792767622653,
       "imageDimensions": {
         "width": 925,
         "height": 1580
@@ -1717,8 +1688,7 @@
       "tags": [
         "Artist: Yarisal & Kublitz",
         "Exhibition date: 2022-03-19/2022-05-01",
-        "Venue: Rathaus Johannisthal",
-        "Location: Berlin, Germany"
+        "Venue: Rathaus Johannisthal"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">An exhibition by Yarisal &amp; Kublitz at Rathaus Johannisthal in Berlin.</p>",
       "location": {
@@ -1737,7 +1707,7 @@
       "starred": false,
       "publishOn": 1649263734575,
       "addedOn": 1649263734575,
-      "updatedOn": 1792151813910,
+      "updatedOn": 1792767621746,
       "imageDimensions": {
         "width": 1241,
         "height": 875
@@ -1802,8 +1772,7 @@
       "tags": [
         "Artist: Michael Hilsman",
         "Exhibition date: 2022-02-24/2022-04-02",
-        "Venue: Almine Rech",
-        "Location: Paris, France"
+        "Venue: Almine Rech"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A solo exhibition by Michael Hilsman at Almine Rech in Paris.</p>",
       "location": {
@@ -1822,7 +1791,7 @@
       "starred": false,
       "publishOn": 1645716120598,
       "addedOn": 1645716120598,
-      "updatedOn": 1792158875027,
+      "updatedOn": 1792767622574,
       "imageDimensions": {
         "width": 1114,
         "height": 1700
@@ -1886,7 +1855,6 @@
       ],
       "tags": [
         "Artist: Lydia Pettit",
-        "Location: Online",
         "Venue: White Cube",
         "Exhibition date: 2022-01-28/2022-03-08"
       ],
@@ -1907,7 +1875,7 @@
       "starred": false,
       "publishOn": 1643369520668,
       "addedOn": 1643369520668,
-      "updatedOn": 1792151849763,
+      "updatedOn": 1792767622493,
       "imageDimensions": {
         "width": 1475,
         "height": 1309
@@ -2054,8 +2022,7 @@
       "tags": [
         "Artist: Walter Robinson",
         "Exhibition date: 2021-10-16/2021-12-18",
-        "Venue: Air de Paris",
-        "Location: Paris, France"
+        "Venue: Air de Paris"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">An exhibition at Air de Paris in Paris.</p>",
       "location": {
@@ -2074,7 +2041,7 @@
       "starred": false,
       "publishOn": 1552323846877,
       "addedOn": 1552323846877,
-      "updatedOn": 1792151866073,
+      "updatedOn": 1792767622540,
       "imageDimensions": {
         "width": 1654,
         "height": 1101
