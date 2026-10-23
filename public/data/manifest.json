@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-22T15:00:55.485Z",
+  "updatedAt": "2026-10-23T14:18:13.884Z",
   "files": {
     "anouck-mutsaerts/work-index.json": {
       "sourceHash": "58a798c3c4755fd15fc94d14a332a7a6aaa5c83cd089ea3a9b1281b67a7f0c45",
@@ -64,8 +64,8 @@
       "pages": 1
     },
     "sebastien-bertrand/all-news.json": {
-      "sourceHash": "14a1ff333ad0afcd2b69401e65a7ac2bdcdd0d6d5c0350a55fb233e33e62e480",
-      "updatedAt": "2026-10-22T10:28:31.863Z",
+      "sourceHash": "6246810e6a2b97baa5a86329b9f70467acfcf89425fb101c3ec915fb1c1911cc",
+      "updatedAt": "2026-10-23T14:18:13.884Z",
       "count": 48,
       "pages": 3
     },

@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-22T10:28:31.863Z",
-  "sourceHash": "14a1ff333ad0afcd2b69401e65a7ac2bdcdd0d6d5c0350a55fb233e33e62e480",
+  "updatedAt": "2026-10-23T14:18:13.884Z",
+  "sourceHash": "6246810e6a2b97baa5a86329b9f70467acfcf89425fb101c3ec915fb1c1911cc",
   "count": 48,
   "pages": 3,
   "items": [
@@ -26,12 +26,12 @@
         "Gallery Exhibition"
       ],
       "tags": [
-        "Venue: Venue: Kosaku Kanechika",
-        "Location: Tokyo Japan",
         "Artist: Isaac Soh Fujita Howell",
-        "Exhibition date: 2026-08-29/2026-10-03"
+        "Exhibition date: 2026-08-29/2026-10-03",
+        "Venue: Kosaku Kanechika",
+        "Location: Tokyo, Japan"
       ],
-      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">“GROUP SHOW: 4 ARTISTS”,  at Kosaku Kanechicka in Tokyo. </p>",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">“4 Artists”, a group show at Kosaku Kanechicka in Tokyo.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -48,7 +48,7 @@
       "starred": false,
       "publishOn": 1792662799131,
       "addedOn": 1792662799131,
-      "updatedOn": 1792664741395,
+      "updatedOn": 1792764742208,
       "imageDimensions": {
         "width": 3028,
         "height": 1728
