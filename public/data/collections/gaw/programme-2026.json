@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-10-25T11:18:15.927Z",
-  "sourceHash": "05b4b6344bb02eebc18b33fd5c87c61adafc9bd816617c2b3ff7c9f03396d7e6",
+  "updatedAt": "2026-10-25T11:28:17.680Z",
+  "sourceHash": "c1afa244620f7c9a8bf2b7efd8c6861eb17ce751955da6677e4e760fd6e634cb",
   "count": 156,
   "pages": 8,
   "items": [
@@ -29,11 +29,11 @@
         "Membre: Le Trou",
         "Quartier: Grand-Lancy",
         "Thématique: Sculpture",
-        "Thématique: Scène artistique suisse",
         "Artiste: Clara Locherer",
         "Artiste: Divine K.",
         "Type: Exposition",
-        "Date: 2026-08-24/2026-09-20"
+        "Date: 2026-08-24/2026-09-20",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -52,7 +52,7 @@
       "starred": false,
       "publishOn": 1789650683950,
       "addedOn": 1789650683950,
-      "updatedOn": 1789652366710,
+      "updatedOn": 1792927510792,
       "imageDimensions": {
         "width": 2598,
         "height": 3897
@@ -124,9 +124,9 @@
         "Type: Solo show",
         "Artiste: Livia de Goumoëns",
         "Membre: Kissed Then Burned",
-        "Thématique: Scène émergente",
         "Date: 2026-09-10/2026-11-15",
-        "Quartier: Grottes Saint-Gervais"
+        "Quartier: Grottes Saint-Gervais",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -145,7 +145,7 @@
       "starred": false,
       "publishOn": 1788930611291,
       "addedOn": 1788930611291,
-      "updatedOn": 1789475147951,
+      "updatedOn": 1792927665638,
       "imageDimensions": {
         "width": 1281,
         "height": 1920
@@ -213,15 +213,15 @@
         "Visite guidée"
       ],
       "tags": [
-        "Thématique: Scène émergente",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Artiste: Pauline Coquart",
         "Quartier: Centre",
         "Lieu: L’Arcade",
         "Membre: Centre d’Art Contemporain Genève",
         "Type: Événement",
-        "Date: 2026-09-20T11:00"
+        "Date: 2026-09-20T11:00",
+        "Sélection: Scène artistique suisse",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -240,7 +240,7 @@
       "starred": false,
       "publishOn": 1788818535411,
       "addedOn": 1788818535411,
-      "updatedOn": 1788819119447,
+      "updatedOn": 1792927665575,
       "imageDimensions": {
         "width": 4032,
         "height": 3024
@@ -406,7 +406,9 @@
         "Quartier: Vieille-Ville",
         "Date: 2026-09-16/2026-10-31",
         "Vernissage: 2026-09-16T17:00",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Thématique: Art moderne",
+        "Thématique: Peinture et dessin"
       ],
       "excerpt": "",
       "location": {
@@ -425,7 +427,7 @@
       "starred": false,
       "publishOn": 1787569516926,
       "addedOn": 1787569516926,
-      "updatedOn": 1787739393380,
+      "updatedOn": 1792927214467,
       "imageDimensions": {
         "width": 1840,
         "height": 1400
@@ -452,7 +454,8 @@
         "Artiste: Marianne Brand",
         "Quartier: Carouge",
         "Date: 2026-09-19/2026-09-27",
-        "Vernissage: 2026-09-19T11:30"
+        "Vernissage: 2026-09-19T11:30",
+        "Thématique: Céramique"
       ],
       "excerpt": "",
       "location": {
@@ -471,7 +474,7 @@
       "starred": false,
       "publishOn": 1787558318224,
       "addedOn": 1787558318224,
-      "updatedOn": 1787569516996,
+      "updatedOn": 1792927297606,
       "imageDimensions": {
         "width": 2500,
         "height": 1875
@@ -499,11 +502,11 @@
         "Artiste: Yoan Mudry",
         "Thématique: Art textile",
         "Thématique: Dessin",
-        "Thématique: Scène artistique suisse",
         "Thématique: Sculpture",
         "Quartier: Jonction",
         "Lieu: Atelier 405, Usine",
-        "Date: 2026-09-18T17:30"
+        "Date: 2026-09-18T17:30",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -522,7 +525,7 @@
       "starred": false,
       "publishOn": 1787325883748,
       "addedOn": 1787325883748,
-      "updatedOn": 1789813264177,
+      "updatedOn": 1792927511164,
       "imageDimensions": {
         "width": 1800,
         "height": 1005
@@ -636,14 +639,14 @@
       ],
       "tags": [
         "Thématique: Art contemporain",
-        "Thématique: Scène émergente",
         "Artiste: Sabrina Smaili",
         "Quartier: Plainpalais",
         "Lieu: Le Commun",
         "Membre: Le Commun",
         "Membre: Centre d’Art Contemporain Genève",
         "Date: 2026-09-19T17:00",
-        "Type: Événement"
+        "Type: Événement",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -662,7 +665,7 @@
       "starred": false,
       "publishOn": 1787323534282,
       "addedOn": 1787323534282,
-      "updatedOn": 1789853283183,
+      "updatedOn": 1792927665820,
       "imageDimensions": {
         "width": 489,
         "height": 733
@@ -974,7 +977,6 @@
         "Quartier: Quartier des Bains",
         "Type: Exposition",
         "Vernissage: 2026-09-17T18:00",
-        "Thématique: Scène émergente",
         "Thématique: Art contemporain",
         "Thématique: Mixed Media",
         "Artiste: Oskar Magescas",
@@ -984,7 +986,8 @@
         "Sélection: Nuit des Bains",
         "Membre: Centre d’édition contemporaine",
         "Date: 2026-09-18/2026-10-09",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -1003,7 +1006,7 @@
       "starred": false,
       "publishOn": 1786990258414,
       "addedOn": 1786990258414,
-      "updatedOn": 1789814251926,
+      "updatedOn": 1792927665281,
       "imageDimensions": {
         "width": 6550,
         "height": 4912
@@ -1399,8 +1402,8 @@
         "Artiste: Vasilis Zografos",
         "Type: Événement",
         "Thématique: Mixed Media",
-        "Thématique: Scène artistique suisse",
-        "Date: 2026-09-18T12:00"
+        "Date: 2026-09-18T12:00",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -1419,7 +1422,7 @@
       "starred": false,
       "publishOn": 1786369939867,
       "addedOn": 1786369939867,
-      "updatedOn": 1787224691370,
+      "updatedOn": 1792927510830,
       "imageDimensions": {
         "width": 1763,
         "height": 1173
@@ -1827,12 +1830,12 @@
         "Membre: HiFlow",
         "Quartier: Plan-les-Ouates",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Artiste: Séverin Guelpa",
         "Type: Exposition",
         "Date: 2026-09-18/2026-10-23",
         "Thématique: Mixed Media",
-        "Vernissage: 2026-09-18T18:00"
+        "Vernissage: 2026-09-18T18:00",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -1851,7 +1854,7 @@
       "starred": false,
       "publishOn": 1786093817118,
       "addedOn": 1786093817118,
-      "updatedOn": 1789481042280,
+      "updatedOn": 1792927511098,
       "imageDimensions": {
         "width": 1280,
         "height": 914
@@ -2022,13 +2025,13 @@
         "Membre: Usine Kugler",
         "Thématique: Art contemporain",
         "Quartier: Jonction",
-        "Thématique: Scène émergente",
         "Date: 2026-09-20T14:00",
         "Intervenante: Karine Tissot",
         "Intervenant: Pierre-Louis Chantre",
         "Intervenante: Stéphanie Prizreni",
         "Intervenants: Diplômant.e.s du CPF Arts 2026",
-        "Lieu: Fonderie Kugler"
+        "Lieu: Fonderie Kugler",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -2047,7 +2050,7 @@
       "starred": false,
       "publishOn": 1785711764187,
       "addedOn": 1785711764187,
-      "updatedOn": 1785712195018,
+      "updatedOn": 1792927665316,
       "imageDimensions": {
         "width": 2800,
         "height": 1868
@@ -2304,14 +2307,14 @@
       ],
       "tags": [
         "Membre: Kreëmart",
-        "Thématique: Scène émergente",
         "Thématique: Mixed Media",
         "Thématique: Performance",
         "Thématique: Poetry",
         "Thématique: Nature",
         "Artiste: Rachel Marks",
         "Type: Événement",
-        "Date: 2026-09-19T18:00"
+        "Date: 2026-09-19T18:00",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -2330,7 +2333,7 @@
       "starred": false,
       "publishOn": 1785707881377,
       "addedOn": 1785707881377,
-      "updatedOn": 1785708774098,
+      "updatedOn": 1792927665541,
       "imageDimensions": {
         "width": 2560,
         "height": 1440
@@ -2844,9 +2847,9 @@
         "Quartier: Jonction",
         "Lieu: Usine Kugler",
         "Type: Exposition",
-        "Thématique: Scène émergente",
         "Date: 2026-09-09/2026-09-20",
-        "Artiste: CFP Arts"
+        "Artiste: CFP Arts",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -2865,7 +2868,7 @@
       "starred": false,
       "publishOn": 1785276075121,
       "addedOn": 1785276075121,
-      "updatedOn": 1789476241423,
+      "updatedOn": 1792927665443,
       "imageDimensions": {
         "width": 2800,
         "height": 1868
@@ -2936,14 +2939,14 @@
       "tags": [
         "Membre: Kreëmart",
         "Type: Solo show",
-        "Thématique: Scène émergente",
         "Thématique: Mixed Media",
         "Thématique: Performance",
         "Thématique: Poetry",
         "Thématique: Nature",
         "Artiste: Rachel Marks",
         "Date: 2026-09-16/2027-07-19",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -2962,7 +2965,7 @@
       "starred": false,
       "publishOn": 1785274127210,
       "addedOn": 1785274127210,
-      "updatedOn": 1789243814033,
+      "updatedOn": 1792927665879,
       "imageDimensions": {
         "width": 2560,
         "height": 1440
@@ -3435,13 +3438,13 @@
         "Thématique: Sculpture",
         "Membre: Galerie Mezzanin",
         "Quartier:  Quartier des Bains",
-        "Thématique: Scène artistique suisse",
         "Artiste: Lou Masduraud",
         "Type: Exposition",
         "Date: 2026-09-18/2026-11-07",
         "Vernissage: 2026-09-17T18:00",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -3460,7 +3463,7 @@
       "starred": false,
       "publishOn": 1785252808179,
       "addedOn": 1785252808179,
-      "updatedOn": 1787013343427,
+      "updatedOn": 1792927511019,
       "imageDimensions": {
         "width": 2990,
         "height": 3997
@@ -3831,11 +3834,12 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Date: 2026-09-16/2026-09-20",
-        "Thématique: Scène artistique suisse",
         "Lieu: Café de l'Amitié",
         "Quartier: Eaux-Vives Cité",
         "Artiste: Mathias Messerli",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Thématique: Art contemporain",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -3854,7 +3858,7 @@
       "starred": false,
       "publishOn": 1784675234037,
       "addedOn": 1784675234037,
-      "updatedOn": 1785684293200,
+      "updatedOn": 1792927511462,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -3877,12 +3881,12 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Date: 2026-09-16/2026-09-20",
-        "Thématique: Scène artistique suisse",
         "Artiste: Pauline Coquart",
         "Lieu: Brasserie Europe | Restaurant du Plaza Centre Cinema",
         "Quartier: Cornavin",
         "Sélection: Art Tables",
-        "Thématique: Art contemporain"
+        "Thématique: Art contemporain",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -3901,7 +3905,7 @@
       "starred": false,
       "publishOn": 1784675230883,
       "addedOn": 1784675230883,
-      "updatedOn": 1792926999245,
+      "updatedOn": 1792927511281,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -3924,11 +3928,12 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Date: 2026-09-16/2026-09-20",
-        "Thématique: Scène artistique suisse",
         "Artiste: Clara Roumégoux",
         "Lieu: Tablard",
         "Quartier: Carouge",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Thématique: Art contemporain",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -3947,7 +3952,7 @@
       "starred": false,
       "publishOn": 1784673752778,
       "addedOn": 1784673752778,
-      "updatedOn": 1790000551661,
+      "updatedOn": 1792927510986,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -3970,12 +3975,12 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Date: 2026-09-16/2026-09-20",
-        "Thématique: Scène artistique suisse",
         "Lieu: Anouch",
         "Artiste: Julie Richard",
         "Quartier: Quartier des banques",
         "Sélection: Art Tables",
-        "Thématique: Art contemporain"
+        "Thématique: Art contemporain",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -3994,7 +3999,7 @@
       "starred": false,
       "publishOn": 1784672810891,
       "addedOn": 1784672810891,
-      "updatedOn": 1792926937607,
+      "updatedOn": 1792927510630,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -4017,12 +4022,12 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Date: 2026-09-16/2026-09-20",
-        "Thématique: Scène artistique suisse",
         "Lieu: Bleu Nuit",
         "Quartier: Plainpalais",
         "Artiste: Salomé Engel",
         "Sélection: Art Tables",
-        "Thématique: Art contemporain"
+        "Thématique: Art contemporain",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -4041,7 +4046,7 @@
       "starred": false,
       "publishOn": 1784672016182,
       "addedOn": 1784672016182,
-      "updatedOn": 1792926707612,
+      "updatedOn": 1792927511132,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -4067,9 +4072,9 @@
         "Quartier: Genève-Cité",
         "Date: 2026-09-16/2026-09-20",
         "Artiste: Yann-Stéphane Bisso",
-        "Thématique: Scène artistique suisse",
         "Sélection: Art Tables",
-        "Thématique: Art contemporain"
+        "Thématique: Art contemporain",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -4088,7 +4093,7 @@
       "starred": false,
       "publishOn": 1784670874526,
       "addedOn": 1784670874526,
-      "updatedOn": 1792927042221,
+      "updatedOn": 1792927510959,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -4112,11 +4117,11 @@
         "Membre: HiFlow",
         "Quartier: Plan-les-Ouates",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Type: Événement",
         "Artiste: Séverin Guelpa",
         "Thématique: Mixed Media",
-        "Date: 2026-09-18T20:30"
+        "Date: 2026-09-18T20:30",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -4135,7 +4140,7 @@
       "starred": false,
       "publishOn": 1784669304400,
       "addedOn": 1784669304400,
-      "updatedOn": 1789813251916,
+      "updatedOn": 1792927511245,
       "imageDimensions": {
         "width": 1600,
         "height": 1128
@@ -4248,7 +4253,6 @@
         "Exposition"
       ],
       "tags": [
-        "Thématique: Scène artistique suisse",
         "Membre: Zabriskie",
         "Quartier: Plainpalais",
         "Type: Exposition",
@@ -4257,7 +4261,8 @@
         "Artiste: Virginie Jemmely",
         "Artiste: Léonore Brunner",
         "Vernissage: 2026-09-17T18:00",
-        "Date: 2026-09-17/2026-11-20"
+        "Date: 2026-09-17/2026-11-20",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -4276,7 +4281,7 @@
       "starred": false,
       "publishOn": 1784308678037,
       "addedOn": 1784308678037,
-      "updatedOn": 1788866327930,
+      "updatedOn": 1792927510720,
       "imageDimensions": {
         "width": 1148,
         "height": 758
@@ -4304,10 +4309,10 @@
         "Lieu: Halles de la Fonderie",
         "Type: Solo show",
         "Thématique: Mixed Media",
-        "Thématique: Scène artistique suisse",
         "Artiste: Laure Gonthier",
         "Vernissage: 2026-09-19T11:30",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -4326,7 +4331,7 @@
       "starred": false,
       "publishOn": 1784308429897,
       "addedOn": 1784308429897,
-      "updatedOn": 1786458353363,
+      "updatedOn": 1792927511364,
       "imageDimensions": {
         "width": 4134,
         "height": 2756
@@ -4451,8 +4456,6 @@
         "Quartier: Vieille-Ville",
         "Membre: Galerie Rosa Turetsky",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
-        "Thématique: Scène émergente",
         "Date: 2026-09-16/2026-10-31",
         "Artiste: Isa Barbier",
         "Artiste: Vidya Gastaldon",
@@ -4460,7 +4463,9 @@
         "Artiste: Myriam Mechita",
         "Artiste: Sandrine Pelletier",
         "Vernissage: 2026-09-16T16:30",
-        "Sélection: Art en Vieille-Ville"
+        "Sélection: Art en Vieille-Ville",
+        "Sélection: Scène artistique suisse",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -4479,7 +4484,7 @@
       "starred": false,
       "publishOn": 1784307051700,
       "addedOn": 1784307051700,
-      "updatedOn": 1785489115109,
+      "updatedOn": 1792927665503,
       "imageDimensions": {
         "width": 5197,
         "height": 3467
@@ -4753,7 +4758,8 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Date: 2026-09-19T14:30",
-        "Lieu: Accès: Suivre Centre de la Photographie Genève et monter au 1er étage"
+        "Lieu: Accès: Suivre Centre de la Photographie Genève et monter au 1er étage",
+        "Thématique: Art contemporain"
       ],
       "excerpt": "",
       "location": {
@@ -4772,7 +4778,7 @@
       "starred": false,
       "publishOn": 1784153440453,
       "addedOn": 1784153440453,
-      "updatedOn": 1789853340077,
+      "updatedOn": 1792927367438,
       "imageDimensions": {
         "width": 2846,
         "height": 2000
@@ -5137,7 +5143,6 @@
         "Membre: Centre de la photographie Genève",
         "Thématique: Photographie",
         "Quartier: Quartier des Bains",
-        "Thématique: Scène artistique suisse",
         "Type: Événement",
         "Date: 2026-09-17T18:30",
         "Artiste: Estelle Blaschke",
@@ -5150,7 +5155,8 @@
         "Artiste: Davide Nerini",
         "Artiste: Marie Sandoz",
         "Artiste: Estelle Sohier",
-        "Artiste: Anne-Katrin Weber"
+        "Artiste: Anne-Katrin Weber",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -5169,7 +5175,7 @@
       "starred": false,
       "publishOn": 1783978894150,
       "addedOn": 1783978894150,
-      "updatedOn": 1789720184280,
+      "updatedOn": 1792927510928,
       "imageDimensions": {
         "width": 1000,
         "height": 563
@@ -5241,10 +5247,10 @@
         "Artiste: Sylvia Sleigh",
         "Lieu: Musée Rath",
         "Artiste: Noëlle Reymond",
-        "Thématique: Scène artistique suisse",
         "Date: 2026-09-17T18:30",
         "Quartier: Centre",
-        "Type: Événement"
+        "Type: Événement",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -5263,7 +5269,7 @@
       "starred": false,
       "publishOn": 1783967670385,
       "addedOn": 1783967670385,
-      "updatedOn": 1789720241861,
+      "updatedOn": 1792927510550,
       "imageDimensions": {
         "width": 480,
         "height": 640
@@ -5286,12 +5292,12 @@
       "tags": [
         "Type: Événement",
         "Thématique: Art contemporain",
-        "Thématique: Scène émergente",
         "Thématique: Dessin",
         "Membre: MABE Gallery",
         "Quartier: Vieille-Ville",
         "Artiste: Gisèle Bonin",
-        "Date: 2026-09-17T12:00"
+        "Date: 2026-09-17T12:00",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -5310,7 +5316,7 @@
       "starred": false,
       "publishOn": 1783966638711,
       "addedOn": 1783966638711,
-      "updatedOn": 1785679973063,
+      "updatedOn": 1792927665696,
       "imageDimensions": {
         "width": 2000,
         "height": 1416
@@ -5525,10 +5531,10 @@
         "Membre: Galerie Fabienne Levy",
         "Artiste: Amit Berman",
         "Thématique: Peinture",
-        "Thématique: Scène émergente",
         "Date: 2026-09-17/2026-11-07",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -5547,7 +5553,7 @@
       "starred": false,
       "publishOn": 1783957114429,
       "addedOn": 1783957114429,
-      "updatedOn": 1786346357176,
+      "updatedOn": 1792927665757,
       "imageDimensions": {
         "width": 1925,
         "height": 2407
@@ -5806,12 +5812,12 @@
         "Visite guidée"
       ],
       "tags": [
-        "Thématique: Scène émergente",
         "Membre: Centre de la photographie Genève",
         "Thématique: Photographie",
         "Quartier: Quartier des Bains",
         "Intervenante: Danaé Panchaud",
-        "Date: 2026-09-19T11:00"
+        "Date: 2026-09-19T11:00",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -5830,7 +5836,7 @@
       "starred": false,
       "publishOn": 1783874631411,
       "addedOn": 1783874631411,
-      "updatedOn": 1785670835385,
+      "updatedOn": 1792927665609,
       "imageDimensions": {
         "width": 1800,
         "height": 1286
@@ -6135,12 +6141,12 @@
       "tags": [
         "Thématique: Peinture",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Membre: Wilde",
         "Artiste: Seline Burn",
         "Quartier: Quartier des Bains",
         "Type: Événement",
-        "Date: 2026-09-17T14:00"
+        "Date: 2026-09-17T14:00",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -6159,7 +6165,7 @@
       "starred": false,
       "publishOn": 1783716006175,
       "addedOn": 1783716006175,
-      "updatedOn": 1785669826256,
+      "updatedOn": 1792927510476,
       "imageDimensions": {
         "width": 3000,
         "height": 3756
@@ -6184,10 +6190,10 @@
         "Artiste: Gregory Bourilly",
         "Thématique: Sculpture",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Type: Événement",
         "Date: 2026-09-17T14:00",
-        "Quartier: Quartier des Bains"
+        "Quartier: Quartier des Bains",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -6206,7 +6212,7 @@
       "starred": false,
       "publishOn": 1783715250536,
       "addedOn": 1783715250536,
-      "updatedOn": 1789116548763,
+      "updatedOn": 1792927510513,
       "imageDimensions": {
         "width": 1102,
         "height": 1456
@@ -6229,7 +6235,6 @@
       "tags": [
         "Type: Événement",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Thématique: Littérature suisse",
         "Membre: Villa Bernasconi",
         "Intervenante: Ernestyna Orlowska",
@@ -6238,7 +6243,8 @@
         "Intervenant: Jacob Lachat",
         "Intervenant: Mickaëlle Provost",
         "Date: 2026-09-20T14:00",
-        "Quartier: Lancy"
+        "Quartier: Lancy",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -6257,7 +6263,7 @@
       "starred": false,
       "publishOn": 1783708683795,
       "addedOn": 1783708683795,
-      "updatedOn": 1790000472636,
+      "updatedOn": 1792927510756,
       "imageDimensions": {
         "width": 1920,
         "height": 1080
@@ -6279,7 +6285,6 @@
       ],
       "tags": [
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Thématique: Archives",
         "Thématique: Art et Soin",
         "Thématique: Collage",
@@ -6288,7 +6293,8 @@
         "Type: Événement",
         "Intervenante: Sara Petrucci",
         "Intervenante: Ludivine Jordan",
-        "Date: 2026-09-16T18:30"
+        "Date: 2026-09-16T18:30",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -6307,7 +6313,7 @@
       "starred": false,
       "publishOn": 1783706903080,
       "addedOn": 1783706903080,
-      "updatedOn": 1785669504216,
+      "updatedOn": 1792927510692,
       "imageDimensions": {
         "width": 1700,
         "height": 1133
@@ -6576,10 +6582,10 @@
         "Artiste: Gregory Bourilly",
         "Thématique: Sculpture",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Quartier: Quartier des Bains",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -6598,7 +6604,7 @@
       "starred": false,
       "publishOn": 1783631797633,
       "addedOn": 1783631797633,
-      "updatedOn": 1787739376891,
+      "updatedOn": 1792927510865,
       "imageDimensions": {
         "width": 1135,
         "height": 1500
@@ -6671,14 +6677,14 @@
         "Type: Solo show",
         "Thématique: Peinture",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Membre: Wilde",
         "Date: 2026-09-17/2026-11-03",
         "Vernissage: 2026-09-17T18:00",
         "Artiste: Seline Burn",
         "Quartier: Quartier des Bains",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
+        "Sélection: Expositions principales",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -6697,7 +6703,7 @@
       "starred": false,
       "publishOn": 1783630677538,
       "addedOn": 1783630677538,
-      "updatedOn": 1789814213634,
+      "updatedOn": 1792927510599,
       "imageDimensions": {
         "width": 3000,
         "height": 3756
@@ -6721,11 +6727,11 @@
         "Type: Événement",
         "Thématique: Art contemporain",
         "Thématique: Peinture",
-        "Thématique: Scène émergente",
         "Membre: Galerie Fabienne Levy",
         "Quartier: Quartier des Bains",
         "Artiste: Amit Berman",
-        "Date: 2026-09-20T14:30"
+        "Date: 2026-09-20T14:30",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -6744,7 +6750,7 @@
       "starred": false,
       "publishOn": 1783552657118,
       "addedOn": 1783552657118,
-      "updatedOn": 1787011004780,
+      "updatedOn": 1792927665468,
       "imageDimensions": {
         "width": 2951,
         "height": 2361
@@ -6819,11 +6825,11 @@
         "Membre: Centre de la photographie Genève",
         "Thématique: Photographie",
         "Thématique: Mixed Media",
-        "Thématique: Scène artistique suisse",
         "Quartier:  Quartier des Bains",
         "Artiste: Augustin Rebetez",
         "Artiste: REA",
-        "Date: 2026-09-16T20:00"
+        "Date: 2026-09-16T20:00",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -6842,7 +6848,7 @@
       "starred": false,
       "publishOn": 1783549641989,
       "addedOn": 1783549641989,
-      "updatedOn": 1785603607875,
+      "updatedOn": 1792927511318,
       "imageDimensions": {
         "width": 2700,
         "height": 1800
@@ -6922,12 +6928,12 @@
         "Date: 2026-09-16/2026-10-03",
         "Type: Solo show",
         "Thématique: Céramique",
-        "Thématique: Scène émergente",
         "Quartier: Carouge",
         "Artiste: Raphaël Emine",
         "Sélection: Parcours Céramique Carouge",
         "Membre: Teo Jakob",
-        "Vernissage: 2026-09-19T12:00"
+        "Vernissage: 2026-09-19T12:00",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -6946,7 +6952,7 @@
       "starred": false,
       "publishOn": 1783540957393,
       "addedOn": 1783540957393,
-      "updatedOn": 1786542011715,
+      "updatedOn": 1792927665352,
       "imageDimensions": {
         "width": 6022,
         "height": 8030
@@ -7085,7 +7091,6 @@
         "Exposition"
       ],
       "tags": [
-        "Thématique: Scène émergente",
         "Membre: Centre de la photographie Genève",
         "Thématique: Photographie",
         "Date: 2026-07-02/2026-10-10",
@@ -7096,7 +7101,8 @@
         "Artiste: Farren van Wyk",
         "Quartier: Quartier des Bains",
         "Sélection: Expositions principales",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -7115,7 +7121,7 @@
       "starred": false,
       "publishOn": 1783538691373,
       "addedOn": 1783538691373,
-      "updatedOn": 1785602819810,
+      "updatedOn": 1792927665848,
       "imageDimensions": {
         "width": 2048,
         "height": 1463
@@ -7136,16 +7142,16 @@
         "Exposition"
       ],
       "tags": [
-        "Thématique: Scène émergente",
         "Quartier: Plainpalais",
         "Type: Solo show",
         "Membre: Centre de la photographie Genève",
         "Thématique: Photographie",
-        "Thématique: Scène artistique suisse",
         "Artiste: Florian Luthi",
         "Date: 2026-07-13/2026-10-02",
         "Lieu: Maison de l'enfance et de l'adolescence (HUG)",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Sélection: Scène artistique suisse",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -7164,7 +7170,7 @@
       "starred": false,
       "publishOn": 1783537928620,
       "addedOn": 1783537928620,
-      "updatedOn": 1786458195695,
+      "updatedOn": 1792927665671,
       "imageDimensions": {
         "width": 1000,
         "height": 818
@@ -7187,7 +7193,6 @@
       "tags": [
         "Type: Exposition",
         "Thématique: Art contemporain",
-        "Thématique: Scène émergente",
         "Artiste: Marine Aebischer",
         "Artiste: Yann Stéphane Bisso",
         "Artiste: Behzad Dehno",
@@ -7204,7 +7209,8 @@
         "Sélection: Nuit des Bains",
         "Sélection: Expositions principales",
         "Membre: Le Commun",
-        "Membre: Centre d’Art Contemporain Genève"
+        "Membre: Centre d’Art Contemporain Genève",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -7223,7 +7229,7 @@
       "starred": false,
       "publishOn": 1783352898630,
       "addedOn": 1783352898630,
-      "updatedOn": 1787321462851,
+      "updatedOn": 1792927665725,
       "imageDimensions": {
         "width": 1800,
         "height": 1394
@@ -7374,15 +7380,15 @@
       ],
       "tags": [
         "Type: Exposition",
-        "Thématique: Scène émergente",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Artiste: Pauline Coquart",
         "Quartier: Centre",
         "Vernissage: 2026-09-17T18:00",
         "Date: 2026-09-18/2026-11-15",
         "Lieu: L’Arcade",
-        "Membre: Centre d’Art Contemporain Genève"
+        "Membre: Centre d’Art Contemporain Genève",
+        "Sélection: Scène artistique suisse",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -7401,7 +7407,7 @@
       "starred": false,
       "publishOn": 1783346622744,
       "addedOn": 1783346622744,
-      "updatedOn": 1787934893722,
+      "updatedOn": 1792927665788,
       "imageDimensions": {
         "width": 1556,
         "height": 2200
@@ -7424,7 +7430,6 @@
       "tags": [
         "Type: Exposition",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Thématique: Archives",
         "Thématique: Art et Soin",
         "Thématique: Collage",
@@ -7449,7 +7454,8 @@
         "Artiste: Raoul Ubac",
         "Quartier: Plainpalais",
         "Membre: ArtHUG - Hôpitaux universitaires de Genève",
-        "Date: 2026-04-29/2026-12-31"
+        "Date: 2026-04-29/2026-12-31",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -7468,7 +7474,7 @@
       "starred": false,
       "publishOn": 1783336148588,
       "addedOn": 1783336148588,
-      "updatedOn": 1785602046787,
+      "updatedOn": 1792927511204,
       "imageDimensions": {
         "width": 2700,
         "height": 1800
@@ -7547,11 +7553,11 @@
         "Quartier: Carouge",
         "Thématique: Céramique",
         "Thématique: Sculpture",
-        "Thématique: Scène émergente",
         "Type: Solo show",
         "Vernissage: 2026-09-19T10:30",
         "Date: 2026-09-19/2026-09-27",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Sélection: Scène émergente"
       ],
       "excerpt": "",
       "location": {
@@ -7570,7 +7576,7 @@
       "starred": false,
       "publishOn": 1783333285600,
       "addedOn": 1783333285600,
-      "updatedOn": 1786458145235,
+      "updatedOn": 1792927665403,
       "imageDimensions": {
         "width": 3552,
         "height": 5328
@@ -7643,11 +7649,11 @@
         "Membre: HiFlow",
         "Quartier: Plan-les-Ouates",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Thématique: Sculpture",
         "Type: Événement",
         "Artiste: Séverin Guelpa",
-        "Date: 2026-09-18T19:00"
+        "Date: 2026-09-18T19:00",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -7666,7 +7672,7 @@
       "starred": false,
       "publishOn": 1782142425493,
       "addedOn": 1782142425493,
-      "updatedOn": 1788428882011,
+      "updatedOn": 1792927511400,
       "imageDimensions": {
         "width": 1280,
         "height": 932
@@ -7700,10 +7706,10 @@
         "Artiste: Lasser",
         "Lieu: Lasser",
         "Thématique: Art contemporain",
-        "Thématique: Scène artistique suisse",
         "Thématique: Arts Décoratifs du XXe siècle",
         "Date: 2026-09-16/2026-09-30",
-        "Vernissage: 2026-09-16T16:00"
+        "Vernissage: 2026-09-16T16:00",
+        "Sélection: Scène artistique suisse"
       ],
       "excerpt": "",
       "location": {
@@ -7722,7 +7728,7 @@
       "starred": false,
       "publishOn": 1770443868537,
       "addedOn": 1770443868537,
-      "updatedOn": 1787740875328,
+      "updatedOn": 1792927511054,
       "imageDimensions": {
         "width": 1536,
         "height": 1024
