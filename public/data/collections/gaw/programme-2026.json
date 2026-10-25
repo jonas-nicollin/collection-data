@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-10-25T11:58:16.063Z",
-  "sourceHash": "047891f950f926ae21ddccdf1f8c856653421432faed7816998c1c0a405ce887",
+  "updatedAt": "2026-10-25T12:08:11.501Z",
+  "sourceHash": "33891719c1f7debc7bc430c26961541ac1453b070a74c7ac9f4f6e271a3fe2ca",
   "count": 156,
   "pages": 8,
   "items": [
@@ -932,7 +932,8 @@
         "Date: 2026-09-17T19:00",
         "Artiste: Octave Magescas",
         "Artiste: Axelle Stiefel",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Parcours: Lionel Bovier"
       ],
       "excerpt": "",
       "location": {
@@ -951,7 +952,7 @@
       "starred": false,
       "publishOn": 1787054727759,
       "addedOn": 1787054727759,
-      "updatedOn": 1792928165741,
+      "updatedOn": 1792929813848,
       "imageDimensions": {
         "width": 2644,
         "height": 1983
@@ -1242,7 +1243,8 @@
         "Artiste: Rammellzee",
         "Date: 2026-06-05/2026-09-21",
         "Membre: Galerie Sébastien Bertrand",
-        "Quartier: Eaux-Vives"
+        "Quartier: Eaux-Vives",
+        "Parcours: Lionel Bovier"
       ],
       "excerpt": "",
       "location": {
@@ -1261,7 +1263,7 @@
       "starred": false,
       "publishOn": 1786685364902,
       "addedOn": 1786685364902,
-      "updatedOn": 1792928493032,
+      "updatedOn": 1792929577663,
       "imageDimensions": {
         "width": 1563,
         "height": 1042
@@ -2891,7 +2893,8 @@
         "Quartier: Jonction",
         "Vernissage: 2026-09-16T18:00",
         "Thématique: Peinture et dessin",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Parcours: Lionel Bovier"
       ],
       "excerpt": "",
       "location": {
@@ -2910,7 +2913,7 @@
       "starred": false,
       "publishOn": 1785274891309,
       "addedOn": 1785274891309,
-      "updatedOn": 1792928165343,
+      "updatedOn": 1792929654891,
       "imageDimensions": {
         "width": 2600,
         "height": 1733
@@ -4799,7 +4802,8 @@
         "Date: 2026-09-16/2026-10-31",
         "Vernissage: 2026-09-16T17:00",
         "Sélection: Parcours Céramique Carouge",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Parcours: Lionel Bovier"
       ],
       "excerpt": "",
       "location": {
@@ -4818,7 +4822,7 @@
       "starred": false,
       "publishOn": 1784151475193,
       "addedOn": 1784151475193,
-      "updatedOn": 1792928165686,
+      "updatedOn": 1792929751258,
       "imageDimensions": {
         "width": 3543,
         "height": 2531
