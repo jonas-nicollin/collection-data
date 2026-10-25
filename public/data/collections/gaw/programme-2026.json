@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-10-22T15:00:55.485Z",
-  "sourceHash": "7d798b7a20e565e31a58f73b615ef736773d187269f34b2aeda7a1877b0d795b",
+  "updatedAt": "2026-10-25T11:18:15.927Z",
+  "sourceHash": "05b4b6344bb02eebc18b33fd5c87c61adafc9bd816617c2b3ff7c9f03396d7e6",
   "count": 156,
   "pages": 8,
   "items": [
@@ -3881,7 +3881,8 @@
         "Artiste: Pauline Coquart",
         "Lieu: Brasserie Europe | Restaurant du Plaza Centre Cinema",
         "Quartier: Cornavin",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Thématique: Art contemporain"
       ],
       "excerpt": "",
       "location": {
@@ -3900,7 +3901,7 @@
       "starred": false,
       "publishOn": 1784675230883,
       "addedOn": 1784675230883,
-      "updatedOn": 1788512488237,
+      "updatedOn": 1792926999245,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -3973,7 +3974,8 @@
         "Lieu: Anouch",
         "Artiste: Julie Richard",
         "Quartier: Quartier des banques",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Thématique: Art contemporain"
       ],
       "excerpt": "",
       "location": {
@@ -3992,7 +3994,7 @@
       "starred": false,
       "publishOn": 1784672810891,
       "addedOn": 1784672810891,
-      "updatedOn": 1790000535498,
+      "updatedOn": 1792926937607,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -4019,7 +4021,8 @@
         "Lieu: Bleu Nuit",
         "Quartier: Plainpalais",
         "Artiste: Salomé Engel",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Thématique: Art contemporain"
       ],
       "excerpt": "",
       "location": {
@@ -4038,7 +4041,7 @@
       "starred": false,
       "publishOn": 1784672016182,
       "addedOn": 1784672016182,
-      "updatedOn": 1790000529590,
+      "updatedOn": 1792926707612,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -4065,7 +4068,8 @@
         "Date: 2026-09-16/2026-09-20",
         "Artiste: Yann-Stéphane Bisso",
         "Thématique: Scène artistique suisse",
-        "Sélection: Art Tables"
+        "Sélection: Art Tables",
+        "Thématique: Art contemporain"
       ],
       "excerpt": "",
       "location": {
@@ -4084,7 +4088,7 @@
       "starred": false,
       "publishOn": 1784670874526,
       "addedOn": 1784670874526,
-      "updatedOn": 1790000523430,
+      "updatedOn": 1792927042221,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
