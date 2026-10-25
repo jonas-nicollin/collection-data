@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-10-25T11:38:11.749Z",
-  "sourceHash": "08b5355557a05ee6e4e480c9fa89e39f740cee01f4eabf6990deabaa314c9866",
+  "updatedAt": "2026-10-25T11:48:18.293Z",
+  "sourceHash": "bb0ca93e49b29f694c16b77bd1538228f05fbe63992467ad97c4f282bffb2f62",
   "count": 156,
   "pages": 8,
   "items": [
@@ -27,13 +27,13 @@
       "tags": [
         "Thématique: Art contemporain",
         "Membre: Le Trou",
-        "Quartier: Grand-Lancy",
         "Artiste: Clara Locherer",
         "Artiste: Divine K.",
         "Type: Exposition",
         "Date: 2026-08-24/2026-09-20",
         "Sélection: Scène artistique suisse",
-        "Thématique: Sculpture et installation"
+        "Thématique: Sculpture et installation",
+        "Quartier: Lancy"
       ],
       "excerpt": "",
       "location": {
@@ -52,7 +52,7 @@
       "starred": false,
       "publishOn": 1789650683950,
       "addedOn": 1789650683950,
-      "updatedOn": 1792927969043,
+      "updatedOn": 1792928368498,
       "imageDimensions": {
         "width": 2598,
         "height": 3897
@@ -76,10 +76,10 @@
         "Type: Solo show",
         "Membre: Halle Nord",
         "Artiste: Marisa Cornejo",
-        "Quartier: L'Ile",
         "Date: 2026-09-04/2026-10-10",
         "Thématique: Peinture et dessin",
-        "Thématique: Sculpture et installation"
+        "Thématique: Sculpture et installation",
+        "Quartier: Centre"
       ],
       "excerpt": "",
       "location": {
@@ -98,7 +98,7 @@
       "starred": false,
       "publishOn": 1789475147918,
       "addedOn": 1789475147918,
-      "updatedOn": 1792927968823,
+      "updatedOn": 1792928316396,
       "imageDimensions": {
         "width": 2400,
         "height": 1800
@@ -124,8 +124,8 @@
         "Artiste: Livia de Goumoëns",
         "Membre: Kissed Then Burned",
         "Date: 2026-09-10/2026-11-15",
-        "Quartier: Grottes Saint-Gervais",
-        "Sélection: Scène émergente"
+        "Sélection: Scène émergente",
+        "Quartier: Grottes–Saint-Gervais"
       ],
       "excerpt": "",
       "location": {
@@ -144,7 +144,7 @@
       "starred": false,
       "publishOn": 1788930611291,
       "addedOn": 1788930611291,
-      "updatedOn": 1792927665638,
+      "updatedOn": 1792928414216,
       "imageDimensions": {
         "width": 1281,
         "height": 1920
@@ -308,11 +308,11 @@
       "tags": [
         "Thématique: Art contemporain",
         "Membre: Ormond Editions",
-        "Quartier: Eaux-Vives Cité",
         "Type: Exposition",
         "Artiste: Jérémy Bajulaz",
         "Date: 2026-09-16/2026-09-20",
-        "Vernissage: 2026-09-16T18:00"
+        "Vernissage: 2026-09-16T18:00",
+        "Quartier: Eaux-Vives"
       ],
       "excerpt": "",
       "location": {
@@ -331,7 +331,7 @@
       "starred": false,
       "publishOn": 1787692593037,
       "addedOn": 1787692593037,
-      "updatedOn": 1788380015938,
+      "updatedOn": 1792928493109,
       "imageDimensions": {
         "width": 1340,
         "height": 1198
@@ -547,10 +547,10 @@
         "Thématique: Art contemporain",
         "Artiste: Dia al-Azzawi",
         "Membre:  La Galerie 38",
-        "Quartier:  Quartier des Bains",
         "Type: Événement",
         "Date: 2026-09-18T12:30",
-        "Thématique: Peinture et dessin"
+        "Thématique: Peinture et dessin",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -569,7 +569,7 @@
       "starred": false,
       "publishOn": 1787325262257,
       "addedOn": 1787325262257,
-      "updatedOn": 1792927876779,
+      "updatedOn": 1792928617759,
       "imageDimensions": {
         "width": 1067,
         "height": 1600
@@ -590,13 +590,13 @@
         "Visite guidée"
       ],
       "tags": [
-        "Quartier:  Quartier des Bains",
         "Thématique: Art contemporain",
         "Membre: FMAC – Fonds d'art contemporain de la Ville de Genève",
         "Type: Événement",
         "Intervenante: Saskia Gesinus",
         "Date: 2026-09-20T10:30",
-        "Thématique: Sculpture et installation"
+        "Thématique: Sculpture et installation",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -615,7 +615,7 @@
       "starred": false,
       "publishOn": 1787324567853,
       "addedOn": 1787324567853,
-      "updatedOn": 1792927969197,
+      "updatedOn": 1792928617909,
       "imageDimensions": {
         "width": 1500,
         "height": 2262
@@ -779,11 +779,11 @@
       ],
       "tags": [
         "Type: Exposition",
-        "Quartier: Centre",
         "Membre: Musée Ariana",
         "Sélection: Parcours Céramique Carouge",
         "Thématique: Céramique",
-        "Date: 2025-09-19/2026-10-04"
+        "Date: 2025-09-19/2026-10-04",
+        "Quartier: Nations"
       ],
       "excerpt": "",
       "location": {
@@ -802,7 +802,7 @@
       "starred": false,
       "publishOn": 1787224818526,
       "addedOn": 1787224818526,
-      "updatedOn": 1787225536710,
+      "updatedOn": 1792928885168,
       "imageDimensions": {
         "width": 1876,
         "height": 2500
@@ -1087,7 +1087,6 @@
       "tags": [
         "Thématique: Art contemporain",
         "Membre: MAMCO",
-        "Quartier: Eaux-Vives Cité",
         "Sélection: Art en Vieille-Ville",
         "Type: Événement",
         "Intervenante: Cindy Dulac",
@@ -1095,7 +1094,8 @@
         "Date: 2026-09-16T18:45",
         "Thématique: Sculpture et installation",
         "Thématique: Vidéo et arts numériques",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Quartier: Eaux-Vives"
       ],
       "excerpt": "",
       "location": {
@@ -1114,7 +1114,7 @@
       "starred": false,
       "publishOn": 1786826254995,
       "addedOn": 1786826254995,
-      "updatedOn": 1792928165371,
+      "updatedOn": 1792928493130,
       "imageDimensions": {
         "width": 2657,
         "height": 1993
@@ -1135,12 +1135,12 @@
         "Visite guidée"
       ],
       "tags": [
-        "Quartier:  Quartier des Bains",
         "Thématique: Art contemporain",
         "Membre: FMAC – Fonds d'art contemporain de la Ville de Genève",
         "Intervenants: Médiateur-trice et historien-ne de l'art du FMAC",
         "Date: 2026-09-20T15:00",
-        "Type: Événement"
+        "Type: Événement",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -1159,7 +1159,7 @@
       "starred": false,
       "publishOn": 1786824947622,
       "addedOn": 1786824947622,
-      "updatedOn": 1786825677132,
+      "updatedOn": 1792928617843,
       "imageDimensions": {
         "width": 4000,
         "height": 2667
@@ -1239,10 +1239,10 @@
       "tags": [
         "Thématique: Art contemporain",
         "Type: Solo show",
-        "Quartier: Eaux-Vives Cité",
         "Artiste: Rammellzee",
         "Date: 2026-06-05/2026-09-21",
-        "Membre: Galerie Sébastien Bertrand"
+        "Membre: Galerie Sébastien Bertrand",
+        "Quartier: Eaux-Vives"
       ],
       "excerpt": "",
       "location": {
@@ -1261,7 +1261,7 @@
       "starred": false,
       "publishOn": 1786685364902,
       "addedOn": 1786685364902,
-      "updatedOn": 1786748772016,
+      "updatedOn": 1792928493032,
       "imageDimensions": {
         "width": 1563,
         "height": 1042
@@ -1283,7 +1283,6 @@
       ],
       "tags": [
         "Type: Exposition",
-        "Quartier:  Quartier des Bains",
         "Thématique: Art contemporain",
         "Artiste: Alfatih",
         "Artiste: Omar Ba",
@@ -1305,7 +1304,8 @@
         "Date: 2026-09-17/2026-12-13",
         "Vernissage: 2026-09-17T18:00",
         "Membre: FMAC – Fonds d'art contemporain de la Ville de Genève",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -1324,7 +1324,7 @@
       "starred": false,
       "publishOn": 1786683920980,
       "addedOn": 1786683920980,
-      "updatedOn": 1786826695245,
+      "updatedOn": 1792928617871,
       "imageDimensions": {
         "width": 3000,
         "height": 1318
@@ -1394,14 +1394,14 @@
       "tags": [
         "Membre: Espace_L",
         "Thématique: Art contemporain",
-        "Quartier:  Quartier des Bains",
         "Artiste: Marius Margot",
         "Artiste: Vivianne van Singer",
         "Artiste: Vasilis Zografos",
         "Type: Événement",
         "Date: 2026-09-18T12:00",
         "Sélection: Scène artistique suisse",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -1420,7 +1420,7 @@
       "starred": false,
       "publishOn": 1786369939867,
       "addedOn": 1786369939867,
-      "updatedOn": 1792928165286,
+      "updatedOn": 1792928617941,
       "imageDimensions": {
         "width": 1763,
         "height": 1173
@@ -1492,7 +1492,6 @@
         "Exposition"
       ],
       "tags": [
-        "Quartier:  Quartier des Bains",
         "Thématique: Art contemporain",
         "Membre: Olivier Varenne – Art Moderne & Contemporain",
         "Type: Exposition",
@@ -1500,7 +1499,8 @@
         "Artiste: Julian Charrière",
         "Date: 2026-09-16/2026-10-31",
         "Vernissage: 2026-09-16T18:00",
-        "Sélection: Nuit des Bains"
+        "Sélection: Nuit des Bains",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -1519,7 +1519,7 @@
       "starred": false,
       "publishOn": 1786351723864,
       "addedOn": 1786351723864,
-      "updatedOn": 1786368630754,
+      "updatedOn": 1792928617790,
       "imageDimensions": {
         "width": 1314,
         "height": 1755
@@ -1542,14 +1542,14 @@
       "tags": [
         "Vernissage: 2026-09-17T18:00",
         "Membre: Xippas",
-        "Quartier:  Quartier des Bains",
         "Type: Solo show",
         "Artiste: Olaf Holzapfel",
         "Thématique: Art contemporain",
         "Date: 2026-09-18/2026-10-31",
         "Sélection: Nuit des Bains",
         "Sélection: Expositions principales",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -1568,7 +1568,7 @@
       "starred": false,
       "publishOn": 1786350052871,
       "addedOn": 1786350052871,
-      "updatedOn": 1792928165154,
+      "updatedOn": 1792928617647,
       "imageDimensions": {
         "width": 768,
         "height": 512
@@ -1636,7 +1636,6 @@
       "tags": [
         "Thématique: Art contemporain",
         "Membre: MAMCO",
-        "Quartier: Eaux-Vives Cité",
         "Sélection: Art en Vieille-Ville",
         "Type: Événement",
         "Intervenante: Cindy Dulac",
@@ -1644,7 +1643,8 @@
         "Membre: SaSA – Site archéologique Saint-Antoine",
         "Thématique: Sculpture et installation",
         "Thématique: Vidéo et arts numériques",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Quartier: Eaux-Vives"
       ],
       "excerpt": "",
       "location": {
@@ -1663,7 +1663,7 @@
       "starred": false,
       "publishOn": 1786231103492,
       "addedOn": 1786231103492,
-      "updatedOn": 1792928165221,
+      "updatedOn": 1792928493165,
       "imageDimensions": {
         "width": 2657,
         "height": 1993
@@ -1965,7 +1965,6 @@
       "tags": [
         "Thématique: Art contemporain",
         "Membre: Le Trou",
-        "Quartier: Grand-Lancy",
         "Artiste: Carmen-Sibha Keiso",
         "Artiste: Nicolas Ponce",
         "Artiste: Marina Olivares",
@@ -1976,7 +1975,8 @@
         "Artiste: Hugo Langlade",
         "Type: Événement",
         "Date:2026-09-18T18:30",
-        "Thématique: Vidéo et arts numériques"
+        "Thématique: Vidéo et arts numériques",
+        "Quartier: Lancy"
       ],
       "excerpt": "",
       "location": {
@@ -1995,7 +1995,7 @@
       "starred": false,
       "publishOn": 1785800078466,
       "addedOn": 1785800078466,
-      "updatedOn": 1792928025334,
+      "updatedOn": 1792928368473,
       "imageDimensions": {
         "width": 1666,
         "height": 2500
@@ -2398,7 +2398,6 @@
         "Type: Exposition",
         "Membre: Espace_L",
         "Thématique: Art contemporain",
-        "Quartier:  Quartier des Bains",
         "Date: 2026-09-17/2026-10-24",
         "Vernissage: 2026-09-17T18:00",
         "Artiste: David Elia",
@@ -2407,7 +2406,8 @@
         "Artiste: Heberth Sobral",
         "Artiste: Vasilis Zografos",
         "Sélection: Nuit des Bains",
-        "Thématique: Peinture et dessin"
+        "Thématique: Peinture et dessin",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -2426,7 +2426,7 @@
       "starred": false,
       "publishOn": 1785417338667,
       "addedOn": 1785417338667,
-      "updatedOn": 1792927876481,
+      "updatedOn": 1792928617680,
       "imageDimensions": {
         "width": 2429,
         "height": 1622
@@ -2786,12 +2786,12 @@
         "Thématique: Art contemporain",
         "Artiste: Dia al-Azzawi",
         "Membre:  La Galerie 38",
-        "Quartier:  Quartier des Bains",
         "Date: 2026-09-17/2026-12-19",
         "Vernissage: 2026-09-17T18:00",
         "Sélection: Nuit des Bains",
         "Thématique: Peinture et dessin",
-        "Thématique: Sculpture et installation"
+        "Thématique: Sculpture et installation",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -2810,7 +2810,7 @@
       "starred": false,
       "publishOn": 1785277285132,
       "addedOn": 1785277285132,
-      "updatedOn": 1792927969387,
+      "updatedOn": 1792928617730,
       "imageDimensions": {
         "width": 1600,
         "height": 1014
@@ -2975,11 +2975,11 @@
       "tags": [
         "Thématique: Art contemporain",
         "Membre: Ormond Editions",
-        "Quartier: Eaux-Vives Cité",
         "Artiste: Jérémy Bajulaz",
         "Type: Événement",
         "Date: 2026-09-19T15:00",
-        "Thématique: Peinture et dessin"
+        "Thématique: Peinture et dessin",
+        "Quartier: Eaux-Vives"
       ],
       "excerpt": "",
       "location": {
@@ -2998,7 +2998,7 @@
       "starred": false,
       "publishOn": 1785273385742,
       "addedOn": 1785273385742,
-      "updatedOn": 1792927876277,
+      "updatedOn": 1792928493086,
       "imageDimensions": {
         "width": 952,
         "height": 710
@@ -3423,7 +3423,6 @@
       "tags": [
         "Thématique: Art contemporain",
         "Membre: Galerie Mezzanin",
-        "Quartier:  Quartier des Bains",
         "Artiste: Lou Masduraud",
         "Type: Exposition",
         "Date: 2026-09-18/2026-11-07",
@@ -3431,7 +3430,8 @@
         "Sélection: Nuit des Bains",
         "Sélection: Expositions principales",
         "Sélection: Scène artistique suisse",
-        "Thématique: Sculpture et installation"
+        "Thématique: Sculpture et installation",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -3450,7 +3450,7 @@
       "starred": false,
       "publishOn": 1785252808179,
       "addedOn": 1785252808179,
-      "updatedOn": 1792927968990,
+      "updatedOn": 1792928617815,
       "imageDimensions": {
         "width": 2990,
         "height": 3997
@@ -3472,7 +3472,6 @@
       ],
       "tags": [
         "Type: Exposition",
-        "Quartier: Grand-Lancy",
         "Membre: Wisteria",
         "Thématique: Art contemporain",
         "Vernissage: 2026-09-16T18:00",
@@ -3490,7 +3489,8 @@
         "Artiste: Luna Rauck",
         "Artiste: Gabriel Varanda",
         "Artiste: Helena Zivkovic",
-        "Date: 2026-09-19/2026-09-20"
+        "Date: 2026-09-19/2026-09-20",
+        "Quartier: Lancy"
       ],
       "excerpt": "",
       "location": {
@@ -3509,7 +3509,7 @@
       "starred": false,
       "publishOn": 1785252152442,
       "addedOn": 1785252152442,
-      "updatedOn": 1787053241277,
+      "updatedOn": 1792928368528,
       "imageDimensions": {
         "width": 3300,
         "height": 2200
@@ -3822,11 +3822,11 @@
         "Membre: Geneva Art Week",
         "Date: 2026-09-16/2026-09-20",
         "Lieu: Café de l'Amitié",
-        "Quartier: Eaux-Vives Cité",
         "Artiste: Mathias Messerli",
         "Sélection: Art Tables",
         "Thématique: Art contemporain",
-        "Sélection: Scène artistique suisse"
+        "Sélection: Scène artistique suisse",
+        "Quartier: Eaux-Vives"
       ],
       "excerpt": "",
       "location": {
@@ -3845,7 +3845,7 @@
       "starred": false,
       "publishOn": 1784675234037,
       "addedOn": 1784675234037,
-      "updatedOn": 1792927511462,
+      "updatedOn": 1792928493230,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -3870,10 +3870,10 @@
         "Date: 2026-09-16/2026-09-20",
         "Artiste: Pauline Coquart",
         "Lieu: Brasserie Europe | Restaurant du Plaza Centre Cinema",
-        "Quartier: Cornavin",
         "Sélection: Art Tables",
         "Thématique: Art contemporain",
-        "Sélection: Scène artistique suisse"
+        "Sélection: Scène artistique suisse",
+        "Quartier: Grottes–Saint-Gervais"
       ],
       "excerpt": "",
       "location": {
@@ -3892,7 +3892,7 @@
       "starred": false,
       "publishOn": 1784675230883,
       "addedOn": 1784675230883,
-      "updatedOn": 1792927511281,
+      "updatedOn": 1792928414244,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -3964,10 +3964,10 @@
         "Date: 2026-09-16/2026-09-20",
         "Lieu: Anouch",
         "Artiste: Julie Richard",
-        "Quartier: Quartier des banques",
         "Sélection: Art Tables",
         "Thématique: Art contemporain",
-        "Sélection: Scène artistique suisse"
+        "Sélection: Scène artistique suisse",
+        "Quartier: Centre"
       ],
       "excerpt": "",
       "location": {
@@ -3986,7 +3986,7 @@
       "starred": false,
       "publishOn": 1784672810891,
       "addedOn": 1784672810891,
-      "updatedOn": 1792927510630,
+      "updatedOn": 1792928316426,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -4056,12 +4056,12 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Lieu: Le Dorian",
-        "Quartier: Genève-Cité",
         "Date: 2026-09-16/2026-09-20",
         "Artiste: Yann-Stéphane Bisso",
         "Sélection: Art Tables",
         "Thématique: Art contemporain",
-        "Sélection: Scène artistique suisse"
+        "Sélection: Scène artistique suisse",
+        "Quartier: Centre"
       ],
       "excerpt": "",
       "location": {
@@ -4080,7 +4080,7 @@
       "starred": false,
       "publishOn": 1784670874526,
       "addedOn": 1784670874526,
-      "updatedOn": 1792927510959,
+      "updatedOn": 1792928316302,
       "imageDimensions": {
         "width": 1800,
         "height": 2700
@@ -4195,12 +4195,12 @@
       ],
       "tags": [
         "Membre: Galerie Papiers Gras",
-        "Quartier: L'Ile",
         "Type: Solo show",
         "Artiste: Pierre La Police",
         "Date: 2026-09-16/2026-10-10",
         "Vernissage: 2026-09-16T18:00",
-        "Thématique: Peinture et dessin"
+        "Thématique: Peinture et dessin",
+        "Quartier: Centre"
       ],
       "excerpt": "",
       "location": {
@@ -4219,7 +4219,7 @@
       "starred": false,
       "publishOn": 1784309145907,
       "addedOn": 1784309145907,
-      "updatedOn": 1792927876719,
+      "updatedOn": 1792928316365,
       "imageDimensions": {
         "width": 1890,
         "height": 1375
@@ -4835,7 +4835,6 @@
       ],
       "tags": [
         "Type: Exposition",
-        "Quartier: Quartier des banques",
         "Membre: Galerie Latham",
         "Artiste: Loetz Witwe",
         "Artiste: Alessandro Mendini",
@@ -4847,7 +4846,8 @@
         "Artiste: Edmond Lachenal",
         "Date: 2026-09-16/2026-09-26",
         "Vernissage: 2026-09-16T14:00",
-        "Thématique: Design et arts décoratifs"
+        "Thématique: Design et arts décoratifs",
+        "Quartier: Centre"
       ],
       "excerpt": "",
       "location": {
@@ -4866,7 +4866,7 @@
       "starred": false,
       "publishOn": 1784150598383,
       "addedOn": 1784150598383,
-      "updatedOn": 1792928076121,
+      "updatedOn": 1792928316335,
       "imageDimensions": {
         "width": 2535,
         "height": 2535
@@ -5324,14 +5324,14 @@
       ],
       "tags": [
         "Thématique: Art contemporain",
-        "Quartier: Pâquis Sécheron",
         "Type: Exposition",
         "Artiste: Pascal Greco",
         "Thématique: Photographie",
         "Membre: Base Window",
         "Date: 2026-09-16/2026-10-30",
         "Vernissage: 2026-09-16T18:00",
-        "Thématique: Vidéo et arts numériques"
+        "Thématique: Vidéo et arts numériques",
+        "Quartier: Pâquis–Sécheron"
       ],
       "excerpt": "",
       "location": {
@@ -5350,7 +5350,7 @@
       "starred": false,
       "publishOn": 1783959895721,
       "addedOn": 1783959895721,
-      "updatedOn": 1792928025172,
+      "updatedOn": 1792928551499,
       "imageDimensions": {
         "width": 2844,
         "height": 1608
@@ -6407,7 +6407,6 @@
         "Exposition"
       ],
       "tags": [
-        "Quartier: Eaux-Vives Cité",
         "Thématique: Art contemporain",
         "Thématique: Céramique",
         "Artiste: Martin Hyde",
@@ -6417,7 +6416,8 @@
         "Vernissage: 2026-09-16T18:00",
         "Sélection: Expositions principales",
         "Membre: Joy de Rouvre",
-        "Thématique: Peinture et dessin"
+        "Thématique: Peinture et dessin",
+        "Quartier: Eaux-Vives"
       ],
       "excerpt": "",
       "location": {
@@ -6436,7 +6436,7 @@
       "starred": false,
       "publishOn": 1783634189675,
       "addedOn": 1783634189675,
-      "updatedOn": 1792927876931,
+      "updatedOn": 1792928493204,
       "imageDimensions": {
         "width": 2560,
         "height": 1707
@@ -6754,7 +6754,6 @@
       "tags": [
         "Type: Événement",
         "Membre: Arcadia",
-        "Quartier: Eaux-Vives Cité",
         "Thématique: Céramique",
         "Thématique: Art contemporain",
         "Date: 2026-09-17T12:00",
@@ -6762,7 +6761,8 @@
         "Intervenante: Veronica Granata",
         "Artiste: Joy de Rouvre",
         "Membre: Joy de Rouvre",
-        "Thématique: Design et arts décoratifs"
+        "Thématique: Design et arts décoratifs",
+        "Quartier: Eaux-Vives"
       ],
       "excerpt": "",
       "location": {
@@ -6781,7 +6781,7 @@
       "starred": false,
       "publishOn": 1783551188614,
       "addedOn": 1783551188614,
-      "updatedOn": 1792928076091,
+      "updatedOn": 1792928493010,
       "imageDimensions": {
         "width": 2560,
         "height": 1707
@@ -6805,12 +6805,12 @@
         "Type: Événement",
         "Membre: Centre de la photographie Genève",
         "Thématique: Photographie",
-        "Quartier:  Quartier des Bains",
         "Artiste: Augustin Rebetez",
         "Artiste: REA",
         "Date: 2026-09-16T20:00",
         "Sélection: Scène artistique suisse",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Quartier: Quartier des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -6829,7 +6829,7 @@
       "starred": false,
       "publishOn": 1783549641989,
       "addedOn": 1783549641989,
-      "updatedOn": 1792928165803,
+      "updatedOn": 1792928617703,
       "imageDimensions": {
         "width": 2700,
         "height": 1800
@@ -7030,9 +7030,9 @@
         "Date: 2026-09-05/2026-11-15",
         "Thématique: Art contemporain",
         "Membre: MAMCO",
-        "Quartier: Eaux-Vives Cité",
         "Sélection: Art en Vieille-Ville",
-        "Membre: SaSA – Site archéologique Saint-Antoine"
+        "Membre: SaSA – Site archéologique Saint-Antoine",
+        "Quartier: Eaux-Vives"
       ],
       "excerpt": "",
       "location": {
@@ -7051,7 +7051,7 @@
       "starred": false,
       "publishOn": 1783539286654,
       "addedOn": 1783539286654,
-      "updatedOn": 1786826416319,
+      "updatedOn": 1792928493060,
       "imageDimensions": {
         "width": 2657,
         "height": 1993
@@ -7232,7 +7232,6 @@
       ],
       "tags": [
         "Type: Exposition",
-        "Quartier: Centre",
         "Membre: Musée Ariana",
         "Thématique: Art contemporain",
         "Artiste: Dove Allouche",
@@ -7272,7 +7271,8 @@
         "Artiste: Betty Woodman",
         "Date: 2026-04-24/2027-01-03",
         "Sélection: Expositions principales",
-        "Sélection: Parcours Céramique Carouge"
+        "Sélection: Parcours Céramique Carouge",
+        "Quartier: Nations"
       ],
       "excerpt": "",
       "location": {
@@ -7291,7 +7291,7 @@
       "starred": false,
       "publishOn": 1783351187296,
       "addedOn": 1783351187296,
-      "updatedOn": 1785713415940,
+      "updatedOn": 1792928814986,
       "imageDimensions": {
         "width": 2500,
         "height": 1876
