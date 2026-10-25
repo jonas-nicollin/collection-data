@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-10-25T11:48:18.293Z",
-  "sourceHash": "bb0ca93e49b29f694c16b77bd1538228f05fbe63992467ad97c4f282bffb2f62",
+  "updatedAt": "2026-10-25T11:58:16.063Z",
+  "sourceHash": "047891f950f926ae21ddccdf1f8c856653421432faed7816998c1c0a405ce887",
   "count": 156,
   "pages": 8,
   "items": [
@@ -214,13 +214,13 @@
       "tags": [
         "Thématique: Art contemporain",
         "Artiste: Pauline Coquart",
-        "Quartier: Centre",
         "Lieu: L’Arcade",
         "Membre: Centre d’Art Contemporain Genève",
         "Type: Événement",
         "Date: 2026-09-20T11:00",
         "Sélection: Scène artistique suisse",
-        "Sélection: Scène émergente"
+        "Sélection: Scène émergente",
+        "Quartier: Grottes–Saint-Gervais"
       ],
       "excerpt": "",
       "location": {
@@ -239,7 +239,7 @@
       "starred": false,
       "publishOn": 1788818535411,
       "addedOn": 1788818535411,
-      "updatedOn": 1792927665575,
+      "updatedOn": 1792929064698,
       "imageDimensions": {
         "width": 4032,
         "height": 3024
@@ -1737,7 +1737,8 @@
         "Intervenante: Marion Festal",
         "Date: 2026-09-18T10:00",
         "Lieu: Jardin Botanique de Genève",
-        "Thématique: Art contemporain"
+        "Thématique: Art contemporain",
+        "Quartier: Nations"
       ],
       "excerpt": "",
       "location": {
@@ -1756,7 +1757,7 @@
       "starred": false,
       "publishOn": 1786228876712,
       "addedOn": 1786228876712,
-      "updatedOn": 1792928242123,
+      "updatedOn": 1792929199474,
       "imageDimensions": {
         "width": 678,
         "height": 452
@@ -1782,7 +1783,9 @@
         "Thématique: Art contemporain",
         "Artiste: Olaf Holzapfel",
         "Date: 2026-09-17T17:30",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Quartier: Quartier des Bains",
+        "Parcours: Lionel Bovier"
       ],
       "excerpt": "",
       "location": {
@@ -1801,7 +1804,7 @@
       "starred": false,
       "publishOn": 1786228119365,
       "addedOn": 1786228119365,
-      "updatedOn": 1792928165773,
+      "updatedOn": 1792929313227,
       "imageDimensions": {
         "width": 1468,
         "height": 1418
@@ -1923,7 +1926,8 @@
         "Artiste: Olaf Holzapfel",
         "Date: 2026-09-19T11:00",
         "Intervenant: Bernard Vienat",
-        "Thématique: Sculpture et installation"
+        "Thématique: Sculpture et installation",
+        "Quartier: Annemasse"
       ],
       "excerpt": "",
       "location": {
@@ -1942,7 +1946,7 @@
       "starred": false,
       "publishOn": 1785801027302,
       "addedOn": 1785801027302,
-      "updatedOn": 1792927969312,
+      "updatedOn": 1792929272497,
       "imageDimensions": {
         "width": 1920,
         "height": 1440
@@ -4744,8 +4748,9 @@
       "tags": [
         "Membre: Geneva Art Week",
         "Date: 2026-09-19T14:30",
-        "Lieu: Accès: Suivre Centre de la Photographie Genève et monter au 1er étage",
-        "Thématique: Art contemporain"
+        "Thématique: Art contemporain",
+        "Lieu: Bibliothèque de Genève",
+        "Quartier: Centre"
       ],
       "excerpt": "",
       "location": {
@@ -4764,7 +4769,7 @@
       "starred": false,
       "publishOn": 1784153440453,
       "addedOn": 1784153440453,
-      "updatedOn": 1792927367438,
+      "updatedOn": 1792929406759,
       "imageDimensions": {
         "width": 2846,
         "height": 2000
@@ -7313,14 +7318,14 @@
       ],
       "tags": [
         "Type: Exposition",
-        "Quartier: Centre",
         "Thématique: Art textile",
         "Thématique: Céramique",
         "Artiste: Marie Ducaté",
         "Membre: Musée Ariana",
         "Date: 2026-02-20/2026-11-29",
         "Sélection: Parcours Céramique Carouge",
-        "Thématique: Peinture et dessin"
+        "Thématique: Peinture et dessin",
+        "Quartier: Nations"
       ],
       "excerpt": "",
       "location": {
@@ -7339,7 +7344,7 @@
       "starred": false,
       "publishOn": 1783347143039,
       "addedOn": 1783347143039,
-      "updatedOn": 1792927876057,
+      "updatedOn": 1792928976464,
       "imageDimensions": {
         "width": 2500,
         "height": 1876
@@ -7363,13 +7368,13 @@
         "Type: Exposition",
         "Thématique: Art contemporain",
         "Artiste: Pauline Coquart",
-        "Quartier: Centre",
         "Vernissage: 2026-09-17T18:00",
         "Date: 2026-09-18/2026-11-15",
         "Lieu: L’Arcade",
         "Membre: Centre d’Art Contemporain Genève",
         "Sélection: Scène artistique suisse",
-        "Sélection: Scène émergente"
+        "Sélection: Scène émergente",
+        "Quartier: Grottes–Saint-Gervais"
       ],
       "excerpt": "",
       "location": {
@@ -7388,7 +7393,7 @@
       "starred": false,
       "publishOn": 1783346622744,
       "addedOn": 1783346622744,
-      "updatedOn": 1792927665788,
+      "updatedOn": 1792929117497,
       "imageDimensions": {
         "width": 1556,
         "height": 2200
