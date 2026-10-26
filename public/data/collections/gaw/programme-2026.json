@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-10-25T12:08:11.501Z",
-  "sourceHash": "33891719c1f7debc7bc430c26961541ac1453b070a74c7ac9f4f6e271a3fe2ca",
+  "updatedAt": "2026-10-26T12:18:18.522Z",
+  "sourceHash": "1aa6cafc6df28859f95f74dbf17127fc2219f43b6a10a626b2b0b797ef125da8",
   "count": 156,
   "pages": 8,
   "items": [
@@ -1929,7 +1929,7 @@
         "Date: 2026-09-19T11:00",
         "Intervenant: Bernard Vienat",
         "Thématique: Sculpture et installation",
-        "Quartier: Annemasse"
+        "Quartier: Grand Genève"
       ],
       "excerpt": "",
       "location": {
@@ -1948,7 +1948,7 @@
       "starred": false,
       "publishOn": 1785801027302,
       "addedOn": 1785801027302,
-      "updatedOn": 1792929272497,
+      "updatedOn": 1793017064207,
       "imageDimensions": {
         "width": 1920,
         "height": 1440
