@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-27T15:28:35.936Z",
-  "sourceHash": "338507d719ee63f6f5e9b0939a32675248c39d82697b0b7cf13534ca62199e12",
+  "updatedAt": "2026-10-27T15:48:29.363Z",
+  "sourceHash": "c070d4acf06aac4ab8a93cb5e9090443bd9692e253161fc21c56cf9fc286fe71",
   "count": 49,
   "pages": 3,
   "items": [
@@ -228,7 +228,7 @@
     },
     {
       "id": "6ae0c08ac7835b13b0fb0a88",
-      "title": "Sang Woo Kim: press article in Financial Times HTSI by Charlotte Jansen",
+      "title": "Sang Woo Kim spent a lifetime being stared at. Now he feels seen",
       "fullUrl": "/all-news/sang-woo-kim-financial-times-2026",
       "sourceUrl": "https://www.ft.com/content/4566bf55-9d77-4784-88f0-9c37f625456a",
       "urlId": "sang-woo-kim-financial-times-2026",
@@ -242,7 +242,7 @@
       "tags": [
         "Artist: Sang Woo Kim"
       ],
-      "excerpt": "<p style=\"text-align: left; white-space: pre-wrap\" data-rte-preserve-empty=\"true\">Sang Woo Kim spent a lifetime being stared at. Now he feels seen</p>",
+      "excerpt": "<p style=\"text-align: left; white-space: pre-wrap\" data-rte-preserve-empty=\"true\">Sang Woo Kim: Press article in The Financial Times HTSI by Charlotte Jansen. Photography by Larissa Hofmann</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -259,7 +259,7 @@
       "starred": false,
       "publishOn": 1775830650304,
       "addedOn": 1775830650304,
-      "updatedOn": 1793114731091,
+      "updatedOn": 1793115626394,
       "imageDimensions": {
         "width": 2392,
         "height": 1574

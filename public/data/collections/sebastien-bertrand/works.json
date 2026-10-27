@@ -5,8 +5,8 @@
   "id": "works",
   "path": "/works",
   "sourceUrl": "https://sebastienbertrand.com/works?format=json",
-  "updatedAt": "2026-10-22T13:38:32.956Z",
-  "sourceHash": "7de9fb32603591943741c8abb495b6e85850f324e689107faa2145270df52c47",
+  "updatedAt": "2026-10-27T15:48:37.661Z",
+  "sourceHash": "365214aea6d16697ff85cd56a876ad81f9b010c5be86afc736fe17e4031b2bf9",
   "count": 767,
   "pages": 4,
   "items": [
@@ -6775,7 +6775,12 @@
       "title": "Odysseus and the Sirens",
       "fullUrl": "/works/p/midnight-landscape-e2efe-e97pr-2bbj6-j3wpb-ffc9r-kzcyc-wb4c4-5b4pk-epcb4",
       "urlId": "midnight-landscape-e2efe-e97pr-2bbj6-j3wpb-ffc9r-kzcyc-wb4c4-5b4pk-epcb4",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/c99b5f10-a990-47bb-9194-d5eb7b16d4fa/HD_Todd+Bienvenu%2C+Odysseus+and+the+Sirens%2C+2023%2C+Acrylic+on+linen%2C+203.2+x+228.6+cm.%2C+80+x+90+in.%2C+TB-2303+copie.jpg",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/2dd6b3ed-dadd-45de-9f6d-33bd6ac4c644/HD_1E9A4917-1+copie+2.jpg",
+      "mediaFocalPoint": {
+        "x": 0.5,
+        "y": 0.5,
+        "source": 3
+      },
       "tags": [
         "Exhibition: Artissima 2024"
       ],
@@ -6785,11 +6790,24 @@
       "starred": true,
       "publishOn": 1729601549433,
       "addedOn": 1643206965705,
-      "updatedOn": 1790856041884,
+      "updatedOn": 1793115766384,
       "categories": [
         "Todd Bienvenu"
       ],
       "media": [
+        {
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/2dd6b3ed-dadd-45de-9f6d-33bd6ac4c644/HD_1E9A4917-1+copie+2.jpg",
+          "imageDimensions": {
+            "width": 2600,
+            "height": 3249
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5,
+            "source": 3
+          },
+          "title": "HD_1E9A4917-1 copie 2.jpg"
+        },
         {
           "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/c99b5f10-a990-47bb-9194-d5eb7b16d4fa/HD_Todd+Bienvenu%2C+Odysseus+and+the+Sirens%2C+2023%2C+Acrylic+on+linen%2C+203.2+x+228.6+cm.%2C+80+x+90+in.%2C+TB-2303+copie.jpg",
           "imageDimensions": {
@@ -6832,13 +6850,8 @@
       ],
       "sourceType": "product",
       "imageDimensions": {
-        "width": 5709,
-        "height": 4865
-      },
-      "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
-        "source": 3
+        "width": 2600,
+        "height": 3249
       },
       "categoryOrder": {
         "Todd Bienvenu": 3
