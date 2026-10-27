@@ -5,8 +5,8 @@
   "id": "all-news",
   "path": "/all-news",
   "sourceUrl": "https://sebastienbertrand.com/all-news?format=json",
-  "updatedAt": "2026-10-27T15:48:29.363Z",
-  "sourceHash": "c070d4acf06aac4ab8a93cb5e9090443bd9692e253161fc21c56cf9fc286fe71",
+  "updatedAt": "2026-10-27T17:18:17.353Z",
+  "sourceHash": "36bf8d5360fd4e1c484f2703f2f567884b458ebe4dd7e676cb72ba307adee2ee",
   "count": 49,
   "pages": 3,
   "items": [
@@ -234,11 +234,13 @@
       "urlId": "sang-woo-kim-financial-times-2026",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/61e055f709997a6a34f17dd7/1793114460676-H426OSIZ0VQ7LGYMJL36/Capture+d%E2%80%99e%CC%81cran+2026-10-27+a%CC%80+16.20.52.png",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.6958384332925337,
+        "y": 0.47025996372599177,
         "source": 3
       },
-      "categories": [],
+      "categories": [
+        "Press"
+      ],
       "tags": [
         "Artist: Sang Woo Kim"
       ],
@@ -259,7 +261,7 @@
       "starred": false,
       "publishOn": 1775830650304,
       "addedOn": 1775830650304,
-      "updatedOn": 1793115626394,
+      "updatedOn": 1793120911509,
       "imageDimensions": {
         "width": 2392,
         "height": 1574
