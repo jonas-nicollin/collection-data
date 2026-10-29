@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-10-21T10:25:55.690Z",
-  "sourceHash": "0e7ec7caa29a6b5f27a98aa7e48ddf2229c8729796caf12bad1332f8a18902dc",
+  "updatedAt": "2026-10-29T15:57:54.023Z",
+  "sourceHash": "1475a2a1021e5c3dfc9ae585fe52a634a06aefbfdf1f8c3382920229396d2a60",
   "count": 93,
   "pages": 1,
   "items": [
@@ -45,7 +45,7 @@
         "addressLine2": "1225 Chêne-Bourg",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 6,
+      "displayIndex": 1,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748649600571,
@@ -89,7 +89,7 @@
         "addressLine2": "1207 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 8,
+      "displayIndex": 3,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748476800370,
@@ -134,7 +134,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 83,
+      "displayIndex": 4,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748421028846,
@@ -177,7 +177,7 @@
         "addressLine2": "1206 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 10,
+      "displayIndex": 5,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748304000813,
@@ -222,7 +222,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 87,
+      "displayIndex": 6,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748302181143,
@@ -266,7 +266,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 91,
+      "displayIndex": 7,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748301053564,
@@ -311,7 +311,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 93,
+      "displayIndex": 8,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748296913647,
@@ -357,7 +357,7 @@
         "addressLine2": "1227 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 30,
+      "displayIndex": 9,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748293200802,
@@ -404,7 +404,7 @@
         "addressLine2": "1207 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 11,
+      "displayIndex": 10,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748253600298,
@@ -450,7 +450,7 @@
         "addressLine2": "1201 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 12,
+      "displayIndex": 11,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1748242800856,
@@ -496,7 +496,7 @@
         "addressLine2": "1201 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 84,
+      "displayIndex": 13,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1747957695570,
@@ -905,7 +905,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 80,
+      "displayIndex": 23,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1747377786694,
@@ -949,7 +949,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 94,
+      "displayIndex": 25,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1747350707530,
@@ -994,7 +994,7 @@
         "addressLine2": "1212 Lancy",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 24,
+      "displayIndex": 26,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1747267200639,
@@ -1036,7 +1036,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 25,
+      "displayIndex": 27,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1747267200408,
@@ -1078,7 +1078,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 26,
+      "displayIndex": 28,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1747180800494,
@@ -1123,7 +1123,7 @@
         "addressLine2": "1201 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 27,
+      "displayIndex": 29,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1747094400764,
@@ -1165,7 +1165,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 28,
+      "displayIndex": 30,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1747008000100,
@@ -1211,7 +1211,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 31,
+      "displayIndex": 32,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746925200663,
@@ -1258,7 +1258,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 102,
+      "displayIndex": 33,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746925192416,
@@ -1303,7 +1303,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 86,
+      "displayIndex": 34,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746921786583,
@@ -1350,7 +1350,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 101,
+      "displayIndex": 35,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746921780789,
@@ -1394,7 +1394,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 32,
+      "displayIndex": 36,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746835200125,
@@ -1440,7 +1440,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 33,
+      "displayIndex": 37,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746820800363,
@@ -1486,7 +1486,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 34,
+      "displayIndex": 38,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746754020733,
@@ -1532,7 +1532,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 35,
+      "displayIndex": 39,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746692700899,
@@ -1577,7 +1577,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 36,
+      "displayIndex": 40,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746576000602,
@@ -1622,7 +1622,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 37,
+      "displayIndex": 41,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746516240181,
@@ -1664,7 +1664,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 38,
+      "displayIndex": 42,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746514200804,
@@ -1711,7 +1711,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 40,
+      "displayIndex": 43,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746486000247,
@@ -1757,7 +1757,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 41,
+      "displayIndex": 44,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746403200262,
@@ -1803,7 +1803,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 42,
+      "displayIndex": 45,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746316800678,
@@ -1846,7 +1846,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 43,
+      "displayIndex": 46,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746313200847,
@@ -1888,7 +1888,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 44,
+      "displayIndex": 47,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1746057600575,
@@ -1930,7 +1930,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 45,
+      "displayIndex": 48,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745996400994,
@@ -1977,7 +1977,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 46,
+      "displayIndex": 49,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745971200745,
@@ -2024,7 +2024,7 @@
         "addressLine2": "1228 Plan-les-Ouates",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 47,
+      "displayIndex": 50,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745884800083,
@@ -2067,7 +2067,7 @@
         "addressLine2": "1201 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 48,
+      "displayIndex": 51,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745830800755,
@@ -2109,7 +2109,7 @@
         "addressLine2": "",
         "addressCountry": ""
       },
-      "displayIndex": 98,
+      "displayIndex": 52,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745795044382,
@@ -2154,7 +2154,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 97,
+      "displayIndex": 53,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745789846300,
@@ -2200,7 +2200,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 50,
+      "displayIndex": 54,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745713800437,
@@ -2246,7 +2246,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 88,
+      "displayIndex": 55,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745708506022,
@@ -2292,7 +2292,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 51,
+      "displayIndex": 56,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745708400701,
@@ -2334,7 +2334,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 52,
+      "displayIndex": 57,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745643600837,
@@ -2379,7 +2379,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 55,
+      "displayIndex": 60,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745575200861,
@@ -2424,7 +2424,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 56,
+      "displayIndex": 61,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745575200709,
@@ -2470,7 +2470,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 57,
+      "displayIndex": 62,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745571600330,
@@ -2513,7 +2513,7 @@
         "addressLine2": "1212 Lancy",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 58,
+      "displayIndex": 63,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745568000310,
@@ -2559,7 +2559,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 81,
+      "displayIndex": 64,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745566315953,
@@ -2601,7 +2601,7 @@
         "addressLine2": "1201 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 59,
+      "displayIndex": 65,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745539200195,
@@ -2645,7 +2645,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 60,
+      "displayIndex": 66,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745452800331,
@@ -2690,7 +2690,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 82,
+      "displayIndex": 67,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745309013736,
@@ -2735,7 +2735,7 @@
         "addressLine2": "1206 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 61,
+      "displayIndex": 68,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745193600297,
@@ -2778,7 +2778,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 62,
+      "displayIndex": 69,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745107200027,
@@ -2820,7 +2820,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 63,
+      "displayIndex": 70,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1745020800010,
@@ -2862,7 +2862,7 @@
         "addressLine2": "1202 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 65,
+      "displayIndex": 71,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744934400198,
@@ -2907,7 +2907,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 66,
+      "displayIndex": 72,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744848000236,
@@ -2950,7 +2950,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 67,
+      "displayIndex": 73,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744797600141,
@@ -2992,7 +2992,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 68,
+      "displayIndex": 74,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744761600374,
@@ -3037,7 +3037,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 95,
+      "displayIndex": 75,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744727548680,
@@ -3080,7 +3080,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 69,
+      "displayIndex": 76,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744588800353,
@@ -3126,7 +3126,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 89,
+      "displayIndex": 77,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744588586415,
@@ -3172,7 +3172,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 70,
+      "displayIndex": 78,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744502400692,
@@ -3218,7 +3218,7 @@
         "addressLine2": "1207 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 71,
+      "displayIndex": 79,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744416000080,
@@ -3265,7 +3265,7 @@
         "addressLine2": "1201 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 72,
+      "displayIndex": 80,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744365600379,
@@ -3314,7 +3314,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 73,
+      "displayIndex": 81,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744329600107,
@@ -3358,7 +3358,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 74,
+      "displayIndex": 82,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744156800422,
@@ -3401,7 +3401,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 96,
+      "displayIndex": 83,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744147272543,
@@ -3446,7 +3446,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 100,
+      "displayIndex": 84,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744146027348,
@@ -3492,7 +3492,7 @@
         "addressLine2": "1207 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 75,
+      "displayIndex": 85,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744099200778,
@@ -3535,7 +3535,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 77,
+      "displayIndex": 87,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1744070400458,
@@ -3583,7 +3583,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 78,
+      "displayIndex": 88,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743984000888,
@@ -3627,7 +3627,7 @@
         "addressLine2": "1207 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 79,
+      "displayIndex": 89,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743922800279,
@@ -3673,7 +3673,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 80,
+      "displayIndex": 90,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743913320560,
@@ -3715,7 +3715,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 99,
+      "displayIndex": 91,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743912430117,
@@ -3805,7 +3805,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 81,
+      "displayIndex": 93,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743897600564,
@@ -3851,7 +3851,7 @@
         "addressLine2": "1227 Carouge",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 82,
+      "displayIndex": 94,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743811200528,
@@ -3897,7 +3897,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 90,
+      "displayIndex": 95,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743792569838,
@@ -3942,7 +3942,7 @@
         "addressLine2": "1212 Lancy",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 84,
+      "displayIndex": 97,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743724800089,
@@ -3986,7 +3986,7 @@
         "addressLine2": "74100 Annemasse ",
         "addressCountry": "France"
       },
-      "displayIndex": 85,
+      "displayIndex": 98,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743638400764,
@@ -4033,7 +4033,7 @@
         "addressLine2": "1204 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 86,
+      "displayIndex": 99,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743552000362,
@@ -4076,7 +4076,7 @@
         "addressLine2": "1212 Lancy",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 85,
+      "displayIndex": 100,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743547779564,
@@ -4122,7 +4122,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 87,
+      "displayIndex": 101,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743465600518,
@@ -4166,7 +4166,7 @@
         "addressLine2": "1205 Genève",
         "addressCountry": "Suisse"
       },
-      "displayIndex": 88,
+      "displayIndex": 102,
       "workflowState": 1,
       "starred": false,
       "publishOn": 1743379200260,
