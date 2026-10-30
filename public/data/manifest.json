@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-10-30T08:27:36.868Z",
+  "updatedAt": "2026-10-30T08:37:40.400Z",
   "files": {
     "anouck-mutsaerts/work-index.json": {
       "sourceHash": "58a798c3c4755fd15fc94d14a332a7a6aaa5c83cd089ea3a9b1281b67a7f0c45",
@@ -10,8 +10,8 @@
       "pages": 1
     },
     "carneiro/projet.json": {
-      "sourceHash": "bd2a60639780277a0e9f662b41fa5c8dabe8d840942dc3233edeabdf95ce7c50",
-      "updatedAt": "2026-10-30T08:27:36.868Z",
+      "sourceHash": "09aefe6f2bea5488f8c2b76213aeeab098bce163ed67c3e511b5e8d16e2dce73",
+      "updatedAt": "2026-10-30T08:37:40.400Z",
       "count": 46,
       "pages": 3
     },
