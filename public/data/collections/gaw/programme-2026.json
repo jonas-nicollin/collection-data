@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-02T14:58:12.888Z",
-  "sourceHash": "0280c1c54a1796b4168c3829bc0f2425b57daa5ec2e3448fdba90f52779017dc",
+  "updatedAt": "2026-11-02T15:08:06.974Z",
+  "sourceHash": "31d9601392022f8a9e4bc6294be36adee223df260ac6776440e5d2edda327152",
   "count": 156,
   "pages": 8,
   "items": [
@@ -6006,7 +6006,8 @@
         "Date: 2026-09-18T11:45",
         "Quartier: Quartier des Bains",
         "Sélection: Nuit des Bains",
-        "Membre: Centre d’Art Contemporain Genève"
+        "Membre: Centre d’Art Contemporain Genève",
+        "Parcours: Pipilotti Rist"
       ],
       "excerpt": "",
       "location": {
@@ -6025,7 +6026,7 @@
       "starred": false,
       "publishOn": 1783812667351,
       "addedOn": 1783812667351,
-      "updatedOn": 1787052945437,
+      "updatedOn": 1793631893066,
       "imageDimensions": {
         "width": 1280,
         "height": 1920
@@ -6826,7 +6827,8 @@
         "Date: 2026-09-16T20:00",
         "Sélection: Scène artistique suisse",
         "Thématique: Pratiques pluridisciplinaires",
-        "Quartier: Quartier des Bains"
+        "Quartier: Quartier des Bains",
+        "Parcours: Pipilotti Rist"
       ],
       "excerpt": "",
       "location": {
@@ -6845,7 +6847,7 @@
       "starred": false,
       "publishOn": 1783549641989,
       "addedOn": 1783549641989,
-      "updatedOn": 1792928617703,
+      "updatedOn": 1793631716910,
       "imageDimensions": {
         "width": 2700,
         "height": 1800
@@ -7336,7 +7338,8 @@
         "Date: 2026-02-20/2026-11-29",
         "Sélection: Parcours Céramique Carouge",
         "Thématique: Peinture et dessin",
-        "Quartier: Nations"
+        "Quartier: Nations",
+        "Parcours: Pipilotti Rist"
       ],
       "excerpt": "",
       "location": {
@@ -7355,7 +7358,7 @@
       "starred": false,
       "publishOn": 1783347143039,
       "addedOn": 1783347143039,
-      "updatedOn": 1792928976464,
+      "updatedOn": 1793631607343,
       "imageDimensions": {
         "width": 2500,
         "height": 1876
