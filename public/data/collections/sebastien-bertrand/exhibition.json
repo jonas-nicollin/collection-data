@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-11-03T11:18:16.412Z",
-  "sourceHash": "5b2cb66b619aaddb5c9aea26fec2a74edb6e7a8def78ba0a683b8f697038ddb0",
+  "updatedAt": "2026-11-03T13:38:00.511Z",
+  "sourceHash": "f875b9b6e54b29810d3707c614cd44afe9c806bee96ae42ed76311f040d4e1ed",
   "count": 107,
   "pages": 1,
   "items": [
@@ -436,8 +436,8 @@
       "tags": [
         "Year: 2026",
         "Exhibition: Solo Show",
-        "Extended until: 2026-03-20",
-        "Opening: 2026-01-15T18:00/2026-01-15T20:30"
+        "Opening: 2026-01-15T18:00/2026-01-15T20:30",
+        "Date: 2026-01-15/2026-02-28"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Exhibition extended until March 20, 2026 </p><pre><code>Opening Reception: Thursday, January 15, 6–8:30pm</code></pre>",
       "location": {
@@ -456,7 +456,7 @@
       "starred": true,
       "publishOn": 1768518016529,
       "addedOn": 1768518016529,
-      "updatedOn": 1791212307055,
+      "updatedOn": 1793712948591,
       "imageDimensions": {
         "width": 2300,
         "height": 2300
