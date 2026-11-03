@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-03T10:38:04.900Z",
-  "sourceHash": "0a651708634f1d459c1937f57b7e6a48ccb934e1d4e6f3a4aefcb31fe8b0fee2",
+  "updatedAt": "2026-11-03T10:48:06.622Z",
+  "sourceHash": "91f198f67a9af74d6cbe11ef2883f8ed2a7f5a34fd44cb9e8fbf1b71c3f9d92d",
   "count": 156,
   "pages": 8,
   "items": [
@@ -4955,7 +4955,6 @@
         "Date: 2026-09-14/2026-10-18",
         "Vernissage: 2026-09-16T18:00",
         "Sélection: Art en Vieille-Ville",
-        "Sélection: Expositions principales",
         "Thématique: Vidéo et arts numériques",
         "Parcours: Mighela Shama",
         "Parcours: Pipilotti Rist"
@@ -4977,7 +4976,7 @@
       "starred": false,
       "publishOn": 1784148642310,
       "addedOn": 1784148642310,
-      "updatedOn": 1793631170759,
+      "updatedOn": 1793702286156,
       "imageDimensions": {
         "width": 2560,
         "height": 1440
@@ -5482,7 +5481,6 @@
         "Artiste: Pierre André Ferrand",
         "Date: 2026-09-18/2026-10-31",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales",
         "Thématique: Peinture et dessin"
       ],
       "excerpt": "",
@@ -5502,7 +5500,7 @@
       "starred": false,
       "publishOn": 1783957524272,
       "addedOn": 1783957524272,
-      "updatedOn": 1792927876078,
+      "updatedOn": 1793702295559,
       "imageDimensions": {
         "width": 2219,
         "height": 2431
@@ -5531,7 +5529,6 @@
         "Artiste: Amit Berman",
         "Date: 2026-09-17/2026-11-07",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales",
         "Sélection: Scène émergente",
         "Thématique: Peinture et dessin"
       ],
@@ -5552,7 +5549,7 @@
       "starred": false,
       "publishOn": 1783957114429,
       "addedOn": 1783957114429,
-      "updatedOn": 1792927876900,
+      "updatedOn": 1793702305380,
       "imageDimensions": {
         "width": 1925,
         "height": 2407
@@ -5816,7 +5813,8 @@
         "Quartier: Quartier des Bains",
         "Intervenante: Danaé Panchaud",
         "Date: 2026-09-19T11:00",
-        "Sélection: Scène émergente"
+        "Sélection: Scène émergente",
+        "Sélection: Hero"
       ],
       "excerpt": "",
       "location": {
@@ -5835,7 +5833,7 @@
       "starred": false,
       "publishOn": 1783874631411,
       "addedOn": 1783874631411,
-      "updatedOn": 1792927665609,
+      "updatedOn": 1793702312115,
       "imageDimensions": {
         "width": 1800,
         "height": 1286
@@ -6429,7 +6427,6 @@
         "Membre: Arcadia",
         "Date: 2026-09-15/2026-10-31",
         "Vernissage: 2026-09-16T18:00",
-        "Sélection: Expositions principales",
         "Membre: Joy de Rouvre",
         "Thématique: Peinture et dessin",
         "Quartier: Eaux-Vives"
@@ -6451,7 +6448,7 @@
       "starred": false,
       "publishOn": 1783634189675,
       "addedOn": 1783634189675,
-      "updatedOn": 1792928493204,
+      "updatedOn": 1793702358960,
       "imageDimensions": {
         "width": 2560,
         "height": 1707
@@ -6530,8 +6527,7 @@
         "Artiste: Ptolemy Mann",
         "Artiste: Marit Tingleff",
         "Sélection: Parcours Céramique Carouge",
-        "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -6550,7 +6546,7 @@
       "starred": false,
       "publishOn": 1783632794874,
       "addedOn": 1783632794874,
-      "updatedOn": 1789814199239,
+      "updatedOn": 1793702368376,
       "imageDimensions": {
         "width": 3600,
         "height": 2400
@@ -6579,7 +6575,6 @@
         "Thématique: Art contemporain",
         "Quartier: Quartier des Bains",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales",
         "Sélection: Scène artistique suisse",
         "Thématique: Sculpture et installation"
       ],
@@ -6600,7 +6595,7 @@
       "starred": false,
       "publishOn": 1783631797633,
       "addedOn": 1783631797633,
-      "updatedOn": 1792927969527,
+      "updatedOn": 1793702377766,
       "imageDimensions": {
         "width": 1135,
         "height": 1500
@@ -6678,7 +6673,6 @@
         "Artiste: Seline Burn",
         "Quartier: Quartier des Bains",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales",
         "Sélection: Scène artistique suisse",
         "Thématique: Peinture et dessin",
         "Parcours: Mighela Shama"
@@ -6700,7 +6694,7 @@
       "starred": false,
       "publishOn": 1783630677538,
       "addedOn": 1783630677538,
-      "updatedOn": 1793631005203,
+      "updatedOn": 1793702387430,
       "imageDimensions": {
         "width": 3000,
         "height": 3756
@@ -6827,7 +6821,8 @@
         "Sélection: Scène artistique suisse",
         "Thématique: Pratiques pluridisciplinaires",
         "Quartier: Quartier des Bains",
-        "Parcours: Pipilotti Rist"
+        "Parcours: Pipilotti Rist",
+        "Sélection: Hero"
       ],
       "excerpt": "",
       "location": {
@@ -6846,7 +6841,7 @@
       "starred": false,
       "publishOn": 1783549641989,
       "addedOn": 1783549641989,
-      "updatedOn": 1793631716910,
+      "updatedOn": 1793702393820,
       "imageDimensions": {
         "width": 2700,
         "height": 1800
@@ -6999,7 +6994,6 @@
         "Artiste: Irène Zurkinden",
         "Lieu: Musée Rath",
         "Quartier: Centre",
-        "Sélection: Expositions principales",
         "Sélection: Nuit des Bains",
         "Thématique: Peinture et dessin"
       ],
@@ -7020,7 +7014,7 @@
       "starred": false,
       "publishOn": 1783540093894,
       "addedOn": 1783540093894,
-      "updatedOn": 1792927876401,
+      "updatedOn": 1793702431372,
       "imageDimensions": {
         "width": 1564,
         "height": 999
@@ -7049,7 +7043,8 @@
         "Membre: MAMCO",
         "Sélection: Art en Vieille-Ville",
         "Membre: SaSA – Site archéologique Saint-Antoine",
-        "Quartier: Eaux-Vives"
+        "Quartier: Eaux-Vives",
+        "Sélection: Hero"
       ],
       "excerpt": "",
       "location": {
@@ -7068,7 +7063,7 @@
       "starred": false,
       "publishOn": 1783539286654,
       "addedOn": 1783539286654,
-      "updatedOn": 1792928493060,
+      "updatedOn": 1793702545912,
       "imageDimensions": {
         "width": 2657,
         "height": 1993
@@ -7097,10 +7092,10 @@
         "Artiste: Sarah Jade Sullivan",
         "Artiste: Farren van Wyk",
         "Quartier: Quartier des Bains",
-        "Sélection: Expositions principales",
         "Sélection: Nuit des Bains",
         "Sélection: Scène émergente",
-        "Thématique: Pratiques pluridisciplinaires"
+        "Thématique: Pratiques pluridisciplinaires",
+        "Sélection: Hero"
       ],
       "excerpt": "",
       "location": {
@@ -7119,7 +7114,7 @@
       "starred": false,
       "publishOn": 1783538691373,
       "addedOn": 1783538691373,
-      "updatedOn": 1792928165464,
+      "updatedOn": 1793702555568,
       "imageDimensions": {
         "width": 2048,
         "height": 1463
@@ -7149,7 +7144,8 @@
         "Lieu: Maison de l'enfance et de l'adolescence (HUG)",
         "Sélection: Nuit des Bains",
         "Sélection: Scène artistique suisse",
-        "Sélection: Scène émergente"
+        "Sélection: Scène émergente",
+        "Sélection: Hero"
       ],
       "excerpt": "",
       "location": {
@@ -7168,7 +7164,7 @@
       "starred": false,
       "publishOn": 1783537928620,
       "addedOn": 1783537928620,
-      "updatedOn": 1792927665671,
+      "updatedOn": 1793702563555,
       "imageDimensions": {
         "width": 1000,
         "height": 818
@@ -7205,7 +7201,6 @@
         "Date: 2026-09-02/2026-09-27",
         "Lieu: Le Commun",
         "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales",
         "Membre: Le Commun",
         "Membre: Centre d’Art Contemporain Genève",
         "Sélection: Scène émergente"
@@ -7227,7 +7222,7 @@
       "starred": false,
       "publishOn": 1783352898630,
       "addedOn": 1783352898630,
-      "updatedOn": 1792927665725,
+      "updatedOn": 1793702573030,
       "imageDimensions": {
         "width": 1800,
         "height": 1394
@@ -7287,7 +7282,6 @@
         "Artiste: Bob Wilson",
         "Artiste: Betty Woodman",
         "Date: 2026-04-24/2027-01-03",
-        "Sélection: Expositions principales",
         "Sélection: Parcours Céramique Carouge",
         "Quartier: Nations"
       ],
@@ -7308,7 +7302,7 @@
       "starred": false,
       "publishOn": 1783351187296,
       "addedOn": 1783351187296,
-      "updatedOn": 1792928814986,
+      "updatedOn": 1793702582587,
       "imageDimensions": {
         "width": 2500,
         "height": 1876
@@ -7601,8 +7595,7 @@
         "Artiste: Claus Gunti",
         "Artiste: Giselle’s Books",
         "Date: 2026-09-13/2026-11-08",
-        "Sélection: Nuit des Bains",
-        "Sélection: Expositions principales"
+        "Sélection: Nuit des Bains"
       ],
       "excerpt": "",
       "location": {
@@ -7621,7 +7614,7 @@
       "starred": false,
       "publishOn": 1783330521895,
       "addedOn": 1783330521895,
-      "updatedOn": 1789567050231,
+      "updatedOn": 1793702592166,
       "imageDimensions": {
         "width": 1920,
         "height": 1440

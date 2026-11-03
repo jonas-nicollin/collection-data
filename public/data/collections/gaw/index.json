@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-10-21T10:25:57.117Z",
-  "sourceHash": "ba9814cf86149ea58290f6980e50f01766ee588f191438fcc3bde60a65d0bb04",
+  "updatedAt": "2026-11-03T10:48:12.791Z",
+  "sourceHash": "7cf8eb50696c6c964e17f0458c188158ad1bbe2256462c1679cd3385fddf0d4b",
   "count": 6,
   "pages": 1,
   "items": [
@@ -14,7 +14,7 @@
       "id": "6a6c841fcafe0a1328d0b443",
       "title": "Art Talks",
       "fullUrl": "/index/art-talks",
-      "sourceUrl": "/programme/art-talks",
+      "sourceUrl": "/programme-essai?type=evenements&categorie=Talk",
       "urlId": "art-talks",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785503780623-U1B3K4D7LCA7X24YJY6I/GAW-Rendez-vous-Art-Talks-01.webp",
       "mediaFocalPoint": {
@@ -27,9 +27,10 @@
       ],
       "tags": [
         "Date: 2026-09-16/2026-09-20",
-        "Descripteur: Conversations"
+        "Descripteur: Conversations",
+        "Lien: Art Talks"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Des conversations pour rencontrer les artistes et partager les regards sur l’art.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -45,7 +46,7 @@
       "starred": false,
       "publishOn": 1785496689191,
       "addedOn": 1785496689191,
-      "updatedOn": 1785503789828,
+      "updatedOn": 1793702838045,
       "imageDimensions": {
         "width": 3000,
         "height": 2000
@@ -55,7 +56,7 @@
       "id": "6a6c833a434d6570806bbfac",
       "title": "Studio Visits",
       "fullUrl": "/index/studio-visits",
-      "sourceUrl": "/programme/studio-visits",
+      "sourceUrl": "/programme-essai?type=evenements&categorie=Studio%20Visit",
       "urlId": "studio-visits",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785496586585-M7EHUQTOIMPZZKGZVTVP/GAW-Rendez-vous-Studio-Visits-01.webp",
       "mediaFocalPoint": {
@@ -68,9 +69,10 @@
       ],
       "tags": [
         "Date: 2026-09-16/2026-09-20",
-        "Descripteur: Visites d’ateliers"
+        "Descripteur: Visites d’ateliers",
+        "Lien: Studio Visits"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Entrez dans les ateliers et découvrez les pratiques des artistes.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -86,7 +88,7 @@
       "starred": false,
       "publishOn": 1785496603227,
       "addedOn": 1785496603227,
-      "updatedOn": 1785496607535,
+      "updatedOn": 1793702878803,
       "imageDimensions": {
         "width": 3000,
         "height": 2000
@@ -96,7 +98,7 @@
       "id": "6a6c82dd70ad2f758ea60040",
       "title": "Art Tables",
       "fullUrl": "/index/art-tables",
-      "sourceUrl": "/programme/art-tables",
+      "sourceUrl": "/programme-essai?selection=Art%20Tables",
       "urlId": "art-tables",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0ca17887-b111-421c-9c2c-654d3eca24ff/GAW-Rendez-vous-Art-Tables-01.webp",
       "mediaFocalPoint": {
@@ -109,9 +111,10 @@
       ],
       "tags": [
         "Date: 2026-09-16/2026-09-20",
-        "Descripteur: Artistes × restaurants"
+        "Descripteur: Artistes × restaurants",
+        "Lien: Art Tables"
       ],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Des rencontres entre artistes et restaurants à découvrir pendant la Geneva Art Week.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -127,7 +130,7 @@
       "starred": false,
       "publishOn": 1785496321785,
       "addedOn": 1785496321785,
-      "updatedOn": 1788762525109,
+      "updatedOn": 1793702748407,
       "imageDimensions": {
         "width": 3000,
         "height": 2000
