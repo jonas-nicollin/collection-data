@@ -26,6 +26,11 @@
       "id": "index",
       "path": "/index",
       "url": "https://genevaartweek.com/index?format=json"
+    },
+    {
+      "id": "parcours",
+      "path": "/parcours",
+      "url": "https://genevaartweek.com/parcours?format=json"
     }
   ]
 }
