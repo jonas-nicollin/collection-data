@@ -5,8 +5,8 @@
   "id": "exhibition",
   "path": "/exhibition",
   "sourceUrl": "https://sebastienbertrand.com/exhibition?format=json",
-  "updatedAt": "2026-11-03T11:08:19.421Z",
-  "sourceHash": "7a2a0f3e6bca6b486acd42a3581d6bc3540c83943b7556c1177795aa7d74316f",
+  "updatedAt": "2026-11-03T11:18:16.412Z",
+  "sourceHash": "5b2cb66b619aaddb5c9aea26fec2a74edb6e7a8def78ba0a683b8f697038ddb0",
   "count": 107,
   "pages": 1,
   "items": [
@@ -290,12 +290,7 @@
         "y": 0.5,
         "source": 3
       },
-      "categories": [
-        "Han-Chiao",
-        "Michael Hilsman",
-        "Sang Woo Kim",
-        "Walter Robinson"
-      ],
+      "categories": [],
       "tags": [
         "Exhibition: Fair",
         "Year: 2026",
@@ -320,7 +315,7 @@
       "starred": true,
       "publishOn": 1775739310433,
       "addedOn": 1775739310433,
-      "updatedOn": 1791212306465,
+      "updatedOn": 1793704656270,
       "imageDimensions": {
         "width": 4000,
         "height": 2668

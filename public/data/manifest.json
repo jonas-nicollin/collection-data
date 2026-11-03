@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-11-03T11:08:19.421Z",
+  "updatedAt": "2026-11-03T11:18:16.412Z",
   "files": {
     "anouck-mutsaerts/work-index.json": {
       "sourceHash": "58a798c3c4755fd15fc94d14a332a7a6aaa5c83cd089ea3a9b1281b67a7f0c45",
@@ -82,8 +82,8 @@
       "pages": 1
     },
     "sebastien-bertrand/exhibition.json": {
-      "sourceHash": "7a2a0f3e6bca6b486acd42a3581d6bc3540c83943b7556c1177795aa7d74316f",
-      "updatedAt": "2026-11-03T11:08:19.421Z",
+      "sourceHash": "5b2cb66b619aaddb5c9aea26fec2a74edb6e7a8def78ba0a683b8f697038ddb0",
+      "updatedAt": "2026-11-03T11:18:16.412Z",
       "count": 107,
       "pages": 1
     },
