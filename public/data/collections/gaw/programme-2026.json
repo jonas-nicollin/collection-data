@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-03T10:48:06.622Z",
-  "sourceHash": "91f198f67a9af74d6cbe11ef2883f8ed2a7f5a34fd44cb9e8fbf1b71c3f9d92d",
+  "updatedAt": "2026-11-04T09:37:34.592Z",
+  "sourceHash": "f35220c4527fddf79aedc6769f41e1c2795eb70e2b76d277318cfbe2da85be28",
   "count": 156,
   "pages": 8,
   "items": [
@@ -4052,7 +4052,7 @@
       "title": "Yann Stéphane Bisso – Art Tables",
       "fullUrl": "/programme-2026/yann-stphane-bisso-art-table",
       "urlId": "yann-stphane-bisso-art-table",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784671639204-XPMJP0BVEVTF8DU672CS/Geneva_Art_Week-Event_2026-Art-Tables-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1793784745870-HHJSTR9XS1ZHWLZ1FFTI/SELECTION-Geneva-art-week-26_30.webp",
       "mediaFocalPoint": {
         "x": 0.5,
         "y": 0.5,
@@ -4089,10 +4089,10 @@
       "starred": false,
       "publishOn": 1784670874526,
       "addedOn": 1784670874526,
-      "updatedOn": 1793702219463,
+      "updatedOn": 1793784760178,
       "imageDimensions": {
-        "width": 1800,
-        "height": 2700
+        "width": 3600,
+        "height": 5400
       }
     },
     {
