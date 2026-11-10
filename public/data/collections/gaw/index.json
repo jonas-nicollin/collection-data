@@ -5,11 +5,46 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-11-10T12:07:44.963Z",
-  "sourceHash": "67c87778378e26bdf7b867fd740d5552b98d9a008d5740948427d1c9e09413e4",
-  "count": 6,
+  "updatedAt": "2026-11-10T13:57:45.138Z",
+  "sourceHash": "e6d71afe964b60b59941375512f399a3b29078c8792abc382d4859245fc185d4",
+  "count": 7,
   "pages": 1,
   "items": [
+    {
+      "id": "6af32138db8b174b2a5e2285",
+      "title": "Lieu central – Le Dorian",
+      "fullUrl": "/index/lieu-central-le-dorian",
+      "urlId": "lieu-central-le-dorian",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/ec2c7cf0-641f-419e-a5a5-ccf800baf625/24-10-07_YKRA_LeDorian%C2%A9AliciaDubuis_001.webp",
+      "mediaFocalPoint": {
+        "x": 0.5000290646980178,
+        "y": 0.6250290657117612,
+        "source": 3
+      },
+      "categories": [],
+      "tags": [],
+      "excerpt": "",
+      "location": {
+        "mapZoom": 12,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "workflowState": 1,
+      "starred": false,
+      "publishOn": 1794318822754,
+      "addedOn": 1794318822754,
+      "updatedOn": 1794318847318,
+      "imageDimensions": {
+        "width": 1600,
+        "height": 2000
+      }
+    },
     {
       "id": "6a6c841fcafe0a1328d0b443",
       "title": "Art Talks",
