@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-11-10T13:57:45.138Z",
-  "sourceHash": "e6d71afe964b60b59941375512f399a3b29078c8792abc382d4859245fc185d4",
+  "updatedAt": "2026-11-10T14:37:45.803Z",
+  "sourceHash": "08381fb89c3cc0b6267a73514fd52edbf415827bcae5e8dae47fc91e178096d0",
   "count": 7,
   "pages": 1,
   "items": [
@@ -14,6 +14,7 @@
       "id": "6af32138db8b174b2a5e2285",
       "title": "Lieu central – Le Dorian",
       "fullUrl": "/index/lieu-central-le-dorian",
+      "sourceUrl": "/lieu-central",
       "urlId": "lieu-central-le-dorian",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/ec2c7cf0-641f-419e-a5a5-ccf800baf625/24-10-07_YKRA_LeDorian%C2%A9AliciaDubuis_001.webp",
       "mediaFocalPoint": {
@@ -23,7 +24,7 @@
       },
       "categories": [],
       "tags": [],
-      "excerpt": "",
+      "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Installé au restaurant Le Dorian, le lieu central de la Geneva Art Week devient un point de rencontres au cœur de la ville. On s’y retrouve entre deux expositions, après un vernissage ou au fil des parcours de visite.</p>",
       "location": {
         "mapZoom": 12,
         "mapLat": 40.7207559,
@@ -39,7 +40,7 @@
       "starred": false,
       "publishOn": 1794318822754,
       "addedOn": 1794318822754,
-      "updatedOn": 1794318847318,
+      "updatedOn": 1794320940949,
       "imageDimensions": {
         "width": 1600,
         "height": 2000
