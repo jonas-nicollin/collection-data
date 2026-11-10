@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-11-03T12:28:12.834Z",
-  "sourceHash": "2b4f12cd87ba497acd223d6032a53c3ab66e4b9acb43bbb8e47cf7d8ef566e3e",
+  "updatedAt": "2026-11-10T12:07:44.963Z",
+  "sourceHash": "67c87778378e26bdf7b867fd740d5552b98d9a008d5740948427d1c9e09413e4",
   "count": 6,
   "pages": 1,
   "items": [
@@ -100,10 +100,10 @@
       "fullUrl": "/index/art-tables",
       "sourceUrl": "/programme-essai?selection=Art%20Tables",
       "urlId": "art-tables",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/0ca17887-b111-421c-9c2c-654d3eca24ff/GAW-Rendez-vous-Art-Tables-01.webp",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1794311913760-QYPAP7G1KM61QMH9DMU8/SELECTION-Geneva-art-week-26_163.webp",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.44642857142857145,
+        "y": 0.6369047619047619,
         "source": 3
       },
       "categories": [
@@ -130,10 +130,10 @@
       "starred": false,
       "publishOn": 1785496321785,
       "addedOn": 1785496321785,
-      "updatedOn": 1793702748407,
+      "updatedOn": 1794311932574,
       "imageDimensions": {
-        "width": 3000,
-        "height": 2000
+        "width": 2560,
+        "height": 3840
       }
     },
     {
