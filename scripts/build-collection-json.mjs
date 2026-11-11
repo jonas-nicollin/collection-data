@@ -3,6 +3,7 @@ import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { imageDimensionsField } from './lib/image-dimensions.mjs';
 import { normalizeSquarespaceIndexMedia } from './lib/squarespace-index-media.mjs';
+import { withNativeGallery } from './lib/squarespace-gallery.mjs';
 
 const DEFAULT_CONFIG = 'sources/collections/pcc.json';
 const DEFAULT_OUTPUT_DIR = 'public/data/collections';
@@ -228,7 +229,7 @@ function cloneEssentialItem(item, options = {}) {
     }
   }
 
-  return output;
+  return withNativeGallery(output, item, options.nativeGallery);
 }
 
 function hashItems(items) {
@@ -424,7 +425,8 @@ async function fetchAllCollectionItems(collection) {
   const items = rawItems.map((item) => cloneEssentialItem(item, {
     adapter: collection.adapter,
     categoryMap,
-    productPricing: collection.productPricing === true
+    productPricing: collection.productPricing === true,
+    nativeGallery: collection.nativeGallery === true
   }));
 
   await addCategoryOrder(items, categoryMap, collection, cookies);
