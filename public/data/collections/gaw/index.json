@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-11-11T09:17:46.019Z",
-  "sourceHash": "42a90e3ee05850f59d2b308906d16c88414393e65b19729eb0c401af1c29feb9",
+  "updatedAt": "2026-11-11T09:28:10.305Z",
+  "sourceHash": "7c625a8d6d3737549e6f40641eef92d4480392f547ce042ed8e8b002d04b89c0",
   "count": 7,
   "pages": 1,
   "items": [
@@ -146,7 +146,8 @@
       "tags": [
         "Date: 2026-09-16/2026-09-20",
         "Descripteur: Conversations",
-        "Lien: Art Talks"
+        "Lien: Art Talks",
+        "Sélection: Catégories du programme"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Des conversations pour rencontrer les artistes et partager les regards sur l’art.</p>",
       "location": {
@@ -164,7 +165,7 @@
       "starred": false,
       "publishOn": 1785496689191,
       "addedOn": 1785496689191,
-      "updatedOn": 1794384706598,
+      "updatedOn": 1794388670201,
       "imageDimensions": {
         "width": 3000,
         "height": 2000
@@ -189,7 +190,8 @@
       "tags": [
         "Date: 2026-09-16/2026-09-20",
         "Descripteur: Visites d’ateliers",
-        "Lien: Studio Visits"
+        "Lien: Studio Visits",
+        "Sélection: Catégories du programme"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Entrez dans les ateliers et découvrez les pratiques des artistes.</p>",
       "location": {
@@ -207,7 +209,7 @@
       "starred": false,
       "publishOn": 1785496603227,
       "addedOn": 1785496603227,
-      "updatedOn": 1794384738013,
+      "updatedOn": 1794388748111,
       "imageDimensions": {
         "width": 3000,
         "height": 2000
@@ -232,7 +234,8 @@
       "tags": [
         "Date: 2026-09-16/2026-09-20",
         "Descripteur: Artistes × restaurants",
-        "Lien: Art Tables"
+        "Lien: Art Tables",
+        "Sélection: Catégories du programme"
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Des rencontres entre artistes et restaurants à découvrir pendant la Geneva Art Week.</p>",
       "location": {
@@ -250,7 +253,7 @@
       "starred": false,
       "publishOn": 1785496321785,
       "addedOn": 1785496321785,
-      "updatedOn": 1794384775795,
+      "updatedOn": 1794388998171,
       "imageDimensions": {
         "width": 2560,
         "height": 3840
