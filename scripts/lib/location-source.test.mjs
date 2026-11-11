@@ -20,3 +20,7 @@ test('Opt-in enrichment preserves untouched consumers and rejects duplicate matc
 test('Missing coordinates never inherit an old conflicting point',()=>{
  const [a]=joinLocations([{title:'Venue',location:{mapLat:1,mapLng:2}}],[{title:'Venue'}],{matchField:'title',replaceLocation:true});assert.equal(a.location.mapLat,undefined);
 });
+test('French spreadsheet decimal coordinates remain usable by Locator',()=>{
+ const [a]=joinLocations([{title:'Venue'}],[{title:'Venue',latitude:'46,19890213',longitude:'6,145166397'}],{matchField:'title',replaceLocation:true});
+ assert.equal(a.location.mapLat,46.19890213);assert.equal(a.location.mapLng,6.145166397);
+});

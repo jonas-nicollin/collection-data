@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-11-11T16:05:35.723Z",
-  "sourceHash": "50837629f57fc865e8463f459c5ec0d03f6c62b774596cb1d0f472fc8bf5dc49",
+  "updatedAt": "2026-11-11T16:23:59.777Z",
+  "sourceHash": "7da63885426df3755dacd60b0eed5cd4af4235b2ecb7bc9a994becad99b06c65",
   "count": 93,
   "pages": 1,
   "items": [
@@ -848,7 +848,9 @@
         "addressTitle": "Centre de la photographie Genève",
         "addressLine1": "Promenade des Bastions 8",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse"
+        "addressCountry": "Suisse",
+        "mapLat": 46.19890213,
+        "mapLng": 6.145166397
       },
       "displayIndex": 15,
       "workflowState": 1,
@@ -868,7 +870,9 @@
           "addressTitle": "Centre de la photographie Genève",
           "addressLine1": "Promenade des Bastions 8",
           "addressLine2": "1205 Genève",
-          "addressCountry": "Suisse"
+          "addressCountry": "Suisse",
+          "mapLat": 46.19890213,
+          "mapLng": 6.145166397
         },
         "openingHours": {
           "weekly": {

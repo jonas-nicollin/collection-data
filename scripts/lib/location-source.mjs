@@ -5,7 +5,8 @@ export function locationKey(value) {
 }
 function coordinate(value, limit) {
   if (value == null || String(value).trim() === '') return null;
-  const number = Number(value);
+  // Google Sheets CSV uses the sheet locale for decimal separators.
+  const number = Number(String(value).trim().replace(',', '.'));
   return Number.isFinite(number) && Math.abs(number) <= limit ? number : null;
 }
 export function joinLocations(items, locations, options) {

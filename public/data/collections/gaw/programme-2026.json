@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-11T16:05:32.789Z",
-  "sourceHash": "ceb2eba93c0519259c3b593f1b69c69ec2ef293c7b791b3f8cacce563e9db5aa",
+  "updatedAt": "2026-11-11T16:23:59.803Z",
+  "sourceHash": "d2ae388c13f1a27abb622ca494ced8a5ca4f637c0c9ec9f246a1a154632202e3",
   "count": 156,
   "pages": 8,
   "items": [
@@ -7305,7 +7305,9 @@
           "addressTitle": "Centre de la photographie Genève",
           "addressLine1": "Promenade des Bastions 8",
           "addressLine2": "1205 Genève",
-          "addressCountry": "Suisse"
+          "addressCountry": "Suisse",
+          "mapLat": 46.19890213,
+          "mapLng": 6.145166397
         },
         "openingHours": {
           "weekly": {
@@ -8216,7 +8218,9 @@
           "addressTitle": "Centre de la photographie Genève",
           "addressLine1": "Promenade des Bastions 8",
           "addressLine2": "1205 Genève",
-          "addressCountry": "Suisse"
+          "addressCountry": "Suisse",
+          "mapLat": 46.19890213,
+          "mapLng": 6.145166397
         },
         "openingHours": {
           "weekly": {
@@ -9677,7 +9681,9 @@
           "addressTitle": "Centre de la photographie Genève",
           "addressLine1": "Promenade des Bastions 8",
           "addressLine2": "1205 Genève",
-          "addressCountry": "Suisse"
+          "addressCountry": "Suisse",
+          "mapLat": 46.19890213,
+          "mapLng": 6.145166397
         },
         "openingHours": {
           "weekly": {
@@ -10038,7 +10044,9 @@
           "addressTitle": "Centre de la photographie Genève",
           "addressLine1": "Promenade des Bastions 8",
           "addressLine2": "1205 Genève",
-          "addressCountry": "Suisse"
+          "addressCountry": "Suisse",
+          "mapLat": 46.19890213,
+          "mapLng": 6.145166397
         },
         "openingHours": {
           "weekly": {
