@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-11-11T08:18:04.705Z",
-  "sourceHash": "7b996837d495d2077cd70adac0f6123c9fa33a4a92e9d1b28b051eb83ddc80f5",
+  "updatedAt": "2026-11-11T09:17:46.019Z",
+  "sourceHash": "42a90e3ee05850f59d2b308906d16c88414393e65b19729eb0c401af1c29feb9",
   "count": 7,
   "pages": 1,
   "items": [
@@ -46,7 +46,87 @@
       "imageDimensions": {
         "width": 1600,
         "height": 2000
-      }
+      },
+      "gallery": [
+        {
+          "type": "image",
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/7557f57c-e667-479b-8b91-0d78dcee10f2/24-10-07_YKRA_LeDorian%C2%A9AliciaDubuis_004.webp",
+          "imageDimensions": {
+            "width": 1600,
+            "height": 2000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "alt": "24-10-07_YKRA_LeDorian©AliciaDubuis_004.webp"
+        },
+        {
+          "type": "image",
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/ae6f50ab-a299-4d24-a2db-8d7a036134cb/24-10-07_YKRA_LeDorian%C2%A9AliciaDubuis_002.webp",
+          "imageDimensions": {
+            "width": 1600,
+            "height": 2000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "alt": "24-10-07_YKRA_LeDorian©AliciaDubuis_002.webp"
+        },
+        {
+          "type": "image",
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/ec2c7cf0-641f-419e-a5a5-ccf800baf625/24-10-07_YKRA_LeDorian%C2%A9AliciaDubuis_001.webp",
+          "imageDimensions": {
+            "width": 1600,
+            "height": 2000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "alt": "24-10-07_YKRA_LeDorian©AliciaDubuis_001.webp"
+        },
+        {
+          "type": "image",
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/4d35205f-5bb0-497d-b852-4b3fea51acf7/24-10-07_YKRA_LeDorian%C2%A9AliciaDubuis_003.webp",
+          "imageDimensions": {
+            "width": 1600,
+            "height": 2000
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "alt": "24-10-07_YKRA_LeDorian©AliciaDubuis_003.webp"
+        },
+        {
+          "type": "image",
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784152628318-PD0QTHLK3HP886AJWTXN/Geneva_Art_Week-Event_2026-Le-Dorian-03.webp",
+          "imageDimensions": {
+            "width": 1600,
+            "height": 2400
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "alt": "Geneva_Art_Week-Event_2026-Le-Dorian-03.webp"
+        },
+        {
+          "type": "image",
+          "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1784152628237-BXG40XV48LWW0YB3QBL1/Geneva_Art_Week-Event_2026-Le-Dorian-02.webp",
+          "imageDimensions": {
+            "width": 1800,
+            "height": 2700
+          },
+          "mediaFocalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "alt": "Geneva_Art_Week-Event_2026-Le-Dorian-02.webp"
+        }
+      ]
     },
     {
       "id": "6a6c841fcafe0a1328d0b443",
@@ -88,7 +168,8 @@
       "imageDimensions": {
         "width": 3000,
         "height": 2000
-      }
+      },
+      "gallery": []
     },
     {
       "id": "6a6c833a434d6570806bbfac",
@@ -130,7 +211,8 @@
       "imageDimensions": {
         "width": 3000,
         "height": 2000
-      }
+      },
+      "gallery": []
     },
     {
       "id": "6a6c82dd70ad2f758ea60040",
@@ -172,7 +254,8 @@
       "imageDimensions": {
         "width": 2560,
         "height": 3840
-      }
+      },
+      "gallery": []
     },
     {
       "id": "6a6c82a770ad2f758ea5f1f1",
@@ -213,7 +296,8 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1920
-      }
+      },
+      "gallery": []
     },
     {
       "id": "6a6c821d724a8154193f3660",
@@ -254,7 +338,8 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1920
-      }
+      },
+      "gallery": []
     },
     {
       "id": "6a6c7c37a6ca42583f34ee8a",
@@ -295,7 +380,8 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1920
-      }
+      },
+      "gallery": []
     }
   ]
 }
