@@ -5,8 +5,8 @@
   "id": "index",
   "path": "/index",
   "sourceUrl": "https://genevaartweek.com/index?format=json",
-  "updatedAt": "2026-11-10T14:57:49.889Z",
-  "sourceHash": "ff843c5ba9d747c5f0559a18d0d19664e4d1010a19f3369c75e37fdb21cee73a",
+  "updatedAt": "2026-11-11T08:18:04.705Z",
+  "sourceHash": "7b996837d495d2077cd70adac0f6123c9fa33a4a92e9d1b28b051eb83ddc80f5",
   "count": 7,
   "pages": 1,
   "items": [
@@ -52,7 +52,7 @@
       "id": "6a6c841fcafe0a1328d0b443",
       "title": "Art Talks",
       "fullUrl": "/index/art-talks",
-      "sourceUrl": "/programme-essai?type=evenements&categorie=Talk",
+      "sourceUrl": "/programme?type=evenements&categorie=Talk",
       "urlId": "art-talks",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1793708448585-K4JYIUOIJVSJPXNCX5RF/CECILIA_BUENO_-18.webp",
       "mediaFocalPoint": {
@@ -84,7 +84,7 @@
       "starred": false,
       "publishOn": 1785496689191,
       "addedOn": 1785496689191,
-      "updatedOn": 1793708458421,
+      "updatedOn": 1794384706598,
       "imageDimensions": {
         "width": 3000,
         "height": 2000
@@ -94,7 +94,7 @@
       "id": "6a6c833a434d6570806bbfac",
       "title": "Studio Visits",
       "fullUrl": "/index/studio-visits",
-      "sourceUrl": "/programme-essai?type=evenements&categorie=Studio%20Visit",
+      "sourceUrl": "/programme?type=evenements&categorie=Studio%20Visit",
       "urlId": "studio-visits",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1785496586585-M7EHUQTOIMPZZKGZVTVP/GAW-Rendez-vous-Studio-Visits-01.webp",
       "mediaFocalPoint": {
@@ -126,7 +126,7 @@
       "starred": false,
       "publishOn": 1785496603227,
       "addedOn": 1785496603227,
-      "updatedOn": 1793702878803,
+      "updatedOn": 1794384738013,
       "imageDimensions": {
         "width": 3000,
         "height": 2000
@@ -136,7 +136,7 @@
       "id": "6a6c82dd70ad2f758ea60040",
       "title": "Art Tables",
       "fullUrl": "/index/art-tables",
-      "sourceUrl": "/programme-essai?selection=Art%20Tables",
+      "sourceUrl": "/programme?selection=Art%20Tables",
       "urlId": "art-tables",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1794311913760-QYPAP7G1KM61QMH9DMU8/SELECTION-Geneva-art-week-26_163.webp",
       "mediaFocalPoint": {
@@ -168,7 +168,7 @@
       "starred": false,
       "publishOn": 1785496321785,
       "addedOn": 1785496321785,
-      "updatedOn": 1794311932574,
+      "updatedOn": 1794384775795,
       "imageDimensions": {
         "width": 2560,
         "height": 3840
