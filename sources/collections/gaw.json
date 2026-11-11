@@ -25,7 +25,8 @@
     {
       "id": "index",
       "path": "/index",
-      "url": "https://genevaartweek.com/index?format=json"
+      "url": "https://genevaartweek.com/index?format=json",
+      "nativeGallery": true
     },
     {
       "id": "parcours",

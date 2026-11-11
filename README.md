@@ -55,3 +55,14 @@ les dimensions de l'item correspondent à l'image principale effectivement chois
 L'adaptateur Index ajoute les dimensions aux images et conserve le contrat vidéo.
 Les champs existants, le schéma v1, les prix, l'ordre et les catégories sont inchangés.
 Les consommateurs qui ignorent cette nouvelle propriété restent compatibles.
+
+## Galeries natives optionnelles
+
+Une entrée de collection peut activer `"nativeGallery": true` pour recueillir
+les images des blocs galerie natifs présents dans le `body` fourni par Squarespace.
+Le builder ajoute alors `gallery` : une liste ordonnée d'images avec `assetUrl`,
+`imageDimensions` lorsqu'elles sont connues, `mediaFocalPoint` et `alt`.
+Les images hors galerie et les doublons `noscript` sont ignorés.
+Aucune requête supplémentaire n'est faite. Sans cette option, la sortie reste
+strictement inchangée. Une galerie absente donne une liste vide.
+Cette option ne remplace ni l'image principale ni le champ `media`.
