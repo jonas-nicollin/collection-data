@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "gaw",
   "id": "gaw-locations",
-  "updatedAt": "2026-07-02T11:11:56.294Z",
-  "sourceHash": "660b5cd8683ffbe1bb76e980ba183ebf6fb8232f50552038264bae55bb5e2a53",
+  "updatedAt": "2026-11-11T12:46:25.584Z",
+  "sourceHash": "653a951b4045de05ed1cda58b5712b9b97db3c51ab309ea1bf15da5f573d7860",
   "count": 93,
   "items": [
     {
@@ -415,18 +415,18 @@
       "matchKey": "centre-de-la-photographie-geneve",
       "title": "Centre de la photographie Genève",
       "zone": "Quartier des Bains",
-      "address1": "Promenade des Bastions 8",
+      "address1": "Prom. des Bastions 8",
       "address2": "1205 Genève",
       "address3": "Suisse",
-      "mapUrl": "https://maps.app.goo.gl/3PgLrexpw9qQX9Gi6",
-      "latitude": "46.1988698",
-      "longitude": "6.1452326",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Prom.%20des%20Bastions%208%2C%201205%20Gen%C3%A8ve",
+      "latitude": "",
+      "longitude": "",
       "phone": "+41 22 329 28 35",
       "email": "cpg@centrephotogeneve.ch",
       "website": "https://www.centrephotogeneve.ch/",
       "instagram": "centre_photographie_geneve",
       "facebook": "",
-      "x": "https://www.instagram.com/centre_photographie_geneve/",
+      "x": "",
       "youtube": "",
       "linkedin": "",
       "vimeo": "",
@@ -439,7 +439,19 @@
       "jeudi": "11h–20h",
       "vendredi": "11h–18h",
       "samedi": "11h–18h",
-      "dimanche": "Fermé"
+      "dimanche": "Fermé",
+      "openingHours": {
+        "weekly": {
+          "lundi": "Fermé",
+          "mardi": "11h–18h",
+          "mercredi": "11h–18h",
+          "jeudi": "11h–20h",
+          "vendredi": "11h–18h",
+          "samedi": "11h–18h",
+          "dimanche": "Fermé"
+        },
+        "dates": {}
+      }
     },
     {
       "slug": "cinema-bio",

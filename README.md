@@ -66,3 +66,20 @@ Les images hors galerie et les doublons `noscript` sont ignorés.
 Aucune requête supplémentaire n'est faite. Sans cette option, la sortie reste
 strictement inchangée. Une galerie absente donne une liste vide.
 Cette option ne remplace ni l'image principale ni le champ `media`.
+
+
+## Optional multiline location hours
+
+The location builder supports opt-in column mappings `columns.hours` and
+`columns.datedHours`. Both are multiline text fields; one entry per line:
+
+- Weekly: `lundi: Fermé` or `mardi: 11h–18h`.
+- Dated: `2026-09-20: 11h–17h` or `2026-09-20: Fermé`.
+
+They produce `openingHours: { weekly: {}, dates: {} }` only for populated rows.
+Blank days remain unknown. A weekly multiline field, when filled, supersedes
+the old individual weekday columns for consumers that support this object.
+The legacy flat fields remain unchanged for older consumers. Without these
+column mappings, the builder output is unchanged. Invalid/repeated day or date
+keys fail the build rather than publishing an ambiguous schedule.
+

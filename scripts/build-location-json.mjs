@@ -140,6 +140,25 @@ function getField(row, columns, field) {
   return getByColumn(row, columns[field]);
 }
 
+// Optional multiline schedules. Empty values remain unknown, never closed.
+function parseHoursLines(text, dated) {
+  const result = {};
+  for (const line of String(text || '').split(/\r?\n/).filter((x) => x.trim())) {
+    const match = line.match(/^\s*([^:]+):\s*(.*?)\s*$/);
+    if (!match) throw new Error(`Invalid hours line: ${line}`);
+    const key = match[1].trim().toLowerCase();
+    const valid = dated
+      ? /^\d{4}-\d{2}-\d{2}$/.test(key) &&
+        new Date(key + 'T12:00:00Z').toISOString().slice(0, 10) === key
+      : Object.values(DAY_FIELD_TO_OUTPUT).includes(key);
+    if (!valid || Object.hasOwn(result, key)) {
+      throw new Error(`Invalid or repeated hours key: ${key}`);
+    }
+    result[key] = match[2];
+  }
+  return result;
+}
+
 function normalizeLocation(row, config) {
   const columns = { ...DEFAULT_COLUMNS, ...(config.columns || {}) };
   const title = getField(row, columns, 'title');
@@ -180,6 +199,18 @@ function normalizeLocation(row, config) {
   const matchValue = location[dataField] || title;
   location.matchKey = toSlug(matchValue);
   location.slug = toSlug(getField(row, columns, 'slug') || matchValue);
+
+  const weekly = getField(row, columns, 'hours');
+  const dated = getField(row, columns, 'datedHours');
+  if (weekly || dated) {
+    location.openingHours = {
+      weekly: weekly ? parseHoursLines(weekly, false) : Object.fromEntries(
+        Object.entries(DAY_FIELD_TO_OUTPUT).map(([field, day]) =>
+          [day, getField(row, columns, field)])
+      ),
+      dates: parseHoursLines(dated, true)
+    };
+  }
 
   return location;
 }
@@ -250,3 +281,4 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+
