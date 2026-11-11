@@ -252,6 +252,9 @@ async function main() {
     .map((row) => normalizeLocation(row, config))
     .filter((item) => item.title || item.matchKey);
 
+  if (!items.length && config.allowEmpty !== true) {
+    throw new Error('Location source returned no valid rows; existing data preserved.');
+  }
   const sourceHash = hashItems(items);
   const outputPath = resolve(config.output);
   const existing = await readExistingJson(outputPath);
@@ -281,4 +284,3 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
-

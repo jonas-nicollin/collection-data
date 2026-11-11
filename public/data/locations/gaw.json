@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "gaw",
   "id": "gaw-locations",
-  "updatedAt": "2026-11-11T14:32:23.630Z",
-  "sourceHash": "e58037510800d1cc61116bbf036c9fe7d1f9d64607c9b2b2d9fb8fe9b2232d3d",
+  "updatedAt": "2026-11-11T16:05:00.104Z",
+  "sourceHash": "385125d20f374d3869858eef391b1245d89226d0cc63b3fecd11ac2794b0a7a3",
   "count": 93,
   "items": [
     {
@@ -532,8 +532,8 @@
       "address2": "1205 Genève",
       "address3": "Suisse",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Centre%20de%20la%20photographie%20Gen%C3%A8ve%2C%20Promenade%20des%20Bastions%208%2C%201205%20Gen%C3%A8ve%2C%20Suisse",
-      "latitude": "",
-      "longitude": "",
+      "latitude": "46,19890213",
+      "longitude": "6,145166397",
       "phone": "+41 22 329 28 35",
       "email": "cpg@centrephotogeneve.ch",
       "website": "https://www.centrephotogeneve.ch/",

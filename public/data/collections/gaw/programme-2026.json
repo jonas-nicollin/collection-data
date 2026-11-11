@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-04T09:37:34.592Z",
-  "sourceHash": "f35220c4527fddf79aedc6769f41e1c2795eb70e2b76d277318cfbe2da85be28",
+  "updatedAt": "2026-11-11T16:05:32.789Z",
+  "sourceHash": "ceb2eba93c0519259c3b593f1b69c69ec2ef293c7b791b3f8cacce563e9db5aa",
   "count": 156,
   "pages": 8,
   "items": [
@@ -56,6 +56,31 @@
       "imageDimensions": {
         "width": 2598,
         "height": 3897
+      },
+      "venue": {
+        "key": "le-trou",
+        "title": "Le Trou",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Le Trou",
+          "addressLine1": "Chemin des Semailles 15",
+          "addressLine2": "1212 Lancy",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1780912,
+          "mapLng": 6.1199192
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Sur demande",
+            "mercredi": "Sur demande",
+            "jeudi": "Sur demande",
+            "vendredi": "Sur demande",
+            "samedi": "13h–18h",
+            "dimanche": "13h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -103,6 +128,31 @@
       "imageDimensions": {
         "width": 2400,
         "height": 1800
+      },
+      "venue": {
+        "key": "halle-nord",
+        "title": "Halle Nord",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Halle Nord",
+          "addressLine1": "Place de l'Ile 1",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.204655,
+          "mapLng": 6.1410144
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "14h–18h",
+            "mercredi": "14h–18h",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "14h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -149,6 +199,31 @@
       "imageDimensions": {
         "width": 1281,
         "height": 1920
+      },
+      "venue": {
+        "key": "kissed-then-burned",
+        "title": "Kissed Then Burned",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Kissed Then Burned",
+          "addressLine1": "Rue des Amis",
+          "addressLine2": "1201 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2101883,
+          "mapLng": 6.1406021
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "Fermé",
+            "jeudi": "16h–19h",
+            "vendredi": "Fermé",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -196,6 +271,31 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1440
+      },
+      "venue": {
+        "key": "galerie-polomarco",
+        "title": "Galerie Polomarco",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Polomarco",
+          "addressLine1": "Grand-Rue 5",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2024371,
+          "mapLng": 6.144836999999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "10h–18h",
+            "mardi": "10h–18h",
+            "mercredi": "10h–18h",
+            "jeudi": "10h–18h",
+            "vendredi": "10h–18h",
+            "samedi": "14h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -244,6 +344,13 @@
       "imageDimensions": {
         "width": 4032,
         "height": 3024
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "l-arcade"
+        ]
       }
     },
     {
@@ -290,6 +397,13 @@
       "imageDimensions": {
         "width": 1396,
         "height": 930
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "confederation-centre"
+        ]
       }
     },
     {
@@ -337,6 +451,31 @@
       "imageDimensions": {
         "width": 1340,
         "height": 1198
+      },
+      "venue": {
+        "key": "ormond-editions",
+        "title": "Ormond Editions",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Ormond Editions",
+          "addressLine1": "Rue de la Scie 4-6",
+          "addressLine2": "1207 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.203668,
+          "mapLng": 6.155145699999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "10h–18h",
+            "mardi": "10h–18h",
+            "mercredi": "10h–18h",
+            "jeudi": "10h–18h",
+            "vendredi": "10h–18h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -384,6 +523,31 @@
       "imageDimensions": {
         "width": 2200,
         "height": 1650
+      },
+      "venue": {
+        "key": "mah-musee-d-art-et-d-histoire-de-geneve",
+        "title": "MAH – Musée d’Art et d’Histoire de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+          "addressLine1": "Rue Charles-Galland 2",
+          "addressLine2": "1206 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.199284,
+          "mapLng": 6.1515081
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "12h–21h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "11h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -432,6 +596,31 @@
       "imageDimensions": {
         "width": 1840,
         "height": 1400
+      },
+      "venue": {
+        "key": "l-exemplaire",
+        "title": "L’Exemplaire",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "L’Exemplaire",
+          "addressLine1": "Grand-Rue 25",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2017889,
+          "mapLng": 6.146338600000001
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–12h30, 14h–18h30",
+            "mercredi": "10h–12h30, 14h–18h30",
+            "jeudi": "10h–12h30, 14h–18h30",
+            "vendredi": "10h–12h30, 14h–18h30",
+            "samedi": "11h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -479,6 +668,31 @@
       "imageDimensions": {
         "width": 2500,
         "height": 1875
+      },
+      "venue": {
+        "key": "galerie-marianne-brand",
+        "title": "Galerie Marianne Brand",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Marianne Brand",
+          "addressLine1": "Rue Ancienne 20",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1825548,
+          "mapLng": 6.1410136
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "Fermé",
+            "jeudi": "14h30–18h30",
+            "vendredi": "14h30–18h30",
+            "samedi": "14h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -530,6 +744,13 @@
       "imageDimensions": {
         "width": 1800,
         "height": 1005
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "atelier-405-usine"
+        ]
       }
     },
     {
@@ -576,6 +797,31 @@
       "imageDimensions": {
         "width": 1067,
         "height": 1600
+      },
+      "venue": {
+        "key": "la-galerie-38",
+        "title": "La Galerie 38",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "La Galerie 38",
+          "addressLine1": "Rue des Bains 24",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1984548,
+          "mapLng": 6.1371483
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "11h–18h30",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -623,6 +869,31 @@
       "imageDimensions": {
         "width": 1500,
         "height": 2262
+      },
+      "venue": {
+        "key": "fmac-fonds-d-art-contemporain-de-la-ville-de-geneve",
+        "title": "FMAC – Fonds d’art contemporain de la Ville de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "FMAC – Fonds d’art contemporain de la Ville de Genève",
+          "addressLine1": "Chemin du 23-Août 5",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2025598,
+          "mapLng": 6.1350337
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "12h–18h",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "Fermé",
+            "dimanche": "12h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -671,6 +942,31 @@
       "imageDimensions": {
         "width": 489,
         "height": 733
+      },
+      "venue": {
+        "key": "le-commun",
+        "title": "Le Commun",
+        "matchedBy": "Lieu",
+        "location": {
+          "addressTitle": "Le Commun",
+          "addressLine1": "Rue des Vieux-Grenadiers 10",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1989327,
+          "mapLng": 6.1381708
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Non renseigné",
+            "mardi": "Non renseigné",
+            "mercredi": "Non renseigné",
+            "jeudi": "Non renseigné",
+            "vendredi": "Non renseigné",
+            "samedi": "Non renseigné",
+            "dimanche": "Non renseigné"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -718,6 +1014,31 @@
       "imageDimensions": {
         "width": 2500,
         "height": 1875
+      },
+      "venue": {
+        "key": "galerie-fada",
+        "title": "Galerie Fada",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Fada",
+          "addressLine1": "Rue Saint-Victor 3",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1863871,
+          "mapLng": 6.14012
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Sur rendez-vous",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "Sur rendez-vous",
+            "vendredi": "Sur rendez-vous",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -765,6 +1086,31 @@
       "imageDimensions": {
         "width": 3166,
         "height": 3166
+      },
+      "venue": {
+        "key": "l-echoppe-des-arts",
+        "title": "L’Échoppe des Arts",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "L’Échoppe des Arts",
+          "addressLine1": "Place du Temple 9",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1849409,
+          "mapLng": 6.140495100000001
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "11h–18h30",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "14h–20h",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -810,6 +1156,31 @@
       "imageDimensions": {
         "width": 1876,
         "height": 2500
+      },
+      "venue": {
+        "key": "musee-ariana",
+        "title": "Musée Ariana",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Musée Ariana",
+          "addressLine1": "Avenue de la Paix 10",
+          "addressLine2": "1202 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2253381,
+          "mapLng": 6.138763399999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–17h",
+            "mercredi": "10h–17h",
+            "jeudi": "10h–17h",
+            "vendredi": "10h–17h",
+            "samedi": "10h–17h",
+            "dimanche": "10h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -859,6 +1230,13 @@
       "imageDimensions": {
         "width": 1719,
         "height": 1949
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "l-atelier-tramons"
+        ]
       }
     },
     {
@@ -913,6 +1291,31 @@
       "imageDimensions": {
         "width": 2400,
         "height": 1602
+      },
+      "venue": {
+        "key": "analix-forever",
+        "title": "Analix Forever",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Analix Forever",
+          "addressLine1": "Rue du Gothard 10",
+          "addressLine2": "1225 Chêne-Bourg",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1948072,
+          "mapLng": 6.1918804
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "14h–19h",
+            "mercredi": "14h–19h",
+            "jeudi": "14h–19h",
+            "vendredi": "14h–19h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -960,6 +1363,31 @@
       "imageDimensions": {
         "width": 2644,
         "height": 1983
+      },
+      "venue": {
+        "key": "centre-d-edition-contemporaine",
+        "title": "Centre d’édition contemporaine",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Centre d’édition contemporaine",
+          "addressLine1": "Rue des Rois 15",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.20222709999999,
+          "mapLng": 6.138189799999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "13h–18h",
+            "mercredi": "13h–18h",
+            "jeudi": "13h–18h",
+            "vendredi": "13h–18h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1012,6 +1440,31 @@
       "imageDimensions": {
         "width": 6550,
         "height": 4912
+      },
+      "venue": {
+        "key": "centre-d-edition-contemporaine",
+        "title": "Centre d’édition contemporaine",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Centre d’édition contemporaine",
+          "addressLine1": "Rue des Rois 15",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.20222709999999,
+          "mapLng": 6.138189799999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "13h–18h",
+            "mercredi": "13h–18h",
+            "jeudi": "13h–18h",
+            "vendredi": "13h–18h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1071,6 +1524,31 @@
       "imageDimensions": {
         "width": 1950,
         "height": 1448
+      },
+      "venue": {
+        "key": "domum",
+        "title": "Domum",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Domum",
+          "addressLine1": "Rue des Bains 61",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2009241,
+          "mapLng": 6.137485799999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h30–18h30",
+            "mercredi": "10h30–18h30",
+            "jeudi": "10h30–18h30",
+            "vendredi": "10h30–18h30",
+            "samedi": "11h–16h30",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1121,6 +1599,14 @@
       "imageDimensions": {
         "width": 2657,
         "height": 1993
+      },
+      "venueMatch": {
+        "status": "ambiguous",
+        "matchedBy": "Membre",
+        "values": [
+          "mamco",
+          "sasa-site-archeologique-saint-antoine"
+        ]
       }
     },
     {
@@ -1166,6 +1652,31 @@
       "imageDimensions": {
         "width": 4000,
         "height": 2667
+      },
+      "venue": {
+        "key": "fmac-fonds-d-art-contemporain-de-la-ville-de-geneve",
+        "title": "FMAC – Fonds d’art contemporain de la Ville de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "FMAC – Fonds d’art contemporain de la Ville de Genève",
+          "addressLine1": "Chemin du 23-Août 5",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2025598,
+          "mapLng": 6.1350337
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "12h–18h",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "Fermé",
+            "dimanche": "12h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1223,6 +1734,31 @@
       "imageDimensions": {
         "width": 1028,
         "height": 1521
+      },
+      "venue": {
+        "key": "opera-gallery",
+        "title": "Opera Gallery",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Opera Gallery",
+          "addressLine1": "Place de Longemalle 10-12",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2030477,
+          "mapLng": 6.1498329
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–19h",
+            "mercredi": "10h–19h",
+            "jeudi": "10h–19h",
+            "vendredi": "10h–19h",
+            "samedi": "10h–19h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1270,6 +1806,13 @@
       "imageDimensions": {
         "width": 1563,
         "height": 1042
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Membre",
+        "values": [
+          "galerie-sebastien-bertrand"
+        ]
       }
     },
     {
@@ -1333,6 +1876,31 @@
       "imageDimensions": {
         "width": 3000,
         "height": 1318
+      },
+      "venue": {
+        "key": "fmac-fonds-d-art-contemporain-de-la-ville-de-geneve",
+        "title": "FMAC – Fonds d’art contemporain de la Ville de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "FMAC – Fonds d’art contemporain de la Ville de Genève",
+          "addressLine1": "Chemin du 23-Août 5",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2025598,
+          "mapLng": 6.1350337
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "12h–18h",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "Fermé",
+            "dimanche": "12h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1380,6 +1948,31 @@
       "imageDimensions": {
         "width": 2500,
         "height": 2500
+      },
+      "venue": {
+        "key": "galerie-h",
+        "title": "Galerie h",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie h",
+          "addressLine1": "Rue Saint-Victor 21",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1854849,
+          "mapLng": 6.1403136
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "14h–18h",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "11h–16h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1429,6 +2022,31 @@
       "imageDimensions": {
         "width": 1763,
         "height": 1173
+      },
+      "venue": {
+        "key": "espace-l",
+        "title": "Espace_L",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Espace_L",
+          "addressLine1": "Rue des Bains 23",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.198065,
+          "mapLng": 6.136406
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–18h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1480,6 +2098,31 @@
       "imageDimensions": {
         "width": 3840,
         "height": 2560
+      },
+      "venue": {
+        "key": "studiobinichain",
+        "title": "Studiobinichain",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Studiobinichain",
+          "addressLine1": "Chemin de la Marbrerie 13",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.17923630000001,
+          "mapLng": 6.1361982
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "Fermé",
+            "jeudi": "Fermé",
+            "vendredi": "19h–3h",
+            "samedi": "00h–3h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1528,6 +2171,31 @@
       "imageDimensions": {
         "width": 1314,
         "height": 1755
+      },
+      "venue": {
+        "key": "olivier-varenne-art-moderne-contemporain",
+        "title": "Olivier Varenne Art Moderne & Contemporain",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Olivier Varenne Art Moderne & Contemporain",
+          "addressLine1": "Rue des Bains 37-39",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1990342,
+          "mapLng": 6.1371521
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "10h–18h",
+            "mardi": "10h–18h",
+            "mercredi": "10h–18h",
+            "jeudi": "10h–18h",
+            "vendredi": "10h–18h",
+            "samedi": "Sur rendez-vous",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1576,6 +2244,31 @@
       "imageDimensions": {
         "width": 768,
         "height": 512
+      },
+      "venue": {
+        "key": "xippas",
+        "title": "Xippas",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Xippas",
+          "addressLine1": "Rue des Sablons 6",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2009528,
+          "mapLng": 6.137029
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "10h–13h, 14h–21h",
+            "jeudi": "10h–13h, 14h–21h",
+            "vendredi": "10h–13h, 14h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1621,6 +2314,31 @@
       "imageDimensions": {
         "width": 1650,
         "height": 1141
+      },
+      "venue": {
+        "key": "societe-des-arts-de-geneve",
+        "title": "Société des Arts de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Société des Arts de Genève",
+          "addressLine1": "Rue de l'Athénée 2",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.198555,
+          "mapLng": 6.1482245
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "15h–19h",
+            "jeudi": "15h–19h",
+            "vendredi": "15h–19h",
+            "samedi": "14h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1671,6 +2389,14 @@
       "imageDimensions": {
         "width": 2657,
         "height": 1993
+      },
+      "venueMatch": {
+        "status": "ambiguous",
+        "matchedBy": "Membre",
+        "values": [
+          "mamco",
+          "sasa-site-archeologique-saint-antoine"
+        ]
       }
     },
     {
@@ -1718,6 +2444,13 @@
       "imageDimensions": {
         "width": 2362,
         "height": 3543
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "atelier-gustave-didelot"
+        ]
       }
     },
     {
@@ -1765,6 +2498,13 @@
       "imageDimensions": {
         "width": 678,
         "height": 452
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "jardin-botanique-de-geneve"
+        ]
       }
     },
     {
@@ -1812,6 +2552,31 @@
       "imageDimensions": {
         "width": 1468,
         "height": 1418
+      },
+      "venue": {
+        "key": "xippas",
+        "title": "Xippas",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Xippas",
+          "addressLine1": "Rue des Sablons 6",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2009528,
+          "mapLng": 6.137029
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "10h–13h, 14h–21h",
+            "jeudi": "10h–13h, 14h–21h",
+            "vendredi": "10h–13h, 14h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1860,6 +2625,31 @@
       "imageDimensions": {
         "width": 1280,
         "height": 914
+      },
+      "venue": {
+        "key": "hiflow",
+        "title": "HiFlow",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "HiFlow",
+          "addressLine1": "Chemin du Champ-des-Filles 36A",
+          "addressLine2": "1228 Plan-les-Ouates",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1647721,
+          "mapLng": 6.103385
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "10h–18h",
+            "mardi": "10h–18h",
+            "mercredi": "10h–18h",
+            "jeudi": "10h–18h",
+            "vendredi": "10h–18h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1906,6 +2696,31 @@
       "imageDimensions": {
         "width": 1600,
         "height": 1200
+      },
+      "venue": {
+        "key": "usine-kugler",
+        "title": "Usine Kugler",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Usine Kugler",
+          "addressLine1": "Avenue de la Jonction 19",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.201308,
+          "mapLng": 6.125519499999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "",
+            "vendredi": "",
+            "samedi": "",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1954,6 +2769,31 @@
       "imageDimensions": {
         "width": 1920,
         "height": 1440
+      },
+      "venue": {
+        "key": "villa-du-parc",
+        "title": "Villa du Parc",
+        "matchedBy": "Lieu",
+        "location": {
+          "addressTitle": "Villa du Parc",
+          "addressLine1": "Rue de Genève 12",
+          "addressLine2": "74100 Annemasse",
+          "addressCountry": "France",
+          "mapLat": 46.1934799,
+          "mapLng": 6.230932699999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "14h–18h",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "14h–18h",
+            "dimanche": "14h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2007,6 +2847,31 @@
       "imageDimensions": {
         "width": 1666,
         "height": 2500
+      },
+      "venue": {
+        "key": "le-trou",
+        "title": "Le Trou",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Le Trou",
+          "addressLine1": "Chemin des Semailles 15",
+          "addressLine2": "1212 Lancy",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1780912,
+          "mapLng": 6.1199192
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Sur demande",
+            "mercredi": "Sur demande",
+            "jeudi": "Sur demande",
+            "vendredi": "Sur demande",
+            "samedi": "13h–18h",
+            "dimanche": "13h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2057,6 +2922,13 @@
       "imageDimensions": {
         "width": 2800,
         "height": 1868
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "fonderie-kugler"
+        ]
       }
     },
     {
@@ -2107,6 +2979,13 @@
       "imageDimensions": {
         "width": 480,
         "height": 640
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "atelier-401"
+        ]
       }
     },
     {
@@ -2154,6 +3033,31 @@
       "imageDimensions": {
         "width": 4032,
         "height": 3024
+      },
+      "venue": {
+        "key": "usine-kugler",
+        "title": "Usine Kugler",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Usine Kugler",
+          "addressLine1": "Avenue de la Jonction 19",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.201308,
+          "mapLng": 6.125519499999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "",
+            "vendredi": "",
+            "samedi": "",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2200,6 +3104,31 @@
       "imageDimensions": {
         "width": 4032,
         "height": 3024
+      },
+      "venue": {
+        "key": "usine-kugler",
+        "title": "Usine Kugler",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Usine Kugler",
+          "addressLine1": "Avenue de la Jonction 19",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.201308,
+          "mapLng": 6.125519499999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "",
+            "vendredi": "",
+            "samedi": "",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2246,6 +3175,31 @@
       "imageDimensions": {
         "width": 2500,
         "height": 1667
+      },
+      "venue": {
+        "key": "usine-kugler",
+        "title": "Usine Kugler",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Usine Kugler",
+          "addressLine1": "Avenue de la Jonction 19",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.201308,
+          "mapLng": 6.125519499999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "",
+            "vendredi": "",
+            "samedi": "",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2291,6 +3245,31 @@
       "imageDimensions": {
         "width": 2048,
         "height": 1638
+      },
+      "venue": {
+        "key": "musee-barbier-mueller",
+        "title": "Musée Barbier-Mueller",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Musée Barbier-Mueller",
+          "addressLine1": "Rue Jean-Calvin 10",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2020534,
+          "mapLng": 6.1465231
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "11h–17h",
+            "mardi": "11h–17h",
+            "mercredi": "11h–17h",
+            "jeudi": "11h–17h",
+            "vendredi": "11h–17h",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2336,6 +3315,29 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1440
+      },
+      "venue": {
+        "key": "kreemart",
+        "title": "Kreëmart",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Kreëmart",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": "Suisse"
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Sur rendez-vous",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "15h–18h et sur rendez-vous",
+            "vendredi": "15h–18h et sur rendez-vous",
+            "samedi": "18h–21h30",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2384,6 +3386,31 @@
       "imageDimensions": {
         "width": 2312,
         "height": 1734
+      },
+      "venue": {
+        "key": "analix-forever",
+        "title": "Analix Forever",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Analix Forever",
+          "addressLine1": "Rue du Gothard 10",
+          "addressLine2": "1225 Chêne-Bourg",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1948072,
+          "mapLng": 6.1918804
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "14h–19h",
+            "mercredi": "14h–19h",
+            "jeudi": "14h–19h",
+            "vendredi": "14h–19h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2437,6 +3464,31 @@
       "imageDimensions": {
         "width": 2429,
         "height": 1622
+      },
+      "venue": {
+        "key": "espace-l",
+        "title": "Espace_L",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Espace_L",
+          "addressLine1": "Rue des Bains 23",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.198065,
+          "mapLng": 6.136406
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–18h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2485,6 +3537,31 @@
       "imageDimensions": {
         "width": 1417,
         "height": 945
+      },
+      "venue": {
+        "key": "l-antre-peaux",
+        "title": "L’Antre-Peaux",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "L’Antre-Peaux",
+          "addressLine1": "Rue Ancienne 43",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1811256,
+          "mapLng": 6.1409856
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "11h–18h30",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "14h–20h",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2532,6 +3609,31 @@
       "imageDimensions": {
         "width": 1855,
         "height": 1236
+      },
+      "venue": {
+        "key": "poesis",
+        "title": "Poesis",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Poesis",
+          "addressLine1": "Place du Marché 15",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.183844,
+          "mapLng": 6.140274
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "11h–18h30",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "14h–20h",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2579,6 +3681,31 @@
       "imageDimensions": {
         "width": 3024,
         "height": 4032
+      },
+      "venue": {
+        "key": "nov-gallery",
+        "title": "NOV Gallery",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "NOV Gallery",
+          "addressLine1": "Rue Joseph-Girard 4",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1805731,
+          "mapLng": 6.1405248
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "11h–18h30",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "14h–20h",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2628,6 +3755,31 @@
       "imageDimensions": {
         "width": 4032,
         "height": 3024
+      },
+      "venue": {
+        "key": "espace-jorg-brockmann",
+        "title": "Espace Jörg Brockmann",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Espace Jörg Brockmann",
+          "addressLine1": "Rue des Noirettes 32",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.18826,
+          "mapLng": 6.1323365
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "11h–18h30",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "14h–20h",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2675,6 +3827,31 @@
       "imageDimensions": {
         "width": 4032,
         "height": 3024
+      },
+      "venue": {
+        "key": "atelier-nicolas-perrottet",
+        "title": "Atelier Nicolas Perrottet",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Atelier Nicolas Perrottet",
+          "addressLine1": "Rue Joseph-Girard 16",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1806823,
+          "mapLng": 6.141282299999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "11h–18h30",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "14h–20h",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2724,6 +3901,31 @@
       "imageDimensions": {
         "width": 6720,
         "height": 4480
+      },
+      "venue": {
+        "key": "les-insolites",
+        "title": "Les Insolites",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Les Insolites",
+          "addressLine1": "Rue Ancienne 22",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1825156,
+          "mapLng": 6.140999799999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "14h30–18h30",
+            "mardi": "10h30–18h30",
+            "mercredi": "10h30–18h30",
+            "jeudi": "10h30–18h30",
+            "vendredi": "10h30–18h30",
+            "samedi": "10h30–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2772,6 +3974,31 @@
       "imageDimensions": {
         "width": 6047,
         "height": 7559
+      },
+      "venue": {
+        "key": "musee-barbier-mueller",
+        "title": "Musée Barbier-Mueller",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Musée Barbier-Mueller",
+          "addressLine1": "Rue Jean-Calvin 10",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2020534,
+          "mapLng": 6.1465231
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "11h–17h",
+            "mardi": "11h–17h",
+            "mercredi": "11h–17h",
+            "jeudi": "11h–17h",
+            "vendredi": "11h–17h",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2821,6 +4048,31 @@
       "imageDimensions": {
         "width": 1600,
         "height": 1014
+      },
+      "venue": {
+        "key": "la-galerie-38",
+        "title": "La Galerie 38",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "La Galerie 38",
+          "addressLine1": "Rue des Bains 24",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1984548,
+          "mapLng": 6.1371483
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "11h–18h30",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2869,6 +4121,31 @@
       "imageDimensions": {
         "width": 2800,
         "height": 1868
+      },
+      "venue": {
+        "key": "usine-kugler",
+        "title": "Usine Kugler",
+        "matchedBy": "Lieu",
+        "location": {
+          "addressTitle": "Usine Kugler",
+          "addressLine1": "Avenue de la Jonction 19",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.201308,
+          "mapLng": 6.125519499999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "",
+            "vendredi": "",
+            "samedi": "",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2918,6 +4195,31 @@
       "imageDimensions": {
         "width": 2600,
         "height": 1733
+      },
+      "venue": {
+        "key": "usine-kugler",
+        "title": "Usine Kugler",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Usine Kugler",
+          "addressLine1": "Avenue de la Jonction 19",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.201308,
+          "mapLng": 6.125519499999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "",
+            "vendredi": "",
+            "samedi": "",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2963,6 +4265,29 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1440
+      },
+      "venue": {
+        "key": "kreemart",
+        "title": "Kreëmart",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Kreëmart",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": "Suisse"
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Sur rendez-vous",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "15h–18h et sur rendez-vous",
+            "vendredi": "15h–18h et sur rendez-vous",
+            "samedi": "18h–21h30",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3010,6 +4335,31 @@
       "imageDimensions": {
         "width": 952,
         "height": 710
+      },
+      "venue": {
+        "key": "ormond-editions",
+        "title": "Ormond Editions",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Ormond Editions",
+          "addressLine1": "Rue de la Scie 4-6",
+          "addressLine2": "1207 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.203668,
+          "mapLng": 6.155145699999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "10h–18h",
+            "mardi": "10h–18h",
+            "mercredi": "10h–18h",
+            "jeudi": "10h–18h",
+            "vendredi": "10h–18h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3059,6 +4409,31 @@
       "imageDimensions": {
         "width": 1510,
         "height": 1600
+      },
+      "venue": {
+        "key": "gowen",
+        "title": "Gowen",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Gowen",
+          "addressLine1": "Grand-Rue 23",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2018792,
+          "mapLng": 6.146126499999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–18h30",
+            "mercredi": "10h–18h30",
+            "jeudi": "10h–18h30",
+            "vendredi": "10h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3106,6 +4481,31 @@
       "imageDimensions": {
         "width": 2289,
         "height": 1499
+      },
+      "venue": {
+        "key": "de-jonckheere",
+        "title": "De Jonckheere",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "De Jonckheere",
+          "addressLine1": "Rue de l'Hôtel-de-Ville 7",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2006739,
+          "mapLng": 6.1476339
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–13h, 14h–18h30",
+            "mercredi": "10h–13h, 14h–18h30",
+            "jeudi": "10h–13h, 14h–18h30",
+            "vendredi": "10h–13h, 14h–18h30",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3152,6 +4552,31 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1440
+      },
+      "venue": {
+        "key": "mah-musee-d-art-et-d-histoire-de-geneve",
+        "title": "MAH – Musée d’Art et d’Histoire de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+          "addressLine1": "Rue Charles-Galland 2",
+          "addressLine2": "1206 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.199284,
+          "mapLng": 6.1515081
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "12h–21h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "11h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3198,6 +4623,31 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1440
+      },
+      "venue": {
+        "key": "mah-musee-d-art-et-d-histoire-de-geneve",
+        "title": "MAH – Musée d’Art et d’Histoire de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+          "addressLine1": "Rue Charles-Galland 2",
+          "addressLine2": "1206 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.199284,
+          "mapLng": 6.1515081
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "12h–21h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "11h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3245,6 +4695,31 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1440
+      },
+      "venue": {
+        "key": "mah-musee-d-art-et-d-histoire-de-geneve",
+        "title": "MAH – Musée d’Art et d’Histoire de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+          "addressLine1": "Rue Charles-Galland 2",
+          "addressLine2": "1206 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.199284,
+          "mapLng": 6.1515081
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "12h–21h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "11h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3292,6 +4767,31 @@
       "imageDimensions": {
         "width": 505,
         "height": 721
+      },
+      "venue": {
+        "key": "mah-musee-d-art-et-d-histoire-de-geneve",
+        "title": "MAH – Musée d’Art et d’Histoire de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+          "addressLine1": "Rue Charles-Galland 2",
+          "addressLine2": "1206 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.199284,
+          "mapLng": 6.1515081
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "12h–21h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "11h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3366,6 +4866,31 @@
       "imageDimensions": {
         "width": 605,
         "height": 769
+      },
+      "venue": {
+        "key": "mah-musee-d-art-et-d-histoire-de-geneve",
+        "title": "MAH – Musée d’Art et d’Histoire de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
+          "addressLine1": "Rue Charles-Galland 2",
+          "addressLine2": "1206 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.199284,
+          "mapLng": 6.1515081
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "12h–21h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "11h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3413,6 +4938,31 @@
       "imageDimensions": {
         "width": 3658,
         "height": 2590
+      },
+      "venue": {
+        "key": "mabe-gallery",
+        "title": "MABE Gallery",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "MABE Gallery",
+          "addressLine1": "Grand-Rue 25",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2017889,
+          "mapLng": 6.146338600000001
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–18h",
+            "vendredi": "11h–18h",
+            "samedi": "10h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3462,6 +5012,31 @@
       "imageDimensions": {
         "width": 2990,
         "height": 3997
+      },
+      "venue": {
+        "key": "galerie-mezzanin",
+        "title": "Galerie Mezzanin",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Mezzanin",
+          "addressLine1": "Rue des Maraîchers 63",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1985419365971,
+          "mapLng": 6.149252345782545
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "12h–17h",
+            "mercredi": "14h–17h",
+            "jeudi": "12h–17h",
+            "vendredi": "12h–17h",
+            "samedi": "14h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3521,6 +5096,31 @@
       "imageDimensions": {
         "width": 3300,
         "height": 2200
+      },
+      "venue": {
+        "key": "wisteria",
+        "title": "Wisteria",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Wisteria",
+          "addressLine1": "Route du Grand-Lancy 62",
+          "addressLine2": "1212 Lancy",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1839897,
+          "mapLng": 6.1213241
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "Fermé",
+            "jeudi": "18h–21h",
+            "vendredi": "Fermé",
+            "samedi": "14h–19h",
+            "dimanche": "14h–19h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3569,6 +5169,13 @@
       "imageDimensions": {
         "width": 2950,
         "height": 1969
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "maison-pertin"
+        ]
       }
     },
     {
@@ -3617,6 +5224,13 @@
       "imageDimensions": {
         "width": 2000,
         "height": 1333
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "hotel-ibis-styles-carouge"
+        ]
       }
     },
     {
@@ -3666,6 +5280,31 @@
       "imageDimensions": {
         "width": 2495,
         "height": 1667
+      },
+      "venue": {
+        "key": "atelier-maison-potter",
+        "title": "Atelier Maison Potter",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Atelier Maison Potter",
+          "addressLine1": "Chemin de Pinchat 22bis",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1774056,
+          "mapLng": 6.1445234
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Sur rendez-vous",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "Sur rendez-vous",
+            "vendredi": "Sur rendez-vous",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3716,6 +5355,13 @@
       "imageDimensions": {
         "width": 1620,
         "height": 1080
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "vitrines-du-kiosk-sur-le-rond-point-de-plainpalais"
+        ]
       }
     },
     {
@@ -3761,6 +5407,31 @@
       "imageDimensions": {
         "width": 2700,
         "height": 1800
+      },
+      "venue": {
+        "key": "collection-du-crest",
+        "title": "Collection du Crest",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Collection du Crest",
+          "addressLine1": "Route du Château-du-Crest 40",
+          "addressLine2": "1254 Jussy",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2369152,
+          "mapLng": 6.2561596
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "10h–17h",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "10h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -3809,6 +5480,13 @@
       "imageDimensions": {
         "width": 2847,
         "height": 1900
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "atelier-de-carmen-perrin"
+        ]
       }
     },
     {
@@ -3857,6 +5535,13 @@
       "imageDimensions": {
         "width": 1800,
         "height": 2700
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "cafe-de-l-amitie"
+        ]
       }
     },
     {
@@ -3904,6 +5589,13 @@
       "imageDimensions": {
         "width": 1800,
         "height": 2700
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "brasserie-europe-restaurant-du-plaza-centre-cinema"
+        ]
       }
     },
     {
@@ -3951,6 +5643,13 @@
       "imageDimensions": {
         "width": 1800,
         "height": 2700
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "tablard"
+        ]
       }
     },
     {
@@ -3998,6 +5697,13 @@
       "imageDimensions": {
         "width": 1800,
         "height": 2700
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "anouch"
+        ]
       }
     },
     {
@@ -4045,6 +5751,13 @@
       "imageDimensions": {
         "width": 1800,
         "height": 2700
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "bleu-nuit"
+        ]
       }
     },
     {
@@ -4093,6 +5806,13 @@
       "imageDimensions": {
         "width": 3600,
         "height": 5400
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "le-dorian"
+        ]
       }
     },
     {
@@ -4140,6 +5860,31 @@
       "imageDimensions": {
         "width": 1600,
         "height": 1128
+      },
+      "venue": {
+        "key": "hiflow",
+        "title": "HiFlow",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "HiFlow",
+          "addressLine1": "Chemin du Champ-des-Filles 36A",
+          "addressLine2": "1228 Plan-les-Ouates",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1647721,
+          "mapLng": 6.103385
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "10h–18h",
+            "mardi": "10h–18h",
+            "mercredi": "10h–18h",
+            "jeudi": "10h–18h",
+            "vendredi": "10h–18h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4186,6 +5931,13 @@
       "imageDimensions": {
         "width": 1275,
         "height": 955
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "cine-17"
+        ]
       }
     },
     {
@@ -4232,6 +5984,31 @@
       "imageDimensions": {
         "width": 1890,
         "height": 1375
+      },
+      "venue": {
+        "key": "galerie-papiers-gras",
+        "title": "Galerie Papiers Gras",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Papiers Gras",
+          "addressLine1": "Place de l'Ile 1",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2047293,
+          "mapLng": 6.1418877
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "12h–19h",
+            "mercredi": "12h–19h",
+            "jeudi": "12h–19h",
+            "vendredi": "12h–19h",
+            "samedi": "10h30–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4281,6 +6058,13 @@
       "imageDimensions": {
         "width": 1148,
         "height": 758
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Membre",
+        "values": [
+          "zabriskie"
+        ]
       }
     },
     {
@@ -4331,6 +6115,13 @@
       "imageDimensions": {
         "width": 4134,
         "height": 2756
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "halles-de-la-fonderie"
+        ]
       }
     },
     {
@@ -4380,6 +6171,13 @@
       "imageDimensions": {
         "width": 2650,
         "height": 1767
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "halles-de-la-fonderie"
+        ]
       }
     },
     {
@@ -4429,6 +6227,13 @@
       "imageDimensions": {
         "width": 3831,
         "height": 2873
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "bruckner-hors-les-murs"
+        ]
       }
     },
     {
@@ -4482,6 +6287,31 @@
       "imageDimensions": {
         "width": 5197,
         "height": 3467
+      },
+      "venue": {
+        "key": "galerie-rosa-turetsky",
+        "title": "Galerie Rosa Turetsky",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Rosa Turetsky",
+          "addressLine1": "Grand-Rue 25",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2017889,
+          "mapLng": 6.146338600000001
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "14h30–18h",
+            "jeudi": "14h30–18h",
+            "vendredi": "14h30–18h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4531,6 +6361,31 @@
       "imageDimensions": {
         "width": 2976,
         "height": 1830
+      },
+      "venue": {
+        "key": "olizane",
+        "title": "Olizane",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Olizane",
+          "addressLine1": "Rue des Vieux-Grenadiers 11",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1984412,
+          "mapLng": 6.137841600000001
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "18h–21h",
+            "jeudi": "18h–21h",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4579,6 +6434,31 @@
       "imageDimensions": {
         "width": 2338,
         "height": 3508
+      },
+      "venue": {
+        "key": "galerie-lange-pult",
+        "title": "Galerie Lange + Pult",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Lange + Pult",
+          "addressLine1": "Rue des Bains 22",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1983213,
+          "mapLng": 6.1370313
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–18h",
+            "vendredi": "11h–18h",
+            "samedi": "12h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4627,6 +6507,31 @@
       "imageDimensions": {
         "width": 2361,
         "height": 1571
+      },
+      "venue": {
+        "key": "galerie-series-rares",
+        "title": "Galerie Séries Rares",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Séries Rares",
+          "addressLine1": "Rue Vautier 15",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1849465,
+          "mapLng": 6.1423862
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "14h30–18h30",
+            "jeudi": "14h30–18h30",
+            "vendredi": "14h30–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4683,6 +6588,31 @@
       "imageDimensions": {
         "width": 2291,
         "height": 3115
+      },
+      "venue": {
+        "key": "galerie-sonia-zannettacci",
+        "title": "Galerie Sonia Zannettacci",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Sonia Zannettacci",
+          "addressLine1": "Rue Henri-Fazy 4",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.20102869999999,
+          "mapLng": 6.1459188
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "14h–19h",
+            "mardi": "10h–12h, 14h–19h",
+            "mercredi": "10h–12h, 14h–19h",
+            "jeudi": "10h–12h, 14h–19h",
+            "vendredi": "10h–12h, 14h–19h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4732,6 +6662,13 @@
       "imageDimensions": {
         "width": 1536,
         "height": 1024
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "patio-des-ports-francs-et-entrepots-de-geneve-s-a"
+        ]
       }
     },
     {
@@ -4777,6 +6714,13 @@
       "imageDimensions": {
         "width": 2846,
         "height": 2000
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "bibliotheque-de-geneve"
+        ]
       }
     },
     {
@@ -4827,6 +6771,31 @@
       "imageDimensions": {
         "width": 3543,
         "height": 2531
+      },
+      "venue": {
+        "key": "le-labo",
+        "title": "Le Labo",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Le Labo",
+          "addressLine1": "Boulevard de Saint-Georges 5",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2014221,
+          "mapLng": 6.1311138
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "15h–19h",
+            "mercredi": "15h–19h",
+            "jeudi": "15h–19h",
+            "vendredi": "15h–19h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4880,6 +6849,31 @@
       "imageDimensions": {
         "width": 2535,
         "height": 2535
+      },
+      "venue": {
+        "key": "galerie-latham",
+        "title": "Galerie Latham",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Latham",
+          "addressLine1": "Boulevard Georges-Favon 19",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2016042,
+          "mapLng": 6.140503799999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "14h–18h30",
+            "jeudi": "14h–18h30",
+            "vendredi": "14h–18h30",
+            "samedi": "11h–13h, 14h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4929,6 +6923,31 @@
       "imageDimensions": {
         "width": 5108,
         "height": 3405
+      },
+      "venue": {
+        "key": "art-resonance-gallery",
+        "title": "Art Resonance Gallery",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Art Resonance Gallery",
+          "addressLine1": "Rue Rodolphe-Toepffer 11",
+          "addressLine2": "1206 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1986027,
+          "mapLng": 6.1539644
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "14h–18h et sur demande",
+            "vendredi": "",
+            "samedi": "",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -4980,6 +6999,31 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1440
+      },
+      "venue": {
+        "key": "galerie-polomarco",
+        "title": "Galerie Polomarco",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Polomarco",
+          "addressLine1": "Grand-Rue 5",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2024371,
+          "mapLng": 6.144836999999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "10h–18h",
+            "mardi": "10h–18h",
+            "mercredi": "10h–18h",
+            "jeudi": "10h–18h",
+            "vendredi": "10h–18h",
+            "samedi": "14h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5029,6 +7073,31 @@
       "imageDimensions": {
         "width": 4032,
         "height": 3024
+      },
+      "venue": {
+        "key": "atelier-galerie-kaolin",
+        "title": "Atelier Galerie Kaolin",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Atelier Galerie Kaolin",
+          "addressLine1": "Avenue Cardinal-Mermillod 18",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1863342,
+          "mapLng": 6.1422364
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "11h–18h30",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "14h–20h",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5076,6 +7145,31 @@
       "imageDimensions": {
         "width": 2600,
         "height": 1950
+      },
+      "venue": {
+        "key": "gutknecht-gallery",
+        "title": "Gutknecht Gallery",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Gutknecht Gallery",
+          "addressLine1": "Rue Saint-Léger 28",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1993532,
+          "mapLng": 6.148347800000001
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "11h–18h30",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–18h30",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5121,6 +7215,31 @@
       "imageDimensions": {
         "width": 1800,
         "height": 1191
+      },
+      "venue": {
+        "key": "de-jonckheere",
+        "title": "De Jonckheere",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "De Jonckheere",
+          "addressLine1": "Rue de l'Hôtel-de-Ville 7",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2006739,
+          "mapLng": 6.1476339
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–13h, 14h–18h30",
+            "mercredi": "10h–13h, 14h–18h30",
+            "jeudi": "10h–13h, 14h–18h30",
+            "vendredi": "10h–13h, 14h–18h30",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5177,6 +7296,29 @@
       "imageDimensions": {
         "width": 1000,
         "height": 563
+      },
+      "venue": {
+        "key": "centre-de-la-photographie-geneve",
+        "title": "Centre de la photographie Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Centre de la photographie Genève",
+          "addressLine1": "Promenade des Bastions 8",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse"
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–20h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5223,6 +7365,13 @@
       "imageDimensions": {
         "width": 638,
         "height": 850
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "musee-rath"
+        ]
       }
     },
     {
@@ -5271,6 +7420,13 @@
       "imageDimensions": {
         "width": 480,
         "height": 640
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "musee-rath"
+        ]
       }
     },
     {
@@ -5318,6 +7474,31 @@
       "imageDimensions": {
         "width": 2000,
         "height": 1416
+      },
+      "venue": {
+        "key": "mabe-gallery",
+        "title": "MABE Gallery",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "MABE Gallery",
+          "addressLine1": "Grand-Rue 25",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2017889,
+          "mapLng": 6.146338600000001
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–18h",
+            "vendredi": "11h–18h",
+            "samedi": "10h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5367,6 +7548,31 @@
       "imageDimensions": {
         "width": 2844,
         "height": 1608
+      },
+      "venue": {
+        "key": "base-window",
+        "title": "Base Window",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Base Window",
+          "addressLine1": "Rue de Monthoux 12",
+          "addressLine2": "1201 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2103999,
+          "mapLng": 6.149202499999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "8h–19h",
+            "mercredi": "8h–19h",
+            "jeudi": "8h–19h",
+            "vendredi": "8h–19h",
+            "samedi": "14h–18h",
+            "dimanche": "14h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5456,6 +7662,31 @@
       "imageDimensions": {
         "width": 2592,
         "height": 1728
+      },
+      "venue": {
+        "key": "musee-de-carouge",
+        "title": "Musée de Carouge",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Musée de Carouge",
+          "addressLine1": "Place de Sardaigne 2",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1843684,
+          "mapLng": 6.1391744
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "Fermé",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "11h–18h",
+            "dimanche": "11h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5504,6 +7735,31 @@
       "imageDimensions": {
         "width": 2219,
         "height": 2431
+      },
+      "venue": {
+        "key": "skopia-p-h-jaccaud",
+        "title": "Skopia / P.-H. Jaccaud",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Skopia / P.-H. Jaccaud",
+          "addressLine1": "Rue des Vieux-Grenadiers 9",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1984082,
+          "mapLng": 6.1380007
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h30",
+            "mercredi": "11h–18h30",
+            "jeudi": "11h–18h30",
+            "vendredi": "11h–18h30",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5553,6 +7809,31 @@
       "imageDimensions": {
         "width": 1925,
         "height": 2407
+      },
+      "venue": {
+        "key": "galerie-fabienne-levy",
+        "title": "Galerie Fabienne Levy",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Fabienne Levy",
+          "addressLine1": "Rue des Vieux-Grenadiers 2",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1985036,
+          "mapLng": 6.1388396
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–18h30",
+            "mercredi": "10h–18h30",
+            "jeudi": "10h–18h30",
+            "vendredi": "10h–18h30",
+            "samedi": "11h–17h30",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5603,6 +7884,31 @@
       "imageDimensions": {
         "width": 1536,
         "height": 1536
+      },
+      "venue": {
+        "key": "lovay-fine-arts",
+        "title": "Lovay Fine Arts",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Lovay Fine Arts",
+          "addressLine1": "Rue des Sablons 4",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2010251,
+          "mapLng": 6.137069200000001
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–19h",
+            "mercredi": "11h–19h",
+            "jeudi": "11h–19h",
+            "vendredi": "11h–19h",
+            "samedi": "11h–17h",
+            "dimanche": "11h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5648,6 +7954,31 @@
       "imageDimensions": {
         "width": 5760,
         "height": 3840
+      },
+      "venue": {
+        "key": "fondation-bruckner",
+        "title": "Fondation Bruckner",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Fondation Bruckner",
+          "addressLine1": "Chemin de Grange-Collomb 38",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1742431,
+          "mapLng": 6.1352809
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5693,6 +8024,31 @@
       "imageDimensions": {
         "width": 1184,
         "height": 790
+      },
+      "venue": {
+        "key": "fondation-bruckner",
+        "title": "Fondation Bruckner",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Fondation Bruckner",
+          "addressLine1": "Chemin de Grange-Collomb 38",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1742431,
+          "mapLng": 6.1352809
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5743,6 +8099,13 @@
       "imageDimensions": {
         "width": 2000,
         "height": 1500
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "bruckner-hors-les-murs"
+        ]
       }
     },
     {
@@ -5791,6 +8154,13 @@
       "imageDimensions": {
         "width": 2650,
         "height": 1767
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "halles-de-la-fonderie"
+        ]
       }
     },
     {
@@ -5837,6 +8207,29 @@
       "imageDimensions": {
         "width": 1800,
         "height": 1286
+      },
+      "venue": {
+        "key": "centre-de-la-photographie-geneve",
+        "title": "Centre de la photographie Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Centre de la photographie Genève",
+          "addressLine1": "Promenade des Bastions 8",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse"
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–20h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5883,6 +8276,31 @@
       "imageDimensions": {
         "width": 2600,
         "height": 1731
+      },
+      "venue": {
+        "key": "atelier-maison-potter",
+        "title": "Atelier Maison Potter",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Atelier Maison Potter",
+          "addressLine1": "Chemin de Pinchat 22bis",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1774056,
+          "mapLng": 6.1445234
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Sur rendez-vous",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "Sur rendez-vous",
+            "vendredi": "Sur rendez-vous",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5929,6 +8347,31 @@
       "imageDimensions": {
         "width": 4928,
         "height": 3280
+      },
+      "venue": {
+        "key": "atelier-maison-potter",
+        "title": "Atelier Maison Potter",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Atelier Maison Potter",
+          "addressLine1": "Chemin de Pinchat 22bis",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1774056,
+          "mapLng": 6.1445234
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Sur rendez-vous",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "Sur rendez-vous",
+            "vendredi": "Sur rendez-vous",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -5979,6 +8422,13 @@
       "imageDimensions": {
         "width": 1620,
         "height": 1080
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "vitrines-du-kiosk-sur-le-rond-point-de-plainpalais"
+        ]
       }
     },
     {
@@ -6027,6 +8477,13 @@
       "imageDimensions": {
         "width": 1280,
         "height": 1920
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "cine17"
+        ]
       }
     },
     {
@@ -6072,6 +8529,31 @@
       "imageDimensions": {
         "width": 5108,
         "height": 3405
+      },
+      "venue": {
+        "key": "art-resonance-gallery",
+        "title": "Art Resonance Gallery",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Art Resonance Gallery",
+          "addressLine1": "Rue Rodolphe-Toepffer 11",
+          "addressLine2": "1206 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1986027,
+          "mapLng": 6.1539644
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "14h–18h et sur demande",
+            "vendredi": "",
+            "samedi": "",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6120,6 +8602,31 @@
       "imageDimensions": {
         "width": 4272,
         "height": 2848
+      },
+      "venue": {
+        "key": "strategies-obliques",
+        "title": "Stratégies obliques",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Stratégies obliques",
+          "addressLine1": "Rue Saint-Joseph 16",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.185936,
+          "mapLng": 6.140821999999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6167,6 +8674,31 @@
       "imageDimensions": {
         "width": 3000,
         "height": 3756
+      },
+      "venue": {
+        "key": "wilde",
+        "title": "Wilde",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Wilde",
+          "addressLine1": "Boulevard Georges-Favon 19",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2016042,
+          "mapLng": 6.140503799999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "14h–18h",
+            "mercredi": "14h–18h",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6214,6 +8746,31 @@
       "imageDimensions": {
         "width": 1102,
         "height": 1456
+      },
+      "venue": {
+        "key": "wilde",
+        "title": "Wilde",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Wilde",
+          "addressLine1": "Boulevard Georges-Favon 19",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2016042,
+          "mapLng": 6.140503799999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "14h–18h",
+            "mercredi": "14h–18h",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6264,6 +8821,31 @@
       "imageDimensions": {
         "width": 1920,
         "height": 1080
+      },
+      "venue": {
+        "key": "villa-bernasconi",
+        "title": "Villa Bernasconi",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Villa Bernasconi",
+          "addressLine1": "Route du Grand-Lancy 8",
+          "addressLine2": "1212 Lancy",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1869807,
+          "mapLng": 6.1222188
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "14h–18h",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "14h–18h",
+            "dimanche": "14h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6311,6 +8893,31 @@
       "imageDimensions": {
         "width": 1700,
         "height": 1133
+      },
+      "venue": {
+        "key": "arthug-hopitaux-universitaires-de-geneve",
+        "title": "ArtHUG – Hôpitaux universitaires de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "ArtHUG – Hôpitaux universitaires de Genève",
+          "addressLine1": "Boulevard de la Tour 8",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1959095,
+          "mapLng": 6.147964
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "9h–13h, 14h–18h",
+            "mardi": "9h–13h, 14h–18h",
+            "mercredi": "9h–13h, 14h–18h",
+            "jeudi": "9h–13h, 14h–18h",
+            "vendredi": "9h–13h, 14h–18h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6357,6 +8964,31 @@
       "imageDimensions": {
         "width": 2500,
         "height": 1667
+      },
+      "venue": {
+        "key": "collection-du-crest",
+        "title": "Collection du Crest",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Collection du Crest",
+          "addressLine1": "Route du Château-du-Crest 40",
+          "addressLine2": "1254 Jussy",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2369152,
+          "mapLng": 6.2561596
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "10h–17h",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "10h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6403,6 +9035,31 @@
       "imageDimensions": {
         "width": 2500,
         "height": 1667
+      },
+      "venue": {
+        "key": "collection-du-crest",
+        "title": "Collection du Crest",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Collection du Crest",
+          "addressLine1": "Route du Château-du-Crest 40",
+          "addressLine2": "1254 Jussy",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2369152,
+          "mapLng": 6.2561596
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "10h–17h",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "10h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6452,6 +9109,14 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1707
+      },
+      "venueMatch": {
+        "status": "ambiguous",
+        "matchedBy": "Membre",
+        "values": [
+          "arcadia",
+          "joy-de-rouvre"
+        ]
       }
     },
     {
@@ -6500,6 +9165,31 @@
       "imageDimensions": {
         "width": 6299,
         "height": 4724
+      },
+      "venue": {
+        "key": "galerie-ligne-treize",
+        "title": "Galerie Ligne Treize",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Ligne Treize",
+          "addressLine1": "Boulevard Carl-Vogt 52",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1978488,
+          "mapLng": 6.1358049
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–18h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6550,6 +9240,31 @@
       "imageDimensions": {
         "width": 3600,
         "height": 2400
+      },
+      "venue": {
+        "key": "taste-contemporary",
+        "title": "Taste Contemporary",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Taste Contemporary",
+          "addressLine1": "Rue du Vieux-Billard 7",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.200413,
+          "mapLng": 6.138135699999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "11h–18h30",
+            "jeudi": "11h–18h30",
+            "vendredi": "11h–18h30",
+            "samedi": "12h–17h30",
+            "dimanche": "Sur rendez-vous"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6599,6 +9314,31 @@
       "imageDimensions": {
         "width": 1135,
         "height": 1500
+      },
+      "venue": {
+        "key": "wilde",
+        "title": "Wilde",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Wilde",
+          "addressLine1": "Boulevard Georges-Favon 19",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2016042,
+          "mapLng": 6.140503799999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "14h–18h",
+            "mercredi": "14h–18h",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6648,6 +9388,31 @@
       "imageDimensions": {
         "width": 4272,
         "height": 2848
+      },
+      "venue": {
+        "key": "strategies-obliques",
+        "title": "Stratégies obliques",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Stratégies obliques",
+          "addressLine1": "Rue Saint-Joseph 16",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.185936,
+          "mapLng": 6.140821999999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6698,6 +9463,31 @@
       "imageDimensions": {
         "width": 3000,
         "height": 3756
+      },
+      "venue": {
+        "key": "wilde",
+        "title": "Wilde",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Wilde",
+          "addressLine1": "Boulevard Georges-Favon 19",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2016042,
+          "mapLng": 6.140503799999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "14h–18h",
+            "mercredi": "14h–18h",
+            "jeudi": "14h–18h",
+            "vendredi": "14h–18h",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6745,6 +9535,31 @@
       "imageDimensions": {
         "width": 2951,
         "height": 2361
+      },
+      "venue": {
+        "key": "galerie-fabienne-levy",
+        "title": "Galerie Fabienne Levy",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Galerie Fabienne Levy",
+          "addressLine1": "Rue des Vieux-Grenadiers 2",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1985036,
+          "mapLng": 6.1388396
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–18h30",
+            "mercredi": "10h–18h30",
+            "jeudi": "10h–18h30",
+            "vendredi": "10h–18h30",
+            "samedi": "11h–17h30",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6795,6 +9610,14 @@
       "imageDimensions": {
         "width": 2560,
         "height": 1707
+      },
+      "venueMatch": {
+        "status": "ambiguous",
+        "matchedBy": "Membre",
+        "values": [
+          "arcadia",
+          "joy-de-rouvre"
+        ]
       }
     },
     {
@@ -6845,6 +9668,29 @@
       "imageDimensions": {
         "width": 2700,
         "height": 1800
+      },
+      "venue": {
+        "key": "centre-de-la-photographie-geneve",
+        "title": "Centre de la photographie Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Centre de la photographie Genève",
+          "addressLine1": "Promenade des Bastions 8",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse"
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–20h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6900,6 +9746,31 @@
       "imageDimensions": {
         "width": 1773,
         "height": 2786
+      },
+      "venue": {
+        "key": "espace-dukat",
+        "title": "Espace Dukat",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Espace Dukat",
+          "addressLine1": "Avenue Cardinal-Mermillod 21",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1853998,
+          "mapLng": 6.1456988
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "",
+            "vendredi": "",
+            "samedi": "",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6949,6 +9820,31 @@
       "imageDimensions": {
         "width": 6022,
         "height": 8030
+      },
+      "venue": {
+        "key": "teo-jakob",
+        "title": "Teo Jakob",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Teo Jakob",
+          "addressLine1": "Place de l'Octroi 8",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1878743,
+          "mapLng": 6.140251200000001
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "13h–18h ou sur rendez-vous",
+            "mardi": "13h–18h ou sur rendez-vous",
+            "mercredi": "13h–18h ou sur rendez-vous",
+            "jeudi": "13h–18h ou sur rendez-vous",
+            "vendredi": "9h–17h ou sur rendez-vous",
+            "samedi": "11h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7018,6 +9914,13 @@
       "imageDimensions": {
         "width": 1564,
         "height": 999
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "musee-rath"
+        ]
       }
     },
     {
@@ -7067,6 +9970,14 @@
       "imageDimensions": {
         "width": 2657,
         "height": 1993
+      },
+      "venueMatch": {
+        "status": "ambiguous",
+        "matchedBy": "Membre",
+        "values": [
+          "mamco",
+          "sasa-site-archeologique-saint-antoine"
+        ]
       }
     },
     {
@@ -7118,6 +10029,29 @@
       "imageDimensions": {
         "width": 2048,
         "height": 1463
+      },
+      "venue": {
+        "key": "centre-de-la-photographie-geneve",
+        "title": "Centre de la photographie Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Centre de la photographie Genève",
+          "addressLine1": "Promenade des Bastions 8",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse"
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "11h–18h",
+            "mercredi": "11h–18h",
+            "jeudi": "11h–20h",
+            "vendredi": "11h–18h",
+            "samedi": "11h–18h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7168,6 +10102,13 @@
       "imageDimensions": {
         "width": 1000,
         "height": 818
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "maison-de-l-enfance-et-de-l-adolescence-hug"
+        ]
       }
     },
     {
@@ -7226,6 +10167,31 @@
       "imageDimensions": {
         "width": 1800,
         "height": 1394
+      },
+      "venue": {
+        "key": "le-commun",
+        "title": "Le Commun",
+        "matchedBy": "Lieu",
+        "location": {
+          "addressTitle": "Le Commun",
+          "addressLine1": "Rue des Vieux-Grenadiers 10",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1989327,
+          "mapLng": 6.1381708
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Non renseigné",
+            "mardi": "Non renseigné",
+            "mercredi": "Non renseigné",
+            "jeudi": "Non renseigné",
+            "vendredi": "Non renseigné",
+            "samedi": "Non renseigné",
+            "dimanche": "Non renseigné"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7306,6 +10272,31 @@
       "imageDimensions": {
         "width": 2500,
         "height": 1876
+      },
+      "venue": {
+        "key": "musee-ariana",
+        "title": "Musée Ariana",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Musée Ariana",
+          "addressLine1": "Avenue de la Paix 10",
+          "addressLine2": "1202 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2253381,
+          "mapLng": 6.138763399999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–17h",
+            "mercredi": "10h–17h",
+            "jeudi": "10h–17h",
+            "vendredi": "10h–17h",
+            "samedi": "10h–17h",
+            "dimanche": "10h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7355,6 +10346,31 @@
       "imageDimensions": {
         "width": 2500,
         "height": 1876
+      },
+      "venue": {
+        "key": "musee-ariana",
+        "title": "Musée Ariana",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Musée Ariana",
+          "addressLine1": "Avenue de la Paix 10",
+          "addressLine2": "1202 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2253381,
+          "mapLng": 6.138763399999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–17h",
+            "mercredi": "10h–17h",
+            "jeudi": "10h–17h",
+            "vendredi": "10h–17h",
+            "samedi": "10h–17h",
+            "dimanche": "10h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7404,6 +10420,13 @@
       "imageDimensions": {
         "width": 1556,
         "height": 2200
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "l-arcade"
+        ]
       }
     },
     {
@@ -7468,6 +10491,31 @@
       "imageDimensions": {
         "width": 2700,
         "height": 1800
+      },
+      "venue": {
+        "key": "arthug-hopitaux-universitaires-de-geneve",
+        "title": "ArtHUG – Hôpitaux universitaires de Genève",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "ArtHUG – Hôpitaux universitaires de Genève",
+          "addressLine1": "Boulevard de la Tour 8",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1959095,
+          "mapLng": 6.147964
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "9h–13h, 14h–18h",
+            "mardi": "9h–13h, 14h–18h",
+            "mercredi": "9h–13h, 14h–18h",
+            "jeudi": "9h–13h, 14h–18h",
+            "vendredi": "9h–13h, 14h–18h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7520,6 +10568,31 @@
       "imageDimensions": {
         "width": 2500,
         "height": 1667
+      },
+      "venue": {
+        "key": "collection-du-crest",
+        "title": "Collection du Crest",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Collection du Crest",
+          "addressLine1": "Route du Château-du-Crest 40",
+          "addressLine2": "1254 Jussy",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2369152,
+          "mapLng": 6.2561596
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "10h–17h",
+            "jeudi": "Fermé",
+            "vendredi": "Fermé",
+            "samedi": "10h–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7570,6 +10643,31 @@
       "imageDimensions": {
         "width": 3552,
         "height": 5328
+      },
+      "venue": {
+        "key": "le-salon-vert",
+        "title": "Le Salon Vert",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Le Salon Vert",
+          "addressLine1": "Rue Ancienne 15",
+          "addressLine2": "1227 Carouge",
+          "addressCountry": "Suisse",
+          "mapLat": 46.18253379999999,
+          "mapLng": 6.1413501
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "",
+            "mardi": "",
+            "mercredi": "",
+            "jeudi": "",
+            "vendredi": "",
+            "samedi": "14h–17h et sur rendez-vous",
+            "dimanche": ""
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7618,6 +10716,31 @@
       "imageDimensions": {
         "width": 1920,
         "height": 1440
+      },
+      "venue": {
+        "key": "forde",
+        "title": "Forde",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "Forde",
+          "addressLine1": "Rue de la Coulouvrenière 11",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.20396330000001,
+          "mapLng": 6.135971
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "14h–17h",
+            "mardi": "Sur rendez-vous",
+            "mercredi": "Sur rendez-vous",
+            "jeudi": "18h–21h",
+            "vendredi": "Sur rendez-vous",
+            "samedi": "14h–18h et sur rendez-vous",
+            "dimanche": "Sur rendez-vous"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7665,6 +10788,31 @@
       "imageDimensions": {
         "width": 1280,
         "height": 932
+      },
+      "venue": {
+        "key": "hiflow",
+        "title": "HiFlow",
+        "matchedBy": "Membre",
+        "location": {
+          "addressTitle": "HiFlow",
+          "addressLine1": "Chemin du Champ-des-Filles 36A",
+          "addressLine2": "1228 Plan-les-Ouates",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1647721,
+          "mapLng": 6.103385
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "10h–18h",
+            "mardi": "10h–18h",
+            "mercredi": "10h–18h",
+            "jeudi": "10h–18h",
+            "vendredi": "10h–18h",
+            "samedi": "Fermé",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -7721,6 +10869,13 @@
       "imageDimensions": {
         "width": 1536,
         "height": 1024
+      },
+      "venueMatch": {
+        "status": "unresolved",
+        "matchedBy": "Lieu",
+        "values": [
+          "lasser"
+        ]
       }
     }
   ]

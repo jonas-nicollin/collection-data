@@ -10,12 +10,24 @@
     {
       "id": "programme-2026",
       "path": "/programme-2026",
-      "url": "https://genevaartweek.com/programme-2026?format=json"
+      "url": "https://genevaartweek.com/programme-2026?format=json",
+      "locationSource": {
+        "file": "public/data/locations/gaw.json",
+        "tagPrefixes": [
+          "Lieu",
+          "Membre"
+        ]
+      }
     },
     {
       "id": "membre",
       "path": "/membre",
-      "url": "https://genevaartweek.com/membre?format=json"
+      "url": "https://genevaartweek.com/membre?format=json",
+      "locationSource": {
+        "file": "public/data/locations/gaw.json",
+        "matchField": "title",
+        "replaceLocation": true
+      }
     },
     {
       "id": "article",

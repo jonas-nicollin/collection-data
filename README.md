@@ -83,3 +83,24 @@ The legacy flat fields remain unchanged for older consumers. Without these
 column mappings, the builder output is unchanged. Invalid/repeated day or date
 keys fail the build rather than publishing an ambiguous schedule.
 
+
+### Optional location source for collection records
+
+A collection may opt into `locationSource: { file, matchField, replaceLocation }`
+or `{ file, tagPrefixes }`. The file is a previously built locations JSON payload.
+`matchField: "title"` resolves member records. Ordered `tagPrefixes` resolve the
+actual venue before the organizer. An explicit unmatched or ambiguous first
+prefix never falls back to a later prefix. Only unique matches are attached as
+`venue: { key, title, matchedBy, location, openingHours }`; unresolved records keep
+all their original content and receive `venueMatch` diagnostics.
+
+`replaceLocation: true` explicitly replaces native location metadata with that
+source, including removal of stale coordinates when the source has none. It is
+not enabled by default. Consumers without `locationSource` remain unchanged.
+Dated hours and weekly hours are separate; this join does not infer availability.
+
+For Google Sheets gviz sources, use `headers=1` when there is one header row.
+Location builds reject zero records by default; an intentionally empty source
+must set `allowEmpty: true`. This protects the last published payload when a
+source response is malformed. Location and collection rebuilds run separately;
+collection joins use the latest locations payload committed to the repository.

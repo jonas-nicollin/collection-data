@@ -4,6 +4,7 @@ import path from 'node:path';
 import { imageDimensionsField } from './lib/image-dimensions.mjs';
 import { normalizeSquarespaceIndexMedia } from './lib/squarespace-index-media.mjs';
 import { withNativeGallery } from './lib/squarespace-gallery.mjs';
+import { joinLocations } from './lib/location-source.mjs';
 
 const DEFAULT_CONFIG = 'sources/collections/pcc.json';
 const DEFAULT_OUTPUT_DIR = 'public/data/collections';
@@ -529,12 +530,23 @@ async function main() {
     throw new Error(`No collections found in ${configPath}`);
   }
 
+  const locationSources = new Map();
   for (const collection of collections) {
     if (!collection.id || !collection.url) {
       throw new Error('Each collection needs at least id and url.');
     }
 
     const result = await fetchAllCollectionItems(collection);
+    if (collection.locationSource) {
+      const settings = collection.locationSource;
+      if (!settings.file) throw new Error('locationSource.file is required.');
+      if (!locationSources.has(settings.file)) {
+        const payload = JSON.parse(await readFile(settings.file, 'utf8'));
+        if (!Array.isArray(payload.items)) throw new Error('Invalid location source.');
+        locationSources.set(settings.file, payload.items);
+      }
+      result.items = joinLocations(result.items, locationSources.get(settings.file), settings);
+    }
     const sourceHash = hashItems(result.items);
     const nextPayload = {
       schemaVersion: 1,
@@ -591,3 +603,4 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+
