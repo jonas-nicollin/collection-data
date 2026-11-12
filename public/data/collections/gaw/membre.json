@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-11-12T10:38:11.428Z",
-  "sourceHash": "73850bbacb0c4d16cb6f7df7958443d1a25528f966f4b3bd2dd7bbb74fe765f4",
+  "updatedAt": "2026-11-12T10:48:08.337Z",
+  "sourceHash": "031c79252886132541ae064129543a450756e4dac5bca4cda0738a72d8005476",
   "count": 93,
   "pages": 1,
   "items": [
@@ -2641,7 +2641,7 @@
       "starred": false,
       "publishOn": 1746486000247,
       "addedOn": 1746486000247,
-      "updatedOn": 1782200201672,
+      "updatedOn": 1794479889121,
       "imageDimensions": {
         "width": 1800,
         "height": 1200
@@ -2712,7 +2712,7 @@
       "starred": false,
       "publishOn": 1746403200262,
       "addedOn": 1746403200262,
-      "updatedOn": 1782200220965,
+      "updatedOn": 1794479916543,
       "imageDimensions": {
         "width": 660,
         "height": 440
@@ -2783,7 +2783,7 @@
       "starred": false,
       "publishOn": 1746316800678,
       "addedOn": 1746316800678,
-      "updatedOn": 1786482430231,
+      "updatedOn": 1794479928484,
       "imageDimensions": {
         "width": 1680,
         "height": 1120
@@ -2851,7 +2851,7 @@
       "starred": false,
       "publishOn": 1746313200847,
       "addedOn": 1746313200847,
-      "updatedOn": 1782200266336,
+      "updatedOn": 1794479953796,
       "imageDimensions": {
         "width": 1600,
         "height": 1200
@@ -2918,7 +2918,7 @@
       "starred": false,
       "publishOn": 1746057600575,
       "addedOn": 1746057600575,
-      "updatedOn": 1782200291616,
+      "updatedOn": 1794479984345,
       "imageDimensions": {
         "width": 1600,
         "height": 1200
@@ -2985,7 +2985,7 @@
       "starred": false,
       "publishOn": 1745996400994,
       "addedOn": 1745996400994,
-      "updatedOn": 1782200327637,
+      "updatedOn": 1794479997165,
       "imageDimensions": {
         "width": 1260,
         "height": 840
@@ -3057,7 +3057,7 @@
       "starred": false,
       "publishOn": 1745971200745,
       "addedOn": 1745971200745,
-      "updatedOn": 1789475667336,
+      "updatedOn": 1794480014657,
       "imageDimensions": {
         "width": 1600,
         "height": 1280
@@ -3129,7 +3129,7 @@
       "starred": false,
       "publishOn": 1745884800083,
       "addedOn": 1745884800083,
-      "updatedOn": 1787144731028,
+      "updatedOn": 1794480039880,
       "imageDimensions": {
         "width": 1800,
         "height": 1080
@@ -3197,7 +3197,7 @@
       "starred": false,
       "publishOn": 1745830800755,
       "addedOn": 1745830800755,
-      "updatedOn": 1785799650934,
+      "updatedOn": 1794480057817,
       "imageDimensions": {
         "width": 1800,
         "height": 1200
@@ -3264,7 +3264,7 @@
       "starred": false,
       "publishOn": 1745795044382,
       "addedOn": 1745795044382,
-      "updatedOn": 1785799639849,
+      "updatedOn": 1794480072749,
       "imageDimensions": {
         "width": 2560,
         "height": 1440
@@ -3332,7 +3332,7 @@
       "starred": false,
       "publishOn": 1745789846300,
       "addedOn": 1745789846300,
-      "updatedOn": 1786461277733,
+      "updatedOn": 1794480095693,
       "imageDimensions": {
         "width": 638,
         "height": 428
@@ -3403,7 +3403,7 @@
       "starred": false,
       "publishOn": 1745713800437,
       "addedOn": 1745713800437,
-      "updatedOn": 1786360423424,
+      "updatedOn": 1794480114423,
       "imageDimensions": {
         "width": 1600,
         "height": 1200
@@ -3474,7 +3474,7 @@
       "starred": false,
       "publishOn": 1745708506022,
       "addedOn": 1745708506022,
-      "updatedOn": 1786461305140,
+      "updatedOn": 1794480130550,
       "imageDimensions": {
         "width": 1024,
         "height": 768
@@ -3545,7 +3545,7 @@
       "starred": false,
       "publishOn": 1745708400701,
       "addedOn": 1745708400701,
-      "updatedOn": 1782200628723,
+      "updatedOn": 1794480155624,
       "imageDimensions": {
         "width": 1600,
         "height": 1200
@@ -3612,7 +3612,7 @@
       "starred": false,
       "publishOn": 1745643600837,
       "addedOn": 1745643600837,
-      "updatedOn": 1782200665068,
+      "updatedOn": 1794480179811,
       "imageDimensions": {
         "width": 2500,
         "height": 1875
@@ -3682,7 +3682,7 @@
       "starred": false,
       "publishOn": 1745575200861,
       "addedOn": 1745575200861,
-      "updatedOn": 1782200733003,
+      "updatedOn": 1794480196511,
       "imageDimensions": {
         "width": 900,
         "height": 600
@@ -3752,7 +3752,7 @@
       "starred": false,
       "publishOn": 1745575200709,
       "addedOn": 1745575200709,
-      "updatedOn": 1782200847606,
+      "updatedOn": 1794480259016,
       "imageDimensions": {
         "width": 1800,
         "height": 1200
@@ -3823,7 +3823,7 @@
       "starred": false,
       "publishOn": 1745571600330,
       "addedOn": 1745571600330,
-      "updatedOn": 1782215174511,
+      "updatedOn": 1794480274662,
       "imageDimensions": {
         "width": 1560,
         "height": 1040
@@ -3891,7 +3891,7 @@
       "starred": false,
       "publishOn": 1745568000310,
       "addedOn": 1745568000310,
-      "updatedOn": 1785801123805,
+      "updatedOn": 1794480302269,
       "imageDimensions": {
         "width": 1500,
         "height": 1000
@@ -3962,7 +3962,7 @@
       "starred": false,
       "publishOn": 1745566315953,
       "addedOn": 1745566315953,
-      "updatedOn": 1786487565438,
+      "updatedOn": 1794480322762,
       "imageDimensions": {
         "width": 1290,
         "height": 1204
@@ -4029,7 +4029,7 @@
       "starred": false,
       "publishOn": 1745539200195,
       "addedOn": 1745539200195,
-      "updatedOn": 1782215852713,
+      "updatedOn": 1794480336169,
       "imageDimensions": {
         "width": 750,
         "height": 500
@@ -4098,7 +4098,7 @@
       "starred": false,
       "publishOn": 1745452800331,
       "addedOn": 1745452800331,
-      "updatedOn": 1782215870643,
+      "updatedOn": 1794480350668,
       "imageDimensions": {
         "width": 1800,
         "height": 1200
@@ -4168,7 +4168,7 @@
       "starred": false,
       "publishOn": 1745309013736,
       "addedOn": 1745309013736,
-      "updatedOn": 1782216003566,
+      "updatedOn": 1794480376191,
       "imageDimensions": {
         "width": 1523,
         "height": 1015
@@ -4238,7 +4238,7 @@
       "starred": false,
       "publishOn": 1745193600297,
       "addedOn": 1745193600297,
-      "updatedOn": 1783546021189,
+      "updatedOn": 1794480403098,
       "imageDimensions": {
         "width": 1800,
         "height": 1200
@@ -4306,7 +4306,7 @@
       "starred": false,
       "publishOn": 1745107200027,
       "addedOn": 1745107200027,
-      "updatedOn": 1782216040160,
+      "updatedOn": 1794480418346,
       "imageDimensions": {
         "width": 1600,
         "height": 1200
@@ -4373,7 +4373,7 @@
       "starred": false,
       "publishOn": 1745020800010,
       "addedOn": 1745020800010,
-      "updatedOn": 1782216086999,
+      "updatedOn": 1794480434561,
       "imageDimensions": {
         "width": 1800,
         "height": 1200
@@ -4440,7 +4440,7 @@
       "starred": false,
       "publishOn": 1744934400198,
       "addedOn": 1744934400198,
-      "updatedOn": 1782220103562,
+      "updatedOn": 1794480481429,
       "imageDimensions": {
         "width": 1800,
         "height": 1200
