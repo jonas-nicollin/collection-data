@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-12T09:48:03.695Z",
-  "sourceHash": "6348e6a3f34edb16934f23a13f4e60c78ca56f968eb303658c661c33ed0c47a2",
+  "updatedAt": "2026-11-12T09:53:55.885Z",
+  "sourceHash": "2d6ed6b577799ec97b2a567a41338036f74b5d68a123b03b48ba3a80c02a89bc",
   "count": 156,
   "pages": 8,
   "items": [
@@ -9180,7 +9180,8 @@
         "Vernissage: 2026-09-16T18:00",
         "Membre: Joy de Rouvre",
         "Thématique: Peinture et dessin",
-        "Quartier: Eaux-Vives"
+        "Quartier: Eaux-Vives",
+        "Lieu: Arcadia"
       ],
       "excerpt": "",
       "location": {
@@ -9199,18 +9200,35 @@
       "starred": false,
       "publishOn": 1783634189675,
       "addedOn": 1783634189675,
-      "updatedOn": 1793702358960,
+      "updatedOn": 1794477076289,
       "imageDimensions": {
         "width": 2560,
         "height": 1707
       },
-      "venueMatch": {
-        "status": "ambiguous",
-        "matchedBy": "Membre",
-        "values": [
-          "arcadia",
-          "joy-de-rouvre"
-        ]
+      "venue": {
+        "key": "arcadia",
+        "title": "Arcadia",
+        "matchedBy": "Lieu",
+        "location": {
+          "addressTitle": "Arcadia",
+          "addressLine1": "Rue des Eaux-Vives 20",
+          "addressLine2": "1207 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2040668,
+          "mapLng": 6.1586818
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "9h30–18h30",
+            "mercredi": "9h30–18h30",
+            "jeudi": "9h30–18h30",
+            "vendredi": "9h30–18h30",
+            "samedi": "9h30–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -9681,7 +9699,8 @@
         "Artiste: Joy de Rouvre",
         "Membre: Joy de Rouvre",
         "Thématique: Design et arts décoratifs",
-        "Quartier: Eaux-Vives"
+        "Quartier: Eaux-Vives",
+        "Lieu: Arcadia"
       ],
       "excerpt": "",
       "location": {
@@ -9700,18 +9719,35 @@
       "starred": false,
       "publishOn": 1783551188614,
       "addedOn": 1783551188614,
-      "updatedOn": 1792928493010,
+      "updatedOn": 1794477140994,
       "imageDimensions": {
         "width": 2560,
         "height": 1707
       },
-      "venueMatch": {
-        "status": "ambiguous",
-        "matchedBy": "Membre",
-        "values": [
-          "arcadia",
-          "joy-de-rouvre"
-        ]
+      "venue": {
+        "key": "arcadia",
+        "title": "Arcadia",
+        "matchedBy": "Lieu",
+        "location": {
+          "addressTitle": "Arcadia",
+          "addressLine1": "Rue des Eaux-Vives 20",
+          "addressLine2": "1207 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2040668,
+          "mapLng": 6.1586818
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "9h30–18h30",
+            "mercredi": "9h30–18h30",
+            "jeudi": "9h30–18h30",
+            "vendredi": "9h30–18h30",
+            "samedi": "9h30–17h",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
