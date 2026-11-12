@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-11-12T10:08:14.139Z",
-  "sourceHash": "b4d613862764ec529bbe318d3afc297c0424d3567e60630a59019d79ebeef6ba",
+  "updatedAt": "2026-11-12T10:18:10.630Z",
+  "sourceHash": "7e5d3a255ff44d7615bc85a3f99f5e3187706306ff2598c3c7203d21c1ddd44d",
   "count": 93,
   "pages": 1,
   "items": [
@@ -189,7 +189,7 @@
       "starred": false,
       "publishOn": 1748421028846,
       "addedOn": 1748421028846,
-      "updatedOn": 1782197822608,
+      "updatedOn": 1794478119206,
       "imageDimensions": {
         "width": 3543,
         "height": 2365
@@ -257,7 +257,7 @@
       "starred": false,
       "publishOn": 1748304000813,
       "addedOn": 1748304000813,
-      "updatedOn": 1782197837567,
+      "updatedOn": 1794478237710,
       "imageDimensions": {
         "width": 1800,
         "height": 1200
@@ -327,7 +327,7 @@
       "starred": false,
       "publishOn": 1748302181143,
       "addedOn": 1748302181143,
-      "updatedOn": 1786461001016,
+      "updatedOn": 1794478320778,
       "imageDimensions": {
         "width": 1800,
         "height": 1350
@@ -396,7 +396,7 @@
       "starred": false,
       "publishOn": 1748301053564,
       "addedOn": 1748301053564,
-      "updatedOn": 1786461039374,
+      "updatedOn": 1794478449042,
       "imageDimensions": {
         "width": 1800,
         "height": 1198
@@ -466,7 +466,7 @@
       "starred": false,
       "publishOn": 1748296913647,
       "addedOn": 1748296913647,
-      "updatedOn": 1787513152440,
+      "updatedOn": 1794478675599,
       "imageDimensions": {
         "width": 2000,
         "height": 1333
