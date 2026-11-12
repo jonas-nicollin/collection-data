@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "gaw",
   "id": "gaw-locations",
-  "updatedAt": "2026-11-11T16:05:00.104Z",
-  "sourceHash": "385125d20f374d3869858eef391b1245d89226d0cc63b3fecd11ac2794b0a7a3",
+  "updatedAt": "2026-11-12T09:35:59.451Z",
+  "sourceHash": "e74f1233929f20890aa318deeed38a5f791f1e11f9fb7b8695a31508d57b25df",
   "count": 93,
   "items": [
     {
@@ -37,6 +37,7 @@
       "vendredi": "14h–19h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -80,6 +81,7 @@
       "vendredi": "9h30–18h30",
       "samedi": "9h30–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -123,6 +125,7 @@
       "vendredi": "9h–13h, 14h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "9h–13h, 14h–18h",
@@ -166,6 +169,7 @@
       "vendredi": "-",
       "samedi": "-",
       "dimanche": "-",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "",
@@ -209,6 +213,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "11h–18h30",
@@ -252,6 +257,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Sur rendez-vous",
@@ -295,6 +301,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "11h–18h30",
@@ -327,7 +334,7 @@
       "x": "",
       "youtube": "",
       "linkedin": "https://www.linkedin.com/company/aubertjansemgalerie/",
-      "vimeo": "",
+      "vimeo": "https://vimeo.com/aubertjansemgeneva",
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753288897738-QZSD0QPQGD4BJC7XEU0U/Geneva_Art_Week-Members-Aubert_Jansem_Geneve-Featured_Image-001.webp",
       "imagePosition": "50% 50%",
@@ -338,6 +345,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "Sur rendez-vous",
       "dimanche": "Sur rendez-vous",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -381,6 +389,7 @@
       "vendredi": "8h–12h, 13h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "8h–12h, 13h–18h",
@@ -424,6 +433,7 @@
       "vendredi": "8h–19h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -467,6 +477,9 @@
       "vendredi": "13h–18h",
       "samedi": "13h–18h",
       "dimanche": "13h–18h",
+      "aliases": [
+        "L’Arcade"
+      ],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -510,6 +523,7 @@
       "vendredi": "13h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -553,6 +567,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -596,6 +611,7 @@
       "vendredi": "Fermé",
       "samedi": "10h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -639,6 +655,7 @@
       "vendredi": "10h–13h, 14h–18h30",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -682,6 +699,7 @@
       "vendredi": "9h–17h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -725,6 +743,7 @@
       "vendredi": "10h30–18h30",
       "samedi": "11h–16h30",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -768,6 +787,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "14h–18h durant les expositions (ou sur rendez-vous)",
       "dimanche": "Sur rendez-vous",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -799,7 +819,7 @@
       "facebook": "https://www.facebook.com/espacel/?ref=bookmarks",
       "x": "",
       "youtube": "https://www.youtube.com/@espaceL",
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/espace-l-43953a250/",
       "vimeo": "",
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753375453766-C2JB9JGD5P2UA7RT3YH3/Geneva_Art_Week-Members-Espace_L-Thumbnail_Image-001.webp",
@@ -811,6 +831,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -854,6 +875,7 @@
       "vendredi": "-",
       "samedi": "-",
       "dimanche": "-",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "",
@@ -897,6 +919,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "11h–18h30",
@@ -940,6 +963,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -983,6 +1007,7 @@
       "vendredi": "Fermé",
       "samedi": "Fermé",
       "dimanche": "12h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1026,6 +1051,7 @@
       "vendredi": "Fermé",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1069,6 +1095,7 @@
       "vendredi": "9h30–12h, 14h–17h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1112,6 +1139,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "14h–18h et sur rendez-vous",
       "dimanche": "Sur rendez-vous",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "14h–17h",
@@ -1155,6 +1183,7 @@
       "vendredi": "10h–18h30",
       "samedi": "11h–17h30",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1198,6 +1227,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Sur rendez-vous",
@@ -1241,6 +1271,7 @@
       "vendredi": "14h–18h",
       "samedi": "11h–16h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1284,6 +1315,7 @@
       "vendredi": "11h–17h",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1327,6 +1359,7 @@
       "vendredi": "11h–18h",
       "samedi": "12h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1370,6 +1403,7 @@
       "vendredi": "14h–18h30",
       "samedi": "11h–13h, 14h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1413,6 +1447,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1456,6 +1491,7 @@
       "vendredi": "14h30–18h30",
       "samedi": "14h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1499,6 +1535,7 @@
       "vendredi": "12h–17h",
       "samedi": "14h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1542,6 +1579,7 @@
       "vendredi": "12h–19h",
       "samedi": "10h30–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1585,6 +1623,7 @@
       "vendredi": "14h–18h",
       "samedi": "11h–16h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1628,6 +1667,7 @@
       "vendredi": "10h–18h",
       "samedi": "14h–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "10h–18h",
@@ -1671,6 +1711,7 @@
       "vendredi": "14h30–18h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1714,6 +1755,7 @@
       "vendredi": "14h30–18h30",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1757,6 +1799,7 @@
       "vendredi": "10h–12h, 14h–19h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "14h–19h",
@@ -1800,6 +1843,7 @@
       "vendredi": "10h–18h30",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1843,6 +1887,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–18h30",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1886,6 +1931,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -1929,6 +1975,7 @@
       "vendredi": "10h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "10h–18h",
@@ -1972,6 +2019,7 @@
       "vendredi": "Fermé",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2015,6 +2063,7 @@
       "vendredi": "15h–18h et sur rendez-vous",
       "samedi": "18h–21h30",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Sur rendez-vous",
@@ -2058,6 +2107,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "11h–18h30",
@@ -2101,6 +2151,7 @@
       "vendredi": "11h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2144,6 +2195,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "11h–18h30",
@@ -2187,6 +2239,7 @@
       "vendredi": "10h–12h30, 14h–18h30",
       "samedi": "11h–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2217,8 +2270,8 @@
       "instagram": "https://www.instagram.com/lagalerie38/",
       "facebook": "https://www.facebook.com/lagalerie38.casablanca/",
       "x": "",
-      "youtube": "",
-      "linkedin": "",
+      "youtube": "https://www.youtube.com/@lagalerie3838",
+      "linkedin": "https://www.linkedin.com/company/la-galerie-38/posts/?feedView=all",
       "vimeo": "",
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/fc2a6eb9-d56b-424e-9f5c-22c177bd43cb/Geneva_Art_Week-Members-Galerie38.webp",
@@ -2230,6 +2283,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2273,6 +2327,7 @@
       "vendredi": "Non renseigné",
       "samedi": "Non renseigné",
       "dimanche": "Non renseigné",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Non renseigné",
@@ -2316,6 +2371,7 @@
       "vendredi": "15h–19h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2359,6 +2415,7 @@
       "vendredi": "-",
       "samedi": "14h–17h et sur rendez-vous",
       "dimanche": "-",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "",
@@ -2402,6 +2459,7 @@
       "vendredi": "Sur demande",
       "samedi": "13h–18h",
       "dimanche": "13h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2445,6 +2503,7 @@
       "vendredi": "10h30–18h30",
       "samedi": "10h30–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "14h30–18h30",
@@ -2488,6 +2547,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2531,6 +2591,7 @@
       "vendredi": "11h–19h",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2574,6 +2635,7 @@
       "vendredi": "11h–18h",
       "samedi": "10h–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2604,7 +2666,7 @@
       "instagram": "https://www.instagram.com/mahgeneve/",
       "facebook": "https://www.facebook.com/mahgeneve",
       "x": "",
-      "youtube": "",
+      "youtube": "http://www.youtube.com/user/mahgeneve",
       "linkedin": "",
       "vimeo": "",
       "artsy": "",
@@ -2617,6 +2679,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–18h",
       "dimanche": "11h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2660,6 +2723,7 @@
       "vendredi": "Fermé",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2703,6 +2767,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–18h",
       "dimanche": "11h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2733,7 +2798,7 @@
       "instagram": "https://www.instagram.com/museearianageneve",
       "facebook": "https://fr-fr.facebook.com/museearianageneve/",
       "x": "",
-      "youtube": "",
+      "youtube": "https://www.youtube.com/channel/UCmkuUumua4cR2S1m2tBNCMQ",
       "linkedin": "",
       "vimeo": "",
       "artsy": "",
@@ -2746,6 +2811,7 @@
       "vendredi": "10h–17h",
       "samedi": "10h–17h",
       "dimanche": "10h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2777,7 +2843,7 @@
       "facebook": "https://www.facebook.com/MuseeBarbierMueller/",
       "x": "",
       "youtube": "https://www.youtube.com/user/MuseeBarbierMueller",
-      "linkedin": "",
+      "linkedin": "https://ch.linkedin.com/company/musee-barbier-mueller",
       "vimeo": "",
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753435474129-U6AUH4J7N3YJQQAVIVTP/Geneva_Art_Week-Members-Musee_Barbier-Mueller-Thumbnail_Image-001.webp",
@@ -2789,6 +2855,7 @@
       "vendredi": "11h–17h",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "11h–17h",
@@ -2832,6 +2899,7 @@
       "vendredi": "Fermé",
       "samedi": "11h–18h",
       "dimanche": "11h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2863,7 +2931,7 @@
       "facebook": "https://www.facebook.com/MIR.MuseeInternationalDeLaReforme",
       "x": "",
       "youtube": "",
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/company/mir-musee-international-de-la-reforme/",
       "vimeo": "",
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1755613005466-5BKIDO7IBO0BC3DX7YL0/Geneva_Art_Week-Members-Musee_International_de_la_Reforme-Thumbnail_Image-001.webp",
@@ -2875,6 +2943,7 @@
       "vendredi": "10h–17h",
       "samedi": "10h–17h",
       "dimanche": "10h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -2918,6 +2987,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "11h–18h30",
@@ -2961,6 +3031,7 @@
       "vendredi": "10h–18h",
       "samedi": "Sur rendez-vous",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "10h–18h",
@@ -3004,6 +3075,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3047,6 +3119,7 @@
       "vendredi": "10h–19h",
       "samedi": "10h–19h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3090,6 +3163,7 @@
       "vendredi": "10h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "10h–18h",
@@ -3120,10 +3194,10 @@
       "instagram": "https://www.instagram.com/pacegallery/?hl=en",
       "facebook": "https://www.facebook.com/pacegallery/",
       "x": "",
-      "youtube": "",
-      "linkedin": "",
-      "vimeo": "",
-      "artsy": "",
+      "youtube": "https://www.youtube.com/channel/UCaHuA8TlLkcWpGPsNA7tuTw",
+      "linkedin": "https://www.linkedin.com/company/the-pace-gallery-llc/",
+      "vimeo": "https://vimeo.com/user58083363",
+      "artsy": "https://www.artsy.net/partner/pace-gallery",
       "image": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753435750342-1NEKV3PDAKP3RQSK1RT5/Geneva_Art_Week-Members-Pace_Gallery-Thumbnail_Image-001.webp",
       "imagePosition": "50% 50%",
       "lundi": "Fermé",
@@ -3133,6 +3207,7 @@
       "vendredi": "10h–18h",
       "samedi": "10h–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3176,6 +3251,7 @@
       "vendredi": "Fermé",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3219,6 +3295,7 @@
       "vendredi": "Sur RDV",
       "samedi": "Sur RDV",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3262,6 +3339,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "11h–18h30",
@@ -3305,6 +3383,9 @@
       "vendredi": "10h–17h",
       "samedi": "10h–17h",
       "dimanche": "10h–17h",
+      "aliases": [
+        "SaSA – Site archéologique Saint-Antoine"
+      ],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3348,6 +3429,9 @@
       "vendredi": "14h–19h",
       "samedi": "Sur rendez-vous",
       "dimanche": "Fermé",
+      "aliases": [
+        "Galerie Sébastien Bertrand"
+      ],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3391,6 +3475,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3421,8 +3506,8 @@
       "instagram": "https://www.instagram.com/societe_des_arts/",
       "facebook": "https://www.facebook.com/societedesarts",
       "x": "",
-      "youtube": "",
-      "linkedin": "",
+      "youtube": "https://www.youtube.com/channel/UCbIQyz26zd_uzGvO42Ir6tg",
+      "linkedin": "https://www.linkedin.com/company/soci%C3%A9t%C3%A9-arts-gen%C3%A8ve/posts/?feedView=all",
       "vimeo": "",
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/626eea41-37e7-44d3-abb5-37a3991dd311/Geneva_Art_Week-Members_2026-Socie%CC%81te%CC%81-des-Arts-de-Gene%CC%80ve.webp",
@@ -3434,6 +3519,7 @@
       "vendredi": "15h–19h",
       "samedi": "14h–18h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3477,6 +3563,7 @@
       "vendredi": "14h–20h",
       "samedi": "14h–20h",
       "dimanche": "14h–20h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3520,6 +3607,7 @@
       "vendredi": "14h–18h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3563,6 +3651,7 @@
       "vendredi": "19h–3h",
       "samedi": "00h–3h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3606,6 +3695,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Sur rendez-vous",
@@ -3649,6 +3739,7 @@
       "vendredi": "11h–18h30",
       "samedi": "12h–17h30",
       "dimanche": "Sur rendez-vous",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3692,6 +3783,7 @@
       "vendredi": "9h–17h ou sur rendez-vous",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "13h–18h ou sur rendez-vous",
@@ -3735,6 +3827,7 @@
       "vendredi": "-",
       "samedi": "-",
       "dimanche": "-",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "",
@@ -3778,6 +3871,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3821,6 +3915,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3851,8 +3946,8 @@
       "instagram": "https://www.instagram.com/wildegallery/",
       "facebook": "https://www.facebook.com/wildegallery/",
       "x": "",
-      "youtube": "",
-      "linkedin": "",
+      "youtube": "https://www.youtube.com/channel/UC0T6GuUI9H9HwiMou2yROVA/featured",
+      "linkedin": "https://www.linkedin.com/company/89040603/",
       "vimeo": "",
       "artsy": "https://www.artsy.net/partner/wilde",
       "image": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1753370415716-SOIWP1U6HTC4OUQRYVNO/Geneva_Art_Week-Members-Wilde-Thumbnail_Image-001.webp",
@@ -3864,6 +3959,7 @@
       "vendredi": "14h–18h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3892,10 +3988,10 @@
       "email": "info.head@hesge.ch",
       "website": "https://www.hesge.ch/head/",
       "instagram": "https://www.instagram.com/HEADGENEVE/",
-      "facebook": "",
+      "facebook": "https://www.facebook.com/head.geneve",
       "x": "",
-      "youtube": "",
-      "linkedin": "",
+      "youtube": "https://www.youtube.com/channel/UCfKHbcglV9Pp_AiebjO6soQ",
+      "linkedin": "https://www.linkedin.com/company/head-geneva-university-art-design/",
       "vimeo": "",
       "artsy": "",
       "image": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/9a928f8e-fe58-44bb-8749-7bf4eca9c764/Geneva_Art_Week-Members-Wisteria.webp",
@@ -3907,6 +4003,7 @@
       "vendredi": "Fermé",
       "samedi": "14h–19h",
       "dimanche": "14h–19h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3937,7 +4034,7 @@
       "instagram": "https://www.instagram.com/xippasgalleries/",
       "facebook": "https://www.facebook.com/xippasgalleriespage/",
       "x": "",
-      "youtube": "",
+      "youtube": "https://www.youtube.com/user/xippas/videos",
       "linkedin": "",
       "vimeo": "",
       "artsy": "",
@@ -3950,6 +4047,7 @@
       "vendredi": "10h–13h, 14h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "aliases": [],
       "openingHours": {
         "weekly": {
           "lundi": "Fermé",
@@ -3993,6 +4091,9 @@
       "vendredi": "00h–24h",
       "samedi": "00h–24h",
       "dimanche": "00h–24h",
+      "aliases": [
+        "Zabriskie"
+      ],
       "openingHours": {
         "weekly": {
           "lundi": "00h–24h",
