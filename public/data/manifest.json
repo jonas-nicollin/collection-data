@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "type": "collection-data-manifest",
-  "updatedAt": "2026-11-12T10:48:08.337Z",
+  "updatedAt": "2026-11-12T10:58:10.509Z",
   "files": {
     "anouck-mutsaerts/work-index.json": {
       "sourceHash": "58a798c3c4755fd15fc94d14a332a7a6aaa5c83cd089ea3a9b1281b67a7f0c45",
@@ -28,8 +28,8 @@
       "pages": 1
     },
     "gaw/membre.json": {
-      "sourceHash": "031c79252886132541ae064129543a450756e4dac5bca4cda0738a72d8005476",
-      "updatedAt": "2026-11-12T10:48:08.337Z",
+      "sourceHash": "a0977dab0637246c4aae857835aca8759c9c020666ccf1dd313498188b92c80c",
+      "updatedAt": "2026-11-12T10:58:10.509Z",
       "count": 93,
       "pages": 1
     },
