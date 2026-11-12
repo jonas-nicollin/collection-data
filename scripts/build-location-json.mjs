@@ -200,6 +200,12 @@ function normalizeLocation(row, config) {
   location.matchKey = toSlug(matchValue);
   location.slug = toSlug(getField(row, columns, 'slug') || matchValue);
 
+  // Opt-in, one alternate name per line. Commas remain ordinary text.
+  if (config.columns?.aliases) {
+    location.aliases = [...new Set(getField(row, columns, 'aliases')
+      .split(/\r?\n/).map(value => value.trim()).filter(Boolean))];
+  }
+
   const weekly = getField(row, columns, 'hours');
   const dated = getField(row, columns, 'datedHours');
   if (weekly || dated) {

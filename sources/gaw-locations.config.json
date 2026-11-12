@@ -3,7 +3,7 @@
   "type": "locations",
   "site": "gaw",
   "sourceType": "google-sheet-csv",
-  "sourceUrl": "https://docs.google.com/spreadsheets/d/1tl79x8Mt69yC_iVpmf5WobvS_UAER9xrs-lsF3-chpI/gviz/tq?tqx=out:csv&gid=2102861694",
+  "sourceUrl": "https://docs.google.com/spreadsheets/d/1tl79x8Mt69yC_iVpmf5WobvS_UAER9xrs-lsF3-chpI/gviz/tq?tqx=out:csv&gid=2102861694&headers=1",
   "output": "public/data/locations/gaw.json",
   "fallbackCountry": "Suisse",
   "match": {
@@ -11,6 +11,7 @@
     "normalize": "slug"
   },
   "columns": {
+    "aliases": ["Aliases"],
     "title": [
       "Location"
     ],

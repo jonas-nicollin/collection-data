@@ -1,0 +1,11 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {joinLocations} from '../scripts/lib/location-source.mjs';
+const native={addressLine1:'External street 1',mapLat:46,mapLng:6};
+const places=[{title:'Gallery',slug:'gallery',aliases:['Old name'],address1:'Central street 2',latitude:'46,2',longitude:'6,1'}];
+const options={tagPrefixes:['Lieu','Membre']};
+test('no option preserves existing consumer data',()=>{const items=[{title:'A'}];assert.equal(joinLocations(items,places,null),items)});
+test('alias match preserves native location and decimal coordinates',()=>{const [a]=joinLocations([{tags:['Lieu: Old name'],location:native}],places,options);assert.equal(a.location,native);assert.equal(a.venue.location.mapLat,46.2)});
+test('unknown explicit venue never inherits organiser location',()=>{const [a]=joinLocations([{tags:['Lieu: Elsewhere','Membre: Gallery'],location:native,venue:{key:'stale'}}],places,options);assert.equal(a.venue,undefined);assert.equal(a.location,native);assert.equal(a.venueMatch.matchedBy,'Lieu')});
+test('ambiguous alias fails closed',()=>{const [a]=joinLocations([{tags:['Lieu: Old name']}],[...places,{title:'Other',aliases:['Old name']}],options);assert.equal(a.venue,undefined);assert.equal(a.venueMatch.status,'ambiguous')});
+test('successful rejoin clears previous failure',()=>{const [a]=joinLocations([{tags:['Membre: Gallery'],venueMatch:{status:'unresolved'}}],places,options);assert.equal(a.venueMatch,undefined);assert.equal(a.venue.title,'Gallery')});

@@ -104,3 +104,12 @@ Location builds reject zero records by default; an intentionally empty source
 must set `allowEmpty: true`. This protects the last published payload when a
 source response is malformed. Location and collection rebuilds run separately;
 collection joins use the latest locations payload committed to the repository.
+
+### Optional location aliases
+
+`columns.aliases` maps an optional column containing one alternate place name
+per line. The builder emits `aliases` only when this mapping is configured.
+The location join accepts those names alongside title, slug and matchKey.
+Duplicate names belonging to different places remain ambiguous; no place is
+chosen arbitrarily. Native `location` stays unchanged unless replaceLocation
+is explicitly enabled. Rejoining clears obsolete venue/venueMatch diagnostics.

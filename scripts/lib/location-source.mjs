@@ -13,13 +13,17 @@ export function joinLocations(items, locations, options) {
   if (!options) return items;
   const index = new Map();
   for (const place of locations) {
-    for (const key of new Set([place.title, place.slug, place.matchKey].map(locationKey))) {
+    const names = [place.title, place.slug, place.matchKey,
+      ...(Array.isArray(place.aliases) ? place.aliases : [])];
+    for (const key of new Set(names.map(locationKey))) {
       if (!key) continue;
       const matches = index.get(key) || [];
       matches.push(place); index.set(key, matches);
     }
   }
   return items.map(item => {
+    // Rejoining must not retain a stale successful or unsuccessful match.
+    const {venue: previousVenue, venueMatch: previousMatch, ...sourceItem} = item;
     let values = [], matchedBy = options.matchField || '';
     if (options.matchField) values = [item[options.matchField]].filter(Boolean);
     else for (const prefix of options.tagPrefixes || []) {
@@ -30,7 +34,7 @@ export function joinLocations(items, locations, options) {
     }
     values = [...new Set(values.map(locationKey))];
     const matches = values.length === 1 ? index.get(values[0]) || [] : [];
-    if (matches.length !== 1) return {...item, venueMatch: {
+    if (matches.length !== 1) return {...sourceItem, venueMatch: {
       status: values.length > 1 || matches.length > 1 ? 'ambiguous' : 'unresolved',
       matchedBy, values
     }};
@@ -46,6 +50,6 @@ export function joinLocations(items, locations, options) {
     }
     const venue = {key: place.matchKey || place.slug, title: place.title,
       matchedBy, location, openingHours: place.openingHours || {weekly:{}, dates:{}}};
-    return {...item, ...(options.replaceLocation ? {location} : {}), venue};
+    return {...sourceItem, ...(options.replaceLocation ? {location} : {}), venue};
   });
 }

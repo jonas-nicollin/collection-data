@@ -25,8 +25,7 @@
       "url": "https://genevaartweek.com/membre?format=json",
       "locationSource": {
         "file": "public/data/locations/gaw.json",
-        "matchField": "title",
-        "replaceLocation": true
+        "matchField": "title"
       }
     },
     {
