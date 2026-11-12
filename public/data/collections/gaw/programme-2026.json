@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-12T09:37:54.151Z",
-  "sourceHash": "365a070afced050f5b99a16d32fb3502a2fd9de21347be7142ea1aac18753e48",
+  "updatedAt": "2026-11-12T09:48:03.695Z",
+  "sourceHash": "6348e6a3f34edb16934f23a13f4e60c78ca56f968eb303658c661c33ed0c47a2",
   "count": 156,
   "pages": 8,
   "items": [
@@ -1594,7 +1594,8 @@
         "Thématique: Sculpture et installation",
         "Thématique: Vidéo et arts numériques",
         "Thématique: Pratiques pluridisciplinaires",
-        "Quartier: Eaux-Vives"
+        "Quartier: Eaux-Vives",
+        "Lieu: SaSA – Site archéologique Saint-Antoine"
       ],
       "excerpt": "",
       "location": {
@@ -1613,18 +1614,35 @@
       "starred": false,
       "publishOn": 1786826254995,
       "addedOn": 1786826254995,
-      "updatedOn": 1792928493130,
+      "updatedOn": 1794476610818,
       "imageDimensions": {
         "width": 2657,
         "height": 1993
       },
-      "venueMatch": {
-        "status": "ambiguous",
-        "matchedBy": "Membre",
-        "values": [
-          "mamco",
-          "sasa-site-archeologique-saint-antoine"
-        ]
+      "venue": {
+        "key": "sasa",
+        "title": "SaSA",
+        "matchedBy": "Lieu",
+        "location": {
+          "addressTitle": "SaSA",
+          "addressLine1": "Esplanade Théodelinde",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.20028629999999,
+          "mapLng": 6.1513522
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–17h",
+            "mercredi": "10h–17h",
+            "jeudi": "10h–17h",
+            "vendredi": "10h–17h",
+            "samedi": "10h–17h",
+            "dimanche": "10h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -2402,7 +2420,8 @@
         "Thématique: Sculpture et installation",
         "Thématique: Vidéo et arts numériques",
         "Thématique: Pratiques pluridisciplinaires",
-        "Quartier: Eaux-Vives"
+        "Quartier: Eaux-Vives",
+        "Lieu: SaSA – Site archéologique Saint-Antoine"
       ],
       "excerpt": "",
       "location": {
@@ -2421,18 +2440,35 @@
       "starred": false,
       "publishOn": 1786231103492,
       "addedOn": 1786231103492,
-      "updatedOn": 1792928493165,
+      "updatedOn": 1794476671173,
       "imageDimensions": {
         "width": 2657,
         "height": 1993
       },
-      "venueMatch": {
-        "status": "ambiguous",
-        "matchedBy": "Membre",
-        "values": [
-          "mamco",
-          "sasa-site-archeologique-saint-antoine"
-        ]
+      "venue": {
+        "key": "sasa",
+        "title": "SaSA",
+        "matchedBy": "Lieu",
+        "location": {
+          "addressTitle": "SaSA",
+          "addressLine1": "Esplanade Théodelinde",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.20028629999999,
+          "mapLng": 6.1513522
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–17h",
+            "mercredi": "10h–17h",
+            "jeudi": "10h–17h",
+            "vendredi": "10h–17h",
+            "samedi": "10h–17h",
+            "dimanche": "10h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -10007,7 +10043,8 @@
         "Sélection: Art en Vieille-Ville",
         "Membre: SaSA – Site archéologique Saint-Antoine",
         "Quartier: Eaux-Vives",
-        "Sélection: Hero"
+        "Sélection: Hero",
+        "Lieu: SaSA – Site archéologique Saint-Antoine"
       ],
       "excerpt": "",
       "location": {
@@ -10026,18 +10063,35 @@
       "starred": false,
       "publishOn": 1783539286654,
       "addedOn": 1783539286654,
-      "updatedOn": 1793702545912,
+      "updatedOn": 1794476734019,
       "imageDimensions": {
         "width": 2657,
         "height": 1993
       },
-      "venueMatch": {
-        "status": "ambiguous",
-        "matchedBy": "Membre",
-        "values": [
-          "mamco",
-          "sasa-site-archeologique-saint-antoine"
-        ]
+      "venue": {
+        "key": "sasa",
+        "title": "SaSA",
+        "matchedBy": "Lieu",
+        "location": {
+          "addressTitle": "SaSA",
+          "addressLine1": "Esplanade Théodelinde",
+          "addressLine2": "1204 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.20028629999999,
+          "mapLng": 6.1513522
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "10h–17h",
+            "mercredi": "10h–17h",
+            "jeudi": "10h–17h",
+            "vendredi": "10h–17h",
+            "samedi": "10h–17h",
+            "dimanche": "10h–17h"
+          },
+          "dates": {}
+        }
       }
     },
     {
