@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-11-11T16:23:59.777Z",
-  "sourceHash": "7da63885426df3755dacd60b0eed5cd4af4235b2ecb7bc9a994becad99b06c65",
+  "updatedAt": "2026-11-12T09:37:54.223Z",
+  "sourceHash": "22cae8ec7e257e9f787fe6a086e840557293bcf8efc463337a262493e34695d4",
   "count": 93,
   "pages": 1,
   "items": [
@@ -35,12 +35,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Analix Forever",
-        "addressLine1": "Rue du Gothard 10",
-        "addressLine2": "1225 Chêne-Bourg",
-        "addressCountry": "Suisse",
+        "mapZoom": 13,
         "mapLat": 46.1948072,
-        "mapLng": 6.1918804
+        "mapLng": 6.1918804,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Analix Forever",
+        "addressLine1": "Rue du Gothard 10 ",
+        "addressLine2": "1225 Chêne-Bourg",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 1,
       "workflowState": 1,
@@ -101,12 +104,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Arcadia",
-        "addressLine1": "Rue des Eaux-Vives 20",
-        "addressLine2": "1207 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 14,
         "mapLat": 46.2040668,
-        "mapLng": 6.1586818
+        "mapLng": 6.1586818,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Arcadia",
+        "addressLine1": "Rue des Eaux-Vives 20 ",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 3,
       "workflowState": 1,
@@ -168,12 +174,15 @@
       ],
       "excerpt": "",
       "location": {
-        "addressTitle": "ArtHUG – Hôpitaux universitaires de Genève",
+        "mapZoom": 12,
+        "mapLat": 46.1959095,
+        "mapLng": 6.147964,
+        "markerLat": 46.1959095,
+        "markerLng": 6.147964,
+        "addressTitle": "ArtHUG - Hôpitaux universitaires de Genève",
         "addressLine1": "Boulevard de la Tour 8",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1959095,
-        "mapLng": 6.147964
+        "addressCountry": "Suisse"
       },
       "displayIndex": 4,
       "workflowState": 1,
@@ -233,12 +242,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Art Resonance Gallery",
-        "addressLine1": "Rue Rodolphe-Toepffer 11",
-        "addressLine2": "1206 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 12,
         "mapLat": 46.1986027,
-        "mapLng": 6.1539644
+        "mapLng": 6.1539644,
+        "markerLat": 46.1986027,
+        "markerLng": 6.1539644,
+        "addressTitle": "Art Resonance Gallery",
+        "addressLine1": "Rue Rodolphe-Toepffer 11 ",
+        "addressLine2": "1206 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 5,
       "workflowState": 1,
@@ -300,12 +312,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1863342,
+        "mapLng": 6.1422364,
+        "markerLat": 46.1863342,
+        "markerLng": 6.1422364,
         "addressTitle": "Atelier Galerie Kaolin",
         "addressLine1": "Avenue Cardinal-Mermillod 18",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1863342,
-        "mapLng": 6.1422364
+        "addressCountry": "Suisse"
       },
       "displayIndex": 6,
       "workflowState": 1,
@@ -366,12 +381,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1774056,
+        "mapLng": 6.1445234,
+        "markerLat": 46.1774056,
+        "markerLng": 6.1445234,
         "addressTitle": "Atelier Maison Potter",
         "addressLine1": "Chemin de Pinchat 22bis",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1774056,
-        "mapLng": 6.1445234
+        "addressCountry": "Suisse"
       },
       "displayIndex": 7,
       "workflowState": 1,
@@ -433,12 +451,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1806823,
+        "mapLng": 6.141282299999999,
+        "markerLat": 46.1806823,
+        "markerLng": 6.141282299999999,
         "addressTitle": "Atelier Nicolas Perrottet",
         "addressLine1": "Rue Joseph-Girard 16",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1806823,
-        "mapLng": 6.141282299999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 8,
       "workflowState": 1,
@@ -501,12 +522,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Aubert Jansem Genève",
-        "addressLine1": "Route des Jeunes 4ter",
-        "addressLine2": "1227 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 15,
         "mapLat": 46.1880367,
-        "mapLng": 6.1268962
+        "mapLng": 6.1268962,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Aubert Jansem",
+        "addressLine1": "Route des Jeunes 4ter ",
+        "addressLine2": "1227 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 9,
       "workflowState": 1,
@@ -570,12 +594,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "BAART",
-        "addressLine1": "Rue du Nant 6",
-        "addressLine2": "1207 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 12,
         "mapLat": 46.2019652,
-        "mapLng": 6.1600192
+        "mapLng": 6.1600192,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "BAART",
+        "addressLine1": "Rue du Nant 6 ",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 10,
       "workflowState": 1,
@@ -638,12 +665,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2103999,
+        "mapLng": 6.149202499999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Base Window",
         "addressLine1": "Rue de Monthoux 12",
         "addressLine2": "1201 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2103999,
-        "mapLng": 6.149202499999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 11,
       "workflowState": 1,
@@ -706,12 +736,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Centre d’Art Contemporain Genève",
+        "mapZoom": 12,
+        "mapLat": 46.2078407,
+        "mapLng": 6.145207,
+        "markerLat": 46.2078407,
+        "markerLng": 6.145207,
+        "addressTitle": "Centre d&#39;Art Contemporain Genève",
         "addressLine1": "Rue de Chantepoulet 1-3",
         "addressLine2": "1201 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2078407,
-        "mapLng": 6.145207
+        "addressCountry": "Suisse"
       },
       "displayIndex": 13,
       "workflowState": 1,
@@ -777,12 +810,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Centre d’édition contemporaine",
-        "addressLine1": "Rue des Rois 15",
-        "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 14,
         "mapLat": 46.20222709999999,
-        "mapLng": 6.138189799999999
+        "mapLng": 6.138189799999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Centre d&#39;édition contemporaine",
+        "addressLine1": "Rue des Rois 15 ",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 14,
       "workflowState": 1,
@@ -845,12 +881,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1988698,
+        "mapLng": 6.1452326,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Centre de la photographie Genève",
         "addressLine1": "Promenade des Bastions 8",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.19890213,
-        "mapLng": 6.145166397
+        "addressCountry": "Suisse"
       },
       "displayIndex": 15,
       "workflowState": 1,
@@ -910,12 +949,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2369152,
+        "mapLng": 6.2561596,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Collection du Crest",
         "addressLine1": "Route du Château-du-Crest 40",
         "addressLine2": "1254 Jussy",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2369152,
-        "mapLng": 6.2561596
+        "addressCountry": "Suisse"
       },
       "displayIndex": 17,
       "workflowState": 1,
@@ -976,12 +1018,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "De Jonckheere",
-        "addressLine1": "Rue de l'Hôtel-de-Ville 7",
-        "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 12,
         "mapLat": 46.2006739,
-        "mapLng": 6.1476339
+        "mapLng": 6.1476339,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "De Jonckheere",
+        "addressLine1": "Rue de l&#39;Hôtel-de-Ville 7",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 18,
       "workflowState": 1,
@@ -1042,12 +1087,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.196059,
+        "mapLng": 6.145803799999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Dimanche",
         "addressLine1": "Rue Micheli-du-Crest 2",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.196059,
-        "mapLng": 6.145803799999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 19,
       "workflowState": 1,
@@ -1112,12 +1160,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2009241,
+        "mapLng": 6.137485799999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Domum",
         "addressLine1": "Rue des Bains 61",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2009241,
-        "mapLng": 6.137485799999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 20,
       "workflowState": 1,
@@ -1178,12 +1229,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1800636,
+        "mapLng": 6.142471,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Espace 3353",
         "addressLine1": "Rue du Tunnel 9",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1800636,
-        "mapLng": 6.142471
+        "addressCountry": "Suisse"
       },
       "displayIndex": 21,
       "workflowState": 1,
@@ -1246,12 +1300,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.198065,
+        "mapLng": 6.136406,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Espace_L",
         "addressLine1": "Rue des Bains 23",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.198065,
-        "mapLng": 6.136406
+        "addressCountry": "Suisse"
       },
       "displayIndex": 22,
       "workflowState": 1,
@@ -1313,12 +1370,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1853998,
+        "mapLng": 6.1456988,
+        "markerLat": 46.1853998,
+        "markerLng": 6.1456988,
         "addressTitle": "Espace Dukat",
         "addressLine1": "Avenue Cardinal-Mermillod 21",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1853998,
-        "mapLng": 6.1456988
+        "addressCountry": "Suisse"
       },
       "displayIndex": 23,
       "workflowState": 1,
@@ -1379,12 +1439,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.18826,
+        "mapLng": 6.1323365,
+        "markerLat": 46.18826,
+        "markerLng": 6.1323365,
         "addressTitle": "Espace Jörg Brockmann",
         "addressLine1": "Rue des Noirettes 32",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.18826,
-        "mapLng": 6.1323365
+        "addressCountry": "Suisse"
       },
       "displayIndex": 25,
       "workflowState": 1,
@@ -1446,12 +1509,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.17122370000001,
+        "mapLng": 6.135657699999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Ferme de la Chapelle",
         "addressLine1": "Route de La-Chapelle 39",
         "addressLine2": "1212 Lancy",
-        "addressCountry": "Suisse",
-        "mapLat": 46.17122370000001,
-        "mapLng": 6.135657699999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 26,
       "workflowState": 1,
@@ -1510,12 +1576,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "FMAC – Fonds d’art contemporain de la Ville de Genève",
+        "mapZoom": 12,
+        "mapLat": 46.2025598,
+        "mapLng": 6.1350337,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "FMAC - Fonds d&#39;art contemporain de la Ville de Genève",
         "addressLine1": "Chemin du 23-Août 5",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2025598,
-        "mapLng": 6.1350337
+        "addressCountry": "Suisse"
       },
       "displayIndex": 27,
       "workflowState": 1,
@@ -1574,12 +1643,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1742431,
+        "mapLng": 6.1352809,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Fondation Bruckner",
         "addressLine1": "Chemin de Grange-Collomb 38",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1742431,
-        "mapLng": 6.1352809
+        "addressCountry": "Suisse"
       },
       "displayIndex": 28,
       "workflowState": 1,
@@ -1641,12 +1713,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20793690000001,
+        "mapLng": 6.140896100000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Fondation WRP",
         "addressLine1": "Rue Argand 3",
         "addressLine2": "1201 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.20793690000001,
-        "mapLng": 6.140896100000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 29,
       "workflowState": 1,
@@ -1705,12 +1780,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20396330000001,
+        "mapLng": 6.135971,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Forde",
         "addressLine1": "Rue de la Coulouvrenière 11",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.20396330000001,
-        "mapLng": 6.135971
+        "addressCountry": "Suisse"
       },
       "displayIndex": 30,
       "workflowState": 1,
@@ -1773,12 +1851,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1985036,
+        "mapLng": 6.1388396,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Galerie Fabienne Levy",
         "addressLine1": "Rue des Vieux-Grenadiers 2",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1985036,
-        "mapLng": 6.1388396
+        "addressCountry": "Suisse"
       },
       "displayIndex": 32,
       "workflowState": 1,
@@ -1842,12 +1923,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1863871,
+        "mapLng": 6.14012,
+        "markerLat": 46.1806823,
+        "markerLng": 6.141282299999999,
         "addressTitle": "Galerie Fada",
         "addressLine1": "Rue Saint-Victor 3",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1863871,
-        "mapLng": 6.14012
+        "addressCountry": "Suisse"
       },
       "displayIndex": 33,
       "workflowState": 1,
@@ -1909,12 +1993,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1854849,
+        "mapLng": 6.1403136,
+        "markerLat": 46.1854849,
+        "markerLng": 6.1403136,
         "addressTitle": "Galerie h",
         "addressLine1": "Rue Saint-Victor 21",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1854849,
-        "mapLng": 6.1403136
+        "addressCountry": "Suisse"
       },
       "displayIndex": 34,
       "workflowState": 1,
@@ -1978,12 +2065,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 13,
+        "mapLat": 46.1983213,
+        "mapLng": 6.137031299999999,
+        "markerLat": 46.1983213,
+        "markerLng": 6.137031299999999,
         "addressTitle": "Galerie Heinzer Reszler",
         "addressLine1": "Rue des Bains 22-24",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1983213,
-        "mapLng": 6.137031299999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 35,
       "workflowState": 1,
@@ -2044,12 +2134,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Galerie Lange + Pult",
+        "mapZoom": 12,
+        "mapLat": 46.1983213,
+        "mapLng": 6.1370313,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie lange &#43; pult",
         "addressLine1": "Rue des Bains 22",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1983213,
-        "mapLng": 6.1370313
+        "addressCountry": "Suisse"
       },
       "displayIndex": 36,
       "workflowState": 1,
@@ -2112,12 +2205,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2016042,
+        "mapLng": 6.140503799999999,
+        "markerLat": 46.2016042,
+        "markerLng": 6.140503799999999,
         "addressTitle": "Galerie Latham",
         "addressLine1": "Boulevard Georges-Favon 19",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2016042,
-        "mapLng": 6.140503799999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 37,
       "workflowState": 1,
@@ -2180,12 +2276,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1978488,
+        "mapLng": 6.1358049,
+        "markerLat": 46.1978488,
+        "markerLng": 6.1358049,
         "addressTitle": "Galerie Ligne Treize",
         "addressLine1": "Boulevard Carl-Vogt 52",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1978488,
-        "mapLng": 6.1358049
+        "addressCountry": "Suisse"
       },
       "displayIndex": 38,
       "workflowState": 1,
@@ -2248,12 +2347,15 @@
       ],
       "excerpt": "",
       "location": {
-        "addressTitle": "Galerie Marianne Brand",
+        "mapZoom": 12,
+        "mapLat": 46.1825548,
+        "mapLng": 6.1410136,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Marianne Brand",
         "addressLine1": "Rue Ancienne 20",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1825548,
-        "mapLng": 6.1410136
+        "addressCountry": "Suisse"
       },
       "displayIndex": 39,
       "workflowState": 1,
@@ -2315,12 +2417,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1985419365971,
+        "mapLng": 6.149252345782545,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Galerie Mezzanin",
         "addressLine1": "Rue des Maraîchers 63",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1985419365971,
-        "mapLng": 6.149252345782545
+        "addressCountry": "Suisse"
       },
       "displayIndex": 40,
       "workflowState": 1,
@@ -2382,12 +2487,15 @@
       ],
       "excerpt": "",
       "location": {
-        "addressTitle": "Galerie Papiers Gras",
-        "addressLine1": "Place de l'Ile 1",
-        "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 12,
         "mapLat": 46.2047293,
-        "mapLng": 6.1418877
+        "mapLng": 6.1418877,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Papiers Gras",
+        "addressLine1": "Place de l&#39;Ile 1",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 41,
       "workflowState": 1,
@@ -2446,12 +2554,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1854889,
+        "mapLng": 6.1403222,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Galerie Peter Kammermann",
         "addressLine1": "Rue Saint-Victor 21",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1854889,
-        "mapLng": 6.1403222
+        "addressCountry": "Suisse"
       },
       "displayIndex": 42,
       "workflowState": 1,
@@ -2515,12 +2626,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2024371,
+        "mapLng": 6.144836999999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Galerie Polomarco",
         "addressLine1": "Grand-Rue 5",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2024371,
-        "mapLng": 6.144836999999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 43,
       "workflowState": 1,
@@ -2583,12 +2697,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Galerie Rosa Turetsky",
-        "addressLine1": "Grand-Rue 25",
-        "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 15,
         "mapLat": 46.2017889,
-        "mapLng": 6.146338600000001
+        "mapLng": 6.146338600000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Rosa Turetsky ",
+        "addressLine1": "Grand-Rue 25 ",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 44,
       "workflowState": 1,
@@ -2651,12 +2768,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1849465,
+        "mapLng": 6.1423862,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Galerie Séries Rares",
         "addressLine1": "Rue Vautier 15",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1849465,
-        "mapLng": 6.1423862
+        "addressCountry": "Suisse"
       },
       "displayIndex": 45,
       "workflowState": 1,
@@ -2716,12 +2836,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 14,
+        "mapLat": 46.20102869999999,
+        "mapLng": 6.1459188,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Galerie Sonia Zannettacci",
         "addressLine1": "Rue Henri-Fazy 4",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.20102869999999,
-        "mapLng": 6.1459188
+        "addressCountry": "Suisse"
       },
       "displayIndex": 46,
       "workflowState": 1,
@@ -2780,12 +2903,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Gowen",
+        "mapZoom": 12,
+        "mapLat": 46.2018792,
+        "mapLng": 6.146126499999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "GOWEN",
         "addressLine1": "Grand-Rue 23",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2018792,
-        "mapLng": 6.146126499999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 47,
       "workflowState": 1,
@@ -2844,12 +2970,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1993532,
+        "mapLng": 6.148347800000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Gutknecht Gallery",
         "addressLine1": "Rue Saint-Léger 28",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1993532,
-        "mapLng": 6.148347800000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 48,
       "workflowState": 1,
@@ -2913,12 +3042,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Halle Nord",
-        "addressLine1": "Place de l'Ile 1",
-        "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 12,
         "mapLat": 46.204655,
-        "mapLng": 6.1410144
+        "mapLng": 6.1410144,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Halle Nord",
+        "addressLine1": "Place de l&#39;Ile 1",
+        "addressLine2": "1204 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 49,
       "workflowState": 1,
@@ -2982,12 +3114,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "HiFlow",
+        "mapZoom": 13,
+        "mapLat": 46.1647721,
+        "mapLng": 6.103385,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Hiflow",
         "addressLine1": "Chemin du Champ-des-Filles 36A",
         "addressLine2": "1228 Plan-les-Ouates",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1647721,
-        "mapLng": 6.103385
+        "addressCountry": "Suisse"
       },
       "displayIndex": 50,
       "workflowState": 1,
@@ -3047,12 +3182,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2101883,
+        "mapLng": 6.1406021,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Kissed Then Burned",
         "addressLine1": "Rue des Amis",
         "addressLine2": "1201 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2101883,
-        "mapLng": 6.1406021
+        "addressCountry": "Suisse"
       },
       "displayIndex": 51,
       "workflowState": 1,
@@ -3111,10 +3249,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1774056,
+        "mapLng": 6.1445234,
+        "markerLat": 46.1774056,
+        "markerLng": 6.1445234,
         "addressTitle": "Kreëmart",
         "addressLine1": "",
         "addressLine2": "",
-        "addressCountry": "Suisse"
+        "addressCountry": ""
       },
       "displayIndex": 52,
       "workflowState": 1,
@@ -3174,12 +3317,15 @@
       ],
       "excerpt": "",
       "location": {
-        "addressTitle": "L’Antre-Peaux",
+        "mapZoom": 12,
+        "mapLat": 46.1811256,
+        "mapLng": 6.1409856,
+        "markerLat": 46.1811256,
+        "markerLng": 6.1409856,
+        "addressTitle": "L&#39;Antre-Peaux",
         "addressLine1": "Rue Ancienne 43",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1811256,
-        "mapLng": 6.1409856
+        "addressCountry": "Suisse"
       },
       "displayIndex": 53,
       "workflowState": 1,
@@ -3242,12 +3388,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "L’Appartement",
+        "mapZoom": 12,
+        "mapLat": 46.2036322,
+        "mapLng": 6.154614899999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "L&#39;Appartement",
         "addressLine1": "Rue Pierre-Fatio 5",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2036322,
-        "mapLng": 6.154614899999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 54,
       "workflowState": 1,
@@ -3310,12 +3459,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1849409,
+        "mapLng": 6.140495100000001,
+        "markerLat": 46.1849409,
+        "markerLng": 6.140495100000001,
         "addressTitle": "L’Échoppe des Arts",
         "addressLine1": "Place du Temple 9",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1849409,
-        "mapLng": 6.140495100000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 55,
       "workflowState": 1,
@@ -3378,12 +3530,15 @@
       ],
       "excerpt": "",
       "location": {
-        "addressTitle": "L’Exemplaire",
+        "mapZoom": 12,
+        "mapLat": 46.2017889,
+        "mapLng": 6.146338600000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "L&#39;Exemplaire",
         "addressLine1": "Grand-Rue 25",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2017889,
-        "mapLng": 6.146338600000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 56,
       "workflowState": 1,
@@ -3442,12 +3597,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984548,
+        "mapLng": 6.1371483,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "La Galerie 38",
         "addressLine1": "Rue des Bains 24",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1984548,
-        "mapLng": 6.1371483
+        "addressCountry": "Suisse"
       },
       "displayIndex": 57,
       "workflowState": 1,
@@ -3509,12 +3667,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1989327,
+        "mapLng": 6.1381708,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Le Commun",
         "addressLine1": "Rue des Vieux-Grenadiers 10",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1989327,
-        "mapLng": 6.1381708
+        "addressCountry": "Suisse"
       },
       "displayIndex": 60,
       "workflowState": 1,
@@ -3576,12 +3737,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2014221,
+        "mapLng": 6.1311138,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Le Labo",
         "addressLine1": "Boulevard de Saint-Georges 5",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2014221,
-        "mapLng": 6.1311138
+        "addressCountry": "Suisse"
       },
       "displayIndex": 61,
       "workflowState": 1,
@@ -3644,12 +3808,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Le Salon Vert",
+        "mapZoom": 14,
+        "mapLat": 46.18253379999999,
+        "mapLng": 6.1413501,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Galerie Le Salon Vert",
         "addressLine1": "Rue Ancienne 15",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.18253379999999,
-        "mapLng": 6.1413501
+        "addressCountry": "Suisse"
       },
       "displayIndex": 62,
       "workflowState": 1,
@@ -3709,12 +3876,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1780912,
+        "mapLng": 6.1199192,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Le Trou",
         "addressLine1": "Chemin des Semailles 15",
         "addressLine2": "1212 Lancy",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1780912,
-        "mapLng": 6.1199192
+        "addressCountry": "Suisse"
       },
       "displayIndex": 63,
       "workflowState": 1,
@@ -3777,12 +3947,15 @@
       ],
       "excerpt": "",
       "location": {
-        "addressTitle": "Les Insolites",
+        "mapZoom": 12,
+        "mapLat": 46.1825156,
+        "mapLng": 6.140999799999999,
+        "markerLat": 46.1825156,
+        "markerLng": 6.140999799999999,
+        "addressTitle": "Lesa Insolites",
         "addressLine1": "Rue Ancienne 22",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1825156,
-        "mapLng": 6.140999799999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 64,
       "workflowState": 1,
@@ -3841,12 +4014,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "LiveInYourHead",
-        "addressLine1": "Boulevard James-Fazy 15",
-        "addressLine2": "1201 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 12,
         "mapLat": 46.2089158,
-        "mapLng": 6.140983599999999
+        "mapLng": 6.140983599999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "LiveInYourHead",
+        "addressLine1": "Boulevard James-Fazy 15 ",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 65,
       "workflowState": 1,
@@ -3907,12 +4083,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 13,
+        "mapLat": 46.2010251,
+        "mapLng": 6.137069200000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Lovay Fine Arts",
         "addressLine1": "Rue des Sablons 4",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2010251,
-        "mapLng": 6.137069200000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 66,
       "workflowState": 1,
@@ -3974,12 +4153,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2017889,
+        "mapLng": 6.146338600000001,
+        "markerLat": 46.2017889,
+        "markerLng": 6.146338600000001,
         "addressTitle": "MABE Gallery",
         "addressLine1": "Grand-Rue 25",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2017889,
-        "mapLng": 6.146338600000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 67,
       "workflowState": 1,
@@ -4041,12 +4223,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.199284,
+        "mapLng": 6.1515081,
+        "markerLat": 46.199284,
+        "markerLng": 6.1515081,
         "addressTitle": "MAH – Musée d’Art et d’Histoire de Genève",
         "addressLine1": "Rue Charles-Galland 2",
         "addressLine2": "1206 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.199284,
-        "mapLng": 6.1515081
+        "addressCountry": "Suisse"
       },
       "displayIndex": 68,
       "workflowState": 1,
@@ -4106,12 +4291,15 @@
       ],
       "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
       "location": {
+        "mapZoom": 16,
+        "mapLat": 46.1989327,
+        "mapLng": 6.1381708,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "MAMCO",
         "addressLine1": "Rue des Vieux-Grenadiers 10",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1989327,
-        "mapLng": 6.1381708
+        "addressCountry": "Suisse"
       },
       "displayIndex": 69,
       "workflowState": 1,
@@ -4170,12 +4358,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1998122,
+        "mapLng": 6.1329369,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "MEG – Musée d’Ethnographie Genève",
         "addressLine1": "27 Boulevard Carl-Vogt",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1998122,
-        "mapLng": 6.1329369
+        "addressCountry": "Suisse"
       },
       "displayIndex": 70,
       "workflowState": 1,
@@ -4234,12 +4425,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2253381,
+        "mapLng": 6.138763399999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Musée Ariana",
         "addressLine1": "Avenue de la Paix 10",
         "addressLine2": "1202 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2253381,
-        "mapLng": 6.138763399999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 71,
       "workflowState": 1,
@@ -4301,12 +4495,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2020534,
+        "mapLng": 6.1465231,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Musée Barbier-Mueller",
         "addressLine1": "Rue Jean-Calvin 10",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2020534,
-        "mapLng": 6.1465231
+        "addressCountry": "Suisse"
       },
       "displayIndex": 72,
       "workflowState": 1,
@@ -4366,12 +4563,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Musée de Carouge",
-        "addressLine1": "Place de Sardaigne 2",
-        "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
+        "mapZoom": 15,
         "mapLat": 46.1843684,
-        "mapLng": 6.1391744
+        "mapLng": 6.1391744,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Musée de Carouge",
+        "addressLine1": "Place de Sardaigne 2 ",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 73,
       "workflowState": 1,
@@ -4430,12 +4630,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20154120000001,
+        "mapLng": 6.148230300000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Musée International de la Réforme",
         "addressLine1": "Cours de Saint-Pierre 10",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.20154120000001,
-        "mapLng": 6.148230300000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 74,
       "workflowState": 1,
@@ -4497,12 +4700,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1805731,
+        "mapLng": 6.1405248,
+        "markerLat": 46.1805731,
+        "markerLng": 6.1405248,
         "addressTitle": "NOV Gallery",
         "addressLine1": "Rue Joseph-Girard 4",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1805731,
-        "mapLng": 6.1405248
+        "addressCountry": "Suisse"
       },
       "displayIndex": 75,
       "workflowState": 1,
@@ -4562,12 +4768,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Olivier Varenne Art Moderne & Contemporain",
+        "mapZoom": 12,
+        "mapLat": 46.1990342,
+        "mapLng": 6.1371521,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Olivier Varenne – Art Moderne &amp; Contemporain",
         "addressLine1": "Rue des Bains 37-39",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1990342,
-        "mapLng": 6.1371521
+        "addressCountry": "Suisse"
       },
       "displayIndex": 76,
       "workflowState": 1,
@@ -4630,12 +4839,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984412,
+        "mapLng": 6.137841600000001,
+        "markerLat": 46.1984412,
+        "markerLng": 6.137841600000001,
         "addressTitle": "Olizane",
         "addressLine1": "Rue des Vieux-Grenadiers 11",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1984412,
-        "mapLng": 6.137841600000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 77,
       "workflowState": 1,
@@ -4698,12 +4910,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Opera Gallery",
+        "mapZoom": 14,
+        "mapLat": 46.2030477,
+        "mapLng": 6.1498329,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Opera Gallery ",
         "addressLine1": "Place de Longemalle 10-12",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2030477,
-        "mapLng": 6.1498329
+        "addressCountry": "Suisse"
       },
       "displayIndex": 78,
       "workflowState": 1,
@@ -4766,12 +4981,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.203668,
+        "mapLng": 6.155145699999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Ormond Editions",
         "addressLine1": "Rue de la Scie 4-6",
         "addressLine2": "1207 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.203668,
-        "mapLng": 6.155145699999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 79,
       "workflowState": 1,
@@ -4835,12 +5053,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Pace Gallery",
-        "addressLine1": "Quai des Bergues 15",
-        "addressLine2": "1201 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 16,
         "mapLat": 46.20621930000001,
-        "mapLng": 6.144206100000001
+        "mapLng": 6.144206100000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Pace Gallery",
+        "addressLine1": "Quai des Bergues 15 ",
+        "addressLine2": "1201 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 80,
       "workflowState": 1,
@@ -4906,12 +5127,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "PAC(O) – Projets Artistiques Collaboratifs (et Orientations)",
+        "mapZoom": 12,
+        "mapLat": 46.1809357,
+        "mapLng": 6.136984300000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "PAC(O) - projets artistiques collaboratifs (et orientations)",
         "addressLine1": "Rue Jacques-Grosselin 50C",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1809357,
-        "mapLng": 6.136984300000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 81,
       "workflowState": 1,
@@ -4972,12 +5196,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 14,
+        "mapLat": 46.19986779999999,
+        "mapLng": 6.1388893,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Philippe Cramer",
         "addressLine1": "Rue de la Muse 8",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.19986779999999,
-        "mapLng": 6.1388893
+        "addressCountry": "Suisse"
       },
       "displayIndex": 82,
       "workflowState": 1,
@@ -5037,12 +5264,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.183844,
+        "mapLng": 6.140274,
+        "markerLat": 46.183844,
+        "markerLng": 6.140274,
         "addressTitle": "Poesis",
         "addressLine1": "Place du Marché 15",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.183844,
-        "mapLng": 6.140274
+        "addressCountry": "Suisse"
       },
       "displayIndex": 83,
       "workflowState": 1,
@@ -5104,12 +5334,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.20028629999999,
+        "mapLng": 6.1513522,
+        "markerLat": 46.20028629999999,
+        "markerLng": 6.1513522,
         "addressTitle": "SaSA",
         "addressLine1": "Esplanade Théodelinde",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.20028629999999,
-        "mapLng": 6.1513522
+        "addressCountry": "Suisse"
       },
       "displayIndex": 84,
       "workflowState": 1,
@@ -5172,12 +5405,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Sébastien Bertrand",
+        "mapZoom": 15,
+        "mapLat": 46.2048237,
+        "mapLng": 6.158385399999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Sébastien Betrand",
         "addressLine1": "Rue du Cécile-Bieler Butticaz 16",
         "addressLine2": "1207 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2048237,
-        "mapLng": 6.158385399999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 85,
       "workflowState": 1,
@@ -5237,12 +5473,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1984082,
+        "mapLng": 6.1380007,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Skopia / P.-H. Jaccaud",
         "addressLine1": "Rue des Vieux-Grenadiers 9",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1984082,
-        "mapLng": 6.1380007
+        "addressCountry": "Suisse"
       },
       "displayIndex": 87,
       "workflowState": 1,
@@ -5307,12 +5546,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Société des Arts de Genève",
-        "addressLine1": "Rue de l'Athénée 2",
-        "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 15,
         "mapLat": 46.198555,
-        "mapLng": 6.1482245
+        "mapLng": 6.1482245,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Société des Arts de Genève",
+        "addressLine1": "Rue de l&#39;Athénée 2 ",
+        "addressLine2": "1205 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 88,
       "workflowState": 1,
@@ -5373,12 +5615,15 @@
       ],
       "excerpt": "",
       "location": {
-        "addressTitle": "Soma",
-        "addressLine1": "Rue de l'Avenir 32",
-        "addressLine2": "1207 Genève",
-        "addressCountry": "Suisse",
+        "mapZoom": 12,
         "mapLat": 46.2046406,
-        "mapLng": 6.1619958
+        "mapLng": 6.1619958,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "SOMA",
+        "addressLine1": "Rue de l&#39;Avenir 32",
+        "addressLine2": "1207 Genève",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 89,
       "workflowState": 1,
@@ -5441,12 +5686,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.185936,
+        "mapLng": 6.140821999999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Stratégies obliques",
         "addressLine1": "Rue Saint-Joseph 16",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.185936,
-        "mapLng": 6.140821999999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 90,
       "workflowState": 1,
@@ -5505,12 +5753,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.17923630000001,
+        "mapLng": 6.1361982,
+        "markerLat": 46.17923630000001,
+        "markerLng": 6.1361982,
         "addressTitle": "Studiobinichain",
         "addressLine1": "Chemin de la Marbrerie 13",
         "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
-        "mapLat": 46.17923630000001,
-        "mapLng": 6.1361982
+        "addressCountry": "Suisse"
       },
       "displayIndex": 91,
       "workflowState": 1,
@@ -5571,12 +5822,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 47.14619010000001,
+        "mapLng": 7.255491800000001,
+        "markerLat": 46.1774056,
+        "markerLng": 6.1445234,
         "addressTitle": "Swissceramics",
         "addressLine1": "Rue de la Gurzelen 5",
         "addressLine2": "2502 Bienne",
-        "addressCountry": "Suisse",
-        "mapLat": 47.14619010000001,
-        "mapLng": 7.255491800000001
+        "addressCountry": "Suisse"
       },
       "displayIndex": 92,
       "workflowState": 1,
@@ -5639,12 +5893,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.200413,
+        "mapLng": 6.138135699999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Taste Contemporary",
         "addressLine1": "Rue du Vieux-Billard 7",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.200413,
-        "mapLng": 6.138135699999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 93,
       "workflowState": 1,
@@ -5707,12 +5964,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Teo Jakob",
-        "addressLine1": "Place de l'Octroi 8",
-        "addressLine2": "1227 Carouge",
-        "addressCountry": "Suisse",
+        "mapZoom": 12,
         "mapLat": 46.1878743,
-        "mapLng": 6.140251200000001
+        "mapLng": 6.140251200000001,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "teo jakob",
+        "addressLine1": "Place de l&#39;Octroi 8",
+        "addressLine2": "1227 Carouge",
+        "addressCountry": "Suisse"
       },
       "displayIndex": 94,
       "workflowState": 1,
@@ -5775,12 +6035,15 @@
       ],
       "excerpt": "",
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.201308,
+        "mapLng": 6.125519499999999,
+        "markerLat": 46.201308,
+        "markerLng": 6.125519499999999,
         "addressTitle": "Usine Kugler",
         "addressLine1": "Avenue de la Jonction 19",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.201308,
-        "mapLng": 6.125519499999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 95,
       "workflowState": 1,
@@ -5842,12 +6105,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1869807,
+        "mapLng": 6.1222188,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Villa Bernasconi",
         "addressLine1": "Route du Grand-Lancy 8",
         "addressLine2": "1212 Lancy",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1869807,
-        "mapLng": 6.1222188
+        "addressCountry": "Suisse"
       },
       "displayIndex": 97,
       "workflowState": 1,
@@ -5908,12 +6174,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Villa du Parc",
-        "addressLine1": "Rue de Genève 12",
-        "addressLine2": "74100 Annemasse",
-        "addressCountry": "France",
+        "mapZoom": 16,
         "mapLat": 46.1934799,
-        "mapLng": 6.230932699999999
+        "mapLng": 6.230932699999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Villa du Parc",
+        "addressLine1": "Rue de Genève 12 ",
+        "addressLine2": "74100 Annemasse ",
+        "addressCountry": "France"
       },
       "displayIndex": 98,
       "workflowState": 1,
@@ -5977,12 +6246,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.2016042,
+        "mapLng": 6.140503799999999,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Wilde",
         "addressLine1": "Boulevard Georges-Favon 19",
         "addressLine2": "1204 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2016042,
-        "mapLng": 6.140503799999999
+        "addressCountry": "Suisse"
       },
       "displayIndex": 99,
       "workflowState": 1,
@@ -6042,12 +6314,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 12,
+        "mapLat": 46.1839897,
+        "mapLng": 6.1213241,
+        "markerLat": 46.1839897,
+        "markerLng": 6.1213241,
         "addressTitle": "Wisteria",
         "addressLine1": "Route du Grand-Lancy 62",
         "addressLine2": "1212 Lancy",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1839897,
-        "mapLng": 6.1213241
+        "addressCountry": "Suisse"
       },
       "displayIndex": 100,
       "workflowState": 1,
@@ -6110,12 +6385,15 @@
       ],
       "excerpt": null,
       "location": {
+        "mapZoom": 13,
+        "mapLat": 46.2009528,
+        "mapLng": 6.137029,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
         "addressTitle": "Xippas",
         "addressLine1": "Rue des Sablons 6",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.2009528,
-        "mapLng": 6.137029
+        "addressCountry": "Suisse"
       },
       "displayIndex": 101,
       "workflowState": 1,
@@ -6176,12 +6454,15 @@
       ],
       "excerpt": null,
       "location": {
-        "addressTitle": "Zabriskie Point",
+        "mapZoom": 13,
+        "mapLat": 46.1978601,
+        "mapLng": 6.1425482,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "Zabriskie",
         "addressLine1": "Rond-Point de Plainpalais",
         "addressLine2": "1205 Genève",
-        "addressCountry": "Suisse",
-        "mapLat": 46.1978601,
-        "mapLng": 6.1425482
+        "addressCountry": "Suisse"
       },
       "displayIndex": 102,
       "workflowState": 1,

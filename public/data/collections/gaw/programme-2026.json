@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-11T16:23:59.803Z",
-  "sourceHash": "d2ae388c13f1a27abb622ca494ced8a5ca4f637c0c9ec9f246a1a154632202e3",
+  "updatedAt": "2026-11-12T09:37:54.151Z",
+  "sourceHash": "365a070afced050f5b99a16d32fb3502a2fd9de21347be7142ea1aac18753e48",
   "count": 156,
   "pages": 8,
   "items": [
@@ -345,12 +345,30 @@
         "width": 4032,
         "height": 3024
       },
-      "venueMatch": {
-        "status": "unresolved",
+      "venue": {
+        "key": "centre-d-art-contemporain-geneve",
+        "title": "Centre d’Art Contemporain Genève",
         "matchedBy": "Lieu",
-        "values": [
-          "l-arcade"
-        ]
+        "location": {
+          "addressTitle": "Centre d’Art Contemporain Genève",
+          "addressLine1": "Rue de Chantepoulet 1-3",
+          "addressLine2": "1201 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2078407,
+          "mapLng": 6.145207
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "13h–18h",
+            "jeudi": "13h–18h",
+            "vendredi": "13h–18h",
+            "samedi": "13h–18h",
+            "dimanche": "13h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -1807,12 +1825,30 @@
         "width": 1563,
         "height": 1042
       },
-      "venueMatch": {
-        "status": "unresolved",
+      "venue": {
+        "key": "sebastien-bertrand",
+        "title": "Sébastien Bertrand",
         "matchedBy": "Membre",
-        "values": [
-          "galerie-sebastien-bertrand"
-        ]
+        "location": {
+          "addressTitle": "Sébastien Bertrand",
+          "addressLine1": "Rue du Cécile-Bieler Butticaz 16",
+          "addressLine2": "1207 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2048237,
+          "mapLng": 6.158385399999999
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "14h–19h",
+            "mercredi": "14h–19h",
+            "jeudi": "14h–19h",
+            "vendredi": "14h–19h",
+            "samedi": "Sur rendez-vous",
+            "dimanche": "Fermé"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -6059,12 +6095,30 @@
         "width": 1148,
         "height": 758
       },
-      "venueMatch": {
-        "status": "unresolved",
+      "venue": {
+        "key": "zabriskie-point",
+        "title": "Zabriskie Point",
         "matchedBy": "Membre",
-        "values": [
-          "zabriskie"
-        ]
+        "location": {
+          "addressTitle": "Zabriskie Point",
+          "addressLine1": "Rond-Point de Plainpalais",
+          "addressLine2": "1205 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.1978601,
+          "mapLng": 6.1425482
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "00h–24h",
+            "mardi": "00h–24h",
+            "mercredi": "00h–24h",
+            "jeudi": "00h–24h",
+            "vendredi": "00h–24h",
+            "samedi": "00h–24h",
+            "dimanche": "00h–24h"
+          },
+          "dates": {}
+        }
       }
     },
     {
@@ -10429,12 +10483,30 @@
         "width": 1556,
         "height": 2200
       },
-      "venueMatch": {
-        "status": "unresolved",
+      "venue": {
+        "key": "centre-d-art-contemporain-geneve",
+        "title": "Centre d’Art Contemporain Genève",
         "matchedBy": "Lieu",
-        "values": [
-          "l-arcade"
-        ]
+        "location": {
+          "addressTitle": "Centre d’Art Contemporain Genève",
+          "addressLine1": "Rue de Chantepoulet 1-3",
+          "addressLine2": "1201 Genève",
+          "addressCountry": "Suisse",
+          "mapLat": 46.2078407,
+          "mapLng": 6.145207
+        },
+        "openingHours": {
+          "weekly": {
+            "lundi": "Fermé",
+            "mardi": "Fermé",
+            "mercredi": "13h–18h",
+            "jeudi": "13h–18h",
+            "vendredi": "13h–18h",
+            "samedi": "13h–18h",
+            "dimanche": "13h–18h"
+          },
+          "dates": {}
+        }
       }
     },
     {
