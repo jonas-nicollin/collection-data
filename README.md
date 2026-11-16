@@ -86,6 +86,14 @@ keys fail the build rather than publishing an ambiguous schedule.
 
 ### Optional location source for collection records
 
+`columns.placeId` optionally maps a verified Google Place ID column. Non-empty
+values produce `placeId` on a location, and `venue.location.placeId` on joined
+collection records. Blank values are omitted. The field is additive in schema
+version 1; consumers without this mapping retain their previous output. Never
+store a shortened Maps URL or a guessed neighbouring business ID in this field.
+The GAW source maps `Google Place ID`; cell notes record verification or unresolved
+identity/address conflicts. Recheck IDs after an address change or within a year.
+
 A collection may opt into `locationSource: { file, matchField, replaceLocation }`
 or `{ file, tagPrefixes }`. The file is a previously built locations JSON payload.
 `matchField: "title"` resolves member records. Ordered `tagPrefixes` resolve the
@@ -113,3 +121,4 @@ The location join accepts those names alongside title, slug and matchKey.
 Duplicate names belonging to different places remain ambiguous; no place is
 chosen arbitrarily. Native `location` stays unchanged unless replaceLocation
 is explicitly enabled. Rejoining clears obsolete venue/venueMatch diagnostics.
+

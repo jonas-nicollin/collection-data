@@ -12,6 +12,7 @@
   },
   "columns": {
     "aliases": ["Aliases"],
+    "placeId": ["Google Place ID"],
     "title": [
       "Location"
     ],
@@ -89,3 +90,4 @@
     ]
   }
 }
+

@@ -48,8 +48,12 @@ export function joinLocations(items, locations, options) {
     if (latitude !== null && longitude !== null) {
       location.mapLat = latitude; location.mapLng = longitude;
     }
+    if (typeof place.placeId === 'string' && /^[A-Za-z0-9_-]+$/.test(place.placeId)) {
+      location.placeId = place.placeId;
+    }
     const venue = {key: place.matchKey || place.slug, title: place.title,
       matchedBy, location, openingHours: place.openingHours || {weekly:{}, dates:{}}};
     return {...sourceItem, ...(options.replaceLocation ? {location} : {}), venue};
   });
 }
+

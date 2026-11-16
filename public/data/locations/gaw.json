@@ -3,8 +3,8 @@
   "type": "locations",
   "site": "gaw",
   "id": "gaw-locations",
-  "updatedAt": "2026-11-13T12:22:42.975Z",
-  "sourceHash": "44a8f23bbf2d1a670019abaa706ea831b4a10e93a3a1c8a09163331fc549ccde",
+  "updatedAt": "2026-11-16T17:01:16.537Z",
+  "sourceHash": "c37ca5032deeaf02d3389d59e06b9efa8a9095195447fa81d7c8a2939f483dd7",
   "count": 93,
   "items": [
     {
@@ -37,6 +37,7 @@
       "vendredi": "14h–19h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJl67azhdxjEcRTJg9rFYqHaQ",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -81,6 +82,7 @@
       "vendredi": "9h30–18h30",
       "samedi": "9h30–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJ_QWVJzdljEcRX4LJarpPcJs",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -169,6 +171,7 @@
       "vendredi": "-",
       "samedi": "-",
       "dimanche": "-",
+      "placeId": "ChIJKRodjE97jEcReNHUKvHurVQ",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -213,6 +216,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJM9PiVHd7jEcRAJCjvyy697g",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -301,6 +305,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJs-esajFljEcRGHLGi5ozD7A",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -345,6 +350,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "Sur rendez-vous",
       "dimanche": "Sur rendez-vous",
+      "placeId": "ChIJZ3avq9l6jEcRWI5Kxa13Ygk",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -389,6 +395,7 @@
       "vendredi": "8h–12h, 13h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJya0_0EZljEcRn9CuOOG7gfM",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -433,6 +440,7 @@
       "vendredi": "8h–19h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "placeId": "ChIJi7TZXC97jEcRy-cofuTb4-w",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -477,6 +485,7 @@
       "vendredi": "13h–18h",
       "samedi": "13h–18h",
       "dimanche": "13h–18h",
+      "placeId": "ChIJefn5JNVkjEcRY69AqqcSKAk",
       "aliases": [
         "L’Arcade"
       ],
@@ -523,6 +532,7 @@
       "vendredi": "13h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJl3gn99RvqkERZu2B9gmxwe4",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -567,6 +577,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJn67fJtVkjEcRfCOpE503XZE",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -611,6 +622,7 @@
       "vendredi": "Fermé",
       "samedi": "10h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJ-9evKXNvjEcRISxKsa-kRJI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -655,6 +667,7 @@
       "vendredi": "10h–13h, 14h–18h30",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJWZ3XQyxljEcRHRQOu5mKFIk",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -699,6 +712,7 @@
       "vendredi": "9h–17h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJ5efkuI97jEcRx1nb62xJGlc",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -743,6 +757,7 @@
       "vendredi": "10h30–18h30",
       "samedi": "11h–16h30",
       "dimanche": "Fermé",
+      "placeId": "ChIJWxP-JStljEcRUtsdToeaejc",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -787,6 +802,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "14h–18h durant les expositions (ou sur rendez-vous)",
       "dimanche": "Sur rendez-vous",
+      "placeId": "ChIJ4dDvGV57jEcReiR9jh9Q3Bo",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -831,6 +847,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJQxfE0tRkjEcRu3orr3ajGbA",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -875,6 +892,7 @@
       "vendredi": "-",
       "samedi": "-",
       "dimanche": "-",
+      "placeId": "ChIJ_bhc2_d7jEcR3ZI6-4pGIOY",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -919,6 +937,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJ-YP0AyZ7jEcRMvRTARVmRsE",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -963,6 +982,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "placeId": "ChIJoRWw8-J6jEcR6DUwSkXpNpI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1007,6 +1027,7 @@
       "vendredi": "Fermé",
       "samedi": "Fermé",
       "dimanche": "12h–18h",
+      "placeId": "ChIJVWPHHtVkjEcRQHSuJgWAC1I",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1051,6 +1072,7 @@
       "vendredi": "Fermé",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJF7DQ-eF6jEcResg0Qk2DSE4",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1095,6 +1117,7 @@
       "vendredi": "9h30–12h, 14h–17h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "placeId": "ChIJO-jMYDFljEcRDt4Z_P8JMJQ",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1139,6 +1162,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "14h–18h et sur rendez-vous",
       "dimanche": "Sur rendez-vous",
+      "placeId": "ChIJjQRxuNZkjEcRZUTlS7wTEXQ",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1183,6 +1207,7 @@
       "vendredi": "10h–18h30",
       "samedi": "11h–17h30",
       "dimanche": "Fermé",
+      "placeId": "ChIJW0KJUDFljEcRt5xEoeULR2U",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1227,6 +1252,7 @@
       "vendredi": "Sur rendez-vous",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJDcj0NOR7jEcRp5XCHnb85Tg",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1271,6 +1297,7 @@
       "vendredi": "14h–18h",
       "samedi": "11h–16h",
       "dimanche": "Fermé",
+      "placeId": "ChIJi7QYBNl6jEcR9HbWPHR1up0",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1359,6 +1386,7 @@
       "vendredi": "11h–18h",
       "samedi": "12h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJH7-ivvdljEcRpuaanJG8JOc",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1422,12 +1450,12 @@
       "matchKey": "galerie-ligne-treize",
       "title": "Galerie Ligne Treize",
       "zone": "Quartier des Bains",
-      "address1": "Boulevard Carl-Vogt 52",
+      "address1": "Boulevard Carl-Vogt 51",
       "address2": "1205 Genève",
       "address3": "Suisse",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Galerie%20Ligne%20Treize%2C%20Boulevard%20Carl-Vogt%2052%2C%201205%20Gen%C3%A8ve%2C%20Suisse",
-      "latitude": "46.1978488",
-      "longitude": "6.1358049",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Galerie%20Ligne%20Treize%2C%20Boulevard%20Carl-Vogt%2051%2C%201205%20Gen%C3%A8ve%2C%20Suisse&query_place_id=ChIJ_d5VluhvqkERmVbw3lDu_8s",
+      "latitude": "46,1986155",
+      "longitude": "6,1351708",
       "phone": "+41 76 475 93 92",
       "email": "info@galerielignetreize.ch",
       "website": "http://www.galerielignetreize.ch",
@@ -1447,6 +1475,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJ_d5VluhvqkERmVbw3lDu_8s",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1491,6 +1520,7 @@
       "vendredi": "14h30–18h30",
       "samedi": "14h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJ_fibu956jEcRoU3VtajgkjI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1514,8 +1544,8 @@
       "address2": "1205 Genève",
       "address3": "Suisse",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Galerie%20Mezzanin%2C%20Rue%20des%20Mara%C3%AEchers%2063%2C%201205%20Gen%C3%A8ve%2C%20Suisse",
-      "latitude": "46.1985419365971",
-      "longitude": "6.149252345782545",
+      "latitude": "46,1976103",
+      "longitude": "6,1382699",
       "phone": "+41 22 328 38 02",
       "email": "geneva@galeriemezzanin.com",
       "website": "http://galeriemezzanin.com/",
@@ -1535,6 +1565,7 @@
       "vendredi": "12h–17h",
       "samedi": "14h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJ44KxFdRvqkER5H_UzfOAM7A",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1579,6 +1610,7 @@
       "vendredi": "12h–19h",
       "samedi": "10h30–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJad3DK9ZkjEcRDqzCGDl7_R0",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1667,6 +1699,7 @@
       "vendredi": "10h–18h",
       "samedi": "14h–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJjz8g4DxljEcR1WYMB8mcT-o",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1711,6 +1744,7 @@
       "vendredi": "14h30–18h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJVVHh-itljEcRyrllE1j0UiQ",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1755,6 +1789,7 @@
       "vendredi": "14h30–18h30",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJjfdVYtl6jEcRpono4P3PDr0",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1799,6 +1834,7 @@
       "vendredi": "10h–12h, 14h–19h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJn-iCcyxljEcRJJM8un-q2KA",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1843,6 +1879,7 @@
       "vendredi": "10h–18h30",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJv18UAyxljEcRHduNg9QtevA",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1887,6 +1924,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–18h30",
       "dimanche": "Fermé",
+      "placeId": "ChIJj43o_SxljEcRUR8SNTcrJrg",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1931,6 +1969,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJad3DK9ZkjEcRnrEIWuc6aYI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -1975,6 +2014,7 @@
       "vendredi": "10h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJfdfc7Op7jEcRiSMwirD1ecI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2019,6 +2059,7 @@
       "vendredi": "Fermé",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJTaSm8NhkjEcRRnwthdoLBYM",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2107,6 +2148,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJYZh-iN56jEcRcle5wHSIRbM",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2151,6 +2193,7 @@
       "vendredi": "11h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJ34RbeABljEcROBOSC3mzvog",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2195,6 +2238,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJc_P2Nut7jEcR0R1-9HT8XcM",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2239,6 +2283,7 @@
       "vendredi": "10h–12h30, 14h–18h30",
       "samedi": "11h–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJx_hV_itljEcRIj7vwGEXZPc",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2283,6 +2328,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJz4T5ZsBljEcRrQbvRfqSiXI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2327,6 +2373,7 @@
       "vendredi": "Non renseigné",
       "samedi": "Non renseigné",
       "dimanche": "Non renseigné",
+      "placeId": "ChIJVWPHHtVkjEcRm8_NgLekklM",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2371,6 +2418,7 @@
       "vendredi": "15h–19h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJramkcoFljEcRkPi2i8oBSKo",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2415,6 +2463,7 @@
       "vendredi": "-",
       "samedi": "14h–17h et sur rendez-vous",
       "dimanche": "-",
+      "placeId": "ChIJr73JpN56jEcRCRxjzQ-DnQg",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2459,6 +2508,7 @@
       "vendredi": "Sur demande",
       "samedi": "13h–18h",
       "dimanche": "13h–18h",
+      "placeId": "ChIJj2oonYR7jEcRCUlPcAXmXtg",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2503,6 +2553,7 @@
       "vendredi": "10h30–18h30",
       "samedi": "10h30–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJf1Dju956jEcRYmjGg82LF3Q",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2547,6 +2598,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJ66MNVuFljEcR0qgHlPXSrQE",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2591,6 +2643,7 @@
       "vendredi": "11h–19h",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJ-3STz05ljEcR-U2OZIYLjpI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2635,6 +2688,7 @@
       "vendredi": "11h–18h",
       "samedi": "10h–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJyy1dEDVljEcR4s00mOZrsos",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2679,6 +2733,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–18h",
       "dimanche": "11h–18h",
+      "placeId": "ChIJBThVgTJljEcRjOWvPKrMhUg",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2723,6 +2778,7 @@
       "vendredi": "Fermé",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJ2TMBfdVljEcRStnctD7tcfc",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2742,12 +2798,12 @@
       "matchKey": "meg-musee-d-ethnographie-geneve",
       "title": "MEG – Musée d’Ethnographie Genève",
       "zone": "Quartier des Bains",
-      "address1": "27 Boulevard Carl-Vogt",
+      "address1": "Boulevard Carl-Vogt 65–67",
       "address2": "1205 Genève",
       "address3": "Suisse",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MEG%20%E2%80%93%20Mus%C3%A9e%20d%E2%80%99Ethnographie%20Gen%C3%A8ve%2C%2027%20Boulevard%20Carl-Vogt%2C%201205%20Gen%C3%A8ve%2C%20Suisse",
-      "latitude": "46.1998122",
-      "longitude": "6.1329369",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MEG%20%E2%80%93%20Mus%C3%A9e%20d%E2%80%99Ethnographie%20Gen%C3%A8ve%2C%20Boulevard%20Carl-Vogt%2065%E2%80%9367%2C%201205%20Gen%C3%A8ve%2C%20Suisse&query_place_id=ChIJ-x4I1yp7jEcR4caYhLz8cgs",
+      "latitude": "46,1977145",
+      "longitude": "6,1367665",
       "phone": "+41 22 418 45 50",
       "email": "meg@geneve.ch",
       "website": "https://www.meg.ch/",
@@ -2767,6 +2823,7 @@
       "vendredi": "11h–18h",
       "samedi": "11h–18h",
       "dimanche": "11h–18h",
+      "placeId": "ChIJ-x4I1yp7jEcR4caYhLz8cgs",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2811,6 +2868,7 @@
       "vendredi": "10h–17h",
       "samedi": "10h–17h",
       "dimanche": "10h–17h",
+      "placeId": "ChIJmxOfleRkjEcRo2g7tuMJaBk",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2855,6 +2913,7 @@
       "vendredi": "11h–17h",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJy-xuASxljEcRYQoGOZqz-RY",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2899,6 +2958,7 @@
       "vendredi": "Fermé",
       "samedi": "11h–18h",
       "dimanche": "11h–18h",
+      "placeId": "ChIJU3-q29h6jEcRDTeMgItaGOw",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2943,6 +3003,7 @@
       "vendredi": "10h–17h",
       "samedi": "10h–17h",
       "dimanche": "10h–17h",
+      "placeId": "ChIJA0j4MCxljEcRZooM6taxhp8",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -2987,6 +3048,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJueOQZt56jEcRSOJ61MY0WjI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3031,6 +3093,7 @@
       "vendredi": "10h–18h",
       "samedi": "Sur rendez-vous",
       "dimanche": "Fermé",
+      "placeId": "ChIJ5cDQEUdljEcRXzlRnB9WuvE",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3075,6 +3138,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJ940JMNVkjEcRtVAJFFbgoSw",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3119,6 +3183,7 @@
       "vendredi": "10h–19h",
       "samedi": "10h–19h",
       "dimanche": "Fermé",
+      "placeId": "ChIJGdVQZi5ljEcREaiHrNHNzBc",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3163,6 +3228,7 @@
       "vendredi": "10h–18h",
       "samedi": "Fermé",
       "dimanche": "Fermé",
+      "placeId": "ChIJc7NICfV6jEcRTrgervkMLjI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3207,6 +3273,7 @@
       "vendredi": "10h–18h",
       "samedi": "10h–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJo3V8gmpljEcR7FyM-zkw7NM",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3295,6 +3362,7 @@
       "vendredi": "Sur RDV",
       "samedi": "Sur RDV",
       "dimanche": "Fermé",
+      "placeId": "ChIJQ9HQDNVkjEcRz75eIf9EKos",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3383,6 +3451,7 @@
       "vendredi": "10h–17h",
       "samedi": "10h–17h",
       "dimanche": "10h–17h",
+      "placeId": "ChIJ_ZJnHgBljEcR2DutSDuzUHU",
       "aliases": [
         "SaSA – Site archéologique Saint-Antoine"
       ],
@@ -3429,6 +3498,7 @@
       "vendredi": "14h–19h",
       "samedi": "Sur rendez-vous",
       "dimanche": "Fermé",
+      "placeId": "ChIJ5SaMOTdljEcRyQyALGN0x4c",
       "aliases": [
         "Galerie Sébastien Bertrand"
       ],
@@ -3475,6 +3545,7 @@
       "vendredi": "11h–18h30",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJsZ-iMNVkjEcREyhLXIQOoVc",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3519,6 +3590,7 @@
       "vendredi": "15h–19h",
       "samedi": "14h–18h",
       "dimanche": "Fermé",
+      "placeId": "ChIJvwFU5yxljEcR1AhtWqN7jHI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3563,6 +3635,7 @@
       "vendredi": "14h–20h",
       "samedi": "14h–20h",
       "dimanche": "14h–20h",
+      "placeId": "ChIJVRddu6pljEcRuGTvfHD6Wh0",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3607,6 +3680,7 @@
       "vendredi": "14h–18h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJa2ysKNB7jEcR_I230ttLfQ0",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3739,6 +3813,7 @@
       "vendredi": "11h–18h30",
       "samedi": "12h–17h30",
       "dimanche": "Sur rendez-vous",
+      "placeId": "ChIJ-ZreMs16jEcRSvA48Mo4uNc",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3783,6 +3858,7 @@
       "vendredi": "9h–17h ou sur rendez-vous",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJEQlwLth6jEcRc0NH-FaoyZA",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3871,6 +3947,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "placeId": "ChIJy4ixSzp7jEcREoWuPV9dnQM",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3915,6 +3992,7 @@
       "vendredi": "14h–18h",
       "samedi": "14h–18h",
       "dimanche": "14h–18h",
+      "placeId": "ChIJS_Lrh9VxjEcR9QmQ6sZ__YI",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -3959,6 +4037,7 @@
       "vendredi": "14h–18h",
       "samedi": "11h–17h",
       "dimanche": "Fermé",
+      "placeId": "ChIJH4t0yyN7jEcRnjGlZdlm1AA",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -4047,6 +4126,7 @@
       "vendredi": "10h–13h, 14h–18h30",
       "samedi": "11h–17h",
       "dimanche": "11h–17h",
+      "placeId": "ChIJPTrvUtRkjEcRC7wq5qUF5kQ",
       "aliases": [],
       "openingHours": {
         "weekly": {
@@ -4091,6 +4171,7 @@
       "vendredi": "00h–24h",
       "samedi": "00h–24h",
       "dimanche": "00h–24h",
+      "placeId": "ChIJB7s08J1ljEcRi7bxJztlRW4",
       "aliases": [
         "Zabriskie"
       ],

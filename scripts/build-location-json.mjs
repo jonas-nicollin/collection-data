@@ -200,6 +200,15 @@ function normalizeLocation(row, config) {
   location.matchKey = toSlug(matchValue);
   location.slug = toSlug(getField(row, columns, 'slug') || matchValue);
 
+  // Opt-in, additive identity; never turn an address or Maps URL into a Place ID.
+  if (config.columns?.placeId) {
+    const placeId = getField(row, columns, 'placeId');
+    if (placeId && !/^[A-Za-z0-9_-]+$/.test(placeId)) {
+      throw new Error(`Invalid Google Place ID for ${title}`);
+    }
+    if (placeId) location.placeId = placeId;
+  }
+
   // Opt-in, one alternate name per line. Commas remain ordinary text.
   if (config.columns?.aliases) {
     location.aliases = [...new Set(getField(row, columns, 'aliases')
@@ -290,3 +299,4 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+
