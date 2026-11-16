@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-12T09:53:55.885Z",
-  "sourceHash": "2d6ed6b577799ec97b2a567a41338036f74b5d68a123b03b48ba3a80c02a89bc",
+  "updatedAt": "2026-11-16T17:05:39.717Z",
+  "sourceHash": "360a52011459d7ba487d79c165b33a92353ca35c6028ee252211179699649ea2",
   "count": 156,
   "pages": 8,
   "items": [
@@ -67,7 +67,8 @@
           "addressLine2": "1212 Lancy",
           "addressCountry": "Suisse",
           "mapLat": 46.1780912,
-          "mapLng": 6.1199192
+          "mapLng": 6.1199192,
+          "placeId": "ChIJj2oonYR7jEcRCUlPcAXmXtg"
         },
         "openingHours": {
           "weekly": {
@@ -139,7 +140,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.204655,
-          "mapLng": 6.1410144
+          "mapLng": 6.1410144,
+          "placeId": "ChIJad3DK9ZkjEcRnrEIWuc6aYI"
         },
         "openingHours": {
           "weekly": {
@@ -210,7 +212,8 @@
           "addressLine2": "1201 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2101883,
-          "mapLng": 6.1406021
+          "mapLng": 6.1406021,
+          "placeId": "ChIJTaSm8NhkjEcRRnwthdoLBYM"
         },
         "openingHours": {
           "weekly": {
@@ -282,7 +285,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2024371,
-          "mapLng": 6.144836999999999
+          "mapLng": 6.144836999999999,
+          "placeId": "ChIJjz8g4DxljEcR1WYMB8mcT-o"
         },
         "openingHours": {
           "weekly": {
@@ -355,7 +359,8 @@
           "addressLine2": "1201 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2078407,
-          "mapLng": 6.145207
+          "mapLng": 6.145207,
+          "placeId": "ChIJefn5JNVkjEcRY69AqqcSKAk"
         },
         "openingHours": {
           "weekly": {
@@ -480,7 +485,8 @@
           "addressLine2": "1207 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.203668,
-          "mapLng": 6.155145699999999
+          "mapLng": 6.155145699999999,
+          "placeId": "ChIJc7NICfV6jEcRTrgervkMLjI"
         },
         "openingHours": {
           "weekly": {
@@ -552,7 +558,8 @@
           "addressLine2": "1206 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.199284,
-          "mapLng": 6.1515081
+          "mapLng": 6.1515081,
+          "placeId": "ChIJBThVgTJljEcRjOWvPKrMhUg"
         },
         "openingHours": {
           "weekly": {
@@ -625,7 +632,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2017889,
-          "mapLng": 6.146338600000001
+          "mapLng": 6.146338600000001,
+          "placeId": "ChIJx_hV_itljEcRIj7vwGEXZPc"
         },
         "openingHours": {
           "weekly": {
@@ -697,7 +705,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1825548,
-          "mapLng": 6.1410136
+          "mapLng": 6.1410136,
+          "placeId": "ChIJ_fibu956jEcRoU3VtajgkjI"
         },
         "openingHours": {
           "weekly": {
@@ -826,7 +835,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1984548,
-          "mapLng": 6.1371483
+          "mapLng": 6.1371483,
+          "placeId": "ChIJz4T5ZsBljEcRrQbvRfqSiXI"
         },
         "openingHours": {
           "weekly": {
@@ -898,7 +908,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2025598,
-          "mapLng": 6.1350337
+          "mapLng": 6.1350337,
+          "placeId": "ChIJVWPHHtVkjEcRQHSuJgWAC1I"
         },
         "openingHours": {
           "weekly": {
@@ -971,7 +982,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1989327,
-          "mapLng": 6.1381708
+          "mapLng": 6.1381708,
+          "placeId": "ChIJVWPHHtVkjEcRm8_NgLekklM"
         },
         "openingHours": {
           "weekly": {
@@ -1043,7 +1055,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1863871,
-          "mapLng": 6.14012
+          "mapLng": 6.14012,
+          "placeId": "ChIJDcj0NOR7jEcRp5XCHnb85Tg"
         },
         "openingHours": {
           "weekly": {
@@ -1115,7 +1128,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1849409,
-          "mapLng": 6.140495100000001
+          "mapLng": 6.140495100000001,
+          "placeId": "ChIJc_P2Nut7jEcR0R1-9HT8XcM"
         },
         "openingHours": {
           "weekly": {
@@ -1185,7 +1199,8 @@
           "addressLine2": "1202 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2253381,
-          "mapLng": 6.138763399999999
+          "mapLng": 6.138763399999999,
+          "placeId": "ChIJmxOfleRkjEcRo2g7tuMJaBk"
         },
         "openingHours": {
           "weekly": {
@@ -1320,7 +1335,8 @@
           "addressLine2": "1225 Chêne-Bourg",
           "addressCountry": "Suisse",
           "mapLat": 46.1948072,
-          "mapLng": 6.1918804
+          "mapLng": 6.1918804,
+          "placeId": "ChIJl67azhdxjEcRTJg9rFYqHaQ"
         },
         "openingHours": {
           "weekly": {
@@ -1392,7 +1408,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.20222709999999,
-          "mapLng": 6.138189799999999
+          "mapLng": 6.138189799999999,
+          "placeId": "ChIJl3gn99RvqkERZu2B9gmxwe4"
         },
         "openingHours": {
           "weekly": {
@@ -1469,7 +1486,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.20222709999999,
-          "mapLng": 6.138189799999999
+          "mapLng": 6.138189799999999,
+          "placeId": "ChIJl3gn99RvqkERZu2B9gmxwe4"
         },
         "openingHours": {
           "weekly": {
@@ -1553,7 +1571,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2009241,
-          "mapLng": 6.137485799999999
+          "mapLng": 6.137485799999999,
+          "placeId": "ChIJWxP-JStljEcRUtsdToeaejc"
         },
         "openingHours": {
           "weekly": {
@@ -1629,7 +1648,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.20028629999999,
-          "mapLng": 6.1513522
+          "mapLng": 6.1513522,
+          "placeId": "ChIJ_ZJnHgBljEcR2DutSDuzUHU"
         },
         "openingHours": {
           "weekly": {
@@ -1699,7 +1719,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2025598,
-          "mapLng": 6.1350337
+          "mapLng": 6.1350337,
+          "placeId": "ChIJVWPHHtVkjEcRQHSuJgWAC1I"
         },
         "openingHours": {
           "weekly": {
@@ -1781,7 +1802,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2030477,
-          "mapLng": 6.1498329
+          "mapLng": 6.1498329,
+          "placeId": "ChIJGdVQZi5ljEcREaiHrNHNzBc"
         },
         "openingHours": {
           "weekly": {
@@ -1853,7 +1875,8 @@
           "addressLine2": "1207 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2048237,
-          "mapLng": 6.158385399999999
+          "mapLng": 6.158385399999999,
+          "placeId": "ChIJ5SaMOTdljEcRyQyALGN0x4c"
         },
         "openingHours": {
           "weekly": {
@@ -1941,7 +1964,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2025598,
-          "mapLng": 6.1350337
+          "mapLng": 6.1350337,
+          "placeId": "ChIJVWPHHtVkjEcRQHSuJgWAC1I"
         },
         "openingHours": {
           "weekly": {
@@ -2013,7 +2037,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1854849,
-          "mapLng": 6.1403136
+          "mapLng": 6.1403136,
+          "placeId": "ChIJi7QYBNl6jEcR9HbWPHR1up0"
         },
         "openingHours": {
           "weekly": {
@@ -2087,7 +2112,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.198065,
-          "mapLng": 6.136406
+          "mapLng": 6.136406,
+          "placeId": "ChIJQxfE0tRkjEcRu3orr3ajGbA"
         },
         "openingHours": {
           "weekly": {
@@ -2236,7 +2262,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1990342,
-          "mapLng": 6.1371521
+          "mapLng": 6.1371521,
+          "placeId": "ChIJ5cDQEUdljEcRXzlRnB9WuvE"
         },
         "openingHours": {
           "weekly": {
@@ -2309,7 +2336,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2009528,
-          "mapLng": 6.137029
+          "mapLng": 6.137029,
+          "placeId": "ChIJPTrvUtRkjEcRC7wq5qUF5kQ"
         },
         "openingHours": {
           "weekly": {
@@ -2379,7 +2407,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.198555,
-          "mapLng": 6.1482245
+          "mapLng": 6.1482245,
+          "placeId": "ChIJvwFU5yxljEcR1AhtWqN7jHI"
         },
         "openingHours": {
           "weekly": {
@@ -2455,7 +2484,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.20028629999999,
-          "mapLng": 6.1513522
+          "mapLng": 6.1513522,
+          "placeId": "ChIJ_ZJnHgBljEcR2DutSDuzUHU"
         },
         "openingHours": {
           "weekly": {
@@ -2635,7 +2665,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2009528,
-          "mapLng": 6.137029
+          "mapLng": 6.137029,
+          "placeId": "ChIJPTrvUtRkjEcRC7wq5qUF5kQ"
         },
         "openingHours": {
           "weekly": {
@@ -2708,7 +2739,8 @@
           "addressLine2": "1228 Plan-les-Ouates",
           "addressCountry": "Suisse",
           "mapLat": 46.1647721,
-          "mapLng": 6.103385
+          "mapLng": 6.103385,
+          "placeId": "ChIJfdfc7Op7jEcRiSMwirD1ecI"
         },
         "openingHours": {
           "weekly": {
@@ -2852,7 +2884,8 @@
           "addressLine2": "74100 Annemasse",
           "addressCountry": "France",
           "mapLat": 46.1934799,
-          "mapLng": 6.230932699999999
+          "mapLng": 6.230932699999999,
+          "placeId": "ChIJS_Lrh9VxjEcR9QmQ6sZ__YI"
         },
         "openingHours": {
           "weekly": {
@@ -2930,7 +2963,8 @@
           "addressLine2": "1212 Lancy",
           "addressCountry": "Suisse",
           "mapLat": 46.1780912,
-          "mapLng": 6.1199192
+          "mapLng": 6.1199192,
+          "placeId": "ChIJj2oonYR7jEcRCUlPcAXmXtg"
         },
         "openingHours": {
           "weekly": {
@@ -3328,7 +3362,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2020534,
-          "mapLng": 6.1465231
+          "mapLng": 6.1465231,
+          "placeId": "ChIJy-xuASxljEcRYQoGOZqz-RY"
         },
         "openingHours": {
           "weekly": {
@@ -3469,7 +3504,8 @@
           "addressLine2": "1225 Chêne-Bourg",
           "addressCountry": "Suisse",
           "mapLat": 46.1948072,
-          "mapLng": 6.1918804
+          "mapLng": 6.1918804,
+          "placeId": "ChIJl67azhdxjEcRTJg9rFYqHaQ"
         },
         "openingHours": {
           "weekly": {
@@ -3547,7 +3583,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.198065,
-          "mapLng": 6.136406
+          "mapLng": 6.136406,
+          "placeId": "ChIJQxfE0tRkjEcRu3orr3ajGbA"
         },
         "openingHours": {
           "weekly": {
@@ -3620,7 +3657,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1811256,
-          "mapLng": 6.1409856
+          "mapLng": 6.1409856,
+          "placeId": "ChIJYZh-iN56jEcRcle5wHSIRbM"
         },
         "openingHours": {
           "weekly": {
@@ -3764,7 +3802,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1805731,
-          "mapLng": 6.1405248
+          "mapLng": 6.1405248,
+          "placeId": "ChIJueOQZt56jEcRSOJ61MY0WjI"
         },
         "openingHours": {
           "weekly": {
@@ -3838,7 +3877,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.18826,
-          "mapLng": 6.1323365
+          "mapLng": 6.1323365,
+          "placeId": "ChIJ-YP0AyZ7jEcRMvRTARVmRsE"
         },
         "openingHours": {
           "weekly": {
@@ -3910,7 +3950,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1806823,
-          "mapLng": 6.141282299999999
+          "mapLng": 6.141282299999999,
+          "placeId": "ChIJs-esajFljEcRGHLGi5ozD7A"
         },
         "openingHours": {
           "weekly": {
@@ -3984,7 +4025,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1825156,
-          "mapLng": 6.140999799999999
+          "mapLng": 6.140999799999999,
+          "placeId": "ChIJf1Dju956jEcRYmjGg82LF3Q"
         },
         "openingHours": {
           "weekly": {
@@ -4057,7 +4099,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2020534,
-          "mapLng": 6.1465231
+          "mapLng": 6.1465231,
+          "placeId": "ChIJy-xuASxljEcRYQoGOZqz-RY"
         },
         "openingHours": {
           "weekly": {
@@ -4131,7 +4174,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1984548,
-          "mapLng": 6.1371483
+          "mapLng": 6.1371483,
+          "placeId": "ChIJz4T5ZsBljEcRrQbvRfqSiXI"
         },
         "openingHours": {
           "weekly": {
@@ -4418,7 +4462,8 @@
           "addressLine2": "1207 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.203668,
-          "mapLng": 6.155145699999999
+          "mapLng": 6.155145699999999,
+          "placeId": "ChIJc7NICfV6jEcRTrgervkMLjI"
         },
         "openingHours": {
           "weekly": {
@@ -4492,7 +4537,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2018792,
-          "mapLng": 6.146126499999999
+          "mapLng": 6.146126499999999,
+          "placeId": "ChIJv18UAyxljEcRHduNg9QtevA"
         },
         "openingHours": {
           "weekly": {
@@ -4564,7 +4610,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2006739,
-          "mapLng": 6.1476339
+          "mapLng": 6.1476339,
+          "placeId": "ChIJWZ3XQyxljEcRHRQOu5mKFIk"
         },
         "openingHours": {
           "weekly": {
@@ -4635,7 +4682,8 @@
           "addressLine2": "1206 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.199284,
-          "mapLng": 6.1515081
+          "mapLng": 6.1515081,
+          "placeId": "ChIJBThVgTJljEcRjOWvPKrMhUg"
         },
         "openingHours": {
           "weekly": {
@@ -4706,7 +4754,8 @@
           "addressLine2": "1206 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.199284,
-          "mapLng": 6.1515081
+          "mapLng": 6.1515081,
+          "placeId": "ChIJBThVgTJljEcRjOWvPKrMhUg"
         },
         "openingHours": {
           "weekly": {
@@ -4778,7 +4827,8 @@
           "addressLine2": "1206 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.199284,
-          "mapLng": 6.1515081
+          "mapLng": 6.1515081,
+          "placeId": "ChIJBThVgTJljEcRjOWvPKrMhUg"
         },
         "openingHours": {
           "weekly": {
@@ -4850,7 +4900,8 @@
           "addressLine2": "1206 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.199284,
-          "mapLng": 6.1515081
+          "mapLng": 6.1515081,
+          "placeId": "ChIJBThVgTJljEcRjOWvPKrMhUg"
         },
         "openingHours": {
           "weekly": {
@@ -4949,7 +5000,8 @@
           "addressLine2": "1206 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.199284,
-          "mapLng": 6.1515081
+          "mapLng": 6.1515081,
+          "placeId": "ChIJBThVgTJljEcRjOWvPKrMhUg"
         },
         "openingHours": {
           "weekly": {
@@ -5021,7 +5073,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2017889,
-          "mapLng": 6.146338600000001
+          "mapLng": 6.146338600000001,
+          "placeId": "ChIJyy1dEDVljEcR4s00mOZrsos"
         },
         "openingHours": {
           "weekly": {
@@ -5094,8 +5147,9 @@
           "addressLine1": "Rue des Maraîchers 63",
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
-          "mapLat": 46.1985419365971,
-          "mapLng": 6.149252345782545
+          "mapLat": 46.1976103,
+          "mapLng": 6.1382699,
+          "placeId": "ChIJ44KxFdRvqkER5H_UzfOAM7A"
         },
         "openingHours": {
           "weekly": {
@@ -5490,7 +5544,8 @@
           "addressLine2": "1254 Jussy",
           "addressCountry": "Suisse",
           "mapLat": 46.2369152,
-          "mapLng": 6.2561596
+          "mapLng": 6.2561596,
+          "placeId": "ChIJ-9evKXNvjEcRISxKsa-kRJI"
         },
         "openingHours": {
           "weekly": {
@@ -5943,7 +5998,8 @@
           "addressLine2": "1228 Plan-les-Ouates",
           "addressCountry": "Suisse",
           "mapLat": 46.1647721,
-          "mapLng": 6.103385
+          "mapLng": 6.103385,
+          "placeId": "ChIJfdfc7Op7jEcRiSMwirD1ecI"
         },
         "openingHours": {
           "weekly": {
@@ -6067,7 +6123,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2047293,
-          "mapLng": 6.1418877
+          "mapLng": 6.1418877,
+          "placeId": "ChIJad3DK9ZkjEcRDqzCGDl7_R0"
         },
         "openingHours": {
           "weekly": {
@@ -6141,7 +6198,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1978601,
-          "mapLng": 6.1425482
+          "mapLng": 6.1425482,
+          "placeId": "ChIJB7s08J1ljEcRi7bxJztlRW4"
         },
         "openingHours": {
           "weekly": {
@@ -6388,7 +6446,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2017889,
-          "mapLng": 6.146338600000001
+          "mapLng": 6.146338600000001,
+          "placeId": "ChIJVVHh-itljEcRyrllE1j0UiQ"
         },
         "openingHours": {
           "weekly": {
@@ -6462,7 +6521,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1984412,
-          "mapLng": 6.137841600000001
+          "mapLng": 6.137841600000001,
+          "placeId": "ChIJ940JMNVkjEcRtVAJFFbgoSw"
         },
         "openingHours": {
           "weekly": {
@@ -6535,7 +6595,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1983213,
-          "mapLng": 6.1370313
+          "mapLng": 6.1370313,
+          "placeId": "ChIJH7-ivvdljEcRpuaanJG8JOc"
         },
         "openingHours": {
           "weekly": {
@@ -6608,7 +6669,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1849465,
-          "mapLng": 6.1423862
+          "mapLng": 6.1423862,
+          "placeId": "ChIJjfdVYtl6jEcRpono4P3PDr0"
         },
         "openingHours": {
           "weekly": {
@@ -6689,7 +6751,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.20102869999999,
-          "mapLng": 6.1459188
+          "mapLng": 6.1459188,
+          "placeId": "ChIJn-iCcyxljEcRJJM8un-q2KA"
         },
         "openingHours": {
           "weekly": {
@@ -6872,7 +6935,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2014221,
-          "mapLng": 6.1311138
+          "mapLng": 6.1311138,
+          "placeId": "ChIJramkcoFljEcRkPi2i8oBSKo"
         },
         "openingHours": {
           "weekly": {
@@ -7024,7 +7088,8 @@
           "addressLine2": "1206 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1986027,
-          "mapLng": 6.1539644
+          "mapLng": 6.1539644,
+          "placeId": "ChIJKRodjE97jEcReNHUKvHurVQ"
         },
         "openingHours": {
           "weekly": {
@@ -7100,7 +7165,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2024371,
-          "mapLng": 6.144836999999999
+          "mapLng": 6.144836999999999,
+          "placeId": "ChIJjz8g4DxljEcR1WYMB8mcT-o"
         },
         "openingHours": {
           "weekly": {
@@ -7174,7 +7240,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1863342,
-          "mapLng": 6.1422364
+          "mapLng": 6.1422364,
+          "placeId": "ChIJM9PiVHd7jEcRAJCjvyy697g"
         },
         "openingHours": {
           "weekly": {
@@ -7246,7 +7313,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1993532,
-          "mapLng": 6.148347800000001
+          "mapLng": 6.148347800000001,
+          "placeId": "ChIJj43o_SxljEcRUR8SNTcrJrg"
         },
         "openingHours": {
           "weekly": {
@@ -7316,7 +7384,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2006739,
-          "mapLng": 6.1476339
+          "mapLng": 6.1476339,
+          "placeId": "ChIJWZ3XQyxljEcRHRQOu5mKFIk"
         },
         "openingHours": {
           "weekly": {
@@ -7397,7 +7466,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.19890213,
-          "mapLng": 6.145166397
+          "mapLng": 6.145166397,
+          "placeId": "ChIJn67fJtVkjEcRfCOpE503XZE"
         },
         "openingHours": {
           "weekly": {
@@ -7577,7 +7647,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2017889,
-          "mapLng": 6.146338600000001
+          "mapLng": 6.146338600000001,
+          "placeId": "ChIJyy1dEDVljEcR4s00mOZrsos"
         },
         "openingHours": {
           "weekly": {
@@ -7651,7 +7722,8 @@
           "addressLine2": "1201 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2103999,
-          "mapLng": 6.149202499999999
+          "mapLng": 6.149202499999999,
+          "placeId": "ChIJi7TZXC97jEcRy-cofuTb4-w"
         },
         "openingHours": {
           "weekly": {
@@ -7765,7 +7837,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1843684,
-          "mapLng": 6.1391744
+          "mapLng": 6.1391744,
+          "placeId": "ChIJU3-q29h6jEcRDTeMgItaGOw"
         },
         "openingHours": {
           "weekly": {
@@ -7838,7 +7911,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1984082,
-          "mapLng": 6.1380007
+          "mapLng": 6.1380007,
+          "placeId": "ChIJsZ-iMNVkjEcREyhLXIQOoVc"
         },
         "openingHours": {
           "weekly": {
@@ -7912,7 +7986,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1985036,
-          "mapLng": 6.1388396
+          "mapLng": 6.1388396,
+          "placeId": "ChIJW0KJUDFljEcRt5xEoeULR2U"
         },
         "openingHours": {
           "weekly": {
@@ -7987,7 +8062,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2010251,
-          "mapLng": 6.137069200000001
+          "mapLng": 6.137069200000001,
+          "placeId": "ChIJ-3STz05ljEcR-U2OZIYLjpI"
         },
         "openingHours": {
           "weekly": {
@@ -8057,7 +8133,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1742431,
-          "mapLng": 6.1352809
+          "mapLng": 6.1352809,
+          "placeId": "ChIJF7DQ-eF6jEcResg0Qk2DSE4"
         },
         "openingHours": {
           "weekly": {
@@ -8127,7 +8204,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1742431,
-          "mapLng": 6.1352809
+          "mapLng": 6.1352809,
+          "placeId": "ChIJF7DQ-eF6jEcResg0Qk2DSE4"
         },
         "openingHours": {
           "weekly": {
@@ -8310,7 +8388,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.19890213,
-          "mapLng": 6.145166397
+          "mapLng": 6.145166397,
+          "placeId": "ChIJn67fJtVkjEcRfCOpE503XZE"
         },
         "openingHours": {
           "weekly": {
@@ -8634,7 +8713,8 @@
           "addressLine2": "1206 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1986027,
-          "mapLng": 6.1539644
+          "mapLng": 6.1539644,
+          "placeId": "ChIJKRodjE97jEcReNHUKvHurVQ"
         },
         "openingHours": {
           "weekly": {
@@ -8707,7 +8787,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.185936,
-          "mapLng": 6.140821999999999
+          "mapLng": 6.140821999999999,
+          "placeId": "ChIJa2ysKNB7jEcR_I230ttLfQ0"
         },
         "openingHours": {
           "weekly": {
@@ -8779,7 +8860,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2016042,
-          "mapLng": 6.140503799999999
+          "mapLng": 6.140503799999999,
+          "placeId": "ChIJH4t0yyN7jEcRnjGlZdlm1AA"
         },
         "openingHours": {
           "weekly": {
@@ -8851,7 +8933,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2016042,
-          "mapLng": 6.140503799999999
+          "mapLng": 6.140503799999999,
+          "placeId": "ChIJH4t0yyN7jEcRnjGlZdlm1AA"
         },
         "openingHours": {
           "weekly": {
@@ -8926,7 +9009,8 @@
           "addressLine2": "1212 Lancy",
           "addressCountry": "Suisse",
           "mapLat": 46.1869807,
-          "mapLng": 6.1222188
+          "mapLng": 6.1222188,
+          "placeId": "ChIJy4ixSzp7jEcREoWuPV9dnQM"
         },
         "openingHours": {
           "weekly": {
@@ -9069,7 +9153,8 @@
           "addressLine2": "1254 Jussy",
           "addressCountry": "Suisse",
           "mapLat": 46.2369152,
-          "mapLng": 6.2561596
+          "mapLng": 6.2561596,
+          "placeId": "ChIJ-9evKXNvjEcRISxKsa-kRJI"
         },
         "openingHours": {
           "weekly": {
@@ -9140,7 +9225,8 @@
           "addressLine2": "1254 Jussy",
           "addressCountry": "Suisse",
           "mapLat": 46.2369152,
-          "mapLng": 6.2561596
+          "mapLng": 6.2561596,
+          "placeId": "ChIJ-9evKXNvjEcRISxKsa-kRJI"
         },
         "openingHours": {
           "weekly": {
@@ -9215,7 +9301,8 @@
           "addressLine2": "1207 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2040668,
-          "mapLng": 6.1586818
+          "mapLng": 6.1586818,
+          "placeId": "ChIJ_QWVJzdljEcRX4LJarpPcJs"
         },
         "openingHours": {
           "weekly": {
@@ -9284,11 +9371,12 @@
         "matchedBy": "Membre",
         "location": {
           "addressTitle": "Galerie Ligne Treize",
-          "addressLine1": "Boulevard Carl-Vogt 52",
+          "addressLine1": "Boulevard Carl-Vogt 51",
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
-          "mapLat": 46.1978488,
-          "mapLng": 6.1358049
+          "mapLat": 46.1986155,
+          "mapLng": 6.1351708,
+          "placeId": "ChIJ_d5VluhvqkERmVbw3lDu_8s"
         },
         "openingHours": {
           "weekly": {
@@ -9363,7 +9451,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.200413,
-          "mapLng": 6.138135699999999
+          "mapLng": 6.138135699999999,
+          "placeId": "ChIJ-ZreMs16jEcRSvA48Mo4uNc"
         },
         "openingHours": {
           "weekly": {
@@ -9437,7 +9526,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2016042,
-          "mapLng": 6.140503799999999
+          "mapLng": 6.140503799999999,
+          "placeId": "ChIJH4t0yyN7jEcRnjGlZdlm1AA"
         },
         "openingHours": {
           "weekly": {
@@ -9511,7 +9601,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.185936,
-          "mapLng": 6.140821999999999
+          "mapLng": 6.140821999999999,
+          "placeId": "ChIJa2ysKNB7jEcR_I230ttLfQ0"
         },
         "openingHours": {
           "weekly": {
@@ -9586,7 +9677,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2016042,
-          "mapLng": 6.140503799999999
+          "mapLng": 6.140503799999999,
+          "placeId": "ChIJH4t0yyN7jEcRnjGlZdlm1AA"
         },
         "openingHours": {
           "weekly": {
@@ -9658,7 +9750,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1985036,
-          "mapLng": 6.1388396
+          "mapLng": 6.1388396,
+          "placeId": "ChIJW0KJUDFljEcRt5xEoeULR2U"
         },
         "openingHours": {
           "weekly": {
@@ -9734,7 +9827,8 @@
           "addressLine2": "1207 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2040668,
-          "mapLng": 6.1586818
+          "mapLng": 6.1586818,
+          "placeId": "ChIJ_QWVJzdljEcRX4LJarpPcJs"
         },
         "openingHours": {
           "weekly": {
@@ -9809,7 +9903,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.19890213,
-          "mapLng": 6.145166397
+          "mapLng": 6.145166397,
+          "placeId": "ChIJn67fJtVkjEcRfCOpE503XZE"
         },
         "openingHours": {
           "weekly": {
@@ -9889,7 +9984,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1853998,
-          "mapLng": 6.1456988
+          "mapLng": 6.1456988,
+          "placeId": "ChIJ_bhc2_d7jEcR3ZI6-4pGIOY"
         },
         "openingHours": {
           "weekly": {
@@ -9963,7 +10059,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.1878743,
-          "mapLng": 6.140251200000001
+          "mapLng": 6.140251200000001,
+          "placeId": "ChIJEQlwLth6jEcRc0NH-FaoyZA"
         },
         "openingHours": {
           "weekly": {
@@ -10114,7 +10211,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.20028629999999,
-          "mapLng": 6.1513522
+          "mapLng": 6.1513522,
+          "placeId": "ChIJ_ZJnHgBljEcR2DutSDuzUHU"
         },
         "openingHours": {
           "weekly": {
@@ -10190,7 +10288,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.19890213,
-          "mapLng": 6.145166397
+          "mapLng": 6.145166397,
+          "placeId": "ChIJn67fJtVkjEcRfCOpE503XZE"
         },
         "openingHours": {
           "weekly": {
@@ -10330,7 +10429,8 @@
           "addressLine2": "1205 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.1989327,
-          "mapLng": 6.1381708
+          "mapLng": 6.1381708,
+          "placeId": "ChIJVWPHHtVkjEcRm8_NgLekklM"
         },
         "openingHours": {
           "weekly": {
@@ -10435,7 +10535,8 @@
           "addressLine2": "1202 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2253381,
-          "mapLng": 6.138763399999999
+          "mapLng": 6.138763399999999,
+          "placeId": "ChIJmxOfleRkjEcRo2g7tuMJaBk"
         },
         "openingHours": {
           "weekly": {
@@ -10509,7 +10610,8 @@
           "addressLine2": "1202 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2253381,
-          "mapLng": 6.138763399999999
+          "mapLng": 6.138763399999999,
+          "placeId": "ChIJmxOfleRkjEcRo2g7tuMJaBk"
         },
         "openingHours": {
           "weekly": {
@@ -10583,7 +10685,8 @@
           "addressLine2": "1201 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.2078407,
-          "mapLng": 6.145207
+          "mapLng": 6.145207,
+          "placeId": "ChIJefn5JNVkjEcRY69AqqcSKAk"
         },
         "openingHours": {
           "weekly": {
@@ -10749,7 +10852,8 @@
           "addressLine2": "1254 Jussy",
           "addressCountry": "Suisse",
           "mapLat": 46.2369152,
-          "mapLng": 6.2561596
+          "mapLng": 6.2561596,
+          "placeId": "ChIJ-9evKXNvjEcRISxKsa-kRJI"
         },
         "openingHours": {
           "weekly": {
@@ -10824,7 +10928,8 @@
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
           "mapLat": 46.18253379999999,
-          "mapLng": 6.1413501
+          "mapLng": 6.1413501,
+          "placeId": "ChIJr73JpN56jEcRCRxjzQ-DnQg"
         },
         "openingHours": {
           "weekly": {
@@ -10897,7 +11002,8 @@
           "addressLine2": "1204 Genève",
           "addressCountry": "Suisse",
           "mapLat": 46.20396330000001,
-          "mapLng": 6.135971
+          "mapLng": 6.135971,
+          "placeId": "ChIJjQRxuNZkjEcRZUTlS7wTEXQ"
         },
         "openingHours": {
           "weekly": {
@@ -10969,7 +11075,8 @@
           "addressLine2": "1228 Plan-les-Ouates",
           "addressCountry": "Suisse",
           "mapLat": 46.1647721,
-          "mapLng": 6.103385
+          "mapLng": 6.103385,
+          "placeId": "ChIJfdfc7Op7jEcRiSMwirD1ecI"
         },
         "openingHours": {
           "weekly": {
