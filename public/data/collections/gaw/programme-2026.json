@@ -5,8 +5,8 @@
   "id": "programme-2026",
   "path": "/programme-2026",
   "sourceUrl": "https://genevaartweek.com/programme-2026?format=json",
-  "updatedAt": "2026-11-16T17:05:39.717Z",
-  "sourceHash": "360a52011459d7ba487d79c165b33a92353ca35c6028ee252211179699649ea2",
+  "updatedAt": "2026-11-17T16:08:07.653Z",
+  "sourceHash": "cb8acf1d781a16a4b12f58576c853bb92d4ec5e9c363d9b991cba64e731f1db7",
   "count": 156,
   "pages": 8,
   "items": [
@@ -3431,7 +3431,7 @@
           "addressTitle": "Kreëmart",
           "addressLine1": "",
           "addressLine2": "",
-          "addressCountry": "Suisse"
+          "addressCountry": ""
         },
         "openingHours": {
           "weekly": {
@@ -4390,7 +4390,7 @@
           "addressTitle": "Kreëmart",
           "addressLine1": "",
           "addressLine2": "",
-          "addressCountry": "Suisse"
+          "addressCountry": ""
         },
         "openingHours": {
           "weekly": {
@@ -5413,11 +5413,12 @@
         "matchedBy": "Membre",
         "location": {
           "addressTitle": "Atelier Maison Potter",
-          "addressLine1": "Chemin de Pinchat 22bis",
+          "addressLine1": "Chemin de Pinchat 22",
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
-          "mapLat": 46.1774056,
-          "mapLng": 6.1445234
+          "mapLat": 46.1775793,
+          "mapLng": 6.1454555,
+          "placeId": "ChIJ784Ql-d6jEcRV6eFqR9Fbpo"
         },
         "openingHours": {
           "weekly": {
@@ -8456,11 +8457,12 @@
         "matchedBy": "Membre",
         "location": {
           "addressTitle": "Atelier Maison Potter",
-          "addressLine1": "Chemin de Pinchat 22bis",
+          "addressLine1": "Chemin de Pinchat 22",
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
-          "mapLat": 46.1774056,
-          "mapLng": 6.1445234
+          "mapLat": 46.1775793,
+          "mapLng": 6.1454555,
+          "placeId": "ChIJ784Ql-d6jEcRV6eFqR9Fbpo"
         },
         "openingHours": {
           "weekly": {
@@ -8527,11 +8529,12 @@
         "matchedBy": "Membre",
         "location": {
           "addressTitle": "Atelier Maison Potter",
-          "addressLine1": "Chemin de Pinchat 22bis",
+          "addressLine1": "Chemin de Pinchat 22",
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
-          "mapLat": 46.1774056,
-          "mapLng": 6.1445234
+          "mapLat": 46.1775793,
+          "mapLng": 6.1454555,
+          "placeId": "ChIJ784Ql-d6jEcRV6eFqR9Fbpo"
         },
         "openingHours": {
           "weekly": {

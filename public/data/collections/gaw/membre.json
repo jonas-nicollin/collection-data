@@ -5,8 +5,8 @@
   "id": "membre",
   "path": "/membre",
   "sourceUrl": "https://genevaartweek.com/membre?format=json",
-  "updatedAt": "2026-11-16T17:05:39.774Z",
-  "sourceHash": "4690d702b1a65d8654ffea26861ab87a88e2e502ae7801f67f63292071da103b",
+  "updatedAt": "2026-11-17T16:08:07.739Z",
+  "sourceHash": "8681502d4af57eb75bc6a5357f35159a0073bed9562cc615af510d4b36ea7b14",
   "count": 93,
   "pages": 1,
   "items": [
@@ -411,11 +411,12 @@
         "matchedBy": "title",
         "location": {
           "addressTitle": "Atelier Maison Potter",
-          "addressLine1": "Chemin de Pinchat 22bis",
+          "addressLine1": "Chemin de Pinchat 22",
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
-          "mapLat": 46.1774056,
-          "mapLng": 6.1445234
+          "mapLat": 46.1775793,
+          "mapLng": 6.1454555,
+          "placeId": "ChIJ784Ql-d6jEcRV6eFqR9Fbpo"
         },
         "openingHours": {
           "weekly": {
@@ -3318,7 +3319,7 @@
           "addressTitle": "Kreëmart",
           "addressLine1": "",
           "addressLine2": "",
-          "addressCountry": "Suisse"
+          "addressCountry": ""
         },
         "openingHours": {
           "weekly": {
@@ -5223,8 +5224,9 @@
           "addressLine1": "Rue Jacques-Grosselin 50C",
           "addressLine2": "1227 Carouge",
           "addressCountry": "Suisse",
-          "mapLat": 46.1809357,
-          "mapLng": 6.136984300000001
+          "mapLat": 46.180791199999994,
+          "mapLng": 6.137080699999999,
+          "placeId": "ChIJpfDcDXh7jEcRZrUob8-IisQ"
         },
         "openingHours": {
           "weekly": {
