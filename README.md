@@ -122,3 +122,11 @@ Duplicate names belonging to different places remain ambiguous; no place is
 chosen arbitrarily. Native `location` stays unchanged unless replaceLocation
 is explicitly enabled. Rejoining clears obsolete venue/venueMatch diagnostics.
 
+
+GAW keeps one editable weekly schedule (`Opening Hours`). Its opt-in
+`legacyDaysFromWeeklyHours: true` also derives the legacy Monday–Sunday output
+fields from that schedule. Other sources retain their existing day-column
+behavior. GAW images and categories come from Squarespace; the contact sheet
+no longer stores Image, Image Position, Structure Type or Themes. Verification
+notes live in a separate `Verification` tab, outside the exported source tab.
+GAW does not supply a fallback country when its postal address is unknown.

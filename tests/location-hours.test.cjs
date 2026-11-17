@@ -32,3 +32,14 @@ test('Malformed, duplicate and impossible dates fail instead of publishing', () 
     assert.throws(()=>context.parseHoursLines(value,true));
   assert.throws(()=>context.parseHoursLines('lundi: Fermé\nlundi: 11h–18h',false));
 });
+
+
+test('Canonical weekly hours can retain legacy day fields after sheet cleanup', () => {
+  const row={Location:'Example','Opening Hours':'lundi: Fermé\nmardi: 11h–18h'};
+  const config={columns:{hours:['Opening Hours']},legacyDaysFromWeeklyHours:true};
+  const current=context.normalizeLocation(row,config);
+  assert.equal(current.lundi,'Fermé');
+  assert.equal(current.mardi,'11h–18h');
+  assert.equal(current.mercredi,'-');
+  assert.equal(context.normalizeLocation(row,{columns:config.columns}).lundi,'-');
+});

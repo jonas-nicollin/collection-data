@@ -227,6 +227,13 @@ function normalizeLocation(row, config) {
     };
   }
 
+  // Opt-in migration: retain the legacy shape after removing editable day columns.
+  if (config.legacyDaysFromWeeklyHours && weekly) {
+    for (const day of Object.values(DAY_FIELD_TO_OUTPUT)) {
+      location[day] = location.openingHours.weekly[day] || '-';
+    }
+  }
+
   return location;
 }
 
