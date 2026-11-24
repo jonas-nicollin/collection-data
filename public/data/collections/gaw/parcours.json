@@ -5,8 +5,8 @@
   "id": "parcours",
   "path": "/parcours",
   "sourceUrl": "https://genevaartweek.com/parcours?format=json",
-  "updatedAt": "2026-11-24T13:28:41.072Z",
-  "sourceHash": "43cdfe0ea5aaa9fa057f2219fca44d27ef1711d4f41fe1be5ad542bc39bb461a",
+  "updatedAt": "2026-11-24T13:38:27.335Z",
+  "sourceHash": "6f3031de8d35fb2673f965326cb5dd438a5dd2c5522ec111fa739ebcef5c73e8",
   "count": 3,
   "pages": 1,
   "items": [
@@ -54,10 +54,10 @@
       "title": "Mighela Shama",
       "fullUrl": "/parcours/mighela-shama",
       "urlId": "mighela-shama",
-      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1793630058120-7GTGK0EOZS0010TW139L/mighela-shama.jpg",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1795527474042-PS9U7U7GPLRI0V4DTPF6/Freunde-von-Freunden-ShannonKone-SamChermayeff-AuswahlKlein-59-1-1200x1800.jpg",
       "mediaFocalPoint": {
-        "x": 0.4008878794135866,
-        "y": 0.2738349920937587,
+        "x": 0.49107142857142855,
+        "y": 0.375,
         "source": 3
       },
       "categories": [],
@@ -82,10 +82,10 @@
       "starred": false,
       "publishOn": 1793626764415,
       "addedOn": 1793626764415,
-      "updatedOn": 1795526617954,
+      "updatedOn": 1795527488585,
       "imageDimensions": {
-        "width": 1500,
-        "height": 1667
+        "width": 1200,
+        "height": 1800
       }
     },
     {
