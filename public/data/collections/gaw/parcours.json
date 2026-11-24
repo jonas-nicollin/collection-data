@@ -5,8 +5,8 @@
   "id": "parcours",
   "path": "/parcours",
   "sourceUrl": "https://genevaartweek.com/parcours?format=json",
-  "updatedAt": "2026-11-23T16:28:03.550Z",
-  "sourceHash": "34c0302f694af3cfc4b8a6cf5117d76324ad2a0c4edc35e3e6b55effc40c7dfa",
+  "updatedAt": "2026-11-24T08:17:58.455Z",
+  "sourceHash": "c6ca3250e5f77251cfcf44bf6883a621c164592d023a54c01514d716fc82cad4",
   "count": 3,
   "pages": 1,
   "items": [
@@ -56,8 +56,8 @@
       "urlId": "mighela-shama",
       "assetUrl": "https://images.squarespace-cdn.com/content/v1/681a007f6f3cac6d5d03b4c2/1793630058120-7GTGK0EOZS0010TW139L/mighela-shama.jpg",
       "mediaFocalPoint": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 0.4008878794135866,
+        "y": 0.2738349920937587,
         "source": 3
       },
       "categories": [],
@@ -82,7 +82,7 @@
       "starred": false,
       "publishOn": 1793626764415,
       "addedOn": 1793626764415,
-      "updatedOn": 1795450774931,
+      "updatedOn": 1795508258796,
       "imageDimensions": {
         "width": 1500,
         "height": 1667
