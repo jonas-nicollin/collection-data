@@ -5,8 +5,8 @@
   "id": "parcours",
   "path": "/parcours",
   "sourceUrl": "https://genevaartweek.com/parcours?format=json",
-  "updatedAt": "2026-11-26T13:28:19.000Z",
-  "sourceHash": "c1fe1234c9f166f317f4f4b0809c72edf878eb61141d17ce453bc0c1010f8530",
+  "updatedAt": "2026-11-26T17:28:20.913Z",
+  "sourceHash": "05fb98c92c07d0aa092093c5b617f856fb7dc48c3fa28a4932c7b5605c2a8161",
   "count": 3,
   "pages": 1,
   "items": [
@@ -43,7 +43,7 @@
       "starred": false,
       "publishOn": 1793630437860,
       "addedOn": 1793630437860,
-      "updatedOn": 1795695420581,
+      "updatedOn": 1795714040599,
       "imageDimensions": {
         "width": 2000,
         "height": 1333
@@ -82,7 +82,7 @@
       "starred": false,
       "publishOn": 1793626764415,
       "addedOn": 1793626764415,
-      "updatedOn": 1795696083962,
+      "updatedOn": 1795713878716,
       "imageDimensions": {
         "width": 1200,
         "height": 1800
@@ -121,7 +121,7 @@
       "starred": false,
       "publishOn": 1793387455366,
       "addedOn": 1793387455366,
-      "updatedOn": 1795699431090,
+      "updatedOn": 1795713825182,
       "imageDimensions": {
         "width": 1200,
         "height": 1800
