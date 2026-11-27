@@ -5,8 +5,8 @@
   "id": "parcours",
   "path": "/parcours",
   "sourceUrl": "https://genevaartweek.com/parcours?format=json",
-  "updatedAt": "2026-11-27T12:28:17.330Z",
-  "sourceHash": "ca4ffee407fedd9672c0c4624a4cc620367fb2bb1509abeb7c18175a14c9f8d5",
+  "updatedAt": "2026-11-27T12:38:13.670Z",
+  "sourceHash": "1930550e7261c59780d005e499e352852f22bbbac0a224cd495bc446ef8d0551",
   "count": 3,
   "pages": 1,
   "items": [
@@ -62,7 +62,9 @@
         "y": 0.375,
         "source": 3
       },
-      "categories": [],
+      "categories": [
+        "Parcours"
+      ],
       "tags": [
         "Fonction: Fondatrice de SOMA",
         "Nom de famille: Shama",
@@ -84,7 +86,7 @@
       "starred": false,
       "publishOn": 1793626764415,
       "addedOn": 1793626764415,
-      "updatedOn": 1795713878716,
+      "updatedOn": 1795782500720,
       "imageDimensions": {
         "width": 1200,
         "height": 1800
@@ -101,7 +103,9 @@
         "y": 0.42261904761904767,
         "source": 3
       },
-      "categories": [],
+      "categories": [
+        "Parcours"
+      ],
       "tags": [
         "Fonction: Historien de l’art et commissaire d’exposition",
         "Nom de famille: Bovier",
@@ -123,7 +127,7 @@
       "starred": false,
       "publishOn": 1793387455366,
       "addedOn": 1793387455366,
-      "updatedOn": 1795713825182,
+      "updatedOn": 1795782509979,
       "imageDimensions": {
         "width": 1200,
         "height": 1800
