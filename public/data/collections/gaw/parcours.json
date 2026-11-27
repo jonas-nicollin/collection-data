@@ -5,8 +5,8 @@
   "id": "parcours",
   "path": "/parcours",
   "sourceUrl": "https://genevaartweek.com/parcours?format=json",
-  "updatedAt": "2026-11-26T17:38:19.288Z",
-  "sourceHash": "908f861f5838d01d56d3156b3a50e8d6c9f438dffc1139e965c9b166a9ea371d",
+  "updatedAt": "2026-11-27T12:28:17.330Z",
+  "sourceHash": "ca4ffee407fedd9672c0c4624a4cc620367fb2bb1509abeb7c18175a14c9f8d5",
   "count": 3,
   "pages": 1,
   "items": [
@@ -21,7 +21,9 @@
         "y": 0.3988280705017905,
         "source": 3
       },
-      "categories": [],
+      "categories": [
+        "Parcours"
+      ],
       "tags": [
         "Fonction: Artiste",
         "Nom de famille: Rist",
@@ -43,7 +45,7 @@
       "starred": false,
       "publishOn": 1793630437860,
       "addedOn": 1793630437860,
-      "updatedOn": 1795714103325,
+      "updatedOn": 1795782484375,
       "imageDimensions": {
         "width": 2000,
         "height": 1333
